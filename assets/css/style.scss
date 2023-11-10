@@ -16,6 +16,28 @@ body {
   height: 100vh;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/img/no-contempt.png');
   background-size: cover;
+  background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+/* Adjustments for screens where height is greater than width */
+@media screen and (orientation: portrait) {
+  body {
+    background-size: contain;
+  }
+}
+
+// // Define your maroon color
+// $maroon: #800000;
+//
+// // Override heading colors
+// body h1, body h2, body h3, body h4, body h5, body h6, pre  {
+//   color: $maroon;
+// }
+//
+// // If you also want to override horizontal rule colors
+// body hr {
+//   background-color: $maroon;
+//   border-color: $maroon;
+// }
