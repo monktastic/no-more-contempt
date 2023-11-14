@@ -144,7 +144,7 @@ While it is surely true that "evil wins when good people do nothing," the only t
 (Also note that "good people" as used here can be problematic since it implies the existence of fundamentally "bad people.")
 
 
-### You mentioned psychedelics. How can they help?
+### The role of psychedelics
 
 This deserves its own piece. For now, I'll just share this question and answer from a [forum](https://web.archive.org/web/20150628081721/http://duncantrussell.com/forum/discussion/89/a-blessed-curse-psilocybinempathy/p1):
 
@@ -190,48 +190,6 @@ Sorry, that's not the intent. I am a complete hypocrite and have no right to lec
 
 I made it with DALL-E 3. [Here it is](img/buddha.png).
 
-
----
-
-## Other notes
-
-- Coming into contact with your "inner light" provides the profound psychological safety required to uncover and hold the full depth of your complicity in the world. You can then offer this same gift to others—though if it still feels like there is a "you" and "others," there is work left to be done.
-
-
-- I think we should popularize the idea of "herd immunity to evil." When in a contemptuous crowd or atmosphere, it is very easy to get swept up yourself. But if you're aware of this dangerous pattern and resistant to it, you provide a kind of "buffer" for others. The more people who do this, the harder it is for evil to spread.
-
-
-- Even before it turns into full-blown contempt, there can be a subtle tendency to assume bad faith in a person. You feel it as a kind of hardening of your heart. This rapidly results in a downward spiral, as you subtly provoke them into confirming your suspicion. We do this _all the time_.
-
-  Obviously people _do_ sometimes act in bad faith, and we must protect ourselves, but it's crucial to stay alert for any budding contempt.
-
-
-- Revenge fantasy films (like The Equalizer) and those "[Karens Getting Owned](https://www.youtube.com/watch?v=88CqPl_HqS4)" YouTube videos exist only to stoke our darkness. They are a manifestation of our evil—again, masquerading as our goodness. Notice how they feel _so goddamn righteous._ That's it: that's the feeling.
-
-
-- "Outrage" can mean (healthy) anger directed at correcting an injustice, but it quickly gets corrupted into self-righteous indignation. Similarly, "judgement" can refer to wise discernment, but it quickly devolves into disdain. Just like "compassion" doesn't really mean "being nice," these words get redefined by our evil so that we make a mess of what is actually quite simple.
-
-
-- When you fight people using contempt, you can feel your evil allying with theirs. Conversely, when you fight them with compassion, you can feel your inner light allying with theirs. Part of them (and bystanders) can sense what's really happening, and this makes all the difference. It provides them with the safety to confront their misbehavior while not letting them off the hook for it.
-
-
-- You know the classic angel and devil ont the shoulder? The angel is your inner light, and is intrinsic to you. The devil is your evil, and he doesn't just whisper bad ideas into your ear: he alters your very perception.
-
-
-- "We judge ourselves by our intentions and others by their behavior" — Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
-
----
-
-## Misc
-
-> But some unresolved emotional issues remained. For a start, I still felt that I had been victimized by this person. I felt hurt. To resolve this, I needed to face all the things this person’s deliberate and ruthless dishonesty had stirred up within my dark side. I succeeded in doing so mainly by looking at examples of situations where I had deliberately lied. Why had I lied? How had I justified it to myself? I kept reflecting on such situations where I had been a liar. Eventually I reached the point where I could clearly see that this person had essentially been doing nothing different from me.
->
->...
->
->Incidentally, emotional forgiveness doesn't mean I might not take some form of legal action or register a complaint with a regulatory authority. But it does mean I’ll no longer be hanging onto feelings of resentment or victimization or hate, etc.
-
-
-> _Wisdom without compassion is ruthlessness and compassion without wisdom is folly._ —Fred Kofman
 
 ---
 
