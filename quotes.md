@@ -14,7 +14,7 @@
 
 ---
 
-### On awakening through psychedelics
+### Psychedelics
 
 A Q&A from an online web forum (emphasis mine):
 
@@ -29,6 +29,13 @@ A Q&A from an online web forum (emphasis mine):
 > *Nail on the head brother. My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was [tied to a tree and burned alive](https://www.survivalinternational.org/news/8033) in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
 >
 > *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
+
+---
+
+> So I had what you call "sonder", a moment of clarity where I realized that I wasn't the center of the universe, that everyone is just as important as me, everyone has loved ones, stories of lost love etc, they're the main character in their own movies.
+>
+> That's when shit went quantum. All these stories begun sinking in to me. It was as if I was beginning to experience their stories simultaneously. And not just their stories, I began seeing the story of everyone I had ever met in my entire life flash before my eyes. And in this quantum experience, there was a voice that said something about karma. The voice told me that the plane will crash and that I will be reborn again until the quota of my karma is at -+0. So, for every ill deed I have done, I would have an ill deed committed to me. For every cheap T-shirt I purchased in my previous life, I would live the life of the poor Asian sweatshop worker sewing that T-shirt.
+
 
 
 From a first-time user of the empathogen MDMA (emphasis mine):

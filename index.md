@@ -17,8 +17,14 @@ Mocking our political enemies is fun because we get to see them hurt, quite inde
 
 The feeling can also be much more subtle and brief, as when we mutter "idiot" under our breath at a bad driver. But if left unchecked, this attitude becomes a self-fulfilling prophecy. Perhaps a part of us secretly _wants_ that...
 
-- [Intro](intro.md)
-- [The "evil conspiracy"](http://www.contemptisevil.org)
+---
+
+Also, note that we make liberal use of the word "evil." This word should be understood in its most general sense, as the opposite of "good." We will examine its nature and causes.
+
+- [Chapter 1: A mental illness](mental-illness.md)
+- [Chapter 2: The "evil conspiracy"](http://www.contemptisevil.org)
+
+
 - [FAQ / glossary](faq.md)
 - [Miscellaneous notes](misc.md)
 - [Quotes](quotes.md)
