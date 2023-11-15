@@ -2,32 +2,34 @@
 
 tl;dr:
  - All evil relies on _self-deception_, a mechanism we all share.
- - Contempt is a form of self-deception: "bad people" are not _fundamentally_ different.
- - Until we recognize this in ourselves, it is impossible to understand how evil operates, and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
+ - Contempt is a form of self-deception, because "bad people" are not _fundamentally_ different.
+ - Until we see what enables our contempt, it is impossible to understand how evil operates, and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
 
 Trigger warning: reading about how we are "spreading evil" is not necessarily fun.
+
+---
 
 > _Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply._ —Roland Niebuhr
 
  Have you ever done something that deep down you felt was wrong, but convinced yourself it was okay? Really try to recall what that state was like. You knew perfectly well that what you were doing was wrong, but that knowledge was carefully hidden from conscious self-reflection. This is **self-deception**. Part of you _knows_ and part of you _doesn't._ The part that knows its wrong is your **conscience** (not to be confused with "consciousness"). It is the voice of the deepest aspect of your mind.
 
-Self-deception is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it. Conversely, you yourself are capable of almost anything under the right circumstances. 
+Self-deception is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances. 
 
-When you hear a lying, hypocritical CEO / politician / banker etc., part of them _knows_ that they are being deceitful, which makes you (rightfully) angry. At the same time, the wrongness is carefully shielded from conscious self-reflection — and contempt just drives it deeper underground.
+When you hear a lying, hypocritical CEO / politician / banker / whatever, part of them _knows_ that they are being deceitful, which makes you (rightfully) angry. At the same time, the _wrongness_ is carefully shielded from conscious self-reflection — and contempt just drives that knowledge deeper underground. Far from changing their mind, they double down.
 
-**Contempt itself is a self-deceptive behavior.** Seeing "bad people" get hurt is pleasurable, quite independently of any good it does. In fact, it is even *more* enjoyable if they double down on their evil, because that licenses us to escalate our righteous violence — which is an _intoxicatingly delicious_ feeling. So we subconsciously try to ensure that this outcome occurs — and then very cleverly hide this fact from ourselves, to maintain our self-image as "good people"[^self-image].
+Part of us _knows_ that this will happen, and that it is likely to lead to even more evil, but as long as it makes us look _good_ (to ourselves or others)[^self-image], we studiously overlook this. In fact, we _want_ it to happen, because it not only vindicates our perception of them as evil; it licenses us to escalate our righteous violence — which is an _intoxicatingly delicious_ feeling. We do not consciously register any of this. That is why **contempt is profound self-deception.**
 
-Our "victim" can subconsciously sense that we're doing this, which makes them perceive _us_ as evil, which causes them to double down. Mission accomplished. In other words, self-deception begets self-deception. This is a general principle. It is **why evil begets evil**.
+Our "victim" can subconsciously sense that we're doing this, which makes them perceive _us_ as evil, which causes them to double down. _Mission accomplished:_ our desire to see them as evil has made them more evil, while also hiding any trace of any complicity. That is why we need to see them as _fundamentally_ bad: it leaves no doubt that our malice is good.
 
-We are more than happy to harm others _and_ increase the evil in the world, provided we have plausible deniability (harming "bad people" is inherently good). We do this to serve our egos. **Until we see this clearly, it is impossible to understand the fiendish mechanism that allows evil people to feel okay about what they do** — and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
+What happened is that our self-deception deepend theirs. In fact, if you are perceptive enough, it almost feels like a dark entity in your mind reached out through your eyes and into theirs, shaking hands with the darkness in _them._ On the surface, you may be enemies, but your darkness is secretly allied.
 
-**It's easy to convince ourselves that our unkind behavior is a "net good" (ends justify the means), but the more forcefully your mind is selling you this story, the more surely you are engaged in self-deception — not just here, but elsewhere in life, too.** This means you are leaking evil somewhere, somehow, in some way that you are not yet aware of.
-    
-This is not to say that harming bad people is always wrong! Sometimes it is absolutely the right thing to do. But it feels very different when done without self-deception, and has a very different outcome (as we mentioned in ch 1 and will see again later). There will be no feeling of _justification._
+**Until we see how we are doing this and cleverly hiding it from ourselves, it is impossible to understand the fiendish mechanism that allows "evil people" to feel okay about what they do** — and thus to do anything genuinely useful about it. Instead, we are just liable to cause _more_ harm somewhere, somehow, in some way that we will not be aware of. It doesn't even have to be direct (as with a face-to-face encounter): somehow, the darkness in our mind always finds a way to leak into the world.
 
-The more a person engages in self-deception, the less they can hear their conscience, until they don't even remember that they have one — but the conscience _itself_ never fades. The person feels less like they are justifying evil and more like they desire evil. This is a spectrum; there is no fixed dividing line separating "good" and "bad" people. This is the sense in which nobody is "fundamentally" morally defective (the basis of contempt).
+To repeat an important caveat from the previous chapter: it is not the harming of the person that is intrinsically wrong. Sometimes that is the right answer. But when it is malicious, our minds enter a shadowy space in which more is happening than meets the (untrained) eye.
 
-The more clearly you see this, the less "evil" you see and the more self-deception you see. You begin to detect subtle self-deception in all kinds of places that you wouldn't have described (or recognized) as "evil" before. It has a certain *feeling*. You now see it's the same phenomenon, and it is ubiquitous, even amongst "good people."
+Deep down, we _know_ that we are not "fundamentally" better than anyone, and thus that our contempt is unjustified. Why does it _feel_ so justified? Because the harder we try to differentiate ourselves from the "bad people," the more this backfires, so the harder we have to hide it, resulting in a feedback loop that very quickly becomes impossible to admit to ourselves.
+
+The more clearly you see this, the less "evil" you see in the world and the more self-deception you see. You begin to detect subtler forms of it in all kinds of places that you wouldn't have described (or recognized) as "evil" before: tiny ways in which we try to shave a little corner off the world here or there to benefit ourselves, or tell white lies to support our beliefs. It has a certain *feeling*, and it is ubiquitous.
 
 As your vision becomes more subtle, an ominous picture begins to emerge...
 
