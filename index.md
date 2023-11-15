@@ -3,7 +3,7 @@ We know that being kind is the "right thing to do" in most situations, but thing
 
 But what if there is a sense in which kindness (properly defined) is _always_ the right thing to do, and our "innocent" deviation from it is responsible for tremendously more suffering than we realize? 
 
-This site is a collection of pieces exploring that theme.
+This site is a collection of pieces exploring that question.
 
 ---
 
@@ -15,20 +15,29 @@ Genocides can only be carried out when people believe their victims are sub-huma
 
 In this dark place, all goodwill is lost. 
 
-Mocking our political enemies is innocent fun, because we get to see bad people get hurt. This enjoyment is quite independent of whether our behavior somehow makes a positive difference in the world — though, of course, we must _tell_ ourselves that it does. Our "victim" cannot be fixed, so it is only right to punish them — and what more humane way than to subtly communicate, through our eyes and voice, how worthless they are? That is how it usually starts, but rarely how it ends.
+Mocking our political enemies is "innocent" fun, because we get to see bad people get hurt. This enjoyment is quite independent of whether our behavior somehow makes a positive difference in the world — though, of course, we must _tell_ ourselves that it does. Our "victim" cannot be fixed, so it is only right to punish them — and what more humane way than to subtly communicate, through our eyes and voice, how worthless they are? That is how it usually starts, but rarely how it ends.
 
-The feeling can also be much more subtle and brief, as when we mutter "idiot" under our breath at a bad driver. But if left unchecked, this attitude becomes a self-fulfilling prophecy. And when _all_ of us are doing that, well... the result is bad, as we shall see.
+The feeling can also be much more subtle and brief, as when we mutter "idiot" under our breath at a bad driver, or even just suspicion and uncharitability toward a dialogue partner. But if left unchecked, this attitude becomes a self-fulfilling prophecy. And when _all_ of us are doing that, well... the result is bad, as we shall see.
 
 ---
 
 Note that we make liberal use of the word "evil." This word should be understood in its most general sense, as the opposite of "good." We will examine its nature and causes.
 
-- [Chapter 1: A mental illness](mental-illness.md)
-- [Chapter 2: The "evil conspiracy"](http://www.contemptisevil.org)
+- [Chapter 1: A mental illness](chapters/mental-illness.md)
+- [Chapter 2: Self-deception](chapters/self-deception.md)
+- [Chapter 3: The "evil conspiracy"](chapters/evil-conspiracy.md)
+- [Chapter 4: The light at the end of the tunnel](chapters/the-light.md)
+- [Chapter 5: The metaphysics of good and evil](chapters/metaphysics.md)
+- [Interlude: Psychedelics, NDEs, etc.](chapters/psychedelics.md)
+- [Chapter 6: Compassion](chapters/compassion.md)
+- [Chapter 7: The climate crisis](chapters/climate-crisis.md)
 
+---
 
 - [FAQ / glossary](faq.md)
 - [Miscellaneous notes](misc.md)
 - [Quotes](quotes.md)
+
+---
 
 [^genocide]: The Nazis referred to Jews as 'vermin' and during the genocide in Rwanda, Tutsis were referred to as 'cockroaches.' This is a common pattern throughout history.

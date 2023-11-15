@@ -37,7 +37,6 @@ A Q&A from an online web forum (emphasis mine):
 > That's when shit went quantum. All these stories begun sinking in to me. It was as if I was beginning to experience their stories simultaneously. And not just their stories, I began seeing the story of everyone I had ever met in my entire life flash before my eyes. And in this quantum experience, there was a voice that said something about karma. The voice told me that the plane will crash and that I will be reborn again until the quota of my karma is at -+0. So, for every ill deed I have done, I would have an ill deed committed to me. For every cheap T-shirt I purchased in my previous life, I would live the life of the poor Asian sweatshop worker sewing that T-shirt.
 
 
-
 From a first-time user of the empathogen MDMA (emphasis mine):
 
 > *My mind brought up memories of being hit by my parents. I felt warmth and love towards them. I could see the bigger frame of everything and expanded my compassion towards them. I could feel their own confusion and see the love behind their actions. I could see them as children. … So, my basic view of the world began to shift. … Instead of seeing myself as a shit-sandwich with occasional bright moments, **I saw myself as basically good with some bad habits I picked up along the way... a white screen with some dark spots.***
@@ -64,11 +63,11 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 > _If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?_ —Alexander Solzhenitsyn
 
 
-> But some unresolved emotional issues remained. For a start, I still felt that I had been victimized by this person. I felt hurt. To resolve this, I needed to face all the things this person’s deliberate and ruthless dishonesty had stirred up within my dark side. I succeeded in doing so mainly by looking at examples of situations where I had deliberately lied. Why had I lied? How had I justified it to myself? I kept reflecting on such situations where I had been a liar. Eventually I reached the point where I could clearly see that this person had essentially been doing nothing different from me.
+> _But some unresolved emotional issues remained. For a start, I still felt that I had been victimized by this person. I felt hurt. To resolve this, I needed to face all the things this person’s deliberate and ruthless dishonesty had stirred up within my dark side. I succeeded in doing so mainly by looking at examples of situations where I had deliberately lied. Why had I lied? How had I justified it to myself? I kept reflecting on such situations where I had been a liar. Eventually I reached the point where I could clearly see that this person had essentially been doing nothing different from me._
 >
 >...
 >
->Incidentally, emotional forgiveness doesn't mean I might not take some form of legal action or register a complaint with a regulatory authority. But it does mean I’ll no longer be hanging onto feelings of resentment or victimization or hate, etc.
+> _Incidentally, emotional forgiveness doesn't mean I might not take some form of legal action or register a complaint with a regulatory authority. But it does mean I’ll no longer be hanging onto feelings of resentment or victimization or hate, etc._
 
 ---
 
