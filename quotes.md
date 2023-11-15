@@ -49,7 +49,7 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 >
 > *We need to receive love from those who have sent it to us just as we are, with all our flaws, in order to relax into the deeper goodness within us that always deserves such love and to heal there. Then we can offer a love in turn that embraces others with similar flaws, that touches in on their intrinsic worth, mirrors their goodness back at them, and doesn’t give up on them no matter what.*
 >
-> -- John Makransky
+> — John Makransky
 
 > *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* — Herman Hesse
 

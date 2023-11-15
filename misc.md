@@ -16,3 +16,6 @@
 
 
 - Coming into contact with your "inner light" (see [FAQ](faq.md)) provides the profound psychological safety required to uncover and hold the full depth of your complicity in the world. You can then offer this same gift to others—though if it still feels like there is a "you" and "others," there is work left to be done.
+
+
+- You know how you can sense when someone is out "looking for trouble" — and how they somehow usually seem to find it? A contemptuous attitude is like that.
