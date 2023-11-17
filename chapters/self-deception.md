@@ -12,7 +12,7 @@ Trigger warning: reading about how we are "spreading evil" is not necessarily fu
 
 > _Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply._ —Roland Niebuhr
 
-> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
+> _He who fights monsters should take care lest he himself become a monster._ —Nietzsche
 
 Have you ever done something that deep down you felt was wrong, but convinced yourself it was okay? Really try to recall what that state was like. You knew perfectly well that what you were doing was wrong, but that knowledge was carefully hidden from conscious self-reflection. This is **self-deception**. Part of you _knows_ and part of you _doesn't._ The part that knows its wrong is your **conscience** (not to be confused with "consciousness"). It is the voice of the deepest aspect of your mind.
 
