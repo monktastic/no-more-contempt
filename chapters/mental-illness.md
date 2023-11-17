@@ -40,6 +40,16 @@ Alas, simply _knowing_ that it's harmful doesn't stop it from _feeling_ right. W
 
 ---
 
+## FAQ
+
+### There are some who can be "loved out of" evil, and others who seem to use any kindness as fuel to become _more_ evil. Surely there's a distinction here that matters?
+
+This is a deep and important question. Assuming that evil is always caused by a level of trauma that can be simply "loved" out of a person (in any conventional sense) can indeed be dangerous, and may demonstrate lack of wisdom on our part. It would be a mistake to lump all causes of evil into the same bucket and deal with them in the same way. There are levels to it.
+
+Nevertheless, while the methods may differ, in no case does an underlying malicious intent actually help. Instead, the "deeper" the evil, the easier it is to _convince_ ourselves that contempt is necessary — but this is always self-deception, as we shall soon see. What's actually happening is that their profound darkness is more easily (and cleverly) infecting our minds.
+
+---
+
 > _Like many of you (I'm sure), psilocybin has changed the way I see this world, and the people around me. It has torn my heart open on many occasions and revealed to me how my actions effect other people in ways I would've never imagined. In addition, psilocybin has increased my ability to empathize with people to a degree I never thought possible._
 >
 > _I consider this a blessing, but it has also led me to a very troubling conclusion:_

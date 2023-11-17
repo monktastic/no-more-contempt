@@ -9,3 +9,5 @@ If you find yourself calculating right from wrong, that's a good time to stop an
 
 Everyone knows by now (I hope) that indiscriminately bombing your enemies is bad, not just for them, but for you: it creates more enemies (who are more justified). Contempt is like carpet-bombing the person's mind: you're not isolating the problem, which is their self-deception.
 
+- The more profound their evil, the more easily it spreads to us / captures us.
+
