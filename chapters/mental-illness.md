@@ -4,13 +4,14 @@
 tl;dr: 
 
 - "Evil" is a form of mental illness. Once this is seen clearly, it is obvious that contempt just compounds the problem.
-- Harming such a person may still be the right course of action, but whether we enact this behavior through compassion or contempt makes a big difference.
+- Harming such a person may still be necessary, but whether we enact this behavior through compassion or contempt makes all the difference.
+- The "deeper" their evil, the harder it is for us to recognize why contempt is harmful — and the more dangerous such a failure becomes.
 
 ---
 
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-It is easy to be kind to someone when we can see — or even just *believe* — that some part of them is trying. When we can't, we devolve into contempt. This attitude is lazy and harmful, because there is literally _always_ a part that is trying, buried under a maze of confusion. Contempt just deepens it, making it even more obvious to us that no part of them is trying.
+It is easy to be kind to someone when we can see — or even just *believe* — that some part of them is trying. When we can't, we devolve into contempt. This attitude is lazy and harmful, because there is literally _always_ a part that is trying, buried under a maze of confusion. Contempt just pushes them further in, making it even more obvious to us that no part of them is trying.
 
 Consider depression. Nobody _wants_ to be depressed. Or rather, people may _act_ like they do, and even _say_ that they do — in which case it is probably kindest to believe them — but the very deepest aspect of their mind simply _couldn't_ want such a thing, if it could see clearly what it was choosing. A person may recognize this only after being free of it, and look back on it like a bizarre dream.
 
@@ -42,11 +43,11 @@ Alas, simply _knowing_ that it's harmful doesn't stop it from _feeling_ right. W
 
 ## FAQ
 
-### There are some who can be "loved out of" evil, and others who seem to use any kindness as fuel to become _more_ evil. Surely there's a distinction here that matters?
+### There are some who can be "loved out of" evil, and others who seem to use kindness as _fuel_ for evil. Surely there's a distinction here that matters?
 
-This is a deep and important question. Assuming that evil is always caused by a level of trauma that can be simply "loved" out of a person (in any conventional sense) can indeed be dangerous, and may demonstrate lack of wisdom on our part. It would be a mistake to lump all causes of evil into the same bucket and deal with them in the same way. There are levels to it.
+This is a deep and important question. Assuming that evil is always caused by a level of trauma that can be simply "loved" out of a person (in any conventional sense) can indeed be dangerous, and may demonstrate lack of wisdom on our part. It would be a mistake to lump all causes of evil into the same bucket and deal with them in the same way.
 
-Nevertheless, while the methods may differ, in no case does an underlying malicious intent actually help. Instead, the "deeper" the evil, the easier it is to _convince_ ourselves that contempt is necessary — but this is always self-deception, as we shall soon see. What's actually happening is that their profound darkness is more easily (and cleverly) infecting our minds.
+Nevertheless, while the methods may differ, in no case does an underlying malicious intent actually help. Instead, the "deeper" the evil, the easier it is to _convince_ ourselves that it does — but this is always self-deception, as we shall soon see. What's actually happening is that their profound darkness is more easily (and cleverly) infecting our minds.
 
 ---
 
