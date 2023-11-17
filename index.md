@@ -13,9 +13,9 @@ This site is a collection of pieces exploring that question.
 
 Before we begin, what is contempt? It is easier to describe than define.
 
-Consider how most of us seem to feel about our political opponents these days. They don't just have bad ideas; they seem _defective_ in some fundamental way. How else could they believe the ridiculous things they do (or claim to, anyway)? This _fundamental-ness_ is a defining characteristic of contempt; they are _fundamentally_ beneath us.
+Consider how most of us seem to feel about our political opponents these days. They don't just have terrible ideas; they seem _defective_ in some fundamental way. How else could they believe what they do (or claim to, anyway)? This _fundamental-ness_ is a defining characteristic of contempt; they are _fundamentally_ beneath us. It is more a feeling than a belief. Any decent human knows that "beneath us" is a dangerous idea, but that doesn't stop us from viscerally feeling it.
 
-Genocides can only be carried out when people believe their victims are sub-human. It's not sufficient for them to be humans with "worse" religions or ethnicities; they must be something... _less_[^genocide]. While our own contempt may not rise to the level of enabling atrocities — yet — it is a milder form of the same phenomenon.
+Genocides can only be carried out when people feel their victims are sub-human. It's not sufficient for them to be humans with "worse" religions or ethnicities; they must be something... _less_[^genocide]. While our own contempt may not rise to the level of enabling atrocities — yet — it is a milder form of the same phenomenon.
 
 In this dark place, all goodwill is lost.
 
