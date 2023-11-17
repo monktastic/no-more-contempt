@@ -13,7 +13,7 @@ This site is a collection of pieces exploring that question.
 
 Before we begin, what is contempt? It is easier to describe than define.
 
-Consider how most of us seem to feel about our political opponents these days. They don't just have bad ideas; they seem _defective_ in some fundamental way. How else could they believe the ridiculous things they do (or claim to, anyway)? This _fundamental-ness_ is a defining characteristic of contempt; we are fundamentally better people than they are.
+Consider how most of us seem to feel about our political opponents these days. They don't just have bad ideas; they seem _defective_ in some fundamental way. How else could they believe the ridiculous things they do (or claim to, anyway)? This _fundamental-ness_ is a defining characteristic of contempt; they are _fundamentally_ beneath us.
 
 Genocides can only be carried out when people believe their victims are sub-human. It's not sufficient for them to be humans with "worse" religions or ethnicities; they must be something... _less_[^genocide]. While our own contempt may not rise to the level of enabling atrocities — yet — it is a milder form of the same phenomenon.
 
@@ -21,7 +21,7 @@ In this dark place, all goodwill is lost.
 
 Mocking our political enemies is "innocent" fun, because we get to see bad people get hurt. This enjoyment is quite independent of whether our behavior somehow makes a positive difference in the world — though, of course, we must _tell_ ourselves that it does. Our "victim" cannot be fixed, so they must be punished — and what more humane way than to subtly communicate, through our eyes and voice, how worthless they are? That is how it usually starts, but rarely how it ends.
 
-The feeling can also be more subtle, as when we are suspicious and uncharitable toward a dialogue partner; and brief, as when we mutter "idiot" under our breath at a bad driver. But if left unchecked, this attitude becomes self-reinforcing. And when _billions_ of us do that, well... take a look around.
+The feeling can also be more subtle, as when we are dismissive or uncharitable toward a dialogue partner; and brief, as when we mutter "idiot" under our breath at a bad driver. But if we let it fester, this attitude can wreak far more havoc than we realize...
 
 ---
 
