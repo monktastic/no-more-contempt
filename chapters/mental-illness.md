@@ -29,7 +29,7 @@ Of *actual* help would be compassion. **Crucially, this doesn't mean being nice*
 
 These are easy to tell apart from the inside if you know where to look — but we train ourselves _not_ to look, and with repeated practice, we forget how. We begin to rely on a dangerous shortcut: _I'm a good person, so obviously my intention is good — and how could it matter anyway?_ Moreover, because they can look so similar from the outside, it's hard for _others_ to tell which one we're doing — at least, consciously.
 
-Yet subconsciously, both we and others _can_ tell whether we're being benevolent or malicious, and so they generate very different long-term consequences. They have profoundly different effects on all minds involved, and this difference ripples outward. This may not be obvious from the immediate (or even second- or third-order) effects, but again, a deep part of us knows this.
+Yet subconsciously, both we and others _can_ tell whether our intention is  benevolent or malicious, and they generate very different long-term consequences. They have profoundly different effects on all minds involved, and this difference ripples outward. This may not be obvious from the immediate (or even second- or third-order) effects, but again, a deep part of us knows this.
 
 That will be a recurring theme throughout this work: there are things that I cannot convince you of with any amount of evidence, unless you want to see them. But luckily, some part of you already knows them. Ultimately all I can do is encourage you to look there.
 

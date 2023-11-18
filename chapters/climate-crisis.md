@@ -1,8 +1,12 @@
 # The climate crisis
 
+[Work in progress]
+
 > _The earth is not dying, it is being killed, and those who are killing it have names and addresses._ —Utah Phillips
 
-Can you feel the contempt oozing from this quote? Yes, the people killing the planet have names and addresses: they are _us_; we who harbor contempt in the name of good.
+The idea that there is a fixed set of people whose elimination could fix climate change — or any other problem — is self-deceptive. 
+
+Yes, the people killing the planet have names and addresses: they are _us_; we who harbor contempt in the name of good.
 
 To be completely clear: people certainly have varying degrees of complicity, especially when it comes to the immediate scope of their actions — and we _must_ hold them correspondingly accountable. But to the degree that we do this with contempt, we ensure the continued existence of such people, even if their details change. Even as we are stringing them up, we are secretly instructing reality to fill their shoes.
 
