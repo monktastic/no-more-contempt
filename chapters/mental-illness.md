@@ -11,7 +11,7 @@ tl;dr:
 
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-It is easy to be kind to someone when we can see — or even just *believe* — that some part of them is trying. When we can't, we devolve into contempt. This attitude is lazy and harmful, because there is literally _always_ a part that is trying, buried under a maze of confusion. Contempt just pushes them further in, making it even more obvious to us that no part of them is trying.
+It is easy to be kind to someone when we can see — or even just believe — that some part of them is _trying_. When we can't, we devolve into contempt. This attitude is lazy and harmful, because there is literally _always_ a part that is trying, buried under a maze of confusion. Contempt just pushes them further in, making it even more obvious to us that no part of them is trying.
 
 Consider depression. Nobody _wants_ to be depressed. Or rather, people may _act_ like they do, and even _say_ that they do — in which case it is probably kindest to believe them — but the very deepest aspect of their mind simply _couldn't_ want such a thing, if it could see clearly what it was choosing. A person may recognize this only after being free of it, and look back on it like a bizarre dream.
 

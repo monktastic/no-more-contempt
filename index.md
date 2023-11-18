@@ -1,7 +1,9 @@
 
-_You can read a short (~500 word) summary [here](summary.md)._
+_Short (250 word) summary [here](short-summary.md). Medium (500 word) summary [here](medium-summary.md)._
 
 ---
+
+## Preface
 
 We know that being kind is the "right thing to do" in most situations, but things get hazy when it comes to "bad" people. Not only is it hard to be kind to them, but it's a bit unclear _why_ and even _whether_ we should. At the same time, there are many people today who seem to be "bad" enough for this question to be relevant to us. They may not deserve our cruelty (yet), but they surely deserve our contempt. It feels like the _least_ we could do as decent people.
 
