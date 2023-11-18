@@ -1,9 +1,14 @@
+
+# Medium summary
+
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
 > _Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply._ —Roland Niebuhr
 
 > _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
- 
+
+---
+
 We like to think that hating bad people is a sign of the good within us, but it's really a sign of the evil. Bad people are only able to do what they do because of self-deception — the very mechanism that enables our own misbehavior, if we're honest.
 
 If you "probe deeply" enough, you'll find that contempt exists only to enable you to amplify enmity in the world, in a way that appears righteous. In other words, it is pure self-deception — the very thing you hate them for. The truth is that you see an aspect of yourself in them, and it's much easier to fight what's outside than what's inside. 
