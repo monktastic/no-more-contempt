@@ -9,11 +9,11 @@ Genocides are carried out when a group of people becomes convinced that their vi
 
 In this dark place, all goodwill is lost.
 
-Mocking our enemies is "innocent" fun, because we get to see bad people get hurt. This enjoyment is quite independent of whether our behavior somehow makes a positive difference in the world — though, of course, we must _tell_ ourselves that it does. Because our "victim" cannot be fixed, they must be punished — and what more humane way than to subtly telegraph, through our eyes and voice, how inferior they are? That is how it usually starts, but rarely how it ends.
+Mocking our enemies is "innocent" fun, because we get to see bad people get hurt. This enjoyment is quite independent of whether our behavior somehow makes a positive difference in the world — though, of course, we must _tell_ ourselves that it does. Because our "victim" cannot be fixed, they must be punished — and what more humane way than to subtly telegraph, through our eyes and voice, how worthless they are? That is how it usually starts, but rarely how it ends.
 
 The feeling can also be more subtle, as when we are dismissive or uncharitable toward a dialogue partner; or brief, as when we mutter "idiot" under our breath at a bad driver. But if we let it fester, this attitude can wreak far more havoc than we realize.
 
-This piece will mostly be focused on contempt for "bad people," because they are the ones for whom it is easiest to convince ourselves that this attitude is healthy. This is precisely what makes it uniquely insidious: it is the last socially-acceptable way in which our darkness may express itself...
+Contempt for _behaviors_ can actually be healthy. This piece focuses on contempt for people, which we argue never is. In particular, it is about contempt for "bad" people, because they are the ones for whom it is easiest to convince ourselves that it is. This is precisely what makes it uniquely insidious: it is the last remaining socially-acceptable outlet for our darkness to freely manifest...
 
 ---
 
