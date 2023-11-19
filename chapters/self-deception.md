@@ -18,11 +18,12 @@ Have you ever done something that deep down you felt was wrong, but convinced yo
 
 Self-deception is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances.
 
-When we hear a lying, hypocritical CEO / politician / banker / whatever, we can see that  part of them knows perfectly well what they are doing, which makes us (rightfully) angry. At the same time, the _wrongness_ is carefully shielded from conscious self-reflection. That's how they're able to do it. There is a kind of schism in the mind — and contempt just reinforces it. Why?
+When we hear a lying, hypocritical CEO / politician / banker / whatever, we can see that  part of them knows perfectly well what they are doing, which makes us (rightfully) angry. At the same time, the _wrongness_ is carefully shielded from conscious self-reflection. That's how they're able to do it. There is a kind of schism in the mind — and our contempt just reinforces it. Why?
+
 
 While contempt doesn't always rise to the level of _malice_ (the active desire to cause harm), it is at best a _cold indifference_ to harm. From the inside, this feels righteous; but from the outside, it looks evil — _because it is!_ And we _want_ them to see a bit of evil in our eyes — ostensibly to communicate our righteous wrath, but secretly for a much darker purpose.
 
-Why? Because if they perceive us that way, they will just dig in their heels. Isn't that bad? No: it provides the proof we need to vindicate our behavior and escalate it. After all, any _decent_ person would have repented in the face of such overwhelming good. So now we'll get to attack an even _more_ evil person, which will be even more satisfying, while being even more justified.
+Why? Because if they perceive us that way, they will just dig in their heels — which we secretly *want*, because it vindicates our behavior and licenses escalation. After all, any _decent_ person would have repented in the face of such overwhelming good. So now we'll get to attack an even _more_ evil person, which will be even more satisfying, while being even more justified.
 
 So they don't just feel our proto-malice (or malice); they also feel our baiting, as well as our hypocrisy. This combines into an irresistible urge to take the bait. _Mission accomplished_: their world has been made a little darker. Even if they publicly change their behavior — which we chalk up as a "win" — their self-deception feels even more justified; i.e., new evil has been created.
 

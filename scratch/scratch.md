@@ -5,6 +5,12 @@ Contempt: the last hiding place of evil
 
 ---
 
+
+
+
+
+---
+
 Everyone knows by now (I hope) that indiscriminately bombing your enemies is bad, not just for them, but for you: it creates more enemies (who are more justified). Contempt is like carpet-bombing the person's mind: you're not isolating the problem, which is their self-deception.
 
 ---
@@ -58,7 +64,7 @@ There's a movie trope where two decent but flawed people encounter each other, a
 
 The audience can see the subtle tragedy in each step, and we also see why each escalation feels justified to each character due to their unique traumas (and hostile to the other, due to theirs), so that the whole sequence feels almost inevitable. And yet there are many pivotal moments where everything could have calmed. In fact, the characters don't just feel justified: they feel it would be crazy or naive to behave differently (with less suspicion or defensiveness).
 
-That is the state of the whole planet today. We are those characters. We can't see what we're contributing to situations. The "other character" isn't always as innocent -- but what if in even the worst person, we're overlooking something? We can learn to have the wisdom of the audience.
+That is the state of the whole planet today. We are those characters. We can't see what we're contributing to situations. The "other character" isn't always as innocent — but what if in even the worst person, we're overlooking something? We can learn to have the wisdom of the audience.
 
 
 Not worthy of any kind of love.

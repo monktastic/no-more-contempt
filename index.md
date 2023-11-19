@@ -1,5 +1,5 @@
 
-_Short (250 word) summary [here](short-summary.md). Medium (500 word) summary [here](medium-summary.md)._
+_A short (500 word) summary can be found [here](medium-summary.md)._
 
 ---
 
