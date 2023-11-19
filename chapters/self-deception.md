@@ -1,10 +1,10 @@
 # Self-deception
 
 tl;dr:
- - All evil relies on _self-deception_, a mechanism we all share.
- - Contempt is a form of self-deception, because "bad people" are not _fundamentally_ different.
- - We are secretly pushing people further into the dark, which creates more evil.
- - Until we see this, it is impossible to appreciate how evil operates, and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
+- All evil relies on _self-deception_, a mechanism we all share.
+- Contempt is a form of self-deception, because "bad people" are not _fundamentally_ different.
+- We are secretly pushing people further into the dark, which creates more evil.
+- Until we see this, it is impossible to appreciate how evil operates, and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
 
 Trigger warning: reading about how we are "spreading evil" is not necessarily fun.
 
@@ -16,23 +16,23 @@ Trigger warning: reading about how we are "spreading evil" is not necessarily fu
 
 Have you ever done something that deep down you felt was wrong, but convinced yourself it was okay? Really try to recall what that state was like. You knew perfectly well that what you were doing was wrong, but that knowledge was carefully hidden from conscious self-reflection. This is **self-deception**. Part of you _knows_ and part of you _doesn't._ The part that knows its wrong is your **conscience** (not to be confused with "consciousness"). It is the voice of the deepest aspect of your mind.
 
-Self-deception is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances. 
+Self-deception is ultimately responsible for _all_ misbehavior. Even the most evil person could not do what they do without it, and conversely, you yourself are capable of almost anything under the right circumstances.
 
-When you hear a lying, hypocritical CEO / politician / banker / whatever, part of them knows perfectly well what they are doing, which makes you (rightfully) angry. At the same time, the _wrongness_ is carefully shielded from conscious self-reflection. That's how they're able to do it. There is a kind of schism in the mind — and contempt for this state just reinforces it. Why?
+When we hear a lying, hypocritical CEO / politician / banker / whatever, we can see that  part of them knows perfectly well what they are doing, which makes us (rightfully) angry. At the same time, the _wrongness_ is carefully shielded from conscious self-reflection. That's how they're able to do it. There is a kind of schism in the mind — and contempt just reinforces it. Why?
 
-While contempt doesn't always rise to the level of _malice_ (the active desire to cause harm), it is at best a cold _indifference_ to harm. If someone were to treat you that way, you would perceive them as a little bit evil, regardless of whether you did anything to "deserve" it — because *good people don't act that way.* Part of you _knows_ that your target will see you this way. In fact, it _wants_ this.
+While contempt doesn't always rise to the level of _malice_ (the active desire to cause harm), it is at best a _cold indifference_ to harm. From the inside, this feels righteous; but from the outside, it looks evil — _because it is!_ And we _want_ them to see a bit of evil in our eyes — ostensibly to communicate our righteous wrath, but secretly for a much darker purpose.
 
-Why? Because the feeling of being morally superior is delicious and addictive. If they perceive you as evil, you will just take this as a sign that you were _right_ about their fundamental defectiveness, which will solidify your superiority. After all, any _decent_ person would have repented under your righteous gaze. This also licenses you to escalate — with each round more satisfying than the last.
+Why? Because if they perceive us that way, they will just dig in their heels. Isn't that bad? No: it provides the proof we need to vindicate our behavior and escalate it. After all, any _decent_ person would have repented in the face of such overwhelming good. So now we'll get to attack an even _more_ evil person, which will be even more satisfying, while being even more justified.
 
-So now they don't just feel your proto-malice (or malice), they also feel your baiting, as well as your hypocrisy. This combines into an irresistible urge to take the bait, which turns their world a little darker. Even if they publicly change their behavior — which we chalk up as a "win" — this encourages more self-deception; i.e., more evil.
+So they don't just feel our proto-malice (or malice); they also feel our baiting, as well as our hypocrisy. This combines into an irresistible urge to take the bait. _Mission accomplished_: their world has been made a little darker. Even if they publicly change their behavior — which we chalk up as a "win" — their self-deception feels even more justified; i.e., new evil has been created.
 
 This newly created evil _will_ find its way into the world and ripple outward, whether we see this or not. Mostly we do not — and even if we do, we can plausibly blame it on them. After all, *they* are the evil ones. We were just doing our best to help. This is how we avoid feeling any complicity for the far-ranging consequences of our behavior. It is **profound** self-deception.
 
 Keep in mind I'm not really trying to describe (let alone blame) _you_. I'm exposing how my own mind works. It's horrifying and embarrassing, but I've been told that I'm not unique. And luckily, as we shall see later, even malice ultimately has a benign cause. Please pardon the sharp language.
 
-As long as there is a trace of malice in our minds, their mind will seize on it as an excuse to not have to confront their conscience — and part of us _knows_ and _wants_ this. (After all, we're supposedly better people than they are, and when's the last time *we* tolerated contempt from a malicious hypocrite?) In fact, if you are perceptive enough, it almost feels like a dark entity in your mind is reaching out through your eyes and into theirs, shaking hands with _their_ darkness.
+As long as there is a trace of malice in our minds, their mind will seize on it as an excuse to not have to confront their conscience — and part of us _knows_ and _wants_ this. In fact, if you are perceptive enough, it almost feels like a dark entity in your mind is reaching out through your eyes and into theirs, shaking hands with _their_ darkness.
 
-**Until we see this clearly, it is impossible to understand the fiendish mechanism that allows "bad people" to feel okay about what they do** — and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm somewhere, somehow, in some way that we will not be aware of. It doesn't have to happen via a face-to-face encounter: the darkness in our mind always finds some vehicle to leak out into the world.
+**Until we see this clearly, it is impossible to understand the fiendish mechanism that allows "bad people" to feel okay about what they do** — and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm somewhere, somehow, in some way that we will not be aware of. It doesn't have to happen via a face-to-face encounter: the darkness in our mind always finds some way to leak out into the world.
 
 To repeat an important caveat from the previous chapter: it is not the harming of the person that is intrinsically wrong. Sometimes that is necessary. But when it is malicious, our minds enter a shadowy space in which something much darker is happening than meets the (untrained) eye.
 
