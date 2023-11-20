@@ -6,7 +6,7 @@ Contempt: the last hiding place of evil
 ---
 
 
-
+Subtle cynicism. Why do we like to twist other people's words? Why do we like to watch bad people "get owned"?
 
 
 ---
@@ -28,8 +28,6 @@ Contempt is a blight on your soul.
 Evil is an absence masquerading as a presence. There are different degrees and causes, and therefore different solutions, but...
 
 If someone is not trying, contempt will not make them try.
-
-Contempt eats away at people's souls. Worse, it is a desire to.
 
 Eagerness to find or seek out evil (or sd) in others is a sign that we are hiding something from ourselves.
 Something in us wants to see the worst in people. Seeing the good in people is a superpower.

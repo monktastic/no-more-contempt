@@ -1,17 +1,51 @@
 
-_A short (~750 word) summary can be found [here](medium-summary.md)._
+> _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
+
+Contempt has become a popular attitude to take with those who we feel are responsible for the world's ills. It feels like a healthy way to affirm our values, communicate our anger, and deter others from similar misbehavior.
+
+But contempt[^contempt] actually has a profoundly unhealthy origin and produces far-ranging toxic effects that are not only invisible to us, but are actually _hidden_ from us by our own minds. The aggregate result of everyone doing this is a world in which the problems we bemoan are all but inevitable.
+
+This explains why the US is headed toward civil war while nobody recognizes their own complicity. The fault always seems to lie entirely with the other side, or perhaps with the evil elites who are playing both sides. Whatever their role, there is something going on within our own minds that we're not seeing.
+
+It is imperative that we discover this trick by which our mind hides the true source and effects of our behavior — not only for our own sake, but the world's. When this is seen clearly, the problems of the world — and their solutions — begin to look radically different.
 
 ---
 
-## Preface
+> _If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?_ —Alexander Solzhenitsyn
 
-We know that being kind is the "right thing to do" in most situations, but things get hazy when it comes to "bad" people. Not only is it hard to be kind to them, but it's a bit unclear _why_ and even _whether_ we should. At the same time, there are many people today who seem to be "bad" enough for this question to be relevant to us. They may not deserve our cruelty (yet), but they surely deserve our contempt. It feels like the _least_ we could do as decent people.
+> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14
 
-But what if there is a sense in which kindness (properly defined) is _always_ the right thing to do, and our "innocent" deviation from it is responsible for tremendously more suffering than we realize?
+We've all done something wrong while convincing ourselves that it's not. What we may not realize is that _all_ evil ultimately depends on this very mechanism of self-deception. We are motivated _not_ to see this, because that lets us believe that we are fundamentally different from the "bad people." We treat them with contempt to bait them into behaving in ways that confirm our moral superiority.
 
-This work is an exploration of that question.
+Unfortunately, baiting people into more evil is hardly "morally superior," so we must carefully hide our true motivation from ourselves. We call it "fighting evil." This is *itself* an act of self-deception — and perhaps the hardest one to detect, because it feels so righteously motivated. But seeing how your mind hides this truth is key to understanding how the "bad people" do what _they_ do without feeling bad.
+
+Once you see this, everything changes.
+
+You discover that there is darkness within each of us. It is not _intrinsic_ to our minds[^intrinsic], but is more like a parasite. It knows that we are only willing to harm people who we deem _subhuman_[^subhuman], so it does something very clever: it alters our perception such that we _see_ some people's darkness as intrinsic to their minds; we see them as _fundamentally_ bad in a way that we could never be. This way, we are free to be malicious without compunction.
+
+Consciously, we don't realize that we're being manipulated by our darkness; it feels like we're expressing a natural and healthy instinct to violently attack evil — which we now equate with attacking _people_, since we can no longer distinguish the two. But no matter how subdued our attack (e.g., mockery), our underlying malicious intent makes us appear evil to them for exactly the same reason that they appear evil to us.
+
+This has the effect of driving their darkness deeper into their minds, making it appear even _more_ obviously intrinsic, which licenses even more righteous violence from us, resulting in an all-too-familiar downward spiral. But the real shock is discovering that this mutual descent into Hell is secretly being orchestrated by the darkness in _both_ of our minds.
+
+Our darkness tricks us into behaving in ways that it knows will convince others that we are evil, because it knows exactly how their darkness behaves — _because ours and theirs are fundamentally identical_. In fact, they are not just identical, but are more like outgrowths of a single shared "shadowy presence" that continually manipulates all of our minds; the _Devil_, if you will.
+
+This is not just a wacky religious invention: it seems that everyone who introspects carefully enough eventually perceives this "distributed malevolent entity" with a kind of intelligence and volition of its own that, even if not _literally_ true, explain its seemingly-coordinated behavior terrifyingly well. _This_ is our true enemy; not other people (though fighting it sometimes requires fighting them). 
+
+It is that primordial "evil global conspiracy" to which all the rest ultimately owe their existence. Every attempt to maliciously subdue it "out there" just strengthens it, because such behavior is only ever initiated _by_ it, even though it makes us believe that it was initiated by us. Contempt is its most insidious tool precisely because it appears to be the most unmistakably righteous. It is a secret way to leak evil deep into the world, where we can disown all complicity for it.
+
+(To be clear: there may well be groups of particularly "bad" people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the conditions that effectively _compel_ their existence.)
+
+The only way for humanity to defeat the Devil is to stop falling for its tricks. _Any_ time you feel malice, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; you are being manipulated into spreading evil in some way that you can't see. As you begin to clear up this misperception in your own mind, you discover more of what is causing it in others', which is the only way to do anything genuinely useful about it.
+
+The topic of what such "useful" behavior looks like is vast and beyond the scope of this work, but rest assured that it _can_ be outwardly violent (or mocking) if the circumstances warrant it. It need not take any particular form, and cannot be reduced to principles, except for one: the more deeply it is rooted in compassion — that is, freedom from the above misperception — the more beneficial it tends to be. This is true kindness, and people can sense your profoundly benevolent intent even when you fight them. Being _entirely_ free is enlightenment; perception of our fundamental unity.
+
+Enlightenment is a lofty goal, but we can start small, by changing social norms. And each of us understanding why _contempt is not the way_ seem like a good first step.
 
 ---
+
+## Book
+
+For a deeper dive, we've expanded the above ideas into a mini-book. Some of the same material is covered, but there are many subtleties that couldn't be fit into such a short summary.
 
 - [Intro: What is contempt?](chapters/what-is-contempt.md)
 - [Chapter 1: A mental illness](chapters/mental-illness.md)
@@ -30,3 +64,12 @@ This work is an exploration of that question.
 - [Quotes](quotes.md)
 
 ---
+
+## Footnotes
+
+[^contempt]: Specifically, it is contempt for *people* that is wrong. Contempt for ideas or behaviors can actually be healthy.
+
+[^intrinsic]: You may wonder how it is possible to know that evil is not intrinsic to other people's minds, but for our purposes it's more important to see that (1) our _perception_ of their intrinsic defectiveness is our own projection, and (2) our own darkness gives us the capacity to devolve into a condition in which others would be utterly convinced that _ours_ is intrinsic.
+
+[^subhuman]: Notice that genocides can only be perpetrated when the victims are seen as subhuman. The Nazis referred to Jews as 'vermin,' and during the genocide in Rwanda, Tutsis were referred to as 'cockroaches.' This is a common pattern throughout history.
+
