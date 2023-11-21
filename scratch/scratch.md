@@ -1,12 +1,29 @@
 
 Contempt: the last hiding place of evil
 
+_We treat people with contempt to bait them into behaving in ways that license more contempt, to reaffirm our moral superiority._
+
+
 - Most forms of evil are _obviously_ evil today. Contempt (for "bad people") is unique in that we still pretend it's good. That's because from the outside, the resulting behavior looks very similar to something that _is_ genuinely good
+
+---
+
+You begin from a place of love for the world; a desire to bring the greatest benefit. But quickly your intellect takes over, and you try to calculate the best choice. There's nothing wrong with this, but it's very easy to lose contact with that original love. It becomes just an idea that you plaster over whatever plan you've calculated.
 
 ---
 
 
 Subtle cynicism. Why do we like to twist other people's words? Why do we like to watch bad people "get owned"?
+
+Notice how many debates (on social media or elsewhere) rapidly devolve, with each side utterly convinced that the other is disingenuous, malicious, or stupid. Something in us _wants_ to see the worst in others.
+
+Keeps our attention fixated outward. Look for the worst in people, have to compensate.
+
+
+---
+
+
+
 
 
 ---
@@ -34,7 +51,6 @@ Something in us wants to see the worst in people. Seeing the good in people is a
 
 "Several independent agencies and academic studies have since concurred that most forest-carbon projects in existence are selling offsets based on vastly inflated claims." Lying to themselves.
 
-Keeps our attention fixated outward. Look for the worst in people, have to compensate.
 
 Outrage sells because it enables our self-deception.
 
