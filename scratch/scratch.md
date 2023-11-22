@@ -82,3 +82,5 @@ That is the state of the whole planet today. We are those characters. We can't s
 
 
 Not worthy of any kind of love.
+
+> _How can you say to your brother, `Let me take the speck out of your eye,' when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother's eye._ —Matthew 7:4
