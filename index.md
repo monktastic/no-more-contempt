@@ -1,8 +1,8 @@
 ---
-image: /img/no-contempt.png
+image: https://www.nomorecontempt.org/img/no-contempt-black.png
 ---
 
-_[Note: The author(s) of this piece are not Christian or even religious exactly, but there are so many good quotes and metaphors from the Bible and other traditions that we make extensive use of them.]_
+_[Note: The author(s) of this piece are not Christian or even religious exactly, but there are so many good quotes and metaphors from the Bible and other traditions that we couldn't help but make extensive use of them.]_
 
 ---
 
@@ -50,11 +50,11 @@ It is that primordial "evil global conspiracy;" the one to which all the rest ul
 
 To be clear: there may well be groups of particularly "bad" people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _inevitable_ given that we are. **We must hold such people accountable** — but when we do this with contempt, we are reinforcing the conditions that effectively _compel_ their existence.
 
-Our true enemy is not other people, but the parasite manipulating _all_ of our minds. The greatest gift you can give the world is healing yourself of it. This returns you to your "angel"; the only thing that can truly evict anyone's "devil." This "angel" is not weak, and it's not always nice. It can do whatever is required to defeat evil. The only thing it never does is lead you into that illusion from which you _pretend_ to be doing good while secretly causing mayhem.
+_Any_ time you feel malice, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; you are being tricked into spreading evil in some way that you can't yet see. Our true enemy is not other people, but the parasite manipulating _all_ of our minds. The greatest gift you can give the world is healing yourself of it. The more you do this, the more you see how it has hijacked other minds, and the more you can do about it.
 
-_Any_ time you feel malice, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; you are being manipulated into spreading evil in some way that you can't yet see. It is only by clearing up this misperception in your own mind that you begin to see what is causing it in others' — and thereby become able to do anything genuinely useful about it.
+This brings you closer to your "angel"; the only thing that can truly evict anyone's "devil." It is not weak, and it's not always nice. It can take any form needed to defeat evil, including violence[^dalai-lama-gun] and even _apparent_ contempt. The one thing it never does is lead you into that illusion from which you _pretend_ to be doing good while secretly causing mayhem.
 
-This is called compassion[^compassion]. It doesn't always know what the most beneficial behavior is. That requires _wisdom_. It only ensures that you are, indeed, behaving in a way that is aligned with your deepest values; your profound love for the world. Developing wisdom is a vast topic, and beyond the scope of this work.
+This is also called compassion[^compassion]. It doesn't always know what the most beneficial behavior is. That requires _wisdom_. Developing it is a vast topic, and beyond the scope of this work. Compassion simply ensures that you are, indeed, behaving in a way that is aligned with your deepest values; your profound love for the world. People can sense this underlying motivation even when you think they can't, and it makes all the difference.
 
 When compassion is developed to its full extent, it reveals the vast interconnectedness not only of humanity, but of all of reality. From here, malice and contempt are literally impossible. This is something that is only fully seen upon enlightenment — but [we can all sense it](unity.md) to a greater or lesser degree at all times. 
 
@@ -95,3 +95,5 @@ These ideas are laid out in more detail in the following mini-book. Some of the 
 [^subhuman]: Notice that genocides can only be perpetrated when the victims are seen as subhuman. The Nazis referred to Jews as 'vermin,' and during the genocide in Rwanda, Tutsis were referred to as 'cockroaches.' This is a common pattern throughout history.
 
 [^compassion]: You could say that everything comes down to distinguishing when we're being malicious in the name of good vs compassionate in a way that necessitates harm. People can sense the difference, even when we think they can't.
+
+[^dalai-lama-gun]: The Dalai Lama was once asked what you should do if a gunman is trying to shoot you and you have a gun. [He said "shoot back."](https://www.snopes.com/fact-check/dalai-gun/)
