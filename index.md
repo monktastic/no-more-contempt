@@ -1,3 +1,6 @@
+---
+image: /img/no-contempt.png
+---
 
 _[Note: The author(s) of this piece are not Christian or even religious exactly, but there are so many good quotes and metaphors from the Bible and other traditions that we make extensive use of them.]_
 
