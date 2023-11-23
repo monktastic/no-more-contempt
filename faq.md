@@ -29,7 +29,7 @@ We act dismayed, but part of us secretly _wants_ this outcome...
 
 Contempt is the feeling that you're fundamentally better than someone[^contempt]. Not just that you hold better views, or act better, but are *intrinsically* better. For example, "bad people" are fundamentally morally defective—unlike you. It's not necessarily a conscious belief, but a feeling and a perception.
 
-There is a profound sense in which you are fundamentally the _same_ as everyone else. In fact, you _are_ everyone (and everything) "else." This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why certain literature[^literature] speaks to us so powerfully. Contempt is a way to hide this from yourself, and is thus self-deceptive.
+There is a profound sense in which you are fundamentally the _same_ as everyone else. In fact, you _are_ everyone (and everything) "else." This isn't realized fully until enlightenment, but everyone can sense it at some level at all times. That's why [certain literature speaks to us so powerfully](/unity.md). Contempt is a way to hide this from yourself, and is thus self-deceptive.
 
 You may not be able to detect this in yourself, but others can sense it—even if only subconsciously. They know the game you're playing, so they can't help but see _you_ as a "bad person" and feel compelled to fight your evil in return. You act dismayed by this recalcitrance—but you were secretly _hoping_ to provoke it, because it justifies your contempt. (This is the "game you're playing.")
 
@@ -194,16 +194,6 @@ I made it with DALL-E 3. [Here it is](img/buddha.png).
 ---
 
 ## Footnotes
-
-
-[^literature]:
-- [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI): A short story by Andy Weir and animated by Kurzgesagt.
-- [Please Call Me By My True Names](https://www.youtube.com/watch?v=h6fcK_fRYaI), a poem by Thich Nhat Hanh.
-- > Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I _am_ them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.
->
-> But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.
->
-> — Zen priest (and punk rocker) Brad Warner
 
 [^contempt]: To be clear, contempt for ideas or behavior can be perfectly healthy.
 
