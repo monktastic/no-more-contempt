@@ -22,17 +22,17 @@ _tl;dr: The purpose of contempt is to bait people into behavior that licenses ev
 
 Imagine giving someone a dehumanizing stare. It's hard to do, isn't it? It feels evil — because it is. Now imagine that this someone is a "bad person." The worse they are, the more righteous it will feel. Yet it will never look any less evil to them — _because it's not._ And unless they are a saint (which they're not), this will only make them feel _more_ justified in whatever storyline is fueling their misbehavior — because they can now plausibly claim that they are opposing evil.  You will in turn take this as confirmation that _they_ really are evil and intensify your dehumanization.
 
-The world will rapidly become darker, in an all-too-familiar downward spiral. But the big shock is discovering that this was all orchestrated by a dark aspect within _both_ of your minds: yours baited theirs, and vice versa. It didn't even require physical violence; it could all be accomplished subconsciously, through the eyes and tone of voice.
+The world will rapidly become darker, resulting in an all-too-familiar downward spiral. But the big shock is discovering that this was all orchestrated by a dark aspect within _both_ of your minds: yours baited theirs, and vice versa. It didn't even require physical violence; it could all be accomplished subconsciously, through the eyes and tone of voice.
 
 > _And no wonder, for even Satan masquerades as an angel of light._ —2 Corinthians 11:14
 
-You know the classic image of the angel and devil sitting on our shoulders? It's _almost_ accurate, except for two things. First, the angel isn't really external to you, but represents the deepest aspect of your mind; your profound love for the world. In a deep sense, it *is* you. The devil is external; a kind of parasite[^intrinsic]. But it doesn't just whisper obviously-bad ideas in your ear; it pretends to *be* you, and alters your very perception so that certain evils appear unerringly righteous. The more successful it is, the less you will believe that you even have one — at least, in the same way that "bad people" do.
+You know the classic image of the angel and devil sitting on our shoulders? It's _almost_ accurate, except for two things. First, the angel isn't really external to you, but represents the deepest aspect of your mind; your profound love for the world. In a deep sense, it *is* you. The devil is external; a kind of parasite[^intrinsic]. But it doesn't just whisper obviously-bad ideas in your ear; it pretends to be your inner angel, and alters your very perception so that certain evils appear unerringly righteous. The more successful it is, the less you will believe that you even _have_ a devil — at least, in the same way that "bad people" do.
 
 <p align="center" width="100%">
     <img width="33%" src="img/parasite.png "> 
 </p>
 
-One of its tricks is to make some people appear subhuman, so that harming them feels okay[^subhuman]. Your morals (and social norms) act as a kind of buffer, preventing you from seeing most people this way. But it's always on the hunt for victims, and it only needs the slightest provocation to begin its manipulation.
+One of its tricks is to make some people appear subhuman, so that harming them feels okay[^subhuman]. Your morals (and social norms) act as a kind of buffer, preventing you from seeing most people this way. But it's always on the hunt for victims, and it only needs the slightest excuse to begin its manipulation.
 
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
@@ -40,7 +40,7 @@ It searches for people whose misbehavior can't be chalked up to any kind of "gre
 
 This is the wedge it drives to prevent your angel from getting an empathetic grip. It triggers behavior that will cause you both to rapidly accelerate away from any possibility of mutual humanizing. Both your devil and theirs and theirs _knew_ this would happen, because they are fundamentally identical. In fact, not only are they identical, but from a certain perspective they behave more like puppets of a single shared Devil that is pulling _all_ of our strings.
 
-This is not just a religious invention: it seems that everyone who introspects carefully enough eventually perceives this "distributed malevolent entity" with a seeming intelligence and volition of its own that, even if not _literally_ true, explain its apparently-coordinated behavior terrifyingly well. Your interaction isn't limited to the two of you: it ripples out from each of you into your lives, eventually reaching the far corners of the world — where you can plausibly deny any connection to it.
+This is not just a religious invention: it seems that everyone who introspects carefully enough eventually perceives this "distributed malevolent entity" with a seeming intelligence and volition of its own that, even if not _literally_ true, explain its apparently-coordinated behavior terrifyingly well. Your interaction with the "bad person" ripples out from each of you into your lives, eventually reaching the far corners of the world — where you can plausibly deny any connection to it.
 
 <p align="center" width="100%">
     <img width="33%" src="img/shared-devil.png "> 
@@ -54,9 +54,11 @@ _Any_ time you feel malice, contempt, or even self-righteousness toward another 
 
 This brings you closer to your "angel"; the only thing that can truly evict anyone's "devil." It is not weak, and it's not always nice. It can take any form needed to defeat evil, including violence[^dalai-lama-gun] and even _apparent_ contempt. The one thing it never does is lead you into that illusion from which you _pretend_ to be doing good while secretly causing mayhem.
 
-This is also called compassion[^compassion]. It doesn't always know what the most beneficial behavior is. That requires _wisdom_. Developing wisdom is a vast topic, and beyond the scope of this work. Compassion simply ensures that you are, indeed, behaving in a way that is aligned with your deepest values; your profound love for the world. People can sense this underlying motivation even when you think they can't, and it makes more difference than you would believe.
+This is also called compassion[^compassion]. It doesn't always know what the most beneficial behavior is. That requires _wisdom_. Developing wisdom is a vast topic, and beyond the scope of this work. Compassion simply ensures that you are, indeed, behaving in a way that is aligned with your deepest values; your profound love for the world. People can sense your underlying motivation even when you think they can't, and it makes more difference than you can fathom.
 
-When compassion is developed to its full extent, it reveals the vast interconnectedness not only of humanity, but of all of reality. From here, malice and contempt are literally impossible. This is something that is only fully seen upon enlightenment — but [we can all sense it](unity.md) to a greater or lesser degree at all times. 
+This is why wise people urge compassion for evildoers. They aren't suggesting that we be _nice._ They're warning us that the only alternative is being (and spreading) evil in the name of good. The first time you discover this in yourself, you will be brought to your knees in abject agony over the horror that you've been inadvertently been perpetrating on the world.
+
+The more compassion is unveiled, the more it reveals the vast interconnectedness not only of humanity, but of all of reality. This is fully revealed only upon enlightenment — though [we can all sense it](unity.md) to a greater or lesser degree at all times. From here, malice and contempt are literally impossible. The better you understand people's confused minds, the less you can hate them.
 
 Enlightenment is a lofty goal, but we can start small, by changing social norms. We can teach our children (and remind our allies) that contempt for "bad people" isn't what it seems to be. It must go the way of all other forms of evil if we are to defeat our true enemy.
 
