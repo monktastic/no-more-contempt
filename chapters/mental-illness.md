@@ -47,7 +47,7 @@ Alas, simply _knowing_ that it's harmful doesn't stop it from _feeling_ right. W
 
 This is a deep and important question. Assuming that evil is always caused by a level of trauma that can be simply "loved" out of a person (in any conventional sense) can indeed be dangerous, and may demonstrate lack of wisdom on our part. It would be a mistake to lump all causes of evil into the same bucket and deal with them in the same way.
 
-Nevertheless, while the methods may differ, in no case does an underlying malicious intent actually help. Instead, the "deeper" the evil, the easier it is to _convince_ ourselves that it does — but this is always self-deception, as we shall soon see. What's actually happening is that their profound darkness is more easily (and cleverly) infecting our minds.
+Nevertheless, while the methods may differ, in no case does an underlying malicious intent actually help. Instead, the "deeper" the evil, the easier it is to _convince_ ourselves that it does — but this is always self-deception. What's actually happening is that their profound darkness is more easily (and cleverly) infecting our minds.
 
 ---
 
