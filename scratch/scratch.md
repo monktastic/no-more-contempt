@@ -1,4 +1,15 @@
 
+
+When we experience someone as being even a little bit evil, this triggers the evil within us.
+
+All evil is enabled by self-deception, a mechanism that we share.
+
+We respond by behaving in a way that will cause more evil in the world, but hide this from ourselves. It is self-deception.
+
+
+
+---
+
 Contempt: the last hiding place of evil
 
 _We treat people with contempt to bait them into behaving in ways that license more contempt, to reaffirm our moral superiority._
