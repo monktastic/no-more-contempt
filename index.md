@@ -1,25 +1,29 @@
 
-_[Warning: This piece deals with issues around the nature of evil. It is **not** light reading.]_
+_[Warning: This piece is about the nature of good and evil. It is **not** light reading.]_
 
-When wise people urge compassion for evildoers, they're not suggesting that we be _nice_. They're warning us about an insidious trap that the whole world is presently caught in.
+When wise people urge compassion for evildoers, they're not suggesting that we be _nice_. They're warning us about an insidious trap that our civilization is presently caught in.
 
 Consider [this horrifying story from 2012](https://www.telegraph.co.uk/news/worldnews/southamerica/brazil/9005835/Loggers-burned-Amazon-tribe-girl-alive.html):
 
 > _Loggers in Brazil captured an eight-year-old girl from one of the Amazon's last uncontacted tribes and burned her alive as part of a campaign to force the indigenous population from its land [...]_
 
-Reading this would make any sane person profoundly angry and heartbroken for the girl, her tribe, and humanity. It makes us want to do everything in our power to ensure this kind of thing never happens again — which may require punishing or even harming the perpetrators. At the same time, we may feel a desire to harm them quite independently of any good it will bring: pure old-fashioned vengeance.
+Can you feel the profound anger and heartbreak for the girl, her tribe, and humanity? It makes you want to do everything in your power to ensure this kind of thing never happens again — including punishing and maybe even harming the perpetrators if need be. At the same time, you may feel a desire to harm them quite _independently_ of any good it will bring: pure old-fashioned vengeance.
 
-These two motivations — compassion and malice — arise from very different aspects of mind. But they can be extremely difficult to tell apart — particularly because we often dress up the latter to make it seem respectable; as though it is "for the greater good." We tell ourselves that it doesn't matter which intention is driving our behavior, because only the _result_ is important.
+These two motivations — compassion and malice — arise from very different aspects of mind, but can be extremely difficult to tell apart. We usually dress up the latter to make it seem respectable; as though it is "for the greater good." We tell ourselves that it doesn't matter which intention is driving our behavior; that only the _result_ matters. Similarly, we sprinkle contempt into arguments with anyone we perceive as "bad," feeling that it is practically our duty as "good people."
 
-_This confusion is how evil sneaks into the world, undetected._
+This confusion is how evil sneaks into the world undetected.
+
+_Before I speak to your mind, let me speak to your heart. Imagine how dark and twisted a mind has to become to feel okay about doing what those loggers did. Pushing such a mind deeper into the abyss is every bit as malevolent as burning a girl alive. We hide this fact from ourselves to avoid confronting something that we'd be much better off dealing with immediately. This isn't a judgement of you. It's an attempt at communicating a horrifying punchline that we all encounter sooner or later._
+
+We can't calculate all the downstream effects of our behavior, but we _can_ know when we are being evil — and we owe it to both ourselves and the world to stop.
 
 <p align="center" width="100%">
     <img width="300px" src="img/half-evil.png"> 
 </p>
 
-People are _exquisitely_ sensitive to our motivations, and malice makes us look evil — because it _is_ (as we shall see). We may not even be aware of how it comes across, but others are (if only subconsciously), and it powerfully evokes _their_ malice. Our allies join in the frenzy, while our enemies feel compelled to fight _our_ evil in return. Even if it scares them into changing their behavior (in public, anyway), the darkness has been embedded deeper into their minds, and _will_ manifest in some way — though perhaps far enough away in time and space that we can disown all complicity.
+People are _exquisitely_ sensitive to our motivations, and malice makes us look evil — _because it is_, as we shall see. We may not even be aware that we're telegraphing this intent, but others are (if only subconsciously), and it powerfully evokes _their_ malice. Our allies join in the frenzy, and our target vows to fight our evil in return. Even if they change their behavior (in public, anyway), the darkness has been embedded deeper into their mind, and _will_ manifest in some way — though perhaps far enough away in time and space that we can disown all complicity.
 
-The world becomes darker as a result. This isn't an unfortunate side effect of our well-intentioned behavior: the whole thing was secretly orchestrated by a sinister aspect within our minds. The way this works is _insanely_ clever.
+The world becomes darker as a result. But this isn't an unfortunate side effect of our well-intentioned behavior: it was secretly orchestrated by a sinister aspect within our minds. The way this works is _insanely_ clever.
 
 <p align="center" width="100%">
     <img width="300px" src="img/evil-above-world.png"> 
@@ -35,15 +39,13 @@ It's not the _harm itself_ that triggered this spiral, but the malice with which
 
 If it is really this simple, then why aren't we already doing it?
 
-Part of us _knows_ that we're not intrinsically better than anyone, but we hide this from ourselves. We use malice to keep the "bad people" trapped in delusion, so that we can prove ourselves morally superior. Unfortunately, baiting people into evil is hardly "morally superior," and so we must hide this, too, in a tightening noose of deception. It collapses in on itself like a black hole, preventing us from ever suspecting our dark motives.
-
-Let's look at this from another angle.
+Part of us _knows_ that we're not intrinsically better than anyone, but we hide this from ourselves. We use malice to keep the "bad people" trapped in delusion, so that we can prove ourselves morally superior. Unfortunately, pushing people into the dark is hardly "morally superior," and so we must hide this, too, in an ever-tightening noose of deception that collapses in on itself like a black hole, preventing us from ever suspecting what we're really doing. We're in too deep.
 
 ---
 
 > _And no wonder, for even Satan masquerades as an angel of light._ —2 Corinthians 11:14
 
-You know the classic image of the angel and devil sitting on our shoulders? It's _almost_ accurate, except for two things. First, the angel isn't really external to you, but represents your true nature as compassion. In a deep sense, it *is* you. The devil is external; a kind of parasite[^intrinsic]. But it doesn't just whisper obviously-bad ideas in your ear; it pretends to be your inner angel, and alters your very perception so that evil appears righteous.
+You know the classic image of the angel and devil sitting on our shoulders? It's _almost_ accurate, except for two things. First, the angel isn't really external to you, but represents your true nature as compassion. In a deep sense, it *is* you. The devil is external; a kind of parasite[^intrinsic]. But it doesn't just whisper obviously-bad ideas in your ear; it pretends to be your inner angel, and alters your very perception so that certain evils appear righteous.
 
 <p align="center" width="100%">
     <img width="300px" src="img/parasite.png"> 
@@ -51,45 +53,45 @@ You know the classic image of the angel and devil sitting on our shoulders? It's
 
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-Your self-image prevents you from being cruel to just anyone, so your devil does something very clever: it searches for people whose "battle" is hard for you to see, and makes their devil appear _intrinsic_. This way, they appear _fundamentally morally defective,_ and thus worthy of malice.
+Your self-image prevents you from being cruel to just anyone, so your devil does something very clever: it finds people whose "battle" is hard for you to see, and makes their evil appear _intrinsic_. This way, you will perceive them as _fundamentally morally defective_ and thus worthy of malice. 
 
-Long before it can justify outright cruelty, our devil finds people who we can treat with at least a little bit of contempt. The game is the same: use it to prod people into becoming increasingly worse, until we _can_ justify cruelty.
+It knows that your perceiving them this way will cause them to perceive you in the same way — because your devil and theirs are identical. In fact, they're not just identical, but are more like outgrowths of a single _shared_ Devil that is continually manipulating _all_ of our minds.
 
-We don't have enough power to accomplish much alone — but luckily, our devils are coordinating: mine baits yours into baiting mine ... Enemies trigger each other, and "allies" embolden each other, but secretly _everyone_ doing this is allied in evil. In fact, if you look closely, our devils behave more like outgrowths of a single _shared_ Devil that is continually manipulating _all_ of our minds.
-
-It is not just a religious invention: I think that everyone who introspects carefully enough eventually perceives this "distributed malevolent entity" which has a kind of intelligence and volition of its own that, even if not _literally_ true, explain its seemingly-coordinated behavior terrifyingly well.
-
-It continually drives us toward various kinds of Armageddon: situations in which everyone is violently proving just how righteous they are. This is why the US is headed toward civil war without anyone recognizing their own complicity, and it explains bitter divorces in which each side feels like the exclusive victim / hero.
+It is not just a religious invention: if you study the patterns of unkindness carefully enough, you will discover that they emerge as if from a "distributed malevolent entity" with a kind of intelligence and volition of its own that, even if not _literally_ true, explain its seemingly-coordinated behavior terrifyingly well. Every single act of unkindness is provoked by it, and contributes to it.  While under its sway, you and your enemies are not really enemies: you are secretly serving the same master.
 
 <p align="center" width="100%">
     <img width="300px" src="img/shared-devil.png"> 
 </p>
 
-It is that primordial "evil global conspiracy," to which all the rest ultimately owe their existence — and _we_ are its unwitting minions. Every attempt to maliciously subdue it "out there" just strengthens it, because such behavior is only ever initiated _by_ it, even though it makes us believe that it was initiated by us. 
+It continually drives us toward various kinds of Armageddon: situations in which everyone is violently proving how righteous they are, once and for all. It is why the US is headed toward civil war without anyone recognizing their own complicity, and why there are bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero.
 
-**Any** time you feel malice, hatred, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; any time you are tempted to divide the world into the (fundamentally) "good" and "bad," you are being manipulated into feeding the Beast. People are certainly trapped by darkness to varying degrees, but it is never intrinsic.
+It is that primordial "evil global conspiracy" to which all the rest ultimately owe their existence — and _we_ are its unwitting minions. Every attempt to maliciously subdue it "out there" just strengthens it, because such behavior is only ever initiated _by_ it, even though it makes us believe that it was initiated by us. 
+
+**Any** time you feel malice, hatred, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; any time you are tempted to divide the world into the (fundamentally) "good" and "bad" or forsake anyone, you are being manipulated into feeding the Beast.
 
 <p align="center" width="100%">
     <img width="300px" src="img/good-vs-bad.png"> 
 </p>
 
-To be clear: there may well be groups of particularly "bad" people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the conditions that effectively _compel_ their existence.
+To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the conditions that effectively _compel_ their existence. If you look carefully enough, you will find your finger in their pies.
 
 <p align="center" width="100%">
     <img width="300px" src="img/evil-conspiracy.png"> 
 </p>
 
-Our true enemy is not other people, but the dark "entity" that has captured _all_ of our minds. By keeping our attention fixated perpetually outward, it ensures that we never introspect deeply enough to discover how it works, and thereby discover how to end it. The Buddhists call it the ego: the collection of habits we use to misperceive ourselves as separate and special.
+Our true enemy is not other people, but the dark "entity" that has captured _all_ of our minds. By keeping our attention fixated perpetually outward, it ensures that we never introspect deeply enough to discover how it works, and how to end it. From another perspective, it is what the Buddhists call the ego: the collection of habits we have developed that cause us to misperceive ourselves as separate and special.
 
 > *The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge.* —Carl Jung
 
-The only way out of this trap is to see beyond the ego, to your fundamentally compassionate nature. When you see this, you cannot help but see it in everyone else, too — because in an astonishing sense, [they _are_ you](unity.md). From here, you cannot possibly harbor malice or contempt. This frees you up to perceive the hidden causes of their self-deception, enabling you to do something real about it. This is not fully developed until enlightenment, but we all can taste it at all times.
+The only way out of this trap is to see beyond the ego, to your fundamentally compassionate nature. When you see this, you cannot help but see it in everyone else, too — because in an astonishing sense, [they _are_ you](unity.md). This perception is not fully unveiled until enlightenment, but we can all taste it. Ultimately, all self-deception boils down to willful ignorance of this fact — and all unkindness reinforces it. Why "willful"? The remarkable punchline is that _part of you has known this all along._ Think of this piece as a reminder.
 
-Compassion doesn't mean being _nice_. It can outwardly be as fierce (or violent[^dalai-lama-gun], or even _apparently_ contemptuous) as the situation warrants, but these behaviors come from a completely different source. People can sense your motivation even when you think they can't — in fact, even when _you_ (consciously) can't — and it makes all the difference in the world.
+From that clarity of perception, you cannot possibly harbor malice or contempt. That enables you to perceive the hidden causes of their self-deception, allowing you to do something real about it. That's what compassion (aka kindness) is.
 
-_This_ is why wise people urge compassion for evildoers: the only alternative is to be — and spread — evil (usually while convinced that it is righteous).
+To be clear: this doesn't mean being _nice_. It can outwardly be as fierce (or violent[^dalai-lama-gun], or even _apparently_ contemptuous) as the situation warrants, but these behaviors come from a completely different source. People can sense your motivation even when you think they can't — in fact, even when _you_ (consciously) can't — and it makes all the difference in the world.
 
-Compassion doesn't always know what the most beneficial behavior _is_. It merely ensures that you are behaving in a way that is aligned with your deepest values; your profound love for the world. Determining the most effective behavior requires _wisdom_, which is a vast topic, and beyond the scope of this work. There is no doubt that dealing with profound evil in the real world is _hard._
+_This_ is why wise people urge compassion for evildoers: the _only_ alternative is to join them in evil.
+
+Compassion doesn't always know what the most beneficial behavior _is_. It merely ensures that you are behaving in a way that is aligned with your deepest values; your profound love for the world. Determining the most effective behavior requires _wisdom_, which is a vast topic, and beyond the scope of this work. There is no doubt that dealing with profound evil in the real world is _hard_, and I am sorry not to be able to provide much guidance here.
 
 > *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* —Carl Jung
 
@@ -97,7 +99,29 @@ Compassion doesn't always know what the most beneficial behavior _is_. It merely
     <img width="600px" src="img/buddha-and-demons.png"> 
 </p>
 
-Enlightenment may be a lofty goal, but we can start small, by changing social norms. We can teach our children that contempt for "bad people" isn't what it seems to be, and refuse to join our allies when we can sense that their motivation isn't "clean." Contempt[^contempt] must go the way of all other forms of evil if we are to defeat our true enemy.
+Enlightenment may be a lofty goal, but we can start small, by changing social norms. We can teach our children the difference between "kind" and "nice," and explain why kindness is _always_ the right motivation in all circumstances — even if it must express itself in a fierce (and occasionally violent) way. We can refuse to join our allies when they're caught up in the trap of contempt[^contempt], and remind them of a better way.
+
+We _all_ have a role to play in defeating our true enemy — and it all begins with us.
+
+---
+
+> _Like many of you (I'm sure), psilocybin has changed the way I see this world, and the people around me. It has torn my heart open on many occasions and revealed to me how my actions effect other people in ways I would've never imagined. In addition, psilocybin has increased my ability to empathize with people to a degree I never thought possible._
+>
+> _I consider this a blessing, but it has also led me to a very troubling conclusion:_
+>
+> _The lack of compassion, empathy and love we (society) feel for each other is staggering. Especially between people who don't know each other. The more love and empathy I feel for others, the more aware I am of society's inability to feel it for each other._
+>
+> _Does this make sense? Does it mean this blessing is really a curse? Because sometimes, it feels that way._
+>
+> — A guy from [some online forum](https://web.archive.org/web/20150628081721/http://duncantrussell.com/forum/discussion/89/a-blessed-curse-psilocybinempathy/p1)
+
+> *Nail on the head brother. My most recent mushroom trip (also the largest dose I've ever taken) I became fixated on a news story I had heard that week. About an 8 year old girl from a tribe in the Amazon, who was tied to a tree and burned alive in order to scare her people off their land so it could be logged. I realized that at the moment he did it, whoever lit that gasoline actually felt / thought more or less okay about what he was doing. **And my mind was illuminated with dozens of the parallels between that man's malformed, horrific perceptual / behavioral state, and mine. I saw the same mistakes in value attribution, the same willful ignorance of the consequences of my acts and words. And there was nothing I could do to deny the similarity.***
+>
+> *Reminds me of something (I think) Duncan [Trussell] said on some recent podcast, quoting somebody else: it isn't the victim of violence you have to pray for so much. It's the perpetrator. They are the one who is more trapped in delusion, more estranged from love, etc.*
+> 
+> (From a response)
+
+
 
 ---
 
