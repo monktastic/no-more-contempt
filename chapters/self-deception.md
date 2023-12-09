@@ -6,8 +6,6 @@ tl;dr:
 - We are secretly pushing people further into the dark, which creates more evil.
 - Until we see this, it is impossible to appreciate how evil operates, and thus to do anything genuinely useful about it. Instead, we are liable to cause _more_ harm.
 
-Trigger warning: reading about how we are "spreading evil" is not necessarily fun.
-
 ---
 
 > _Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply._ —Roland Niebuhr
@@ -49,7 +47,7 @@ As your vision becomes even more subtle, an ominous picture begins to emerge...
 
 * If we find ourselves _calculating_ what the most compassionate thing is, that is a good time to stop and check for self-deception.
 
-It's not that calculation is never necessary when determining the right course of action, but it is very often a sign that our minds are trying to justify a behavior that deep down we suspect is wrong. This becomes so natural that we have no idea we're doing it. In fact, I'd venture to say that the vast majority of human behavior falls into this category. It's not that we deep down believe that our business venture is _evil_ per se, but we subtly lie to ourselves about our motivations — and this deception accumulates like a toxin in the body politic.
+It's not that calculation is never necessary when determining the right course of action, but it is very often a sign that our minds are trying to justify a behavior that deep down we suspect is wrong. This becomes so natural that we have no idea we're doing it. In fact, I'd venture to say that the vast majority of human behavior falls into this category. It's not that we believe that our business venture is _evil_ per se, but we subtly lie to ourselves about our motivations — and this deception accumulates like a toxin in the body politic.
 
 From this perspective, giving ourselves reminders to "stay connected to our hearts" — which has powerful network effects — is perhaps the single most beneficial thing we could do as a society.
 

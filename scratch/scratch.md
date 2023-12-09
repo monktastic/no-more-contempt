@@ -1,4 +1,50 @@
 
+Sometimes we realize only after the fact that we _always_ knew that something was wrong, even when we thought that it wasn't. Thus it can happen that we come to deeply regret actions that felt completely okay at the time, discovering (to our horror) that part of us knew better even as we did them.
+
+So it is with _all_ acts of unkindness, in the final analysis.
+
+Something within you knows that kindness is always the right approach in every situation — including the ones where it seems "obviously" wrong. There's a part of you that wants to respond to the evils of the world by hardening your heart and becoming a tiny bit evil yourself. Of course, you probably don't think of it as "being evil." We tend to call it righteous retribution. But something deep within you knows that what's really happening is that the evil out there is taking root in here.
+
+Every single time you feel malice, hatred, contempt, or _even self-righteousness_ toward anyone — no matter how "evil" — you are preparing to do something that you know will ultimately harm the world. The difficulty is in getting yourself to admit this. 
+
+The faster we all get our act together, the better. The fate of humanity depends on it.
+
+---
+
+Being kind is not the same as being nice. Confusing the two may seem innocuous, but it's actually hiding something insidious.
+
+---
+
+Doing genuine good in the world requires two qualities: wisdom and compassion. Wisdom is about knowing what the "right thing" _is_, whereas compassion is about wanting to _do_ the right thing (whatever it turns out to be). Wisdom has received more attention, both because it is easier to operationalize and because the topic feels less moralizing. It is taken for granted that most of us — the "good people" — want to do the right thing. But this is not a good assumption to make.
+
+"Kind" turns out to be one of the hardest words to define, but also perhaps the most important.
+
+We've all had the experience of doing something that deep down we know is wrong, but convincing ourselves that it's not. What we probably don't realize is how often we engage in such self-deception. In particular, _every single act of unkindness_ is ultimately self-deceptive — no matter how "bad" the person it's directed at. This can only be true if "kind" is not synonymous with "nice," because our conscience rightly identifies that being nice sometimes causes more harm than good.
+
+
+
+---
+
+How do we not lose our humanity in the face of evil? Why _should_ we not? How do we even know if we are?
+
+The world's great ethical traditions give convincing answers to these questions, but none are as satisfying as discovering the place within yourself that already knows. 
+
+---
+
+The greatest trick the Devil ever pulled was to convince you that he doesn't live within your own mind.
+
+You know that urge you have to be cruel to "bad people"? How it feels unmistakably righteous because they're bad? How you can even *prove* that it's a net good? 
+
+You are being manipulated by exactly the same parasite that is controlling their minds. If you give in to it, you have no leg to stand on when criticizing them. Your behavior will make the world a worse place, even as you're convinced that you've made it better.
+
+Most of humanity is presently caught in this trap. We must do everything in our power to extricate ourselves from it.
+
+---
+
+
+There's a peculiar mode of being that humans get into, where we license ourselves to _be_ a little bit evil when we believe that we are _fighting_ evil. But we don't recognize our own behavior as being evil; to us, it feels like "good intentions." If we look more closely, we always find self-deception at work: part of us knows that what we're doing will make the world worse. This is exactly the same lie that's driving the other person's behavior, and if we don't learn to recognize it in ourselves, we can never heal it in them.
+
+---
 
 When we experience someone as being even a little bit evil, this triggers the evil within us.
 
