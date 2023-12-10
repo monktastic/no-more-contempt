@@ -1,11 +1,11 @@
 
-Sometimes we realize only after the fact that we _always_ knew that something was wrong, even when we thought that it wasn't. Thus it can happen that we come to deeply regret actions that felt completely okay at the time, discovering (to our horror) that part of us knew better even as we did them.
+Sometimes it is only after the fact that we discover that we _always_ knew that something was wrong, even when we thought that it wasn't. Thus it can happen that we come to deeply regret behaviors that felt completely okay at the time, realizing (to our horror) that part of us knew better even as we engaged in them.
 
 So it is with _all_ acts of unkindness, in the final analysis.
 
 Something within you knows that kindness is always the right approach in every situation — including the ones where it seems "obviously" wrong. There's a part of you that wants to respond to the evils of the world by hardening your heart and becoming a tiny bit evil yourself. Of course, you probably don't think of it as "being evil." We tend to call it righteous retribution. But something deep within you knows that what's really happening is that the evil out there is taking root in here.
 
-Every single time you feel malice, hatred, contempt, or _even self-righteousness_ toward anyone — no matter how "evil" — you are preparing to do something that you know will ultimately harm the world. The difficulty is in getting yourself to admit this. 
+Every single time you feel malice, hatred, contempt, or _even self-righteousness_ toward anyone — no matter how "evil" — you are preparing to do something that you know will ultimately harm the world. The difficulty is in getting yourself to admit this.
 
 The faster we all get our act together, the better. The fate of humanity depends on it.
 
