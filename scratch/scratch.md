@@ -1,4 +1,20 @@
 
+How do we not lose our hearts in the face of evil? And why _should_ we not?
+
+Ultimately, no answer is as satisfying as discovering for yourself the astonishing ruse by which evil captures hearts.
+
+---
+
+What is it that allows some people to be cruel without compunction — as though they're not even aware that they're perpetrating evil? Or even worse, as though they _relish_ it?
+
+If you were guilty of being "evil," would you know it? Or is it possible that the same trick that prevents them from recognizing their evil prevents you from seeing your own?
+
+---
+
+What if your fight to improve the world is doing more harm than good? And what if there's a part of you that already knows this but doesn't want you to find out?
+
+---
+
 Sometimes it is only after the fact that we discover that we _always_ knew that something was wrong, even when we thought that it wasn't. Thus it can happen that we come to deeply regret behaviors that felt completely okay at the time, realizing (to our horror) that part of us knew better even as we engaged in them.
 
 So it is with _all_ acts of unkindness, in the final analysis.

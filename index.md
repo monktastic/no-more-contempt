@@ -1,23 +1,27 @@
 
-_Warning: This piece is about the nature of good and evil. It is **not** light reading._
+How do we not lose our hearts in the face of evil? And why _should_ we not?
+
+Ultimately, no answer is as satisfying as discovering for yourself the astonishing ruse by which evil has captured our hearts.
 
 ---
-
-What if your fight to improve the world is doing more harm than good? And what if there's a part of you that already knows this but doesn't want you to find out?
 
 Consider [this horrifying story from 2012](https://www.telegraph.co.uk/news/worldnews/southamerica/brazil/9005835/Loggers-burned-Amazon-tribe-girl-alive.html):
 
 > _Loggers in Brazil captured an eight-year-old girl from one of the Amazon's last uncontacted tribes and burned her alive as part of a campaign to force the indigenous population from its land [...]_
 
+<p align="center" width="100%">
+    <img width="300px" src="img/tribe.png"> 
+</p>
+
 Can you feel the profound anger and heartbreak for the girl, her tribe, and humanity? It makes you want to do everything in your power to ensure this kind of thing never happens again — including punishing and maybe even harming the perpetrators if need be. At the same time, you may feel a desire to harm them quite _independently_ of any good it will bring: pure old-fashioned vengeance.
 
-These two motivations — compassion and malice — arise from very different aspects of mind, but can be extremely difficult to tell apart. We usually dress up the latter to make it seem respectable; as though it is "for the greater good." We convince ourselves that it doesn't matter which intention is driving our behavior; that only the _result_ matters. Because we are "good people," pretty much anything we do is automatically good. If pressed, we can even _prove_ how our cruelty will be a net good.
+These two motivations — compassion and malice — arise from very different aspects of mind, but can be extremely difficult to tell apart. We usually dress up the latter to make it seem respectable; as though it is "for the greater good." We convince ourselves that it doesn't matter which intention is driving our behavior; that only the result matters — and _fighting evil_ could only result in a net good, however it is accomplished.
 
 This profound confusion is how evil sneaks into the world, undetected.
 
-_Before I speak to your mind, let me speak to your heart. Imagine how dark and twisted a mind has to become to feel okay about doing what that logger did. If you introspect carefully enough, you will discover that part of you is eager to shove it deeper into Hell — and that this violent urge is every bit as malevolent as burning a girl alive. The evil in their mind has spread to yours and made you feel more than okay about it. Until you see how effortlessly it has seduced you, you will never understand the trick by which it has enslaved our world. You will only succeed in unwittingly spreading it. The world needs your fierce, uncompromising Love, not your contempt. They are **not** the same._
+_Before I speak to your mind, let me speak to your heart. Imagine how dark and twisted a mind must become to feel okay about doing what that logger did. If you introspect deeply enough, you will discover that part of you would delight in shoving it deeper into Hell, where it "belongs" — and that this violent urge is every bit as malevolent as burning a girl alive. The evil in the logger's mind is spreading to yours — only it doesn't feel evil; it feels unmistakably **righteous**. Until you see how this seduction works, you will never understand the trick by which it has enslaved our world. You will only succeed in unwittingly spreading it. The world desperately needs our fierce, uncompromising Love; not our self-righteous contempt. They are **not** the same. One is the evil twin of the other._
 
-We can't predict all the downstream effects of even our tiniest behaviors to know if they wil be a "net good," but we _can_ know when we are being evil — and it happens far more often than we realize.
+We can't predict all the downstream effects of even our tiniest behaviors to know if they will be a "net good," but we _can_ know when we are being evil — and it happens far more often than we realize.
 
 <p align="center" width="100%">
     <img width="300px" src="img/half-evil.png"> 
@@ -33,9 +37,15 @@ The world becomes darker as a result. But this isn't an unfortunate side effect 
     <img width="300px" src="img/evil-above-world.png"> 
 </p>
 
-People are only able to misbehave due to a kind of self-deception: part of them knows perfectly well that what they're doing is wrong, but that "wrongness" is cleverly hidden from conscious self-reflection. Part of us knows this, and that our malice will only exacerbate the problem, but we hide this knowledge from ourselves. If we could see that we were doing this, we would understand _exactly_ the mechanism that enables their misbehavior, and thereby be able to do something useful about it. Instead, we fall into the same trap that they're caught in, triggering a mutual spiral into Hell.
+People are only able to misbehave due to a kind of self-deception: part of them knows perfectly well that what they're doing is wrong, but that "wrongness" is cleverly hidden from conscious self-reflection. We all know this state perfectly well, if we're honest. Every one of us has skirted our conscience, either pretending that we couldn't hear it, or that it was safe to override it. Try to remember what that state is like.
 
-It's not merely _harming_ them that caused this spiral, but the malice with which we did it. It is entirely possible to harm people out of fierce compassion for the world, but it feels **nothing** like malice. Others can sense the profoundly benevolent intent, and it prevents their self-deception mechanism from finding the "hook" it needs to reinforce itself. In fact, it may well plant the seed of introspection, which will _weaken_ the source of evil. Your powerful example of resisting the siren call of darkness and standing firm in your integrity matters far more than you know.
+In this state, wrong no longer feels _wrong_ — and it would take considerable skill for someone to call out our misbehavior without triggering our defense mechanisms and making a bigger mess. If they did it with a trace of cruelty, we would immediately identify them as someone without the moral authority to be judging us. We would see them as being blithely unaware of their own darkness, and in need of correction themselves. It would result in a mutual spiral into Hell.
+
+Do they know that this will happen? Consciously, they do not. They imagine that their overwhelming _righteousness_ will cause us to repent. But at a deeper level, they know that this story is a sham. Part of them secretly wants to egg us on, so that their unflattering view of us will be vindicated — but they cannot admit this to themselves, any more than we can admit our own self-deception to ourselves in that moment.
+
+The same is true when we use malice to correct "bad people." Part of us is trying to provoke them, but we convince ourselves that we're doing it for the greater good. If we could just see how this process of self-deception works in us, we would understand _exactly_ the mechanism that enables their misbehavior, which would enable to do something useful about it. Instead, we get sucked into the same old trap, triggering that downward spiral.
+
+It's not merely _harming_ them that causes this spiral, but the malice with which we do it. It is entirely possible to harm people out of fierce compassion for the world, but it feels **nothing** like malice. The connection to your "heart" has not been severed. Others can sense the profoundly benevolent intent, and it prevents their evil from finding the "hook" it needs to justify itself. Instead, it is confronted with a blinding Light that will weaken it, if only imperceptibly. Indeed, it is the only thing that can.
 
 <p align="center" width="100%">
     <img width="300px" src="img/devil-vs-devil.png"> 
@@ -43,9 +53,17 @@ It's not merely _harming_ them that caused this spiral, but the malice with whic
 
 If it is really this simple, then why haven't we (as a species) figured it out and changed our ways?
 
-Part of us _knows_ that we're not intrinsically better than anyone — but given how low people can sink, this is painful to admit, so we hide it. We use malice to keep people trapped in delusion, so that we can prove that we are morally superior. Unfortunately, pushing people into the dark is hardly "morally superior," so we must hide this intention from ourselves, too, convincing ourselves that we are only "fighting evil." This results in an ever-tightening noose of deception that collapses in on itself like a black hole, preventing us from ever suspecting what we're really doing.
+Part of us _knows_ that we're not intrinsically better than anyone — but given how low people can sink, this is painful to admit, so we hide it from ourselves. We use malice to keep people trapped in delusion, so that we can prove that our morally superiority. Unfortunately, shoving people into Hell is hardly "morally superior," so we must hide this intention from ourselves, too, by convincing ourselves that it is noble. This results in an ever-tightening noose of deception that collapses in on itself like a black hole, preventing us from ever suspecting what we're really doing.
 
-Somewhere down this dark path, we will lose even the _pretense_ of being good. That's where the "evil people" find themselves trapped. The only way to protect against this slippery slope is to recognize how it works, and how susceptible you are to it.
+(This is why it feels so damn delicious to watch revenge fantasy flicks like _The Equalizer_, or those "Karens Getting Owned" YouTube videos. They are playing to this delusion, pure and simple — and as a culture, we eat it up.)
+
+<p align="center" width="100%">
+    <img width="300px" src="img/equalizer.png"> 
+    <br/>
+    <em>Oh noes, even MOAR consequences!</em>
+</p>
+
+If we travel far enough down this dark path, we will eventually lose even the _pretense_ of being good. That's where the "evil people" find themselves trapped. We ourselves are profoundly susceptible to this slippery slope, whether we like to admit it or not — and the only way to protect against it is to recognize how it works. This is also the only way to free others, instead of mindlessly perpetuating the trap.
 
 ---
 
@@ -59,9 +77,11 @@ You know the classic image of the angel and devil sitting on our shoulders? It's
 
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-Your angel already knows all this, and that even the most "evil" person is merely under the sway of a powerful parasite; one held in place by some "battle" invisible not only to you, but probably even to them. As hard as it may be to evict it, it's never _impossible._ But your devil makes it _appear_ impossible; as though their evil is intrinsic. This way, they seem _fundamentally defective_, and therefore worthy of malice. Thus begins the dehumanization.
+Your angel already knows all this, and that even the most "evil" person is merely under the sway of a powerful parasite; one held in place by some "battle" invisible not only to you, but probably even to them. As hard as it may be to evict it, it's never _impossible._ But your devil makes it _appear_ impossible; as though their evil is intrinsic. This way, they seem _fundamentally defective_, and therefore worthy of malice.
 
-Your devil knows that this hardening of your heart will appear evil to others — because it is the very _essence_ of evil — and so it knows that it will trigger the same reflex in them. It knows this because your devil and theirs are identical. In fact, they're more than just identical: they behave more like outgrowths of a single collective entity that is continually manipulating _all_ of our minds — the Devil, if you will.
+Your devil knows that this dehumanization will appear evil to others — because it is the very _essence_ of evil — and so it knows that it will trigger the same reflex in them. It knows this because your devil and theirs are identical.
+
+In fact, it turns out they're more than just identical: they're more like outgrowths of a single dark collective entity that is continually manipulating _all_ of our minds — the Devil, if you will.
 
 <p align="center" width="100%">
     <img width="300px" src="img/shared-devil.png"> 
@@ -69,17 +89,17 @@ Your devil knows that this hardening of your heart will appear evil to others �
 
 This is not just a religious invention: anyone who introspects carefully enough eventually perceives this "distributed malevolent entity" with a kind of intelligence and volition of its own that, even if not _literally_ true, explain its seemingly-coordinated behavior terrifyingly well. 
 
-This "being" continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving just how righteous they are. It is why the US is headed toward civil war without anyone recognizing their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn without anyone ever noticing who is really in charge.
+This "being" continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving just how righteous they are. It is why the US is headed toward civil war without anyone recognizing their own complicity, and it explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn without anyone ever noticing the true source of it all.
 
-It is that primordial "evil global conspiracy" to which all the rest ultimately owe their existence — and _we_ are its unwitting minions. Every attempt to maliciously subdue it "out there" just strengthens it, because such behavior is only ever initiated _by_ it — though it makes us believe that it was initiated by us, in the service of Good.
+It is that primordial "evil global conspiracy" to which all the rest ultimately owe their existence — and _we_ are its unwitting minions. Every attempt to maliciously subdue it "out there" just strengthens it, because such behavior is only ever initiated _by_ it — though it makes us believe that it was initiated by us.
 
-**Any** time you feel malice, hatred, contempt, or self-righteousness toward another being; any time you see them as fundamentally defective or inferior; any time you are tempted to divide the world into the (fundamentally) "good" and "bad," or to forsake anyone, you are feeding the insatiable Beast.
+**Any** time you feel malice, hatred, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; any time you are tempted to divide the world into the (fundamentally) "good" and "bad," or to forsake anyone, you are feeding the Beast.
 
 <p align="center" width="100%">
     <img width="300px" src="img/good-vs-bad.png"> 
 </p>
 
-To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't busy feeding the source — and conversely, it is _completely inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the very conditions that _compel_ their existence. If you could trace all the subtle threads of causality weaving through the wrold, you would find your finger in countless evil pies.
+To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't busy feeding the source — and conversely, it is _completely inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the very conditions that _compel_ their existence. If you could trace all the subtle threads of causality weaving through the world, you would find your finger in countless evil pies.
 
 <p align="center" width="100%">
     <img width="300px" src="img/evil-conspiracy.png"> 
@@ -93,9 +113,9 @@ The only way out of this trap is to see beyond the ego, to your fundamentally co
 
 From that clarity of perception, you cannot possibly harbor malice or contempt. You see it for the pure nonsense that it is. This enables you to perceive the hidden causes of people's self-deception, allowing you to do something real about it. That's what compassion (aka kindness) is.
 
-To repeat: it doesn't mean being _nice_. It can outwardly be as fierce (or violent[^dalai-lama-gun], or even _apparently_ contemptuous) as the situation warrants, but these behaviors come from a completely different source, and have a completely different effect on all minds involved — again, rippling outward into the world, in ways that we can't see or predict.
+To repeat: it doesn't mean being _nice_. It can outwardly be as fierce (or violent[^dalai-lama-gun], or even _apparently_ contemptuous) as the situation warrants, but these behaviors come from a completely different source, and have a completely different effect on all minds involved — again, rippling outward into the world in ways that we can't see or predict.
 
-_This_ is why wise people urge compassion for evildoers: the only alternative is to join them in evil, usually while flawlessly convinced that you're helping.
+_This_ is why wise people urge compassion for evildoers: the only alternative is to join them in evil.
 
 To be clear, compassion doesn't always know what the most beneficial behavior _is_; it merely ensures that you are not falling into the many seductive traps of your darkness. Determining the most effective behavior requires _wisdom_, which is a vast topic, and beyond the scope of this work. Compassion may be no easier to acquire than wisdom, but it is much simpler: there is a single place within your mind that you can turn to and _know._ So much trouble could be avoided if we just remembered to **look** — especially when we were most convinced that we didn't need to.
 
