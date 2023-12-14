@@ -1,13 +1,23 @@
 
-How do we not lose our hearts in the face of evil? And why _should_ we not?
+What is it that allows some people to be cruel without compunction, as though they're not even aware that they're perpetrating evil — or worse, as though they _relish_ it?
 
-Ultimately, no answer is as satisfying as discovering for yourself the astonishing ruse by which evil captures hearts.
+If you were guilty of this, would you know it? Or is it possible that the same trick that prevents others from recognizing their evil is preventing you from seeing your own?
 
 ---
 
-What is it that allows some people to be cruel without compunction — as though they're not even aware that they're perpetrating evil? Or even worse, as though they _relish_ it?
+We all know that we're not supposed to lose our humanity in the face of evil. But why not? The answer is astonishing.
 
-If you were guilty of being "evil," would you know it? Or is it possible that the same trick that prevents them from recognizing their evil prevents you from seeing your own?
+---
+
+How do we not lose our humanity in the face of evil? And why _should_ we not?
+
+Ultimately, no answer is as satisfying as discovering for yourself the astonishing ruse by which evil has captured our hearts.
+
+---
+
+What is it that allows some people to be cruel without compunction, as though they're not even aware that they're perpetrating evil — or worse, as though they relish it?
+
+If you were guilty of this, would you know it? Or is it possible that the same trick that prevents them from recognizing their evil is preventing you from seeing your own?
 
 ---
 

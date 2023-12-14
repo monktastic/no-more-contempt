@@ -1,7 +1,5 @@
 
-How do we not lose our hearts in the face of evil? And why _should_ we not?
-
-Ultimately, no answer is as satisfying as discovering for yourself the astonishing ruse by which evil has captured our hearts.
+We think that hating "bad people" is a sign of the good in us, but what if it's a sign of something far more insidious? Evil doesn't announce itself as "evil" when it infiltrates our minds...
 
 ---
 
@@ -15,21 +13,21 @@ Consider [this horrifying story from 2012](https://www.telegraph.co.uk/news/worl
 
 Can you feel the profound anger and heartbreak for the girl, her tribe, and humanity? It makes you want to do everything in your power to ensure this kind of thing never happens again — including punishing and maybe even harming the perpetrators if need be. At the same time, you may feel a desire to harm them quite _independently_ of any good it will bring: pure old-fashioned vengeance.
 
-These two motivations — compassion and malice — arise from very different aspects of mind, but can be extremely difficult to tell apart. We usually dress up the latter to make it seem respectable; as though it is "for the greater good." We convince ourselves that it doesn't matter which intention is driving our behavior; that only the result matters — and _fighting evil_ could only result in a net good, however it is accomplished.
+These two motivations — compassion and malice — arise from very different aspects of mind, but can be extremely difficult to tell apart. We usually dress up the latter to make it seem respectable; as though it is "for the greater good." We convince ourselves that it doesn't matter which intention is driving our behavior; that only the result matters — as though our intentions have no effect on the ultimate outcome.
 
-This profound confusion is how evil sneaks into the world, undetected.
+This convenient story is how evil sneaks into the world, undetected.
 
-_Before I speak to your mind, let me speak to your heart. Imagine how dark and twisted a mind must become to feel okay about doing what that logger did. If you introspect deeply enough, you will discover that part of you would delight in shoving it deeper into Hell, where it "belongs" — and that this violent urge is every bit as malevolent as burning a girl alive. The evil in the logger's mind is spreading to yours — only it doesn't feel evil; it feels unmistakably **righteous**. Until you see how this seduction works, you will never understand the trick by which it has enslaved our world. You will only succeed in unwittingly spreading it. The world desperately needs our fierce, uncompromising Love; not our self-righteous contempt. They are **not** the same. One is the evil twin of the other._
+_Before I speak to your mind, let me speak to your heart. Imagine how dark and twisted a mind must become to feel okay about doing what that logger did. If you introspect deeply enough, you will discover that part of you would delight in shoving it deeper into hell, where it "belongs" — and that this violent urge is every bit as malevolent as burning a girl alive. The evil in the logger's mind is spreading to yours — only it doesn't feel evil; it feels impossibly **righteous**. Until you see how this seduction works, you will never understand the trick by which evil has enslaved our world. You will only succeed in unwittingly spreading it. The world desperately needs our fierce, uncompromising Love; not our contempt. They are **not** the same. One is the evil twin of the other._
 
-We can't predict all the downstream effects of even our tiniest behaviors to know if they will be a "net good," but we _can_ know when we are being evil — and it happens far more often than we realize.
+We can't predict all the downstream effects of even our tiniest behaviors, but we _can_ know whether we are being totally honest about our intentions — and surprisingly, others can, too. 
 
 <p align="center" width="100%">
     <img width="300px" src="img/half-evil.png"> 
 </p>
 
-As much as we try to hide our underlying motivations — even from ourselves — other people are _exquisitely_ sensitive to them, if only subconsciously. Malice makes us look evil — _because it is_ — and it powerfully evokes _their_ malice in response.
+Other people are _exquisitely_ sensitive to our motivations, even if only subconsciously. They can detect our malicious intent, even when we (consciously) can't. It makes us look evil — because it _is_ — and this powerfully evokes _their_ malice in response.
 
-They now feel every bit as justified in violently stopping us as we do them, because they can now plausibly claim to be _fighting evil_. Even if we manage to suppress their misbehavior (in public, anyway), the darkness has been embedded deeper into their mind — and it _will_ manifest in some way. From there, it will ripple out into the world, where we will be able to disavow any connection to it.
+They then feel justified in violently stopping us, because from their perspective they are legitimately _fighting evil_. Even if our cruelty manages to suppress their misbehavior (in public, anyway), the darkness has been embedded deeper into their mind — and it _will_ manifest in some way. From there, it will ripple out into the world, where we will be able to disavow any connection to it.
 
 The world becomes darker as a result. But this isn't an unfortunate side effect of our well-intentioned behavior: it was secretly orchestrated by a sinister aspect within our minds. The way this works is _insanely_ clever.
 
@@ -37,15 +35,13 @@ The world becomes darker as a result. But this isn't an unfortunate side effect 
     <img width="300px" src="img/evil-above-world.png"> 
 </p>
 
-People are only able to misbehave due to a kind of self-deception: part of them knows perfectly well that what they're doing is wrong, but that "wrongness" is cleverly hidden from conscious self-reflection. We all know this state perfectly well, if we're honest. Every one of us has skirted our conscience, either pretending that we couldn't hear it, or that it was safe to override it. Try to remember what that state is like.
+People are only able to misbehave due to a kind of self-deception: part of them knows perfectly well when what they're doing is wrong, but that "wrongness" is cleverly hidden from conscious self-reflection. We believe that we can force them to acknowledge it, but this usually backfires: it makes them perceive _us_ as bad people, triggering a nasty response, which then forces us to escalate.
 
-In this state, wrong no longer feels _wrong_ — and it would take considerable skill for someone to call out our misbehavior without triggering our defense mechanisms and making a bigger mess. If they did it with a trace of cruelty, we would immediately identify them as someone without the moral authority to be judging us. We would see them as being blithely unaware of their own darkness, and in need of correction themselves. It would result in a mutual spiral into Hell.
+Part of us secretly knew this would happen. In fact, it _planned_ it. We wanted them to react poorly, so that we could prove to ourselves just how bad they are, thus licensing righteous escalation. Part of us knows perfectly well that we are doing this, but another part is carefully hiding that fact from ourselves. Sound familiar? We are caught in precisely the same self-deceptive trap that they are.
 
-Do they know that this will happen? Consciously, they do not. They imagine that their overwhelming _righteousness_ will cause us to repent. But at a deeper level, they know that this story is a sham. Part of them secretly wants to egg us on, so that their unflattering view of us will be vindicated — but they cannot admit this to themselves, any more than we can admit our own self-deception to ourselves in that moment.
+If we could just see how easily we deceive ourselves, we would understand the mechanism that enables _all_ misbehavior, which would empower to do something useful about it. Instead, we get sucked into the same trap that humanity has been for millennia.
 
-The same is true when we use malice to correct "bad people." Part of us is trying to provoke them, but we convince ourselves that we're doing it for the greater good. If we could just see how this process of self-deception works in us, we would understand _exactly_ the mechanism that enables their misbehavior, which would enable to do something useful about it. Instead, we get sucked into the same old trap, triggering that downward spiral.
-
-It's not merely _harming_ them that causes this spiral, but the malice with which we do it. It is entirely possible to harm people out of fierce compassion for the world, but it feels **nothing** like malice. The connection to your "heart" has not been severed. Others can sense the profoundly benevolent intent, and it prevents their evil from finding the "hook" it needs to justify itself. Instead, it is confronted with a blinding Light that will weaken it, if only imperceptibly. Indeed, it is the only thing that can.
+It's not _harming_ them that is the problem, but the malice with which we do it. It is entirely possible to harm people out of fierce compassion for the world, but it feels **nothing** like malice. The crucial connection to our "heart" has not been severed. Others can sense the profoundly benevolent intent, and it prevents their evil from finding the "hook" it needs to reinforce itself. Instead, it is confronted with a blinding Light that will weaken it, if only imperceptibly — the _true_ "righteousness" that we falsely thought we were accessing through malice.
 
 <p align="center" width="100%">
     <img width="300px" src="img/devil-vs-devil.png"> 
@@ -53,9 +49,11 @@ It's not merely _harming_ them that causes this spiral, but the malice with whic
 
 If it is really this simple, then why haven't we (as a species) figured it out and changed our ways?
 
-Part of us _knows_ that we're not intrinsically better than anyone — but given how low people can sink, this is painful to admit, so we hide it from ourselves. We use malice to keep people trapped in delusion, so that we can prove that our morally superiority. Unfortunately, shoving people into Hell is hardly "morally superior," so we must hide this intention from ourselves, too, by convincing ourselves that it is noble. This results in an ever-tightening noose of deception that collapses in on itself like a black hole, preventing us from ever suspecting what we're really doing.
+Part of us _knows_ that we're not intrinsically better than anyone — but given how low people can sink, this is painful to admit, so we hide it from ourselves. We use malice to keep people trapped in delusion, so that we can prove our morally superiority. Unfortunately, shoving people into Hell is hardly "morally superior," so we must hide this intention from ourselves, too, by dressing it up as noble. This results in an ever-tightening noose of deception that collapses in on itself like a black hole, preventing us from ever suspecting what we're really doing.
 
-(This is why it feels so damn delicious to watch revenge fantasy flicks like _The Equalizer_, or those "Karens Getting Owned" YouTube videos. They are playing to this delusion, pure and simple — and as a culture, we eat it up.)
+In other words, we _need_ to see people as fundamentally bad, to remind ourselves that we are nothing like them. So we subconsciously behave in ways that "help" them stay bad. How? Not only by pushing them down, but by also trying to hide this behavior behind the guise of "good." That hypocrisy gives it the extra "oomph" it needs to really succeed.
+
+(As an aside: revenge fantasy flicks like _The Equalizer_ and those "Karens Getting Owned" YouTube videos are playing to this delusion, pure and simple — and as a culture, we eat it up.)
 
 <p align="center" width="100%">
     <img width="300px" src="img/equalizer.png"> 
