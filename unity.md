@@ -1,5 +1,5 @@
 
-As has been mentioned, directly perceiving the full interconnectedness and "oneness" of reality is what contemplative traditions would call enlightenment, but all of us can taste it to some degree or another. That's why literature like the following speaks to us so powerfully. (It is also why we sometimes thank people for acts of charity that don't seem to benefit us directly. We can sense that whatever happens to the world ultimately happens to us.)
+Directly perceiving the full interconnectedness and "oneness" of reality is what contemplative traditions would call enlightenment, but all of us can taste it to some degree or another long before then. That's why literature like the following speaks to us so powerfully. (It is also why we sometimes thank people for acts of charity that don't seem to benefit us directly. We can sense that whatever happens to the world ultimately happens to us.)
 
 [The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI): A short story by Andy Weir and animated by Kurzgesagt.
 
