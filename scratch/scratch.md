@@ -1,54 +1,10 @@
 
-There is something uniquely delicious about visiting righteous vengeance upon evil people. So our subconscious mind does something very clever: it searches for people who we can plausibly describe as "evil," and then it makes us bait them into behaving in ways that validate our perception of them. But it's _how_ we bait them that's the really interesting part.
-
-Baiting people into evil is, well... evil. So we hide our true intentions, telling ourselves that we are "fighting evil." This is self-deception. As it turns out, self-deception is precisely the mechanism behind _all_ forms of evil: people know perfectly well when what they are doing is wrong, but the _wrongness_ is carefully hidden from conscious self-reflection.
-
-So part of them can sense that we're profound hypocrites, and that we don't have the moral authority to be judging them (at least, in that moment). They therefore see _us_ as evil, and feel compelled to fight back. Mission accomplished: we can now be confident that they are evil.
-
-Did you notice the actual bait? It wasn't our behavior — whether we yelled at, mocked, or even shot them. Those can all be perfectly valid ways to fight evil, given the right circumstances. The bait was the _intention with which we did it._ Simply by harboring malice or self-righteousness, you are telegraphing to the world your "secret" intent to create more evil — and that is all that is required to make it work. Brilliant, isn't it?
-
-And it gets better.
-
-This behavior is caused by a kind of parasite that lives in our minds. It manipulates our very perception so that we literally _see_ some people as deserving of malice. For you, it is the "bad people" — those who are fundamentally morally defective. But the thing is, they're not _fundamentally_ defective; they're actually under the sway of the very same parasite.
-
-Your parasite is tricking you into overlooking the parasite in others, so that you behave in ways that give _their_ parasite the ammo it needs to trick them into doing the same right back at us. Don't you see? Your parasite and theirs aren't enemies — they are _allies!_ **All** of our parasites are allied, getting us to behave in ways that strengthen each other's at every turn.
-
-This is that secret "evil global conspiracy" that everyone fears exists — and part of it lives within your very own mind. While under its terrible sway, every single thing you do to "fight" evil out there only amplifies it.
-
-Its greatest trick is to convince you that it does not live in your mind, but only "out there." Maybe you think that okay, fine, you have a _tiny_ role to play in the world's ills, but still, the evil people are the real problem. But the truth is, once you are totally free of your parasite, that illusion falls apart — because you now directly perceive their parasites.
-
-
 
 ---
 
 Have you noticed that hating people is obviously wrong, but hating "bad people" feels more than okay? Why is that?
 
 There is a certain virus that sneaks into minds, undetected. When it infects other people, we easily recognize it as "evil"; but once inside of _us_, it feels unmistakably righteous...
-
----
-
-What is the best way to fight evil? The obvious answer is to find the "evil people" and fight them, but there is a very good reason that this plan hasn't been working.
-
-Evil behaves like a parasite that infects people's minds and alters their very perception. It makes them see certain other people as subhuman, and thus fair game for cruelty. The infectee — the "evil person" — knows perfectly well that this is wrong at _some_ level, but the parasite cleverly shields that "wrongness" from conscious self-reflection. The person simultaneously _knows_ and _doesn't_.
-
-We are all familiar with this schism of mind. We've all had the experience of skirting our conscience, either by pretending that we couldn't hear it, or that we could get away with overriding it. It is a kind of self-deception, and it is precisely this mechanism that enables _all_ evil.
-
-When the parasite infects someone who considers themselves a "good person" — like you or me — it does something especially clever: the "certain other people" who it makes look subhuman are the "bad people." Think about it: doesn't it feel positively _righteous_ to treat those people with cruelty? It may be hard to admit this to yourself, but part of you knows that this is a dangerous lie.
-
-When we viciously attack a "bad person," part of them can sense that we are under the sway of exactly the same parasite that they are. Therefore, we have no moral authority by which to judge them. So, far from simply repenting, they now see _us_ as evil, and include us in their group of "people who deserve cruelty." We take this as confirmation that they, likewise, belong in _ours._
-
-This plan _can't_ work to end evil, because it was designed by the parasite _not_ to work. On the contrary, it is specifically designed to _strengthen_ the grip of the parasite in all of our minds — and it is working astonishingly well. Somehow, after thousands of years, we haven't caught on to its trick.
-
-So is the solution to _not_ fight "evil people"? Not exactly. The trick is to see that there _are_ no "evil people"; only people who are more and less infected by the parasite. Once you see this — really _see_, and not just _believe_ — you no longer feel like you are fighting _people_. You are only ever fighting the parasite that has infected _all_ of our minds.
-
-Sometimes, fighting the parasite certainly takes the _form_ of fighting people. So then what's the difference? You never feel _malice_, the sinister pleasure of watching people be harmed. You're not gleefully shoving the "bad people" further into the dark, like you were when under the sway of your parasite. You feel no _self-righteousness_; the sense that you are fundamentally better than anyone else. You can now see clearly that you are not; that this idea has **always** been the parasite talking.
-
-This is called _compassion,_ and other people can sense it. There is no particular form that it must take. It can be fierce or even violent if necessary. But your fundamental benevolence prevents their parasites from using your evil as justification to further infect their minds. This makes **all** the difference in the world. It is the only way to actually fight evil instead of unwittingly spreading it.
-
-That is why the fight against evil _must_ begin with doing everything in your power to find and evict the parasite that has secretly commandeered your mind.
-
-
-
 
 
 ---
