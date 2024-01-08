@@ -1,3 +1,69 @@
+
+> Be kind, ...
+
+There are two ways to understand this aphorism. The first goes something like this: 
+
+> Be _nice_, because _most_ people are fighting a great battle. Some people, however, are just bad. They're _willfully_ misbehaving, and not due to any 'great battle.' They don't deserve kindness.
+
+The second understanding is much more profound.
+
+Imagine a mind-virus that could infect your mind so deeply that it appeared to _be_ you. This way, other people would never detect that you were fighting a battle at all. They would perceive you as someone worthy only of contempt; someone to hate, which would just drive the virus _deeper_. Meanwhile, your "true self" would be crying out for help from inside a tiny box, locked away so deeply that the bulk of your mind couldn't even remember that it existed.
+
+This story is not far from the truth. This virus exists, and we call the infected people "evil."
+
+If you think I'm suggesting that we be _nice_ to them, think again. The virus is far too clever to be defeated by such a naive strategy. But being cruel is even worse — and the reason why is even more shocking: _we ourselves are infected._ Our contempt for other people is only ever initiated by our virus, and its only purpose is to _strengthen_ theirs. **Our viruses are secretly coordinating.** We are all pawns in a game that most of us don't even realize we're playing.
+
+Our infection may not be as deep as the "bad" people's — yet. We still retain some semblance of our "true selves"; the part that could never want to cause harm. But the virus is operating within us at all times, always subtly manipulating our perceptions, biding its time so that it can burrow deeper.
+
+True kindness isn't about being nice. It's about recognizing this fiendish foe that we all face, and doing what we can to help each other defeat it — instead of being tricked into empowering it like we have been.
+
+Let's win this fight. It's the only one that ultimately matters.
+
+---
+---
+
+"Compassion" may be the most deeply misunderstood word in the English language. We think it has something to do with being gentle or nice. Compassion for evildoers seems naive and even dangerous — what good could come from empathizing with someone so despicable?
+
+But the truth is that part of your mind _already_ empathizes with them, in a certain sense. From their perspective, what they're doing makes total sense. When you rediscover the aspect of your mind that sees this, all contemptuous judgement ceases, and something radically different takes its place.
+
+There is an aspect of every person's mind that only wants the best for others and the world. This can be very hard to believe. It may even sound like a naive religious belief. But there is a way that you can see it for yourself. How?
+
+First, you must find the part of _your own mind_ that only wants the best for the world. You may think that this is already obvious; that it is your normal state, but there's a simple way to tell if this is true. Are you able to feel contempt for _anyone_? How about the [...]
+
+If you answered "yes," you probably believe that the contempt is there to _help_ the world in some way. This is a vicious lie. That's not something I can convince you of, but it is _also_ something that you can confirm for yourself.
+
+The truth is that contempt exists _only_ to elevate or otherwise enrich yourself at the world's expense. You don't hate people to make the world better; you do it to make yourself feel superior. If you could inspect your subconscious while you are feeling this way, you would discover
+
+Any time you feel contempt for _anyone_ for _any reason_, your subconscious is secretly plotting to elevate or otherwise enrich yourself at the world's expense — to harm the world and profit from it.
+
+Your hatred of the "bad people" isn't there to help you fight evil; it's there to help you push them _further_ into the dark while feeling righteous about it. Whatever you do to "own" them — no matter how respectable you try to make it seem — _will_ make the world a darker place, even as you gloat about it.
+
+This is _insanely difficult_ to admit to oneself, for obvious reasons — but it is not until you see precisely _why_ it is so difficult to admit (and begin to undo it) that you begin to consciously appreciate what makes it so hard for the "bad people" to realize what _they_ are doing.
+
+I say "consciously" because your subconscious already knows it. It knows that if you were them, you would behave (more or less) exactly as they do. From their perspective, what they are doing makes total sense — and it is possible to _enter_ their perspective while still being you. When this happens, you wish for only one thing: to undo the bizarre contortions of mind that have resulted in them thinking that this is okay.
+
+This isn't a condescending perspective, nor one that tolerates (let alone condones) misbehavior. But it is also not one in which contempt or malice are remotely possible. If you were a neurosurgeon, would you hate or judge people for the tumor you're removing from their brains? It's not a perfect analogy, but captures something of the taste.
+
+There is a deep part of people that doesn't want to be doing wrong, but this is impossible to see or appreciate until you find the part of yourself that could never, ever feel contempt for anyone. In every interaction with people (in fact, in every action whatsoever), you are either helping people out of the abyss or shoving them further into it. If you want to end the "bad" in the world, you must help people remember that _they_ want to pull others out — and you cannot do this until you yourself remember how to pull _them_ out.
+
+
+
+---
+---
+
+There are so many people in the world for whom it is natural to feel contempt — the hypocrites; the downright evil; the aggressively stupid; the willfully ignorant — and there seem to be more by the day. We probably know that we're not "supposed" to feel contempt, but that seems like an unreasonable and increasingly outmoded religious idea. How _else_ are we supposed to deal with such despicable people?
+
+The truth is that we don't actually feel contempt to help anyone or anything: that's just a story we tell ourselves to maintain our self-image. We do it for a much less noble reason; one that will take a minute to unpack.
+
+If you could actually see other people's minds in their full complexity, you would discover that the very deepest aspect of them doesn't — indeed _couldn't_ — want to be any of the aforementioned things. Certainly _some_ part of them does — and that's the part we imagine we're directing our contempt at. But what happens is that their defense mechanisms just kick in and intercept our attack, causing them to dig in their heels. We then get to feel contempt for this incorrigibility, too.
+
+What we can't see — or admit — is that our behavior was subconsciously _designed_ to trigger those very defense mechanisms _so that_ we could feel licensed to escalate our disdain. We _want_ "bad people" to get worse, so that we can continue to gloat over them. It doesn't matter how "bad" someone is, or in what sense they are "bad": contempt is _only ever_ designed to trigger this reaction for the sake of our egos.
+
+With training, it is actually possible to see — and communicate with — the part of people that doesn't want to be deplorable; the very deepest aspect of their minds. This is called _compassion,_ and it is profoundly misunderstood. It doesn't mean being _nice._ Such "communication" may _look_ like contempt — or even violence — from the outside, but feels nothing like it from the inside. The recipient can sense the profoundly benevolent intent (even if only subconsciously), and it makes _all the difference in the world._ This may not be immediately evident — and it doesn't provide us with the satisfying hit of self-righteousness that actual contempt does — but it is of genuine benefit.
+
+
+
+---
 ---
 
 Do it to hide our similarity.
@@ -163,6 +229,13 @@ There is obviously something very different about what we are doing and what the
 
 [^armageddon] We also know that this "Armageddon" that we are trying to provoke — the day when our Good violently prevails over their Evil — will not lead to lasting peace. It is just another form of escalation itself.
 
+
+---
+---
+
+What if nearly everything you're doing to "fight evil" is actually strengthening it — and moreover, what if part of you already knows this, but is carefully hiding it from your conscious mind? What if the difficulty admitting this to yourself is caused by precisely the same mechanism that prevents the "bad people" from fully realizing what _they_ are doing?
+
+These are provocative questions, but they point at an astonishing truth. The Devil hides in the very last place you would ever look.
 
 ---
 ---
