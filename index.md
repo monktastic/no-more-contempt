@@ -2,19 +2,19 @@
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
 
-What if nearly everything you're doing to "fight evil" is actually strengthening it — and moreover, what if part of you already knows this, but is actively concealing it from your conscious mind? What if the difficulty admitting this to yourself stems from the _very same mechanism_ that prevents the "bad people" from acknowledging the full implications of _their_ actions?
+What if nearly everything you're doing to "fight evil" is actually strengthening it — and moreover, what if part of you already knows this, but is actively concealing it from your conscious mind? What if the difficulty in admitting this to yourself is caused by the _same insidious phenomenon_ that prevents the "bad people" from acknowledging the full implications of _their_ actions? What if you and they are secretly on the same team?
 
 These are provocative questions, but they point to an astonishing truth — one that is excruciatingly painful yet ultimately liberating. The Devil hides in the very last place you would ever look.
 
 ---
 
-Take a moment to reflect on what's wrong with the world, and bring to mind the people responsible. Don't they seem _fundamentally morally defective_? Do you feel contempt or maybe even malice? It feels like those emotions are there to help you _fight_ evil, but this is a sinister lie. They only to help you _darken_ the world while making you feel flawlessly convinced that you're helping.
+Take a moment to reflect on what's wrong with the world, and bring to mind the people responsible. Don't they seem _fundamentally morally defective_? Do you feel contempt for them, or maybe even malice? It feels like those emotions are there to help you _fight_ evil, but this is a sinister lie. They exist only to help you _darken_ the world while making you feel flawlessly convinced that you're helping.
 
-This is not something I can convince you of, so I won't even try. But here's the thing: part of you already knows it. You don't enjoy mocking or shaming your enemies to help them (or anyone else) "see the light," or to make the world a better place. You do it to make yourself feel superior. It may temporarily suppress their misbehavior, but it _will_ increase the net hostility and polarization in the world. You may tell yourself that it won't, or that it's their fault if it does, or that the benefits outweigh the drawbacks, but part of you knows that these are just lame excuses for malicious behavior. This is true of _all_ forms of unkindness. This example is just one among countless.
+This is not something I can convince you of, so I won't even try. But here's the thing: part of you already knows it. You don't enjoy mocking or shaming your enemies to help them (or anyone else) "see the light," or to make the world a better place. You do it to make yourself feel superior. This may temporarily suppress their (public) misbehavior, but it _will_ increase the net hostility and polarization in the world. You may tell yourself that it won't, or that it's their fault if it does, or that the benefits outweigh the drawbacks, but part of you knows that these are just lame excuses for malicious behavior.
 
 This isn't an attack on you, though it may feel like one. That defensiveness is hiding something crucial — something that I promise you want to see. An aspect of your mind is actively preventing you from consciously acknowledging the effects of your words and actions. Why? 
 
-Part of you _knows_ that darkness exists within you, and does everything in its power to shield this horrifying truth from your conscious mind. It makes you hyperfocus on the faults in others, because viciously attacking _their_ evil takes attention off of your own. Said another way: something within us _needs_ other people to be "bad," so that we can know ourselves as "good" by comparison. So we subconsciously do things to _provoke_ evil in others while convincing ourselves this is righteous.
+Part of you _knows_ that darkness exists within you, and it does everything in its power to shield this horrifying truth from your conscious mind. It makes you hyperfocus on the faults in others, because viciously attacking their evil takes attention off of your own. Said another way: something within us _needs_ other people to be "bad," so that we can know ourselves as "good" by comparison. So we subconsciously behave in ways that _provoke_ evil under the guise of righteousness.
 
 ---
 
@@ -22,9 +22,15 @@ Part of you _knows_ that darkness exists within you, and does everything in its 
     <img width="300px" src="img/half-evil.png"> 
 </p>
 
-Think back to a time when you disobeyed your conscience, pretending either that you couldn't hear it or that you could safely ignore it. We've all done this. When this happens, a schism is created in your mind: part of you knows _perfectly well_ that you're doing wrong, but that knowledge is cleverly shielded from conscious self-reflection. It is then easy to convince others that you _don't_ know, because you have convinced _yourself_. **All evil relies on this mechanism of self-deception**. We see it easily in others, but in ourselves only when it's convenient to our self-image.
+Think back to a time when you disobeyed your conscience, pretending either that you couldn't hear it or that you could safely ignore it. We've all done this. When this happens, a schism is created in your mind: part of you knows _perfectly well_ that you're doing wrong, but that knowledge is cleverly shielded from conscious self-reflection. It is then easy to convince others that you _don't_ know, because you have convinced _yourself_. **All evil relies on this mechanism of self-deception**. 
 
-Evil (almost) never _feels_ evil. That's the most terrifying thing. It's not until _after_ you wake up from this self-induced trance that you discover just how badly you were fooling yourself. People were even trying to _warn_ you, but in that grotesque state, you couldn't see what they were pointing at. In fact, the harder they tried to show you, the more you perceived _them_ as evil, crazy, or stupid — which only deepened your self-deceptive trance. But most horrifically of all, you see that some part of you always knew that you were doing wrong, even as you pretended not to.
+[//]: # (We see it easily in others, but in ourselves only when it's convenient to our self-image.)
+
+Evil (almost) never _feels_ evil — or rather, even when it _does_ feel evil, the evil feels _right._ That's the most terrifying thing, and the hardest to describe. When I say that "evil feels right," you first imagine feeling evil — which triggers your "wrong" detector — and then think that only a "bad person" could feel this as "right." But that's not how it works. It feels _exactly_ like you do when you mock your enemies — but even _more_ obviously "good." That's because the worse a behavior is, the _harder_ your self-deception mechanism must work to cover it up. **If you cannot detect the "wrongness" in your mockery, you will not be able to detect it when you are committing atrocities, because your self-deception will have become infinitely stronger and more clever.**
+
+I know this sounds preposterous. "Me? Committing _atrocities_? Just what do you take me for?" But the truth is that if you perceive your enemies as _evil enough_, your righteous instinct will _compel_ you to do everything in your power as a "good person" to stop them — and something within you is inexorably driving you toward seeing them as _impossibly evil._ Nobody _ever_ notices when they've "crossed the line," and it's impossibly arrogant to believe that you're special — _especially_ if you don't already (consciously) recognize what is being pointed out here.
+
+It's not until _after_ you wake up from this self-induced trance that you discover just how badly you were fooling yourself. People were even trying to _warn_ you — but in that grotesque state, you couldn't see what they were pointing at. In fact, the harder they tried to show you, the more you perceived _them_ as evil, crazy, or stupid — which only deepened your self-deceptive trance. But most horrifically of all, you will discover that **some part of you always knew that you were doing wrong, even as you pretended not to**. By this point it is too late to make amends.
 
 <p align="center" width="100%">
     <img width="300px" src="img/devil-vs-devil.png"> 
@@ -181,7 +187,8 @@ In exchange, you will discover the path toward the world you actually want in yo
 
 [//]: # (Reveals empathy.)
 
-[//]: # (Scaffold of blame)
+[//]: # (How do people become evil? Do they just wake up one day and choose evil? Or do they slowly slide into it, not noticing when they've crossed the line? Would you notice when _you_ crossed the line? You probably believe that you would, but it's not so simple. The way your devil works is by finding steps that are too small for you to waste time questioning them. And after you've taken a step, your mind always justifies it, to maintain your sanity. After taking 1000 such baby steps, somewhere you will have "crossed the line" — but the truth is that the very first step already crossed the only line that matters: the one where you went from following what you know to be right in your heart of hearts; your conscience, to following what your mind tells you is right; "justifications"; your devil. Don't ever take that first step away from your Heart. It is already evil.)
+
 
 ## Footnotes
 
