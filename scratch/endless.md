@@ -1,4 +1,10 @@
 
+
+
+
+---
+---
+
 > Be kind, ...
 
 There are two ways to understand this aphorism. The first goes something like this: 

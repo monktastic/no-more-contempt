@@ -1,3 +1,5 @@
+[Short version here](alt.md)
+
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
@@ -177,9 +179,10 @@ In exchange, you will discover the path toward the world you actually want in yo
 
 (TODO)
 
-- Judgement, outrage
-- Pseudo-kindness
-- Wisdom vs kindness
+- Compassion doesn't mean you know what the most beneficial behavior _is_; it merely ensures that you are not falling into the many seductive traps of your darkness. Determining the most effective behavior requires _wisdom_, which is a vast topic, and beyond the scope of this work. Compassion may be no easier to acquire than wisdom, but it is much simpler: there is a single place within your mind that you can turn to and _know_ whether you are allying with the darkness or the Light.
+
+
+- "Outrage" can mean (healthy) anger directed at correcting an injustice, but it quickly gets corrupted into self-righteous indignation. Similarly, "judgement" can refer to wise discernment, but it quickly devolves into disdain. Just like "compassion" doesn't really mean "being nice," these words get redefined by our evil so that we make a mess of what is actually quite simple.
 
 [//]: # (We _want_ people to believe that they're fundamentally broken.)
 
