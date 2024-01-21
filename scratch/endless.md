@@ -1,4 +1,159 @@
 
+What is the difference between _kind_ and _nice_?
+
+Nice is about being pleasant and agreeable. Those are generally good qualities, but obviously bad in some situations — for example, when confronting malicious behavior.
+
+Kindness, on the other hand, is _never_ wrong.
+
+It is remembering that the deepest part of you only wants what is best for the world. Astonishingly, the more deeply you see this about yourself, the more you see it in everyone else — including the people you normally think of as "evil." It isn't just a belief, but an actual _perception._
+
+We normally cannot perceive this, because there's an aspect of our mind — what the Buddhists know as the _ego_ — that actively shields it from us. It makes us see some people as _fundamentally defective_, and thus worthy of harm. For those of us with a self-image as "good people," these are the "bad people." (And for some "bad people," it might be nearly everyone.)
+
+What we do not see is that even _they_ could not do what they do if not for the influence of the ego — and treating them with contempt just exacerbates the problem. We can't see this because we're getting something from it: the darker we make their minds, the more superior we get to feel. If we were to admit this to ourselves, our whole world would shatter, as we realized that we're not so special after all. Our egos _cannot_ let that happen.
+
+Kindness is the recognition that nearly the whole world is trapped in this sordid game of shoving each other into the abyss while patting ourselves on the back for it — and refusing to play that game, because there is a much more beautiful game to be played. It's one that _frees_ others from their inner demons instead of feeding them to it.
+
+It has nothing to do with being _nice._ There is no specific form that kindness must take. It may have to be fierce, or even violent. It may even appear egoic on the surface, by utilizing shame, mockery, or even apparent contempt. But underneath the surface, something else is happening — and this makes _all the difference in the world._
+
+I can't describe what that "something else" is, but part of you already knows it. It's similar to remembering that "hurt people hurt people" — but infinitely deeper, covering even the cases where you normally can't perceive the "hurt" or are unwilling to believe that one even exists.
+
+
+
+---
+---
+
+Something within us enjoys fighting with the "bad people" and generally watching them be harmed or humiliated. Pause and see if that's true. We think this is a sign of the good within us, but it's actually a sign of something much darker.
+
+We know that this behavior will make them worse. We may tell ourselves that it won't, or that it's their fault if it does, or that the benefits outweigh the drawbacks, but deep down we know that these are just lame excuses for malicious behavior. And it isn't just a side effect of otherwise-noble behavior: something in us _wants_ them to get worse, because the worse they get, the more vindicated we feel, and the more licensed we are to escalate our righteous wrath.
+
+This idea may be threatening or offensive to our egos, but if we introspect deeply enough, we will find some truth in it.
+
+We behave this way to reinforce our self-image as "good people," but there's a slight problem: deep down, we know that genuinely good people don't shove others further into the dark while calling it righteous. So not only are we acting from self-deception, but this knowledge forces us to suppress our awareness of it even harder, resulting in more powerful self-deception. We quickly become completely unable to consciously acknowledge that this is what we're really doing.
+
+But this isn't something to feel guilty about. That just drives it further out of consciousness. It's actually caused by a kind of mind-virus; one that we all harbor. It's what the Buddhists know as the ego, and it's also commonly depicted as a devil on your shoulder. But what that image gets wrong is that the devil is actually extrinsic to your mind, while the angel represents your deepest nature.
+
+Your devil's job is to make certain people appear _fundamentally defective_ and therefore subhuman, so that harming them becomes not just okay, but positively righteous. This is the trick that enables genocides, but it is operating in every one of us. (Ironically, the people most likely to slide down the path toward atrocities are those who are most convinced that they couldn't — for their devil has already bypassed their mind's most important safety checks. These are also the people who display the most contempt for "bad people.")
+
+Your devil knows that "bad people" are only able to misbehave because they're under the sway of _their_ devil, but it hides this fact from you. It makes you perceive their evil as _intrinsic_, so that you'll viciously attack the person instead of their parasite. It knows that this will just drive the person further into its dark clutches, and it _wants_ this. Although you and they may be enemies on the surface, your devils are secretly _allied._
+
+(It is worth pausing to appreciate how clever this is. When you enter the space of self-deception — which happens whenever you feel contempt — others can subconsciously sense this. This makes them perceive _you_ as "bad" for precisely the same reason that you see _them_ that way. They then feel compelled to attack you and/or justified in mistreating you. So all that is required to create evil is to _feel contempt_ — and it is easy to convince yourself that you haven't done anything wrong.)
+
+Any time you hate someone, your devils are exchanging a kind of "secret handshake." In fact, they're not really separate. If you look carefully, you'll see that they behave more like outgrowths of a single distributed malevolent entity; the _Devil_, if you will. This sinister entity continually communicates with itself beneath our conscious thresholds, tricking us into empowering it while flawlessly convinced that we're fighting it.
+
+It is the primordial "evil conspiracy"; the one to which all the rest ultimately filter up. Every time we feel malice, contempt, or even self-righteousness toward _anyone_ for _any reason_, we are secretly feeding the Beast. Every act of unkindness ripples through its terrible body, lowering the threshold for more acts of evil to erupt in distant locations — for which we will feel absolutely no complicity. But part of us always knows.
+
+It is the perfect trap: a network of evil to which everyone contributes but for which nobody accepts responsibility. It is why the US is headed toward civil war while nobody recognizes their own part. It's not that we're all equally complicit. We're certainly not. But we're lying to ourselves if we believe that our contempt for the people most responsible is actually helping.
+
+So then what are we supposed to do? After all, the only thing required for evil to thrive is for the good to do nothing. On the other hand, the only thing worse than letting evil win is secretly joining forces with it. I can't give a complete solution, but here's a start.
+
+We must each become deeply aware of this darkness within. Otherwise, _every single thing_ we do to "fight" evil secretly just strengthens it, despite our conviction that we're helping. This rabbit hole goes deep — and the deeper we go, the more we perceive something curious: nobody _else_ wants to be infected by their parasite either, despite (what appears to be) compelling evidence to the contrary. Even those who _say_ they enjoy cruelty — the ones we classically think of as "evil" — are suffering from a kind of Stockholm Syndrome.
+
+The more free we become of our parasite, the more we begin to perceive the "great battles" that are tricking other people into protecting theirs — even when they're not aware of these battles themselves. There is always an aspect of people's minds that doesn't want to be under its sway. This isn't just a belief; it is something you begin to _perceive._
+
+Seeing this clearly enables us to behave in ways that help people evict their parasites — the only thing that genuinely removes evil from the world. (We may think that straight-up murdering evil people does too — but when it is done maliciously, it amplifies the darkness in others' minds, resulting in a net gain. Don't ask me how this works, but it is something you can learn to see. There is no "free lunch" here. We cannot bypass the hard inner work.)
+
+[//]: # (Smothering their light. Extremely difficult to confront the full extent of our complicity. Inner Light. We also project badness when there is none.)
+
+Such behavior is _compassion_ or _kindness_, and it doesn't mean being nice. Sometimes it must be fierce or even violent. But it comes from a completely different aspect of mind, and your "target" can sense this difference, even if only subconsciously. Their devil cannot find the slightest "hook" in your mind by which to justify itself, and so it is weakened, even if only imperceptibly. If you feel even a trace of self-righteousness — no matter how well hidden — you are giving it this hook.
+
+In fact, if you even perceive the other person as "other," then there is still work left to be done. This is the hardest part to talk about. Reality is actually one seamless interconnected whole, and our separation is only apparent. This truth isn't unveiled fully until _enlightenment_, but we can all sense it to one degree or another at all times. The less a person senses this, the more "evil" they appear — and our cruelty is an attempt to make them sense it less. It is _exactly_ the wrong thing to do.
+
+To be clear, compassion does not always tell you what the most helpful behavior _is_. That requires wisdom, which is a separate but related skill. Compassion just ensures that you are acting in accordance with your deepest values; that you are not falling victim to your self-deception. Before it is firmly in place, our strategies to defeat evil are actually no such thing. They always secretly contain an element meant to elevate or enrich us at the world's expense, unbeknownst to us.
+
+Our true enemy is not actually other people. It is the powerful darkness that has captivated all of our minds. We each have a role to play in dispelling it, and it begins with ourselves. When we cannot see the Light in others — or worse, when we are convinced that it does not exist — this means we still have work to do. This is what we must remember if humanity is to survive.
+
+---
+---
+
+What if nearly everything you're doing to "fight evil" is actually strengthening it — and moreover, what if part of you already knows this but is actively concealing it from your conscious mind?
+
+There's an insidious mechanism in the minds of the "bad people" that shields them from confronting the full implications of their misbehavior. It's not that they _don't_ know that what they're doing is wrong. A deep part of them knows perfectly well — and yet the _wrongness_ is very cleverly hidden from conscious self-reflection. They both _know_ and yet somehow _don't._ This is the secret mechanism behind all evil. It's hard to describe, but we all know this state quite well.
+
+It's the same thing that's happening when you feel contempt for those very people — or, indeed, perceive them as (fundamentally) bad in the first place. This sentiment feels totally righteous; like it's there to help you _fight_ their evil. But this is a sinister lie. Contempt (for people) exists **only** to shield you from what your subconscious is secretly doing: preparing to justify behaviors that will elevate or otherwise enrich you at the world's expense — and make you feel _good_ about it.
+
+I cannot convince you of this, for precisely the same reason that you cannot force the "bad people" to confront what they are doing: the more aggressively you try, the harder their mind will shield it from them — and thus the more "evil" they will appear to you. Now for the kicker: _this isn't by accident._ It's not just an unfortunate side-effect of your otherwise noble intentions, like your mind tries to make you believe. _It's secretly the whole point._
+
+Something in us delights in shoving the "bad people" further into the abyss, but it cannot make this too obvious, so it comes up with a fiendish plan. It alters our very perception, so that we don't see a fellow human in the grip of a terrible mechanism that we ourselves share — indeed, that is controlling our minds _at this very moment_. No, we see someone who is _fundamentally defective_; totally unlike us. They therefore cannot be helped; they must be punished.
+
+This part of you knows that by simply harboring this malevolent intention, you will appear to _them_ as fundamentally defective — because their subconscious recognizes that you're in the grip of self-deception. Far from seeing you as someone with the moral authority to be judging them, they will perceive you as someone who needs to be put in your place; someone for whom harm is justified. You will in turn take this as proof of their defectiveness, closing the loop on the sinister plot.
+
+Before we continue, let's pause to appreciate the elegant beauty of this ploy. You didn't have to do anything overtly evil. All that was required was to _harbor a dark intention_. That's what contempt *is*. This is something that is easy to lie to yourself about, and even easier to hide from others — at least, consciously. But we are all subconsciously sensitive to it, which is what allows it to work.
+
+But we're only scratching the surface of the true depths of the horror.
+
+This is all enabled by a kind of mind-virus. The Buddhists know it as the _ego_, and it's also commonly depicted as the devil on your shoulder. It is the thing in you that needs you to be _special_; to elevate yourself above the world somehow. In some people, it manifests as a desire for wealth; in others, the need to look and feel like a "good person."
+
+However it manifests, it will achieve its aim in one way or another — even if it requires stomping on others. For the "bad people," this is straightforward: it just needs to convince them that harming people is okay. For the "good people," it is a bit trickier. We know that cruelty is generally wrong, so we need to be clever about it. We thus divide the world into (fundamentally) good and bad people; those who deserve our compassion and those who do not. The latter are worthy of harm.
+
+Despite our differences, there is one thing all of our devils have in common: whenever we obey their seductive voices, we induce others to do the same. The "greedy banker" _invites_ our contempt; we accept this invitation by nastily judging them for it, which just convinces them that the idiots they're harming deserve it, which convinces us that... etc. They get to have more wealth, and we get to feel more self-righteous. Win-win.
+
+Our devils are _always_ subconsciously coordinating like this. In fact, they're not really independent. From a certain perspective, they behave more like outgrowths of a single malevolent distributed entity: the _Devil_, if you will. **This is the hardest thing to describe, but the most important thing for humanity to become aware of.** We are all harboring a piece of our true nemesis, and protecting it to the death.
+
+This "dark entity" continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently defeating the evil "others." It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all.
+
+You know how people sometimes suspect that there's an "evil global conspiracy" lurking in the shadows, secretly running the show behind the scenes? They are not crazy. _This_ is what they are subconsciously sensing. 
+
+To be clear: there are certainly groups of especially-infected people who conspire to cause great harm, but even they are ultimately subordinate to the _primordial_ conspiracy; one that we are _all_ secretly members of. Every time we feel malice, contempt, or even self-righteousness toward _anyone_; every single time we are unkind, we are strengthening the Beast; reinforcing the conditions that effectively _compel_ the existence of our enemies. And the craziest thing is that _part of us already knows this._
+
+It is impossible to overstate the shock of discovering, for the first time, that you have _always_ been in on the "evil global conspiracy." It is terrifying, heartbreaking, and humbling all at once. We realize all at once what utter hypocrites we are; that we have no leg to stand on if we're still contemptuously judging others.
+
+I keep using the word "subconscious" to describe this behavior, but that's not quite accurate. **It is completely accessible to consciousness, if you know how to look.**
+
+[//]: # (If we suddenly became consciously aware that we've been creating more evil, we would go insane from the shock of discovering our hypocrisy.  )
+
+
+---
+---
+
+
+There is a self-deception mechanism in our minds that actively prevents us from consciously acknowledging the full implications of our words and behaviors. When you perceive someone as "bad," this is what you are recognizing in them. Part of them knows perfectly well when what they are doing is wrong, but the "wrongness" is carefully hidden from conscious self-reflection.
+
+If you then feel contempt for them, then it is your _own_ self-deception that you are experiencing. That sentiment exists only to shield you from discovering what your subconscious is secretly doing: preparing to justify some behavior that will elevate or otherwise enrich you at the world's expense — and make you feel _righteous_ about it. It is exactly what you blame others for.
+
+The way this works is fiendishly clever. When you feel contempt for your enemies, they can subconsciously perceive the self-deception operating in you, even though you consciously cannot. This makes you appear "bad" to them for _precisely_ the same reason they do to you. So now they feel even _more_ justified in their behavior, which in turn makes you feel more justified in yours.
+
+This isn't an accident. Our self-deception is enabled by a kind of parasite in the mind, classically depicted as a devil on our shoulder. It knows how other people's devils behave, because theirs are fundamentally identical. Yours _knew_ how theirs would respond to contempt, and it wanted this, because it _strengthens_ theirs. Your devils are not enemies: they are _allies_. They _planned_ this.
+
+In fact, from a certain perspective, our devils behave more like limbs of a single distributed malevolent entity: _the Devil_, if you will. Its behavior is too clever for words, but I have to try.
+
+---
+
+You know how people sometimes suspect that there's an "evil global conspiracy" lurking in the shadows, running the show behind the scenes? They are not crazy. They are subconsciously sensing something genuine: there is indeed an aspect of all of our minds communicating with itself beneath our conscious thresholds, shielding itself from discovery in _insanely_ clever ways. 
+
+This "dark entity" continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving just how good they are. It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all.
+
+Its greatest trick is to prevent us from suspecting, let alone detecting, our own role in keeping it alive. We only ever see the aspects of it that live "out there," which we then feel compelled to violently attack — but this just makes it stronger. We never notice that it is the aspect "in here" that initiated this perception and behavior in the first place. We are tilting at windmills. Any time we feel contempt, malice, or even self-righteousness toward _anybody,_ we are just feeding the Beast.
+
+It's not that we're _not_ supposed to fight the evil out there. But to the degree that we are not yet free of our own self-deception, we are only capable of strengthening it in others. We pat ourselves on the back for "fighting evil" and then lament the increasingly sorry state of the world — which we then must "unfortunately" fight even harder. We never suspect that something within us _wants_ this.
+
+It is what the Buddhists know as the "ego" — the part of us that needs to feel special. For some people this may be about accumulating wealth, and in others it is about being "good people." It makes us perceive other people in whatever way necessary to justify behavior that will bolster our self-image. For "good people," our subconscious is on the prowl for anyone we can plausibly see as "bad," so that we can make them _worse_ — via behaviors that appear righteous on the surface.
+
+To be clear: there are surely groups of particularly "endarkened" people who consciously conspire to cause great harm, and **we must hold such people accountable** — but when we do so with contempt, we are secretly (and on a subconscious level, _knowingly_) reinforcing the very conditions that effectively compel their existence. All such "conspiracies" ultimately filter up to the primordial conspiracy that we ourselves are members of. They cannot be defeated without our seeing this.
+
+This is not just a wacky theory or 
+
+---
+
+If you manage to take your own egoic mechanism offline for even a moment, it feels exactly like you'd imagine feeling if you were suddenly freed from a demonic possession. You clearly perceive how this "demon" has very cleverly commandeered people's minds.
+
+Seeing this all clearly turns your whole world upside-down. We are hating people for their susceptibility to the world's most fiendish mind-virus — the one responsible for our very hatred. And this hatred exists for no other reason than to push them further _into_ its evil clutches.
+
+(To be fair, there does seem to be a tiny percentage of people who have consciously welcomed the demon in, for whom the description "evil" really does capture something important. Such people pose a unique challenge. Being "kind" to them in the conventional sense can indeed be dangerous. And yet the very _deepest_ aspect of their mind does not want it. Again, it is only once you see exactly what "it" is that you understand why _nobody_ ultimately could. Think of it like a form of Stockholm syndrome. If you want to defeat evil, you must want them to be free of it, too.)
+
+What lies beneath the ego is something like a boundless love for all of reality. You see that you aren't really fundamentally separate from it. Any harm you cause to the world is ultimately done to yourself. The recognition of this "absolute good" within is what slowly brings the process of self-deception to an end.
+
+This "absolute good" is something that we cannot take any credit for. Instead, we can only feel profound gratitude for whatever grace allowed us to discover it, and heartbreak that it still remains so deeply hidden in others. The hardest part is watching the whole world being casually cruel to each other, unaware of which "team" they are secretly fighting for. It inspires a fierce determination to end the "possession" that has captured people's minds, instead of deepening it like we've unwittingly been doing. We clearly see the face of our true nemesis for the first time.
+
+This doesn't mean that you will suddenly become nice or lovey-dovey toward evildoers. You may still need to be fierce, or perhaps even violent[^dalai-lama-gun]. Mockery, shaming, or even _apparent_ contempt might still be useful tools in your arsenal. But these will be in the service of _freeing_ people from the darkness, not pushing them further in. It is a kind of "tough love," and feels _nothing_ like the self-righteous antagonism that we normally feel when "fighting evil." You are still "connected to your heart." **That is what is most crucial.** Others can sense the profoundly benevolent intent (even if only subconsciously), and it makes _all the difference in the world_.
+
+---
+
+In every interaction you have two options: to either encourage the Light in others, or to fight their darkness with yours. Again: **encouraging their Light has nothing to do with being _nice_**. It is about being completely unwilling to abandon your own Light under _any circumstances_ — including the one that their darkness is presently testing you with. Their darkness is looking for a "hook" in your mind that it can use to justify itself — some sign that even you, the "good person," are weak to its seduction. If you refuse to abandon your integrity even then, the fierceness of your Light subjugates their darkness. They subconsciously remember that _the Light_ isn't just a myth.
+
+This is authentic kindness (aka compassion). It is "radical" for two reasons. First, it contradicts our usual intuition that some people "deserve" it while others don't. It could never be the case that some people deserve to be shoved further into the abyss while others deserve to be freed from it. Second, it need not look anything like "kindness" in the conventional sense (though most often, it will). It certainly doesn't have to be soft or weak.
+
+I know it feels like some people don't _have_ an inner Light to encourage, but this is just an illusion that our darkness uses to get its foot in the door. By the time it has tricked us into dividing the world into fundamentally "good" and "bad" people — which feels like the most natural thing in the world — it has already infected the deepest aspect of our minds. Then, it can bide its time fostering conditions that will get us to commit unspeakable horror in the name of "good."[^genocide]
+
 
 
 
