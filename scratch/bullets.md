@@ -1,6 +1,5 @@
 
-- Misbehavior is hidden by self-deception (a state we know).
+## Key points
 
-- It is caused by a kind of parasite that alters our perception, making some people appear subhuman.
+- We enjoy mocking, shaming, and harshly scolding people we see as "bad." We enjoy watching them be harmed and humiliated.
 
-- 

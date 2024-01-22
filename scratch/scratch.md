@@ -1,3 +1,7 @@
+[//]: # (Part of us knows that such behavior usually just makes them dig in their heels. They become slightly worse people, but that's not what we tell ourselves. We're not making them worse; we're just exposing the bad that was already there. What we can't see is that part of us is trying to make them worse, because this will prove that they are beyond help. This way, we can finally unleash the full depths of our righteous fury.)
+
+
+[//]: # (It is as though we have finally found the source of evil in the world and must not let it escape. ... and distilling ...)
 
 
 ---

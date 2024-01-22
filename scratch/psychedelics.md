@@ -1,6 +1,38 @@
 
 There's a crucial insight about our minds and the nature of evil that I think we're missing as a civilization, and it's one that psychedelics are uniquely powerful at inducing.
 
+There's something within most of us that enjoys being cruel to anyone we see as a "bad person." Check and see if that's true. We enjoy mocking, shaming, and harshly scolding them. And it feels like this is a sign of the good within us.
+
+But part of us knows that this behavior generally makes them worse. We may tell ourselves that it won't, or that it's their fault if it does, or that the benefits outweigh this tiny drawback, but the truth is that it's not a "drawback." Part of us is _trying_ to make them worse, so that we may prove beyond all doubt that they are beyond help, and can unleash the full depths of our righteous fury.
+
+It feels like we are zeroing in on and distilling the evil in the world in order to violently eradicate it, not realizing that we're doing something to help create it in the first place. Except that part of us _does_ realize this, and recognizes it as malevolent — so it hides the fact that we're doing this, even from ourselves. This is _profound_ self-deception, which is why we cannot admit that it's true.
+
+But there are times in our lives when we are forced to confront our darkness, and this can be extremely painful. Yet these moments of catharsis also offer redemption. A veil is lifted. It is as though we are suddenly freed of a demonic possession, and we see something that we couldn't before.
+
+We see that self-deception is caused by a kind of mind-virus — the thing classically depicted as a devil on our shoulders. That image is almost correct, except for two things. First, the devil is not intrinsic to our minds, but is a kind of parasite. And the angel, on the other hand, _is_ intrinsic. It represents our deepest nature.
+
+Your devil knows that "bad people" are only able to misbehave because they're afflicted by the same parasite, but it hides this fact from you. It makes you perceive their evil as _intrinsic_, so that they appear subhuman and worthy of harm. It knows that this will just drive the person further into their devil's dark clutches, and it _wants_ this. The way this works is insanely clever.
+
+Part of you knows that you are not fundamentally better than others, so contempt is _always_ a sign of self-deception. Therefore, it telegraphs to others that you are under the sway of your parasite. As such, they will not see you someone with the moral authority to be judging them. On the contrary, you appear subhuman and worthy of harm. It reinforces their self-deception.
+
+Pause and appreciate the beauty of this. You didn't have to do anything overtly evil. Simply by feeling contempt, you are able to inspire darkness in others, thus bringing new evil into the world, while giving you plausible deniability about doing so. You were only trying to fight evil, and how could that ever be wrong?
+
+You discover that the whole world is caught in this horrific trap. We
+
+Our devils are always subconsciously communicating with each other, conspiring to create a kind of hell on Earth. In fact, they aren't truly separate. If you look carefully, you'll see that they behave more like outgrowths of a single malevolent distributed entity that is continually manipulating all of our minds — the _Devil_, if you will.
+
+It is the primordial "evil conspiracy"; the one to which all the rest ultimately filter up. Every time we feel malice, contempt, or even self-righteousness toward _anyone_ for _any reason_, we are secretly feeding the Beast. Every act of unkindness ripples through its terrible body, lowering the threshold for more acts of evil to erupt in distant locations — for which we will feel absolutely no complicity. But part of us always knows.
+
+It is the perfect trap: a network of evil to which everyone contributes but for which nobody accepts responsibility. It is why the US is headed toward civil war while nobody recognizes their own part. It's not that we're all equally complicit. We're certainly not. But we're lying to ourselves if we believe that our contempt for the people most responsible is actually helping.
+
+The people fighting against this "evil conspiracy" are those who have learned to recognize it and refuse to add their darkness to the world. They are incapable of feeling contempt, because they have seen that this is an unmistakable sign of self-deception. In that dark state, we become blind to the far-ranging implications of our words and actions. We engage in behaviors that secretly elevate or otherwise enrich us at the world's expense, without being able to recognize it.
+
+As long as we maintain any distinction between people who are fundamentally good and bad; those who deserve our kindness and those who don't, we are still under the sway of our devil. If we believe that some people have no "inner light," it is only because our own darkness has not been dispelled, even though we may feel flawlessly convinced that it has. This is our devil keeping its foot in the door, biding its time until it can fully overtake our minds.
+
+
+
+---
+
 Wise people throughout history have urged compassion for evildoers. Most of us have a vague understanding of why, but it's hard to exactly put our finger on. Therefore, when we're actually confronted with evil, we often respond in a way that just creates more.
 
 The prototypical example is the "War on Terror." Didn't the people in charge know that indiscriminately bombing strangers would just create _more_ enemies that they would then be forced to bomb even harder?
