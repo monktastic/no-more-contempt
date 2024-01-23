@@ -1,0 +1,9 @@
+{% capture words %}
+{{ content | number_of_words }}
+{% endcapture %}
+{% unless words contains '-' %}
+<div style="color: gray;">
+    {{ words | append: ' words, ' }}
+    {{ words | divided_by: 230 | append: ' minutes to read' }}
+</div>
+{% endunless %}

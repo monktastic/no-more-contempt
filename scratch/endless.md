@@ -1,26 +1,3 @@
-{{ content | reading_time }}
-
-Why is it so hard to maintain our humanity in the face evil? And why are we "supposed to" in the first place?
-
-All misbehavior — from cutting in line to genuine atrocities — is ultimately enabled by a kind of parasite in the mind. Think of it as that devil on our shoulders. It doesn't just whisper obviously-evil ideas in our ears; no, it alters our very perception, so that certain people appear okay to step on. It shields us from consciously confronting the full implications of our words and behaviors.
-
-The "bad people" know perfectly well when they are doing wrong, but that knowledge is very carefully hidden from conscious self-reflection. If you try to viciously force them to confront it, it will just drive the parasite deeper into their minds. But something in you already knows this.
-
-When _you_ are in a state of self-deception — and we've all been there — you do not tolerate contempt from others. It makes you see them as _bad people_ who need to be put in _their_ place. It helps justify your self-deception — and makes you respond in a way that does the same for them.
-
-Our parasites are _collaborating_ — and contempt is the secret tool they use to empower each other beneath our conscious thresholds. In this state, we telegraph to others that our mind is secretly plotting to elevate or otherwise enrich ourselves at the world's expense, while hiding this fact from us — and it invites them to do the same, whether they are friends or enemies.
-
-We treat the "bad people" with contempt to help ourselves feel superior; to prove to ourselves and the world that we're nothing like them. Unfortunately, it is the surest sign that we _are._ We are shoving them further into the abyss for our own (supposed) benefit. Rather than admit this, our minds hide this horrible truth by doubling down on our self-deception, so that we never suspect it.
-
-We each maintain a dividing line between the "fundamentally" good and bad; those who deserve our compassion and those who deserve our contempt. That line sometimes gets pushed out, as when we first discover that "hurt people hurt people." But the existence of _any line at all_ indicates the presence of our parasite maintaining a pool of people to sink its sinister teeth into.
-
-If you look carefully, you will discover that our devils together behave more like a single malevolent distributed entity — the _Devil_, if you will. It is that archetypal "global conspiracy" that we subconsciously fear exists; the one to which all the rest ultimately owe their existence, and to which they all ultimately filter up — and every one of us is in on it. Every time we feel malice, contempt, or self-righteousness; any time we are unkind, we are secretly feeding the Beast.
-
-Nobody ultimately _wants_ to be under the sway of their devil. This includes the people who say that they do; the people whom we classically think of as "evil." They are suffering from a kind of Stockholm syndrome, and hating them just exacerbates it. It is the oldest trick in the book. Unconventional means may be necessary when dealing with them, but they are never unkind.
-
-Kindness is not about being _nice._ It can be fierce or even violent if necessary. It is only about being lucidly aware of your own capacity to fall into self-deception, and refusing to do so. It is about staying connected to your Heart; that part of you that remembers the Truth — the very thing that your parasite is actively trying to make you forget. The more you remember, the more you inspire others to do the same, because the less excuse you give their parasites to exist.
-
-Your true nemesis is never other people, despite obvious appearances to the contrary. It is the darkness that has enveloped all of our minds. It is not until we see just how badly it has fooled us that we begin to appreciate what the "bad people" are up against, and that we start learning to be of genuine service in dispelling it. We each have a role to play, and it begins with us.
 
 
 ---

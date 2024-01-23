@@ -144,7 +144,7 @@ This is that primordial "evil global conspiracy" to which all the rest ultimatel
     <img width="300px" src="img/good-vs-bad.png"> 
 </p>
 
-To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't busy feeding the source — and conversely, it is _completely inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the very conditions that _compel_ their existence.
+To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _completely inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the very conditions that _compel_ their existence.
 
 If you could trace all the subtle threads of causality weaving through the world, you would find your finger in countless evil pies.
 
