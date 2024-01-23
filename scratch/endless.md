@@ -1,25 +1,50 @@
+{{ content | reading_time }}
 
-What is the difference between _kind_ and _nice_?
+Why is it so hard to maintain our humanity in the face evil? And why are we "supposed to" in the first place?
 
-Nice is about being pleasant and agreeable. Those are generally good qualities, but obviously bad in some situations — for example, when confronting malicious behavior.
+All misbehavior — from cutting in line to genuine atrocities — is ultimately enabled by a kind of parasite in the mind. Think of it as that devil on our shoulders. It doesn't just whisper obviously-evil ideas in our ears; no, it alters our very perception, so that certain people appear okay to step on. It shields us from consciously confronting the full implications of our words and behaviors.
 
-Kindness, on the other hand, is _never_ wrong.
+The "bad people" know perfectly well when they are doing wrong, but that knowledge is very carefully hidden from conscious self-reflection. If you try to viciously force them to confront it, it will just drive the parasite deeper into their minds. But something in you already knows this.
 
-It is remembering that the deepest part of you only wants what is best for the world. Astonishingly, the more deeply you see this about yourself, the more you see it in everyone else — including the people you normally think of as "evil." This isn't just a belief, but an actual _perception._
+When _you_ are in a state of self-deception — and we've all been there — you do not tolerate contempt from others. It makes you see them as _bad people_ who need to be put in _their_ place. It helps justify your self-deception — and makes you respond in a way that does the same for them.
 
-We normally cannot perceive this, because there's an aspect of our mind — what the Buddhists know as the _ego_ — that actively shields it from us. It makes us see some people as _fundamentally defective_, and thus worthy of harm. For those of us with a self-image as "good people," these are the "bad people." (And for some "bad people," it might be nearly everyone.)
+Our parasites are _collaborating_ — and contempt is the secret tool they use to empower each other beneath our conscious thresholds. In this state, we telegraph to others that our mind is secretly plotting to elevate or otherwise enrich ourselves at the world's expense, while hiding this fact from us — and it invites them to do the same, whether they are friends or enemies.
 
-What we do not see is that even _they_ could not do what they do if not for the influence of the ego — and treating them with contempt just exacerbates the problem. We can't see this because we're getting something from it: the darker we make their minds, the more superior we get to feel. If we were to admit this to ourselves, our whole world would shatter, as we realized that we're not so special after all. Our egos _cannot_ let that happen.
+We treat the "bad people" with contempt to help ourselves feel superior; to prove to ourselves and the world that we're nothing like them. Unfortunately, it is the surest sign that we _are._ We are shoving them further into the abyss for our own (supposed) benefit. Rather than admit this, our minds hide this horrible truth by doubling down on our self-deception, so that we never suspect it.
 
-Kindness is the recognition that nearly the whole world is trapped in this sordid game of shoving each other into the abyss while patting ourselves on the back for it — and refusing to play that game, because there is a much more beautiful game to be played. It's one that _frees_ others from their inner demons instead of feeding them to it.
+We each maintain a dividing line between the "fundamentally" good and bad; those who deserve our compassion and those who deserve our contempt. That line sometimes gets pushed out, as when we first discover that "hurt people hurt people." But the existence of _any line at all_ indicates the presence of our parasite maintaining a pool of people to sink its sinister teeth into.
 
-It has nothing to do with being _nice._ There is no specific form that kindness must take. It may have to be fierce, or even violent. It may even appear egoic on the surface, by utilizing shame, mockery, or even apparent contempt. But underneath the surface, something else is happening — and this makes _all the difference in the world._
+If you look carefully, you will discover that our devils together behave more like a single malevolent distributed entity — the _Devil_, if you will. It is that archetypal "global conspiracy" that we subconsciously fear exists; the one to which all the rest ultimately owe their existence, and to which they all ultimately filter up — and every one of us is in on it. Every time we feel malice, contempt, or self-righteousness; any time we are unkind, we are secretly feeding the Beast.
 
-I can't describe what that "something else" is, but part of you already knows it. It's similar to remembering that "hurt people hurt people" — but infinitely deeper, covering even the cases where you normally can't perceive the "hurt" or are unwilling to believe that one even exists.
+Nobody ultimately _wants_ to be under the sway of their devil. This includes the people who say that they do; the people whom we classically think of as "evil." They are suffering from a kind of Stockholm syndrome, and hating them just exacerbates it. It is the oldest trick in the book. Unconventional means may be necessary when dealing with them, but they are never unkind.
+
+Kindness is not about being _nice._ It can be fierce or even violent if necessary. It is only about being lucidly aware of your own capacity to fall into self-deception, and refusing to do so. It is about staying connected to your Heart; that part of you that remembers the Truth — the very thing that your parasite is actively trying to make you forget. The more you remember, the more you inspire others to do the same, because the less excuse you give their parasites to exist.
+
+Your true nemesis is never other people, despite obvious appearances to the contrary. It is the darkness that has enveloped all of our minds. It is not until we see just how badly it has fooled us that we begin to appreciate what the "bad people" are up against, and that we start learning to be of genuine service in dispelling it. We each have a role to play, and it begins with us.
 
 
 ---
 ---
+
+There's a mechanism within our minds that actively blinds us to the far-ranging implications of our words and behaviors.
+
+Consider a power- and money-hungry politician. He may start a war, which he will justify with noble-sounding motives. Whatever good comes of the war (if any), it will create a lot of needless suffering in the service of enriching him.
+
+Does he _know_ this? Yes and no. Part of him knows _perfectly well_, but his mind is able to shield that knowledge behind an impenetrable wall of justifications. This is self-deception. We all know what this is like. Maybe not on that scale, but we have all overridden our conscience before. Part of us _definitely knows_ — but it's very hard to get us to look that knowledge in the eye.
+
+When we watch a slimy politician in this state, we tend to feel contempt. And that contempt feels righteous; like it's there to help us fight his evil. But something much more interesting and insidious is actually going on.
+
+Part of you knows that you have a tremendous capacity for self-deception. You subconsciously see something of yourself in his eyes. So your mind does something very clever: it treats him with cruelty.
+
+When you are in a state of self-deception, and someone tries to point it out in a nasty way, what happens? You see them as a bad person — because you subconsciously know that they can only do this from a place of self-deception. It inspires you to be nasty in return. It justifies and reinforces your self-deception.
+
+When we see that slimy politician, we tend to feel contempt. And that contempt feels righteous; like it's there to help us fight his evil. But something much more interesting and insidious is actually going on.
+
+Your mind knows that by treating him with contempt, he will see _you_ as someone worthy of contempt, which will convince him that what he is doing is righteous after all. And that recalcitrance will in turn convince you that what you are doing is righteous. Hopefully you see where this is going.
+
+
+---
+
 
 Something within us enjoys fighting with the "bad people" and generally watching them be harmed or humiliated. Pause and see if that's true. We think this is a sign of the good within us, but it's actually a sign of something much darker.
 

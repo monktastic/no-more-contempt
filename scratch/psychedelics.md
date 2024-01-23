@@ -1,6 +1,13 @@
 
 There's a crucial insight about our minds and the nature of evil that I think we're missing as a civilization, and it's one that psychedelics are uniquely powerful at inducing.
 
+There's a mechanism in our minds that actively shields us from confronting the full implications of our words and behaviors.
+
+
+
+---
+---
+
 There's something within most of us that enjoys being cruel to anyone we see as a "bad person." Check and see if that's true. We enjoy mocking, shaming, and harshly scolding them. And it feels like this is a sign of the good within us.
 
 But part of us knows that this behavior generally makes them worse. We may tell ourselves that it won't, or that it's their fault if it does, or that the benefits outweigh this tiny drawback, but the truth is that it's not a "drawback." Part of us is _trying_ to make them worse, so that we may prove beyond all doubt that they are beyond help, and can unleash the full depths of our righteous fury.
