@@ -1,4 +1,16 @@
 
+By adulthood, most of us have realized that "hurt people hurt people" — and thus that kindness is sometimes the right approach when dealing with bad behavior. Such kindness doesn't have to be sweet and gentle — it can be fierce (or perhaps even violent) while still being firmly rooted in a fundamentally benevolent intent. It may be "tough love," but it is still love — not necessarily directed at the person specifically, but at the world as a whole, of which they are a part.
+
+On the other hand, sometimes misbehavior seemingly cannot be explained by any kind of pain or "great battle." The person seems _fundamentally bad_. In such cases, compassion evaporates and is replaced by contempt or malice. We may still tell ourselves that it's for the "greater good," but the heartfelt benevolence is gone. Something much darker has taken its place.
+
+It is easy to convince ourselves that these two are the same; that "tough love" and malicious harm can both be for the greater good.
+
+A secret part of you knows perfectly well that treating _anyone_ with contempt just pushes them further into the dark — and it _enjoys doing so_. But given your self-image as a "good person," it can't do this to just anybody. That would reveal its presence to you. So it keeps a lookout for people who it can convince you _have_ no "inner light," so that contempt becomes the only option.
+
+It is exactly the same mechanism that is responsible for their misbehavior in the first place. The details may differ, but its function is essentially the same: to make some (or even all) people appear deserving of contempt, so that certain self-serving tendencies may manifest.
+
+Please know that I am not accusing you of anything. In fact, it is only by becoming aware of and then _deeply forgiving_ this part of yourself that you will understand _why_ it is misbehaving — at which point it will not only stop, but it will help you perceive the "great battles" in others that you previously could not see. Situations will shift from the "contempt" category into the "tough love" category, and your arsenal of tough love will grow.
+
 
 ---
 ---

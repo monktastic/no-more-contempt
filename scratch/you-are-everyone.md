@@ -1,4 +1,13 @@
 
+What would it be like to experience the lives of everyone who ever lived? All their joys, miseries, accomplishments, failures, virtues, and vices? It would be quite something, wouldn't it? Far too big to fit inside a single human mind. If you had to distill it into something manageable; something that would summarize it all and serve to remind you, a lone individual, of the enormity of it all, you could hardly do better than this: _empathy._
+
+
+
+
+
+---
+---
+
 Imagine, for a moment, that what the Buddhists say is true: that there is some profound sense in which you are fundamentally the same as everyone else. What would it be like to see this?
 
 For one, you would no longer be able to feel contempt or malice. The illusion that you are in some way _intrinsically_ better than other people would evaporate. You would discover that people are only able to misbehave because they have not yet seen _their_ fundamental unity yet. You couldn't hate them for this — even though you may still have to use _anger_ or even _violence_ to fight them.
