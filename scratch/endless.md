@@ -1,4 +1,9 @@
 
+
+
+---
+---
+
 By adulthood, most of us have realized that "hurt people hurt people" — and thus that kindness is sometimes the right approach when dealing with bad behavior. Such kindness doesn't have to be sweet and gentle — it can be fierce (or perhaps even violent) while still being firmly rooted in a fundamentally benevolent intent. It may be "tough love," but it is still love — not necessarily directed at the person specifically, but at the world as a whole, of which they are a part.
 
 On the other hand, sometimes misbehavior seemingly cannot be explained by any kind of pain or "great battle." The person seems _fundamentally bad_. In such cases, compassion evaporates and is replaced by contempt or malice. We may still tell ourselves that it's for the "greater good," but the heartfelt benevolence is gone. Something much darker has taken its place.
