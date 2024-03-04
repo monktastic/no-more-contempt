@@ -1,4 +1,78 @@
 
+How would you behave if you knew that you are everyone, and everyone is you? All the victims, all the perpetrators — everyone. How would you treat "others" upon realizing this? In particular, how would you treat the _difficult_ people, the _bad_ people, the _evil_ people?
+
+You would recognize the part of yourself that lives within them, and vice versa. You could not possibly feel any contempt, or malice, or animosity. Don't get me wrong: you would still oppose them — possibly fiercely or even violently — but you would be free of the illusion that your contemptuous judgement or self-righteous outrage was in any way benefiting the world.
+
+You would see clearly that these sentiments exist **only** to push people _further_ from the truth; _away_ from recognition of our (surprising) commonality. **We hate "bad people" not to help them (or anyone else) see the Light, but to shove them further into the abyss**. We do this to make them _worse_ people, so that we can feel better by comparison; to continue pretending that we're fundamentally separate and superior. But there's one small problem.
+
+This makes the world worse for our own (supposed) benefit, and part of us knows it. To avoid consciously confronting this horrifying fact, we hide it from ourselves, convincing ourselves that we are just "fighting evil." But now we're in an even bigger mess: not only are we darkening the world, we are lying to ourselves about it. Far from helping us distance ourselves from the "bad people," this subconsciously reminds us of our deep similarity — which we are now forced to hide even harder, resulting in a horrifying feedback loop from which it is _extremely_ difficult to escape.
+
+This is the trap that (nearly) the whole world is caught in. We are all so busy hating the "bad people" out there that we don't realize what is going on in here; what we ourselves are contributing to the madness. In fact, that is _why_ we are doing it: to avoid confronting the darkness within.
+
+Contempt **always** makes the world darker. This is a difficult thing to admit, but necessary. The mechanism that allows us to hide this truth from ourselves is _precisely_ the same one that allows the "bad people" to do what _they_ do without remorse. And the more we engage in this self-deception, the more we encourage them to do the same. It is inevitable. This is **exactly** the wrong thing to do if you want to see a more beautiful world, which you — _we_ — ultimately do.
+
+Your enemy is not truly other people, but the darkness that has ensnared all of our minds. I don't mean this in an abstract sense. You can actually learn to perceive this "dark entity," communicating with itself beneath our conscious thresholds. The "evil" in other people's minds is reaching out to the latent evil within yours, encouraging you to mindlessly obey it in the name of "good." It is a kind of secret handshake, which we often unconsciously accept. It is the oldest trick in the book, and it somehow continues to fool us to this day.
+
+People sometimes fear that there is an "evil conspiracy" behind all the world's ills, secretly pulling the strings. They are not crazy: they are sensing something authentic, and this is it. There _is_ a kind of evil conspiracy, and every last one of us is in on it. Every act of unkindness toward _anybody_ empowers it — and a deep part of us knows this. Being _kind_ doesn't mean being _nice._ It just means being awake to this trap.
+
+Until we have seen the brilliant ruse by which the darkness seduces our own minds, it is impossible to understand what is going on in the minds of the "bad people" — and thus to do anything genuinely useful about it. That is why everything comes down to deeply knowing yourself. If there is any self-righteousness or contempt left, it is an unmistakable sign that your mind is still hiding something _big_ from you. Please find out what it is.
+
+Your Light is capable of accomplishing everything you think you need your darkness for — and so much more. The world does not need more of our contempt. It needs our fierce, uncompromising Love — whatever form it must take. Let's help each other — _ourselves_ — remember this.
+
+---
+
+
+What if it were really true that you are literally everyone? All the victims, all the perpetrators — everyone. What would it be like to come back from discovering that?
+
+The more deeply you saw it, the less able you would be to hate anyone. You would see that even the _worst_ person is only suffering from a kind of amnesia — and that hating them can only ever _deepen_ it. In fact, hatred is itself a manifestation of that very same amnesia.
+
+Hating the "bad people" feels unmistakably righteous, but this is exactly the illusion that must be penetrated to understand how they are able to do what they do in the first place. They are under a kind of spell that makes their misbehavior feel okay — and our hatred is designed to make us behave in a way that makes them feel _more_ justified.
+
+In other words, our malice does not _accidentally_ make the world a darker place; it is explicitly _designed_ to do that. There is a kind of parasite that lives in our minds, tricking us into pushing each other further into the dark while convincing us that it's _good_. When we cannot see the light in others, we feel impossibly _righteous_ for hating them — when in actuality this is the surest sign of our parasite controlling us.
+
+We really don't want to be doing this — and the more you remember that you don't, the more your very way of being begins to remind "others" that they don't, either.
+
+
+
+
+---
+---
+
+What if I told you that all the darkness in the world is connected — and that part of it lives deep within your own mind?
+
+This might be the hardest thing for humans to accept, but it's the truth. There is unkindness deep within each of us that we hide from consciousness, and by letting it fester, we increase the chances of heartbreaking events occurring _somewhere_ on the planet — events that we then wring our hands at, not recognizing our own profound connection to them.
+
+We don't recognize our own darkness because it always feels perfectly justified — or even _righteous_. The mechanism that is hiding yours from you is **exactly** the same one that prevents the "bad people" from consciously confronting the wrongness of _their_ behaviors. This mechanism exists within all of us, and it actively shields us from the full implications of our words and actions.
+
+That's why it may not be obvious that being cruel to "bad people" — whoever you think they are — is itself a form of evil. This isn't a moral judgement, but something that you can learn to directly perceive. Such behavior increases the "net darkness" in the world. I can't tell you how it's possible to perceive such a thing, but it is.
+
+It doesn't even require overt cruelty: simply by harboring contempt, malice, etc., you are lowering the bar for darkness to manifest itself somewhere. And the most horrifying discovery is that this isn't an accident. We don't hate bad people to make the world better, like our conscious minds tell us: we do it to distance ourselves from them by pushing them _further_ into the dark. This creates new evil, and a deep part of us knows this. We can't admit it to ourselves for exactly the same reason that they can't face what they are doing.
+
+When we hide this fact from ourselves — by pretending that our animosity is _righteous_ — we are subconsciously inviting those around us to do the same. Whether they are "allies" or "enemies," their minds are made darker as a result. 
+This causes a ripple effect out into the world, eventually causing horrors to materialize _somewhere_; often in a location distant enough in space and time that you will never consciously register their existence, let alone your connection to them. In fact, they are likely to induce _more_ outrage in you, causing you to pile on even *more* animosity. This is the vicious cycle that we see unfolding across the planet today.
+
+When this is all made conscious, confronting evil feels entirely different. You see that our true enemy isn't actually other people, but the darkness that has ensnared all of our minds. You then behave in ways that help others become conscious of their shadows — whether that requires being _nice_ or _fierce_ (or possibly even violent). Either way, it is true kindness. It is completely absent of contempt, malice, and self-righteousness — and this makes all the difference.
+
+It is not something you can fake or calculate your way to. If you are trying to *force* others to see it, there is almost certainly an element of contempt (and thus your own shadow) still operating. Nor is it binary. Rather, the more you clean up your own darkness, the more your very way of being begins to expose others to theirs.
+
+This is the only path toward the "more beautiful world" your heart most deeply longs for — and it all begins with you.
+
+[//]: # (Part of your mind enters that shadowy space that Carl Jung called the collective unconscious, and injects its own unique signature of darkness.)
+[//]: # (If you'd like to think of it in less mystical terms, those sentiments subconsciously telegraph a secret intention to do something dark while pretending that it's okay — and inviting others to do the same. )
+
+
+---
+---
+
+There's something inside us that loves to obsess over the faults of others — in particular, how _bad_ they are, and how if only they'd change, the world would be so much better. But one "big reveal" that both psychedelics and meditation offer is that this obsession is _always_ a cover for something going on inside of _us_, even though it so convincingly seems to be about others.
+
+It's not that we're entirely _wrong_ about them, per se (though often we are). It's that the _contempt_ and _malice_ we feel are always in proportion to how much "inner work" we still have left to do. As we heal the darkness within, something astonishing happens: we increasingly discover that the "bad" we see in others is invisible to them in exactly the same way that ours was to us — and that our contempt existed only to make it _harder_ for them to notice and heal it.
+
+The truth is that we are all hypocrites — especially those of us who are sure we're not. Part of what this means is that our minds hide certain unpleasant things about ourselves from ourselves. One of the most effective ways to do this is to keep our attention fixated outwards, on the flaws of others — and then to treat them in ways that _appear_ to be helpful, but are secretly designed to push them further into the abyss, so that we look better by comparison.
+
+As this tendency subsides, 
+
+The reason that _kindness_ is such a hard concept to define is that it's simply the _absence_ of this kind of self-deception. 
 
 
 ---

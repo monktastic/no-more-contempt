@@ -1,8 +1,5 @@
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-There is an aspect within each person's mind that genuinely wants what's best for the world. Sometimes, it is extremely well hidden — as with the "evil people." But it is always there, even when they themselves are not aware of it. To the degree that you can perceive it in others, you can help empower it. This is _kindness_, and it comes from the part of _you_ that only ever wants what's best for the world. It doesn't mean being _nice._ Sometimes the kindest behavior is the opposite of nice.
-
-There is also an aspect within each of us that blocks us from seeing this aspect of others, and even ourselves. In fact, what is blocking you from perceiving it in "bad people" is precisely the same thing that enables their bad behavior in the first place. It is also what allows us to be casually cruel or cold to people we barely know (but may _think_ we know), telling ourselves that we're helping. It is an illusion that we must see through if we are to survive.
 
 ---
 
