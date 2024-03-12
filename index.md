@@ -1,9 +1,36 @@
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-
 ---
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
+
+We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something much darker.
+
+"Bad people" are only able to do what they do thanks to a kind of self-deception that makes harming other people feel okay. The deepest part of them knows perfectly well that what they are doing is wrong, but that knowledge is carefully shielded from conscious self-reflection. It is often so well-shielded that it is impossible for us to believe that it exists at all — but it does.
+
+Exactly the same mechanism lives within our very own minds, though we rarely recognize it. It is what allows us to mock our political opponents with glee. We tell ourselves that they deserve it, and that it is making the world a better place — and we _believe_ this with all our hearts. Except it's not really with _all_ our hearts. The very deepest part of us always knows better, but we carefully shield this knowledge from conscious self-reflection.
+
+It's easy to get lost in speculation about whether such behavior is actually a net harm or good, especially because we don't get to see all of its downstream effects. Even if we do see the second-, third-, etc. order effects — like a humiliated father venting his frustration on his children, who then grow up to become "bad people" themselves — we never make the connection back to our own behavior. And even if by some miracle we do, it is easy to avoid feeling any complicity. Sure, we may have provoked him, but it was _his_ responsibility to handle it with grace. Why didn't he just become a _better person_, like we so clearly intended?
+
+Instead of getting lost in such speculation, there's something else you can do. If you inspect your mind carefully enough during such speculation, you'll discover that it exists primarily to hide something that your subconscious mind is secretly doing from your consciousness.
+
+You see, part of us actually _wants_ "bad people" to become worse. Why? Because this enables us to feel like _better people_ by comparison. But this is extremely hard to admit to ourselves. So our mind finds _exceedingly_ clever ways to push them further into the dark in ways that we can label "righteous." When executed well — which is most of the time — you will never even suspect that you're doing this. The very idea will sound offensively absurd. And if anyone tries to point it out, powerful defense mechanisms will kick in, making it even harder to see — especially if they do it with even a trace of contempt (for reasons we shall soon see).
+
+The truth is that any time you are unkind; any time you feel contempt, malice, or self-righteousness toward _anyone_ for _any reason_; it is your ego operating, attempting to elevate or otherwise enrich yourself at the world's expense. It is _precisely_ the same mechanism that allows the "bad people" to do what they do — and when you give in to yours, you are reinforcing their tendency to give in to theirs. **And this reinforcement isn't an unfortunate side effect of your otherwise-noble intentions; it is in fact the _whole point_.**
+
+To put it more simply: we don't hate bad people to make the world a better place; we hate them to make ourselves feel (and look) good _while making it worse_. In fact, we don't even have to feel hatred. Simply seeing a person as irredeemable is already an unmistakable sign that this terrible process is underway in your subconscious.
+
+I realize this is a hard thing to accept, and that you're unlikely to believe me unless you've seen it clearly yourself. But I swear it is the truth — and it is something that you can discover firsthand yourself.
+
+Seeing the full extent of it is what the Buddhists call _enlightenment._ You discover a shocking sense in which _you are everyone and everything._ The very deepest aspect of your mind is pure compassion, as is that of everyone else. But they've forgotten this, just as you yourself had for innumerable lifetimes. The very last thing you could ever want to do is continue to push them _further_ from realizing it — which is the inevitable effect of perceiving them as fundamentally separate from yourself; of forsaking them.
+
+This is not some bleeding heart idea. Kindness does not mean being nice, or sweet, or tolerant, or understanding. It simply means seeing the nature of reality clearly, so that your behavior inspires others to remember the astonishing truth instead of pushing them away from it. Such behavior may be fierce or even violent; it may look nothing like conventional "kindness" on the surface. But the very deepest part of you always knows the difference.
+
+All of the darkness in the world is intimately connected — and part of it lives within your very own mind. By keeping your portion alive, you ensure that it continues to flourish "out there." That is why everything comes down to knowing ourselves deeply, and healing that secret part of us. Only by doing so can we become aware of our complicity in having reinforced the conditions we decry, and to develop the capacity to take them apart.
+
+
+
+---
 
 All misbehavior — from cutting in line to genuine atrocities — is ultimately enabled by a kind of parasite in the mind. Think of it as that devil on our shoulders. But this devil doesn't just whisper obviously-evil ideas in our ears; no, it alters our very perception, so that it appears okay — or even _righteous_ — to step on certain people. It shields us from confronting the full implications of our words and behaviors.
 
