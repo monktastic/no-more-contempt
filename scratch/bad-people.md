@@ -1,5 +1,5 @@
 
-We think that hating bad people is a sign of the good within us, but it's really the opposite.
+We think that hating "bad people" is a sign of the good within us, but it's really the opposite.
 
 "Bad people" are only able to do what they do because of self-deception: part of them knows perfectly well that what they're doing is wrong, but the full implications of their behavior are carefully hidden from conscious self-reflection. Instead, they just hear their own justifications.
 

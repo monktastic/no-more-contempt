@@ -8,9 +8,7 @@ Consider [this horrifying story from 2012](https://www.telegraph.co.uk/news/worl
 
 > _Loggers in Brazil captured an eight-year-old girl from one of the Amazon's last uncontacted tribes and burned her alive as part of a campaign to force the indigenous population from its land [...]_
 
-<p align="center" width="100%">
-    <img width="300px" src="img/tribe.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/tribe.png"></p>
 
 Can you feel the profound anger and heartbreak for the girl, her tribe, and humanity? It makes you want to do everything in your power to ensure this kind of thing never happens again — including punishing and maybe even harming the perpetrators. At the same time, you may feel a desire to harm them quite _independently_ of any good it will bring: pure old-fashioned vengeance.
 
@@ -140,9 +138,7 @@ This is that primordial "evil global conspiracy" to which all the rest ultimatel
 
 **Any** time you feel malice, hatred, contempt, or even self-righteousness toward another being; any time you see them as fundamentally defective or inferior; any time you are tempted to divide the world into the (fundamentally) "good" and "bad," or to forsake anyone, you are feeding the Beast.
 
-<p align="center" width="100%">
-    <img width="300px" src="img/good-vs-bad.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/good-vs-bad.png"></p>
 
 To be clear: there are surely groups of particularly deluded people who conspire to cause great harm, but their existence wouldn't be possible if the rest of us weren't feeding the source — and conversely, it is _completely inevitable_ given that we are. **We must hold such people accountable**, but when we do this with contempt, we are reinforcing the very conditions that _compel_ their existence.
 

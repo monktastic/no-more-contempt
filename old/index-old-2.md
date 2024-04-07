@@ -34,9 +34,7 @@ It is this shadowy state of mind that ultimately enables _all_ evil. If we (the 
 
 Our self-image prevents us from admitting that we have anything in common with them, and so instead of recognizing their behavior as self-deceptive — which could actually help them and the world — we perceive them as _fundamentally defective_, so that we can behave maliciously, thus doing our part to keep them trapped in their delusion.
 
-<p align="center" width="100%">
-    <img width="300px" src="img/devil-vs-devil.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/devil-vs-devil.png"></p>
 
 In other words, our very identity as one of the (precious few) "good people" battling the hordes of evil ensures that we subconsciously behave in ways that keep that battle alive. It doesn't even require seeing people as "evil": simply by feeling malice, hatred, contempt, or even self-righteousness, our minds are cleverly plotting a way to darken the world for our (supposed) benefit.
 
@@ -50,9 +48,7 @@ We _must_ stop doing this.
 
 You know the classic image of the angel and devil sitting on our shoulders? It's _almost_ accurate, except for two things. First, the angel isn't really external to you, but represents the deepest aspect of your mind; your fundamentally compassionate nature. In a deep sense, it *is* you. The devil is external; a kind of parasite[^intrinsic]. But it doesn't just whisper obviously-bad ideas in your ear; it pretends to be your inner angel, and alters your very perception so that certain evils appear unerringly righteous.
 
-<p align="center" width="100%">
-    <img width="300px" src="img/parasite.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/parasite.png"></p>
 
 One of its tricks is to make people appear subhuman, so that harming them feels okay[^subhuman]. Your morals (and social norms) act as a kind of buffer, preventing you from seeing most people this way. But it's always on the hunt for victims, and it only needs the slightest excuse to begin its manipulation.
 
@@ -62,9 +58,7 @@ It searches for people whose misbehavior can't be chalked up to any kind of "gre
 
 This is the wedge it drives to prevent your angel from getting an empathetic grip. It triggers behavior that will cause you both to rapidly accelerate away from any possibility of mutual humanizing. Both your devil and theirs _knew_ this would happen, because they are fundamentally identical. In fact, not only are they identical, but from a certain perspective they behave more like puppets of a single shared Devil that is pulling _all_ of our strings.
 
-<p align="center" width="100%">
-    <img width="300px" src="img/shared-devil.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/shared-devil.png"></p>
 
 This is not just a religious invention: it seems that everyone who introspects carefully enough eventually perceives this "distributed malevolent entity" with a seeming intelligence and volition of its own that, even if not _literally_ true, explain its apparently-coordinated behavior terrifyingly well. Your interaction with the "bad person" ripples out from each of you into your lives, eventually reaching the far corners of the world — where you can plausibly deny any connection to it.
 
@@ -76,9 +70,7 @@ This is that primordial "evil global conspiracy"; the one to which all the rest 
 
 To be clear: there may well be groups of particularly "bad" people who conspire to cause great harm, but their existence wouldn't be possible if vast numbers of us weren't continually tilling the soil of self-deception — and conversely, it is _inevitable_ given that we are. **We must hold such people accountable** — but when we do this with contempt, we are reinforcing the conditions that effectively _compel_ their existence. (And, horrible as it is to admit, something in our minds is doing this _on purpose_, so that we always have someone to point our fingers at.)
 
-<p align="center" width="100%">
-    <img width="300px" src="img/evil-conspiracy.png"> 
-</p>
+<p align="center" width="100%"><img width="300px" src="img/evil-conspiracy.png"></p>
 
 _Any_ time you feel malice, contempt, or self-righteousness toward another being; any time you see them as fundamentally defective or inferior; you are being tricked into spreading evil in some way that you can't yet see. These are all forms of self-deception, and secretly invite more self-deception in others — that shadowy space of mind in which evil can be "safely" committed.
 
@@ -94,9 +86,7 @@ The more compassion is unveiled, the more it reveals the vast interconnectedness
 
 Enlightenment is a lofty goal, but we can start small, by changing social norms. We can teach our children (and remind our allies) that contempt for "bad people" isn't what it seems to be. It must go the way of all other forms of evil if we are to defeat our true enemy.
 
-<p align="center" width="100%">
-    <img width="600px" src="img/buddha-and-demons.png"> 
-</p>
+<p align="center" width="100%"><img width="600px" src="img/buddha-and-demons.png"></p>
 
 ---
 
