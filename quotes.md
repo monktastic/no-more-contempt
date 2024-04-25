@@ -12,6 +12,8 @@
 
 > *We judge ourselves by our intentions and others by their behavior* — Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
 
+> *Wisdom without compassion is ruthlessness, compassion without wisdom is folly.*
+
 ---
 
 ### Psychedelics
