@@ -36,7 +36,6 @@ You might think I'm exaggerating or being naive — that _intrinsically bad_ peo
 
 ---
 
-We've all heard that "hate cannot drive out hate," but is it really true? How about something a little milder, like _contempt_? Can that make the world a better place?
+We've all heard that "hate cannot drive out hate," but is it really true? What about something milder, like contempt? Surely contempt for _bad people_ can make the world a better place — certainly more so than being kind to them.
 
-It's easy to convince ourselves that it can. After all, what could possibly be wrong with feeling a little contempt for _bad people?_ It's not just okay, but practically our responsibility as decent people.
 

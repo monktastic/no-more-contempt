@@ -1,4 +1,9 @@
 
+
+
+---
+---
+
 We've all heard that "hate cannot drive out hate," but is it really true? How about something a little milder, like contempt? Surely when it's aimed at _bad people_ it can make the world a better place?
 
 The truth is that "bad people" know perfectly well when they're doing wrong, but that knowledge is very carefully shielded from conscious self-reflection. It is a kind of self-deception. If you look precisely enough into your own mind while feeling contempt, you will discover something astonishing: it is designed to _deepen_ their capacity for self-deception. Yet it will feel very convincingly like you are doing something righteous. In this way, contempt is _itself_ a profound form of self-deception — the mother of them all.
