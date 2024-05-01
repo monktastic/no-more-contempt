@@ -1,5 +1,54 @@
 
+This world is secretly run from the shadows — but not in the way you probably think.
 
+Have you ever wondered how people can be so cruel to each other? It elicits the urge to be a little bit cruel in return: we feel a kind of _viciousness_ or _edge_; like we're giving the perpetrators "a taste of their own medicine"; fighting fire with fire. But something much darker is actually going on.
+
+People are only able to be unkind because their mind is shielding them from a kind of natural empathy, allowing them to get away with things that they otherwise could not. Do they know that they're doing this? Well, yes and no: part of them knows _perfectly well_, of course, but that knowledge is very carefully shielded from conscious self-reflection. What they mostly hear are their own clever justifications.
+
+In this state, people appear _evil_ — and it powerfully evokes a similar pattern in us. Our version feels noble — like it is there to protect the innocent — but that's only because we're not looking carefully enough.
+
+Our mind has secretly been drawn into the same shadowy state as theirs. In it, we don't just license ourselves to hate the "bad people" like we tell ourselves. Our mind uses this liminal space to get away with all manner of dark, hidden desires — desires that we may not even be conscious of. For some, it is about money or power, but for others it is (ironically) about looking and feeling like "good people" — people who therefore deserve to get away with more.
+
+This mind-state is _infectious_, and it is the perfect trap. People who are in it _don't know that they are in it_ — whether "good people" or "bad people." Or rather, part of them _does_ know perfectly well, but that knowledge is carefully tucked away such that they can plausibly deny having any knowledge of it. The only difference is that the "good people" have justifications that look _noble_ on paper.
+
+The difference between _good_ from _evil_ cannot be found in the content of our justifications — whether we are doing it to "protect the innocent" or not. It can only be found in the quality of our introspective awareness.
+
+---
+
+[//]: # (There are things &#40;and feelings&#41; that your mind wants, that it has learned to believe it cannot get without dehumanizing others. You instinctively judge this as _evil_, and so your subconscious is forced to dress it up in elaborate, obviously-righteous justifications. In a way, your evaluation is correct: it is the very essence of evil, and exactly what the "bad people" are doing. But at the same time, you really don't want to be doing it, and wouldn't, if you felt that there was another way.)
+
+
+---
+
+
+There is a parasite that has hijacked human minds, whose sole purpose is to create a kind of Hell on Earth. It accomplishes this by darkening our minds, so that we feel okay — or _positively righteous_ — about harming each other. In that darkened state, we license ourselves to get away with _all manner_ of nasty business that doesn't accord with our deepest values. If you look carefully — _and this is hard_ — you'll find that in that state, you're not just hating "bad people": you're angling to gain some advantage for yourself at the expense of the world; something that you feel you deserve but cannot get in any other way. 
+
+Simply by allowing your mind to linger in that shadowy space, something remarkable happens: you _induce_ it in others. It makes the "bad people" feel increasingly justified in their selfish behavior — subconsciously relieved that their victims aren't so "innocent" after all — which in turn licenses the "good people" to feel even more self-righteous outrage to combat this newfound evil. It is a vicious cycle that we know all too well.
+
+There's only one way out of this insane trap — and it's _not_ to be sweet and understanding in the face of evil, if that's what you thought I was going to say.
+
+---
+
+The deepest part of you is fiercely committed to a better, kinder world — whatever the personal cost. Fighting evil from this place feels _vastly_ different from doing it with the viciousness or "edge" described before — and it has a very different impact on everyone whose mind it touches, directly or indirectly, friend or foe. It doesn't induce the shadowy state in them; on the contrary, it robs their parasite of its justification, if only a little. This is the _only_ thing that genuinely dissolves evil instead of secretly reinforcing it.
+
+It is difficult to describe this state, but the deepest part of you already knows it. It feels like an immensely powerful Love — not for your target, exactly, but not really excluding them, either. It is for _reality as a whole_ somehow, because you see that it is the very act of dividing the world into "people who deserve my compassion" and "people who deserve my contempt" that keeps the whole sordid game going. It comes from a mistaken understanding of what compassion really _is_. It's not a gentle or gooey thing: it can be as fierce (or potentially even _violent_) as necessary. Its only defining feature is that it doesn't fall prey to the darkness; to self-deception.
+
+You see that the Darkness behaves like an impersonal force that nonetheless manifests itself through our individual psyches. It is what the ancients knew as the Devil: a distributed malevolent entity that flows freely between minds, signaling to itself beneath our conscious thresholds, defiling everything that it touches. It is why you feel the urge to attack "evil people": their parasite is _recruiting_ you to enter the shadowy space with them, so that you may both act as powerful beacons for the Darkness. It is such an obvious trap when you see it.
+
+This is hard to describe, but people's minds really have been hijacked by the parasite. Even the ones who appear to want it are suffering from a kind of Stockholm Syndrome -- and being unkind to them is allying with their captor, because that very urge comes from your own. You couldn't possibly agree to do it if you could see this.
+
+
+
+From this place, there cannot be even a trace of malice, contempt, or self-righteousness. Those are clearly and unmistakably signs of the parasite hijacking your mind.
+
+It may not feel as immediately satisfying as a violent attack, but it actually works _toward_ the goal you most deeply desire: ridding the world of the parasite.
+
+It doesn't have to be any softer or meeker, per se. It can be fierce, or possibly even violent. It's just that the vast majority of times that violence is involved, we're secretly obeying our _parasite_.
+
+[^empathy]: In some people, this mechanism is so strong and automatic that it's simpler to say that they _have_ no empathy.
+
+
+[//]: # (— even for you, the "good person," but exponentially more so for the "bad people." It's not that they don't know that they're being selfish &#40;or "evil"&#41;; it's that the full implications of this are carefully tucked away in the terrifying maze of their minds.)
 
 ---
 ---

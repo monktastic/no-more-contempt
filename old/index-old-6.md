@@ -120,9 +120,7 @@ You know how people sometimes suspect that there's an "evil global conspiracy" l
 
 Our individual devils are working together almost like a single "distributed organism" — the _Devil_, if you will. Each of us suspects its existence, but we all view it from different angles. No two people fully agree on who's ultimately pulling the strings of the evil plot. The truth is that _nobody_ is — and _everybody_ is.
 
-<p align="center" width="100%">
-    <img width="300px" src="img/evil-above-world.png"> 
-</p>
+<p align="center" width="100%"> <img width="300px" src="img/evil-above-world.png"> </p>
 
 This "dark entity" continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving how _good_ they are. It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all.
 

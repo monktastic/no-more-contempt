@@ -6,9 +6,76 @@
 
 We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_.
 
-People are only able to misbehave thanks to a kind of self-deception: part of them knows perfectly well when what they are doing is wrong, but that knowledge is very cleverly shielded from conscious self-reflection. This is the mechanism that has enabled _all the evil there ever was_ — and it is the very same mechanism that has enabled our own misbehavior, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to.
+People are only able to cause harm due to a kind of self-deception: part of them knows perfectly well that they are doing wrong, but that knowledge is very cleverly shielded from conscious self-reflection. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
 
-We rarely recognize it at work in others. Instead of seeing a fellow human under the sway of a powerful illusion — one that we ourselves are all-too-susceptible to — we perceive them as _fundamentally morally defective;_ totally unlike us. Such a person cannot be helped; they can only be subdued or punished — and it is our righteous duty to do so. But this itself is the most damning evidence of our own susceptibility.
+When you encounter someone in this state, you have two options. The first is to to recognize them as being caught in this dark trap, which gives rise to the natural instinct to free them from it. The other is to perceive it as being _intrinsic_ to them; to see them as _fundamentally defective._ This gives rise to the dark urge to shove them deeper into the abyss, where they "belong."
+
+The latter is always self-deception. Part of you knows that you're not _intrinsically_ better than anyone — and that when you act like you are, you only inspire them to dig in their heels. This makes "bad people" _worse_ — but you can easily convince yourself (and your allies) that this is their fault. They are _bad,_ after all.
+
+You can either recognize them as being caught in this dark trap, or choose to perceive them as _fundamentally morally defective._ The former gives rise to the natural instinct to free them from it — and thereby free the _world_ of it. The latter is secretly a desire to shove them deeper in. It is a profound form of self-deception.
+
+As such, it will not _feel_ like self-deception. It will feel impossibly righteous, like you are "fighting evil." But your contempt secretly has only one purpose: to _increase_ the darkness in the world. Why? Part of our mind is trying to get away with something, and it knows that the darker the world becomes, the easier a time we will have in hiding it. Hating "bad people" is our mind's way of spreading darkness in a way that appears noble on the surface. It is evil in disguise. 
+You can recognize it in yourself as malice, contempt, or self-righteousness.
+
+
+
+The way it works is _insanely_ clever. Your darkness recognizes theirs as a perfect opportunity to manifest itself in you. It knew that you would welcome it. Once you did so — which only requires feeling _contempt_ — their darkness in turn recognized itself in you. It is a kind of secret handshake. You feel flawlessly convinced that you are "fighting evil," but they see you as a hypocrite, thereby feeling even less compunction in harming you. Part of your mind knows exactly what you're doing, and that they are _right_. So you must now push this knowledge out of mind even harder. 
+
+This is precisely what the darkness wants: for both of you to embrace it and thereby be fully confident that you are _not._
+
+Compassion is the desire to free them from it — and therefore, to free the _world_ from it, at least a little.
+
+
+
+---
+
+
+This mind-state is _infectious_: simply by engaging in it, we induce it in others. We have an incentive to normalize that state, because the more others overlook their consciences, the more licensed we feel to disregard our own. Of course, we don't know that we're doing this — at least, consciously. Our mind generates a flawlessly compelling story in which we are the noble heroes. But our subconscious always knows the truth.
+
+Hating other people is _always_ a sign of self-deception. So are malice, self-righteousness, and contempt (for _people_). Your mind is trying to hide something from you, though you may not know what yet. When you attack your enemies from this state, they tend to just dig in their heels and vow to fight harder, don't they? This just proves how _right_ you were about them, thus compelling you to escalate. But it is a sinister lie.
+
+Your darkness can indeed suppress other people's misbehavior — at least, their _public_ misbehavior, and for a time. You can thus convince yourself that it "worked." But even if you manage to violently eradicate your enemies, doing so from this profoundly dark place will powerfully awaken the shadows of every person whose mind it touches, directly or indirectly, "friend" or "foe." This is not an accident: it is secretly the whole point. Something in you _wants_ this to happen.
+
+---
+
+The ancients knew it as the _Devil_: a malevolent force relentlessly driving humanity toward catastrophe. However literally you want to take this, there is something to be seen here — something that we are overlooking to our own profound peril.
+
+From a certain perspective, the darkness appears sentient; almost _intelligent._ It behaves like a distributed malevolent entity, continually manipulating human minds for its own sinister ends. When you look in a person's eyes and see "evil," _this_ is what you are seeing. It has taken up residence in the minds of all "bad people" — and it lives within us, too.
+
+It is that classic devil on your shoulder — but unlike in the cartoons, it doesn't just whisper obviously-evil ideas into your year. No, this devil alters your very perception such that certain evils appear okay; even _righteous._ Its greatest trick is to make other people appear _intrinsically_ evil, so that you will conflate _it_ with _them_ — inducing contempt, thereby powerfully strengthening it. It is always one step ahead, making you tilt at windmills.
+
+It derives all of its power from our willingness to _look away_. There is a part of us that always knows the "right thing" to do, but a small voice in us tells us that we don't have to listen.
+
+[//]: # (It cannot survive on its own: it requires our participation to stay alive and breed.)
+
+It is a form of possession, which some people have indeed welcomed in. But feeling either hatred or pity for them only strengthens it. 
+
+---
+
+
+
+When we encounter other people in this state, we perceive it as _evil_, and it evokes a powerful reaction. We feel the urge to violently extinguish it, which manifests as a desire to viciously attack _them._
+
+This is precisely what their "evil" wants: for you to conflate _it_ with _them,_ thereby tricking you into behaving in a way that will amplify the darkness in the world. But you won't realize that you're doing this: you will instead feel flawlessly confident that you are valiantly _fighting evil_. You have been drawn into the self-deceptive state yourself. Any action you take from this place will darken the world, and part of you will know it — but you will be unable to admit it to yourself.
+
+Your darkness can indeed suppress other people's misbehavior — at least, their _public_ misbehavior, and for a time. You will thus convince yourself that it "worked." But even if you manage to violently eradicate your enemies, doing so from this profoundly dark place will powerfully awaken the shadows of every person whose mind it touches, directly or indirectly, "friend" or "foe." This is not an accident: it is secretly the whole point.
+
+
+
+It is an _insanely_ clever trap. Every one of us has the power to eliminate a bit of evil from the world — and instead of doing that, we are tricked into spreading it.
+
+The way to know whether you are spreading good or evil isn't by inspecting the content of your thoughts or your beliefs. It doesn't matter how noble or well-intentioned they are: it is the hidden activity going on beneath the surface that makes all the difference. If you are "protecting victims" from a place of contempt for the perpetrators, you are subtly manipulating the surrounding minds to 
+
+
+[//]: # (You have _no idea_ how good we are at lying to ourselves and then pushing this knowledge out of consciousness. But part of us _always knows_. The "bad people" are simply those who have been most successful at hiding it from themselves.)
+
+[//]: # ()
+[//]: # (We can see that they're doing this, but they somehow cannot. This gives rise to the urge to _force_ them to see it.)
+
+
+---
+
+We rarely recognize it at work in others. Instead of seeing a fellow human under the sway of a powerful illusion — one that we ourselves are all-too-susceptible to — we perceive them as _fundamentally morally defective;_ totally unlike us. Such a person cannot be helped; they can only be subdued or punished — and it is our righteous duty to do so.
 
 If you look carefully enough, you'll find that contempt for "bad people" is secretly designed to make them _worse_; to _reinforce_ their capacity for self-deception. Whether or not you have a valid point about their behavior, your contempt will only trigger their defense mechanisms. This is on purpose: if you can get them to dig in their heels, you can "prove" that they really _are_ fundamentally bad, which will justify your contempt — and license escalation. A few more rounds of this, and you'll get what you're really after: an unmistakably evil foe who you will be forced to violently defeat. This is the most delicious feeling in the world.
 
