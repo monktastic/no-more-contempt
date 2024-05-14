@@ -1,17 +1,81 @@
 
+
+All the hostility we've leaked into the world still lives out there somewhere, where we can judge it from afar, blissfully unaware of our own connection to it. But part of us always knows — and we cannot have the more beautiful world we desire until we acknowledge this and clean it up.
+
+---
+---
+
+When we see "evil" in the eyes of another person, something within us feels the urge to violently attack them — even if only emotionally. It feels like that instinct is there to help us "fight evil," but something _much darker_ is actually going on.
+
+By simply engaging in that state, your mind induces darkness in all other minds that witness it. Your allies will feel compelled to join you in your noble mission, while your target (and other enemies) will feel the urge to viciously attack _you_ — thereby providing you with even more evil to righteously battle. The Darkness itself does not care who is harmed, as long as _someone_ is; it is not on anyone's side but its own. It is merely using humanity as a vehicle to spread itself — and we are dutifully obliging.
+
+It tells you that it is fighting for _you_; for the side of _good_ — and it is _completely convincing._ It will even provide you with evidence to "prove" it. Your darkness can indeed suppress other people's misbehavior — at least, in public, and for a time. Thus, you will believe that it worked — but only because you are not looking closely enough.
+
+The darkness in your mind exists to shield you from the full consequences of your behavior, so that you may get away with things that you otherwise could not. This is _exactly_ the state that allows the "bad people" to do what they do: part of them knows perfectly well that they are causing harm, but this knowledge is carefully hidden from conscious self-reflection. All they hear are their own clever justifications. It is this state that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior, if we're honest.
+
+It is not until you see how thoroughly you have been fooled by the Darkness that you begin to appreciate what is happening in the minds of the "bad people" — and why hating them for it is the ultimate trap. It doesn't even require hatred. By simply feeling _contempt_ — the pernicious illusion that you are _fundamentally_ superior; that others are _intrinsically_ defective — you are entering the shadow state, in which your darkness will control you without your knowledge.
+
+But the worst part is that _part of you always knows_. It's not truly unconscious or even subconscious. It is perfectly accessible to consciousness, if only we choose to look. Yet we somehow choose not to look. This is the great tragedy.
+
+Compassion is nothing but the courage to stare your darkness directly in the face, thereby dispelling it. In this state, you are perfectly capable of being fierce or even violent in response to misbehavior, if the situation warrants it. But you will be incapable of feeling even a _trace_ of genuine malice, self-righteousness, or contempt (for _people_) — because you will see clearly that they simply do not have the courage or wisdom to confront their own darkness yet. By standing firm in this resolve, you powerfully induce the Light in others — even those who have forgotten that such a thing exists, let alone within themselves.
+
+Make no mistake: it is far more deliciously satisfying to act from the darkness, and it feels much more compellingly "righteous" to the mind steeped in the story of vengeance. But it is _always_ a trap — and we have no leg to stand on judging others for falling victim to it when we ourselves are still so susceptible.
+
+Your Light is the only thing capable of dispelling darkness from this world, and it is only the darkness that convinces you otherwise. Please do not fight on its side. Humanity — _life_ — desperately needs you.
+
+
+---
+
+Compassion is the intention to pull others _out_ of this state, whatever may be required — be it gentle or violent — and to thereby extinguish evil from the world. Contempt is the secret desire to shove them deeper in — and to thereby _darken_ the world.
+
+Why would we want to darken it? _To provide cover for our own darkness._ It's really that simple. "Bad people" just give us plausible deniability — and the way it works is insanely clever.
+
+The deepest part of you knows that you're not _intrinsically_ better than anyone. It is your darkness that convinces you that you are, knowing fully well that this will simply trigger them into returning the favor, which will provide you with unmistakable proof that they really _are_ fundamentally defective, etc., in an escalating cycle of violence for which you will feel _absolutely no complicity_. Whatever your mind may tell you, that is the only purpose of contempt — for _people._ Contempt for their beliefs or behaviors is a very different thing, and can actually be compassionate under the right circumstances.
+
+If this distinction seems like splitting hairs, it is only because your darkness is muddying the waters. Again, the deepest part of you knows the difference — and that one of these leads to a darker world, while the other (potentially) leads to a brighter one.
+
+It is also astonishingly easy to lie to ourselves about which one we are doing in any given interaction. Again, this is on purpose: there is a shadowy aspect of our minds that continually confuses the issue, so that we can pretend not to know what we are really doing. This is why almost everything we do to "fight evil" is secretly an attempt to create _more_ in a way that deflects all criticism.
+
+If you look carefully enough, you will see that your darkness and that of the "bad people" is secretly _allied._ Theirs provides an excuse to elicit yours, and vice versa. It is a kind of secret handshake that you can learn to detect.
+
+
+
+---
+
+
+
+This mind-state is infectious: simply by engaging in it, the "bad people" induce it in others. The dark part of their mind _wants_ you to hate them — because if it can get you to act unethically, then they will have an easier time justifying their behavior: they can tell themselves that their victims aren't so innocent after all. But hating "bad people" isn't unethical — it's the _opposite_, in fact. So when we do it, and they just double down, it becomes even _more_ obvious that they're evil, which triggers more hatred, etc.
+
+Here's what's really happening. It is impossible to feel hatred — or even _contempt_ — for any other person, good or bad, without entering the self-deceptive state yourself. In that state, you don't just license yourself to hate "bad people," like you tell yourself. Your mind uses that liminal space to get away with all manner of dark hidden desires that it otherwise could not — desires that you may not even realize you have. Every one of us knows deep down that this is how it works — but it is society's best-kept secret; one which we must never speak of.
+
+You will not realize that you've entered this state, but other people can subconsciously tell. In fact, this is the key trick of the darkness: it hides itself perfectly from you while telegraphing it loudly to others. _This_ is the signal that their mind was looking for — and you just gave it to them.
+
+---
+
+Contempt is the pretense that you are _fundamentally better_ than someone — and yet the very deepest part of you knows that you're not. It can sense that you're simply lost in a different section of the very same maze as the "bad people." In fact, the more convinced you are of your fundamental superiority, the more surely your mind is trying to hide something from you. That is what makes contempt (for *people*) such a reliable signal that you have entered your shadow side, regardless of who it is for.
+
+The dark part of your mind is trying to induce this state in others, just like the "bad people" are: the more normalized it becomes, the easier it can hide itself from you. But because of your self-identity as a "good person," it cannot do this in an obvious way. So it makes a big show of being sweet to "victims" and cruel to "perpetrators," knowing perfectly well how the latter will react. It _needs_ them to, to justify more of itself. And it knows that _they_ will secretly know what you are up to, thus completing the cycle — with both of your conscious minds being none the wiser.
+
+How does it know that they will know? Because your darkness and theirs are secretly connected...
+
+---
+
+From a certain perspective, the darkness appears sentient; even intelligent. It is that phenomenon that the ancients knew as the _Devil_[^devil]: a distributed malevolent entity manipulating all of our minds, communicating with itself beneath our conscious thresholds; subtly altering our perceptions, while convincing us that it doesn't exist — or that it doesn't exist within _us_, the righteous. Ironically, this is the _surest_ sign that our mind has been overtaken.
+
+In more modern terms, it is the "evil global conspiracy": a secret cabal pulling all the strings, and yet hidden so well that nobody even suspects its existence — let alone that _part of their own mind is secretly in on it_. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they ultimately filter up — and we are its minions.
+
+
+
+
+
+---
+---
+
 This world is secretly run from the shadows — but not in the way you probably think.
-
-Have you ever wondered how people can be so cruel to each other? It elicits the urge to be a little bit cruel in return: we feel a kind of _viciousness_ or _edge_; like we're giving the perpetrators "a taste of their own medicine"; fighting fire with fire. But something much darker is actually going on.
-
-People are only able to be unkind because their mind is shielding them from a kind of natural empathy, allowing them to get away with things that they otherwise could not. Do they know that they're doing this? Well, yes and no: part of them knows _perfectly well_, of course, but that knowledge is very carefully shielded from conscious self-reflection. What they mostly hear are their own clever justifications.
 
 In this state, people appear _evil_ — and it powerfully evokes a similar pattern in us. Our version feels noble — like it is there to protect the innocent — but that's only because we're not looking carefully enough.
 
-Our mind has secretly been drawn into the same shadowy state as theirs. In it, we don't just license ourselves to hate the "bad people" like we tell ourselves. Our mind uses this liminal space to get away with all manner of dark, hidden desires — desires that we may not even be conscious of. For some, it is about money or power, but for others it is (ironically) about looking and feeling like "good people" — people who therefore deserve to get away with more.
-
-This mind-state is _infectious_, and it is the perfect trap. People who are in it _don't know that they are in it_ — whether "good people" or "bad people." Or rather, part of them _does_ know perfectly well, but that knowledge is carefully tucked away such that they can plausibly deny having any knowledge of it. The only difference is that the "good people" have justifications that look _noble_ on paper.
-
-The difference between _good_ from _evil_ cannot be found in the content of our justifications — whether we are doing it to "protect the innocent" or not. It can only be found in the quality of our introspective awareness.
+The difference between _good_ from _evil_ cannot be found in the content of our thoughts — whether we are doing it to "protect the innocent" or not. It can only be found in the quality of our introspective awareness.
 
 ---
 
