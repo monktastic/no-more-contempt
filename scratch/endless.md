@@ -1,5 +1,17 @@
 
 
+Evil is _insanely_ clever. It tricks us into going against our own deepest values even while convincing us that we're honoring them.
+
+---
+
+People are only able to cause (intentional) harm due to a kind of self-deception: part of them knows _perfectly well_ that they are doing wrong, but that knowledge is carefully shielded from conscious self-reflection. All they hear are their own clever justifications. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen.
+
+
+
+
+---
+---
+
 All the hostility we've leaked into the world still lives out there somewhere, where we can judge it from afar, blissfully unaware of our own connection to it. But part of us always knows — and we cannot have the more beautiful world we desire until we acknowledge this and clean it up.
 
 ---

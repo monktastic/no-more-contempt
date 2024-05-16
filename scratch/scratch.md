@@ -1,12 +1,10 @@
-[//]: # (Part of us knows that such behavior usually just makes them dig in their heels. They become slightly worse people, but that's not what we tell ourselves. We're not making them worse; we're just exposing the bad that was already there. What we can't see is that part of us is trying to make them worse, because this will prove that they are beyond help. This way, we can finally unleash the full depths of our righteous fury.)
+Part of us knows that such behavior usually just makes them dig in their heels. They become slightly worse people, but that's not what we tell ourselves. We're not making them worse; we're just exposing the bad that was already there. What we can't see is that part of us is trying to make them worse, because this will prove that they are beyond help. This way, we can finally unleash the full depths of our righteous fury.
 
 
-[//]: # (It is as though we have finally found the source of evil in the world and must not let it escape. ... and distilling ...)
+It is as though we have finally found the source of evil in the world and must not let it escape. ... and distilling ...
 
 
 ---
-
-Have you noticed that hating people is obviously wrong, but hating "bad people" feels more than okay? Why is that?
 
 There is a certain virus that sneaks into minds, undetected. When it infects other people, we easily recognize it as "evil"; but once inside of _us_, it feels unmistakably righteous...
 
@@ -29,11 +27,6 @@ Ultimately, no answer is as satisfying as discovering for yourself the astonishi
 
 ---
 
-What is it that allows some people to be cruel without compunction, as though they're not even aware that they're perpetrating evil — or worse, as though they relish it?
-
-If you were guilty of this, would you know it? Or is it possible that the same trick that prevents them from recognizing their evil is preventing you from seeing your own?
-
----
 
 What if your fight to improve the world is doing more harm than good? And what if there's a part of you that already knows this but doesn't want you to find out?
 
