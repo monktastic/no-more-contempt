@@ -1,7 +1,16 @@
 
+Why do wise people urge compassion for evildoers? Are they being naïve? Or could it be that they see something that we don't?
 
-Evil is _insanely_ clever. It tricks us into going against our own deepest values even while convincing us that we're honoring them.
+The hardest thing to admit is that there is a dark aspect of our minds that relishes cruelty. But if we have a self-image as "good people" — which almost all of us do — then we cannot satiate this desire without having _plausible deniability._ The "bad people" are simply those for whom we tell ourselves that we have it.
 
+Licensing that part of ourselves has an unintended consequence: it secretly licenses it in everyone else, too — our target and other enemies included. And it gets worse: _it's not actually unintentional_. The desire for cruelty doesn't actually originate in our minds, but in a collective darkness that has its own goals. It is _tricking you_ into provoking the darkness in others, to keep itself alive.
+
+If you wish to fight the evil in other people's minds, you must learn to see how it has manipulated them into believing that they want or need it — and you cannot do this without first seeing how it has similarly seduced _you._ The more you see it, the less you can feel _contempt, malice, or self-righteousness_ toward anyone, because you will recognize these as unmistakable signs of attempted possession by the Darkness.
+
+
+
+
+---
 ---
 
 People are only able to cause (intentional) harm due to a kind of self-deception: part of them knows _perfectly well_ that they are doing wrong, but that knowledge is carefully shielded from conscious self-reflection. All they hear are their own clever justifications. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen.
