@@ -1,7 +1,12 @@
 
-People are only able to cause harm due to a kind of self-deception: part of them knows _perfectly well_ that what they are doing is wrong, but that knowledge is carefully shielded from conscious self-reflection. All they hear are their own clever justifications. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen.
+---
 
-Deep down, we recognize this uncofmortable similarity between ourselves and the "bad people" — and to hide it from ourselves, our minds trick us into perceiving them as _fundamentally defective,_ and thus worthy of contempt. The problem is, they now subconsciously recognize that _we're_ being self-deceptive (i.e., _evil_), which makes them feel _more_ justified in their storyline. This convinces us that we were right about them, thus licensing escalation.
+
+
+---
+---
+
+Deep down, we recognize this uncomfortable similarity between ourselves and the "bad people" — and to hide it from ourselves, our minds trick us into perceiving them as _fundamentally defective,_ and thus worthy of contempt. The problem is, they now subconsciously recognize that _we're_ being self-deceptive (i.e., _evil_), which makes them feel _more_ justified in their storyline. This convinces us that we were right about them, thus licensing escalation.
 
 The truth is that part of our minds _knew_ this would happen, and in fact _intended_ it. But we hid this from ourselves. Sound familiar? Contempt — for people, not just their beliefs or behaviors — is inherently self-deceptive, and in this sense, _evil_ — regardless of who it is aimed at. Its sole purpose is to increase the darkness in the world in a way that feels unmistakably righteous, so that we can create more cover for our own self-deception.
 
