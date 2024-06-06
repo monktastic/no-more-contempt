@@ -1,96 +1,52 @@
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
-Why do wise people urge compassion for evildoers? Are they being naïve? Or could it be that they see something that we don't?
+Looking at the state of the world, you could be forgiven for believing that there's an _evil global conspiracy_ pulling the strings from behind the scenes. In a sense, there is — but it's not the one that you're probably thinking of.
 
 ---
 
-Every one of us has had the experience of skirting our conscience before — behaving in a way that goes against our deepest values, but that we convince ourselves is okay. Part of us knows _perfectly well_ that what we are doing is wrong, but that knowledge is carefully shielded from conscious self-reflection: it is "kept dark."
+People are only able to cause harm due to a kind of self-deception: part of them knows _perfectly well_ that they are doing wrong, but the full implications of their behavior are carefully shielded from conscious self-reflection. All they hear are their own clever justifications. It is this secret mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen.
 
-Maybe we've helped ourselves to "a little extra" at the expense of a company, convinced that we're only harming its wealthy (and greedy) owners. Maybe it turns out that the owners weren't so wealthy after all, or that our behavior subtly harmed many other people indirectly. But our minds found an excuse for those too — or else blocked that knowledge entirely from conscious awareness.
+Our self-deception hides itself from us while tricking us into perceiving other people's as _intrinsic evil_. This makes us violently attack them, which they subconsciously recognize as self-deception, making them perceive _us_ as evil, which they then use as further justification for their misbehavior. _This is what we secretly wanted_. Their recalcitrance, combined with our "inability" to see that we provoked it, together serve as "proof" that they are evil, thus licensing us to escalate.
 
-Or perhaps we were a little bit nasty to someone, convinced that they deserved it — having no deep insight into the true source of their misbehavior, and unable to admit that we just compounded their difficulties in life. We can't see that a tiny part of them was actually _trying_, and that our casual cruelty was the final straw. To hide this, we convince ourselves that _no_ part of them was trying; that they are _fundamentally morally defective,_ and thus beyond help. But it doesn't feel like we're _convincing_ ourselves; it simply feels like "the truth."
+This is just one of a million clever little ways that the darkness "in here" amplifies the darkness "out there" while hiding itself from us. Every act of self-deception lowers the threshold for darkness to manifest elsewhere, so that we will not only feel no connection to it, but will feel compelled to pile on _more._ It keeps us fixated on the darkness "out there" specifically so that we never notice what is happening "in here." It is such a clever trap that it almost smells... designed.
 
 <p align="center" width="100%"><img width="300px" src="./img/half-evil.png"></p>
 
-It is hard to admit that we're doing this, but what's even harder to admit is the impact it has. All the darkness in the world is intimately connected. Every act of unkindness propagates into the Whole, lowering the threshold for darkness to manifest elsewhere. Every act of self-deception makes it more likely that genuine atrocities will be committed by someone, somewhere — atrocities for which we will not only feel absolutely no complicity, but which will actually trigger _self-righteous outrage_, inciting us to compound the problem.
+In truth, there is no darkness "in here" and darkness "out there"; there is only the one _Darkness_, behaving like a distributed malevolent entity, flowing freely between minds, shape-shifting at every turn, tricking us into tilting at windmills. Just when you think you've caught a hold of it in someone else's mind, it sneaks out the back door of theirs and enters through yours. You have unknowingly invited it in — and once it is there, you are completely at its mercy; your internal detectors having been taken offline.
 
-This is the secret mechanism by which evil spreads without anyone recognizing their role. It is why we feel contempt for people (and not just for their beliefs or behaviors). It is a trick to avoid confronting our own darkness by violently attacking it in others, thereby reinforcing it while feeling flawlessly certain that we are "helping." This generates a dark cover behind which our own self-deception can hide. It is an _impossibly_ clever trick.
+This is what we are sensing when we suspect an "evil global conspiracy." It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they ultimately filter up. Almost everything we do to "fight" it is secretly in its service. It is made of the disowned aspects of all of our minds working together. We will never fully unearth it "out there" until it has been excavated "in here."  You can treat this as an allegory, but you can also learn to perceive it clearly and directly.
 
 <p align="center" width="100%"> <img width="300px" src="img/evil-above-world.png"> </p>
-
-The reason we "can't" defeat evil as a society is that a deep part of us knows that fully exposing it "out there" would also expose it "in here" — and we are not ready for that just yet. Contempt is our way of _pretending_ to expose it.
 
 ---
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
 
-From a certain perspective, the darkness appears sentient; even intelligent. Yours triggers mine, which triggers yours, etc., almost as though they are _allied_. In fact, if you look closely, you'll see that your darkness and mine aren't truly separate: they behave more like appendages of a _distributed malevolent entity_, manipulating all of humanity from within the dark crevices of our own minds; the places where we dare not look.
-
-It is what some cultures know as the _Devil_ — and it is as "real" as anything you can touch. It keeps our attention perpetually fixated outward, so that we never look too closely "in here" — the one place where we have direct power over it. Its greatest trick is to make you perceive other people's evil as being _intrinsic_ to their minds. **By agreeing to this misperception, you are choosing to enter your own shadow, where you won't see what you're really doing.** You thereby become a beacon of darkness yourself. The more you do this, the more others will perceive _your_ evil as intrinsic — and the _less_ you will recognize it in yourself.
-
-<p align="center" width="100%"><img width="300px" src="./img/shared-devil.png"></p>
-
-In more modern terms, it is the _evil global conspiracy_ — that secret cabal responsible for all the world's ills, yet whose full membership remains forever elusive. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they ultimately filter up — and _we_ are its minions. All the conspiracies you can identify "out there" are rooted in this shared hidden aspect of mind. They feel "shadowy" because they are outer reflections of our collective unconscious. To believe that you have pinned it down externally is to fall into its most basic trap.
-
-"The elites" may well be playing us off each other to take attention away from themselves — but the Devil is playing a _much_ bigger game; one in which even the elites are merely pawns. It controls our perception and models of reality so completely that we can hardly even fathom its existence. We feel that the dark state of our world must be due to individuals who are fundamentally unlike us, and whose violent elimination would therefore bring peace. It is astonishing that we never notice where these dark thoughts actually originate from, and what master they secretly serve.
+Everything comes down to detecting its dark presence in your mind. At a coarse level, it feels like malice, contempt (for people), or self-righteousness. These are _always_ hidden attempts to darken the world. At a more subtle level, it feels like selfishness and entitlement. Subtler still, like apathy. Your deepest desire is to shine your Light powerfully into this world. It hijacks this noble intention, replacing it with clever counterfeits — such as the violent urge to hunt down other people's darkness.
 
 <p align="center" width="100%"><img width="300px" src="./img/parasite.png"></p>
 
----
+This is a subtle point, and easily misunderstood. Your Light can indeed hunt down and defeat the Darkness in others, but it does this by showing you how it is _not_ intrinsic to their minds. Contempt is replaced by a fierce compassion. It is as though you are suddenly granted perception of a previously-concealed route through their inner madness; through lifetimes of confusion. When the Light enters that secret place, they remember that they _don't want to be doing this,_ and the Darkness slowly loses its grip.
+
+This is how the Light spreads.
+
+<p align="center" width="100%"><img width="300px" src="./img/shared-devil.png"></p>
 
 > _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
 
-Make no mistake: there are indeed people who have consciously invited in the Darkness in a way that we have not, and they _must_ be fought relentlessly. But even in such cases, the evil is not _intrinsic_ — and perceiving it as such is always the same trap. It's not that they _don't know_ what they're doing. Of course they do — or rather, of course _part of them_ does, just like part of _us_ does. But the only way they can do it is that their self-deception is especially good at hiding it from conscious self-awareness — and also especially good at provoking us into violently attacking it in a way that will empower its true source; humanity's ultimate nemesis.
+The "evil global conspiracy" hinges entirely on our inability to stay firmly committed to our own Light for long enough to discover this hidden possibility. Every time any one of us steps back into the Darkness; gives in to our self-deception; we hide it a little more from collective view, thus inducing others to throw in the towel. Our greatest gift to this world is to _hold the line_; to refuse to enter the Darkness at any cost. Our own ability to do this has depended on the grace of countless others, such as those who have shown us kindness even when we didn't "deserve" it. We can in turn share that grace and hold the Light for others, _especially_ when they themselves cannot. _It is what we are here for._
 
-Hating them is thus _especially_ evil, in that it enables us to engage in much more profound self-deception than we otherwise could — and, by definition, be much less aware that we are doing so. When you look in their eyes and see "evil," what you are seeing is a place where society's dark activity has accumulated especially intensely — and a seductive invitation to pile on _more_ in a way that nobody can judge you for. Our culture's cumulative self-deception _necessitates_ their existence, and "benefits" from it, in that they serve the hidden purpose of drawing our attention away from the dark activity "in here."
-
-That is why a part of our minds is so powerfully attracted to revenge fantasy films and the like. It is also why our political opponents dig in their heels when we mock and shame them: part of us _needs_ them to, so that we and they can continue to act as covers for each other's self-deception.
-
-<p align="center" width="100%">
-    <img width="400px" src="img/equalizer-3.png"> 
-    <br/>
-    <em>The Equalizer 3: EVEN MOAR EQUALIZERING!</em>
-</p>
-
-To be clear: self-deceptive violence _can_ suppress other people's darkness — at least, in public, and for a time. We can thus easily convince ourselves that it "worked" — but only because we choose not to look too closely at the full implications of our behavior. If you look closely enough, you will always be able to find the fingerprints of your own darkness imprinted on events distant in time and space; events that you normally feel absolutely no connection to, let alone any complicity for — indeed, the very places that trigger the most self-righteous outrage. But such perception is normally not available to us, unless we have done tremendous amounts of "inner work."
-
-If all this is so, then what are we to do? Is there such a thing as fighting _without_ self-deception?
+This has nothing to do with being nice or gentle. The Light can be fierce; even [violent](https://www.snopes.com/fact-check/dalai-gun/) if the situation warrants it. It can take almost any form whatsoever. Indeed, the more entrenched the Darkness it is "battling," the more it begins to look outwardly like Darkness itself — and thus the easier it gets to lie to ourselves about our true intentions. This is how the Darkness keeps sneaking in the back door of our minds.
 
 ---
 
-In truth, **the only weapon we have against the darkness is our Light.** You could also call it _compassion_ or _kindness_ — **and it has nothing to do with being nice.**
+> _I wish I could show you, when you are lonely or in darkness, the astonishing Light of your own Being._ —Hafiz of Shiraz
 
-True compassion can be soft and gentle, or fierce and [even violent](https://www.snopes.com/fact-check/dalai-gun/), depending on what's required. It can look like mocking or shaming, and leverage _apparent_ contempt. But it arises from a very different aspect of mind, and has a radically different effect on all minds involved, both friend and foe. It contains not even a trace of malice or self-righteousness (though it can arise from an outrage that is free of those dark sentiments). Its profound integrity prevents the darkness in others from finding easy justification for itself.
+At the ultimate level, you _are_ everyone and everything, in a profound and surprising sense. Realizing this in its entirety is known as _enlightenment_ (en-Light-enment), but all of us can sense it to some degree or another at all times. It is why we sometimes thank others for being generous with strangers even when no (apparent) benefit accrues to us. At some level, we can feel that what happens to any of us affects all of us.
 
-Compassion is simply about being free of self-deception, so that our attempts to fight evil do not have the "unintended" consequence of creating more. From here, genuine contempt (for people) is impossible, because you clearly see the sense in which the Darkness is impersonal, despite people having _chosen_ it in some sense. It is always a trap.
+Our true enemy is never other people, but the darkness in all of our minds. The more we heal our own, the more we perceive what is preventing others from giving up theirs, finally enabling us to fight evil in ways that don't secretly reinforce it. Forsaking any one of us forsakes all of us. We only behave this way because we're not ready to come Home yet ourselves, and distancing ourselves from others is a powerful way to keep the illusion alive. This is the true origin of contempt, and thus, of evil.
 
-**Evil is ultimately nothing but _the willingness to look away_ — not just from the darkness "out there," but from the darkness "in here."** But what is it that we're looking away _from_, exactly? To say that "evil is the willingness to look away from evil" would be circular.
-
----
-
-There is a profound and astonishing sense in which we **are** everyone and everything. Realizing this in its entirety is known as _enlightenment_ (en-_Light_-enment), and is indeed a lofty goal — but all of us can sense it at all times, to one degree or another. It is why we sometimes thank other people for acts of kindness that don't benefit us directly. We intuit that what happens to any part ultimately happens to the whole. **You are the Light** — and so is everyone else. This may sound mystical or "woo woo," but it can be known directly and concretely. All self-deception — and thus all evil — ultimately boils down to our inability (or unwillingness) to see this.
-
-Contempt is intrinsically self-deceptive: it is the pretense that we are _fundamentally better_ than others, which the deepest part of us knows is a sham — and which they can sense too, no matter how "evil" they are. This is what enables it to work: simply by showing (genuine) contempt, we are telegraphing our own self-deception to them while hiding it from ourselves, thus giving their self-deception a "hook" by which to justify itself, while giving ourselves plausible deniability.
-
-(Ironically, this only works because of our fundamental unity. It is how [we know that they know that we know... etc.](https://plato.stanford.edu/entries/common-knowledge/), which is what guarantees that it will work.)
-
-<p align="center" width="100%"><img width="300px" src="./img/good-vs-bad.png"></p>
-
-Harming the world always ultimately harms us; looking down on people is looking down on ourselves; and forsaking them is secretly a desire to forsake ourselves, because we're not ready to come Home yet. That's all evil ultimately _is_. Until we see this, literally everything we do to "fight evil" secretly perpetuates it. It is only through compassion — freedom from self-deception — that we discover how to fight evil in a way that actually works.
-
-**At its fiercest, the Light can look almost indistinguishable from the darkness — _almost._** It is precisely this difficulty in distinguishing "fierce kindness" from evil that allows the latter to take control — but part of you always knows.
-
-This is the most humbling discovery: that part of us somehow always knew. We chose our agendas and ideologies over our kindness, telling ourselves that they were more "helpful," and believing it with such intense fervor that we really believed it. We felt that even if we had to face our conscience one day, we would be able to tell it with a straight face that we were doing our best. In one sense, we really were.  But part of us knew that we had no leg to stand on when looking down on others.
-
-This is the most painful realization, but also the most liberating. We see that all that is required to redeem ourselves is to _choose to look_. Doing so even once, we see that we never truly _wanted_ to look away; that we never _could_ want such a thing — and that nobody else could either, if only they remembered. This is complete redemption.
-
-How astonishing that a near-infinite amount of evil could spring from such an innocent mistake, echoing across (apparent) space and time. What a tragedy! We make a firm commitment to never forget — and to serve as a reminder to others when they do. We recall that this is why we are here in the first place.
-
-This commitment ripples throughout reality, cultivating the ground for others to follow suit in their own time. **This is how the Light spreads.** It is the greatest gift we have to offer the world, and it doesn't require any special circumstances. Every moment is a fresh opportunity to _look_.
-
----
-
-I wish I could leave you with some wisdom about real, practical ways to put this knowledge to use. Alas, such wisdom is the work of a lifetime, and I am a mere fledgling myself. All I know is that I wish to stop playing the confused game that we have inherited from time immemorial, and to remember why I am here. I only hope that you will offer your Light when I inevitably forget — and that it will be as fierce as necessary to help me remember.
+I am very far from enlightened myself, and don't pretend to have the wisdom to put this knowledge to use in the truly challenging places it is needed most today. But I do wish this perspective to become common knowledge. The more consciously aware we are of this trap, the less willing we will be to tolerate it in our enemies, our allies, and most importantly, ourselves. The Darkness survives by hiding itself. Let us resolve to give it no more safe harbor in the most intimate of places: our very own minds.
 
 <p align="center" width="100%"><img width="600px" src="./img/buddha-and-demons.png"></p>
 
@@ -116,10 +72,3 @@ Also see [quotes](../quotes.md).
 
 <p align="center" width="100%"><img width="400px" src="./img/tribe.png"></p>
 
-
-
-[//]: # (All self-deception is ultimately rooted in this misperception. Defeating evil is therefore about healing it.)
-
-[//]: # (This is a Love that excludes nothing and forsakes no-one — but also does not shy away from being fierce &#40;or even violent&#41; when the situation warrants it. This is true compassion, and it has nothing to do with being nice.)
-
-[//]: # (Allies will feel compelled...)

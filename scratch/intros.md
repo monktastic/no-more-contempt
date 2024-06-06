@@ -1,3 +1,8 @@
+
+Looking at the state of the world, you could be forgiven for believing that there's an _evil global conspiracy_ pulling the strings from behind the scenes. In a sense, there is — but it's not the one that you're probably thinking of.
+
+---
+
 When we encounter darkness in the world, we feel morally licensed — obliged, even — to sprinkle in a little of our own. We are just giving them a taste of their own medicine or... something.
 
 ---
@@ -39,3 +44,6 @@ You might think I'm exaggerating or being naive — that _intrinsically bad_ peo
 We've all heard that "hate cannot drive out hate," but is it really true? What about something milder, like contempt? Surely contempt for _bad people_ can make the world a better place — certainly more so than being kind to them.
 
 
+---
+
+There's something uniquely pleasurable about making bad people hurt, quite independently of any good it might accomplish. But here's what we can't see.
