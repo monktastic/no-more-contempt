@@ -1,9 +1,18 @@
 
-Looking at the state of the world, you could be forgiven for believing that there's an _evil global conspiracy_ pulling the strings from behind the scenes. In a sense, there is — but it's not the one that you're probably thinking of.
+As much as we may want to defeat evil in the world, an aspect of our mind continually sabotages our efforts. Moreover, part of us _knows_ that we're doing this. This is extremely difficult to admit — but it is only by appreciating that very difficulty that we begin to see the astonishing trap in which nearly all of humanity is caught...
 
 ---
 
-When we encounter darkness in the world, we feel morally licensed — obliged, even — to sprinkle in a little of our own. We are just giving them a taste of their own medicine or... something.
+Is it possible to fight evil without losing our humanity? And why _shouldn't_ we lose it? What could be wrong with using a bit of darkness to combat the darkness?
+
+
+---
+
+Compassion — especially for "bad people" — is profoundly misunderstood. It turns out it's a _motivated_ misunderstanding. There's something our minds don't want us to see.
+
+---
+
+Looking at the state of the world, you could be forgiven for believing that there's an _evil global conspiracy_ pulling the strings from behind the scenes. In a sense, there is — but it's not the one that you're probably thinking of.
 
 ---
 
