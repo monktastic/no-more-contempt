@@ -1,6 +1,30 @@
 # Short summary
 
-Many people have the intuition that there are dark forces operating in the world — secretly running the show from behind the scenes, tricking us into fighting each other to distract us. This is much closer to the truth than most of us realize — but not in the way that we may imagine.
+Evil is a kind of mental parasite that hides itself in insanely clever ways. For example, hating "bad people" _feels_ righteous, but if you look carefully enough, you will find that in that state, your mind is secretly looking for a way to engage in some self-serving behavior that it knows you can get away with by using their badness as cover. It wants to see them get _worse,_ so that you will have an easier time getting away with it — and it has very clever ways of provoking them into _becoming_ worse while making you feel like you are "fighting evil."
+
+Hatred is a little too obvious for most of us, so evil often uses _contempt_ as more subtle cover. How could there possibly be anything wrong with feeling contempt for bad people? And yet, if you look closely enough, you'll see that contempt — the feeling that a person is _fundamentally defective_ — is simply an excuse to feel good about shoving them deeper into the clutches of the parasite, where you can "prove" that you were right about them all along. Contempt for their beliefs or behaviors is quite a different thing, because it allows you to retain the heartfelt intention to _free_ them from its terrible grip.
+
+The scariest part is that this parasite does not operate independently in each of us. With enough subtlety of perception, you will find that each of ours is something like a limb of a single distributed malevolent entity
+
+---
+---
+
+Many people have the intuition that there are dark forces operating in the world, secretly running the show from behind the scenes, and tricking us into fighting each other to take our attention off of them. This is much closer to the truth than most of us realize — but not in the way that we may imagine.
+
+Any time you feel _contempt_ for "evil people" — the sense that you are _fundamentally superior_ to them — part of your mind is secretly trying to bait them into _worse_ behavior to prove how much better you are. This way, you will feel licensed to engage in self-serving behaviors that you convince yourself are righteous. You won't consciously realize that you're doing this, and that is why it works: it is a form of _evil_, which is what makes them feel more justified in their behavior — but you are unaware that you're doing this, so it enables you to interpret their recalcitrance as proof that _they_ are evil.
+
+Evil is a kind of mental parasite. Its primary trick is to hide itself carefully from its host while displaying itself conspicuously to others, so that they will viciously attack the host, not realizing that they are strengthening the parasite
+
+
+It's not that "bad people" don't know that they're doing wrong; it's that this knowledge is cleverly disguised so that it doesn't _feel_ wrong.
+
+---
+---
+
+Evil is a kind of mind-virus. If you wish to defeat it instead of mindlessly spreading it, you must learn to perceive it as such. Hating the host only strengthens the parasite, because hatred is only ever a symptom of that very parasite in your own mind. Although you do not recognize this, others subconsciously can, which compels them to be nasty to you for _precisely_ the same reason that you are to them. And because you do not realize this, their recalcitrance "proves" to you that their evil is not just a parasite but _intrinsic_ to their minds, which compels you to escalate.
+
+---
+---
 
 If you look carefully enough into your mind while mocking and shaming your enemies, you'll find that part of you secretly _wants_ to see them dig in their heels, so that you are "forced" to escalate. It is serving a part of you that needs to set itself apart from the world; to see itself as different and special. Of course, it doesn't come out and tell you this. It has very clever justifications for why you _must_ behave this way; how you would be shirking your moral responsibility if you _didn't._ Your enemy subconsciously senses your self-deception, which makes them feel compelled to fight back — but since you "don't know" that you're doing this, their recalcitrance proves you right. This is how _all_ evil works: by cleverly hiding itself from our own minds while loudly displaying itself to others, it secretly provokes them into returning the favor, so that we are both none-the-wiser.
 

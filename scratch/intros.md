@@ -1,4 +1,12 @@
 
+We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_.
+
+---
+
+If you wish to defeat the evil in the world, you must first defeat the evil in your own mind. But why?
+
+---
+
 As much as we may want to defeat evil in the world, an aspect of our mind continually sabotages our efforts. Moreover, part of us _knows_ that we're doing this. This is extremely difficult to admit — but it is only by appreciating that very difficulty that we begin to see the astonishing trap in which nearly all of humanity is caught...
 
 ---
@@ -27,10 +35,6 @@ The more you unmask this deception in yourself, the more you enable others to do
 ---
 
 Why are we unkind to people who we perceive as "bad"? The answer seems obvious: we do it to make the world a better place. But this is an insidious lie. It explains why we're not _nice_, but not why we're not _kind_. Nice is about being pleasant and agreeable, which are surely unhelpful in some situations. But kindness means something much deeper. It is the right motivation in _every_ circumstance.
-
----
-
-We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_. All the hostility we've ever poured into the world still lives out there somewhere, where we judge it from afar, blissfully unaware of our own connection to it. But part of us always knows — and we cannot have the more beautiful world we desire until we acknowledge this and clean it up.
 
 ---
 

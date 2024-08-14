@@ -6,7 +6,63 @@
 
 We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_.
 
-People are only able to cause harm due to a kind of self-deception: part of them knows perfectly well that they are doing wrong, but that knowledge is very cleverly shielded from conscious self-reflection. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
+People are only able to cause (willful) harm due to a kind of self-deception: part of them knows perfectly well that they are doing wrong, but that knowledge is very carefully shielded from conscious self-reflection. All they hear are their own clever justifications. It is this mechanism that has enabled _all the evil there ever was_ — and it has enabled our own misbehavior too, if we're honest. We have all skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen.
+
+We don't mock and shame our political enemies because of the good it will do, but because we know that it will make them feel _more_ justified in their misbehavior. But we pretend not to know this, so that when it inevitably happens, we can blame it entirely on them. We now have more proof that they are evil, and have no choice but to escalate. You have no idea how much self-deception you are capable of, and in all likelihood, are already engaged in. In a certain sense, it isn't your fault. There is a kind of parasite in your mind that is radically altering your perception to prevent you from seeing all of this.
+
+At the deepest level, you know that you are not fundamentally better than anyone. You know that all of life is intimately connected; that what we do to anyone ultimately happens to everyone. In fact, in a certain profound and astonishing sense, you _are_ everyone and everything. But something in your mind dissuades you from seeing this. Instead of recognizing other people as being under the sway of the same parasite that you are infected with, you perceive them as _fundamentally defective_. Your parasite knows that by acting this way, you will only empower other people's parasites. Why? Because they can sense that you're not acting from a place of genuine good; that you're being self-deceptive. This is the very essence of evil, which they feel licensed to fight in any way they deem necessary. It lends credence to their self-deception.
+
+This is on purpose. Our parasites are coordinating. In fact, if you look carefully, you'll see that they behave more like outgrowths of a single distributed malevolent entity. This is the reason some people believe in an evil global conspiracy. In a certain sense, there really _is_ one, and every one of us is secretly in on it. Every time you are unkind to anyone for any reason; every time you engage in any kind of self-deception, you are subconsciously telegraphing to everyone, friend or foe, that _their_ self-deception is justified; even _necessary._ And  this is all kept in the dark from our conscious minds. This darkness ripples out into the world, accumulating in pockets that we then judge and blame from afar, licensing more darkness. It is literally the perfect trap, and we keep falling for it.
+
+Make no mistake: there really _are_ people who knowingly embrace the darkness, and who can surely be called "evil." And they really do conspire in ways that harm all of us. But if you feel contempt for them, then you are being played by exactly the same parasite that has commandeered their minds, and you are secretly _empowering_ it, even as it convinces you that you are valiantly fighting it. The only way to actually fight the beast is kindness.
+
+Kindness does not mean being nice. Sometimes it must be fierce, or even violent. But it does not contain even a trace of malice, contempt, or self-righteousness; recognizing these as the self-deception that they are. It sees the sense in which nobody actually wants to be infected by the parasite; even those who are convinced that they do. Its deep integrity serves as a reminder to others of the part of themselves that longs to be free of the parasite. It is not naive, expecting that people will change overnight or maybe ever. But neither does it forsake them.
+
+The more deeply infected the other person is, the harder it is not to fall into the trap yourself, and the easier it is to convince yourself that you haven't when you actually have. This is also the greatest opportunity to fight back. For if you can resist becoming even slightly evil in the face of great evil, then you are demonstrating to all of reality that evil doesn't have the power that it appears to; that there is something stronger than it; that can never be corrupted by it. 
+
+
+---
+
+Most of us have _no idea_ how much self-deception we engage in, because our minds hide it so well. For example, we don't hate "bad people" to make the world better. We perceive people as _fundamentally defective_ to trigger their primal defense mechanisms, which reinforces their self-deception, which gives us even _more_ evil to fight. Seeing evil as intrinsic to other people's minds is therefore itself a form of evil. We do it to help us justify some self-serving behavior that we otherwise could not — and that we may not even be aware of.
+
+But the really surprising part is that our self-deception and theirs are not actually fighting each other. It is as though there is a parasite in each of our minds that is responsible for creating the mental schism that allows us to hide our true motivations from ourselves. We perceive theirs as intrinsic and they perceive ours that way because both of ours are trying to create more darkness in the world, which enables them both to grow and spread. It is a kind of mind-virus that has overtaken humanity, and you have _no idea_ how clever it is.
+
+If you've ever suspected that there is an evil global conspiracy running the show from behind the scenes, it is this that you are sensing. Our viruses are coordinating, behaving together like a single distributed malevolent entity. If your parasite is that devil on your shoulder, then our aggregate darkness is the capital-d _Devil_. It is the primordial evil conspiracy; the one to which all the rest ultimately owe their existence, and to which they all filter up. Each one of us can only perceive the aspect of it that is external to us, where it tricks us into strengthening it even as we're convinced that we're fighting it. It keeps our attention fixated on the evil "out there" precisely so that we never bother to look too closely "in here"; the one place where we actually have power over it.
+
+Make no mistake: there _are_ people out there who have willingly invited the darkness in and are embracing it. Describing them as "evil" is conventionally appropriate. But the only way to perceive that evil as _intrinsic_ to their minds, or to feel contempt for them and to forsake them is for your own virus to be in control of your mind without you realizing it. From this place, you are only capable of adding more darkness to the world, although you will not know that you are doing so. This is what keeps humanity trapped in darkness.
+
+Kindness is any behavior that is free of darkness, which means that it is free of egoic taint. 
+
+
+---
+
+We don't hate "bad people" for how different they are from us, but for how similar. Hating them is a way to take our attention off of what is going on inside. It also licenses us to treat them in ways that we secretly know will _compound_ their self-deception; make them feel _more_ justified in their misbehavior — which we can then take as further evidence that they are _fundamentally defective,_ and nothing like us. The way this works is insanely clever.
+
+Simply by feeling contempt, we telegraph to others that we are under the sway of self-deception. The deepest part of us knows that we're not _fundamentally_ better than anyone, and that pretending we are is just an excuse to shove them further into the dark while calling it "righteous." Our enemies subconsciously recognize that we are doing this, and so they perceive us as _evil_ for precisely the same reason that we see them that way. And since we "don't know" that we're doing this, that becomes airtight evidence that _they_ are evil.
+
+In other words, feeling contempt for "evil people" is a secret way to create _more_ evil. It is the perfect trap, and it is caused by a kind of mental parasite; a mind-virus. We never notice that we ourselves are infected; we only see it in others — which our parasite uses as an excuse to violently attack them, knowing perfectly well what the outcome will be. It knows this because our parasite and theirs are fundamentally identical. 
+
+In fact, they are more than just identical: they are more like limbs of a single _malevolent distributed entity,_ manipulating all of humanity from behind the scenes. The surest sign that you are infected is the certainty that you are not — and the feelings of malice, contempt, and self-righteousness that arise in response to the "bad people." A mind free of the parasite simply cannot feel those things; it only sees fellow humans under the terrible sway of humanity's oldest foe, and who are always capable of being "rescued" from it.
+
+
+
+
+---
+
+
+Deep down, we know that this is the true cause of people's misbehavior — and that hating them for it only _reinforces_ that tendency. But we pretend that this behavior is righteous; that we are "fighting evil." It is precisely this pretending that clues them in to the fact that we ourselves are under the sway of self-deception, making us appear "evil" to them, thus helping them feel justified in their misbehavior. This recalcitrance in turn "proves" to us that we are right about them, because we "don't know" that we intentionally provoked it.
+
+The sole purpose of contempt — for _people_, as opposed to merely their beliefs or behaviors — is to bait them into behavior that justifies our contempt in a way that gives us plausible deniability. Your mind then uses them as an excuse to justify self-serving behaviors that you otherwise would not let yourself get away with. It may not be obvious what exactly you're getting from it, but if you look carefully enough, you will always find it. This is how the "bad people" convince themselves that they're doing nothing wrong — and it is also how we all but guarantee their continued existence.
+
+Something in us _needs_ "bad people" to exist, to provide cover for something in ourselves that we haven't yet come to terms with. Such cover is the _only_ purpose of contempt, regardless of whom it is aimed at — the regular Joes across the political aisle, or the "evil elites" who are tricking us into hating each other for their own nefarious ends. The elites themselves are prey to exactly the same mind-virus that has infected us, and that continually tricks us into _reinforcing_ it in each other instead of fighting it.
+
+The _only_ way to fight it is to recognize yourself in others; to see that at the very deepest level, they have no more desire to be infected than you do. It is only the virus that makes them _appear_ to want it (or to believe they want it), and to make you hate them for it. It is always the same trap.
+
+
+
+---
+---
+
 
 When you encounter someone in this state, you have two options. The first is to to recognize them as being caught in this dark trap, which gives rise to the natural instinct to free them from it. The other is to perceive it as being _intrinsic_ to them; to see them as _fundamentally defective._ This gives rise to the dark urge to shove them deeper into the abyss, where they "belong."
 
