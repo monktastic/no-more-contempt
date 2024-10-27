@@ -1,9 +1,31 @@
 
+Consider the "bad people" of the world — the greedy bankers; the hypocritical CEOs; the corrupt politicians (and all who support them). Don't they know that they're doing wrong? Of course they do — which can only mean that they are _fundamentally morally defective,_ and it is our moral duty to stop them by any means necessary. But here's what we can't see.
+
+---
+
 We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_.
 
 ---
 
-If you wish to defeat the evil in the world, you must first defeat the evil in your own mind. But why?
+It is always possible to see the Light in others — including those who convincingly seem not to have any. Doing so is far more important than you can imagine. Why?
+
+---
+
+Why do we hate "evil people?" It's not for the reason we probably think.
+
+---
+
+The greatest trick the Devil ever pulled was to convince us that he doesn't exist within our very own minds.
+
+---
+
+If you wish to defeat the evil in the world, you must first defeat the evil in your own mind. Why?
+
+---
+
+How are people able to harm others without compunction, or to benefit themselves at the world's expense? Surely, they must be _bad people_ — in other words, _fundamentally morally defective._ How are we supposed to stop them?
+
+Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but there's something crucial that we're overlooking.
 
 ---
 
@@ -25,6 +47,8 @@ Looking at the state of the world, you could be forgiven for believing that ther
 ---
 
 Why do wise people urge compassion for evildoers? They're not telling us to be _nice._ They see something that we don't.
+
+Why do wise people urge compassion for evildoers? Are they being naive? Or have we misunderstood what compassion is?
 
 ---
 
@@ -60,3 +84,7 @@ We've all heard that "hate cannot drive out hate," but is it really true? What a
 ---
 
 There's something uniquely pleasurable about making bad people hurt, quite independently of any good it might accomplish. But here's what we can't see.
+
+---
+
+There is a place deep within your mind that you can turn to know whether your intentions are pure.
