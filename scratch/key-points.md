@@ -4,18 +4,43 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 ---
 
+- We only hear the part of our mind that cleverly calculates how our behavior is somehow a net good.
 
-- [Something about how the vast majority of human activity takes place beneath our conscious thresholds.]
+- Aspect of your mind that always knows, in each moment, whether your behavior is brightening the world or darkening it for your own supposed benefit.
+ 
+
+- People are only able to cause harm due to a kind of self-deception. Part of them knows _perfectly well_ that they're doing wrong, but this knowledge is very carefully shielded from conscious self-reflection, so that it doesn't _feel_ wrong. All they hear are their own clever justifications. It is a profound form of self-deception. This bizarre schism of mind is the secret behind _all the evil there ever was_ — and it has enabled our own misbehavior, too, if we're honest. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
+
+- This mechanism is very difficult to recognize in ourselves, but very easy to see in our enemies. This makes us treat them with contempt, convinced that we're helping the world.
+
+- The darkness is caused by a kind of parasite in the mind — but yours and mine aren't truly separate.
+
+- The only reason we perceive evil as _intrinsic_ to other minds is so that we will feel morally licensed to viciously attack them for it.
+
+- The truth is, every misbehavior, from the slightest skirting of conscience to the most horrific war crime, is enabled by precisely the same mechanism — and every time anyone engages in it for any reason whatsoever, they induce the same tendency in others.
 
 
-- Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but there's something crucial that we're overlooking.
+- It is impossible to overstate just how much of our world is built on self-deception. Some examples are obvious, like when politicians start wars on thinly-veiled excuses. Others are much harder to see — in particular, the ones that benefit us in some way. But the truth is that it's never actually possible to benefit ourselves at the world's expense.
 
 
-- Contempt is the secret handshake they use to provoke each other while making us feel noble for doing so.
+- If you really wish to defeat evil instead of mindlessly adding more to the world, you must develop the capacity to perceive — not just believe, but perceive — that evil is not intrinsic to any mind.
+ 
+
+- There is an aspect of our mind that always knows whether our behavior will brighten the world or darken it for our own personal gain.
+
+
+- Notice how the word "right" is a synonym for both "good" and "correct." This is not an accident: something in you knows that what is good is what is most correct.
+
+
+- The vast majority of human activity takes place beneath our conscious thresholds.
+
+
+- Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but they are only manifestations of our parasite.
+
+- Contempt is the secret handshake our parasites use to provoke each other while making us feel noble for doing so.
 
 
 - Looking at precisely the same entity...
-
 
 
 - What you ultimately are is a Light so vast that it defies description; a profound Love for all of reality that excludes nothing and forsakes no-one — including the targets of its fearsome wrath, should that be necessary.
@@ -27,20 +52,10 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - The darkness does not ultimately have its own existence; it is merely our willingness to look away from our inner Light for long enough to be distracted by a counterfeit, which we then take as our new North Star. The longer we follow it, the less we are able to tell the two apart — until finally, they are indistinguishable. It is not that they look at all the same; it is that we have been lured into a trance. We have completely forgotten that there _was_ (and still is) a blazing Light whose authority is completely beyond question. It does not bend itself to our personal agendas or whims in the slightest, because it is pure integrity.
 
 
-- Everything we do matters, in ways that we can scarcely fathom.
-
-
-- People are only able to cause harm due to a kind of self-deception. Part of them knows _perfectly well_ that they're doing wrong, but this knowledge is very carefully shielded from conscious self-reflection, so that it doesn't _feel_ wrong. All they hear are their own clever justifications. It is a profound form of self-deception. This bizarre schism of mind is the secret behind _all the evil there ever was_ — and it has enabled our own misbehavior, too, if we're honest. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind. 
-
-
-- This mechanism is very difficult to recognize in ourselves, but very easy to see in our enemies. This makes us treat them with contempt, convinced that we're helping the world.
-
-
 - Every time we are unkind to _anyone_, act selfishly, or otherwise skirt our conscience in any way, we are feeding the Beast; humanity's true nemesis.
 
 
-
-- The only reason we perceive evil as _intrinsic_ to other minds is so that we will feel morally licensed to viciously attack them for it.
+- Desire to add to their burden.
 
 
 - This is what's most crucial to see. The **only** way a person can engage in dark behavior is for it to remain hidden from conscious self-reflection, so that in a peculiar sense, they genuinely _do not know_ that they're doing it. This is why attacking them for it doesn't work. It only provokes their defense mechanisms. Again, what we can't see is that we are _trying_ to provoke those defense mechanisms, because this strengthens their self-deceptive tendency, thus a reinforcing a polarization that secretly benefits us.
@@ -49,15 +64,11 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - Every action you've ever taken has nudged us all either toward remembering this or forgetting it. One is the very essence of good, and the other, of evil. Yet they can be extremely difficult to tell apart: an action that looks good on the surface can be evil, and vice versa. The _content_ matters far less than the intention — not the conscious intentions that we're normally aware of, and that the road to hell is paved with — but our _innermost_ intentions. Our actions become _infused_ with those intentions, which are thereby woven into the very fabric of our reality, subconsciously inspiring or infecting countless others in a cascade effect. We can see all this if we look. The darkness relies on our willingness not to look, and to instead trust our conscious agendas; that little voice in our heads. The more we make this mistake, the further we drift from our inner Light — and the harder it becomes for others to rescue us from our own confusion. The more clearly we see this trap, the less urge we feel to shove others deeper into it.
 
 
-- We discover that our parasites aren't truly separate.
-
-
 
 - In this shadowy state, we license ourselves to get away with things that we otherwise could not – and that we would never tolerate in our enemies.
 
 
 - This knowledge may be hidden from conscious self-reflection, but crucially, it's not entirely unconscious, either. It exists in a kind of limbo state, and we _can_ become entirely conscious of it.
-
 
 - When we do, something astonishing happens. We discover that this capacity for self-deception is caused by a kind of mental parasite. While we were under its sway, it felt like it _was_ us. We _wanted_ to shove other people into the abyss, and it felt impossibly righteous to do so. But now we see that this was only ever the parasite cleverly masquerading _as_ us. It fed on our weaknesses, exploiting our fear and pride, enabling us to engage in myriad self-serving behaviors that we couldn't recognize as such, and that we would never tolerate in our enemies. Our vision opens out to the countless ways in which our behavior caused harm, resulting in far-ranging consequences that we never suspected. We feel profound contrition for having fallen victim to this trap, but simultaneously redeemed, because we see that we never really wanted to behave this way; that it was only a kind of infection, and could be healed. In a flash, we see that the same is true of others — and this isn't just a belief, but somehow a _direct perception._
 
@@ -81,7 +92,9 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - On the surface, we and they may be enemies, but under the covers, our darkness is secretly allied. This is the trick by which the darkness spreads nearly unchecked, getting each of us to strengthen it while flawlessly convinced that we're fighting it. And the darker the world becomes, the harder it gets to see that this is what we're actually doing.
 
 
-- The darkness is caused by a kind of parasite in the mind — but yours and mine aren't truly separate. All of ours together behave like a distributed malevolent entity, manipulating all of humanity from beneath our conscious thresholds. The Christians know it as the Devil, and the Buddhists call it the ego. You can treat this as a metaphor, but it is also as real as anything you can touch. It is why some people believe in the existence of an evil global conspiracy pulling the strings from behind the scenes. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they all ultimately filter up. It keeps our attention fixated perpetually outward, on the evil "out there," to prevent us from looking closely enough "in here," at the one place where we can actually defeat it, and thereby be of genuine service to others. Every act of unkindness we have ever perpetrated on _anyone_ has secretly been in its service. 
+- All of our parasites together behave like a distributed malevolent entity, manipulating all of humanity from beneath our conscious thresholds. The Christians know it as the Devil, and the Buddhists call it the ego. You can treat this as a metaphor, but it is also as real as anything you can touch. It is why some people believe in the existence of an evil global conspiracy pulling the strings from behind the scenes. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they all ultimately filter up. It keeps our attention fixated perpetually outward, on the evil "out there," to prevent us from looking closely enough "in here," at the one place where we can actually defeat it, and thereby be of genuine service to others. Every act of unkindness we have ever perpetrated on _anyone_ has secretly been in its service — and part of us has always known this.
+
+- But this knowledge rarely reaches conscious awareness. We only hear the part of our mind that cleverly calculates how our behavior was a net good. The knowledge of our darkness exists in a kind of limbo state, but we _can_ learn to become fully conscious of it. When we do, something astonishing happens.
 
 
 - At the very deepest level, nobody could possibly want it. Yet the more deeply it has ensnared their minds, the less able they are to recognize it. The only reason we perceive evil as being _intrinsic_ to their minds is because our own parasite has ensnared _us._ Its whole trick is to alter our perception at such a deep level that certain people appear _fundamentally defective_, thus making contempt feel not only justified, but positively righteous. It is precisely the same trick that has enabled every atrocity ever committed. Every time any one of us accedes to this misperception — no matter who our target is — we reinforce the same tendency in others. This is how the darkness spreads without anyone being aware of their own complicity.
@@ -181,4 +194,4 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - Act dismayed
 
 
-- The truth is, every misbehavior, from the slightest skirting of conscience to the most horrific war crime, is enabled by precisely the same mechanism — and every time anyone engages in it for any reason whatsoever, they induce the same tendency in others. 
+- We each feel like we are advancing our righteous agendas, but the only real winner is the darkness itself. 
