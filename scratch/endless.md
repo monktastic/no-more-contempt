@@ -1,21 +1,9 @@
-It is as though the darkness in our own mind is reaching through their conscious minds, down to their darkness, and offering it a secret handshake — one that it knows will be accepted.
 
-we are secretly attempting to shove them deeper into the abyss in a way that feels noble; smothering their inner Light so that we can convince ourselves that they _have_ none.
-
-
-However hard we may try to attack them in return, our accusations can find no footing. Our mechanism of self-deception thereby self-destructs, forcing us to turn within
-/ exhausts itself / unbinds.
-
-We discover, to our astonishment, that we don't want it either. It's not our friend, like it told us. To save face, we may still treat them as enemies, but under the covers, our Light is beginning to remember.
+reverberates throughout our reality, subduing evil wherever it is found.
 
 ---
 
 
-Does not help to pretend.
-
-Slippery slope.
-
-Never want to get away with anything ever again.
 
 You begin to sense your own deep responsibility in healing this madness.
 
