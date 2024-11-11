@@ -1,5 +1,6 @@
 
-reverberates throughout our reality, subduing evil wherever it is found.
+- Clever calculations
+
 
 ---
 

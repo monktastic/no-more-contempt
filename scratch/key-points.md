@@ -4,6 +4,25 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 ---
 
+- Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but they are only manifestations of our parasite.
+- The darkness tricks us into closing our hearts precisely when they are needed the most.
+
+- The more we forget this, the more we feel like fundamentally separate beings at constant war with intrinsically defective "others." From this confused perspective, we are capable only of spreading more confusion, while feeling flawlessly convinced that we are "fighting evil." The more people fall victim to this darkness, the more we as a society believe its lies — that humans are _fundamentally_ selfish and greedy, and that some people must be forsaken for the benefit of all. By believing these dark lies, we license our own darkness to keep operating, mistaking it for our inner Light, not recognizing it as a counterfeit merely pretending to _be_ us.
+
+- Everything you do makes a difference, in ways that you can hardly fathom. Your deepest intentions always find a way to weave themselves into the very fabric of your reality, nudging it toward either the darkness or the Light. This happens via vast and subtle networks of causality that our conscious minds are not yet ready to perceive, but that ultimately shift our world in much larger ways than the big flashy activity that normally captivates our attention. It is thus that two actions that appear nearly identical from the outside can ultimately result in radically different outcomes. The darkness relies on our willingness to listen to that little voice in our head that tells us whether we're doing right or wrong, instead of simply looking toward the Light within us that always knows.
+
+- It is said that "the elites" are playing us regular folks against each other to take our attention off of them, but the darkness is playing a much bigger game. It doesn't care _who_ we hate, as long as we hate. The effect is always the same: to foment a constant atmosphere of contempt, providing exactly the cover it needs to remain hidden in the shadows. The darkest idea of all is that if we were to round up all the "bad people" and exterminate them, the rest of us would live in harmony. The very self-deception required to harbor this thought guarantees that the darkness would remain behind, in full force; changing only its shape. The very desire to divide the world into the fundamentally good and bad; those who deserve our compassion and those who deserve our contempt, is how our darkness keeps its foot in the door, biding its time, waiting for the right conditions, so that it may manifest as full-blown evil. This is the root cause of every atrocity that has ever been committed.
+
+- It continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving how _righteous_ they are. It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all.
+
+- It is only by seeing how thoroughly we — the "good people" — been tricked that we begin to appreciate just how terrifyingly clever the darkness is, and just how deeply the "bad people" are trapped.
+
+- We lie to ourselves in a million tiny ways all the time; our mind angling to gain subtle advantages for ourselves, but of course never letting us know that it is doing so. Our unconscious desires weave themselves into the very fabric of our reality, manipulating it in nearly-invisible ways that supposedly benefit us while gradually degrading the whole. Yet degrading the whole can never ultimately benefit us — a fact that we are slowly waking up to as a species. We are aware that "bad people" are destroying our very biosphere to line their own pockets, but we haven't yet made the connection between our own behavior and theirs. We still believe that our hatred for them is a sign of the good within us, but only because we are still not looking too carefully.
+
+
+---
+
+
 - We only hear the part of our mind that cleverly calculates how our behavior is somehow a net good.
 
 - Aspect of your mind that always knows, in each moment, whether your behavior is brightening the world or darkening it for your own supposed benefit.
@@ -35,7 +54,6 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - The vast majority of human activity takes place beneath our conscious thresholds.
 
 
-- Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but they are only manifestations of our parasite.
 
 - Contempt is the secret handshake our parasites use to provoke each other while making us feel noble for doing so.
 
@@ -77,9 +95,6 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 
 - We lost contact with our absolute goodness, and so we went out searching for our goodness relatively — that is, by making other people bad. How ironic that our faint memory of our goodness ended up causing so much harm.
-
-
-- The darkness tricks us into closing our hearts precisely when they are needed the most.
 
 
 
@@ -137,19 +152,12 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 
 
-- The more we forget this, the more we feel like fundamentally separate beings at constant war with intrinsically defective "others." From this confused perspective, we are capable only of spreading more confusion, while feeling flawlessly convinced that we are "fighting evil." The more people fall victim to this darkness, the more we as a society believe its lies — that humans are _fundamentally_ selfish and greedy, and that some people must be forsaken for the benefit of all. By believing these dark lies, we license our own darkness to keep operating, mistaking it for our inner Light, not recognizing it as a counterfeit merely pretending to _be_ us. 
-
-
 - It is impossible to overstate the shock when this illusion is first fully punctured. It feels very much like being freed from a demonic possession. We discover firsthand how all beings are variations of the same basic pattern; one Light, obscured in countless astonishing ways — and we vow to never again shove these reflections of ourselves further into the dark.
-
-
-- Everything you do makes a difference, in ways that you can hardly fathom. Your deepest intentions always find a way to weave themselves into the very fabric of your reality, nudging it toward either the darkness or the Light. This happens via vast and subtle networks of causality that our conscious minds are not yet ready to perceive, but that ultimately shift our world in much larger ways than the big flashy activity that normally captivates our attention. It is thus that two actions that appear nearly identical from the outside can ultimately result in radically different outcomes. The darkness relies on our willingness to listen to that little voice in our head that tells us whether we're doing right or wrong, instead of simply looking toward the Light within us that always knows. 
 
 
 - To be clear: there certainly are people whose infection runs so deep that any attempt to perceive their inner light would be dangerously naive — for most of us, anyway. They are suffering from a kind of Stockholm Syndrome, believing the darkness to be their friend. It _is_ still possible to wish such people free of their delusion while also taking the necessary precautions. But their darkness is especially clever at evoking our own without our conscious awareness. It is almost impossible not to hate them — or to notice that our contempt for them _always_ weaves itself into the fabric of our reality, lowering the threshold for genuine atrocities to occur somewhere, somehow, in ways that we will never notice our own complicity in. This is the hardest thing to communicate: our darkness _always_ leaks, via subtle networks of causality — even when we are convinced that it remains confined to our own skulls. We _can_ learn to detect this.
 
 
-- It is said that "the elites" are playing us regular folks against each other to take our attention off of them, but the darkness is playing a much bigger game. It doesn't care _who_ we hate, as long as we hate. The effect is always the same: to foment a constant atmosphere of contempt, providing exactly the cover it needs to remain hidden in the shadows. The darkest idea of all is that if we were to round up all the "bad people" and exterminate them, the rest of us would live in harmony. The very self-deception required to harbor this thought guarantees that the darkness would remain behind, in full force; changing only its shape. The very desire to divide the world into the fundamentally good and bad; those who deserve our compassion and those who deserve our contempt, is how our darkness keeps its foot in the door, biding its time, waiting for the right conditions, so that it may manifest as full-blown evil. This is the root cause of every atrocity that has ever been committed.
 
 
 - The truth is that part of us can always perceive this "deeper aspect of mind" in others; even the "bad people." Yet we tend to perceive them as _fundamentally morally defective_. Just bring to mind anyone whom you consider a "bad person." They don't have to be Hitler; your average political opponent will do. When we're locked in conflict, it's easy to believe that no such aspect of mind even exists within them — or that even if it does, that they're still a lost cause. What we can't see is that this desire to forsake another human being is itself a form of evil — perhaps the most clever one of all.
@@ -167,10 +175,6 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - It is a Faustian bargain: our agendas get furthered while the darkness gets a tighter grip on the world.
 
 
-- It is only by seeing how thoroughly we — the "good people" — been tricked that we begin to appreciate just how terrifyingly clever the darkness is, and just how deeply the "bad people" are trapped. 
-
-
-- It continually drives humanity toward various kinds of Armageddon: situations in which everyone is violently proving how _righteous_ they are. It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/) in which each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all.
 
 
 - Ironically, the only people who _are_ superior — and thus have any right to feel contempt — are those who have seen through this most insidious trap, and are therefore incapable of feeling genuine contempt.
@@ -182,7 +186,7 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - It is a story as old as humanity itself, and the only reason it persists is that we have told ourselves that we are uniquely immune. We could never be _those people_ — after all, look at how much we hate and judge them. But the truth is that as long as we endorse any distinction whatsoever between _fundamentally good_ and _fundamentally bad_ people; those who deserve our compassion and those who deserve only contempt, it means that we are _already_ those people in fledgling form. For we do not yet recognize that this distinction exists _only_ as a way for our darkness to keep its foot in the door, waiting for the right conditions, to manifest in its full sinister glory. We may believe that we can maintain a "proper balance," reserving our spite for those who genuinely deserve it — but if so, it only means that we're not yet aware of just how much damage we're already doing. This only proves that we are _especially_ susceptible.
 
 
-- We lie to ourselves in a million tiny ways all the time; our mind angling to gain subtle advantages for ourselves, but of course never letting us know that it is doing so. Our unconscious desires weave themselves into the very fabric of our reality, manipulating it in nearly-invisible ways that supposedly benefit us while gradually degrading the whole. Yet degrading the whole can never ultimately benefit us — a fact that we are slowly waking up to as a species. We are aware that "bad people" are destroying our very biosphere to line their own pockets, but we haven't yet made the connection between our own behavior and theirs. We still believe that our hatred for them is a sign of the good within us, but only because we are still not looking too carefully.
+
 
 
 - Thus, two behaviors that look nearly identical from the outside can have _profoundly_ different results — and it is exactly this difficulty in telling them apart that our darkness uses to trick us into following it.
