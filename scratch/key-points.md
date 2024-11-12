@@ -4,6 +4,18 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 ---
 
+- You simply cannot fathom the full extent of pain and distortion that the Light must undergo in order to become "evil." Your heart would break a billion times over, and then a billion more. By the time a person becomes someone who apparently chooses evil, an unthinkable amount of horror has already ravaged their mindstream. None of this is to suggest that we should feel _sympathy_ for them, because by this point, softness would indeed make things worse, both for them and others. But if you really saw it all, you could never again feel that malicious urge to shove them deeper into the abyss. You would immediately recognize it as the very essence of evil. At the very ultimate level, there is nothing special about any one of us — no cleanliness of soul — that would have ensured we would turn out differently. Seeing this, one truly understands "there but for the grace of God go I."
+
+- How many things we believe only because they secretly serve us in some way.
+
+- How much harm we're able to inject into the world via subtle channels.
+
+
+- Bring to mind someone you consider a "bad person" — perhaps a political opponent. Doesn't it feel like they're not simply a decent person who's gone astray, but are somehow _fundamentally_ defective — as if the badness is somehow intrinsic to their very being? Once you feel this way, here's what will happen next: You will mock, shame, or otherwise act in a way that drives the tendency for misbehavior deeper into their minds, while convincing yourself that you've done no such thing. They are _fundamentally_ defective, after all, and so any misbehavior you provoke is only evidence of a darkness that was already there, just waiting for you to expose it.
+
+- We therefore allocate more of our attention to _their_ unmistakable evil and less to what is occurring inside us
+
+
 - Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but they are only manifestations of our parasite.
 - The darkness tricks us into closing our hearts precisely when they are needed the most.
 
@@ -20,8 +32,17 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 - We lie to ourselves in a million tiny ways all the time; our mind angling to gain subtle advantages for ourselves, but of course never letting us know that it is doing so. Our unconscious desires weave themselves into the very fabric of our reality, manipulating it in nearly-invisible ways that supposedly benefit us while gradually degrading the whole. Yet degrading the whole can never ultimately benefit us — a fact that we are slowly waking up to as a species. We are aware that "bad people" are destroying our very biosphere to line their own pockets, but we haven't yet made the connection between our own behavior and theirs. We still believe that our hatred for them is a sign of the good within us, but only because we are still not looking too carefully.
 
 
----
+- Suppose a politician says we should go to war with country X to save their people or bring them democracy or whatever. In the back of their mind, suppose their primary goal is actually to get oil, or get re-elected, or whatever — knowing fully well that it will bring great harm not only to the country's citizens, but to the world at large. But the knowledge of this deception can be hidden even from their own conscious minds. In one sense, they're not "bad people," because they "really are" trying to help — as far as they can tell. And yet, part of them secretly knows, and — surprisingly — it is possible to tell this from the outside. It can never be completely hidden.
 
+    This capacity for self-deception exists in everyone, but along a continuum. The further along it they are (and the smarter they are), the better they are able to hide it behind agendas that look exciting and helpful and shiny from the outside, but are secretly rotten from the inside — eating away at the world in ways that can be hard to detect until it's too late. The more free your own mind is from self-deception, the better you get at detecting it in others, and the less you fall for this trap.
+
+    Now of course everybody believes that they're free of it, and this is something only "bad people" do — because by its very nature, it's not something we can (normally) perceive in ourselves. But it turns out that this belief is _itself_ the surest sign that it's operating in us. The Darkness _needs_ us to believe this, because then it can execute its most insidious operation: it gets us to behave in subtly dark ways — such as maliciously mocking and shaming our enemies — that actually drive the darkness deeper _into_ their minds while convincing us that there was no malice involved; or, even if there was, that it's for the greater good. But part of us secretly knows the truth, and we lock this truth away in a hidden compartment in our minds.
+    
+    But there can come a turning point in life where the whole storehouse of self-deception is unveiled, and we see how much harm it has caused. It is impossibly painful. After this, you don't magically become a "good person," but your own self-deception actually becomes painful, so that you're forced to acknowledge it when it arises, and to clean it up bit by bit.
+
+    We overlook the self-deception in people whose own hidden agendas align with our own, and exaggerate it in those whose are anti-aligned.
+
+---
 
 - We only hear the part of our mind that cleverly calculates how our behavior is somehow a net good.
 
