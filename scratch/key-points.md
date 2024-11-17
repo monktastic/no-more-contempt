@@ -4,14 +4,16 @@ One thing Charles has done a good job of explaining -- but which people somehow 
 
 ---
 
+- The way it works is by making us _perceive_ it as intrinsic... 
+
 - You simply cannot fathom the full extent of pain and distortion that the Light must undergo in order to become "evil." Your heart would break a billion times over, and then a billion more. By the time a person becomes someone who apparently chooses evil, an unthinkable amount of horror has already ravaged their mindstream. None of this is to suggest that we should feel _sympathy_ for them, because by this point, softness would indeed make things worse, both for them and others. But if you really saw it all, you could never again feel that malicious urge to shove them deeper into the abyss. You would immediately recognize it as the very essence of evil. At the very ultimate level, there is nothing special about any one of us — no cleanliness of soul — that would have ensured we would turn out differently. Seeing this, one truly understands "there but for the grace of God go I."
 
 - How many things we believe only because they secretly serve us in some way.
 
 - How much harm we're able to inject into the world via subtle channels.
 
+- Anger vs contempt; contempt for behaviors and beliefs.
 
-- Bring to mind someone you consider a "bad person" — perhaps a political opponent. Doesn't it feel like they're not simply a decent person who's gone astray, but are somehow _fundamentally_ defective — as if the badness is somehow intrinsic to their very being? Once you feel this way, here's what will happen next: You will mock, shame, or otherwise act in a way that drives the tendency for misbehavior deeper into their minds, while convincing yourself that you've done no such thing. They are _fundamentally_ defective, after all, and so any misbehavior you provoke is only evidence of a darkness that was already there, just waiting for you to expose it.
 
 - We therefore allocate more of our attention to _their_ unmistakable evil and less to what is occurring inside us
 
@@ -43,6 +45,8 @@ One thing Charles has done a good job of explaining -- but which people somehow 
     We overlook the self-deception in people whose own hidden agendas align with our own, and exaggerate it in those whose are anti-aligned.
 
 ---
+
+- Clever calculations
 
 - We only hear the part of our mind that cleverly calculates how our behavior is somehow a net good.
 
