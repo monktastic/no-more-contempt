@@ -1,4 +1,9 @@
 
+Kindness is the hardest word to define, but also the most important. It doesn't mean being nice. Nice means pleasant and agreeable, which are fine qualities in most normal situations but useless in others. Kindness, on the other hand, means something much more profound. It is the right orientation in literally _every_ circumstance. But how could kindness be the right response to evil?
+
+
+---
+
 Consider the "bad people" of the world — the greedy bankers; the hypocritical CEOs; the corrupt politicians (and all who support them). Don't they know that they're doing wrong? Of course they do — which can only mean that they are _fundamentally morally defective,_ and it is our moral duty to stop them by any means necessary. But here's what we can't see.
 
 ---
