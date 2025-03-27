@@ -1,5 +1,5 @@
 
-One thing Charles has done a good job of explaining -- but which people somehow don't yet see -- is that the contempt we feel for the evil people out there is a symptom of our own evil. He's not just trying to get people to be nice by saying this. It really is the truth. Evil is insanely clever, and its most brilliant trick is to convince you that it doesn't live in your own mind. If you really want to defeat evil instead of mindlessly adding more to the world, you must develop the capacity to perceive -- not just believe, but perceive -- that evil is not intrinsic to any mind. It's a parasite, and like any parasite, it can be destroyed. Wanting to destroy the host only strengthens the parasite. That's what genuine "spiritual warfare" is about: freeing minds from the parasite of evil, without being taken in by its illusion.
+One thing Charles has done a good job of explaining — but which people somehow don't yet see -- is that the contempt we feel for the evil people out there is a symptom of our own evil. He's not just trying to get people to be nice by saying this. It really is the truth. Evil is insanely clever, and its most brilliant trick is to convince you that it doesn't live in your own mind. If you really want to defeat evil instead of mindlessly adding more to the world, you must develop the capacity to perceive -- not just believe, but perceive -- that evil is not intrinsic to any mind. It's a parasite, and like any parasite, it can be destroyed. Wanting to destroy the host only strengthens the parasite. That's what genuine "spiritual warfare" is about: freeing minds from the parasite of evil, without being taken in by its illusion.
 
 Compassion for evildoers has nothing to do with being nice, or gentle, or tolerant, or even understanding. It has everything to do with seeing that the contempt we feel for other people — including the "bad people" — is a symptom of our own evil. The truth is, when we perceive another person as _fundamentally defective_ — as though the "badness" is not merely incidental to their mind but somehow inherent to it — we cannot help but feel the urge to shove them deeper _into_ the abyss. Something in us wants them to become worse people so that we can be right about them. We need to see evil as existing only outside of ourselves in order to maintain a coherent self-image. 
 
@@ -7,7 +7,7 @@ Something in you wants them to become worse people so that you can be right abou
 
 ---
 
-- The way it works is by making us _perceive_ it as intrinsic... 
+- The way evil works is by making us _perceive_ it as intrinsic... 
 
 - You simply cannot fathom the full extent of pain and distortion that the Light must undergo in order to become "evil." Your heart would break a billion times over, and then a billion more. By the time a person becomes someone who apparently chooses evil, an unthinkable amount of horror has already ravaged their mindstream. None of this is to suggest that we should feel _sympathy_ for them, because by this point, softness would indeed make things worse, both for them and others. But if you really saw it all, you could never again feel that malicious urge to shove them deeper into the abyss. You would immediately recognize it as the very essence of evil. At the very ultimate level, there is nothing special about any one of us — no cleanliness of soul — that would have ensured we would turn out differently. Seeing this, one truly understands "there but for the grace of God go I."
 
@@ -49,7 +49,7 @@ Something in you wants them to become worse people so that you can be right abou
 
 ---
 
-- Clever calculations
+- Clever calculations can go arbitrarily far off the rails.
 
 - We only hear the part of our mind that cleverly calculates how our behavior is somehow a net good.
 
@@ -220,10 +220,12 @@ Something in you wants them to become worse people so that you can be right abou
 - Thus, two behaviors that look nearly identical from the outside can have _profoundly_ different results — and it is exactly this difficulty in telling them apart that our darkness uses to trick us into following it.
 
 
-- Full implications of their behavior...
+- Part of them knows _perfectly well_ that they are doing wrong, but the full implications of their behavior are carefully shielded from conscious self-reflection.
 
 
-- Act dismayed
+- This has the effect of driving their darkness deeper into their minds, making it appear even more surely intrinsic, which inspires even more righteous violence from us, in a downward spiral. We act dismayed by their recalcitrance, but our darkness actually orchestrated this descent.
 
 
 - We each feel like we are advancing our righteous agendas, but the only real winner is the darkness itself. 
+
+- The deeper we are in reverence to all of Life, the more we see that there's no such thing as a *bad person.* Of course, Hitler was a very bad person indeed — so what could we possibly mean?

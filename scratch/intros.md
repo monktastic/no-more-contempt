@@ -1,6 +1,9 @@
 
-Kindness is the hardest word to define, but also the most important. It doesn't mean being nice. Nice means pleasant and agreeable, which are fine qualities in most normal situations but useless in others. Kindness, on the other hand, means something much more profound. It is the right orientation in literally _every_ circumstance. But how could kindness be the right response to evil?
+Why is it so hard to defeat the evil in the world? What if nearly everything we're doing to "fight" it is secretly strengthening it?
 
+---
+
+Kindness is the hardest word to define, but also the most important. It doesn't mean being nice. Nice means pleasant and agreeable, which are fine qualities in most normal situations but useless in others. Kindness, on the other hand, means something much more profound. It is the right orientation in literally _every_ circumstance. But how could kindness be the right response to evil?
 
 ---
 
@@ -10,13 +13,11 @@ Consider the "bad people" of the world — the greedy bankers; the hypocritical 
 
 We think that hating "bad people" is a sign of the good within us, but it's actually a sign of something _much darker_.
 
+Why do we hate "evil people?" It's not for the reason we probably think.
+
 ---
 
 It is always possible to see the Light in others — including those who convincingly seem not to have any. Doing so is far more important than you can imagine. Why?
-
----
-
-Why do we hate "evil people?" It's not for the reason we probably think.
 
 ---
 
@@ -39,7 +40,6 @@ As much as we may want to defeat evil in the world, an aspect of our mind contin
 ---
 
 Is it possible to fight evil without losing our humanity? And why _shouldn't_ we lose it? What could be wrong with using a bit of darkness to combat the darkness?
-
 
 ---
 
@@ -67,10 +67,6 @@ Why are we unkind to people who we perceive as "bad"? The answer seems obvious: 
 
 ---
 
-What if nearly everything you're doing to "fight evil" is secretly strengthening it — and moreover, what if part of you already knows this, but is actively concealing it from your conscious mind?
-
----
-
 It feels really good to _stick it_ to "bad people," doesn't it? Why is that? It's not for the reason you probably think.
 
 ---
@@ -84,7 +80,6 @@ You might think I'm exaggerating or being naive — that _intrinsically bad_ peo
 ---
 
 We've all heard that "hate cannot drive out hate," but is it really true? What about something milder, like contempt? Surely contempt for _bad people_ can make the world a better place — certainly more so than being kind to them.
-
 
 ---
 
