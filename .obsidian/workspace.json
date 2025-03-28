@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a61c1761d81deb67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/intros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "intros"
-            }
-          },
-          {
             "id": "30be9b20d7c45d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/key-points.md",
+                "file": "chapters/mental-illness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key-points"
+              "title": "mental-illness"
             }
           },
           {
-            "id": "38813f401d4f4741",
+            "id": "e60e721a483b9ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "7f3c64a5be6cb05c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,35 @@
             }
           },
           {
-            "id": "e60e721a483b9ca8",
+            "id": "9a3d503a4ab345cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes"
+            }
+          },
+          {
+            "id": "7c3d73618803fc2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes"
+            }
+          },
+          {
+            "id": "69914f4104d41b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +92,35 @@
             }
           },
           {
-            "id": "37b9132356465c1f",
+            "id": "52aa7cda5e5e19e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/endless-2.md",
+                "file": "faq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "endless-2"
+              "title": "faq"
             }
           },
           {
-            "id": "3489fddcca03a837",
+            "id": "1a4344a222922bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/key-points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "key-points"
+            }
+          },
+          {
+            "id": "31aea303c290f873",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +132,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "4fbb7fbb0208324b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old/index-old-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index-old-2"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -124,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "quotes.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,15 +296,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3489fddcca03a837",
+  "active": "31aea303c290f873",
   "lastOpenFiles": [
-    "scratch/endless-2.md",
+    "old/index-old-9.md",
     "index.md",
-    "shas.txt",
-    "all_versions_random.txt",
-    "all_versions.txt",
+    "old/index-old-2.md",
+    "img/tribe.png",
+    "img/shared-devil.png",
+    "img/parasite.png",
+    "img/no-contempt.png",
+    "img/no-contempt-black.png",
+    "img/half-evil.png",
+    "img/good-vs-bad.png",
+    "img/evil-conspiracy.png",
+    "img/evil-above-world.png",
+    "img/equalizer-3.png",
+    "Untitled.md",
+    "scratch/endless-2.md",
     "scratch/key-points.md",
+    "old/index.md",
+    "quotes.md",
+    "faq.md",
+    "scratch/chapter-bullets.md",
+    "scratch/endless.md",
+    "chapters/mental-illness.md",
+    "book.md",
+    "chapters/what-is-contempt.md",
     "scratch/intros.md",
-    "scratch/endless.md"
+    "intros.md",
+    "shas.txt",
+    "old/index-old-21.md",
+    "short.md",
+    "scratch/psychedelics-old.md",
+    "scratch/index-old-8-edit.md",
+    "scratch/graveyard.md",
+    "scratch/endless-summary.md",
+    "scratch/5-min-talk.md",
+    "psychedelics.md",
+    "old/index-old-8-broken.md",
+    "_includes/reading-time.html",
+    "_includes",
+    "all_versions_random.txt",
+    "all_versions.txt"
   ]
 }

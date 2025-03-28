@@ -8,11 +8,18 @@
 
 > *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* ― Reinhold Niebuhr
 
-> *The road to hell is paved with good intentions.* — Proverb
+> *The road to hell is paved with good intentions.* —Proverb
 
-> *We judge ourselves by our intentions and others by their behavior* — Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
+> *We judge ourselves by our intentions and others by their behavior* —Stephen Covey (paraphrasing the [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error))
 
 > *Wisdom without compassion is ruthlessness, compassion without wisdom is folly.*
+
+> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
+
+> _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
+
+> _When I've asked shamans about the sickness of the west, they say: "it's quite simple: you have severed your connection with spirit… unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_
+
 
 ---
 
