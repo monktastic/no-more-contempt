@@ -233,3 +233,4 @@ Something in you wants them to become worse people so that you can be right abou
 - The deeper we are in reverence to all of Life, the more we see that there's no such thing as a *bad person.* Of course, Hitler was a very bad person indeed — so what could we possibly mean?
 
 - It is only now that you see how they were only lost in the same confusion that you were, that you are able to truly forgive them. You discover the surprising sense in which nobody actually _wants_ to harbor the darkness — or rather, how their apparent desire to harbor it is simply the mirror image of our own desperate need to externalize our own; almost like a law of conservation. We should practically thank the "bad people" for manifesting as the scapegoats that we desperately needed to explain the "evil" in the world.
+**

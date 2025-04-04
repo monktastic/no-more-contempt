@@ -1,5 +1,9 @@
 
 
+**Note**: *This essay explores uncomfortable truths about the nature of evil and our own hidden roles in perpetuating it. It asks for honest self-reflection — not as judgment, but as a necessary step towards healing ourselves and our world.*
+
+---
+
 > _Be kind, for everyone you meet is fighting a great battle._ —Author unknown
 
 What is kindness? It is the only thing that actually fights evil. Everything else just makes it worse.
@@ -8,17 +12,24 @@ What is kindness? It is the only thing that actually fights evil. Everything els
 
 The deepest part of you can perceive yourself in literally everyone and everything, strange as that may sound; yet you hide this knowledge from your conscious mind, so that you don't have to feel their suffering. It is this same mechanism that enables the "bad people" to do what *they* do: their minds are shielding them from fully perceiving the *life* in their victims — be they other people, animals, or nature at large. This is the secret principle behind *all the evil there ever was.*
 
-Any time any one of us employs this shielding, we lower the threshold for everyone else to do the same — no matter how noble our intent. For example, when we witness evil, we often feel compelled not only to *stop* the evildoer, but to *harm* them — quite independently of any good it will bring. This is difficult to admit. We tell ourselves that we're acting for "the greater good," but part of us simply enjoys seeing the "bad people" suffer.
+Any time any one of us employs this shielding, we lower the threshold for everyone else to do the same — no matter how noble our intent. For example, when we witness evil, we often feel compelled to not only *stop* the evildoer, but to *harm* them — quite independently of any good it will do. This is hard to admit. We tell ourselves that it is "for the greater good," but part of us simply enjoys seeing the "bad people" suffer.
 
-Which of these is our true intention — the good or the harm? Does it even matter? So long as our cruelty produces *some* benefit — which it actually might — who cares if we also get to feel a bit of glee from watching them suffer? After all, it is a private pleasure that has no bearing on the outcome. But this is a dark lie.
+Is this wrong? So long as our behavior produces some good — which it actually might, at least in the short term – why does it matter how we feel about it? All that should matter is the outcome. *So what* if we get to feel a bit of glee from watching "bad people" suffer? It is a private pleasure that has no bearing on the result.
+
+But this is a dark lie.
 
 <p align="center" width="100%">
     <img width="300px" src="img/half-evil.png"> 
 </p>
+---
 
-Not only can our target sense the malicious intent, but we secretly *want* them to. We are baiting them into behavior that will force us to escalate, but in a way that will keep our hands apparently clean. Something in us wants to be forced to unleash the full extent of our righteous wrath —because **nothing** feels better than violently punishing evil.
+Not only can our target sense our malicious intent, but we secretly *want* them to. It telegraphs that we're under the sway of the very sickness we're viciously judging *them* for, thus baiting them into behavior we can use as justification to escalate. Something in us *wants* to be forced to unleash the full extent of our righteous wrath — and it will stop at nothing to ensure this outcome.
 
-Part of us knows this will only drive the darkness deeper into their minds, thereby darkening the world as a whole; and that any benefit that may accrue will be temporary and superficial at best — yet we conceal this knowledge, writing it off as unfortunate collateral damage. But it isn't "collateral" at all: it is secretly the *whole point.*
+This is the *only* purpose of contempt (for other people). It is a fundamentally malicious attitude secretly meant to drive the darkness deeper *into* people's minds, where we can violently judge them for it, while giving ourselves plausible deniability: we are only *fighting evil,* after all — and how could that ever be wrong?
+
+It is worth pausing to reflect on the cleverness of this ruse. Simply *entertaining* the darkness in your own mind is sufficient to spread it, despite there being no external evidence of it. The deepest part of us *knows* when we've done this, but we carefully hide this knowledge from our conscious minds, thereby disowning it. Yet that darkness continues to live on in the world, orphaned; giving rise to countless knock-on effects that we never recognize our own connection to.
+
+It is not until we appreciate the terrifying genius of this mechanism that we begin to recognize exactly what is going on in the minds of the "bad people," and how we can be of service in ending it. It's not that they *don't know* that they're doing wrong, but something is preventing them from fully confronting it — and this "something" is profoundly intertwined with our own decisions, much as we hate to admit it. In fact, it is this *refusal to admit it* that allows it to thrive.
 
 <p align="center" width="100%">
     <img width="300px" src="img/devil-vs-devil.png"> 
@@ -28,15 +39,14 @@ Part of us knows this will only drive the darkness deeper into their minds, ther
 
 > _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
 
-Evil is a kind of mind-virus. We recognize it easily in others but never in ourselves. It compels us to viciously attack them, never realizing that this only conveys that we're under the sway of the very delusion we're violently judging *them* for, thus compelling them to return the favor. It is like a secret handshake between our darkness and theirs — which it turns out aren't separate at all.
+Evil is a kind of mind-virus. We recognize it easily in others but never in ourselves. It tricks us into perceiving them as *fundamentally defective* and thus completely unlike us; never realizing that this very attitude is the surest sign that we are under its dark command. By acceding to this misperception, we are silently affirming that *darkness is the way.* It is like a secret handshake between our darkness and theirs — which it turns out aren't separate at all.
 
 <p align="center" width="100%">
     <img width="300px" src="img/parasite.png"> 
 </p>
+The Darkness behaves more like a _singular distributed malevolent entity_, manipulating all of humanity from beneath our conscious thresholds. The Christians know it as the Devil, and the Buddhists call it the ego. You can treat it as a metaphor, but it is as real as anything you can touch. It is why we sometimes suspect the existence of an evil global conspiracy. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence and to which they ultimately filter up.
 
-All of our Darkness behaves more like a _singular distributed malevolent entity_, manipulating all of humanity from beneath our conscious thresholds. The Christians know it as the Devil, and the Buddhists call it the ego. You can treat it as a metaphor, but it is as real as anything you can touch. It is why we sometimes suspect the existence of an evil global conspiracy. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence and to which they ultimately filter up.
-
-This entity drives us relentlessly toward Armageddon — situations where everyone is violently proving how _righteous_ they are. It is why the US may be headed toward civil war, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/)  where each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking evil at every turn, without anyone recognizing its true origin deep within our psyches.
+This entity drives us relentlessly toward Armageddon — situations in which everyone is violently proving how _righteous_ they are. It is why the US may be headed toward civil war, and explains bitter [divorces](https://www.gottman.com/blog/this-one-thing-is-the-biggest-predictor-of-divorce/)  where each side feels like the exclusive victim / hero. Nearly the whole world is caught in its terrible sway, evil provoking evil at every turn, without anyone recognizing its true origin deep within our psyches.
 
 Every act of unkindness we've ever perpetrated on anyone; all the hardness we carry in our hearts; has only ever been in service of humanity's ultimate nemesis.
 
@@ -48,19 +58,21 @@ Every act of unkindness we've ever perpetrated on anyone; all the hardness we ca
 
 To be clear: there really *are* people who knowingly serve the Darkness, and who conspire to cause great harm. They must be stopped, and this isn't always "nice." But to the extent that we perceive them as *fundamentally* defective, or ourselves as *intrinsically superior* — in short, with contempt — we are falling into the ultimate trap. Contempt for *beliefs* or *behaviors* isn't necessarily harmful, but contempt for people always is. It exists only to help us hide our own darkness from ourselves by reinforcing it in others — allies, enemies, and bystanders alike.
 
-The vast majority of dark behavior feels **absolutely nothing like evil**. It simply feels like "business as usual." We find all kinds of ways to justify self-serving behavior, using the sorry state of the world as an excuse. Corporations cheat us, so who cares if we skim from them? Our political opponents are morally defective, so why shouldn't we mock and shame them? There are infinitely more examples, most of which are too subtle to capture in words.
+The vast majority of dark behavior feels **absolutely nothing like evil**. It simply feels like "business as usual." We find all kinds of ways to justify self-serving behavior, using the sorry state of the world as an excuse. Corporations cheat us, so what's wrong with skimming from them? Our political opponents are morally defective, so why shouldn't we mock and shame them? An infinite variety of examples abounds, most of which are too subtle to capture in words.
 
-It is not that skimming or shaming are inherently wrong. But we disregard that quiet voice warning us that we are lying to ourselves. The more we lie, the more we lose the ability to detect that it *is* a lie. The "little voice" gets increasingly drowned out by clever justifications, which we fail to recognize as such — because why would our own minds lie to us? This is the trap in which modern humans are caught. We have abandoned our inner knowing for clever judgments. After all, if something cannot be objectively proven, then it might as well not exist.
+It is not that skimming or shaming are inherently wrong, but we disregard that quiet voice warning us that we are lying to ourselves. The more we lie, the more we lose the ability to even detect that it *is* a lie. The "little voice" gets increasingly drowned out by clever justifications, which we fail to recognize as such — because why would our own minds lie to us? 
+
+This is the trap in which modern humanity is caught. We have abandoned our inner knowing for clever judgments, writing off such knowing as religious myth.
 
 <p align="center" width="100%">
     <img width="300px" src="img/angel-devil-shoulders.png"> 
 </p>
 
-Every time any one of us makes this mistake — which happens *far more often* than we realize — we are strengthening the same capacity in everyone else. The dark lies that politicians use to foment wars are made of the very same "stuff" as the lies we tell ourselves. Again, it's not just the same *kind* of stuff. Each act of self-deception gets woven into the very fabric of our reality, accumulating in the body politic, reconfiguring itself, eventually erupting in the form of atrocities that we feel *absolutely no connection* to — and which then serve as justification for *more*.
+Every time any one of us makes this mistake — which happens *far more often* than we realize — we are strengthening the same capacity in everyone else. The dark lies that politicians use to foment wars are made of the very same "stuff" as the lies we tell ourselves. Again, it's not just the same *kind* of stuff. Every act of self-deception gets woven into the very fabric of our reality, accumulating in the body politic, reconfiguring itself, eventually erupting in the form of atrocities that we feel *absolutely no connection* to — and which then serve as justification for *more*.
 
 Without recognizing our own role in all this, it is impossible to do actual good in the world. Instead, we will continually buy into whichever narratives sound best — never recognizing that no matter how "good" they are, we are secretly just feeding the Beast. If we really want to know whether a cause is "good" or not, we cannot simply evaluate its *contents*. We must be able to feel into its *origin.* **So much suffering** could be avoided if we only learned to recognize this.
 
-The entire fight against evil comes down to recognizing this "deeper knowing." For it is only by seeing how cleverly the darkness has manipulated our own minds that we begin to recognize just how deeply the "bad people" are stuck — and exactly what we can do about it.
+Thus, the entire fight against evil comes down to recognizing this "deeper knowing." For it is only by seeing how cleverly the darkness has manipulated our own minds that we discover the true meaning of *kindness* — and to appreciate its unique power to defeat our common nemesis.
 
 ---
 
@@ -118,7 +130,7 @@ Perhaps the clearest measure of our ability to deceive ourselves is how much con
 
 There are vast and subtle networks of causality that we normally hide from ourselves, and that secretly drive the fate of the world. Everything we do makes a difference, in ways that we can hardly fathom. If we pay attention only to the surface activity, we miss out on the bulk of what actually shapes our reality. Evil can look sweet and pretty, while kindness sometimes looks nothing of the sort. It is impossible to know which is which — and easy to convince ourselves otherwise — until we have done the deep inner work that eradicates the core confusion. 
 
-We each catch glimpses of the Light from time to time, and it is our duty to carry them into the world as best we are able. I wish I could tell you that I have completed the journey myself, but alas, I am a mere fledgling. I am still liable to mess things up royally, and I only ask that you hold my feet to the fire when I do. I promise to do the same for you.
+We each catch glimpses of the Light from time to time, and it is our duty to carry them into the world as best we are able. I wish I could tell you that I have completed the journey myself, but alas, I am a mere fledgling. I am still liable to mess things up royally, and I only ask that you hold my feet to the fire when I do — for all of our sakes. I promise to do the same for you.
 
 May all beings be free from suffering and its causes. Amen.
 
