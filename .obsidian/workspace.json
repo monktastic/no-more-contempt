@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quotes.",
+                "query": "\"it is worth pausing\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,7 +296,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31aea303c290f873",
+  "active": "328f62f7318c5680",
   "lastOpenFiles": [
     "old/index-old-9.md",
     "index.md",
