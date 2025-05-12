@@ -23,7 +23,7 @@ But this is a dark lie.
 </p>
 ---
 
-Not only can our target sense our malicious intent, but we secretly *want* them to. It telegraphs that we're under the sway of the very sickness we're viciously judging *them* for, thus baiting them into behavior we can use as justification to escalate. Something in us *wants* to be forced to unleash the full extent of our righteous wrath — and it will stop at nothing to ensure this outcome.
+Not only can our target sense our malicious intent, but we secretly want them to. We're telegraphing to them that we're under the sway of the very sickness we're viciously judging them for, provoking a reaction that lets us frame them as the evil ones. This reaction becomes the 'proof' we need; the justification we crave, to escalate. Something in us *wants* to be forced to unleash the full extent of our righteous wrath — and it will stop at nothing to ensure this outcome.
 
 This is the *only* purpose of contempt (for other people). It is a fundamentally malicious attitude secretly meant to drive the darkness deeper *into* people's minds, where we can violently judge them for it, while giving ourselves plausible deniability: we are only *fighting evil,* after all — and how could that ever be wrong?
 

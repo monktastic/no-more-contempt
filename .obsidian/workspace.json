@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "e60e721a483b9ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "7f3c64a5be6cb05c",
             "type": "leaf",
             "state": {
@@ -92,20 +78,6 @@
             }
           },
           {
-            "id": "52aa7cda5e5e19e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "faq.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "faq"
-            }
-          },
-          {
             "id": "1a4344a222922bb3",
             "type": "leaf",
             "state": {
@@ -139,34 +111,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/googlers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "googlers"
-            }
-          },
-          {
-            "id": "1ed4e2012e81beda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "ee45682622dc60ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "scratch/endless.md",
                 "mode": "source",
                 "source": false
@@ -176,21 +120,49 @@
             }
           },
           {
-            "id": "4fbb7fbb0208324b",
+            "id": "1ed4e2012e81beda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/index-old-2.md",
+                "file": "scratch/amazon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-old-2"
+              "title": "amazon"
+            }
+          },
+          {
+            "id": "176fb82e2f9f7e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/googlers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "googlers"
+            }
+          },
+          {
+            "id": "1afd51609d64f420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/first-person.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "first-person"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -222,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "murdere",
+                "query": "amazon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -340,17 +312,30 @@
   },
   "active": "1ed4e2012e81beda",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "scratch/googlers.md",
+    "old/index-old-5.md",
+    "scratch/amazon.md",
+    "scratch/bad-people.md",
+    "scratch/anosognosia.md",
+    "scratch/short.md",
     "scratch/endless.md",
+    "scratch/googlers.md",
+    "scratch/scratch.md",
     "index.md",
-    "Untitled 2.md",
-    "scratch/key-points.md",
     "scratch/first-person.md",
+    "scratch/getting away with.md",
+    "Untitled 4.md",
     "scratch/superintelligence.md",
+    "scratch/key-points.md",
+    "scratch/endless-2.md",
+    "faq.md",
+    "quotes.md",
+    "chapters/mental-illness.md",
+    "old/index.md",
+    "old/index-old-2.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "old/index-old-9.md",
-    "old/index-old-2.md",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",
@@ -362,21 +347,8 @@
     "img/evil-above-world.png",
     "img/equalizer-3.png",
     "Untitled.md",
-    "scratch/endless-2.md",
-    "old/index.md",
-    "quotes.md",
-    "faq.md",
     "scratch/chapter-bullets.md",
-    "chapters/mental-illness.md",
-    "book.md",
-    "chapters/what-is-contempt.md",
-    "scratch/intros.md",
-    "intros.md",
     "shas.txt",
-    "old/index-old-21.md",
-    "short.md",
-    "scratch/psychedelics-old.md",
-    "scratch/index-old-8-edit.md",
     "_includes/reading-time.html",
     "_includes",
     "all_versions_random.txt",
