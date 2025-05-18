@@ -1,10 +1,29 @@
 
+When we witness evil, we often feel the urge to give the perpetrator "a taste of their own medicine," or "put them in their place," or "teach them a lesson," etc. But if you look carefully enough into your mind while feeling this way — and this is *hard* — you'll discover that something in you knows that this will only darken the world further.
+
+This can be *incredibly* difficult to admit. Your mind will generate flawlessly compelling stories of how your behavior will actually be a "net good." If you give in to these justifications, here's what will happen next: your target will subconsciously sense that you're caught in the very trap that you're contemptuously judging them for, and this will drive the darkness deeper *into* their minds. They will feel *more* justified in whatever storyline is driving their misbehavior.
+
+You will secretly know that this is what's happening — but because it's impossible to *prove*, you can use it as evidence that you were right about them. You were only *fighting evil*, after all — and if it made them worse, well, that proves that they really are *fundamentally defective* and thus beyond help. You are therefore licensed to escalate.
+
+This is an extremely subtle point. What led to this outcome wasn't merely the attempt to stop them — no matter how outwardly violent the action itself was. Instead, there was a kind of *inner violence* at work — one that's much harder to see, which is why evil still plagues our world. Contempt — the feeling of being *intrinsically superior* to others — is an inherently malicious attitude. Regardless of whom it is aimed at, its secret purpose is to darken the world.
+
+But it never feels like that, does it? Neither to you nor to the most "evil" person who ever lived. Even if they are consciously *trying* to darken the world, it's because they perceive the outcome as being *good* or *righteous.* It's always the same trick, and it always works in the same way. Any time any one of us engages in it, no matter the reason, it has the same effect.
+
+In its subtlest form it looks (and feels) absolutely nothing like evil. Every time we are unkind to anyone for any reason, or skirt our conscience in any other way — such as the countless ways we subtly benefit ourselves at the world's expense while telling ourselves it's okay — we are strengthening this same capacity in everyone else, whom we then judge for being "bad people," thus enabling us to hide our own self-deception from ourselves even better.
+
+This is how the Darkness stays alive. It hides itself perfectly from our own minds while sensitizing us to its presence in others, whom we then treat with contempt, never realizing what we're actually doing. If you learn to introspect closely enough, you'll discover that contempt is like a secret handshake between your darkness and theirs — a silent agreement to keep this world bound in the shadows.
+
+This is why people sometimes suspect the existence of an evil global conspiracy. In a certain sense, there really is one — but it is not governed by a few special individuals. The darkness is a *distributed organism*, with control centers deep within each of our minds. It is the *primordial* evil conspiracy — the one to which all the rest owe their existence, and to which they all ultimately filter up. Every attempt to defeat it without being free of it oneself only ends up reinforcing it.
+
+To be clear, contempt for beliefs or behaviors is not always dark. 
+
+The darkness *can* be evicted from the mind. It is like a parasite.
+
+I cannot tell you what kindness is, but you already know it. Pure compassion is what you *are* in your innermost being. The more clearly you discover this — not as an idea, but as a direct experience — the more clearly you see it in everyone else, too; including those whom you were certain were beyond help. You see that the desire to forsake them was really a desire to forsake *yourself* — because in a profound and surprising sense, you *are* them. One Life Force, looking through countless eyes, trying to find its way back Home.
 
 
----
----
 
-leaks out into the world, one way or another
+
 
 ---
 
