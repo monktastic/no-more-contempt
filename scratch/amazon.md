@@ -1,3 +1,16 @@
+[In the summer of 2012](https://www.telegraph.co.uk/news/worldnews/southamerica/brazil/9005835/Loggers-burned-Amazon-tribe-girl-alive.html), loggers in Brazil captured an eight-year-old girl from one of the Amazon's last un-contacted tribes. They burned her alive as part of a campaign to force the indigenous population from its land.
+
+What do you feel when reading this story?
+
+Does any part of you feel malice—the urge to violently punish these monsters, to make them pay for what they've done?
+
+Most of us sense a kind of darkness in this response. We know that it would only further darken the world, even if we can't quite say how.
+
+
+---
+---
+
+
 Consider [this horrifying story from 2012](https://www.telegraph.co.uk/news/worldnews/southamerica/brazil/9005835/Loggers-burned-Amazon-tribe-girl-alive.html):
 
 > _Loggers in Brazil captured an eight-year-old girl from one of the Amazon's last uncontacted tribes and burned her alive as part of a campaign to force the indigenous population from its land [...]

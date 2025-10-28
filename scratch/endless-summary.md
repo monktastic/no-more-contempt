@@ -1,8 +1,9 @@
 
 ---
 
+All evil works in essentially the same way: part of the person's mind knows _perfectly well_ that what they are doing is wrong, but this knowledge is very carefully shielded from conscious self-reflection, so that it doesn't _feel_ wrong. All they hear are their own clever justifications. 
 
-All evil works in essentially the same way: part of the person's mind knows _perfectly well_ that what they are doing is wrong, but this knowledge is very carefully shielded from conscious self-reflection, so that it doesn't _feel_ wrong. All they hear are their own clever justifications. This makes us want to hate them, but the truth is that we are all intimately familiar with that very same state of self-deception ourselves. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
+This makes us want to hate them, but the truth is that we are all intimately familiar with that very same state of self-deception ourselves. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
 
 
 ---

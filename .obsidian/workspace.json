@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30be9b20d7c45d5c",
+            "id": "e230aaae83613e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/index-old-22.md",
+                "file": "variatons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-old-22"
+              "title": "variatons"
             }
           },
           {
-            "id": "cd8b8e7248fe0506",
+            "id": "25ec60a65554f768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faq.md",
+                "file": "llms/claude-2025-10-14c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "faq"
+              "title": "claude-2025-10-14c"
             }
           },
           {
-            "id": "2fbb038192dbe288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "55b147ee0d768d7b",
+            "id": "a05b5bd5639dd900",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,35 +50,35 @@
             }
           },
           {
-            "id": "9a3d503a4ab345cb",
+            "id": "769e972def021e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quotes.md",
+                "file": "old/index-old-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quotes"
+              "title": "index-old-5"
             }
           },
           {
-            "id": "7c3d73618803fc2f",
+            "id": "c7f8170b30a49da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quotes.md",
+                "file": "llms/claude-ultra-short.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quotes"
+              "title": "claude-ultra-short"
             }
           },
           {
-            "id": "69914f4104d41b17",
+            "id": "ad9deab36140887b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,77 +92,21 @@
             }
           },
           {
-            "id": "1a4344a222922bb3",
+            "id": "22e68108e0d89333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/key-points.md",
+                "file": "llms/misc/claude-feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key-points"
+              "title": "claude-feedback"
             }
           },
           {
-            "id": "31aea303c290f873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/superintelligence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "superintelligence"
-            }
-          },
-          {
-            "id": "154f5f3107134e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/endless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "endless"
-            }
-          },
-          {
-            "id": "1ed4e2012e81beda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/endless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "endless"
-            }
-          },
-          {
-            "id": "176fb82e2f9f7e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/googlers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "googlers"
-            }
-          },
-          {
-            "id": "1afd51609d64f420",
+            "id": "cfe7d44cfdd1c9e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,9 +118,261 @@
               "icon": "lucide-file",
               "title": "first-person"
             }
+          },
+          {
+            "id": "4c80fe7d740167c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/short.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "short"
+            }
+          },
+          {
+            "id": "52a4306a8bd3b92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/compassion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "compassion"
+            }
+          },
+          {
+            "id": "bfa45b6d400fbd44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes"
+            }
+          },
+          {
+            "id": "ad4256c3dd675ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/endless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "endless"
+            }
+          },
+          {
+            "id": "fc4279c3e4762c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/notes-with-will.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes-with-will"
+            }
+          },
+          {
+            "id": "52f8fe053e27a443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scratch"
+            }
+          },
+          {
+            "id": "d6e64fde10efa382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/Praise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Praise"
+            }
+          },
+          {
+            "id": "066001dfb70c72e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "ad0309e329017114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/new-journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-journey"
+            }
+          },
+          {
+            "id": "4e97d47e90f6554a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "f8c9629a882f4188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/drafts/claude-2025-10-22-edit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-2025-10-22-edit"
+            }
+          },
+          {
+            "id": "ddcd56c239039d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/Praise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Praise"
+            }
+          },
+          {
+            "id": "b1d1d7e8a3522143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overview"
+            }
+          },
+          {
+            "id": "a252cae0e12c18b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/drafts/claude-2025-10-22-edit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-2025-10-22-edit"
+            }
+          },
+          {
+            "id": "fcb8868a1ec92992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/Part-2-guidance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part-2-guidance"
+            }
+          },
+          {
+            "id": "a0e48114c2da242c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/drafts/claude-2025-10-21c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-2025-10-21c"
+            }
+          },
+          {
+            "id": "b90f039674578e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/bad-people.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bad-people"
+            }
+          },
+          {
+            "id": "09318f50fd83d0a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/claude-praise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-praise"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -210,7 +392,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -222,7 +404,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"is hidden\"",
+                "query": "â€\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +425,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -330,42 +511,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2fbb038192dbe288",
+  "active": "09318f50fd83d0a9",
   "lastOpenFiles": [
-    "faq.md",
-    "index.md",
-    "Untitled 6.md",
-    "old/index-old-22.md",
-    "scratch/bad-people.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "chapters/mental-illness.md",
-    "quotes.md",
-    "scratch/endless-2.md",
-    "scratch/endless.md",
-    "scratch/endless-summary.md",
-    "scratch/amazon.md",
-    "old/index-old-5.md",
-    "scratch/anosognosia.md",
-    "scratch/short.md",
-    "scratch/googlers.md",
-    "scratch/scratch.md",
-    "scratch/first-person.md",
-    "scratch/getting away with.md",
-    "scratch/superintelligence.md",
+    "llms/misc/Praise.md",
+    "llms/misc/claude-praise.md",
+    "llms/Part-2-final.md",
+    "llms/overall-guidance.md",
+    "llms/Part-2-guidance.md",
+    "llms/Part-1-final.md",
+    "llms/Part-1-guidance.md",
+    "llms/pattern-paradox.md",
     "scratch/key-points.md",
-    "old/index.md",
-    "old/index-old-2.md",
-    "Untitled 3.md",
+    "llms/making-it-inevitable.md",
+    "llms/overview.md",
+    "llms/Part-2-structure.md",
+    "llms/vision.md",
+    "llms/drafts/claude-2025-10-13.md",
+    "llms/drafts/claude-latest-5.md",
+    "llms/drafts/claude-2025-10-25a edit.md",
+    "llms/drafts/claude-2025-10-24g.md",
+    "llms/drafts/claude-2025-10-23b.md",
+    "llms/drafts/claude-2025-10-23c.md",
+    "llms/drafts/claude-2025-10-14c.md",
+    "llms/drafts",
+    "Untitled 1.md",
+    "Untitled.md",
     "Untitled 2.md",
+    "llms/Part-1-structure.md",
+    "llms/misc/TODO.md",
+    "llms/misc/new-journey.md",
+    "llms/misc",
+    "llms",
+    "untitled folder",
+    "history_part_9.txt",
+    "history_part_8.txt",
+    "history_part_7.txt",
+    "history_part_6.txt",
+    "history_part_5.txt",
+    "history_part_4.txt",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",
@@ -375,11 +568,6 @@
     "img/good-vs-bad.png",
     "img/evil-conspiracy.png",
     "img/evil-above-world.png",
-    "img/equalizer-3.png",
-    "shas.txt",
-    "_includes/reading-time.html",
-    "_includes",
-    "all_versions_random.txt",
-    "all_versions.txt"
+    "img/equalizer-3.png"
   ]
 }

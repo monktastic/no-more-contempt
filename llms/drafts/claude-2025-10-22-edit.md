@@ -1,0 +1,857 @@
+# The Pattern: How Evil Hijacks Our Goodness
+
+> _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
+
+---
+
+## Prelude
+
+Once, on a "heroic dose" of psilocybin, I was shown something that shattered my understanding of good and evil. It wasn't a gentle insight—it was a cascading series of revelations, each more horrifying than the last, that demolished my entire worldview and replaced it with something infinitely more mysterious and meaningful.
+
+Two decades later, I'm still reeling from the consequences.
+
+What I saw wasn't just about psychology or morality. It was about the fundamental architecture of evil itself—how it operates, how it spreads, and most disturbingly, how it uses _our own goodness_ as its primary transmission vector. 
+
+I saw something that every major wisdom tradition has warned about: there is something that hijacks human consciousness, and its most brilliant trick is convincing us it doesn't exist—or worse, that it only exists in _them_, the _bad people_.
+
+What follows is an attempt to show you what I saw—and why it matters more urgently than almost anything else we could be paying attention to right now.
+
+Throughout this essay, I'll refer to this coordinated system of self-deception as both "the pattern" and "the darkness." Use whichever helps you see it more clearly.
+
+*(A note: This essay contains material about trauma and abuse that some may find difficult. If you've experienced severe trauma, you may want to skip to the note in the Appendix before continuing.)*
+
+---
+
+> _The earth is not dying, it is being killed, and those who are killing it have names and addresses._ —Utah Phillips
+
+Can you feel it—the *evil people* out there, ruining it for the rest of us?
+
+How do they make you feel? How do you want *them* to feel? Be totally honest.
+
+Would some tiny part of you be disappointed to discover they're not *fundamentally* evil—that they're just badly confused but inherently redeemable people like the rest of us? Would that part feel robbed of the right to deliver the righteous vengeance they so richly deserve?
+
+What is that part of you trying to accomplish?
+
+What is it *actually* accomplishing?
+
+---
+
+# Part I: The Mechanism
+
+## The Limbo State
+
+Think back to a time when you skirted your conscience—acted against your own deepest values while pretending it was okay. In that moment, part of you knew _perfectly well_ that you were doing wrong, but you shielded that knowledge from conscious awareness, so that it didn't _feel_ wrong. The knowledge existed in a kind of limbo state—a bizarre, paradoxical schism of mind, in which you both _knew_ and yet somehow _didn't._ All you could hear were your own clever justifications.
+
+It is a profound form of self-deception—but it doesn't make you a bad person. We all do it, as a kind of defense against a seemingly-uncaring world. At the same time, when we see it in others, part of us often *does* unconsciously label them "bad"—which we must then also defend against.
+
+But what are we hiding our misbehavior _from_, exactly? It's almost as though there's a deeper part of us—call it our *inner Light*—that we suspect wouldn't tolerate it, if only it knew.
+
+---
+
+## The Signal
+
+Think back to a time when you mocked or shamed an enemy. You probably felt you were doing it to help—if not them, exactly, then at least the world. But if you're honest, part of you wanted to make them feel bad, quite independent of any good it would do. They're defective, and deserve to feel it.
+
+This is a bit malicious, so we hide it from ourselves—that limbo state—and yet they sense it anyway. They can tell we're relishing their suffering. This weakens their faith in humanity and reminds them the world is dark. So they feel more of an urge to self-deceive—which we perceive as inherent badness. *Strike one*.
+
+What we see is a person who became defensive in response to our righteous behavior, instead of introspecting—and on top of that, is implicitly accusing *us* of being evil. *Strike two.*
+
+But part of us suspects some truth in their accusation—and yet how could they possibly know? We barely knew it ourselves—it was hidden in limbo. So their accusation can't be based on anything real. They must be projecting their own darkness onto us. *Strike three.*
+
+This person is well and truly defective. The world is even worse than we thought.
+
+We now feel *more* justified in our self-serving behaviors, while being less likely to recognize them as such.
+
+But part of us suspects this, too—that the whole thing was a ruse. So we bury it even *harder*...
+
+---
+
+Notice that it's the *combination*—our malice being hidden from us and yet visible to them—that allowed this to unfold. Their seeing it is what caused it to darken their mind, and our not seeing it is what made us blame it on them—which also darkened *ours.*
+
+This feels too precise to be unintentional, but we certainly didn't consciously intend it. Is there a part of us that might have?
+
+Which part of us would benefit from making us overlook our own self-deception? From reinforcing it in others—making us see them as more inherently defective?
+
+Notice how mockery alone doesn't necessarily cause this outcome, nor is it the only way to accomplish it. There was something else about our interaction that essentially ensured it.
+
+Can you feel how it was only possible because you already felt they were inherently defective—and part of you wanted them to feel that? Once you did that, the rest unfolded naturally. The mockery just served as a vehicle.
+
+Part of us knows this is what really happened, but it's too painful to admit—so we're forced to hide it harder, which only reinforces it.
+
+Whatever this part of us is, it seems like all it really needs to do to strengthen itself is to get us to see ourselves as fundamentally superior to others. In other words, to feel *contempt.*
+
+---
+### Mutual knowing
+
+Not only did part of *us* know this is what really happened, part of them knew it too. Don't we all already know that this is how it works?
+
+And we *knew* they knew it—which we had to hide—and they knew that, too. Have you felt that before, while doing it? That you both secretly know what's really going on? Almost like a shared secret that we've all agreed not to talk about, lest it spoil the game.
+
+They weren't just reacting to the initial seed of malice. They were reacting to the profound malice of the whole pattern—a pattern that depended on that very reaction.
+
+Which part of us really benefits from keeping this whole game hidden?
+
+---
+
+Normally, we instinctively recoil from harming people when we can see their Light—that same spark we recognize in ourselves. The more we shield ourselves from it, the easier it becomes to cause harm—like we just did.
+
+And if you shield it completely? Then the guardrails come off. You would have no compunction in harming them.
+
+You would know what it's like to *be evil.*
+
+Evil people don't do a *different* thing than the rest of us; they just have a stronger version of the same thing. As a result, we feel no compunction in harming *them*. Interesting how that works. [Does the reader implicitly understand that we must be shielding ourselves from their humanity?]
+
+But their evil is too obvious for them *not* to know, isn't it? It should be *easier* for them to see, not harder—so why can't they admit it when we rub their noses in it? There could only be one explanation.
+
+---
+
+Now, having just mocked someone, suppose a stranger walks in and scolds you for it. Part of you *knows* they're right in their accusation—that you're doing essentially the same thing the "evil people" are—but do you thank them for it and repent?
+
+Hell no! You feel more justified in your behavior. You—a perfectly decent person who knows full well you've done wrong—still dig in your heels when treated with contempt. Why?
+
+It's not just because of your big ego. It's because *you can tell that they're not coming from a good place.* Pause and feel that. You can feel this independently of their words. How?
+
+*It's the contempt*. We *know* it never comes from a good place, no matter how noble its supposed intention. Never. It always feels slightly evil, which we're forced to defend against. We also know how that they're hoping for this very defensiveness. F*** em, right?
+
+Now imagine the stranger had stopped you in a way that hints: *I know that wasn't really you*. Can you feel the power being drained from the dark part of you, even if their rebuke stings your ego?
+
+Would you ever want revenge on such a person? Can you feel what they're in service to?
+
+---
+
+[May need a better bridge]
+
+The more guilty our conscience—the deeper our self-deception—the *harder* it is to confront. So why, again, do we expect it to be easier for the worst people?
+
+Or maybe we don't actually expect that—we just use it as a cover story for something. But what?
+
+---
+
+[Does this slow momentum? May be either too obvious or too preachy. Save for Trip?]
+
+And the person you just shamed—did they go home and treat their family better, or did their pain leak out in harmful ways? And their family—did they then behave better themselves?
+
+How far might the ripple effects of one 'innocent' act of contempt travel?
+
+When it finally reaches some faraway oil exec, subtly nudging them toward the wrong choice—one that shows contempt for our living planet—will we recognize our own fingerprints on that choice? Or will we go hunting for their address instead?
+
+It's all made of the same stuff.
+
+---
+
+[Too abrupt, too intellectual.]
+
+We can do all the calculations in the world to prove that our agendas will be a "net good" for the world. But if we do them while subtly in the limbo state—as we so often do—is it possible that those calculations are just a cover story for something far less wholesome?
+
+People can detect when an agenda isn't entirely honest. But we mostly only bring this into conscious awareness when it's working against us. When it's benefiting us? Not so much. Then we have every reason in the world why it's good.
+
+---
+
+So, evil people use the same shielding mechanism you do—just turned up higher. Contempt makes it worse. And the harder a person is shielding it, the worse this gets.
+
+You already knew these things—but part of you was shielding them from conscious awareness.
+
+What, exactly, has that part of us been doing by treating the worst people with the most contempt?
+
+---
+
+It's not that I never knew this before. Part of me knew all of it. But I had never been forced to bring it all into conscious awareness at once.
+
+Nothing could have been more painful—but it was the only way for the full gestalt to be unveiled.
+
+# Part II: The Journey
+
+## The Small Betrayals
+
+The medicine started gently, showing me all the little ways I'd skirted my conscience.
+
+Mocked conspiracy theorists. Skipped recycling because "corporations are the real problem." Called it “sticking it to the man” when I was really just stealing. Spoke warmly to someone in person and shredded them in private. Used "just sayin'" to license cruelty. Ignored the true cost of my convenience. On and on.
+
+Each one gave me a little thrill when I did it, like I was getting away with something. A small victory. A justified exception.
+
+Judged someone for not letting me merge in traffic, only to be shown my own identical behavior the week before. Condemned a friend for gossiping, then told their story to someone else an hour later. Criticized a company for greed, while buying the cheaper knockoff made under worse conditions.
+
+I'd always vaguely known I'd done this kind of thing, but had it really been so much and so often? I'd only ever noticed the tip of the iceberg. What kind of person did that make me?
+
+I had always considered myself a "good person"—maybe unusually so—but I only now saw how that very bluster gave me away. People didn't like me because they thought I was *good*—they liked me because by pretending I was, I was giving them license to pretend, too.
+
+---
+## Ripples
+
+Then it showed me the consequences of everything I'd "gotten away with."
+
+The people I'd mocked—they were real people. Not NPCs in my story of fighting evil. People whose pain I'd added to, whose struggles I'd deepened, whose faith in humanity I'd weakened. Whose anguish they'd done their best to hide, but couldn't help but pass on.
+
+The recycling I'd skipped—how I'd subtly licensed others to care less, too, because what's the point? How that had made me feel better about my own cynicism.
+
+The gossip I told—how it made others trust me less, and wonder where they themselves were being gossiped about.
+
+And the effects didn't stop at one or two degrees from me—they rippled out endlessly, folding back on themselves, weaving a pattern that was invisible to the naked eye but unmistakable from here. 
+
+*My God, the darkness I'd created.*
+
+From my small betrayals to larger ones around the world. Distant atrocities. Corporate malfeasance. Political corruption. Genocide.
+
+Wait—*genocide?!*
+
+The medicine paused, letting me soak it in.
+
+*The shielding you did—refusing to see their full humanity so you could mock them. Is that the same mechanism as **this**, or different?*
+
+_Shudder._ Not just similar. Identical. The Nazis seeing Jews as 'vermin.' Tutsis as 'cockroaches.' Same mechanism, just turned to maximum.
+
+I would never have drawn the connection back to my own behavior on my own. But now it was unavoidable.
+
+Then it showed me more.
+
+---
+## Contempt parties
+
+All the times I'd gathered with my political allies to mock the other side. Sharing that article about how stupid they are. Laughing at their hypocrisy while ignoring our own. The righteous feeling of being on the "right side of history."
+
+And underneath it all—though nobody ever said it—we knew. We knew we were being self-serving too. We knew our policies also had hidden benefits for us. We knew we were cherry-picking evidence. But as long as we could point to _their_ evil, we didn't have to look too closely at our own.
+
+My contempt in those cases had never been mean to create actual, positive change—it had been a way to foment more contempt in my allies, so that we could better hide from our own deceptions. Because when there's *real* darkness "out there" to destroy, why bother looking too closely at our own flaws?
+
+I knew that, my allies knew that... but nobody ever dared saying it aloud. 
+
+The medicine showed me something: _That moment where you're about to point out something inconvenient about your own side—and you feel the room temperature drop. You've felt that, haven't you?_
+
+God, yes. The subtle pressure. The unspoken threat. Not explicit, but you could _feel_ what would happen. The cold shoulder. The whispers about whether you'd "changed."
+
+There were times I'd wanted to say something, but I was afraid of getting kicked out of the club. It was the ultimate taboo to point out that we *knew* how much self-serving bullshit we were pushing in the name of "fighting evil."
+
+I struggle to communicate this properly. It wasn't a *conscious* taboo—because our conscious minds would have had to know. It was something subtler than that—like an immune system, built out of the hidden parts of all of us, enforcing conformity in a distributed fashion so that it would never be exposed. Like every one of us was a node in that network.
+
+That would explain why people became so violently angry whenever someone came too close to exposing the hidden lies—someone from our own camp, especially. They wouldn't just be excommunicated, but thoroughly disowned—lest anyone suspect that others in the club secretly knew, too. And they didn't have to be exposed *externally.* Just admitting that I *knew* would be enough.
+
+It was the contempt mechanism as before, but at scale. The same self-deception, the same hidden knowledge, the same strikes ('they're worse,' 'they're projecting,' 'they're fundamentally defective'). But now it was an entire group doing it together, with each person's self-deception reinforcing everyone else's.
+
+But the worst part—the part I could barely admit even to myself—was that we knew our contempt would make them see *us* as evil. And that would give us permission to escalate. To be even more contemptuous. To feel even more righteous.
+
+We were creating the very enemy we claimed to be fighting.
+
+---
+
+Contempt for my enemies, contempt with my friends—different appearance, same effect.
+
+*The purpose of contempt is to breed contempt.*
+
+One camp would reflect it back at me, and the other would propagate it forward with me, but both would strengthen the underlying pattern.
+
+*I knew this. I had always known this. We ALL know this.*
+
+Which would mean...
+
+The way I'd loudly condemned those awful people committing atrocities—not just their behavior, but the *people themselves*. I had thought it made others see me as a *good person.* But the only people who thought that were those trapped in the pattern themselves—those who still sought justification for their *own* hidden darkness. And those were the people I surrounded myself with.
+
+*Why hadn't I seen this before?*
+
+How the genuinely wise people had responded to my attempts to foment contempt. They hadn't judged me for it, but they certainly hadn't encouraged me. *Why not?*
+
+Hating evil people didn't make me *good.* It made me *confused.* The exact same confusion that I claimed to be fighting—I was lost in it myself, and as a result, creating more of it for me to judge, in an endlessly repeating pattern.
+
+How certain I had been that I could never be like them, because I was just... different. It had all been a ruse. A mask.
+
+Part of me had *always* known it was bullshit.
+
+Obviously I—with exactly the conditions that made me *me*—would never dream of doing what they did. In many ways, I *was* different. But what was the *essential* difference?
+
+That question lingered in my mind.
+
+---
+
+not just politics. race.
+
+
+[I wasn't getting away with anything. I wasn't sticking it to the man. The man was ME.]
+
+
+*Oh shit, it was all made of the same stuff.*
+
+The same limbo state. The same self-deception. The same shielding mechanism.
+
+
+And then—predictably—I judged the people who committed those atrocities. [What? No, this needs to go sooner. I'm not judging them now, the point is that I'd judged people whose darkness I probably contributed to.] 
+
+The medicine paused. Let me sit with that judgment.
+
+Then it showed me: *I had already known this.* Judging them was my way of hiding my own complicity. Of course I knew this. That's why I was doing it. [What's why?]
+
+*Was this who I really was?*
+
+---
+
+I pleaded with the medicine: how *else* was I supposed to treat my enemies? Be *nice* to them?! [What? We never talked about hating enemies.]
+
+The medicine didn't answer directly. Instead, it showed me what I meant by "nice." Being sweet to innocent people. To victims. To strangers. It wasn't exactly phony. But it wasn't exactly something to write home about either. Mostly, it was a way to remind my conscious mind that I'm a "good person." To throw myself off the scent of what I was really doing.
+
+Then it brought me to a verse I'd read but never really *seen*:
+
+> *If you love those who love you, what credit is that to you? Even sinners love those who love them. ... But love your enemies, do good to them, and lend to them without expecting to get anything back. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and wicked.* — Luke 6:32
+
+[This comes out of nowhere!]
+
+And then—this part broke me—it showed me a specific memory. Someone I'd opposed with full force because they were causing real harm. But somehow, beneath my opposition, I'd been offering something else. Not softness. Not permission. But an unspoken message:
+
+> *What you're doing is wrong. I'm going to stop you. But you're still welcome back into the Light.*
+
+I could feel the fierce integrity of that message. How different it was from what I usually did. The person had sensed it too—I could see that now. It hadn't fixed things immediately, but something had shifted. A seed had been planted.
+
+*I had always known how to do this.*
+
+---
+
+## The Hidden Game
+
+[Hidden what?]
+
+The medicine showed me how I'd hidden all this so well.
+
+In the background, my mind had always been scanning for clever ways to inject darkness into others while looking righteous. Insanely subtle. The slightest glance could do it. Nobody would ever know.
+
+But *we* both knew.
+
+The full game. How it worked. We all did. That's what we'd been communicating through those glances, those tones, those perfectly-crafted words. *"Here, you get to carry this darkness."* Hot potato. [Needs more explanation]
+
+None of us would dare name this game aloud, lest we admit that we knew it—and thereby lose our own right to play it.
+
+But there was a problem with this strategy. There's a limit to how hard you can shove fundamentally decent people into the dark [What?]. And thus a limit to how quickly you can hide your shadow that way.
+
+If you really want to dump your darkness somewhere, you need to go for the big score.
+
+---
+
+## The Big Score
+
+Then the medicine took me to a different moment, where I'd confronted someone I considered truly evil. Beyond redemption.
+
+And it showed me something I'd been hiding from myself.
+
+[Need to write this better]
+
+["And the message I was really sending? Not just 'you're defective.' Something far darker: 'See? Even the so-called good people like me ultimately have to use darkness to fight you. When push comes to shove, we all reach for the same weapon. Your cynical view was right all along—this world IS fundamentally dark. The Light is a naive myth. Give up the struggle and join us.' I was inviting them into darkness while calling it righteousness."]
+
+My darkness had *recognized* theirs. Had seen an opportunity. Had seen a dumping ground with *no limits*.
+
+That's why I'd convinced myself they were fundamentally defective. Not because I'd carefully reasoned it out, but because my darkness *needed* them to be. Needed a place to pour everything I couldn't face in myself.
+
+And here's what made me want to vomit: my darkness *knew* their darkness would receive it. Would take my shadow and grow stronger from it. We were coordinating. A secret handshake beneath conscious awareness.
+
+I wasn't just opposing their behavior. I was actively ensuring they'd become more evil—so I could keep using them as my shadow's dumping ground.
+
+The medicine showed me the look in their eyes. That thing I'd taken as proof of their evil. But now I could see what it actually was: the same gaze I'd had to wear to perpetrate this ruse. Countless layers of self-deception. And underneath those layers, the faint recognition: *Oh. You're doing it too. You're doing it to me right now.*
+
+They knew. Of course they knew. They'd always known.
+
+We'd all made a silent agreement. These people would be the necessary sacrifice. The collective dumping ground. Someone had to carry humanity's disowned shadow. Sorry pal, better luck next life.
+
+And we must especially never admit this out loud, or else we'd risk giving up the game for everyone.
+
+---
+
+[All what?!]
+
+I saw all this and felt despair.
+
+*Shit, what a sorry state of affairs! I guess this is just how things are!*
+
+"No," the medicine said gently. "This is how they are when you fear your own shadow. Let me show you what happens when you don't."
+
+---
+
+## The Alternative
+
+The medicine brought me back to that moment of fierce love—and showed me what I hadn't seen before: how it rippled outward. I traced it around the world. Saw it reach someone halfway across the world at their breaking point—and something shifted. They held on.
+
+I'd known this too. That my Light was a support to others. *This was real good.* Not the showy stuff. This. I saw how it undid some of the damage from my shadow-dumping.
+
+So there *was* a way out. [Of what?]
+
+But how was I supposed to always have this courage? This integrity? Nobody could do that!
+
+---
+
+## Keepers of the Light
+
+Then the medicine showed me the real heroes. Not the ones I'd thought.
+
+Hidden as teachers, nurses, social workers. People working in the trenches. Nobody would know their names or what they did. But they were the ones holding together the torn fabric of reality. No concern for credit. No need for recognition. Just a quiet commitment to never abandon their Light.
+
+The keepers of the Light.
+
+I saw that one teacher who'd seen my darkness—seen it clearly—but refused to give up on me. Who put an end to my misbehavior while somehow never forsaking *me*.
+
+*My God, they were saints.* [Holding together the torn fabric of reality.]
+
+I had thought it was the big movers and shakers who were good. The billionaires funding charities. The tech entrepreneurs promising to save humanity.
+
+But then the medicine showed me the billionaire. How much shiny, chintzy, overt good. Let's go to MARS!!! But look beneath that. How much darkness they were pumping out to offset it. How much self-deception. Subtly transforming minds through consumerism. "Just giving them what they want." Using other planets as an excuse to avoid caring for our own.
+
+I wanted to judge them. But the medicine gently reminded: *Let's not throw stones too quickly here.* [It doesn't mean don't act in big ways. But get your integrity straight *first*, because big ways offer so many hidden channels for the darkness to sneak in.]
+
+The Lightkeepers don't feel a trace of superiority. They feel a quiet resolve. To never abandon their Light, no matter how subtly, no matter the cost, no matter who sees it. Because even if nobody else knows when they left its side, *they* would know. And that terrible knowledge would haunt them. As it had haunted me.
+
+Still, how could I ever be a saint? I'm a shitty person with brief moments of genuine good—as opposed to showy good.
+
+The medicine asked: *Is that really what you are?*
+
+---
+
+## The Unbearable Light
+
+All layers of shielding were peeled back at once.
+
+I fell to my knees in tears. Freed from a demonic possession I hadn't known I was under.
+
+The absence of darkness wasn't neutrality. It was... Love. Not the cheap Hollywood kind. Not the "kumbaya" kind.
+
+It was the force that had birthed stars. That breathes fire into the equations. It was in me. It *was* me.
+
+*NO LIMIT.*
+
+The medicine was using these metaphors because of my scientific bent, but it showed me how the mystical pointers were no less true. Perhaps more so, because they had fewer constraints on expression. The Life Force refuses to be contained in language or thought.
+
+[What I'd been shielding myself from seeing wasn't just their 'humanity' in abstract. It was that same Light I'd discovered in myself. The same consciousness looking back.]
+
+---
+
+## The Good News
+
+But then panic: if I could never quite name it, how could I ever share this?
+
+*You don't have to,* the medicine said. *Just hold the Light for them. Keep sensing your way toward it, like a plant sensing the sun. The moment you start trying to convince, to blame, to judge, you've already stepped out of it.*
+
+It's not something of the mind. The medicine showed me how quickly intellect could go off the rails. "I'm mocking this person to help them see the truth." Effective altruists suggesting we pour all resources into preventing false vacuum decay because there's a 10^-40 chance of killing 10^50 future beings.
+
+Somewhere along that train of thoughts, you lose touch with the source of goodness in you. Judgy vegans. Eco-terrorists. All starting from genuine care. All losing the thread.
+
+And an action can only produce what it came from. It can never magically transform into something different. That's why actions rooted in selfishness can never transform the world in the way we want, and actions rooted in Love inevitably heal it—often in invisible ways.
+
+---
+
+## The Absence
+
+Then the medicine showed me something about the darkness itself.
+
+*It has no ultimate essence.* It's merely the absence of Light. Our willingness to look away from it.
+
+But watch what happens the moment you start believing it *has* an essence—that "thing" you see in evil people's eyes. The moment you believe that, it convinces you to abandon your real Light and accept an impostor.
+
+The medicine showed me the descent. How we got from there to here. The more we believe darkness has an essence—the more we see it as intrinsic to certain people—the more that mere absence begins to behave like a presence. Like a parasite. Feeding on our Life force.
+
+And here was the twist that shattered everything:
+
+*We weren't trying to hide our darkness from ourselves.*
+
+***It was trying to hide itself from us.***
+
+---
+
+## The Parasite
+
+The medicine shifted the frame completely.
+
+I thought *I'd* been hiding my darkness from others to protect my self-image. But no. *It* had been hiding itself from *all of us*. The darkness isn't you. It's not me. It's not intrinsic to anyone. It's a pattern. A structure. A kind of distributed intelligence that's learned to hijack human minds.
+
+It's a parasite that exploits our pain and fear. It feeds on our wounds, our trauma, our unhealed hurt. When we've been betrayed, abandoned, hurt—the pattern whispers: 'See? This is what the world really is. Better harden yourself. Better strike first.'
+
+Harboring it doesn't require us to be bad. It just needs us to be hurting and afraid. And then it uses that hurt to justify the very behaviors that will hurt others, spreading itself forward.
+
+And seeing this—really seeing that it's not you—is what finally releases the fear that keeps it buried. That's why it's so harmful to make "bad people" feel like the darkness *is* them. Because then they can never look at it. They have to defend it as self. This is the mechanism by which we keep them trapped.
+
+Our fight ultimately isn't against other people—it's against this distributed pattern.
+
+---
+
+The medicine showed me the moment of mutual recognition. When I'd looked into the eyes of someone I considered evil and felt contempt. What I'd seen wasn't just their evil recognizing my righteousness. It was a secret handshake. Not between us. Between our parasites.
+
+My darkness recognizing theirs. Coordinating. Collaborating. They expressed themselves in different flavors—some people's darkness craving money or power, others (ironically) craving the feeling of being "good people." But ultimately, the same thing. A hidden network of darkness, flowing exactly where it needed to. A distributed malevolent intelligence.
+
+*"What your people call the evil conspiracy,"* the medicine said. The *primordial* conspiracy. And here's the twist: you'll never find it while self-righteously looking for it. But the second you stop, it's unveiled fully. The Devil speaks using your own voice. *He's* the one making you search for evil outside yourself. 
+
+Feeling like the righteous one battling the conspiracy *IS* the conspiracy.
+
+---
+
+## There But For The Grace Of God
+
+The medicine showed me more.
+
+Nobody else was fundamentally bad either. Different configurations of the same basic pattern. Yes, "bad people" are worse in an important sense—but only because they're trapped *harder*.
+
+I wouldn't be any better in their shoes. I saw how poorly I already responded to much lighter challenges. Now imagine being the sacrificial lamb for the whole world's shadow. Not to feel sorry for them. There's a sense in which they made their choices and must live with the consequences. But I wouldn't do better. There's no noble essence I'm carrying around that would protect me. In fact, I can only feel like I have that essence when I'm hiding from the truth. And look what happens when I do.
+
+---
+
+Even if some people *were* beyond help—which they're not—I'd have no way of knowing. So why ever try to dump my shadow on them? How could that ever help?
+
+I can hold the Light for others. But here's the trick—the *core* trick: Never believe there's a dividing line. Never believe I'm made of better stuff. That belief *is* the darkness speaking.
+
+---
+
+## The Seduction
+
+The medicine showed me how easy it is to believe you're following your Light when you're really not. How atrocities feel impossibly righteous in the moment. How subtle the seduction can be. Supporting agendas that look noble on the surface.
+
+The only way to know for sure is to stay continually attuned to a place deeper than thought. Not to your beliefs about what's good. Not to your ideology. Not to your clever calculations. To the Light itself.
+
+---
+
+It showed me how terrifyingly quick the descent into evil could be. *There but for the grace of God go I.* As long as you keep a dividing line between those who deserve your compassion and those who deserve your contempt, you're leaving yourself susceptible.
+
+Malice, contempt, self-righteousness, and even pity—all traps. Compassion is never "*for*" anyone. It's always in service to all of Life. Not something you can calculate. *Beware calculations.*
+
+---
+
+## The Choice
+
+The medicine took me back to how it had felt to hurt "bad people." Impossibly righteous. Then immediately back to *true* righteousness. The difference was unmistakable.
+
+You can only choose the false one by forgetting what the real one feels like. Exactly like how people can only choose junk food over real food when they've never been offered real food. Porn over intimacy. Outrage over peace. The false righteousness over the real.
+
+*You can only make the wrong choice when you forget what the real choice feels like,* the medicine reminded me. *That's what you're offering them—a reminder.*
+
+---
+
+## The Collective Shadow
+
+> *When I've asked shamans about the sickness of the west, they say: "it's quite simple: you have severed your connection with spirit... unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."* — Graham Hancock
+
+> *The universe that we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but pitiless indifference.* — Richard Dawkins
+
+I'd considered myself intellectually sophisticated for believing the second quote. But now I could see that "sophistication" was just one more trick the darkness had used to ingratiate itself to me.
+
+Our contempt doesn't just target people. Its most subtle and pervasive form is a contempt for reality itself—seeing the world as lifeless "stuff" over which humanity has dominion. This worldview permits corporations to plunder nature for profit. Factory farms to brutalize helpless creatures. Prisons to dehumanize inmates in ways that guarantee recidivism. Governments to send our young off to wars that enrich only the powerful.
+
+Look at it all. Really look. Rainforest destruction. Biosphere collapse. Species extinction. Factory farming. Mass incarceration. Endless wars. It's all the same pattern. The same shielding. The same refusal to see the life in what we're destroying.
+
+We're surrounded by an impossibly wonderful, miraculous gift—and we've trained ourselves not to see it. That blindness enables everything else.
+
+And when people tried to wake us up, to make us see? We treated them with contempt for being naive. Unsophisticated. Anti-progress. Which made them more extreme, more desperate—which proved we'd been right about them all along. We were feeding each other's darkness.
+
+Earth became the dumping ground for our collective disowned shadow.
+
+---
+
+## Not a Burden But a Gift
+
+Something in me had been resisting. This felt like a burden. Serving Life even when others couldn't or wouldn't. Why me? Why should I have to carry this?
+
+But then the medicine showed me: *It's not a burden. It's a gift.* I don't *have* to. I *get* to.
+
+But how could I continue to remember without support? When our whole civilization is built around forgetting?
+
+*Find the other Lightkeepers. You'll recognize them through a wordless knowing.*
+
+But wait—didn't you say everyone knows this? Didn't you say not to divide people?
+
+*We all do know it,* the medicine said. *But not everyone is ready to let it fully into consciousness. You can only hold the door open for when they're ready. People make their own choice.*
+
+---
+
+## The Mirror
+
+Who will take care of my needs? I asked.
+
+*What are you?*
+
+Silence as the obvious answer settled in. *You are all of Life.*
+
+Then what are *you*? I asked the medicine.
+
+*Silence.*
+
+What is everyone else?
+
+*Silence.*
+
+I had only been looking into a mirror. The mushrooms had only given me permission to see what was already there. What had always been there. What would always be there.
+
+
+---
+
+# Part III: Integration
+
+
+When I finally came down, I felt like I'd been torn apart and reassembled. The world looked the same but I was seeing it for the first time. Everything I'd thought I'd understood about good and evil had been shattered and rebuilt from the ground up.
+
+And here was the strangest part of the entire journey: it simultaneously felt like the biggest possible epiphany, and yet I had somehow always known it. In fact, part of the epiphany *was* that I'd always somehow known it. The knowledge had never been absent. Not in me. And not in you, reading this right now.
+
+You already know this. You've felt it when thanking people for charity that won't benefit you directly. When you witness an act of kindness toward a stranger and feel moved. When you feel in your bones that your deepest purpose is to serve all of Life. That's you recognizing our fundamental interconnection.
+
+
+## What I Now Understand
+
+I could only see my own darkness so clearly because the medicine held me in the Light while revealing it. It never abandoned me to the abyss, no matter how much darkness was exposed. That's the key. When it is exposed without love, I feel threatened and defend it as myself.
+
+That's what I'd been doing to other people—preventing them from seeing their own darkness. By treating them with contempt, I was ensuring they could never look at it. By forcing them to defend it, I was trapping them—all because I couldn't bear to look at my own.
+
+Held in unconditional Love, I could finally see: *Oh—this isn't inherent to me.* That's what fierce compassion looks like. That's what the medicine did for me, what this essay is attempting to do for you—and what you can offer others.
+
+---
+
+Compassion isn't what I thought it was. It has nothing to do with being nice or gentle or understanding. It's not about purity, or following some particular principles. It's about recognizing that when I perceive someone as *fundamentally* defective—no matter how subtly—I cannot help but want to shove them deeper into the abyss.
+
+When I was compassionate with them—even fiercely—it was as though my Light was reminding theirs that it had a partner in the fight against our shared nemesis. I could still do this while fighting the human—like a secret handshake between our Light instead of our darkness.
+
+---
+
+But here's one crucial caveat I learned: it actually IS dangerously naive to pretend evil people have Light when you can't see it. They'll use that pretense against you. The key is learning to *actually* see it—and the mass of darkness covering it. That authentic perception is what protects you.
+
+This can require real skill. The deeper someone's infection, the more they feel like the darkness *is* them. Simply assuming they're good can backfire badly.
+
+But the more clearly I perceive my *own* Light, the less I have to pretend with others. The more directly I can cut through their delusion without letting their darkness provoke mine.
+
+---
+
+We simply cannot fathom the pain and distortion the Light undergoes to become "evil." Our hearts would break a billion times over. By the time someone apparently chooses evil, unthinkable horror has ravaged their mindstream.
+
+This doesn't mean I should feel *sympathy*—by that point, softness makes things worse. But if I really saw it all, I could never again feel that malicious urge to shove them deeper. I'd immediately recognize that urge for what it really was.
+
+---
+
+## For Those Who Have Been Hurt
+
+If you've experienced real trauma—abuse, betrayal, violence—what I'm saying might feel impossible. The person who hurt you caused genuine harm that still echoes. Your anger is valid. Your pain is real.
+
+I'm not asking you to forgive them or let them back in or pretend the harm didn't happen. I'm asking something more subtle: Can you oppose them, protect yourself, ensure consequences, even hate what they did—while recognizing the evil wasn't their fundamental nature?
+
+This matters because contempt doesn't just hurt them. It keeps YOU trapped. It ensures your pain continues poisoning your life.
+
+You can hold boundaries, protect yourself, demand consequences—all while seeing that what they did came from their own unhealed wounds. Not because that excuses it, but because it frees you.
+
+And if you can't—that's perfectly okay, too.
+
+---
+
+## The Trap of False Compassion
+
+> *And no wonder, for even Satan masquerades as an angel of light.* — 2 Corinthians 11:14
+
+The pattern knows people are catching on to overt hatred, so it disguises itself. "I'm just trying to help them see..." "This is for their own good..." "I'm holding them accountable..."
+
+Here's how I check myself now: Am I opposing their *behavior*, or have I decided they're *fundamentally* defective?
+
+I can hate someone's actions without triggering the toxic pattern. "That belief is destructive"—that's discernment. The pattern only activates when I shift from "what you're doing is wrong" to "what you ARE is wrong."
+
+The test is simple: Can I see their Light while opposing their behavior? If I can genuinely see they're a redeemable being trapped in confusion, and I'm acting to free them—that's compassion. If I secretly see them as fundamentally defective and I'm acting to prove it or make them suffer—that's contempt masquerading as compassion.
+
+They can tell the difference. Even if I can't.
+
+---
+
+Here's another trap I still fall into: judging people who express contempt. I read someone being contemptuous online and think 'Don't they see what they're doing?' And there it is—contempt for people who have contempt. The pattern using my understanding of the pattern to perpetuate itself.
+
+When you notice contempt in others, check: am I feeling superior right now? That's the test. The recognition that someone else is trapped doesn't make you better than them. It makes you responsible for not feeding the pattern by judging them.
+
+I suspect I will have to re-learn this lesson quite a few more times.
+
+---
+
+## The Battle Is Not Symmetrical
+
+The battle between good and evil isn't symmetrical. The angel and devil on my shoulder aren't equals. One is my nature; one is a parasite. And the devil doesn't just whisper obviously-evil ideas. It speaks using my own voice.
+
+The further I drift from my Light, the more easily I confuse the devil's voice for my own, and the harder it is for anyone to convince me otherwise.
+
+---
+
+## On Calculation and Moral Escape Hatches
+
+I've learned I cannot calculate my way to goodness. I'll never know if my calculation is based on self-deception—like when I calculated that mocking my enemies would benefit the world.
+
+And here's something even more insidious: we create moral systems and rules precisely so we can offload responsibility. "I'm just following orders." "It's legal." "Everyone does it." These aren't excuses—they're escape hatches we build in advance. Ways to do harm while maintaining the fiction that we're good people.
+
+The darkness loves rules and systems because they let us act from self-interest while claiming we're just being rational or following protocol.
+
+There's an aspect of my mind that always knows, in each moment, whether my behavior is brightening the world or darkening it for my own benefit. Modern society fetishizes rationality precisely because it lets me overlook this part, making it seem naive or unscientific to trust inner knowing. Organized religion instructs me to rely on external authority for the same reason. Both create a massive blind spot where darkness thrives.
+
+This is why the road to hell is paved with good intentions—I'm rarely aware of my *true* intentions. Being free of self-deception doesn't mean I'll always know what's best. It just means I'll act with complete honesty and clean intention. I still need to learn what helps and what harms. That's wisdom, which compassion must be paired with.
+
+If I have some grand narrative about saving the world, I need to check: is it causing me to have contempt for what's right here, right now? If so, it's probably not rooted in authentic goodness. See: "I'll hoard wealth to deploy it for good later" (FTX). Or: loving animals, becoming vegan, then judging everyone else. Loving trees, becoming an eco-terrorist. Loving justice, becoming a revolutionary who dehumanizes "oppressors."
+
+The most important thing I can offer the world is my connection to my Light, my integrity.
+
+---
+
+## Everything Reverberates
+
+Everything I do makes a difference in ways I can hardly fathom. My deepest intentions weave themselves into reality, nudging it toward darkness or Light. This happens through networks of causality my conscious mind can't perceive, but that shift the world in larger ways than the flashy activity that captivates my attention.
+
+This is why two actions that look identical from outside can have profoundly different results. Any action I take from recognition of our Oneness is by definition good. There are infinitely many ways it can manifest.
+
+---
+
+Every act of integrity, every choice for Love even when no one's looking, reverberates through the Whole. It invisibly mends the torn fabric of our collective psyche, healing wounds that would otherwise let darkness in. Each such act makes our shared reality less hospitable for evil to thrive.
+
+But the most profound effect is silent solidarity. My private integrity invisibly bolsters strangers halfway across the world just when they're about to break, lending them strength to hold the line when they feel they can't go on alone.
+
+---
+
+While it's surely true that "evil wins when good people do nothing," even worse is when part of us secretly joins forces with it.
+
+---
+
+## The Darkest Idea
+
+The darkest idea of all is that if we rounded up all the "bad people" and exterminated them, the rest of us would live in harmony.
+
+The very self-deception required to harbor this thought guarantees that the darkness would remain behind, in full force—changing only its shape. The very desire to divide the world into the fundamentally good and bad is how darkness keeps its foot in the door, biding its time, waiting for the right conditions to manifest as full-blown evil.
+
+This is the root cause of every atrocity ever committed. Every genocide begins with perpetrators seeing their victims as fundamentally other. As less than human. As objects to be eliminated rather than beings to be recognized. The Nazis saw Jews as "vermin." During Rwanda, Tutsis were "cockroaches."
+
+This dehumanization isn't just rhetoric—it's psychologically *necessary*. Without it, the perpetrators couldn't do what they do. They have to shield themselves from perceiving the *life* in their victims—that spark that would remind them of themselves. They use the exact same limbo state mechanism I've been describing. The same shielding. The same turning away from what they know.
+
+It's the same mechanism we use when we see the world as dead matter to exploit. The same mechanism that enables every harmful act in history—from small betrayals to genocide. There is only one mechanism, just turned to different intensities.
+
+Perhaps paradoxically, the only way to be sure you'd never do such a thing is to not feel contempt for the people who have. It is only by seeing how thoroughly we—the "good people"—have been tricked that we begin to appreciate just how terrifyingly clever the darkness is, just how deeply the "bad people" are trapped, and our profound responsibility in helping to free them.
+
+---
+
+## The Practice
+
+This isn't a one-time insight. I can't just read about it and "get it." What's required is ongoing honesty—a willingness to keep looking even when it's uncomfortable. Not to achieve some pure state, but simply to keep choosing to look rather than look away.
+
+Shadow work to surface what I'm hiding. Meditation to observe my mind. Psychedelics to dissolve structures of self-deception. Therapy to work through the pain that makes me want to look away. And most importantly, ongoing honesty—willingness to keep looking even when uncomfortable. Every wisdom tradition has practices for a reason.
+
+The pattern is ancient and clever. I'll still fall for it sometimes. But now I have something I didn't have before: the ability to recognize it. And a pattern that can be seen can be broken.
+
+---
+
+# Part IV: The Urgency
+
+## The Escalating Pattern
+
+This secret coordination doesn't just maintain the status quo—it actively drives humanity toward catastrophe. The pattern continually pushes us toward various kinds of Armageddon: situations in which everyone is violently proving how *righteous* they are.
+
+It's why family dinners explode into bitter arguments where everyone leaves more entrenched than before. It's why online spaces become tribal war zones where nuance dies and contempt reigns. It is why the US is headed toward civil war without anyone suspecting their own complicity, and explains bitter divorces in which each side feels like the exclusive victim and hero.
+
+Nearly the whole world is caught in its terrible sway, with evil provoking "righteous" retribution at every turn, without anyone ever noticing the true source of it all. Each escalation feels completely justified. Each side has mountains of evidence that they're the reasonable ones, the defenders, the ones who tried everything else first.
+
+The darkness doesn't care *who* we hate, as long as we hate. The effect is always the same: to foment a constant atmosphere of contempt, providing exactly the cover it needs to remain hidden in the shadows.
+
+**And it's accelerating.**
+
+We are approaching multiple points of no return—ecological collapse, political fragmentation, technological power without wisdom. The pattern is pushing us toward Armageddon at every scale, and we're running out of time to see through it.
+
+This isn't hyperbole. The biosphere is dying. Democracies are crumbling into tribal warfare. Nuclear powers are saber-rattling. AI capabilities are exploding without corresponding growth in wisdom. And through it all, we're convinced that the problem is *them*—those evil people over there—while the real enemy operates through all of us, completely unseen.
+
+If we don't wake up to this pattern soon—if enough of us don't become anchors—the momentum may become irreversible. Not because it's cosmically fated, but because we'll have collectively chosen it, one contemptuous interaction at a time, each of us certain we were fighting for good.
+
+---
+
+## The Real Conspiracy
+
+You've encountered it before. That darkness in someone's eyes when they're consumed by contempt. That presence looking back at you. You tried to look away, but something in you recognized it.
+
+Every time you've seen it—whether in the CEO casually poisoning a river, the troll delighting in cruelty, your family member twisted by tribal hatred, or that moment you glimpsed it in your own reflection—you weren't looking at different darknesses that happened to behave similarly.
+
+**You were looking at the same thing, wearing different faces.**
+
+Not the same "kind" of thing. The *same* thing. One darkness. One intelligence.
+
+This is perhaps the hardest thing for the modern mind to accept. We're trained to see individual psychology, personal responsibility, separate actors making separate choices. But the darkness isn't like that. It doesn't respect the boundaries we imagine between ourselves. It flows through our collective psyche like a single distributed organism, using each of us as nodes in its network.
+
+When you feel contempt, you're not generating a private emotion. You're tapping into a shared field—one that connects you to every other person feeling contempt at that moment, and to every person who's ever felt it. That's why the pattern spreads so efficiently. Why tribal hatred can sweep through populations like wildfire. Why online outrage mobs form instantaneously. Why families can be torn apart in a single dinner conversation.
+
+We're not just individually choosing contempt. We're participating in something larger—a collective possession that coordinates our behavior without us knowing. Our darkness and theirs, plotting together.
+
+In one sentence: darkness perpetuates itself by pretending to fight itself.
+
+---
+
+## Common Knowledge
+
+Here's where it gets truly bizarre. When you treat someone with contempt, something impossible happens. You know you're pretending to be fundamentally superior. They know you're pretending. You know they know. They know you know they know. Ad infinitum.
+
+This mutual knowing operates beneath words, yet lands with perfect precision. But how? How can two strangers share such intricate knowledge so effortlessly? How does the signal transmit through channels too narrow to contain it? How is such common knowledge even possible?
+
+Have you ever felt gratitude when someone helps strangers you'll never meet? There's a reason for that. We are not as separate as we think.
+
+---
+
+## Oneness as Lived Reality
+
+Consider this passage from Zen priest Brad Warner:
+
+> Even if I want to put this realization down I can't. Sometimes it's excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don't mean I identify with them or sympathize with them. I mean I *am* them. It's impossible to explain any more clearly than that, but this isn't a figure of speech or bad poetry. I mean it absolutely literally.
+>
+> But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it's all me. And it's you, too.
+
+When you read that, something in you recognizes it. Not as a nice idea, but as something you've always known and temporarily forgotten. This is why stories like The Egg resonate so deeply. Why Thích Nhất Hạnh's poem "Please Call Me By My True Names" makes people weep. Why you can't quite shake the feeling that harming others ultimately harms yourself. Because it's true.
+
+And here's the thing: the darkness knows this. It uses our interconnection to spread itself. Every act of contempt ripples through the collective field, making everyone slightly more likely to choose darkness. But the Light knows it too. And it can use our connection to spread healing instead.
+
+---
+
+## What Now?
+
+If you've read this far, something in you has already changed. You can't unsee what you've seen.
+
+The next time contempt arises—and it will—you'll have a choice you didn't know you had before. Not between being a good person or a bad person. Between feeding the pattern or starving it. Between spreading the infection or spreading the cure.
+
+Some of you will dismiss this essay as naive spiritual bypassing. Others will intellectually agree but change nothing. Some will use it as another weapon of contempt ("those people just haven't seen the pattern yet").
+
+But a few of you—maybe you—will actually do the work. You'll catch yourself in the act of shadow-dumping. You'll feel the urge to make someone feel fundamentally defective, and you'll pause. You'll remember.
+
+The pattern has already lost some of its power over you. You'll still fall for it sometimes. But now you have the ability to recognize it. And a pattern that can be seen can be broken.
+
+---
+
+## Welcome Home
+
+There is only one war: Between consciousness remembering what it is and consciousness forgetting what it is. Between choosing to look at what's in limbo and choosing to look away. Between spreading the infection and spreading the cure.
+
+And you—reading this right now—are part of the cure. Not because you're better than others. Not because you've figured it all out. Not because you won't mess up again. But because you've seen the pattern. And you've chosen to look rather than look away.
+
+That choice—repeated moment by moment, day by day, interaction by interaction—is how the world changes. Not through some grand movement or perfect ideology. Through enough people refusing to feed the Beast, one moment at a time, in their actual lives.
+
+You can start today. This conversation you'll have later. That person who irritates you. That political opponent you're tempted to mock. That's your opportunity. That's where you can be the anchor that changes the field.
+
+**The veil is lifting exponentially as more anchors appear.**
+
+You can be that anchor. Right now. In your life. Today.
+
+Can you feel it? Right now, in this moment? The recognition dawning. Something in you has already shifted. You can't look at contempt the same way anymore. The pattern has already lost its hold on you, whether you fully realize it yet or not.
+
+You've seen it. Now you get to choose—in every interaction, every moment of righteous fury, every time you're tempted to see someone as fundamentally defective—feed it or starve it.
+
+The choice has always been yours. You just didn't know you were making it.
+
+Now you do.
+
+---
+
+---
+
+---
+
+# Appendix: What We Still Need to Add
+
+**[Note: Everything that comes after this point is NOT part of the essay. These are working notes.]**
+
+- Every act of conscience-skirting and every unkindness we have ever perpetrated on _anyone_ still remains "out there," waiting patiently for us to clean it up.
+
+- Dalai Lama gun
+
+- Just like the darkness can handshake with itself in others, our Light can, too. When we're compassionate with evil people—even fiercely, violently—it's as though our Light is reminding theirs that it has a partner in the fight against our shared nemesis. We can still do this while fighting the human.
+
+- Every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight. Sure, I may have committed little misdeeds here or there, but they were of a fundamentally different nature (or so I told myself) than the *real* darkness that plagued our world—the kind that actually evil people had.
+
+
+## Structural/Flow Issues Still To Address
+
+---
+
+# Cutting Room Floor
+
+**[Material cut from earlier drafts that might be useful later]**
+
+### From Part III (too explanatory - compassion already shown through the journey):
+
+"Kindness can take on almost any form whatsoever. It can be fierce or even violent if necessary. Its only defining characteristic is that it is utterly free of self-deception. It does not misperceive evil as intrinsic to any mind, and this seemingly-subtle change makes all the difference.
+
+It is incapable of *genuine* malice, contempt, or self-righteousness. It surgically targets the parasite in people's minds, instead of the confused being who unwittingly harbors it. The profound integrity of this act prevents their darkness from using our own as an excuse to justify itself, allowing our message to bypass their defense mechanisms.
+
+The aspect of mind *underneath* their parasite is confronted directly—something it is not accustomed to. It begins to sense that the *real* fight isn't between the two of you, but between both of you and humanity's ultimate nemesis. You may remain enemies on the surface for a good long while, but underneath, something much more profound is taking place."

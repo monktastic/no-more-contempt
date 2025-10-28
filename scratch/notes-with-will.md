@@ -1,4 +1,3 @@
-
 - Evil's greatest trick
 - Willful ignorance
 - Self-deception

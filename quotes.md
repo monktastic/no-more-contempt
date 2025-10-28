@@ -18,7 +18,7 @@
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
 
-> _When I've asked shamans about the sickness of the west, they say: "it's quite simple: you have severed your connection with spirit… unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_
+> _When I've asked shamans about the sickness of the west, they say: "it's quite simple: you have severed your connection with spirit… unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ —Graham Hancock
 
 
 ---

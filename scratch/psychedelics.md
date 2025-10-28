@@ -1,8 +1,40 @@
 
-There's a crucial insight about our minds and the nature of evil that I think we're missing as a civilization, and it's one that psychedelics are uniquely powerful at inducing.
+There's a powerful insight about morality that can be revealed on psychedelics, and that I think our culture is still largely missing. There are certainly other ways to come by it, though perhaps not as poignantly.
 
-There's a mechanism in our minds that actively shields us from confronting the full implications of our words and behaviors.
+I was shown that there were times in my life where I had *knowingly* done wrong — by my own standards — but had convinced myself it was okay. This mind-state is exceedingly bizarre: on one hand, I knew *perfectly well* what I was doing; yet in another, very real sense, I also *didn't*. It's not that the knowledge was unconscious, per se. It was completely accessible to my conscious mind, if I had chosen to look — but I *chose not to look*.
 
+I saw just how much of my life is lived from this state. I forgive myself for all sorts of tiny selfish acts that I would never tolerate in others, and the justifications are so clever that I never recognize them as such. Yet when I see others doing this, I viciously judge them for it — and now I saw why.
+
+By contemptuously judging others, I was actually telegraphing my *own* hidden darkness. After all, wise people never behave this way. I was thereby provoking them into seeing *me* as evil, so that they would feel more justified in their misbehavior — which I could then use as an excuse to judge them *even more* harshly. This would help me better disguise my *own* self-deception — which was the secret goal. I was not ready to confront my own hypocrisy, and so I judged others.
+
+Part of me could see that even the worst person is only able to do wrong by employing *precisely* the same self-deception that I myself harbor — and they only need to do this because a deeper part of them *knows that they're doing wrong.* In other words, even the most "evil" person is not *fundamentally* defective, as I had thought. Instead, the reason I perceived them that way was to give myself an excuse to treat them with contempt, thus shoving them deeper *into* the abyss while making me look "good" for doing so.
+
+As hard as I tried to shake off this realization, I couldn't — because it wasn't a *new* realization, which I could write off as a drug-induced hallucination. No; I was shown that I had *always known this.* I had *always* been able to see the good that lies beneath the evil — but I had somehow shielded this perception from my conscious mind. I then saw the full implications of this.
+
+It is precisely this same shielding that allows "bad people" to do what *they* do without compunction. I don't hate them to make the world a better place, but to make it a *worse* place — one in which self-deception is the norm, so that I can continue to run from my own conscience. This is the only reason *anyone ever treats anyone else* with contempt — or *genuine* contempt, I should say. The *appearance* of contempt can certainly do good, but *real* contempt for people never can.
+
+We are destroying nature by treating *her* with contempt — as though we cannot perceive the sacredness she holds. We *can* perceive it, but we are shielding it from conscious self-reflection. The phenomenon that allows people to do this to nature is *exactly* the same one that lets me hate them for it — and doing so only amplifies it. The harder I pretend that this behavior is good, the more I license them to feel the same about theirs.
+
+
+
+---
+
+This is the secret mechanism behind *all the evil there ever was.* People are only able to cause harm by engaging in exactly this kind of self-deception. Their minds are shielding them from fully perceiving the *life* in their victims — be they other people, animals, or nature at large — because if they consciously recognized it, they couldn't do what they do.
+
+So how do we put an end to this behavior? The key insight is this: 
+
+The only way you can perceive "bad people" as being *fundamentally* inferior to you — as though they are *intrinsically morally defective* — is by engaging in the very same act of self-deception. And simply by doing so, you *strengthen* that capacity in both them and everyone around you.
+
+
+
+
+
+
+It is impossible to overstate how much human behavior takes place from within this paradoxical state. By its very nature, we never notice it operating in ourselves. But again, it's not because we *can't* notice it. It's right there to see, if only we looked — but we *choose not to look.*
+
+
+
+This mechanism lies at the heart of *all the evil there ever was.* "Bad people" know perfectly well when they're doing wrong, but this knowledge is carefully hidden from conscious self-reflection in exactly the same way.
 
 
 ---

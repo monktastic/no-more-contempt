@@ -1,4 +1,4 @@
-People are concerned about the potential for an AI superintelligence that is misaligned with human values, but what we don't realize is that there is *already* such a superintelligence operating. It is extremely difficult to describe, so please allow me a few paragraphs to paint a picture.
+People are concerned about the potential for an AI superintelligence that is misaligned with human values, but what we don't realize is that there is *already* such a superintelligence operating.
 
 ---
 
