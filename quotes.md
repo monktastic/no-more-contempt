@@ -20,6 +20,10 @@
 
 > _When I've asked shamans about the sickness of the west, they say: "it's quite simple: you have severed your connection with spirit… unless you reconnect with spirit and do so soon, you're going to bring the whole house of cards down around your heads and ours."_ —Graham Hancock
 
+> The ego doesnʼt tell you what it thinks. It doesnʼt tell you what it wants you to think. In fact, it doesnʼt even tell you what you think. Ego does the thinking for you. Take a moment to let that sink in. The ego convinces you that its view is your view. It does this by speaking as if you are the one speaking. It structures thoughts in such a way that it sounds and feels like they are your voice, your thoughts. Because itʼs happening inside your mind, you immediately assume that the egoʼs voice and its view are your voice and your view! —Angelo DiLullo
+
+> We have met the enemy and he is us. —Walt Kelley
+
 
 ---
 

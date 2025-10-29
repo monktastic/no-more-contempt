@@ -10,7 +10,7 @@ Notice how the limbo state was itself in limbo: you've always known about this m
 
 ---
 
-Think back to a time when you mocked or shamed someone. You probably told yourself you were doing it to help—to correct their behavior, to protect others, to make the world better. But if you're honest, part of you wanted to make them feel bad, quite independent of any good it would do.
+Think back to a time when you mocked or shamed someone. You probably told yourself you were doing it to help—to correct their behavior, to protect others, to make the world better. But if you're honest, part of you just wanted to make them feel bad, quite independent of any good it would do.
 
 And yet they sensed it anyway. They could tell you were relishing their suffering.
 
@@ -18,7 +18,7 @@ How? You barely knew it yourself. It was buried deep, shielded from your own con
 
 And yet somehow it reached them.
 
-This weakens their faith in humanity. The world just got a little darker. So they feel more of an urge to protect themselves—which often means more self-deception. You perceive this as inherent badness. _Strike one_.
+This weakens their faith in humanity. The world just got a little darker. So they feel more of an urge to protect themselves—justifying more self-deception. You perceive this as inherent badness. _Strike one_.
 
 What you see is a person who became defensive in response to your righteous behavior, instead of introspecting and thanking you for your wisdom. Instead, they're implicitly accusing _you_ of being evil. _Strike two._
 
@@ -48,7 +48,7 @@ And yet it happened exactly as if you had.
 
 This pattern doesn't just show up when you mock people directly:
 
-"Play stupid games, win stupid prizes." "Fuck around and find out." "Darwin Award!" when someone dies in an easily-preventable way.
+"Play stupid games, win stupid prizes." "F*** around and find out." "Darwin Award!" when someone dies in an easily-preventable way.
 
 These aren't technically wrong—that's what makes them so insidious. There's satisfaction beneath the words. Casual cruelty.
 
@@ -70,7 +70,7 @@ Everyone does this.
 
 Not "everyone has flaws." **Everyone executes this exact pattern.**
 
-The same hiding. The same transmission. The same three strikes. The same result: both people worse.
+The same hiding. The same transmission. The same three strikes. The same result: both people get worse.
 
 Think about someone you know. Different personality, different background. Now think about a time they felt contempt for someone.
 

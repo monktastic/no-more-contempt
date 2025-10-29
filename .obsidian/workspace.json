@@ -22,118 +22,6 @@
             }
           },
           {
-            "id": "25ec60a65554f768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/claude-2025-10-14c.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude-2025-10-14c"
-            }
-          },
-          {
-            "id": "a05b5bd5639dd900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/bad-people.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bad-people"
-            }
-          },
-          {
-            "id": "769e972def021e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "old/index-old-5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index-old-5"
-            }
-          },
-          {
-            "id": "c7f8170b30a49da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/claude-ultra-short.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude-ultra-short"
-            }
-          },
-          {
-            "id": "ad9deab36140887b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/endless-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "endless-2"
-            }
-          },
-          {
-            "id": "22e68108e0d89333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/misc/claude-feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude-feedback"
-            }
-          },
-          {
-            "id": "cfe7d44cfdd1c9e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/first-person.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "first-person"
-            }
-          },
-          {
-            "id": "4c80fe7d740167c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/short.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "short"
-            }
-          },
-          {
             "id": "52a4306a8bd3b92b",
             "type": "leaf",
             "state": {
@@ -148,34 +36,6 @@
             }
           },
           {
-            "id": "bfa45b6d400fbd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "quotes"
-            }
-          },
-          {
-            "id": "ad4256c3dd675ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/endless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "endless"
-            }
-          },
-          {
             "id": "fc4279c3e4762c91",
             "type": "leaf",
             "state": {
@@ -187,48 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "notes-with-will"
-            }
-          },
-          {
-            "id": "52f8fe053e27a443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch/scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scratch"
-            }
-          },
-          {
-            "id": "d6e64fde10efa382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/misc/Praise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Praise"
-            }
-          },
-          {
-            "id": "066001dfb70c72e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/misc/TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
             }
           },
           {
@@ -293,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/overview.md",
+                "file": "llms/claude-v1/Part-1-guidance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "Part-1-guidance"
             }
           },
           {
@@ -321,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/Part-2-guidance.md",
+                "file": "llms/claude-v1/Part-2-guidance.md",
                 "mode": "source",
                 "source": false
               },
@@ -363,16 +181,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/misc/claude-praise.md",
+                "file": "llms/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-praise"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "fbf98abd6f5cc461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/bad-people.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bad-people"
+            }
+          },
+          {
+            "id": "36c1914f5bdcaca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/drafts/claude-2025-10-17d.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude-2025-10-17d"
+            }
+          },
+          {
+            "id": "23f1966b593f0ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/key-points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "key-points"
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -404,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "â€\"",
+                "query": "\"every attempt\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -425,7 +285,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -521,35 +382,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "09318f50fd83d0a9",
+  "active": "23f1966b593f0ee2",
   "lastOpenFiles": [
-    "llms/misc/Praise.md",
-    "llms/misc/claude-praise.md",
-    "llms/Part-2-final.md",
-    "llms/overall-guidance.md",
-    "llms/Part-2-guidance.md",
-    "llms/Part-1-final.md",
-    "llms/Part-1-guidance.md",
-    "llms/pattern-paradox.md",
+    "llms/claude-v2/part-i-final.md",
+    "llms/claude-v2/part-ii-final.md",
+    "llms/claude-v2/part-iii-final.md",
+    "llms/claude-v2/part-iv-final.md",
+    "scratch/bad-people.md",
     "scratch/key-points.md",
-    "llms/making-it-inevitable.md",
-    "llms/overview.md",
-    "llms/Part-2-structure.md",
-    "llms/vision.md",
-    "llms/drafts/claude-2025-10-13.md",
-    "llms/drafts/claude-latest-5.md",
-    "llms/drafts/claude-2025-10-25a edit.md",
+    "llms/drafts/claude-2025-10-21c.md",
+    "llms/claude-v1/Part-1-final.md",
+    "llms/claude-v2",
+    "llms/claude-v1",
+    "llms/Untitled.md",
+    "llms/overall-guidance.md",
+    "llms/evaluation-guide.md",
     "llms/drafts/claude-2025-10-24g.md",
-    "llms/drafts/claude-2025-10-23b.md",
-    "llms/drafts/claude-2025-10-23c.md",
-    "llms/drafts/claude-2025-10-14c.md",
-    "llms/drafts",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "llms/Part-1-structure.md",
-    "llms/misc/TODO.md",
+    "llms/claude-v1/Part-2-guidance.md",
+    "quotes.md",
+    "llms/drafts/claude-2025-10-17d.md",
+    "llms/drafts/claude-2025-10-25a edit.md",
+    "llms/claude-v1/Part-1-structure.md",
+    "llms/TODO.md",
     "llms/misc/new-journey.md",
+    "scratch/notes-with-will.md",
+    "llms/misc/TODO.md",
+    "llms/misc/Praise.md",
+    "scratch/scratch.md",
+    "chapters/compassion.md",
+    "variatons.md",
+    "scratch/short.md",
+    "llms/drafts",
     "llms/misc",
     "llms",
     "untitled folder",
@@ -557,8 +420,6 @@
     "history_part_8.txt",
     "history_part_7.txt",
     "history_part_6.txt",
-    "history_part_5.txt",
-    "history_part_4.txt",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",

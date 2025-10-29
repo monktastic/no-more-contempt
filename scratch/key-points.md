@@ -1,3 +1,10 @@
+
+- Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe." (needs an example of me delivering that dark message)
+
+- Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check. What a crock. What... a... fucking... crock.
+
+L0: If there were really an inner Light, we'd be able to prove it, right? And since we can't prove it, there's no point looking for it.
+
 # Key Points - Organized by Theme and Dependency Order
 
 ## NEW FRAMING DEVICES
@@ -74,8 +81,9 @@ The view that reality is made of lifeless stuff—do the industries that pollute
 
 Hollywood churning out revenge fantasy films viscerally reminding us that *irredeemably* bad people exist, and must be defeated through primally satisfying violence—help or hurt the parasite? Again, do you think the Hollywood execs had to intentionally plan this?
 
-Rationality and intellect itself!
-Compassion for evil people is bad."
+It is why our culture fetishizes rationality and intellect above all else: those aspect of mind are fundamentally incapable of detecting the spreading infection until _after_ it has physically manifested, by which point it is too late. We trust our thinking minds to tell us when they're lying to us, and then use more thoughts to prove that thinking is all we have. If there really were an "inner Light," we would be able to prove it; and since we can't, there's no point in looking for it. [this last sentence may need to wait until after the light reveal, unless there's an easy fix.]
+
+It is why wise people tell us to have compassion for evildoers but our culture treats this as naive."
 
 
 
@@ -253,7 +261,8 @@ L1: The purpose of conveying "I am nothing like you" is to increase that percept
 
 ## 3. THE NATURE OF THE PARASITE/DARKNESS
 
-**L0** - All of our parasites together behave like a distributed malevolent entity, manipulating all of humanity from beneath our conscious thresholds. The Christians know it as the Devil, and the Buddhists call it the ego. You can treat this as a metaphor, but it is also as real as anything you can touch. It is why some people believe in the existence of an evil global conspiracy pulling the strings from behind the scenes. It is the _primordial_ evil conspiracy; the one to which all the rest owe their existence, and to which they all ultimately filter up.
+
+**L0** - Indeed, all the darkness in the world is conspiring; together behaving like a *singular distributed malevolent entity*, manipulating all of humanity from beneath our conscious thresholds. The Christians call it the Devil, and the Buddhists know it as the Ego. It is the *primordial* evil conspiracy; the one to which all the rest owe their existence, and to which they ultimately filter up. Every attempt to destroy it without being free of it ourselves only ends up reinforcing it, because that confused impulse is only ever generated *by* it. It is an *impossibly* clever trap.
 
 **L0** - The shadow feeds on our pain and confusion.
 

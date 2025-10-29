@@ -104,67 +104,67 @@ Surely the actual _work_ I was doing was different? The projects themselves?
 
 ---
 
-It kept going. Showing me the "good" work I was doing--the activism, the helping, the teaching, the building.
+It kept going. Showing me the "good" work I was doing--the projects, the activism, the helping.
 
 Not because the work itself was bad.
 
-Because of what was _woven through_ it.
-
-My green energy project. I could see it now. Genuinely trying to help the planet. I believed in it. I was working hard. Sacrificing. Trying to make a difference.
-
-But contempt for oil companies was woven through every meeting. Contempt for people with SUVs. For politicians blocking progress. For people who "don't care"--the apathetic masses who couldn't see what I could see.
-
-The project was real. But the contempt was woven through every part of it.
-
-And then it showed me something else I couldn't quite see yet: I was relating to _nature itself_ in a contaminated way. Not as something alive. Not as something connected to me. But as something to "save"--positioning myself as savior. As "resources" being mismanaged by idiots, and I was the better manager.
-
-I couldn't yet see _why_ this was contaminated. But I could feel that something was off. The very framing--"save the planet"--positioned me as outside it. Above it. The savior fixing the broken thing. I was treating it like a problem to solve, a machine that had broken down. Not something alive. Not something I was _part of_. That separation, that hierarchy, was woven into how I related to it.
-
-I couldn't articulate why that mattered, but somehow I was sure that it did.
+Because of how I was deceiving myself about why I was doing it.
 
 ---
 
-My social activism. I could see it now too.
+That software project I was building. To "make people's lives better," I told myself. And I meant it--I genuinely cared about helping people. That part was real.
 
-Genuinely trying to help. I could see the oppression. I wanted justice. I was working for it.
+But watching it now, I could see something else woven through it. Something I hadn't let myself see.
 
-But I was positioning myself as _savior_. Looking down at those I claimed to help. Using their suffering as evidence of my righteousness. Getting quiet satisfaction from being "one of the good ones."
+I wanted the recognition. The status of being the person who built something important. The vindication of proving my vision was right.
 
-And contempt for the oppressors. Obviously. They deserved it, right?
+And I couldn't admit that. It would make me look bad. Feel bad. So I hid it from myself.
 
-But also contempt for the privileged who were blind. For those "on the wrong side." For the pace of change--why couldn't people just _see_?
+Which meant every decision--every single one--was contaminated.
 
-The work was genuine. But it spread darkness.
+When I chose the elegant solution over the simple one? I told myself "this is better engineering." But really, I wanted to show off my sophistication.
+
+When I ignored user feedback? I told myself "they don't understand the vision yet." But really, I didn't want to compromise MY vision for THEIR needs.
+
+When I pushed the aggressive timeline? I told myself "can't let perfect be enemy of good." But really, I wanted to launch before a competitor could, to get the credit.
+
+Every choice was justifiable. Every choice had good reasoning. And every choice was subtly biased toward what served ME, at the expense of the people I claimed to be helping.
+
+And my mind had designed it this way. So the real motive wouldn't be visible to me or others, even if pressed. There was always an escape hatch. Always plausible deniability.
+
+The genuine desire to help was real. But it was infected by the hidden motive I wouldn't admit. And those tiny biases in each decision compounded into real harm.
 
 ---
 
-Even teaching. Trying to help people learn, grow, understand.
+My environmental work was similar.
 
-But there was contempt for slow students. For those who "don't get it." Satisfaction in being the one who knows. The one who can explain. The smart one.
+I genuinely cared about the planet. That wasn't fake. But I also wanted to be one of the good ones. To feel righteous. To have enemies I could look down on--oil executives, climate deniers, people too lazy to recycle.
 
-Even when I was _nice_ about it, they could sense it. That subtle superiority underneath my patience. That positioning myself above them.
+And because I couldn't admit that second part, it infected everything.
 
-And it pushed them further from the truth I was trying to share.
+The contempt for "bad people" wasn't incidental. It was giving me permission. Permission to override concerns. Permission to ignore evidence that contradicted my preferred approach. Permission to dismiss anyone who questioned me--they must be part of the problem.
+
+"These people are destroying the planet, so my contempt is justified."
+
+That reasoning gave me an escape hatch. Made the hidden motive invisible.
+
+Every decision subtly tilted toward maintaining my righteousness, my enemies, my superiority. Even when it made the actual environmental work less effective.
 
 ---
 
-I started seeing it everywhere.
+My activism. Genuinely trying to help people who were oppressed. I could see the injustice. I wanted to fix it. That was real.
 
-That software project I was building to "make people's lives better." I was genuinely trying to help--I believed that. But watching it now, I could see contempt woven through every design decision.
+But I also wanted to be the savior. To look down at those I was helping. To use their suffering as evidence of my moral superiority. To be "one of the good ones."
 
-When users struggled with my interface, I felt contempt. "They're not thinking hard enough." When someone suggested a simpler approach, I felt contempt. "They don't understand elegance." When a team member raised concerns about harm, I felt contempt. "They're not seeing the bigger picture."
+Couldn't admit that. So it hid in the shadows, biasing everything.
 
-The contempt gave me permission. Permission to ignore the feedback. Permission to override their concerns. Permission to push forward despite the harm I was causing, because these people were "in the way of progress."
+When I made decisions about how to help? I chose approaches that kept me in the superior position. That kept them dependent. That made me feel good about myself rather than what they actually needed.
 
-I wasn't just building despite the contempt. The contempt was giving me permission to build the way I wanted, regardless of who it hurt.
+When they didn't appreciate my help the way I wanted? I'd feel resentment. "After everything I've done for them."
 
-Building something new? Contempt for competitors. For users who don't understand. For anyone in the way of "progress."
+Revealing that it was never really about them. It was about me. My identity. My self-image as a good person.
 
-Writing something true? Contempt for those who believe lies.
-
-Standing up for something right? Contempt for those on the wrong side.
-
-Every single project--no matter how genuinely good the intention--had become a vehicle for spreading the very darkness I claimed to fight.
+And I couldn't see it. Because I'd designed it so I wouldn't see it.
 
 And the worst part?
 
