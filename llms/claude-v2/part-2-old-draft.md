@@ -1,50 +1,125 @@
 # Part II: The Spreading
 
-Think about the person you mocked. After your contempt darkened their world, after they became more defensive, more self-deceived...
+◊
 
-Were they more likely to be kind to their family that night? Or less?
+The medicine began to reveal what I'd hidden—opened boxes I'd been too afraid to open.
 
-More patient with their kids? Or less?
+That colleague I'd shamed last week—how he'd gone home and been short with his wife, who'd been less attentive to her students the next day, just when that one kid really needed it. How my colleague had been less gracious in traffic than normal, and how that had rippled out through all the other drivers.
 
-More generous with strangers? Or less?
+I was the one who had set all that darkness in motion.
 
-Your contempt didn't just affect them directly. It spread. To everyone they encountered. To their family, their coworkers, the cashier at the store.
+I watched as traces of it reached an oil executive—exactly the kind of person I hated for ruining our planet. I watched it tip the balance of a crucial decision in the wrong direction. I saw the intense burden of his life; the hidden despair and abuse behind the squeaky clean image.
 
-Each person got a little less. A little more darkness in their day. And they, in turn, were a little more likely to spread it to others.
+I watched as his choice justified my contempt for him. How it proved he was fundamentally defective, and how my only option was to fight harder. Attend more protests. Get more *enraged.*
 
-One moment of your contempt, spreading outward in ripples.
+The medicine didn't want me to feel sympathy for him. It didn't *want* me to feel anything. It was just... showing me.
+
+Showing me who he was—and how I'd had a hand to play in making him that way. How it had served me.
+
+How it had licensed me to shave off a little for myself here or there. After all, my indiscretions were nothing compared to what *those* people do. If anything, I deserved it.
+
+How that feeling of "deserving it" had leaked out through my behavior in outrageously subtle ways that licensed others to do the same—and then, of course, how I'd judged them for that. And then patted myself on the back for calling out those hypocrites.
+
+But what hurt the most... what hurt the goddamn most... was that all this darkness had been the *point.* Not accidental. Not a side-effect of my good intentions. The whole point.
+
+I struggle to write this even now.
+
+That colleague—had he deserved it? In a way, yes—and it *had* brought more order to the team. But that benefit had been secondary. My darkness had seized on it as an opportunity to inject itself into that interaction, recognizing it as a way to spread itself into the world—where I could safely judge it from afar.
+
+The darker world had made my own darkness easier to hide—both from myself and others.
+
+That way, the problems of the world would always be due to the *bad* people. Not me.
+
+*That* was why I judged others—not just to avoid confronting my own complicity in the world's ills, but to darken their minds so that they would do it more, making mine harder to detect—which they subconsciously knew, making them dig in, fulfilling my clever prophecy. 
+
+And I needed them to be not just defective, but *fundamentally* so—so that all the subtle cruelty I'd visited upon them until that point would be justified. *They were beyond saving anyway.*
+
+*Oh God, why? Why, why, why?*
+
+The medicine showed all this gently. I don't think my psyche would have survived it otherwise. I'm still not sure it has.
+
+I saw shown how every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight.
+
+So what did I do? I created them. 
+
+I kept them trapped there.
+
+All while patting myself on the back for how *righteous* I was being. And it didn't even require overt cruelty. I could make it look nearly identical to genuine righteousness while still getting the job done. All I had to do was harbor *contempt*. Then I could point at what I had created and know, with absolute certainty, that evil was real and that it wasn't me.
+
+What kind of monster was I?
+
+◊
 
 ---
 
-And what about your allies? The friends you recruited to join your contempt?
 
-Did sharing that mockery make them kinder to others? Or did it give them permission to spread more contempt themselves?
+---
 
-Did it make them more likely to give people the benefit of the doubt? Or more likely to write people off?
+◊
 
-You coordinated a collective darkening. Not just of your target, but of everyone in the network.
+I was taken back to a specific moment where I had confronted someone *evil.*
 
-Each person you recruited carried it forward. Mentioned it to others. Looked at certain types of people differently. Became slightly colder, slightly more ready to judge.
 
-And those people spread it further.
 
-The ripples keep going. Each interaction slightly darker. Each person slightly more defensive, more self-deceived, more likely to spread it themselves.
+◊
 
-Maybe it dilutes as it travels—each transmission weaker than the last. But it spreads so broadly that the total darkness moving through the network is staggering.
+---
 
-Your single moment of contempt, now carried by hundreds of people. Affecting thousands of interactions. Darkening minds you'll never meet, in places you'll never go.
+The most horrible part was that none of this was new knowledge. It had always been there, in limbo. There's no way I would have admitted to knowing it at the time—because in a very real sense, I didn't. That's what's so bizarre. I *really didn't.* And yet I did—and I saw exactly where that knowledge had been hiding, within conscious reach.
+
+I was darkening the world for my own benefit, by hating the people who made it dark.
+
+---
+
+◊
+
+I saw how it didn't require hatred. Not overt malice, or even contempt as we think of it.
+
+How any time I perceived myself as inherently superior to anyone, for any reason, my own darkness was secretly at the helm, scanning for excuses to infect the world via some hidden channel that I'd never detect.
+
+
+
+
+which I had carefully engineered away any possibility of
+
+The medicine showed me how it had infected every area of my life. Nearly every choice, every action.
+
+
+
+How harshly I'd judged that guy for cutting me off, after letting myself off the hook for the same thing earlier that month.
+
+
+
+
+How I told myself I didn't do this—how I'd risen above it—and how that was just another form of the same trap. How my desire to see myself as a good person, to do charity work, was contaminated with the same energy.
+
+
+How I could *see* the self-deception so clearly in others. Why couldn't they? How it proved I had
+
+
+---
+
+And what about all the bonding you do with your allies in contempt for your enemies?
+
+Did you feel the bloodlust? Did that energy stay contained? Or did it follow them home...
+
+---
+
+I watched it all in horror, spreading outward.
+
+Darkening minds I'd never meet, in places I'd never go.
+
+But it had felt so *righteous.*
+
+
+
+
 
 ---
 
 You wanted them to be fundamentally defective. Because if they weren't—if your contempt was actually making them worse—then you'd have to stop. You'd have to face what you were doing.
 
 So you made them worse. And then used their worseness as proof they deserved it.
-
----
-
-But maybe you're thinking: "Okay, but that's just when I mock people. My actual work—my ideologies, my projects—those are different. Those are genuinely trying to make things better."
-
-Are they?
 
 ---
 
@@ -138,13 +213,11 @@ First, I had to see how far it went.
 
 That oil executive I have contempt for? The one making decisions that harm the planet?
 
-My contempt for them isn't just spreading darkness to them (though it does that). It's serving a function for me.
+My contempt for them isn't just spreading darkness to them. It's serving a function for me.
 
 Because as long as they're the problem—as long as they're the evil ones, the greedy ones, the ones destroying the planet—I don't have to look at my own choices.
 
 I can drive more than I need to because it's really their fault, isn't it? They're the ones keeping us dependent on fossil fuels. They're the ones making the destructive decisions. If they would just change, we wouldn't have this problem.
-
-My contempt for them lets me stay in limbo about my own behavior.
 
 ---
 
