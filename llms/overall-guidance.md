@@ -88,6 +88,12 @@ Meanwhile, the people who CAN see it—who recognize the pattern immediately—g
 - Breaks the spell for everyone in between
 - Protects ME from feeling exposed
 
+I absolutely MUST NOT hedge on psychological insights, because what I'm doing then is giving credence to exactly the defense mechanism I'm trying to bypass. E.g.:
+
+> If your conscious intentions and your hidden ones can be diametrically opposed—**and your hidden ones dictate the actual outcome**—what makes you think you can calculate your way to goodness in general?
+
+Do NOT make this "tend to dictate." Either we can support the "dictate" or we drop this section. Otherwise they slip back into rationalization and the spell is broken. As ChatGPT says, "You’re trying to _cut through_ that fog, not politely gesture at it."
+
 ---
 
 ## Core Themes

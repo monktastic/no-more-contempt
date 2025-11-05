@@ -3,6 +3,33 @@
 [Alt ending: Maybe we've been looking in the wrong place?]
 [An example of fighting evil with integrity?]
 
+
+
+
+
+
+
+The full ruse requires them to be aware of your malice while you aren't. How does *that* work?
+
+Try this: imagine giving someone a dehumanizing glare. It sends a shudder down the spine—because it feels like it somehow contains the distilled essence of evil, doesn't it?
+
+That look would certainly convey malice—but you'd be aware of it, which has two problems: first, you'd both know their accusation was right, so the ruse would backfire. And second, you can't really do this to someone with full awareness, can you? Your basic human decency prevents it.
+
+But if you did it from the limbo state? It would solve both problems at once.
+
+They would not only sense the malice; they would instinctively recognize that you're shielding yourself from it, meaning you know it's a ruse. And they'd sense you know that, too, adding on plausible deniability. And you clearly know that, too...
+
+And the recursion doesn't stop there; it keeps on going. Can you feel that? That hidden-yet-revealed-ness gives it a hall-of-mirrors quality—and *that's* what makes it work.
+
+It would spread darkness without you having to *do* anything, and without leaving any evidence behind.
+
+That's what contempt *is*: a way to guarantee transmission of this malevolent signal while covering its own tracks. The mockery was just a convenient delivery vehicle.
+
+The hiding *is* the revealing. The intent *is* the execution.
+
+Diabolical.
+
+---
 ## The Purpose
 
 But here's what's strange: you needed them to get worse. Not just look bad in that moment—but actually *become* worse. More defensive, more self-deceived, darker.

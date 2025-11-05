@@ -14,8 +14,6 @@ The limbo state isn't just about avoiding guilt. It's how we _license ourselves_
 
 It's a profound form of self-deception—but it doesn't make you bad. We all do it, as a kind of defense against a seemingly-uncaring world. In ourselves, we see it as a minor flaw, but when others do it, we see them as "bad"—giving us one more thing to have to defend against.
 
-Notice how the limbo state was itself in limbo: you've always known about it but likely never brought it fully into conscious awareness.
-
 ---
 
 ## The Signal
@@ -26,7 +24,7 @@ This is a bit malicious, so we hide it from ourselves—that limbo state—and y
 
 What you see is a person who became defensive in response to your righteous behavior, instead of introspecting and thanking you for your wisdom. They're implicitly accusing _you_ of being evil. _Strike two._
 
-But part of you suspects some truth in their accusation—and yet how could they possibly know about your hidden malice? You barely knew it yourself. So their accusation can't be based on anything real. They must be projecting their own darkness onto you. _Strike three._
+But part of you suspects some truth in their accusation—and yet how could they possibly know about your malice? You barely knew it yourself. So their accusation can't be based on anything real. They must be projecting their own darkness onto you. _Strike three._
 
 This person is well and truly defective, justifying your contempt.
 
@@ -36,55 +34,55 @@ But part of you suspects you intended this. So you must bury it even harder...
 
 ---
 
-What better way to make someone dig in their heels than to hint that you want them to, while pretending you don't?
+But how does the ruse actually work?
 
-It's diabolical—but how would you pull it off?
+Well, they couldn't just sense your malice—they could sense that you were hiding it from yourself. So they knew that if they called you out on it, you'd just feign ignorance—and really believe it. And you *wanted* them to know that, because that's what makes it so devious... and they could sense that, too. Which you *also* wanted them to know...
 
-If you knew you were doing it, it wouldn't work—it would be too obvious to both of you. But if you didn't, then how could you do it at all?
+Can you feel how it spirals? The recursion doesn't stop—it just keeps reflecting, creating that dizzying hall-of-mirrors feeling. It's like a shared secret: "*we both know what I'm really doing... and that I'll get away with it, because there's no way you could ever prove something so absurd.*"
 
-So you would have to simultaneously know and yet not.
+You didn't have to *do* anything to darken their mind. The hidden intent executed itself through this recursive spiral. The mockery was just a convenient delivery vehicle.
 
-In fact... that's _all_ you'd have to do. Simply telegraphing your *intent* to drive them into the dark, while pretending you're not, would be enough to actually cause it. The intent *is* the execution.
-
-Your attempt to keep it hidden from yourself *is* your way of showing it to them. You're not hiding it *and* revealing it: the hiding *is* the revealing.
-
-The message gets delivered perfectly while remaining invisible. The perfect crime.
-
-And the signal did all the work. The mockery was just a convenient delivery vehicle.
-
-Your intellect couldn't have pulled it off—in fact, it had to be kept in the dark about the whole thing. Something else in you delivered this paradoxical signal.
+The hiding *is* the revealing. The intention *is* the execution.
 
 ---
 
-Isn't there a part of you that already knew this is what happened? That all of us are doing this, in various forms, all the time?
+Is there some part of you that benefits from knowing your enemies really are as bad as you feared—like it helps the world make sense?
 
-We all know this is happening.
+Is there a part that would benefit from making them *worse*? It would certainly give you more leeway in dealing with evil. Loosen the shackles, so to speak...
 
-So why is nobody talking about it? Why has nobody named it?
+That's a bit horrifying to think about. So that part would have to keep itself hidden from view—especially while it was busy accomplishing its goals.
+
+Almost like it's doing your dirty work for you while giving you plausible deniability. 
 
 ---
 
+Isn't there a part of you that already knows this is what's happening? That all of us are doing this, in various forms, all the time?
+
+We all know.
+
+So why is nobody talking about it? Why has it not been fully pulled out of collective limbo?
+
+---
 ## Shielding
 
 If you could see the person fully—if you knew their hopes, dreams, and fears—this would have been hard to pull off, wouldn't it? You had to shield yourself from something. But what was it?
 
-Their full humanity. You don't need their life story to see yourself in them—that's just how you are before the shielding. To not see it, you have to be in limbo: simultaneously feeling their humanity while refusing to fully acknowledge it.
+Their full humanity. You don't actually need their life story to see yourself in them—that's just how you naturally are before any shielding. And even the shielding can't make it fully go away—it can only hide it. There's a part of you that always sees it, buried beneath the part pretending not to.
 
-Which means the very feeling of contempt—for the *person themselves*, not just their beliefs or behaviors—is the sign that you're in limbo. In that darkened state, you cannot help but wish harm—and that wish seeks fulfillment.
-
-And what would happen if you turned that shielding knob up to its maximum?
-
-Then you'd know what it's like to be *evil*.
-
-Evil people don't do a different thing than the rest of us—they just have a stronger version of the same thing. It's not that they don't know—it's that the knowledge is correspondingly better hidden.
-
-And the stronger someone else's shielding, the stronger the urge to feel contempt for them—as though theirs is somehow *inviting* ours.
+Which means the very feeling of contempt—for the *person themselves*, not just their beliefs or behaviors—is an unmistakable sign that you're in limbo. In that darkened state, you cannot help but intend harm—which your target picks up on.
 
 ---
 
+What would happen if you turned that shielding knob up to its maximum?
+
+Then you'd know what it's like to be *evil*.
+
+Evil people don't do a different thing than the rest of us—they just have a stronger version of the same thing. It's not that they don't know they're doing wrong—it's that the knowledge is correspondingly better hidden.
+
+---
 ## The Stranger
 
-Now suppose a stranger walks in and scolds you for mocking that person. Part of you _knows_ they're right in their accusation—that you're doing essentially the same thing that "evil people" do—but do you thank them for it and repent?
+Now suppose a stranger walks in and scolds you for your behavior. Part of you _knows_ they're right in their accusation—that you're doing essentially the same thing that "evil people" do—but do you thank them for it and repent?
 
 Hell no! You feel more justified in your behavior. You—a perfectly decent person who knows full well you've done wrong—still dig in your heels when treated with contempt. Why?
 
@@ -92,9 +90,12 @@ It's not just because of your big ego. It's because _you can tell they're not co
 
 What does that tell you about the people _you_ treat with contempt—even when you're saying all the "right" things; even when you're on the "right side?"; even when they're genuinely wrong?
 
-Don't we already know our contempt makes people worse?
+So we already know that contempt darkens minds, and evil people have the darkest minds of all.
+
+What exactly are we doing by feeling contempt for them?
 
 ---
+
 ## The Transmission
 
 Now watch how the game unfolds—how the hidden signal actually transmits.
@@ -129,11 +130,12 @@ Maybe that visceral sense of *badness* is just what's needed for us to feel okay
 
 Now think back to a time you acted out of pure integrity. Were any justifications needed?
 
-And a time when you were wrong and someone confronted *you* out of that same integrity. Did you want revenge? How could you tell they were coming from a good place? No, really—how?
+And now a time when you did wrong and someone confronted *you* out of that same integrity. Did you want revenge? How could you tell they were coming from a good place? No, really—how?
 
 What were they serving in that moment?
 
 ---
+
 ## We already know
 
 Doesn't part of us already know this is how it works? **Why aren't we all talking about this?**
@@ -159,3 +161,4 @@ Could that part be what's collectively steering this ship?
 It sure would explain a lot, wouldn't it?
 
 ---
+

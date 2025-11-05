@@ -1,3 +1,12 @@
+
+- How similar clean and infected behavior can be made to look (Part I)
+- Can you feel how wise/kind people aren't hiding anything from themselves?
+	- The hiding is the revealing
+
+**Part 2:**
+- How my dark side sought ways to exploit that ambiguity.
+
+
 righteous anger = malevolence
 
 ---

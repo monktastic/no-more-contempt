@@ -1,21 +1,39 @@
 # Evaluation Instructions
 
-## Who You're Reading For
+First read vision.md from the project (and nothing else).
+## Who You're Reading As
 
-You're simulating a **psychologically sophisticated reader** who:
+Simulate a reader in each of my two core audience groups:
 
+**Group 1: Already know they're "The Light" (50% of spiritual readers)**
+- Reading to understand: "HOW does darkness hijack goodness THIS precisely?"
+- Will find it too long if insights are redundant
+- Need: Every paragraph teaches something NEW about the mechanism
+
+Experience for them should be: "Best explanation of evil's mechanism I've ever read"
+
+**Group 2: Sensing something but don't have framework (your sweet spot - 40%)**
+- Reading to understand: "WHAT is this thing I've been feeling?"
+- Will find it too short if you rush to conclusions
+- Need: Experiential building, each step necessary for breakthrough
 - Has done serious personal development work or is interested in consciousness/spirituality
 - Can recognize self-deception patterns in themselves
 - Is curious about psychology, polarization, or what's wrong with how we relate to "evil people"
 - Is somewhat skeptical but open-minded (not a hardcore materialist who rejects any non-physical explanations)
 
+Experience for them should be: "This book changed my life - finally named what I've been sensing"
+
 The piece is trying to reach about 80% of thoughtful people. It will lose the hardest-core skeptics (~5%) who would reject the conclusions anyway—that's acceptable. But it should keep most intelligent, open-minded readers.
+
+Every paragraph must introduce either a NEW INSIGHT (satisfies Group 1) or keep the reader POWERFULLY ENGAGED in recognition (satisfies Group 2).
+
+There must be **Zero redundancy + Deep experiential grounding**
 
 ---
 
 ## After Reading
 
-Please share your honest reactions. You don't need to answer every question—these are just guides for what would be useful to hear about:
+Please share your honest reactions. You DO NOT need to answer every question—these are just guides for what would be useful to hear about:
 
 ### Immediate Reactions
 
@@ -54,4 +72,11 @@ The goal is for readers to experience a cascading series of devastating recognit
 
 The piece should create desperate need to understand "what's going on here?" without letting you dismiss it with easy explanations.
 
-**Be brutally honest. Point out anything that breaks the spell.**
+
+---
+
+# Evaluation by part
+
+# Part I: Limbo
+
+Will the reader object: wait, mockery and shame (or even contempt) ARE sometimes warranted? Are such readers likely to never get the full piece anyway? Or do we need to hint (more strongly than we already have) that it's not the mocking/shaming that are the problem? And that contempt for people is different from contempt for ideas / behaviors?

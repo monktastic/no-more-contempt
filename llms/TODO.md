@@ -1,3 +1,12 @@
-**Part I:**
+ChatGPT says this. Lean on it harder:
 
-**The ending is slightly weak**: The questions are good, but there's no buildup of the "this is completely obvious" part that the guidance emphasizes. You go straight to "Why is nobody talking about this?" without first establishing how utterly obvious it is. The guidance says: > "This isn't some subtle insight. This isn't advanced psychology. Every single person knows what contempt feels like to receive..." You have this, but it needs to hit harder before the "why is nobody talking about this?" question.
+> people often notice that their “real” motives leak out in tone, timing, energy, and consequence.
+
+
+
+> You called it honesty. But you knew, somewhere in the tone, it was revenge.
+
+> You can feel it right now, can’t you? That tightening in your chest when you imagine being caught in the act.
+
+
+the system has defense mechanisms to keep itself broken, and it works through the thing i’m pointing out
