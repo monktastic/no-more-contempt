@@ -176,20 +176,6 @@
             }
           },
           {
-            "id": "09318f50fd83d0a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
             "id": "fbf98abd6f5cc461",
             "type": "leaf",
             "state": {
@@ -204,17 +190,17 @@
             }
           },
           {
-            "id": "36c1914f5bdcaca8",
+            "id": "09318f50fd83d0a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/drafts/claude-2025-10-17d.md",
+                "file": "llms/claude-v3/part-1-old.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-2025-10-17d"
+              "title": "part-1-old"
             }
           },
           {
@@ -223,16 +209,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/key-points.md",
+                "file": "llms/claude-v3/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key-points"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "ed54d40fb1d8049b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quotes"
+            }
+          },
+          {
+            "id": "1facf229b2f5209d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-v3/part-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "part-1"
+            }
+          },
+          {
+            "id": "2baf3a7ae020b41a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-v2/part-0-final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "part-0-final"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -264,7 +292,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"every attempt\"",
+                "query": "recoil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,8 +313,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -382,44 +409,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23f1966b593f0ee2",
+  "active": "1facf229b2f5209d",
   "lastOpenFiles": [
-    "llms/claude-v2/part-i-final.md",
-    "llms/claude-v2/part-ii-final.md",
-    "llms/claude-v2/part-iii-final.md",
-    "llms/claude-v2/part-iv-final.md",
-    "scratch/bad-people.md",
+    "llms/claude-v3/Untitled.md",
+    "llms/claude-v3/part-1.md",
+    "llms/claude-v3/TODO.md",
+    "llms/claude-v3/outline.md",
+    "llms/claude-v3/poem.md",
+    "llms/claude-v3/cutting-room-floor.md",
+    "llms/claude-v2/part-2-final.md",
+    "llms/claude-v2/part-1-final.md",
+    "llms/claude-v3/part-1-old.md",
+    "llms/claude-v2/part-0-final.md",
+    "quotes.md",
+    "llms/paradoxes.md",
+    "llms/overall-guidance.md",
+    "llms/vision.md",
+    "llms/drafts/claude-2025-10-23b.md",
+    "llms/drafts/claude-2025-10-24g.md",
+    "scratch/the-darkness.md",
     "scratch/key-points.md",
-    "llms/drafts/claude-2025-10-21c.md",
-    "llms/claude-v1/Part-1-final.md",
+    "scratch/graveyard.md",
+    "llms/claude-v3/poem-todo.md",
+    "llms/claude-v2/part-2-old-draft.md",
+    "scratch/chapter-bullets.md",
+    "llms/enlightened-evaluation.md",
+    "llms/TODO.md",
+    "scratch/bad-people.md",
+    "llms/claude-v2/TODO.md",
+    "llms/claude-v3",
+    "llms/claude-v2/misc-notes",
+    "llms/claude-v2/part-3-notes",
+    "llms/claude-v2/part-ii-redo",
+    "llms/claude-v2/TODO",
+    "llms/claude-v2/untitled folder",
     "llms/claude-v2",
     "llms/claude-v1",
-    "llms/Untitled.md",
-    "llms/overall-guidance.md",
-    "llms/evaluation-guide.md",
-    "llms/drafts/claude-2025-10-24g.md",
-    "llms/claude-v1/Part-2-guidance.md",
-    "quotes.md",
-    "llms/drafts/claude-2025-10-17d.md",
-    "llms/drafts/claude-2025-10-25a edit.md",
-    "llms/claude-v1/Part-1-structure.md",
-    "llms/TODO.md",
-    "llms/misc/new-journey.md",
-    "scratch/notes-with-will.md",
-    "llms/misc/TODO.md",
-    "llms/misc/Praise.md",
-    "scratch/scratch.md",
-    "chapters/compassion.md",
-    "variatons.md",
-    "scratch/short.md",
     "llms/drafts",
     "llms/misc",
-    "llms",
-    "untitled folder",
-    "history_part_9.txt",
-    "history_part_8.txt",
-    "history_part_7.txt",
-    "history_part_6.txt",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",

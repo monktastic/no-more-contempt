@@ -1,6 +1,22 @@
+
+In your most honest, authentic moments, don't you see the good in others more easily? Where does that perception go the rest of the time?
+
+It actually never goes anywhere. We just *turn away* from it for various reasons, so that it seems like we can't see it. And we're never fully turned *toward* it, either—until, perhaps, enlightenment.
+
+If you *were* fully turned toward it, can you envision how you might be able to perceive this same capacity in literally everyone else—including the people you now see as evil?
+
+So it's not missing from their conscious experience either. They're just turned away from it harder—which means that a deeply hidden part of them can always see it in *you,* too. 
+
+I know this may be hard to imagine, but watch where it goes.
+
+If I can see it in you, and you can see the part of me *that sees it in you*, then we have a perfect hall of mirrors: I know that you know that I know... *ad infinitum*.
+
+
+---
+
 # Part 1
 
-Telegraphed itself to you!
+Telegraphed itself to you.
 
 I knowingly darkened the world.
 

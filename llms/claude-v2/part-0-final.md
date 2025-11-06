@@ -18,7 +18,7 @@ What follows is an attempt to show you what I saw—and why it matters more urge
 
 I came to call this hidden mechanism "the pattern"—or, when it shows its face, "the darkness."
 
-As I write about it, you'll probably sense it operating in me—in my tone; in the way I'm subtly positioning myself as having figured it all out. I haven't—but I think it's helpful enough to share that I don't want to wait til I'm enlightened.
+As I write about it, I can feel it operating in me right now—in my tone, in the subtle satisfaction of having "figured something out," in the way I'm positioning myself. I haven't escaped this pattern. But I think what I've seen is important enough that I don't want to wait until I'm enlightened to share it—because that waiting itself feels like another form of the pattern.
 
 *(A note: This essay contains material about trauma and abuse that some may find difficult. If you've experienced severe trauma, please see the note in the Appendix before continuing, or proceed with care and consider having support available.)*
 

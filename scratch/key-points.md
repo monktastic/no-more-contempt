@@ -1,7 +1,7 @@
 
-- Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe." (needs an example of me delivering that dark message)
+L2 - Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe." (needs an example of me delivering that dark message)
 
-- Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check. What a crock. What... a... fucking... crock.
+L1 - Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check. What a crock.
 
 L0: If there were really an inner Light, we'd be able to prove it, right? And since we can't prove it, there's no point looking for it.
 
@@ -49,8 +49,6 @@ L0: If there were really an inner Light, we'd be able to prove it, right? And si
 
 
 
-**L0** - Why do we create evil? It's so that we can continue to believe that all the problems of the world are caused by something fundamentally alien to us—the result of _inherently defective_ people whom we could never hope to understand, let alone help. Sure, we may sometimes commit little misdeeds here or there, but they're of a fundamentally different nature than the _real_ darkness that plagues our world, and so cleaning up our own behavior ranks way down in the list of problems to solve.
-
 L0: As long as that subtle trace of contempt exists anywhere in my field of experience, directed at anything—and this is often very hard to detect—it means that I'm not actually acting in service to whatever I *think* I am. My actions are subtly degrading the whole, and even worse, they're secretly *meant* to, so that I can justify more subtle contempt.
 
 **L1** - The background hum of casual cruelty: The darkness doesn't just spread through dramatic confrontations. It spreads through the constant background hum of casual contempt—YouTube comments, Reddit threads, Twitter pile-ons, Facebook snark. Each instance seems tiny, meaningless, but they're cumulative. They act like radiation, creating an atmosphere where everyone's baseline cynicism rises slightly, where everyone's default assumption about strangers becomes darker. This is what feeds the great evils. The oil executive making his harmful choice, the politician telling her lie—they're swimming in this sea of casual cruelty. It's made the world just dark enough that their self-deception becomes easier to justify. Every contemptuous comment you don't make turns down the volume on that hum, making the atmosphere less hospitable for darkness to spread.
@@ -93,7 +91,8 @@ L1: Took me back to how it felt hurting bad people. Impossibly righteous. Immedi
 
 L0: On one level, we're fighting. On the second level, my parasite is provoking yours. Third level: oh shit, they're working together!
 
-L1: "Every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight. So what did I do? I created them. I kept them trapped there. All while patting myself on the back for how *righteous* I was being. And it didn't even require overt cruelty. I could make it look nearly identical to genuine righteousness while still getting the job done. All I had to do was harbor profound *contempt*. Then I could point at what I had created and know, with absolute certainty, that evil was real and that it wasn't me."
+L1: "Every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight. Sure, we may sometimes commit little misdeeds here or there, but they're of a fundamentally different nature than the _real_ darkness that plagues our world, and so cleaning up our own behavior ranks way down in the list of problems to solve. So what did I do? I created them. I kept them trapped there. All while patting myself on the back for how *righteous* I was being. And it didn't even require overt cruelty. I could make it look nearly identical to genuine righteousness while still getting the job done. All I had to do was harbor *contempt*. Then I could point at what I had created and know, with absolute certainty, that evil was real and that it wasn't me."
+
 
 L1: When I am shoving another person into the dark while trying to look righteous, part of them knows what I'm doing, and I know that, and they know I know that, ad infinitum. That's what makes it so effective. This is called "common knowledge" in game theory. This mutual knowing operated beneath words, yet landed with perfect precision.
 
