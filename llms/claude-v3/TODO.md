@@ -18,22 +18,17 @@ If I can see it in you, and you can see the part of me *that sees it in you*, th
 
 I knowingly darkened the world.
 
-Lean into the horror of having knowingly darkened the world, and yet how it came from a fundamentally innocent place. And then really emphasize that we're just pulling this out of limbo, which means that we already know it. And once the knowing is made conscious it cannot survive. Darkening the person's mind was a self-fulfilling prophecy. And yet it may have made things seem better locally even though it harmed things globally. 
+Lean into the horror of having knowingly darkened the world, and yet how it came from a fundamentally innocent place (genuine desire to fight evil). 
 
-This thing thrives in the shadows. Survives on plausible deniability. 
-Externalized costs. This is a microcosm of what's happening on our planet.
+And then really emphasize that we're just pulling this out of limbo, which means that we already know it. And once the knowing is made conscious it cannot survive. Darkening the person's mind was a self-fulfilling prophecy. And yet it may have made things seem better locally even though it harmed things globally—which is part of why we trust it.
 
-The things we think we want under the way of this thing are not what we actually want.
+This thing thrives in the shadows. Survives on plausible deniability.
 
-Your cognitive and perceptual apparatuses are compromised. 
+Connect it to externalized costs (I benefited myself in this interaction at the world's expense, but wrote it off). This is a microcosm of what's happening on our planet.
 
 The deepest need is to see the problems of the world as due to something foreign to myself.
 
 Those things we were serving, now we can name them better.
-
-it pulled things out of limbo
-
-This may need more about the coordination aspect first, or else it feels like personal failing:
 
 "Here's the thing: I didn't teach you something new just now. You already knew it. How do I know? Because I know you recognized it. That flash of 'oh fuck'—that wasn't learning, that was remembering.
 And you know that I know you knew it. And I know that you know that I know. This is common knowledge—but held in limbo. We've all been maintaining this collective self-deception together.

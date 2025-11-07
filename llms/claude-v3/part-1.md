@@ -1,6 +1,6 @@
 # Part 1: Limbo!
 
-Have you ever been so angry you’d let the whole world burn to satisfy your white-hot rage? In that moment, didn’t it feel _righteous_?
+Have you ever been so angry you’d let the whole world burn to satisfy your white-hot rage? In that moment, didn’t it feel *righteous*?
 
 Now think of a time you acted with fierce integrity, even at great cost to yourself. That felt righteous, too.
 
@@ -61,29 +61,25 @@ You can sense a kind of hiddenness—like something in them was *showing* itself
 
 ---
 
-That's already pretty strange. But it gets stranger: making you worse is only a subordinate goal on the way to a much larger score for this thing.
-
-To see how, we need to broaden our scope.
+That's already pretty strange. But making you worse is only a subordinate goal on the way to a much larger score for this thing.
 
 ---
 
 ## Conscience
 
-Have you ever done something you knew was wrong at the time, but couldn't fully admit that to yourself until later? Maybe you said something cruel to boost your ego, or took credit for someone else's work, or cheated on a test (or even partner).
+Have you ever done something you knew was wrong at the time, but couldn't fully admit that to yourself until later?
 
 While you were doing it, wasn't your mind creating justifications for why it wasn't *really* wrong?
 
-Notice an asymmetry here: the part that knew it was wrong—your conscience—wasn't trying to justify itself. It just... *was*. And the justifications weren't there to convince *it*; they were there to convince *you*—that it was just one more voice among the chaos, equal with all the others.
+Notice an asymmetry here: the part that knew it was wrong—your conscience—wasn't trying to justify itself. It just... *was*. The justifications weren't there to convince *it*; they were there to convince *you* that it was just one more voice among the chaos.
 
 But it wasn't.
 
-That part of us can never be truly silenced. All we can do is ignore it better.
-
-So that's what you did—and yet some part of you sensed that this wouldn't end well, didn't it? That this deception would come back to bite you, even if nobody else ever knew?
-
-Notice how both halves—the undeniable wrongness and the certainty of rightness—were actually conscious **the entire time**. Not hidden in some unconscious realm waiting to emerge. Right there. You just kept your attention carefully turned away.
+We can never truly silence it. All we can do is ignore it better. So that's what you did—and yet some part of you sensed this wouldn't end well, didn't it? 
 
 You might have convinced yourself you didn't "really" know, right up until you were able to admit it—at which point you saw that you always had.
+
+Both halves—the undeniable wrongness and the certainty of rightness—were actually conscious **the entire time**. Not hidden in some unconscious realm waiting to emerge. Right there. You just kept your attention carefully turned away.
 
 ---
 
@@ -91,7 +87,7 @@ You might have convinced yourself you didn't "really" know, right up until you w
 
 In this way, knowledge can exist in a kind of "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we did.
 
-_That_ is the "off" feeling you're sensing when you're on the receiving end of contempt—that I'm hiding something from myself. And you instinctively know what that means—because the only time you do that is when you're disobeying your _own_ conscience. And the lack of this is what you sense as integrity in others.
+*That* is the "off" feeling you're sensing when you're on the receiving end of contempt—that I'm hiding something from myself. And you instinctively know what that means—because the only time you do that is when you're disobeying your *own* conscience. And the lack of this is what you sense as integrity in others.
 
 What things might you be hiding in limbo *right now*? How would you ever know it?
 
@@ -101,9 +97,7 @@ The part of us causing all this doesn't want us to ask this. In fact, it wouldn'
 
 Thinking back to when you felt contempt for your enemy, notice how the same mechanism was at play. You already know contempt makes your enemies worse, don't you? And you don't forget this while you're doing it—you just hide it from yourself.
 
-And there's more.
-
-You also know there's a way to combat your enemies without making them worse—you recalled it in the opening. So what purpose did the contempt actually serve? *That knowledge is there too, but still hidden in limbo.*
+You also know there's a way to combat your enemies without making them worse—you recalled it in the opening. So what purpose did the contempt actually serve? Hint: it wasn't yours.
 
 ---
 
@@ -113,7 +107,7 @@ And that time you did wrong—wasn't it hard to admit because you knew you had b
 
 Isn't that in direct conflict with your conscious values?
 
-And remember that moment of white-hot rage from the opening—where you'd let the whole world burn? Looking back now, doesn't it feel like something else had taken control of the wheel? Like "whoa, that wasn't _me_?"
+And remember that moment of white-hot rage from the opening—where you'd let the whole world burn? Looking back now, doesn't it feel like something else had taken control of the wheel? Like "whoa, that wasn't *me*?"
 
 Same thing here, just milder.
 
@@ -173,27 +167,9 @@ Also notice how the unprovability is a feature, not a bug. It is a core aspect o
 
 ---
 
-## !!
-
-What just happened here is worth lingering on.
-
-I didn't discover this pattern, or even teach it to you. You already knew it. But it was _implicit_ common knowledge: we all knew it, and that everyone else did, etc.—but we all pretended not to know it. And that pretense is what gives it power.
-
-By naming it explicitly, something fundamental changes. Now when you see this pattern operating—in yourself or others—you don't have to maintain the polite fiction. You can point at it. We can point at it together. Not out of contempt! But out of integrity.
-
-Explicit common knowledge is much, much harder to hide from.
-
-Like the kid's words in the Emperor's New Clothes tale, this gives us something to point to and say: "See? We can all stop pretending now."
-
-That's what much of this book is actually attempting to do.
-
-## !!
-
----
-
 When I say my world becomes darker as a result, I don't mean it in some abstract sense. After this encounter, I don't just *think* you're bad, I now *see* it; *feel* it more clearly than before. I then subtly override more of my morals to ensure you don't win—but it feels like a righteous necessity.
 
-This isn't a separate mechanism from the one that deepens my capacity for self-deception, but the core mechanism behind it. I need to have "external evidence" that the world really is dark, so that I "know" I'm not just deceiving myself. So the darkness must *manufacture* it.
+This isn't a separate mechanism from the one that deepens my capacity for self-deception, but the core mechanism behind it. I need to have "external evidence" that the world really is dark, so that I "know" I'm not just deceiving myself—and so the darkness *manufactures* it.
 
 This is what makes it so insidious. My cognition and perception are being manipulated—the very things I would use to detect the subterfuge in the first place. *Of course* my darkness wouldn't let me unveil it by thinking harder or more clearly about it—or else humanity would have solved this problem long ago.
 
@@ -201,17 +177,15 @@ Remember what it was like when you were feeling contempt? You weren't thinking "
 
 But it was all a lie.
 
-**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want.**
+**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want.** And you cannot think your way out of this.
 
-Yet there's a part of us that _always knows whether we're in limbo, and what we are hiding._ Otherwise it wouldn't be limbo.
+Yet there's a part of us that *always knows whether we're in limbo, and what we are hiding.* It's closely connected to our conscience, but that word barely scratches the surface.
 
-We called it our "conscience" earlier, but that word barely scratches the surface.
-
-There is an aspect of your mind that never falls for your shenanigans, and it is always available. It's the part that feels most like "you." In your moments of deepest integrity, you don't have to justify anything to yourself; you just _know._ You know what you're in service to, even if you can't name it.
+There is an aspect of your mind that never falls for your shenanigans, and it is always available. It's the part that feels most like "you." In your moments of deepest integrity, you don't have to justify anything to yourself; you just *know.* You know what you're in service to, even if you can't name it.
 
 Numerous traditions have pointed to this part of us—but when described in its entirety, it begins to sound mystical or spiritual. And since modern secular culture is deeply suspicious of such language, we have thrown out the baby with the bathwater.
 
-Let that sit for a moment. Which part of us would have an incentive to keep us suspicious of naming the one aspect that can actually detect our darkness?
+Let that sit for a moment. Which part of us would benefit from keeping us suspicious of naming the one aspect that can actually detect and defeat our darkness?
 
 ---
 
@@ -243,48 +217,68 @@ And here's what we miss: even at that extreme, that original pain of harming oth
 
 What evil people do, and the contempt we feel for them—same essence, radically different scales. We have as hard a time recognizing our mild version as they do their profound one.
 
-This is also why malice and hiding aren't two separate requirements to achieve the hall-of-mirrors effect: malice is only possible when there is hiding.
-
 ---
 
 ## Integrity
 
-This last bit deserves a bit of clarification, or else it might sound like we're saying "don't judge (or fight) evil people."
+Let me be clear: we are not saying "don't judge (or fight) evil people."
 
-Think back to the integrity examples in the opening. Can you feel how they were designed to make things better, not worse—and how you *knew* that intent, through and through? Can you feel how this is possible, even if violence is unfortunately required?
+The part of us that wants to confuse clean anger with the contemptuous kind? That's the darkness.
 
-THAT is what fights the darkness. And it never feels remotely dark itself. There's no satisfaction in having caused harm.
+To let contempt for beliefs and behaviors bleed into contempt for people? Darkness.
 
-There's nothing wrong with judging people if judging simply means "wise discernment." Of *course* we must identify evil and fight it. But the moment it crosses over into contempt; into that felt sense of the person being *inherently* defective—ontologically different from you—it's the darkness creeping in the back door.
-
-Similarly, contempt for beliefs and behaviors is a very different kind of thing than contempt for people, and isn't necessarily harmful—but it's easy to conflate the two.
-
-Finally, notice how correcting someone with integrity and correcting them with contempt both feel "righteous" in the moment—and yet those two kinds of righteous don't feel at all the same, do they?
-
-So there *is* a way to tell—it's just not easy to describe (or to perfect).
+Fighting evil with fierce, unflinching integrity—that's what actually works. We'll explore it further later.
 
 ---
 
-As you may have guessed, the extent to which our minds are colonized by darkness is not binary—it lies on a continuum. And unless you are enlightened, it's not exactly zero. 
+As you may have guessed, the extent to which our minds are colonized by darkness lies on a continuum. And unless you are enlightened, it's not zero.
 
-**This means our cognitive apparatus is essentially _always_ hijacked to some degree. Our thoughts are almost _always_ being subtly manipulated in furtherance of a world we don't actually want.** 
+**This means our cognitive apparatus is essentially _always_ hijacked to some degree. Our thoughts are almost _always_ being subtly manipulated in furtherance of a world we don't actually want.**
 
 Now imagine: what does a world look like when this is true for _everyone_?
 
-If you can feel even the slightest trace of malice, contempt, or self-righteousness toward _anyone_... I'm sorry to say, that **is** the darkness operating in you. If you were face to face with them now, it would be very hard to avoid letting it leak out, thereby strengthening theirs. So it operates in a latent fashion, waiting.
+If you can feel even the slightest trace of malice, contempt, or self-righteousness toward _anyone_—that **is** the darkness operating in you. If you were face to face with them, it would be very hard to avoid letting it leak out, thereby strengthening theirs.
 
-My perception of the world as a collection of fundamentally defective people I must valiantly overcome—that's actually a measure of how deeply I'm burying that fear about _myself_. And for that very reason, the deeper in I go, the less willing I am to even _countenance_ this notion. That's what makes this thing so hard to defeat.
-
-And even if you were somehow free of all dark sentiments, there are still much subtler forms operating in your perception.
-
-But we'll get to that later. For now, I want to show you why this matters so much.
+And even if you were somehow free of all such sentiments, there are still much subtler forms woven into your perception of reality itself. But we'll get to that later.
 
 ---
+## A Note on Responsibility
+
+It feels shameful to admit when we've been doing this, doesn't it?
+
+This thing—it protects itself by using our own morality against us. You feel ashamed because you *don't* want to harm others. This makes it hard to look clearly at what you've been doing—which means you can't inspect it carefully enough to see how it takes control.
+
+This also connects to how we've been calling it a "thing" that is "using us."
+
+If I treat it as an external entity, then that both absolves me of responsibility and gives me one more thing to feel contempt for—which just lets it slip in the back door. This is the trap a lot of religion falls into: treating the Devil as something "out there" that I'm valiantly fighting against—never realizing that my own self-righteousness *is* it.
+
+On the other hand, if I take it as completely me, then there will always be this layer of shame protecting it.
+
+There's a middle way. It is certainly me—and it is *you*, when you fall into it—and yet there's also a sense in which it's not. It's more like a pattern we fall into; a trap that's always waiting.
+
+It is this combination—holding my feet to the fire while also pointing me past that part of myself to what is deeper—that empowers me to heal it. That is the gift the medicine offered me. It is the gift I can offer others. And it is what I hope this book offers you.
+
+
 ## Epilogue
 
-TODO
+So now you've seen it. The pattern that uses our own goodness against us. The mechanism that makes us accomplices in darkening the world while feeling righteous—and that somehow cooperates _across_ us, even when we're certain we're enemies.
+
+But notice: I didn't discover this pattern, or even teach it to you. **You already knew it.** It was just in limbo.
+
+All this stuff is in collective civilizational limbo as implicit common knowledge. We all know it, and that everyone else does, etc.—but it's still somehow hidden.
+
+By naming it explicitly, something fundamental changes. Now when you see this pattern operating—in yourself or others—you don't have to maintain the polite fiction. You can point at it. We can point at it _together_. Not out of contempt, but out of integrity.
+
+Like the kid's words in the Emperor's New Clothes tale, this gives us something to point to and say: "See? We can all stop pretending now."
+
+This thing thrives in the shadows. It survives on plausible deniability. Once it becomes explicit common knowledge, the pattern has nowhere to hide. Not in you, not in me, not in civilization.
+
+That's what this book is attempting to do.
+
+But so far, we've just identified the individual and interpersonal level. What happens when entire societies do this _together_? That's where things get truly terrifying—and where the stakes become existential.
 
 ---
+
 
 
 # Footnotes
@@ -312,4 +306,6 @@ It's not that we *consciously* know the game we're playing, in the usual sense o
 
 Looked at another way: my darkness is revealing itself to yours, knowing it will provoke you into seeing me as evil, while hiding itself from me, so that I will take your resistance as proof that *you* are—thereby strengthening both of ours. It's a kind of secret handshake between our dark parts, enabled by common knowledge.
 
-(This description of the effect requires both malice and the hiding of malice—but as we'll soon see, they aren't actually two things. I *can't* feel malice without hiding something from myself. And actually, the initial seed isn't even malice, but something we'll explore later, that makes it all fit together even more satisfyingly.)
+This description of the effect requires both malice and the hiding of malice—but they aren't actually two things. Malice *requires* a kind of hiding. And actually, the initial seed isn't even malice, but something we'll explore later, that makes it all fit together even more satisfyingly.
+
+
