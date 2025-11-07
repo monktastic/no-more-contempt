@@ -30,7 +30,7 @@ Whatever you were serving in your moment of integrity, and what the person who s
 
 And in those moments of contempt—didn't those feel like they were serving the same thing, too? What's *that*?
 
-Integrity feels the same from the inside and outside. But contempt feels righteous on the inside, and dark, dirty, manipulative from the outside.
+Integrity feels aligned from the inside and outside. But contempt feels righteous on the inside, and dark, dirty, manipulative from the outside.
 
 There's a reason for that.
 
@@ -77,9 +77,7 @@ Notice an asymmetry here: the part that knew it was wrong—your conscience—wa
 
 But it wasn't.
 
-Try imagining doing something you know is wrong—_fully_ knowing it's wrong, with no rationalization—and doing it anyway. Can you even picture it?
-
-We *know* we can't win in a direct confrontation with our conscience. Nor can we silence it. All we can do is ignore it better.
+That part of us can never be truly silenced. All we can do is ignore it better.
 
 So that's what you did—and yet some part of you sensed that this wouldn't end well, didn't it? That this deception would come back to bite you, even if nobody else ever knew?
 
@@ -203,17 +201,17 @@ Remember what it was like when you were feeling contempt? You weren't thinking "
 
 But it was all a lie.
 
-**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want. And most of us don't have a reliable way to check whether we're in limbo.** And it's a continuum, not binary.
+**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want.**
 
-Yet there's a part of us that *always knows whether we're in limbo, and what we are hiding.* Otherwise it wouldn't be limbo.
+Yet there's a part of us that _always knows whether we're in limbo, and what we are hiding._ Otherwise it wouldn't be limbo.
 
-We have trained ourselves to forget that part of us—the one part that could actually bring an end to our darkness. We called it our "conscience" earlier, but that word barely scratches the surface. 
+We called it our "conscience" earlier, but that word barely scratches the surface.
 
-There is an aspect of your mind that never falls for your shenanigans, and it is always available. It's the part that feels most like "you." In your moments of deepest integrity, you don't have to justify anything to yourself; you just know. You know what you're in service to.
+There is an aspect of your mind that never falls for your shenanigans, and it is always available. It's the part that feels most like "you." In your moments of deepest integrity, you don't have to justify anything to yourself; you just _know._ You know what you're in service to, even if you can't name it.
 
-Numerous traditions have pointed to this part of us—but when described in its entirety, it begins to sound quasi-religious. And since our culture abhors religion, we have thrown out the baby with the bathwater.
+Numerous traditions have pointed to this part of us—but when described in its entirety, it begins to sound mystical or spiritual. And since modern secular culture is deeply suspicious of such language, we have thrown out the baby with the bathwater.
 
-Let that sit for a moment. Which part of us would have an incentive to keep this aspect of ourselves out of the cultural eye?
+Let that sit for a moment. Which part of us would have an incentive to keep us suspicious of naming the one aspect that can actually detect our darkness?
 
 ---
 
@@ -243,7 +241,7 @@ And here's what we miss: even at that extreme, that original pain of harming oth
 
 (If you dare to get a taste for this, try giving someone a dehumanizing glare. It's difficult, isn't it? Sends a shudder down the spine. What are they perceiving in you when you do this? What does it feel like from the inside? That's what shielding feels and looks like. And the shudder? That's your conscience—your alarm system warning you.)
 
-What evil people do, and the contempt we feel for them—they're made of the same stuff, and are mutually reinforcing. We have as hard a time recognizing our mild version as they do their profound one.
+What evil people do, and the contempt we feel for them—same essence, radically different scales. We have as hard a time recognizing our mild version as they do their profound one.
 
 This is also why malice and hiding aren't two separate requirements to achieve the hall-of-mirrors effect: malice is only possible when there is hiding.
 
@@ -267,13 +265,17 @@ So there *is* a way to tell—it's just not easy to describe (or to perfect).
 
 ---
 
-As you may have guessed, the extent to which our minds are colonized by "darkness" is not a binary thing; it lies on a continuum. And unless you are enlightened, it's not exactly zero. This means that our cognitive apparatus is essentially *always* hijacked to some degree. That is the real reason humanity is on the brink.
+As you may have guessed, the extent to which our minds are colonized by darkness is not binary—it lies on a continuum. And unless you are enlightened, it's not exactly zero. 
 
-If you are able to think of *anyone* toward whom you can feel even the slightest trace of malice, contempt, or self-righteousness... I'm sorry to say, that **is** the darkness operating in you. If you were face to face with them now, it would be very hard to avoid letting it leak out, thereby strengthening theirs. So it is operating in a latent fashion.
+**This means our cognitive apparatus is essentially _always_ hijacked to some degree. Our thoughts are almost _always_ being subtly manipulated in furtherance of a world we don't actually want.** 
 
-My perception of the world as a collection of fundamentally defective people I must valiantly overcome—that's actually a measure of how deeply I'm burying that fear about *myself*. And for that very reason, the deeper in I go, the less willing I am to even *countenance* this notion. That's what makes this thing so hard to defeat.
+Now imagine: what does a world look like when this is true for _everyone_?
 
-And even if you were somehow free of all of dark sentiments, there are still much subtler forms operating in your perception.
+If you can feel even the slightest trace of malice, contempt, or self-righteousness toward _anyone_... I'm sorry to say, that **is** the darkness operating in you. If you were face to face with them now, it would be very hard to avoid letting it leak out, thereby strengthening theirs. So it operates in a latent fashion, waiting.
+
+My perception of the world as a collection of fundamentally defective people I must valiantly overcome—that's actually a measure of how deeply I'm burying that fear about _myself_. And for that very reason, the deeper in I go, the less willing I am to even _countenance_ this notion. That's what makes this thing so hard to defeat.
+
+And even if you were somehow free of all dark sentiments, there are still much subtler forms operating in your perception.
 
 But we'll get to that later. For now, I want to show you why this matters so much.
 
@@ -283,6 +285,7 @@ But we'll get to that later. For now, I want to show you why this matters so muc
 TODO
 
 ---
+
 
 # Footnotes
 
