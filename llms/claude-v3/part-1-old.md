@@ -4,7 +4,7 @@ Have you ever been so angry you’d let the whole world burn to satisfy your whi
 
 Now think of a time you acted with fierce integrity, even at great cost to yourself. That felt righteous, too.
 
-Same word, totally different experiences.
+Same word, totally different meaning.
 
 Both felt like “you” at the time—but which feels more like the real you now? Deep down; in your most authentic moments, do you long for a more beautiful world—or a more hellish one?
 
@@ -20,7 +20,7 @@ Now think of a time when someone set you straight with profound integrity, seemi
 
 Now flip the tables.
 
-Think of a time when *you* contemptuously judged someone. Maybe you tried to make it look civil on the surface, but they still dug in their heels, didn't they? Didn't that feel like proof they were *bad?*
+Think of a time when *you* contemptuously judged someone. Maybe you tried to make it look civil on the surface, but they still dug in their heels, didn't they? Was it just because they were bad?
 
 And finally, a time when you corrected someone with integrity yourself. Perhaps you had to do it with more ferocity; more violence than in the previous case—and yet something in you knew it would ultimately bring *more* peace to the world, didn't you? *How* did you know?
 

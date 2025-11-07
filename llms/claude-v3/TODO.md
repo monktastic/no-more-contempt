@@ -16,8 +16,6 @@ If I can see it in you, and you can see the part of me *that sees it in you*, th
 
 # Part 1
 
-Telegraphed itself to you.
-
 I knowingly darkened the world.
 
 Lean into the horror of having knowingly darkened the world, and yet how it came from a fundamentally innocent place. And then really emphasize that we're just pulling this out of limbo, which means that we already know it. And once the knowing is made conscious it cannot survive. Darkening the person's mind was a self-fulfilling prophecy. And yet it may have made things seem better locally even though it harmed things globally. 
@@ -34,7 +32,6 @@ The deepest need is to see the problems of the world as due to something foreign
 Those things we were serving, now we can name them better.
 
 it pulled things out of limbo
-
 
 This may need more about the coordination aspect first, or else it feels like personal failing:
 

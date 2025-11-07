@@ -1,12 +1,41 @@
 # Part 1: Limbo!
 
-Have you ever accused someone of being a _bad person_—not just that they were acting bad, but like _badness_ was somehow inherent to their being? Maybe you said it out loud, or maybe you were civil and just let them feel it. But instead of owning up to it, they dug in their heels, right? Why? Is it just because they're *bad*?
+Have you ever been so angry you’d let the whole world burn to satisfy your white-hot rage? In that moment, didn’t it feel _righteous_?
 
-When you're on the receiving end of contempt—even if you know you've done wrong—you don't thank them for it, do you? No matter what they say or how "right" they may be, you can tell they're not coming from a good place. How? What exactly gives it away?
+Now think of a time you acted with fierce integrity, even at great cost to yourself. That felt righteous, too.
 
-How can contempt feel so righteous from the inside, yet so dark, dirty, manipulative from the outside?
+Same word, totally different experiences.
+
+Both felt like “you” at the time—but which feels more like the real you now? Deep down; in your most authentic moments, do you long for a more beautiful world—or a more hellish one?
+
+In that case, what was in control when that violent rage felt like "you"?
 
 ---
+
+Now imagine this in smaller moments.
+
+Think back to a moment you felt contemptuously judged by another person. No matter how "right" they may have been; even if you *knew* you had done wrong, something felt *off* about them, didn't it? You could tell they weren't coming from a good place. How?
+
+Now think of a time when someone set you straight with profound integrity, seemingly getting nothing out of it themselves. Even if it stung your ego; even if it made you lose face, you had no desire to take revenge, did you? Why not?
+
+Now flip the tables.
+
+Think of a time when *you* contemptuously judged someone. Even if you made it look civil, they still dug in their heels, didn't they? Didn't that feel like proof they were *bad?*
+
+And finally, a time when you corrected someone with integrity yourself. Perhaps you had to do it with more ferocity; more violence than in the previous case—and yet something in you knew it would ultimately bring *more* peace to the world, didn't you? *How* did you know?
+
+---
+
+Whatever you were serving in your moment of integrity, and what the person who set you straight was serving: even if you knew nothing about them—their politics, their religion, their creed—did it *feel* like you were serving the same thing? What is that?
+
+And in those moments of contempt—didn't those feel like they were serving the same thing, too? What's *that*?
+
+Integrity feels the same from the inside and outside. But contempt feels righteous on the inside, and dark, dirty, manipulative from the outside.
+
+There's a reason for that.
+
+---
+## The Need
 
 Notice how the world makes more sense when we know our enemies truly are genuinely, irredeemably bad. It's not that we *want* them to be that way, but knowing they are alleviates a certain psychological pressure—one that's near the core of our identity.
 
@@ -64,6 +93,8 @@ You might have convinced yourself you didn't "really" know, right up until you w
 
 In this way, knowledge can exist in a kind of "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we did.
 
+_That_ is the "off" feeling you're sensing when you're on the receiving end of contempt—that I'm hiding something from myself. And you instinctively know what that means—because the only time you do that is when you're disobeying your _own_ conscience. And the lack of this is what you sense as integrity in others.
+
 What things might you be hiding in limbo *right now*? How would you ever know it?
 
 The part of us causing all this doesn't want us to ask this. In fact, it wouldn't even want us thinking about it. It would rather we just feel guilt and shame for our misbehavior, so that we would never bother to ask: what even is this thing, and do we really want it?
@@ -74,7 +105,7 @@ Thinking back to when you felt contempt for your enemy, notice how the same mech
 
 And there's more.
 
-Haven't you had times where you corrected someone with full integrity? So you already know there's a way to combat your enemies without making them worse. So what purpose did the contempt actually serve? *That knowledge is there too, but still hidden in limbo.*
+You also know there's a way to combat your enemies without making them worse—you recalled it in the opening. So what purpose did the contempt actually serve? *That knowledge is there too, but still hidden in limbo.*
 
 ---
 
@@ -84,11 +115,9 @@ And that time you did wrong—wasn't it hard to admit because you knew you had b
 
 Isn't that in direct conflict with your conscious values?
 
-Let me highlight one more aspect of this thing.
+And remember that moment of white-hot rage from the opening—where you'd let the whole world burn? Looking back now, doesn't it feel like something else had taken control of the wheel? Like "whoa, that wasn't _me_?"
 
-Have you ever had a moment of blind rage, where you'd be willing to let the whole world burn to satisfy it? Looking back now, doesn't it feel like something else has taken control of the wheel? Like "whoa, that wasn't *me*?"
-
-Same thing, different form.
+Same thing here, just milder.
 
 So here we have something that doesn't feel like "me," until it takes control—at which point it pretends to be me, works against my values, and makes me feel justified or even righteous. Then it covers it all up with guilt and shame, so that I never recognize what really happened.
 
@@ -159,6 +188,7 @@ Explicit common knowledge is much, much harder to hide from.
 Like the kid's words in the Emperor's New Clothes tale, this gives us something to point to and say: "See? We can all stop pretending now."
 
 That's what much of this book is actually attempting to do.
+
 ## !!
 
 ---
@@ -186,6 +216,8 @@ Numerous traditions have pointed to this part of us—but when described in its 
 Let that sit for a moment. Which part of us would have an incentive to keep this aspect of ourselves out of the cultural eye?
 
 ---
+
+## Shielding
 
 Most of us are naturally averse to harming others. If you feel into why, it's because you can see something of yourself in them. You know what it's like to hurt, and you don't really want that for others.
 
@@ -217,17 +249,13 @@ This is also why malice and hiding aren't two separate requirements to achieve t
 
 ---
 
-This last bit deserves a bit of clarification before we move on, or else it might sound like we're saying "don't judge (or fight) evil people."
+## Integrity
 
-Can you remember a time when someone corrected you *without* contempt, but with full integrity; seemingly getting nothing out of it themselves? Even if it stung your ego; even if it made you lose face, you had no desire to take revenge, did you? It almost felt like an externalized version of your own conscience—you _knew_ you couldn't win against it. More than that: you didn't want to.
+This last bit deserves a bit of clarification, or else it might sound like we're saying "don't judge (or fight) evil people."
 
-What were they serving in that moment? How could you tell?
+Think back to the integrity examples in the opening. Can you feel how they were designed to make things better, not worse—and how you *knew* that intent, through and through? Can you feel how this is possible, even if violence is unfortunately required?
 
-How about a time when you corrected someone with integrity yourself? Even if you had to do it with ferocity, or even violence—something in you knew it would ultimately bring more peace to the world than if you'd just been *nice*. How did you know?
-
-Whatever you were serving in your moment of integrity, and what the person who set you straight was serving: even if you knew nothing about them—their politics, their religion, their creed—did it *feel* like you were serving the same thing? What is that?
-
-THAT is what fights the darkness. And it never feels remotely dark itself.
+THAT is what fights the darkness. And it never feels remotely dark itself. There's no satisfaction in having caused harm.
 
 There's nothing wrong with judging people if judging simply means "wise discernment." Of *course* we must identify evil and fight it. But the moment it crosses over into contempt; into that felt sense of the person being *inherently* defective—ontologically different from you—it's the darkness creeping in the back door.
 
@@ -239,16 +267,22 @@ So there *is* a way to tell—it's just not easy to describe (or to perfect).
 
 ---
 
-As you may have guessed, the extent to which our minds are colonized by "darkness" is not a binary thing; it lies on a continuum. And unless you are enlightened, it's not exactly zero. This means that our cognitive apparatus is essentially *always* hijacked to some degree.
+As you may have guessed, the extent to which our minds are colonized by "darkness" is not a binary thing; it lies on a continuum. And unless you are enlightened, it's not exactly zero. This means that our cognitive apparatus is essentially *always* hijacked to some degree. That is the real reason humanity is on the brink.
 
-If you are able to think of *anyone* toward whom you can feel even the slightest trace of malice, contempt, or self-righteousness... I'm sorry to say, it is partially in control. That **is** the darkness operating in you. If you were face to face with them now, it would be very hard to avoid letting it leak out, thereby strengthening theirs.
+If you are able to think of *anyone* toward whom you can feel even the slightest trace of malice, contempt, or self-righteousness... I'm sorry to say, that **is** the darkness operating in you. If you were face to face with them now, it would be very hard to avoid letting it leak out, thereby strengthening theirs. So it is operating in a latent fashion.
 
-And even if you were somehow free of all of those, there are still much subtler forms operating in your perception.
+My perception of the world as a collection of fundamentally defective people I must valiantly overcome—that's actually a measure of how deeply I'm burying that fear about *myself*. And for that very reason, the deeper in I go, the less willing I am to even *countenance* this notion. That's what makes this thing so hard to defeat.
+
+And even if you were somehow free of all of dark sentiments, there are still much subtler forms operating in your perception.
 
 But we'll get to that later. For now, I want to show you why this matters so much.
 
 ---
+## Epilogue
 
+TODO
+
+---
 
 # Footnotes
 
