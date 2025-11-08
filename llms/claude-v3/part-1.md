@@ -1,10 +1,10 @@
 # Part 1: Limbo!
 
-Have you ever been so angry you’d let the whole world burn to satisfy your white-hot rage? In that moment, didn’t it feel *righteous*?
+Have you ever been so angry you didn’t care what it destroyed—as long as it made them _feel it_? In that moment, it felt righteous, didn’t it?
 
-Now think of a time you acted with fierce integrity, even at great cost to yourself. That felt righteous, too.
+And then think of a time you acted from fierce integrity, even when it cost you something real. That felt righteous, too.
 
-Same word, totally different experiences.
+Same word, opposite meaning.
 
 Both felt like “you” at the time—but which feels more like the real you now? Deep down; in your most authentic moments, do you long for a more beautiful world—or a more hellish one?
 
@@ -12,106 +12,119 @@ In that case, what was in control when that violent rage felt like "you"?
 
 ---
 
-Now imagine this in smaller moments.
+Now let's look at this on a smaller scale.
 
 Think back to a moment you felt contemptuously judged by another person. No matter how "right" they may have been; even if you *knew* you had done wrong, something felt *off* about them, didn't it? You could tell they weren't coming from a good place. How?
 
-Now think of a time when someone set you straight with profound integrity, seemingly getting nothing out of it themselves. Even if it stung your ego; even if it made you lose face, you had no desire to take revenge, did you? Why not?
+Now think of a time when someone set you straight with profound integrity, seemingly getting nothing out of it themselves. Even if it stung your ego; made you lose face, you had no desire to take revenge, did you? Why not? What were they serving?
 
 Now flip the tables.
 
-Think of a time when *you* contemptuously judged someone. Even if you made it look civil, they still dug in their heels, didn't they? Didn't that feel like proof they were *bad?*
+Think of a time when *you* contemptuously judged someone. Even if you made it look civil, they dug in their heels, didn't they? And somewhere inside, that resistance confirmed what you already believed.
 
-And finally, a time when you corrected someone with integrity yourself. Perhaps you had to do it with more ferocity; more violence than in the previous case—and yet something in you knew it would ultimately bring *more* peace to the world, didn't you? *How* did you know?
+And finally, a time when you corrected someone with integrity yourself. Perhaps you had to do it with more ferocity; more violence than in the previous case—and yet something in you knew it would ultimately bring *more* peace, right? How did you know?
 
 ---
 
-Whatever you were serving in your moment of integrity, and what the person who set you straight was serving: even if you knew nothing about them—their politics, their religion, their creed—did it *feel* like you were serving the same thing? What is that?
+Whatever you were serving in your moment of integrity, and what the person who set you straight was serving: even if you knew nothing else about them—their politics, their religion, their creed—didn't it feel like you were serving the same thing? What is that?
 
-And in those moments of contempt—didn't those feel like they were serving the same thing, too? What's *that*?
+And in those moments of contempt—didn't those feel like they were serving the same thing, too? What's *that*? It's not just your individual egos.
 
-Integrity feels aligned from the inside and outside. But contempt feels righteous on the inside, and dark, dirty, manipulative from the outside.
+Integrity feels aligned from the inside and outside.
 
-There's a reason for that.
+Contempt feels righteous on the inside, and dark, dirty, manipulative on the outside.
+
+There's a reason it works that way.
 
 ---
 ## The Need
 
-Notice how the world makes more sense when we know our enemies truly are genuinely, irredeemably bad. It's not that we *want* them to be that way, but knowing they are alleviates a certain psychological pressure—one that's near the core of our identity.
+Notice how the world makes more sense when we know our enemies really are bad—genuinely, irredeemably bad. It's not that we *want* them to be, per se, but if they weren't? We might be forced to question whether we've been part of the problem all along. And that would be... not great.
 
-And a need that deep doesn't just sit still; it moves us. It would shape our behavior in subtle ways—small things that help confirm our suspicions. Of course, sometimes those behaviors might make our enemies slightly *worse*—which would then justify us treating them worse, making them even worse...
+A need that deep doesn't just sit still; it moves us. It would shape how we see things, how we respond—nudge us toward confirming what we already suspect. Sometimes those nudges might even make our enemies _worse_—which would justify treating them worse, making them worse still...
 
-Which would be an elegant way of satisfying the need—as long as we weren't aware of our role in it. But that seems a bit dark.
+This would certainly be an elegant way of satisfying our need—as long as we never noticed our own hand in it. But that feels a bit dark, doesn't it?
 
-Still, let's investigate how things would unfold if it were true. Imagine there *were* a part of us dedicated to meeting this need, while carefully preventing us from seeing it. How, exactly, would it accomplish its goal?
-
----
-
-First let's see what such behavior would look like from the outside. 
-
-If someone secretly needed you to confirm their suspicions of you, while burying this knowledge so deeply that even they barely knew it—while feeling righteous on the surface?
-
-That combination would feel dark, dirty, manipulative.
-
-Looking back on when you received contempt, doesn't this capture what it felt like? That some part of them was trying to prove itself right, but they couldn't quite admit it to themselves? Wanting to hurt you while needing to feel innocent?
-
-If they were fully aware of this, it would land differently for you, wouldn't it? That knowledge would leak out, and the jig would be up.
-
-You can sense a kind of hiddenness—like something in them was *showing* itself to you while keeping itself carefully hidden from them.
+Still, let’s follow it. Suppose there _were_ a part of us devoted to maintaining this loop—meeting the need while hiding its existence. How would it work?
 
 ---
 
-That's already pretty strange. But making you worse is only a subordinate goal on the way to a much larger score for this thing.
+First, what would such behavior would feel like from the outside?
+
+If someone _needed_ you to confirm their suspicions about you—while burying that need so deeply that even they could barely sense it—yet on the surface felt righteous and justified?
+
+That would feel dark, dirty, manipulative.
+
+Looking back on times you’ve received contempt, doesn’t this capture it? Some part of them seemed bent on proving itself right, but they couldn’t quite admit it. Wanting to hurt you, while needing to feel innocent—almost like a ruse.
+
+But if they’d been fully aware of that ruse, it would have landed differently, wouldn’t it? You would have felt the self-awareness in them, and the spell would’ve broken.
+
+There’s a kind of hiddenness you can sense in moments like that—something in them _revealing_ itself to you, even as it stays carefully hidden from them.
 
 ---
 
+But how does it do that?
+
+To better understand, we need to broaden our scope.
+
+---
 ## Conscience
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit that to yourself until later?
 
 While you were doing it, wasn't your mind creating justifications for why it wasn't *really* wrong?
 
-Notice an asymmetry here: the part that knew it was wrong—your conscience—wasn't trying to justify itself. It just... *was*. The justifications weren't there to convince *it*; they were there to convince *you* that it was just one more voice among the chaos.
+Notice an asymmetry here: the part that knew it was wrong—your conscience—wasn't trying to justify itself. It just... *was*. The justifications weren't there to convince *it*; they were there to convince *you* that it was just one more voice among the noise.
 
 But it wasn't.
 
-We can never truly silence it. All we can do is ignore it better. So that's what you did—and yet some part of you sensed this wouldn't end well, didn't it? 
+We *know* we'd lose a direct confrontation with our conscience. All we can do is ignore it better. So that's what you did—and yet some part of you sensed this wouldn't end well, didn't it? 
 
-You might have convinced yourself you didn't "really" know, right up until you were able to admit it—at which point you saw that you always had.
+You might have convinced yourself you didn't "really" know—right up until you were able to admit it, at which point you saw that you *always had*.
 
-Both halves—the undeniable wrongness and the certainty of rightness—were actually conscious **the entire time**. Not hidden in some unconscious realm waiting to emerge. Right there. You just kept your attention carefully turned away.
+Notice this: both halves—the undeniable wrongness and the conviction of rightness—were actually conscious **the entire time**. Not hidden in some unconscious realm waiting to emerge. Right there. You just kept your attention carefully turned away.
 
 ---
 
 ## Limbo
 
-In this way, knowledge can exist in a kind of "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we did.
+That knowledge existed in a kind of "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we always did.
 
-*That* is the "off" feeling you're sensing when you're on the receiving end of contempt—that I'm hiding something from myself. And you instinctively know what that means—because the only time you do that is when you're disobeying your *own* conscience. And the lack of this is what you sense as integrity in others.
+*That* is the "off" feeling you're sensing when you're on the receiving end of contempt—that the person is hiding something from themselves. And you instinctively know what that means—because the only time you do that is when you're ignoring your *own* conscience.
+
+And it makes you dig in.
 
 What things might you be hiding in limbo *right now*? How would you ever know it?
 
-The part of us causing all this doesn't want us to ask this. In fact, it wouldn't even want us thinking about it. It would rather we just feel guilt and shame for our misbehavior, so that we would never bother to ask: what even is this thing, and do we really want it?
+The part of us causing all this doesn't want us to ask these questions. In fact, it wouldn't even want us thinking about it. It would rather we just feel guilt and shame for our misbehavior, so that we would never bother to ask: what even is this thing, and do we really want it?
 
 ---
 
-Thinking back to when you felt contempt for your enemy, notice how the same mechanism was at play. You already know contempt makes your enemies worse, don't you? And you don't forget this while you're doing it—you just hide it from yourself.
+You *know* there's a way to correct others without making them worse.
 
-You also know there's a way to combat your enemies without making them worse—you recalled it in the opening. So what purpose did the contempt actually serve? Hint: it wasn't yours.
+You know contempt makes people dig in.
+
+I didn't teach you either of these. You recognized them yourself in the opening.
+
+It may feel like you forget them while doing it, but you don't. You're just in limbo.
+
+Limbo can be so effective it *feels* like forgetting. But that's the point—if it felt like deliberate hiding, it wouldn't work.
 
 ---
 
 When we stop and reflect, it's obvious we don't want our enemies to become worse. Not only will they fight *us* harder, they'll spread that toxicity to others, darkening the world as a whole.
 
-And that time you did wrong—wasn't it hard to admit because you knew you had benefited yourself at the expense of others? Maybe you even recognized: "I've just given permission for *others* to act selfishly, too." Again: darker world.
+And that time you recalled having done wrong—wasn't it hard to admit because you knew you had benefited yourself at the expense of others? You don't want to live in a world where people do that.
 
-Isn't that in direct conflict with your conscious values?
+Both lead toward a world you don't actually want.
 
-And remember that moment of white-hot rage from the opening—where you'd let the whole world burn? Looking back now, doesn't it feel like something else had taken control of the wheel? Like "whoa, that wasn't *me*?"
+Now remember that moment of white-hot rage from the opening—where you didn't care what it destroyed? Looking back now, doesn't it feel like something else had taken control of the wheel? Like "whoa, that wasn't *me*?"
 
-Same thing here, just milder.
+Same thing, different form.
 
 So here we have something that doesn't feel like "me," until it takes control—at which point it pretends to be me, works against my values, and makes me feel justified or even righteous. Then it covers it all up with guilt and shame, so that I never recognize what really happened.
+
+But it gets worse.
 
 ---
 
@@ -119,13 +132,13 @@ The person you treated with contempt—consider how things looked from their per
 
 >*Oh, so you're a "good person"? I can literally **see** the darkness in you—that contemptuous part you're not admitting to yourself. You're just another hypocrite who thinks they're special. Why should I listen to my conscience when you won't listen to yours? Fuck that.*
 
-So they now feel powerfully licensed to ignore theirs further. What good is it listening to a conscience when it can't protect us from such a dark, twisted world?
+So they now feel powerfully licensed to ignore theirs further. What good is a conscience when it can't protect us from such a dark, twisted world?
 
-Isn't that is why we disobey it in the first place? We see an uncaring world, and feel that we can only get our needs met by harboring a bit of our own darkness? Not because we're bad people, but because we feel this shitty world forced our hand?
+Isn't that why we disobey it in the first place? We see an uncaring world, and feel that we can only get our needs met by harboring a bit of our own darkness. Not because we're bad people, but because we feel this shitty world forced our hand. Whether true or not, that's the feeling, isn't it?
 
-The thing that made us ignore our own conscience has now darkened their world so that they feel more compelled to ignore theirs.
+So the thing that made us ignore our own conscience has now made them feel more compelled to ignore theirs.
 
-But since we don't know that we caused this, we see their resistance as proof they're as bad as we feared. In fact, they're accusing *us* of being evil when we're the good guys. Man, people are even worse than we thought!
+And since we don't know that we caused this, we see it as proof they're as bad as we feared. In fact, they're accusing *us* of being evil when we were only trying to help—making them well and truly defective.
 
 There's no way to defeat such monsters as long as we're still clinging to our morals like chumps. 
 
@@ -133,39 +146,94 @@ There's no way to defeat such monsters as long as we're still clinging to our mo
 
 ---
 
-This... thing. It has tricked us into giving it more control while being less likely to notice that we have. And these aren't actually two separate facts, but two sides of the same coin: it is *only* possible to hand over control when you don't realize that's what you're doing. Because it feels so... fucking... righteous. Like you're cutting through all the bullshit and finally seeing clearly. 
+## The Darkness
 
-It feels like *you.*
+This... thing. This *dark* part.
 
-And it did exactly the same thing for them, didn't it?
+You have one, I have one. I sensed yours, and felt compelled to attack. By unleashing mine.
 
-And now they'll do it for others. And so will we. And it will all ripple.
+And it worked... on the surface. It shut you up. Dominated you. Scared you into hiding.
 
-The darkness was never fighting itself. It's only pretending to, so it can keep using us.
+But under the covers? Something much darker has taken place.
+
+Yours has been strengthened. And mine gave it exactly what it needed to do that. To cozy itself up to you further.
+
+We will both leave feeling like we need to give this thing *more* control. Broaden its purview. We will be less likely to notice the self-serving aspects of our own actions and agendas, and more likely to notice them in others. So we will do this dance more often—and not just with each other.
+
+This thing. This *darkness*.
+
+It's spreading itself through us. 
+
+And the more we give it control, the more we feel like it *is* us.
 
 ---
 
+## The Spread
+
+Notice something astonishing about how this happened.
+
+1. My darkness needs you to dig in your heels, to make you the bad guy.
+2. Its nature is to hide itself from me while revealing itself to you.
+3. My darkness being hidden from me while revealed to you is enough to make you dig in.
+
+In other words, simply by existing in its natural way, it accomplished its goal.
+
+Its nature **is** its execution. It spreads itself just by its mode of existence.
+
+What we are dealing with—infected by—is like a self-executing parasite that spreads itself by perfectly evading detection. Not *while* evading it: *by* evading it.
+
+---
 ## Hall of Mirrors
 
-But how, exactly, does it do that? The mechanism is truly mind-bending.
+What does this look like in practice? The mechanism is truly mind-bending.
 
-When I accuse you of being a bad person—whether explicitly or implicitly—my darkness is revealing itself to you while hiding itself from me. It knows your darkness recognizes this pattern, because it's the essence of how darkness operates.
+In moments of deep integrity; the closer you are to your conscience—isn't it more obvious that other people are only caught in the same deep trap you are? (Don't worry about exceptions for now. We'll get to them soon.) That's what makes you want to help them in those moments, instead of shoving them deeper in.
 
-Now, before continuing: since my darkness isn't truly unconscious—it's just in limbo—I'll switch to "I" and "you." This makes it both more honest and damning.
+Which means you already know they have a conscience—and that the closer they get to theirs, the more obvious all of this is to them. That this is just how humans work.
 
-So: I know you know what I'm doing. And you *know* that. And I *know* you know that. Isn't that what it feels like? That we both know exactly what's going on here, but that I'll deny it if called out—and in a way that's actually plausible to everyone but you? "I'm only fighting evil!"
+And it's not that you ever literally forget this. It's always there, but *deep* in limbo. That's why it feels unconscious, or maybe like you never knew it. 
 
-I'm evoking what game theorists call *common knowledge*—we both know that we both know that we both know, *ad infinitum*—while also making sure it's unprovable from the outside. So this plausible deniability *also* becomes common knowledge.
+But then this part of you must know that about them, too: that somewhere hidden in their conscious mind, *they* know we're all stuck in the same trap.
 
-It's a self-sealing trap, making it the perfect crime. And the only reason I could *evoke* that common knowledge is because it already existed: *we all know this is how it really works.*
+And like two sets of eyes looking at each other, each sees that the other sees that the other sees...
 
-Now, crucially: notice how on the surface, you and I feel even more like enemies. But the reason my darkness flashed itself to you was to **strengthen** yours. It was a secret handshake disguised as a fight.
+And this gives rise to what game theorists call *common knowledge*: we all know that we all know that we all know... *ad infinitum.* It's just that this knowledge is deeply hidden for most of us.
 
-Also notice how the unprovability is a feature, not a bug. It is a core aspect of how darkness operates.
+Whew. So...
+
+When I even subtly accuse you of being *inherently bad*, not only do I know that I'm lying: I know that *you* know it, and that you know I know it, *ad infinitum*. I'm secretly revealing my own hypocrisy, making you see *me* as a bad person—and this is (hidden) common knowledge, too.
+
+This gives rise to a kind of hall of mirrors effect. Of course you're not *thinking* about any of this. But what you *feel* is something like: "we both know what I'm really doing here, and also that it's hidden so well from me that I will never be forced to admit it."
+
+And *that's* what makes you dig in. The maddening hypocrisy of knowing I'm judging you for being the kind of person who does the very thing I'm doing right now in order to prove that you're the kind of person who...
+
+*Ad infinitum.*
 
 *(For curious analytical readers, a more thoroughly developed explanation is available in the footnote with the same title.)*
 
 ---
+
+## The Secret Handshake
+
+There's a simpler way of looking at all this.
+
+When I see you as *fundamentally bad,* I'm temporarily forgetting that you're only infected with the same parasite I am—that the badness is not intrinsic to your nature.
+
+And when this happens, I can't *help* but want to shove you deeper in—strengthening yours.
+
+On the surface, you and I will feel even more like bitter enemies.
+
+But it's actually a kind of secret handshake between your darkness and mine.
+
+When my parasite recognizes yours, it makes me see you as bad, forcing me into this trap.
+
+But who on earth would believe such a ridiculous thing?
+
+And that is why it works.
+
+---
+
+## Altered perception
 
 When I say my world becomes darker as a result, I don't mean it in some abstract sense. After this encounter, I don't just *think* you're bad, I now *see* it; *feel* it more clearly than before. I then subtly override more of my morals to ensure you don't win—but it feels like a righteous necessity.
 
@@ -177,7 +245,7 @@ Remember what it was like when you were feeling contempt? You weren't thinking "
 
 But it was all a lie.
 
-**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want.** And you cannot think your way out of this.
+**While you're in limbo, you cannot detect that your thoughts are being manipulated in furtherance of a world you don't actually want. Which also means that the tool you'd use to detect the subterfuge is itself compromised.**
 
 Yet there's a part of us that *always knows whether we're in limbo, and what we are hiding.* It's closely connected to our conscience, but that word barely scratches the surface.
 
@@ -207,7 +275,7 @@ What would a person look like if they didn't stop this process in time? Someone 
 
 We'd call them *evil,* of course.
 
-And then we'd treat them with contempt.
+And then we'd treat them with contempt—further solidifying that embracing their darkness is the right choice.
 
 ---
 
@@ -215,7 +283,7 @@ And here's what we miss: even at that extreme, that original pain of harming oth
 
 (If you dare to get a taste for this, try giving someone a dehumanizing glare. It's difficult, isn't it? Sends a shudder down the spine. What are they perceiving in you when you do this? What does it feel like from the inside? That's what shielding feels and looks like. And the shudder? That's your conscience—your alarm system warning you.)
 
-What evil people do, and the contempt we feel for them—same essence, radically different scales. We have as hard a time recognizing our mild version as they do their profound one.
+What evil people do, and the contempt we feel for them: same essence, radically different scales. Theirs is as known-but-hidden from them as ours is from us. And they mutually reinforce each other.
 
 ---
 
@@ -233,7 +301,9 @@ Fighting evil with fierce, unflinching integrity—that's what actually works. W
 
 As you may have guessed, the extent to which our minds are colonized by darkness lies on a continuum. And unless you are enlightened, it's not zero.
 
-**This means our cognitive apparatus is essentially _always_ hijacked to some degree. Our thoughts are almost _always_ being subtly manipulated in furtherance of a world we don't actually want.**
+**This means our cognitive apparatus is essentially _always_ hijacked to some degree. Our thoughts are always being subtly manipulated in furtherance of a world we don't actually want.**
+
+Right now. As you read this. Some tiny part of your mind is editing your perception to maintain some fiction that serves this pattern.
 
 Now imagine: what does a world look like when this is true for _everyone_?
 
