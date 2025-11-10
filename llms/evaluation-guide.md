@@ -79,4 +79,20 @@ The piece should create desperate need to understand "what's going on here?" wit
 
 # Part I: Limbo
 
-Will the reader object: wait, mockery and shame (or even contempt) ARE sometimes warranted? Are such readers likely to never get the full piece anyway? Or do we need to hint (more strongly than we already have) that it's not the mocking/shaming that are the problem? And that contempt for people is different from contempt for ideas / behaviors?
+Trace EVERY LINE CAREFULLY. What does the reader know explicitly? What have they pieced together? Then evaluate:
+
+- Every line should be doing work. 
+- No line should feel unearned.
+- No line should feel too obvious ("yeah you already said that"). 
+	- Especially nothing I frame as a big reveal should feel like a letdown ("yeah I already pieced that together" or worse, "that was obvious before I started reading" or even "yeah that's textbook shadow, so what?"). 
+	- It's okay if some readers know some stuff as long as they feel it might be new to most others.
+- No line should be too psychologically threatening ("I'm not evil!") or too milquetoast.
+- Every line should feel like it's building pieces of a bigger puzzle. 
+- Every line should feel either experientially verifiable (through the example) or like it logically follows.
+- When the reveals hit, the reader should feel "holy SHIT, that DOES follow from everything else I've already admitted."
+- Especially it should feel like "fuck, part of me already knew every piece of this puzzle, which means I must have known the whole picture all along!"
+- The punchline(s) should land like HAMMER BLOWS.
+- Nothing should feel preachy.
+- It should not meander.
+
+Which parts still need work?

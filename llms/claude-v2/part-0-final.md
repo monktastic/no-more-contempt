@@ -3,22 +3,31 @@
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
 
 ---
-
 ## Prelude
 
-Once, on a "heroic dose" of psilocybin, I was shown something that shattered my understanding of good and evil. It wasn't a gentle insight—it was a cascading series of revelations, each more devastating than the last, that demolished my entire worldview and replaced it with something infinitely more mysterious and meaningful.
+Once, on a "heroic dose" of psilocybin, I was shown exceedingly painful truths about myself—about how unkind I almost constantly was, in ways I never would have identified as "unkind." I was *so sure* I was only giving people what they deserved.
 
-Two decades later, I'm still reeling from the consequences.
+Then I was shown that part of me had *known* what I was really doing.
 
-What I saw wasn't just about psychology or morality. It was about the fundamental architecture of evil—how it operates, how it spreads, and most disturbingly, how it uses _our own goodness_ against us.
+I saw how the mechanism that allowed me to do this—and to hide it from myself—contained the essence of *all the evil there ever was.* One mistake, operating at all scales. And every time I did it myself, I was lowering the threshold for others to make the same mistake.
 
-I saw something that every major wisdom tradition has warned about: there is something that hijacks human consciousness while tricking us into believing that it hasn't—at least, not in *us.*
+Then I saw that I had always known *this*, too. I'd been hiding that knowledge as well.
 
-What follows is an attempt to show you what I saw—and why it matters more urgently than anything else we could be doing right now.
+But when I encountered what lay *beneath* all the hiding—that's when I saw something impossibly hopeful. How the battle could be won—not by fighting more viciously, but by refusing to turn away from what's authentically true; what we all already know, deep down. What we could never *actually* forget.
+
+Two decades later, I'm still reeling from the implications.
+
+Every major wisdom tradition has warned about this: something that hijacks human consciousness while tricking us into believing that it hasn't—at least, not in *us*—and how it uses our own goodness against us.
+
+I'd always considered it a metaphor, until I saw how concrete it really was.
 
 I came to call this hidden mechanism "the pattern"—or, when it shows its face, "the darkness."
 
-As I write about it, I can feel it operating in me right now—in my tone, in the subtle satisfaction of having "figured something out," in the way I'm positioning myself. I haven't escaped this pattern. But I think what I've seen is important enough that I don't want to wait until I'm enlightened to share it—because that waiting itself feels like another form of the pattern.
+---
+
+I think I saw something civilization needs to understand right now. I'm probably wrong about parts of it, I'm **definitely** still caught in the pattern I'm describing, and this is going to sound grandiose, but—I think the stakes are high enough that I need to try anyway.
+
+You'll see the pattern operating in how I write this—the subtle positioning, the satisfaction of "figuring something out," the tone that sometimes slips into teaching-mode. I can feel it happening as I type. I haven't transcended this, and I'm not going to wait until I do—because that waiting feels like another form of it.
 
 *(A note: This essay contains material about trauma and abuse that some may find difficult. If you've experienced severe trauma, please see the note in the Appendix before continuing, or proceed with care and consider having support available.)*
 
@@ -44,6 +53,6 @@ That part of you, and that part of me—they're *working together.*
 
 I don't know you. My politics may be diametrically opposite yours. 
 
-And it doesn't matter. They're still working together.
+And yet it doesn't matter. They're still working together.
 
 ---

@@ -37,10 +37,12 @@ That's why describing it so carefully matters. I'm not building an argument—I'
 
 # Part 2
 
-Part is s about subtlety, depth, cleverness, pervasiveness, and reach.
+Part is about subtlety, depth, cleverness, pervasiveness, and reach.
 How it snuck into everything, overwhelming all the good I did.
 
 The limbo state isn't binary.
+
+Mocking tasted like malice.
 
 Had not a suspicion but a recognition that the other person could only do wrong due to self-deception.
 
@@ -50,7 +52,9 @@ Start of part 2 is that the purpose of this thing is to darken the world while m
 
 That part of me that would rather deliver righteous vengeance than see people change--that's what was in control. I wanted to see them hurt. It was malevolent. By revealing itself to them, it knew how they would see me.
 
-Every act was meant to degrade the environment in such a way that it could hide itself better. And every act came with some plausible deniability. Every act could be made to look almost identical to an action with integrity. But people could sense it. They just couldn't prove it. It's this unprovability that makes it so sinister
+Every act was meant to degrade the environment in such a way that it could hide itself better. And every act came with some plausible deniability. Every act could be made to look almost identical to an action with integrity. But people could sense it. They just couldn't prove it. It's this unprovability that makes it so sinister.
+
+The purpose of darkness is to hide itself.
 
 Show secret handshake?
 
