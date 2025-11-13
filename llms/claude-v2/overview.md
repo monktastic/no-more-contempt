@@ -101,7 +101,7 @@ Some Key Insights For in Part II:
 Part II shows WHAT you're doing (hiding) and Part III shows WHY (the unbearable terror beneath it).
 
 What we need to accomplish:
-- My self-deception was ubiquitous (depth, scope, subtlety, etc.)
+- My self-deception was ubiquitous (depth, breadth, scope, subtlety, etc.)
 - It rippled outward
 - How all darkness was the same
 - Its purpose was to darken the ambient field, to hide itself

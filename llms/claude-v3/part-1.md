@@ -178,8 +178,6 @@ What we are dealing with—infected by—is like a self-executing parasite that 
 
 What does this look like in practice? The mechanism is truly mind-bending. Don't worry if you can't follow it all in detail.
 
-[need an example of deep empathy]
-
 In moments of deep empathy; the closer you are to your conscience—isn't it more obvious that other people are only caught in the same deep trap you are? (Don't worry about exceptions for now. We'll get to them soon.) That's what makes you want to help them in those moments, instead of shoving them deeper in.
 
 Which means you already know they have a conscience—and that the closer they get to theirs, the more obvious all of this would be to them. That this is just how humans work.
@@ -194,7 +192,7 @@ Which gives rise to what game theorists call *common knowledge*: we all know tha
 
 Whew. So...
 
-[shielded]
+[emphasize hidden knowledge]
 
 When I even subtly accuse you of being *inherently bad*, not only does part of me know I'm lying: I know that *you* know it, and that you know I know it, *ad infinitum*. I'm secretly revealing my own hypocrisy, making you see *me* as a bad person—which we also both know that the other knows etc.
 

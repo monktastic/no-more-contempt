@@ -74,7 +74,6 @@ You'll see the pattern operating in how I write this—the subtle positioning, t
 _(Note: This essay contains material about trauma and abuse that some may find difficult. If you've experienced severe trauma, please see the note in the Appendix before continuing, or proceed with care and consider having support available.)_
 
 
-----
 ---
 
 > _The earth is not dying, it is being killed, and those who are killing it have names and addresses._ —Utah Phillips
