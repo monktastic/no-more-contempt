@@ -24,7 +24,9 @@
 
 > We have met the enemy and he is us. —Walt Kelley
 
+> ⁠The devil is none other than the will turned away from God. When the will turns from the One, it becomes its own devil. —Meister Eckhart (14th c.), sermon 9
 
+> The man who has truly renounced himself and does not once cast a glance on what he has renounced, and thus remains immovable and unalterable, that man alone has really renounced self. —Meister Eckhart
 ---
 
 ### Psychedelics

@@ -1,20 +1,22 @@
 
-# Part 1
+Part 1
 
 Part 1 starts with experiential invitations and then walks through a scenario where I'm mocking / shaming my enemy. The punchline is that I am intentionally trying to darken their minds (and it is the contempt that does it).
 
 **Insights**
 - Limbo state is visible (and looks like a mild version of the dehumanizing glare. Turned away from themselves or the "Light").
 	- **What they'll intuit**:
-	- The Light = whatever integrity serves
-	- The Light = that thing you can't quite name but you know when you're aligned with it
-	- The Light = conscience, but bigger
-	- The Light = the opposite of the darkness they've already felt
+	- The Light = whatever integrity serves / that thing you can't quite name but you know when you're aligned with it / conscience, but bigger / the opposite of the darkness they've already felt
 	- **"I've always known there was a Light. I just never said it out loud."**
 - Hall of Mirrors
 - Inherently defective (that's what makes it okay to hurt them, and it's also what I hope to prove)
 - Three strikes as cover story
 - I was **intentionally** trying to darken their minds
+
+**What reader knows at end**
+- Light:
+- Darkness:
+- Why I (intentionally) darken minds:
 
 **Outline**
 - Limbo and conscience
@@ -26,4 +28,21 @@ Part 1 starts with experiential invitations and then walks through a scenario wh
 	- They're sensing my limbo state
 	- How? Think of receiving a dehumanizing glare
 
+---
+
+- Exercise: open your heart. Isn't it easier to see the Light in others this way?
+- My/the light. integrity example.
+- What shielding is like, how evil people just shield more completely
+
+- How limbo state feels like being possessed
+- Clarification: isn't there a danger to saying "I won't fight this evil, because I can't do it without contempt" (and then being complacent)? YES.
+
+- We don't disobey conscience because of the justifications. We do it because we **choose to follow** the justifications. We don't have to. We follow the ones that give us plausible deniability. That's the origin.
+
+---
+
 # Part 2
+
+- Must include an example of how I had a choice to see light/dark in others.
+- I knew my darkness would spread beyond you.
+- Darkness sneaking around in my mind.

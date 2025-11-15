@@ -1,41 +1,11 @@
+## A Self-Fulfilling Prophecy
 
-Need a clearer progression of perspectives
+This part of me: it *needs* me to see the world as dark; to see (some) people as inherently defective—because how else would it justify its presence in my mind? How else would it compel me to viciously attack?
 
-1. I'm fighting you with the intention of improving the world.
-2. I'm provoking you to make you worse, so you seem like the evil one.
-3. I'm provoking you to make the *world* worse, so I can hide my own darkness better.
+Now notice something astonishing about how it worked:
 
-4. I'm using my darkness to combat yours.
-5. I'm using my darkness to provoke yours, so I can prove it's your fault.
-6. I'm using my darkness to create more, so I can hide my own better.
+1. I have a deep, primal need to see other people as "what's wrong with the world."
+2. This need is so dark I must hide it from myself, but so primal I can't help but reveal it to others.
+3. That combination alone is enough to cause it.
 
-7. My darkness is using us to spread itself.
-
----
-
-1. I'm purely good.
-	a. To fight you and improve the world.
-	b. To provoke your darkness, proving how bad you are.
-	~~c. To make the *world* worse, to hide my own shadow.~~
-
-2. I'm using my darkness.
-	a. To fight yours / intimidate you (and improve the world).
-	b. To provoke yours, so I can prove you're the bad one.
-	c. To create more, to hide my own shadow. [x]
-
-3. The darkness is using me.
-	a. To spread itself. [x] "see, even the so-called good people"
-
----
-
-I'm purely good. I treat you with contempt to improve the world.
-
-Okay, I'm trying to provoke you, because this proves how bad you are, which is good for the world.
-
-Okay I'm using my darkness to intimidate you into stopping.
-
-Okay fine, I'm using it to provoke yours and prove how bad you are.
-
-I'm actually using it to create more darkness in the world, to hide my own.
-
-Oh shit, it's using me to spread itself.
+It is a self-fulfilling prophecy. Its form **is** its function. Simply by existing, it spreads itself.

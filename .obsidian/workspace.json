@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-v1/Part-1-guidance.md",
+                "file": "llms/evaluation-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part-1-guidance"
+              "title": "evaluation-guide"
             }
           },
           {
@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quotes.md",
+                "file": "llms/claude-v4/one-pager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quotes"
+              "title": "one-pager"
             }
           },
           {
@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-v3/part-1.md",
+                "file": "llms/claude-v3/jessan-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "part-1"
+              "title": "jessan-notes"
             }
           },
           {
@@ -258,9 +258,23 @@
               "icon": "lucide-file",
               "title": "part-0-final"
             }
+          },
+          {
+            "id": "6fa4ae9caf9c517f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/key-points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "key-points"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -292,7 +306,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recoil",
+                "query": "\"driver\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -409,34 +423,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1facf229b2f5209d",
+  "active": "6fa4ae9caf9c517f",
   "lastOpenFiles": [
-    "llms/claude-v3/Untitled.md",
-    "llms/claude-v3/part-1.md",
-    "llms/claude-v3/TODO.md",
-    "llms/claude-v3/outline.md",
-    "llms/claude-v3/poem.md",
-    "llms/claude-v3/cutting-room-floor.md",
-    "llms/claude-v2/part-2-final.md",
-    "llms/claude-v2/part-1-final.md",
-    "llms/claude-v3/part-1-old.md",
-    "llms/claude-v2/part-0-final.md",
-    "quotes.md",
-    "llms/paradoxes.md",
-    "llms/overall-guidance.md",
-    "llms/vision.md",
-    "llms/drafts/claude-2025-10-23b.md",
-    "llms/drafts/claude-2025-10-24g.md",
-    "scratch/the-darkness.md",
+    "llms/claude-v4/main-points.md",
     "scratch/key-points.md",
-    "scratch/graveyard.md",
-    "llms/claude-v3/poem-todo.md",
-    "llms/claude-v2/part-2-old-draft.md",
-    "scratch/chapter-bullets.md",
-    "llms/enlightened-evaluation.md",
+    "llms/claude-v4/part-2.md",
+    "llms/claude-v4/part-1.md",
+    "llms/claude-v4/part-0.md",
+    "llms/claude-v2/part-2-final.md",
+    "llms/claude-v4/outline.md",
+    "llms/all-insights.md",
+    "llms/drafts/claude-2025-10-16e.md",
+    "llms/claude-v2/overview.md",
+    "old/index-old-22.md",
+    "scratch/endless-2.md",
+    "llms/claude-v2/part-1-final.md",
+    "part-2.md",
+    "llms/claude-v4/one-pager-old.md",
+    "llms/claude-v3/cutting-room-floor.md",
+    "llms/claude-v3/part-1.md",
+    "llms/claude-v4/TODO.md",
+    "llms/claude-v3/the-light.md",
+    "llms/claude-v2/part-0-final.md",
+    "llms/claude-v4/one-pager.md",
+    "llms/overview.md",
+    "llms/claude-v4/perspectives.md",
     "llms/TODO.md",
-    "scratch/bad-people.md",
-    "llms/claude-v2/TODO.md",
+    "llms/the-harm-paradox.md",
+    "llms/the-accomplishment.md",
+    "llms/claude-v4",
+    "llms/claude-v3/part-1.epub",
     "llms/claude-v3",
     "llms/claude-v2/misc-notes",
     "llms/claude-v2/part-3-notes",
@@ -445,8 +461,6 @@
     "llms/claude-v2/untitled folder",
     "llms/claude-v2",
     "llms/claude-v1",
-    "llms/drafts",
-    "llms/misc",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",

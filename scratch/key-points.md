@@ -1,102 +1,31 @@
+## Conscience / limbo state / self-deception
 
-L2 - Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe." (needs an example of me delivering that dark message)
+**L0** - I cannot knowingly cause harm without turning away.
 
-L1 - Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check. What a crock.
+**L0** - Your conscience doesn't try to justify itself. The thing producing justifications isn't there to convince it; it's there to convince you that you can't hear it; that it's just one more voice among the noise.
 
-L0: If there were really an inner Light, we'd be able to prove it, right? And since we can't prove it, there's no point looking for it.
+L1 - We don't disobey conscience because of the justifications. We do it because we **choose to follow** the justifications. We don't have to. We follow the ones that give us plausible deniability. That's the origin.
 
-# Key Points - Organized by Theme and Dependency Order
+L1 - Doesn't it feel like wise people aren't hiding anything from themselves? The hiding is the revealing.
 
-## NEW FRAMING DEVICES
+L1 - Limbo state / self-deception is the secret mechanism behind all evil.
 
-**L1** - The "three strikes" mechanism: How contempt creates a self-reinforcing loop in three steps:
-- Strike one: They sense our malice, it weakens their faith in humanity and reminds them the world is dark
-- Strike two: We see them become defensive instead of introspective, and they implicitly accuse US of being evil
-- Strike three: We realize they somehow knew about our hidden malice (which we barely knew ourselves), so they must be projecting their darkness onto us
+**L1** - There's this subtle sense of getting away with something. I know my plan / agenda / business / ideology is secretly meant to be self-serving, but I can also prove that it will accomplish good. Therefore, it must _be_ good—and if I just suppress knowledge of its true purpose hard enough, that will no longer be its "true" purpose. Like a magic trick, I will hide it from reality (my mind) so well that it magically vanishes. What I can't see is that the self-deception required to maintain this illusion ensures that it will sully the world in exactly the way my conscience warned me would happen if I acted selfishly. I think I'm hiding it from God, but I can't, because God is the thing looking out my eyes, even as I form this ridiculous plan. He was always lurking back there, smiling, not judging.
 
-**L1** - The stranger scenario: Testing whether you'd respond with gratitude when called out. "You—a perfectly decent person who knows full well you've done wrong—still dig in your heels when treated with contempt. Why? It's not just because of your big ego. It's because *you can tell that they're not coming from a good place.* Pause and feel that. You can feel this independently of their words. How? What does that tell you about the people *you* treat with contempt—even when your words are technically correct, even when you're sure you're on the right side?"
+**L1** - Every time we skirt our conscience, we feel a little thrill—as though we're "pulling a fast one" over the world. But the joke is ultimately on us, because every such act only darkens our reality further—which on one hand, we get to use as justification for even _more_ self-serving behavior, but on the other, inevitably dead-ends in a planet unfit for our survival.
 
-**L1** - The progression from shielding to evil: Evil people don't do a *different* thing than the rest of us; they just have a stronger version of the same thing. We instinctively recoil from harming people when we can see their Light. The more we shield ourselves from it, the easier it becomes to cause harm. Shield it completely? The guardrails come off. You would know what it's like to *be evil.*
-
-## SPECIFIC PEDAGOGICAL DEVICES
-
-**L0** - Opening with direct reader introspection: "Can you feel it—the *evil people* out there, ruining it for the rest of us? How do they make you feel? How do you want *them* to feel? Be totally honest. Would some tiny part of you be disappointed to discover they're not *fundamentally* evil—that they're just badly confused but inherently redeemable people like the rest of us?"
-
-**L1** - The "mutual knowing" framing as explicit subsection: "Not only did part of *us* know this is what really happened, part of them knew it too. Don't we all already know that this is how it works? And we *knew* they knew it—which we had to hide—and they knew that, too. Have you felt that before, while doing it? That you both secretly know what's really going on? Almost like a shared secret that we've all agreed not to talk about, lest it spoil the game."
-
-## CONTENT NOTES
-
-**Author's note on Christian quotes:** "I don't exactly consider myself a Christian, but I gained a newfound appreciation for the words of Jesus through this experience. They pointed to something I'd been missing my entire life."
-
-**Trauma warning included:** "This essay contains material about trauma and abuse that some may find difficult. If you've experienced severe trauma, please see the note in Part IV before continuing, or proceed with care and consider having support available."
-
-
-**L2** - "At the very ultimate level, there is nothing special about any one of us—no cleanliness of soul—that would have ensured we would turn out differently. We simply haven't been subjected to the same forces. And even this knowledge—'I could have been them'—must be held carefully, because it can become another form of self-righteousness ('Look how humble I am for recognizing this')."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+## Contempt
 
 L0: As long as that subtle trace of contempt exists anywhere in my field of experience, directed at anything—and this is often very hard to detect—it means that I'm not actually acting in service to whatever I *think* I am. My actions are subtly degrading the whole, and even worse, they're secretly *meant* to, so that I can justify more subtle contempt.
 
-**L1** - The background hum of casual cruelty: The darkness doesn't just spread through dramatic confrontations. It spreads through the constant background hum of casual contempt—YouTube comments, Reddit threads, Twitter pile-ons, Facebook snark. Each instance seems tiny, meaningless, but they're cumulative. They act like radiation, creating an atmosphere where everyone's baseline cynicism rises slightly, where everyone's default assumption about strangers becomes darker. This is what feeds the great evils. The oil executive making his harmful choice, the politician telling her lie—they're swimming in this sea of casual cruelty. It's made the world just dark enough that their self-deception becomes easier to justify. Every contemptuous comment you don't make turns down the volume on that hum, making the atmosphere less hospitable for darkness to spread.
-
-L1: The devil is in the details. How nearly any agenda (e.g., political) can be implemented with compassion or contempt. How people can sense what the intention of the originator is, and how it influences their implementation. Thus how it can create great harm or great good. But people are too busy arguing about the outward, overt goals (the provable stuff).
-
-L1: "The things you do when nobody's watching--they don't fail to matter." (What other deep truths do people feel? Which ones are hopeful? This one is validated by showing that our inner knowing is reliable.)
-
-L2: Notice how the limbo state was itself in limbo: you've always known this but maybe never brought it into conscious awareness.
-
-**L0**: Evil is the *result* of shielding, not its cause. Even if we suspect evil people are just shielding, we still suspect it's because they *are* evil. Beyond a certain point, it starts feeling like the cause.
-
-**L1**: The parasite's job is to make us confuse the person with their darkness. This alone ensures we will strengthen it.
-
-L0:
-
-"Evidence of the conspiracy. 
-
-Why is it "common knowledge" that humans are *fundamentally* greedy and selfish? Does that knowledge make people kinder, or more likely to engage in selfish behavior themselves? Don't we all already know this, even if we've never thought about it consciously? Can you feel how it's sending the same basic message as when we mock someone: "this world is a dark place, better protect yourself"—and how it has the same effect?
-
-If the parasite draws power from one person doing that to another, how much power would it draw from all of humanity believing it together—not just vaguely, but as received wisdom, impolite to question?
-
-The people who *do* become kinder as a result—can you feel how they're standing in defiance of the dark; giving it the middle finger? How they're holding the line for the rest of us? How do you feel knowing such people exist? Do they inspire hope in something greater?
-
-Those who stand in firm, selfless integrity even when no one's watching—maybe you. Do they do it because natural selection mindlessly made them, or are they fiercely committed to something beyond all justifications and rationalizations... something we all know but struggle to name?
-
-The view that reality is made of lifeless stuff—do the industries that pollute rivers, decimate forests, strip-mine mountains, etc. benefit from it? Is it because their CEOs got together and published a memo? Or is it enforced—through social norms—far beyond their boundaries? Does it ever feel like there's a life-denying, life-destroying force that's devouring everything?
-
-Hollywood churning out revenge fantasy films viscerally reminding us that *irredeemably* bad people exist, and must be defeated through primally satisfying violence—help or hurt the parasite? Again, do you think the Hollywood execs had to intentionally plan this?
-
-It is why our culture fetishizes rationality and intellect above all else: those aspect of mind are fundamentally incapable of detecting the spreading infection until _after_ it has physically manifested, by which point it is too late. We trust our thinking minds to tell us when they're lying to us, and then use more thoughts to prove that thinking is all we have. If there really were an "inner Light," we would be able to prove it; and since we can't, there's no point in looking for it. [this last sentence may need to wait until after the light reveal, unless there's an easy fix.]
-
-It is why wise people tell us to have compassion for evildoers but our culture treats this as naive."
-
-
-
-L1: the Dalai Lama says if someone's trying to shoot you and you have a gun, shoot back—but never out of malice.
-
-L1: Took me back to how it felt hurting bad people. Impossibly righteous. Immediately back to true righteousness. You can only choose the false one by forgetting what the real one is like. Exactly like how people can only choose junk food by never having been offered real food, porn over intimacy, etc.
-
-L0: On one level, we're fighting. On the second level, my parasite is provoking yours. Third level: oh shit, they're working together!
-
-L1: "Every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight. Sure, we may sometimes commit little misdeeds here or there, but they're of a fundamentally different nature than the _real_ darkness that plagues our world, and so cleaning up our own behavior ranks way down in the list of problems to solve. So what did I do? I created them. I kept them trapped there. All while patting myself on the back for how *righteous* I was being. And it didn't even require overt cruelty. I could make it look nearly identical to genuine righteousness while still getting the job done. All I had to do was harbor *contempt*. Then I could point at what I had created and know, with absolute certainty, that evil was real and that it wasn't me."
-
-
 L1: When I am shoving another person into the dark while trying to look righteous, part of them knows what I'm doing, and I know that, and they know I know that, ad infinitum. That's what makes it so effective. This is called "common knowledge" in game theory. This mutual knowing operated beneath words, yet landed with perfect precision.
 
-L2: Have you ever felt gratitude when someone helps strangers you'll never meet or donates to charities you'll never benefit from directly? There's a reason for that.
+**L0** - We make others feel unsafe (through contempt) precisely so they can never look closely enough to see their darkness isn't them. On one level we know we're doing this. On deeper level: it's not "us" doing it—it's the pattern using us.
+
+**L1** - We spread contempt even without direct contact: outrage parties, sharing contemptuous posts. Each raises the background contempt level in the collective field. The darkness doesn't care who you hate, as long as you hate.
+
+**L2** - Most common subtle contempt: being unwilling to truly hear someone's experience. "That person is stupid for feeling that way." Dismissing their inner life as alien shuts down dialogue, keeps both trapped in certainty.
 
 L2:
 "But how can something as simple as *contempt* have such a profound effect? After all, it's only conveying:
@@ -108,19 +37,132 @@ But somehow, what comes across is closer to:
 > *See? Even the so-called "good people" are ultimately frauds, and their supposed "Light" a naive myth. When push comes to shove, even they must rely on the real source of power in this world—the darkness. Give up the struggle and join us.*"
 
 
-### Need to be placed into the doc somewhere:
+**L1** - This mechanism is very difficult to recognize in ourselves, but very easy to see in our enemies. This makes us treat them with contempt, convinced that we're helping the world.
 
-**L0** - Our demons/parasites aren't fighting—they're collaborating. My darkness gives theirs evidence they're persecuted; their darkness gives mine evidence they're irredeemable. Both avoid looking at own darkness while feeling righteous. Perfect closed loop. Secret alliance beneath conscious awareness.
+
+---
+## Shielding
+
+L1 - Shielding takes effort to maintain.
+
+**L1** - The progression from shielding to evil: Evil people don't do a *different* thing than the rest of us; they just have a stronger version of the same thing. We instinctively recoil from harming people when we can see their Light. The more we shield ourselves from it, the easier it becomes to cause harm. Shield it completely? The guardrails come off. You would know what it's like to *be evil.*
+
+**L0**: Evil is the *result* of shielding, not its cause. Even if we suspect evil people are just shielding, we still suspect it's because they *are* evil. Beyond a certain point, it starts feeling like the cause.
+
+---
+## Calculating your way to goodness
+
+L0 - When you're acting from contempt, notice how *sure* you are it's good.
+
+**L0** - The belief that metrics can tell you whether we're on the right track is the externalization of the belief that thoughts can tell you whether you're doing good.
+
+L0: If there were really an inner Light, we'd be able to prove it, right? And since we can't prove it, there's no point looking for it.
+
+**L0** - The crucial thing is to stay aligned with your heart. Find that part of you that longs for nothing more than to be of service to all of Life. You can feel it when you're connected to it. That slowly devolves into an *idea* of serving life ("oh, the best way to serve Life is to violently murder XYZ, and here's a proof.") The feeling of "righteous" transforms beneath your notice.
+
+L1 - "I'll just try to be a better person" doesn't work (because "good person" is an idea. See moral escape hatch. Also, the parasite lies dormant.)
+
+L1: The Moral Escape Hatch: We like to think rules and moral systems exist to make us good people—but we actually build them to offload our moral responsibility. It’s easier to follow a rule than to stay fully aware in the moment. Rules let us say “I did the right thing” without feeling the full weight of conscience. Real conscience isn’t a list of dos and don’ts. It’s full, unflinching awareness. It's refusing to escape into limbo. It demands that we see everything we’re doing, everything it touches, and act honestly from that seeing. That’s hard. It hurts. So we build moral systems to take the edge off. They let us feel righteous while keeping us half-asleep. That is why genuine goodness cannot be formalized."
+
+**L1** - Good and evil _cannot_ be formalized. Any attempt to do so is only your mind trying to squirm out of its responsibility to be deeply sensitive to what your present situation requires of you. Your ideologies can serve as guidelines, but nothing more.
+
+**L1** - If you really want to know whether your behavior is good or evil, you must turn to a place that's deeper than thought; a place that can never be hijacked. There is a part of you that knows when you're lying to yourself. It sees how this will darken the world even when there's no objective evidence; even when no one is watching. Modern society fetishizes thinking and rationality precisely because they enable us to overlook this part, relegating it to the spiritual or mystical. Organized religion, on the other hand, instructs us to rely on an external authority for the same reason. Both give rise to a massive blind spot that allows our darkness to thrive.
+
+**L1** - If you want to know whether you're really doing good, the first thing you must learn to check is whether you're deceiving yourself in some way. It is by far our most common mode of operation. Calculations can obviously be helpful, but only if they're in service of our Light. They must come "after" (not temporally after, necessarily.)
+
+**L1** - If you have some grand narrative about how to save the world, it's crucial to check whether it's causing (or even requiring!) you to have contempt for what's right here, right now. If so, it probably isn't rooted in authentic goodness, and probably won't have the effect you think (or can even prove!) it will. A common example of this is "I'll hoard as much wealth and resources as possible so that I can one day deploy it in service of good." (see: FTX). Or eugenics projects. Maybe give other examples.
+
+**L2** - One of the key insights that kicked off this whole work for me was that when we go into work, we're usually lying to ourselves about how it's going to impact the world. Either it's really to enrich us or we are caught in the materialism trap etc. And so the most important thing we can bring to our work is our connection to the light. And not just work, all of life. The most important thing we can offer the world is our connection to our light, our integrity. If we're trying to follow our thoughts to tell us what the impact of our behavior will be, we're probably lost.
+
+---
+## Parasite
+
+L1 - Identifying it as a parasite is what releases the shame that was preventing me from looking directly at it.
+
+**L1**: The parasite's job is to make us confuse the person with their darkness. This alone ensures we will strengthen it.
+
+---
+## Devil / conspiracy
+
+**L1** - The line between those who deserve our compassion and those who deserve our contempt exists only for the Devil to keep its foot in the door.
+
+**L0** - Our parasites aren't fighting—they're collaborating. My darkness gives theirs evidence they're persecuted; their darkness gives mine evidence they're irredeemable. Both avoid looking at own darkness while feeling righteous. Perfect closed loop. Secret alliance beneath conscious awareness.
+
+**L1** - The background hum of casual cruelty: The darkness doesn't just spread through dramatic confrontations. It spreads through the constant background hum of casual contempt—YouTube comments, Reddit threads, Twitter pile-ons, Facebook snark. "Darwin award," "FAFO," "play stupid games" etc. Each instance seems tiny, meaningless, but they're cumulative. They act like radiation, creating an atmosphere where everyone's baseline cynicism rises slightly, where everyone's default assumption about strangers becomes darker. This is what feeds the great evils. The oil executive making his harmful choice, the politician telling her lie—they're swimming in this sea of casual cruelty. It's made the world just dark enough that their self-deception becomes easier to justify. Every contemptuous comment you don't make turns down the volume on that hum, making the atmosphere less hospitable for darkness to spread.
+
+**L1** - two actions can be made to look nearly-identical on the outside and yet produce drastically different long-term effects.
+
+L1: The devil is in the details. How nearly any agenda (e.g., political) can be implemented with compassion or contempt. How people can sense what the intention of the originator is, and how it influences their implementation. Thus how it can create great harm or great good. But people are too busy arguing about the outward, overt goals (the provable stuff).
+
+---
+## Evil people
+
+**L1** - "Bad people" are just those on whom we feel righteous unleashing our darkness.
+
+**L2** - Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe."
+
+---
+## Compassion / The Light
+
+**L1** - Directly perceiving the full interconnectedness and "oneness" of reality is what contemplative traditions would call enlightenment, but all of us can taste it to some degree or another long before then. That's why literature like the following speaks to us so powerfully. It is also why we sometimes thank people for acts of charity that don't seem to benefit us directly. We can sense that whatever happens to the world ultimately happens to us.
+
+L1: the Dalai Lama says if someone's trying to shoot you and you have a gun, shoot back—but never out of malice.
+
+L1: It is not until you realize just how badly you've been fooled that you begin to appreciate what is going on in the minds of the "bad people" — and thereby become able to combat it.
+
+**L0** - A major punchline: goodness is simply what remains in the absence of self-deception, not something you have to add. (The classic angel and devil on shoulders is almost correct, but the angel is actually your true nature and the devil is your capacity for self-deception—a parasite that can be evicted. They are not equals.)
+
+**L2** - Realizing this in its entirety is known as _enlightenment_, but all of us can sense it to some degree or another at all times. It is only by turning away from this ultimate truth that we are able to feel contempt, and thereby willingly cause harm.
+
+**L2** - We lost contact with our absolute goodness, and so we went out searching for our goodness relatively — that is, by making other people bad. How ironic that our faint memory of our goodness ended up causing so much harm.
+
+**L2** - At the ultimate level, we find that there _are_ no "others." This is the hardest level to describe, being what spiritual traditions call "enlightenment." Reality itself is a radiant singularity, whose essential nature is something like infinite Love. Again, this is not something soft and mushy—or at least, not _only_ those things. It is beyond all mental categories, and yet we recognize it as the ultimate source of our heroic capacity to defend Life and the innocent at any cost. That is what you most ultimately _are._
+
+**L0** - The very definition of good is that which brings us all closer to remembering our common true nature, and that can only be done by remembering yours. Evil is the opposite of this. That is why it is often said that the greatest gift you can give to the world is your own Awakening. Until then, some part of you will always be reinforcing evil, even as another part is confident that you're fighting it. It is completely inevitable.
+
+**L1** - At the very deepest level, you _are_ the Light. So is everybody else. In fact, you _are_ everybody and everything else, just pretending that you're not. One consciousness, dreaming countless perspectives.
+
+**L1** - What you ultimately are is a Light so vast that it defies description; a profound Love for all of reality that excludes nothing and forsakes no-one — including the targets of its fearsome wrath, should that be necessary.
+
+**L0** - The big reveal was: "Oh, this is not me!" It was layers of pain and confusion that had agglomerated into a complex (in the Jungian sense?). I was shown what I was when that complex lifted (which felt like being freed of a demonic possession). There was no mistaking the fact that the complex was extrinsic to my mind, whereas the Light underneath it was intrinsic. In fact, not just intrinsic, but somehow what I actually _was_. That Light is completely featureless (though its true nature is Love). Then: "Oh, this is not him either!" It cannot possibly be someone's true self. Malice is not inherent to the nature of mind—just like the Buddhists say.
+
+**L3** - Notice how the word "right" is a synonym for both "good" and "correct." This is not an accident: something in you knows that what is good is what is most correct.
+
+**L0** - Compassion being weak is only a lie that the darkness tells to prevent us from recognizing the true power of our Light.
+
+**L0** - Counterintuitive: you can lift people up even as you viciously combat their evil.
+
+**L2** - It has become a common trope that we are how the Universe looks at itself. But what if it were possible to know this not as a mere concept, but as a direct experiential realization? You would feel the visceral impact of knowing that all of it is ultimately different parts of You.
+
+---
+
+L1 - Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check. What a crock.
+
+## NEW FRAMING DEVICES
+
+**L1** - The "three strikes" mechanism
+
+**L1** - When on the receiving end of contempt, you can tell they're not coming from a good place. How?
+
+L0: On one level, we're fighting. On the second level, my darkness is provoking yours. Third level: oh shit, they're using us!
+
+## CONTENT NOTES
+
+**L2** - "At the very ultimate level, there is nothing special about any one of us—no cleanliness of soul—that would have ensured we would turn out differently. We simply haven't been subjected to the same forces. And even this knowledge—'I could have been them'—must be held carefully, because it can become another form of self-righteousness ('Look how humble I am for recognizing this')."
+
+L1: "The things you do when nobody's watching—they don't fail to matter." (What other deep truths do people feel? Which ones are hopeful? This one is validated by showing that our inner knowing is reliable.)
+
+L1: You can only choose the false one by forgetting what the real one is like. Exactly like how people can only choose junk food by never having been offered real food, porn over intimacy, etc.
+
+L2: Have you ever felt gratitude when someone helps strangers you'll never meet or donates to charities you'll never benefit from directly? There's a reason for that.
+
+
+### Need to be placed into the doc somewhere:
 
 **L0** - I could only see my darkness clearly because the medicine held me in the Light while revealing it. When darkness is exposed non-lovingly, we feel threatened and can't look. When held in unconditional Love, we can see: it's not even part of me—it's completely extrinsic. This is the only way the parasite can be evicted.
 
-**L0** - We make others feel unsafe (through contempt) precisely so they can never look closely enough to see their darkness isn't them. On one level we know we're doing this. On deeper level: it's not "us" doing it—it's the pattern using us.
-
 **L1** - When we see darkness in the world, we use it to justify our own ("I've been hurt, so I'm licensed"). Then feel guilty, so never look closely enough to see it's not us. The darkness wants to stay in limbo.
 
-**L1** - We spread contempt even without direct contact: outrage parties, sharing contemptuous posts. Each raises the background contempt level in the collective field. The darkness doesn't care who you hate, as long as you hate.
-
-**L2** - Most common subtle contempt: being unwilling to truly hear someone's experience. "That person is stupid for feeling that way." Dismissing their inner life as alien shuts down dialogue, keeps both trapped in certainty.
 
 **L0** - Fourth wall: "The knowledge had never been absent. Not in me. And not in you, reading this right now." You already know this—you've felt it when thanking people for charity that won't benefit you, when stories like The Egg resonate.
 
@@ -136,77 +178,28 @@ But somehow, what comes across is closer to:
     
 - The shift in mindset: we are rescuing people (badly confused versions of ourselves?) from our primordial nemesis.
 
-**L1**: We shave off a little or there for ourselves, telling ourselves we deserve it, and that it's not nearly as awful as what the "bad people" do—but we *know* it will subtly darken the world further, which we want, because it will give cover to our own. We tell ourselves it won't matter in the grand scheme of things, but part of us knows it's somehow empowering the great evils.
+**L1**: We shave off a little or there for ourselves, telling ourselves we deserve it, and that it's not nearly as awful as what the "bad people" do—but we *know* it will subtly darken the world further, which we want, because it will give cover to our own. We tell ourselves it won't matter in the grand scheme of things, but part of us knows it's contributing to the degradation of the social fabric.
 
 **L1**: It's ultimately not possible to hide anything, so why try?
 
-**L3**: Normally, we have an aversion to harming people because you perceive their innocence—their Light—and instinctively recoil from the thought of extinguishing it. But if they have no such Light? The guardrails come off—and this comes across in our behavior via countless subtle tells, whether we're aware of it or not. We give people the benefit of the doubt until they cross a particular line, then we see them as evil, and at that point not just our strategy changes, but we realize we can pull of this ruse.
-
-Should ask two leading questions that support Oneness: Why did they have to hide it? How was common knowledge possible? But since we don't unpack "common knowledge" until much later, we need something (maybe very brief?) before the Light reveal that asks how we communicated such a complex message through such a narrow channel. Must evoke the sense of we knew they knew we knew they knew. Oh, and we have to first point out the fact that contempt DID in fact convey all that through an extremely narrow channel.
+**L3**: Normally, we have an aversion to harming people because we perceive their innocence—their Light—and instinctively recoil from the thought of extinguishing it. But if they have no such Light? The guardrails come off—and this comes across in our behavior via countless subtle tells, whether we're aware of it or not. We give people the benefit of the doubt until they cross a particular line, then we see them as evil, and at that point not just our strategy changes, but we realize we can pull of this ruse.
 
 **L1**: This is why it is worth staying committed to our light at literally any cost. Not just our idea of the light, which are always sullied by self-deception. It is the ONLY thing that moves this whole thing in the direction we most deeply desire.
 
 L1: In one sentence: darkness perpetuates itself by pretending to fight itself.
 
-L1:
 
-"### The Moral Escape Hatch
-
-We like to think rules and moral systems exist to make us good people—but we actually build them to offload our moral responsibility.
-
-It’s easier to follow a rule than to stay fully aware in the moment. Rules let us say “I did the right thing” without feeling the full weight of conscience.
-
-Real conscience isn’t a list of dos and don’ts. It’s full, unflinching awareness. It's refusing to escape into limbo. It demands that we see everything we’re doing, everything it touches, and act honestly from that seeing. That’s hard. It hurts.
-
-So we build moral systems to take the edge off. They let us feel righteous while keeping us half-asleep.
-
-That is why genuine goodness cannot be formalized."
 
 **L1**: This is why, if you want to end evil, it is necessary and sufficient to end the limbo state in humanity—and the only way to help with that is to end it in yourself. Otherwise, part of you will always be secretly reinforcing it in others. Now listen for some part of you is fearful: "what if, underneath the self-deception, some people (maybe even me) might STILL do the wrong thing." That fear exists ONLY to give that part of you an excuse to push others deeper in; for your own darkness to continue hiding.
 
 L1: The purpose of conveying "I am nothing like you" is to increase that perception in the Whole, which we do because it is too painful to confront that what lives in you does, indeed, live in me.
 
 ---
-
-## 1. THE NATURE OF GOODNESS/LIGHT (Our True Foundation)
-
-**L0** - The very definition of good is that which brings us all closer to remembering our common true nature, and that can only be done by remembering yours. Evil is the opposite of this. That is why it is often said that the greatest gift you can give to the world is your own Awakening. Until then, some part of you will always be reinforcing evil, even as another part is confident that you're fighting it. It is completely inevitable.
-
-**L1** - At the very deepest level, you _are_ the Light. So is everybody else. In fact, you _are_ everybody and everything else, just pretending that you're not. One consciousness, dreaming countless perspectives.
-
-**L1** - What you ultimately are is a Light so vast that it defies description; a profound Love for all of reality that excludes nothing and forsakes no-one — including the targets of its fearsome wrath, should that be necessary.
-
-**L0** - The big reveal was: "Oh, this is not me!" It was layers of pain and confusion that had agglomerated into a complex (in the Jungian sense?). I was shown what I was when that complex lifted (which felt like being freed of a demonic possession). There was no mistaking the fact that the complex was extrinsic to my mind, whereas the Light underneath it was intrinsic. In fact, not just intrinsic, but somehow what I actually _was_. That Light is completely featureless (though its true nature is Love). Then: "Oh, this is not him either!" It cannot possibly be someone's true self. Malice is not inherent to the nature of mind—just like the Buddhists say.
-
-**L0** - A major punchline: goodness is simply what remains in the absence of self-deception, not something you have to add. (The classic angel and devil on shoulders is almost correct, but the angel is actually your true nature and the devil is your capacity for self-deception—a parasite that can be evicted. They are not equals.)
-
-**L2** - Realizing this in its entirety is known as _enlightenment_, but all of us can sense it to some degree or another at all times. It is only by turning away from this ultimate truth that we are able to feel contempt, and thereby willingly cause harm.
-
-**L2** - We lost contact with our absolute goodness, and so we went out searching for our goodness relatively — that is, by making other people bad. How ironic that our faint memory of our goodness ended up causing so much harm.
-
-**L2** - At the ultimate level, we find that there _are_ no "others." This is the hardest level to describe, being what spiritual traditions call "enlightenment." Reality itself is a radiant singularity, whose essential nature is something like infinite Love. Again, this is not something soft and mushy—or at least, not _only_ those things. It is beyond all mental categories, and yet we recognize it as the ultimate source of our heroic capacity to defend Life and the innocent at any cost. That is what you most ultimately _are._
-
-**L3** - Notice how the word "right" is a synonym for both "good" and "correct." This is not an accident: something in you knows that what is good is what is most correct.
-
----
-
 ## 2. SELF-DECEPTION AS THE CORE MECHANISM
-
-**L0** - People are only able to cause harm due to a kind of self-deception. Part of them knows _perfectly well_ that they're doing wrong, but this knowledge is carefully shielded from conscious self-reflection, so that it doesn't _feel_ wrong. All they hear are their own clever justifications. It is a profound form of self-deception. This bizarre schism of mind is the secret behind _all the evil there ever was_ — and it has enabled our own misbehavior, too, if we're honest. Every one of us has skirted our conscience before, pretending either that we couldn't hear it or that we didn't have to listen. Our examples may differ in degree, but not in kind.
-
-**L1** - There is an aspect of our mind that always knows whether our behavior will brighten the world or darken it for our own personal gain.
-
-**L1** - If you want to know whether you're really doing good, the first thing you must learn to check is whether you're deceiving yourself in some way. It is by far our most common mode of operation. Calculations can obviously be helpful, but only if they're in service of our Light. They must come "after" (not temporally after, necessarily.)
 
 **L1** - We like to believe that our innermost intentions have no effect on the world; that they remain confined to our skulls, and only our actions have consequences — but this is precisely how our darkness gets us to look away for long enough to infuse itself _into_ those very actions, thereby escaping our skulls and weaving itself into the fabric of our reality. A deep part of us knows when our actions are not fully aligned with the Light, but with our own self-interest instead. This knowledge subtly taints those actions, so that even the most noble-sounding project only induces more self-serving behavior in everyone it touches, even as they're convinced that they're doing good.
 
-**L1** - This knowledge may be hidden from conscious self-reflection, but crucially, it's not entirely unconscious, either. It exists in a kind of limbo state, and we _can_ become entirely conscious of it.
 
-**L1** - This mechanism is very difficult to recognize in ourselves, but very easy to see in our enemies. This makes us treat them with contempt, convinced that we're helping the world.
-
-**L1** - There's this subtle sense of getting away with something. I know my plan / agenda / business / ideology is secretly meant to be self-serving, but I can also prove that it will accomplish good. Therefore, it must _be_ good—and if I just suppress knowledge of its true purpose hard enough, that will no longer be its "true" purpose. Like a magic trick, I will hide it from reality (my mind) so well that it magically vanishes. What I can't see is that the self-deception required to maintain this illusion ensures that it will sully the world in exactly the way my conscience warned me would happen if I acted selfishly. I think I'm hiding it from God, but I can't, because God is the thing looking out my eyes, even as I form this ridiculous plan. He was always lurking back there, smiling, not judging.
-
-**L1** - Every time we skirt our conscience, we feel a little thrill—as though we're "pulling a fast one" over the world. But the joke is ultimately on us, because every such act only darkens our reality further—which on one hand, we get to use as justification for even _more_ self-serving behavior, but on the other, inevitably dead-ends in a planet unfit for our survival.
 
 **L1** - We are all intimately connected in a way that transcends all attempts to describe it. We have relegated this truth to the "spiritual," where we can safely lock it away—because we know that if we opened that box, we would be forced to confront our own profound complicity in the world's ills. Every act of conscience-skirting and every unkindness we have ever perpetrated on _anyone_ still remains "out there," waiting patiently for us to clean it up. The atrocities we see halfway across the globe are not disconnected from us, like we imagine; nor are they excuses to pump even _more_ darkness in the world in the form of contempt for their perpetrators.
 
@@ -214,9 +207,6 @@ L1: The purpose of conveying "I am nothing like you" is to increase that percept
 
 **L1** - On the contrary, every bit of darkness we see in the world is an invitation for us to clean up the darkness in ourselves. This is completely counterintuitive, which is why it's so hard to figure out—but when we finally do, something astonishing happens. We begin to perceive the _reasons_ that other people are unable to give up their own darkness; and rather than make the horrifying mistake of shoving them deeper into the abyss for it, we start to sense our role in pulling them _out_ of it.
 
-**L1** - Good and evil _cannot_ be formalized. Any attempt to do so is only your mind trying to squirm out of its responsibility to be deeply sensitive to what your present situation requires of you. Your ideologies can serve as guidelines, but nothing more.
-
-**L1** - If you really want to know whether your behavior is good or evil, you must turn to a place that's deeper than thought; a place that can never be hijacked. There is a part of you that knows when you're lying to yourself. It sees how this will darken the world even when there's no objective evidence; even when no one is watching. Modern society fetishizes thinking and rationality precisely because they enable us to overlook this part, relegating it to the spiritual or mystical. Organized religion, on the other hand, instructs us to rely on an external authority for the same reason. Both give rise to a massive blind spot that allows our darkness to thrive.
 
 **L2** - How much harm we're able to inject into the world via subtle channels.
 
@@ -254,6 +244,8 @@ L1: The purpose of conveying "I am nothing like you" is to increase that percept
 
 **L0** - It is impossible to communicate just how subtle our contempt can be while still accomplishing its dark mission.
 
+**L1** - One subtle form of contempt: being unwilling to hear someone else's experience.
+
 **L0** - We think of contempt as an emotion—something we feel toward specific people who've done specific things. But the pattern operates at a much deeper level than that. **Simply by _perceiving reality as an intrinsically lifeless collection of "stuff" over which humanity has dominion_, we unwittingly reinforce every system of exploitation and destruction on Earth.** This is not a small point. This may be _the_ point. Our entire modern worldview—the one we consider enlightened, rational, scientific—rests on a foundational contempt so deep we don't even recognize it as contempt. We see the world as dead matter. Resources to extract. Objects to manipulate. A mechanical universe of purposeless atoms following meaningless laws.
 
 ---
@@ -263,7 +255,7 @@ L1: The purpose of conveying "I am nothing like you" is to increase that percept
 
 **L0** - Indeed, all the darkness in the world is conspiring; together behaving like a *singular distributed malevolent entity*, manipulating all of humanity from beneath our conscious thresholds. The Christians call it the Devil, and the Buddhists know it as the Ego. It is the *primordial* evil conspiracy; the one to which all the rest owe their existence, and to which they ultimately filter up. Every attempt to destroy it without being free of it ourselves only ends up reinforcing it, because that confused impulse is only ever generated *by* it. It is an *impossibly* clever trap.
 
-**L0** - The shadow feeds on our pain and confusion.
+**L0** - The shadow feeds on our pain, confusion, insecurity.
 
 **L1** - The darkness is caused by a kind of parasite in the mind — but yours and mine aren't truly separate.
 
@@ -441,19 +433,17 @@ L1 - Doesn't just whisper ideas in your ear; it alters your very perception of r
 
 **L0** - "Compassion has nothing to do with being nice, or gentle, or tolerant, or even understanding. It has everything to do with seeing that the contempt we feel for other people—including the "bad people"—is a symptom of our own darkness. When we perceive another person as _fundamentally defective_—as though the "badness" is somehow inherent to their mind—we cannot help but feel the urge to shove them deeper _into_ the abyss. Something in us wants them to become worse people so that we can be right about them. We need to see evil as existing only outside of ourselves in order to maintain a coherent self-image."
 
-**L0** - We like to believe that our outer actions are what drive the fate of the world, but in truth, everything comes down to our innermost commitments. When you stay entirely true to your inner Light, people can sense this, and it inoculates them against the darkness. This is called "compassion," and it has nothing to do with being nice. Compassion can be fierce, or even violent, as the situation warrants. But its profound integrity prevents others from using our darkness as an excuse to cozy up to theirs. Conversely, cruelty _can_ suppress other people's misbehavior — at least, their _public_ misbehavior, and for a time. It feels like we're "teaching them a lesson," but the only lesson we're teaching is that _darkness is the way._ Thus it is that an action that appears unerringly noble to our conscious minds may secretly be a vector for the darkness, and vice versa. Yet there is a part of us that always knows. The darkness relies on our willingness to not remember this deeper part of ourselves, and to instead trust our consciously-held agendas and calculations. In fact, the darkness is ultimately _nothing but_ this willingness to not look too closely — and it is contagious.
+**L0** - We like to believe that our outer actions are what drive the fate of the world, but in truth, everything comes down to our innermost commitments. When you stay entirely true to your inner Light, people can sense this, and it inoculates them against the darkness. This is called "compassion," and it has nothing to do with being nice. 
 
-**L0** - Compassion being weak is only a lie that the darkness tells to prevent us from recognizing the true power of our Light.
-
-**L0** - Counterintuitive: you can lift people up even as you viciously combat their evil.
+**L1** - Cruelty feels like we're "teaching them a lesson," but the only lesson we're teaching is that _darkness is the way._ Thus it is that an action that appears unerringly noble to our conscious minds may secretly be a vector for the darkness, and vice versa.
 
 **L2** - It is nowhere near as viscerally satisfying as unleashing our darkness on them, but infinitely more valuable to the world.
 
-**L1** - Make no mistake: executing this well can require great skill, commensurate with the depth of their infection. The deeper it goes, the more they feel like it _is_ them, and thus the harder it is to evict. Simply pretending or assuming that they're fundamentally good can certainly backfire. But the more clearly you perceive your _own_ inner Light, the less you have to pretend with others. The more directly you are able to cut through their delusion, without falling into the fatal trap of allowing their darkness to unknowingly provoke your own. As this happens, it becomes obvious that the whole distinction between fundamentally good and bad people; those who deserve our compassion and those who deserve our contempt; is itself a trap of the darkness.
+**L1** - Make no mistake: executing this well can require great skill, commensurate with the depth of their infection. The deeper it goes, the more they feel like it _is_ them, and thus the harder it is to evict. Simply pretending or assuming that they're fundamentally good can certainly backfire. But the more clearly you perceive your _own_ inner Light, the less you have to pretend with others. The more directly you are able to cut through their delusion, without falling into the fatal trap of allowing their darkness to unknowingly provoke your own.
 
 **L1** - Just like the darkness can handshake with itself in others, our Light can, too. When we're compassionate with evil people—even fiercely, violently—it's as though our Light is reminding theirs that it has a partner in the fight against our shared nemesis. We can still do this while fighting the human.
 
-**L1** - If we only learn to see this one thing, we will understand the secret mechanism behind _all the evil there ever was_ — and we will finally be effective in ending it, instead of mindlessly perpetuating it. Your enemy is infected by a mind-virus that lives within you, too. Heal yourself, and you will automatically learn how to heal them. This is what you most deeply desire, whether you know it yet or not. It is the _only_ path toward healing our broken world.
+**L1** - If we only learn to see this one thing, we will understand the secret mechanism behind _all the evil there ever was_—and we will finally be effective in ending it, instead of mindlessly perpetuating it. Your enemy is infected by a mind-virus that lives within you, too. Heal yourself, and you will automatically learn how to heal them. This is what you most deeply desire, whether you know it yet or not. It is the _only_ path toward healing our broken world.
 
 **L3** - If you want to defeat evil, defeat self-deception. We think that's what we're doing when we contemptuously judge our enemies.
 
@@ -485,7 +475,7 @@ L1 - Doesn't just whisper ideas in your ear; it alters your very perception of r
 
 ## 13. CALCULATIONS VS. DEEPER KNOWING
 
-**L0** - You cannot calculate your way to goodness. The reason being that you'll never know whether your calculation is based on self-deception. In the same way you calculated that mocking and shaming your enemies would bring benefit to the world. It's obvious that when two people start with different axioms, they can arrive at radically different even diametrically opposite conclusions even when both are reasoning perfectly well and many of our axioms are based in self-deception. Even such innocuous and self-evident ones as humans are the most valuable species because they're the only ones that can save all the other species.
+**L0** - You cannot calculate your way to goodness. The reason being that you'll never know whether your calculation is based on self-deception. Humanism as an example.
 
 **L2** - Clever calculations can go arbitrarily far off the rails.
 
@@ -497,9 +487,6 @@ L1 - Doesn't just whisper ideas in your ear; it alters your very perception of r
 
 ## 14. PRACTICAL IMPLICATIONS
 
-**L1** - If you have some grand narrative about how to save the world, it's crucial to check whether it's causing (or even requiring!) you to have contempt for what's right here, right now. If so, it probably isn't rooted in authentic goodness, and probably won't have the effect you think (or can even prove!) it will. A common example of this is "I'll hoard as much wealth and resources as possible so that I can one day deploy it in service of good." (see: FTX). Or eugenics projects. Maybe give other examples.
-
-**L2** - One of the key insights that kicked off this whole work for me was that when we go into work, we're usually lying to ourselves about how it's going to impact the world. Either it's really to enrich us or we are caught in the materialism trap etc. And so the most important thing we can bring to our work is our connection to the light. And not just work, all of life. The most important thing we can offer the world is our connection to our light, our integrity. If we're trying to follow our thoughts to tell us what the impact of our behavior will be, we're probably lost.
 
 **L2** - How genuinely compassionate intent can lead to harm: we love animals, become vegan and then judge everyone who's not. Or we love trees and become ecoterrorists. Maybe give another 2 or 3 examples in bullet form to round that out.
 
@@ -523,17 +510,17 @@ L1 - Doesn't just whisper ideas in your ear; it alters your very perception of r
 
 **L0** - Nobody could blame us for "picking the wrong one" not because they _can't_ see the difference, but because they're hiding it from themselves so that they can preserve the part of them that wants to be justified in making the same mistake. This is how our darkness colludes. This is why our culture still thinks that contempt for evil people is "righteous." Individuals may know better, but we haven't been able to communicate this as a culture. That's what this piece is attempting to do: put it into language; a framework that people can point to and say: "this."
 
-**L2** - It has become a common trope that we are how the Universe looks at itself. But what if it were possible to know this not as a mere concept, but as a direct experiential realization? You would feel the visceral impact of knowing that all of it is ultimately different parts of You.
+- The visceral experience of being shown what it was like to become progressively more confused, further from the Light, trusting the voice of the darkness (Stockholm syndrome). And having the meta-perspective (through the mushrooms) of seeing how most people became increasingly contemptuous toward me. When I was closer to the Light, they "loved" me, and the further I drifted, the more they started to hate me (just as I had done in their shoes). But a tiny handful of people always telegraphed through their eyes and behaviors that although what I was doing was unacceptable (and they would stop it), they would never forsake me to the enemy of the Light. They weren't just refusing to let me misbehave; they were refusing to let the darkness claim another soul. And it wasn't a personal decision on their behalf; it was the Light acting through them. Those people had done the work of excising all traces of darkness, and all that remained was the one Light.
 
-The visceral experience of being shown what it was like to become progressively more confused, further from the Light, trusting the voice of the darkness (Stockholm syndrome). And having the meta-perspective (through the mushrooms) of seeing how most people became increasingly contemptuous toward me. When I was closer to the Light, they "loved" me, and the further I drifted, the more they started to hate me (just as I had done in their shoes). But a tiny handful of people always telegraphed through their eyes and behaviors that although what I was doing was unacceptable (and they would stop it), they would never forsake me to the enemy of the Light. They weren't just refusing to let me misbehave; they were refusing to let the darkness claim another soul. And it wasn't a personal decision on their behalf; it was the Light acting through them. Those people had done the work of excising all traces of darkness, and all that remained was the one Light.
+L1 - The darkness needs us to see certain people as irredeemable. This way we feel righteous forsaking them; ensuring they never find their way back to the Light.
 
 Fundamental attribution error (Covey quote)
 
 Analogy of making them lose faith in humanity vs restoring faith (charity is one example, but not forsaking evil people is another one that everyone powerfully feels, whether they know it or not.)
 
-Make it clear that the mockery and contempt for evil examples aren't disconnected: we start with mockery, while at the back of our minds having the idea of pushing them all the way to the end, making the whole journey justified.
+L1: Even if we were given the option of our enemy completely reforming (and joining the Light) vs being eternally punished for their sins, a dark part of us would prefer the second.
 
-Even if we were given the option of our enemy completely reforming (and joining the Light) vs being eternally punished for their sins, a dark part of us would prefer the second.
+L1: "Every bone in my body had needed to believe that the problems of the world were caused by something fundamentally alien to me—the result of inherently defective people whom I could never hope to understand; only viciously fight. Sure, we may sometimes commit little misdeeds here or there, but they're of a fundamentally different nature than the _real_ darkness that plagues our world, and so cleaning up our own behavior ranks way down in the list of problems to solve. So what did I do? I created them. I kept them trapped there. All while patting myself on the back for how *righteous* I was being. And it didn't even require overt cruelty. I could make it look nearly identical to genuine righteousness while still getting the job done. All I had to do was harbor *contempt*. Then I could point at what I had created and know, with absolute certainty, that evil was real and that it wasn't me."
 
 **L0** - Why would part of us knowingly reinforce their evil? _See if you can answer this for yourself._
 
@@ -542,15 +529,3 @@ It's so that we can continue to believe that all the problems of the world are c
 To put it bluntly: we subtly but continually reinforce the evil "out there" to hide our own from ourselves. That is why we fail to defeat the evil in the world. Part of our minds is actively working against this goal—and as we shall soon see, these parts of our minds are not working independently, but somehow collaborating to keep this whole ruse hidden from us.
 
 Their evil is _not_ of a different nature. The subconscious message we deliver to the "bad people" is made of **exactly** the same "stuff" that enables their misbehavior in the first place. Not only do they know this, but we know this, and we know they know this—which is why we know it will work. We are revealing our darkness because we know how they will receive it: as license to embrace theirs.
-
-**L1** - Directly perceiving the full interconnectedness and "oneness" of reality is what contemplative traditions would call enlightenment, but all of us can taste it to some degree or another long before then. That's why literature like the following speaks to us so powerfully. It is also why we sometimes thank people for acts of charity that don't seem to benefit us directly. We can sense that whatever happens to the world ultimately happens to us.
-
-[The Egg](https://www.youtube.com/watch?v=h6fcK_fRYaI): A short story by Andy Weir and animated by Kurzgesagt.
-
-[Please Call Me By My True Names](https://www.youtube.com/watch?v=h6fcK_fRYaI), a poem by Thích Nhất Hạnh.
-
-[This quote](https://www.amazon.com/Hardcore-Zen-Monster-Movies-Reality/dp/1614293163) from Zen priest (and punk rocker) Brad Warner:
-
-> Even if I want to put this realization down I can't. Sometimes it's excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don't mean I identify with them or sympathize with them. I mean I _am_ them. It's impossible to explain any more clearly than that, but this isn't a figure of speech or bad poetry. I mean it absolutely literally.
-> 
-> But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it's all me. And it's you, too.

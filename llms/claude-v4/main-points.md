@@ -14,7 +14,7 @@
 	- Oh shit, we're not using our darkness; it's using us
 - It modifies our perception so that it feels like it IS them (they are inherently evil)
 	- How this makes us feel morally compelled to attack
-	- [ ] **How this only strengthens theirs, through a kind of secret handshake**
+	- **How this only strengthens theirs, through a kind of secret handshake**
 	- Thinking cannot tell you whether you've been separated, because your whole cognitive apparatus has been hijacked.
 	- Feedback loop that drives us further from our Light while we feel increasingly convinced we're becoming more righteous (**that's where "evil people" are trapped, in an internally-consistent worldview. Their mechanism is the same as ours.**).
 - How all our darknesses are collaborating to produce Hell on Earth.
