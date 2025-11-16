@@ -1,4 +1,4 @@
-# Part I
+# Part I: Contempt
 ## Conscience
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit it to yourself until later? Maybe you made a cruel comment to boost your ego, took credit for someone else's work, or cheated on a test (or even partner).
@@ -50,7 +50,6 @@ Contempt feels righteous inside but dark, dirty, insincere from the outside.
 There's a reason for that distinction—and seeing it clearly changed everything for me.
 
 ---
-
 ## How Contempt Works
 
 Here's what I saw.
@@ -92,7 +91,6 @@ And, to cinch the trap: part of me knows this, too—and it's so dark that I mus
 That's why we have no idea we're doing this.
 
 ---
-
 ## Plausible Deniability
 
 It's difficult to unfold all the layers of this trap. Just to give you a taste: for me to hold it against you, I couldn't know that I caused it. But at the same time, there's no way for me to cause it without part of me knowing that I am.
@@ -108,26 +106,29 @@ And then what do we feel when we locate the people up top "responsible for it al
 But we'll get to that later.
 
 ---
-
 ## Hall of Mirrors
 
-We left one important question unanswered: *how* did that part of me reveal itself to you—especially given that it was hidden from myself?
+We left one important question unanswered: _how_ did that part of me reveal itself to you—especially given that it was hidden from myself?
 
 Imagine (if you will) being on the receiving end of a dehumanizing gaze. Can you feel how the person is somehow turned away from themselves—or perhaps away from the "Light"?
 
-As we'll see later, it's impossible for me to do this without hiding something from myself—basically, your humanity. So I **cannot** wish harm or act selfishly without entering limbo—and that's what you see: my limbo. Notice how peculiar this is: hiding it from myself **is** what reveals it to you.
+As we'll see later, it's impossible for me to do this without hiding something from myself—basically, your humanity. So I **cannot** wish harm or act selfishly without entering limbo—and that's what you see. 
 
-This sets up a bizarre effect where we both know I'm hiding something from myself, even if neither of us "consciously" registers it that way. (In fact, we both know that the *other* knows it, and that they know *that*, etc. Analytical readers will appreciate the full unraveling in the Appendix: Hall of Mirrors.)
+**My limbo state is generally visible to you**—if only subconsciously. Notice how peculiar this is: hiding it from myself **is** what reveals it to you.
 
-That's true of malice in general, but contempt adds another wrinkle: I'm also hiding the fact that I'm *feeling malice*. On the surface, I feel perfectly righteous.
+Now, malice alone may send a shudder down your spine, but it probably doesn't make you dig in. For that, an extra ingredient is necessary: the pretense of good. That pair is what contempt *is*.
 
-This means that pretending I'm inherently morally superior is pure hypocrisy. And I know you sense that—and that it's true—so I must hide it harder. And you sense that, too, so I bury it a level deeper...
+This combination—malice with the pretense of good—is something we both instinctively recognize. Moreover, we both know that the *other* knows it, and that they know *that*, etc. It is thus what game theorists call *common knowledge.* (The reason for this will become clear later.)
 
-Resulting in a kind of hall-of-mirrors effect. You feel it as a maddening sense of "we both know what I'm really doing, and that it cannot be proven from the outside—so I'll never be forced to admit it to myself." And I *want* you to feel that, because that's what makes you dig in. 
+Now, watch how that allows this game to unfold.
 
-Paradoxically, it is this whole recursive structure of **hiding** that accomplishes the **revealing**. And it happens through what game theorists call "common knowledge": each party knows that the other knows that the other knows... *ad infinitum*. The reason such a bizarre thing is possible will become clear later.
+I'm hiding my malice while pretending it's good. But part of me knows you (correctly) recognize the pair as hypocrisy, which I must also hide from myself. But you now (correctly) recognize it as a ruse, which I must hide. So you now see it as a plausibly deniable ruse, which I must hide...
 
-But to summarize the whole thing: my willingness to turn away from my Light is what licenses you to do the same. Embracing my darkness empowers you to embrace yours.
+And the whole thing results in a kind of hall-of-mirrors effect. You feel it as a maddening sense of "we both know what I'm really doing, and that it cannot be proven from the outside—so I'll never be forced to admit it, even to myself." And **that** is what ultimately ensures you dig in.
+
+It is the whole recursive structure of **hiding** of my true intention that **reveals** it[0].
+
+You can also choose to look at it more simply: my willingness to turn away from my Light is what licenses you to do the same. Embracing my darkness empowers you to embrace yours.
 
 Put another way: when you see me—a "good person"—ignoring my own conscience, you realize this world is even shittier than you thought, licensing you to ignore yours.
 
@@ -169,7 +170,7 @@ In fact, here's a simple test: is it possible for you to feel even a trace malic
 
 In fact, even if you were somehow free of those dark sentiments, there are still traces of it woven into your perception of reality itself. It's the reason humanity is so cavalier about ravaging nature. But we'll get to that later.
 
-Remember: you already know how to stop bad behavior without contempt. You recalled doing so earlier. And whether fierce integrity is **always** sufficient, or darkness is sometimes necessary: that's hard to answer right now—but notice there's a part of you that *needs* the latter to be true.
+Remember: you already know how to stop bad behavior without contempt. You recalled doing so earlier. And whether fierce integrity is **always** sufficient or darkness is sometimes necessary: that's hard to answer right now—but notice there's a part of you that *needs* the latter to be true.
 
 ---
 ## Responsibility
@@ -218,3 +219,9 @@ If they had chosen to treat you with contempt instead: which part of you would t
 Can you feel how the closer you get to your Light, the easier it is to see in others? It doesn't make you want to fight evil *less*. If anything, it makes you *more* protective of others—but you feel less need to inject your own darkness into it.
 
 Where does this process stop?
+
+---
+---
+## Footnotes
+
+[0] Notice how bizarre this is: I made you lose a bit of faith in humanity by showing you that even the so-called "good people" (me) are willing to harm you for their own gain. But what was the actual harm? It was... showing you that good people are willing to harm you for their own gain.

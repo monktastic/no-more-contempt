@@ -1,5 +1,5 @@
 
-Part 1
+# Part 1
 
 Part 1 starts with experiential invitations and then walks through a scenario where I'm mocking / shaming my enemy. The punchline is that I am intentionally trying to darken their minds (and it is the contempt that does it).
 
@@ -43,6 +43,18 @@ Part 1 starts with experiential invitations and then walks through a scenario wh
 
 # Part 2
 
-- Must include an example of how I had a choice to see light/dark in others.
-- I knew my darkness would spread beyond you.
+- All the ways I spread darkness.
+- All of these things subtly darkened the ambient environment, which I would then judge other people for.
+- All the benefits I was receiving—were they worth all the darkness I was creating? No!
+	- And I knew all this. So why was I doing it?
+- On one level: this is just how the world works. It's harsh out there, and we have to fend for ourselves.
+- Deeper level: I wasn't ready to confront the darkness in myself. Contempt has exactly the same "signature" as all evil. Which means all the horrible things in the world weren't cleanly separable from my own contribution. And that was completely intolerable.
+- Had to ensure I kept the "evil people" trapped by seeing them as inherently evil.
+
+
+- Should include an example of how I had a choice to see light/dark in others.
 - Darkness sneaking around in my mind.
+
+---
+
+Interlude: how it feels like a parasite

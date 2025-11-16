@@ -1,3 +1,25 @@
+
+
+---
+
+**Make each point a mini-chapter, roughly in order:**
+
+1. **Two Forces** - Establish the metaphysics clearly
+2. **Light is Real, Darkness is Not** - Explain the absence vs. presence thing deeply
+3. **The Terrifying Presence** - This deserves its own section. It explains SO much about human behavior
+4. **The Coordination** - How the darkness operates across all of us (you've started this, go deeper)
+5. **Traditional Descriptions** - Why religions called it the Devil, and why they were right (ish)
+6. **Awakening the Light** - What this actually means and how it defeats darkness
+7. **Fierce Love** - Why this isn't passive or soft
+8. **Every Moment** - The stakes of daily choices
+9. **The Imitation** - How to tell the difference (this is crucial)
+10. **The Purpose** - Tying it all together
+
+
+
+
+----
+
 - Conscience and the limbo state 
 	- How we can know something, consciously, but not realize we did until afterward—at which point we see we always did.
 	- How our conscience doesn't need to justify itself.
