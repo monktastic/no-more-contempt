@@ -1,4 +1,4 @@
-# Part I: Contempt
+# Chapter I: Contempt
 ## Conscience
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit it to yourself until later? Maybe you made a cruel comment to boost your ego, took credit for someone else's work, or cheated on a test (or even partner).
@@ -106,7 +106,8 @@ And then what do we feel when we locate the people up top "responsible for it al
 But we'll get to that later.
 
 ---
-## Hall of Mirrors
+
+## Feeling Limbo
 
 We left one important question unanswered: _how_ did that part of me reveal itself to you—especially given that it was hidden from myself?
 
@@ -116,19 +117,29 @@ As we'll see later, it's impossible for me to do this without hiding something f
 
 **My limbo state is generally visible to you**—if only subconsciously. Notice how peculiar this is: hiding it from myself **is** what reveals it to you.
 
+---
+## Hall of Mirrors
+
 Now, malice alone may send a shudder down your spine, but it probably doesn't make you dig in. For that, an extra ingredient is necessary: the pretense of good. That pair is what contempt *is*.
 
-This combination—malice with the pretense of good—is something we both instinctively recognize. Moreover, we both know that the *other* knows it, and that they know *that*, etc. It is thus what game theorists call *common knowledge.* (The reason for this will become clear later.)
+This combination—malice with the pretense of good—is something we both instinctively recognize. And because we both know it, it gives rise to a peculiar back-and-forth:
 
-Now, watch how that allows this game to unfold.
+At first, I'm hiding my malice while pretending it's good. But part of me knows you (correctly) recognize this combination as hypocrisy—and that sucks.
 
-I'm hiding my malice while pretending it's good. But part of me knows you (correctly) recognize the pair as hypocrisy, which I must also hide from myself. But you now (correctly) recognize it as a ruse, which I must hide. So you now see it as a plausibly deniable ruse, which I must hide...
+So now I must also hide that from myself. But you now (correctly) recognize it as a kind of ruse.
 
-And the whole thing results in a kind of hall-of-mirrors effect. You feel it as a maddening sense of "we both know what I'm really doing, and that it cannot be proven from the outside—so I'll never be forced to admit it, even to myself." And **that** is what ultimately ensures you dig in.
+So I hide that, too. But now you recognize that I'm trying to cover it up...
 
-It is the whole recursive structure of **hiding** of my true intention that **reveals** it[0].
+Resulting in a kind of hall-of-mirrors effect. You feel it as a maddening sense of "we both know what I'm really doing, and that it cannot be proven from the outside—so I'll never be forced to admit it, even to myself." And **that** is what ultimately ensures you dig in.
 
-You can also choose to look at it more simply: my willingness to turn away from my Light is what licenses you to do the same. Embracing my darkness empowers you to embrace yours.
+Notice how bizarre this is: I made you lose a bit of faith in humanity by showing you that even the so-called "good people" (me) are willing to harm you for their own gain. But what was the actual harm? It was... showing you that good people are willing to harm you for their own gain. That's circular.
+
+It is the whole recursive structure of **hiding** of my true intention that **reveals** it, turning it into a self-fulfilling prophecy—and it required a careful orchestration of our "conscious" and limbo parts. (Analytical readers will appreciate the full gory details in the Appendix: Hall of Mirrors.)
+
+---
+## Simplified
+
+You can also choose to look at the whole thing more simply: my willingness to turn away from my Light is what licenses you to do the same. Embracing my darkness empowers you to embrace yours.
 
 Put another way: when you see me—a "good person"—ignoring my own conscience, you realize this world is even shittier than you thought, licensing you to ignore yours.
 
@@ -166,11 +177,11 @@ Have you ever tried to talk someone out of being evil? How well did that work?
 
 And it's not a binary thing: separation from our Light happens along a continuum. Which means you might be in some version of it right now.
 
-In fact, here's a simple test: is it possible for you to feel even a trace malice, contempt, or self-righteousness toward anybody for any reason? If so, your perception is being manipulated without your knowledge.
+In fact, here's a simple test: is it possible for you to feel even a trace malice, contempt, or self-righteousness toward anybody for any reason? If so, it would be very difficult to not let it leak out in their presence, wouldn't it? This means the darkness is still operating in you.
 
-In fact, even if you were somehow free of those dark sentiments, there are still traces of it woven into your perception of reality itself. It's the reason humanity is so cavalier about ravaging nature. But we'll get to that later.
+In fact, even if you were somehow free of those dark sentiments, there are still traces of it woven into your perception of reality itself. When you survey the destruction humans have wrought against nature, can you sense how it requires a kind of contempt? We'll unpack that later.
 
-Remember: you already know how to stop bad behavior without contempt. You recalled doing so earlier. And whether fierce integrity is **always** sufficient or darkness is sometimes necessary: that's hard to answer right now—but notice there's a part of you that *needs* the latter to be true.
+Remember: you already know how to stop bad behavior without contempt. You recalled doing so earlier. I'm not saying it's easy—especially the greater the evil we face—but the **only** reason we ever believe it may not be enough is to license ourselves to pull the above ruse.
 
 ---
 ## Responsibility
@@ -186,18 +197,28 @@ So there is a sense in which it wasn't the real me—and a sense in which it abs
 ---
 ## Summary
 
-There's something in us that needs us to see our enemies as fundamentally defective, so that it can lure us into treating them in ways that make both of us worse.
+There's something in us that needs our enemies to be fundamentally defective—so it manipulates us into treating them in ways that make both of us worse.
 
-This knowledge isn't unconscious; we've just buried it so deeply that it *feels* like we don't know it. And it needs us to feel that way, because otherwise we would feel the urgency of putting an end to it.
+You already knew this. Maybe not explicitly, but it was there in limbo the whole time.
+
+And that's true for everyone. We all have this part. We all know, on some level, what it's doing.
+
+What allows it to keep operating is that it stays in the shadows, where we can pretend not to know.
+
+It's about time we drag it into the Light.
 
 ---
-## Conclusion
+## The Medicine
 
-By exposing the deepest layers of my mind, the medicine taught me this: I couldn't run from my lies forever. And the very idea that I could was the deepest lie of all.
+By exposing the deepest layers of my mind, the medicine taught me this: I couldn't run from my lies forever. The very idea that I could was the deepest lie of all.
 
-But more importantly, it showed me *how much better* it feels when I don't have to. And how, the closer I get to my Light, I more I see that I never *wanted* to.
+But more importantly, it showed me _how much better_ it feels when I don't have to. And how, the closer I get to my Light, the more obvious it is that I never _wanted_ to—and neither do you.
 
-That's what I rob from you when I treat you with contempt: I'm nudging you a little further from the part of you that doesn't *want* to carry the burden of ignoring your Light.
+That's what I rob from you when I treat you with contempt: I'm nudging you a little further from the part of you that doesn't _want_ to carry the burden of ignoring your Light.
+
+But it showed me so much more.
+
+What I'm about to share isn't easy to face. But if you've made it this far, there's a part of you that's ready to see it.
 
 ---
 ## Interlude
@@ -222,6 +243,3 @@ Where does this process stop?
 
 ---
 ---
-## Footnotes
-
-[0] Notice how bizarre this is: I made you lose a bit of faith in humanity by showing you that even the so-called "good people" (me) are willing to harm you for their own gain. But what was the actual harm? It was... showing you that good people are willing to harm you for their own gain.

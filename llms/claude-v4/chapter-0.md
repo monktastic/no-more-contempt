@@ -76,6 +76,8 @@ _(Note: This essay contains material about trauma and abuse that some may find d
 
 ---
 
+# Part 0
+
 > _The earth is not dying, it is being killed, and those who are killing it have names and addresses._ —Utah Phillips
 
 Can you feel it—the _evil people_ out there, ruining it for the rest of us?
