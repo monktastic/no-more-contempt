@@ -82,22 +82,12 @@ _(Note: This essay contains material about trauma and abuse that some may find d
 
 Can you feel it—the _evil people_ out there, ruining it for the rest of us?
 
-How do they make you feel? How do you want _them_ to feel? Be totally honest.
+How do they make you feel? How do you want _them_ to feel?
 
 Would some tiny part of you be disappointed to discover they're not _fundamentally_ evil—that they're just badly confused but inherently redeemable people like the rest of us? Would that part feel robbed of the right to deliver the righteous vengeance they so richly deserve?
 
 Here's a test: if you had to choose between delivering that vengeance and offering them a pill that would instantly enlighten them—which would you choose? Forget about the "right" answer. Is there a tiny flicker in there that's itching to mash that first button?
 
-What is that part of you trying to accomplish?
-
-What is it _actually_ accomplishing?
-
----
-
-That part of you, and that part of me—they're _working together._
-
-I don't know you. My politics may be diametrically opposite yours.
-
-And yet it doesn't matter. They're still working together.
+There is **nothing** more primally, viscerally satisfying than violently punishing evil. Notice that.
 
 ---

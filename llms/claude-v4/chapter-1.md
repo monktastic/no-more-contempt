@@ -9,7 +9,7 @@ Notice an asymmetry here: your conscience wasn't trying to justify itself. It ju
 
 But it isn't.
 
-We *know* we can't win a direct confrontation with our conscience. All we can do is find better ways of ignoring it.
+We *know* we can't win a direct confrontation with our conscience. All we can do is find better ways of ignoring it; of turning *away* from it.
 
 So you did—and yet some part of you sensed this wouldn't end well, didn't it? 
 
@@ -20,9 +20,9 @@ You might have convinced yourself you didn't "really" know it was wrong, right u
 
 Notice this: both halves—the undeniable wrongness and the conviction of rightness—were actually conscious **the entire time**. Not hidden in some unconscious realm waiting to emerge. Right there. You just kept your attention carefully turned away.
 
-That knowledge existed in a kind of "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we always did.
+You were holding that knowledge in a "limbo state": a bizarre schism of mind in which we know something—*consciously*—and yet are **sure** we don't... until we retroactively discover that we always did.
 
-It's a profound form of self-deception, but we don't do it because we're "bad people." Ignoring our conscience is a kind of defense against a world we perceive as hostile, rightly or wrongly. In ourselves, it feels like an innocent flaw—forgivable, given all we've seen and faced. But when others do it? We see them as inherently bad.
+It's a profound form of self-deception, but we don't do it because we're "bad people." We think we're protecting ourselves from a hostile world. When I do it, it feels like a necessary survival tactic. When you do it, it looks like character rot.
 
 ---
 ## Contempt and Integrity
@@ -54,48 +54,268 @@ There's a reason for that distinction—and seeing it clearly changed everything
 
 Here's what I saw.
 
-When I mock or shame my enemies and they dig in, my response is mixed. On one level, I feel dismayed: *damn, they really are as bad as I feared*. But on another, I feel a certain satisfaction: *see, they really are as bad as I feared!*
+When I mock or shame my enemies and they dig in, my response is mixed. On one hand, I feel dismayed: *damn, they really are as bad as I feared*. But on the other, there's a flicker of satisfaction: *see, they really are as bad as I feared!*
 
-Did I go into it expecting this satisfaction? Of course not—that would make me a bad person!
+Did I go into it *expecting* to feel that satisfaction? Of course not—I'm not a bad person.
 
-And yet, when you're on the receiving end, you somehow feel it, don't you? That I want to prove how bad you are, even while I claim I'm only trying to help?
+And yet, on the receiving end, you somehow feel it, don't you? That I want to prove how bad you are, even while I claim I'm only trying to help?
 
-*Of course* there was a part of me that wanted this outcome, even as I did it—I just couldn’t admit it to myself. I'd like to call it "unconscious," but that's not quite right. It was just in limbo.
+*Of course* I felt it while I was doing it. But it was a bit malicious, so I hid it from myself. It wasn't unconscious—**just in limbo**. That's why it feels like I didn't know.
 
-And lo and behold: it worked: my *hidden intention* for you to dig in was enough to bring it about. 
+Okay, so maybe I wanted this outcome—but it's not like I caused it. How would I even do that? "Hey you, dig in your heels so I can prove how evil you are!"
 
-But how? Really pause and reflect on this. How did you perceive something in me that I barely knew myself—unless *part of me was somehow showing it to you?*
+I would have to somehow make you see that I secretly wanted it, even as I myself believed I didn't. And I'm not nearly clever (or devious) enough to pull that off.
 
-Now, I want to be clear about this: it's not that I *consciously* wanted you to see it in the usual sense of that word. Except here's the thing: the medicine showed me exactly where this knowledge had been lurking in my conscious mind the whole time. My desire for you to see it **was** conscious—it was just more deeply hidden than my mere hope that you'd dig in.
+Except...
+
+---
+
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't the person seem somehow turned away from themselves, or perhaps from the "Light"? You can _feel_ the malice emanating from that state.
+
+Contempt works the same way. I see you as fundamentally less than me, subhuman—the only difference being I'm also dressing it up as righteous.
+
+I _know_ you can feel this.
+
+By keeping it hidden from myself, I automatically accomplish both halves: showing it to you while appearing ignorant of it.
+
+---
+
+The unconscious mind does not perpetrate ruses this precise. This was conscious. But it was so dark I could only do it from deeper limbo.
+
+Here's the story I told myself to cover it up: fine, maybe I wanted you to see my darkness. But it was only to frighten you into stopping!
+
+But I've already admitted that I _wanted_ you to dig in, and that I knew this would cause it. Plus, I *know* there's a way of fighting evil that doesn't cause this.
+
+Of *course* making you dig in was the real reason I wielded contempt. It didn't accomplish anything else. My feeling of dismay at the outcome was just a decoy to let me believe I wasn't responsible.
+
+---
+
+I *cannot* see you as "less than" without letting it leak somehow. Part of me knows this, and I still do it—which means I don't care if you see it.
+
+It's not that I *want* you to hurt, per se, but I also don't care if you do—nor do I care if you see this about me. And on top of that, I dress it up as "righteous"—which means I'm not planning to stop. I will block any attempts from you to reach my conscience, and you can see that.
+
+This pattern is so common that you recognize it instantly. Which means you don't start by asking me nicely to stop, or attempt to reach my conscience. You go straight for the jugular—and end up proving exactly what I needed you to prove: you're acting in bad faith and must be stopped at any cost.
+
+---
+
+I'm not just making you dig in; I'm screwing with your whole sense of reality and morality. I'm showing you that even the so-called "good people" are willing to harm you for a "good cause." This chips away at your faith in humanity; darkens your world—but I'm fine with that, because the ends justify the means.
+
+I'm giving you license to embrace your own darkness.
+
+Why on Earth would I do that?
+
+---
+
+Have you ever been so angry you didn't care what it destroyed—as long as it made them feel it?
+
+While you were in that state, it felt like you. Like you were finally seeing clearly; cutting through all the noise, etc. But afterward, didn't it feel like "whoa, that wasn't me?" It felt almost like you were possessed.
+
+There's an aspect of my mind that lures me away from my conscience with clever justifications. By falling for it, I "turn away from my (or the) Light." You can see it in my eyes. I've handed control over to this thing—that same "possession."
+
+And while it's in control, look what it creates: a darker world, in which both me and my enemy both feel compelled to hand it *more* control. The "real me"—does it want that? Of course not.
+
+So here we have something that doesn't feel like me, but lures me into giving it control—at which point it *does* feel like me, but works toward goals that benefit it, while harming me.
+
+It does this by perpetrating an impossibly clever ruse: revealing itself to my enemy while hiding itself from me, causing them to see me as evil, which I then use against them.
+
+And then afterward, it covers its tracks. I don't look back and think "shoot, I just darkened the world." I feel even more like the world's valiant savior, righteously battling the hordes of evil.
+
+When I phrase it that way, doesn't it sound suspiciously like... a parasite?
+
+---
+
+The more we see this thing in action, the more we'll discover a sense in which it has its own agenda—one that's against not only mine, but all of humanity's.
+
+For now, you can think of it as an aspect of yourself. There's an important sense in which it isn't "you" (which we'll explore more later), but you're certainly responsible for the harm you've caused while under its sway.
+
+I'll sometimes call it "it" (or the parasite), and sometimes you. The meaning should be clear from context.
+
+---
+## In Too Deep
+
+Let's look at how it covers itself up.
+
+Part of me knew what I was doing, even as I was doing it. The harm it caused you was real and profound. Which means that I know how a perfectly decent human—me—can commit great evil while flawlessly convinced he's helping.
+
+Which means that maybe I'm wrong about you. Maybe you're not fundamentally evil after all. Maybe you're just caught in a different version of the same trap. 
+
+That would be devastating—because it would mean that I'm shoving an inherently redeemable person deeper into the abyss; into that dark place where evil feels *necessary.*
+
+When you dug in, I knew you became worse, but I convinced myself I was merely exposing the darkness already latent in your mind, for all the world to see. Now I see I actually created *new* evil—which you will certainly spread to others.
+
+And the worst part is, whether or not we call it "intentional," I did this all *consciously*.
+
+That's *way* too dark to face. I must bury it so deep that even *I* will never know what I've done.
+
+---
+
+If I could recognize it as a parasite in that moment—something I'm responsible for yet which isn't "me"—I would still feel *remorse.* But I'd be able to make amends while also committing to never doing it again.
+
+Instead, I feel profound guilt and shame—making me much less likely to recognize what actually happened. This makes me *more* susceptible to it in the future.
+
+Shame is one of its most powerful protective mechanisms. It may feel virtuous—like I'm being honest about my flaws—but it makes me a worse person. It also has the same effect on my enemies.
+
+---
+
+The part of me unaware that I've caused this—the part I normally think of as just "me"—look at how it feels.
+
+The world is a darker place. Filled with horrible people. So I'll be less likely to notice the self-serving aspects of my actions and agendas.
+
+Let's be honest: nearly every political agenda has pieces
+
+
+
+This is what I mean by "hand more control to my parasite": it has an easier time luring me away from my conscience, while making me less likely to recognize that this is what's happening.
+
+And it's not just my thoughts it's manipulating.
+
+Even before this encounter, I didn't just _think_ you were evil—I could _see_ it in your eyes, _feel_ it emanating from you. And now that perception has just been strengthened.
+
+It's not arguing with me about whether you're evil. It's making me _perceive_ you as evil, at a level below conscious awareness.
+
+It's gaining increasing control over the very cognitive apparatus needed to detect its subterfuge.
+
+That doesn't seem good.
+
+---
+
+
+
+
+
+---
+
+Contempt isn't just "what you're doing is bad." It's "what you *are* is bad. Defective."
+
+You're not fully human. That gives me the right to use you as a prop in my moral theater.
+
+---
+
+Doesn't the person seem somehow turned away from themselves, or perhaps from the "Light"?
+
+That's what you're feeling with my contempt—just with the added veneer of righteousness.
+
+I already know there's a way to fight evil that doesn't cause this. So what does the contempt add? Nothing, except the right to do this to you without compunction.
+
+But it gets worse.
+
+---
+
+Isn't there some part of you that already knows this is how it works—even if you've never seen it laid it out so clearly?
+
+We all instinctively recognize it. Which means you not only know what I'm doing; you know that *I* know it. We both know I'm pulling a ruse—one I'll never own up to, even to myself.
+
+Here you are, witnessing a self-proclaimed "good person" gaslighting you to prove how good they are. This screws with your sense of reality and morality; chips away at your faith in humanity. Part of me *knows* this will happen—and I do it anyway.
+
+The harm didn't just come from the simple act of mockery—it came from the *profound malice* implicit in the whole ruse. Although that harm results from the *entirety* of the ruse, that malice was present at the *start* of it.
+
+In other words, I harmed you by showing you how much I was willing to harm you. It was a self-fulfilling prophecy.
+
+And that's not all.
+
+---
+
+Whatever compunction you may have felt about the dark aspects of your own ideologies—I've just given you permission to override those, too.
+
+Again, I may never have put the pieces together in this way, but isn't it completely obvious once stated?
+
+The part of my mind that lured me away from my conscience just strengthened itself in me—and it strengthened the *same* part in you.
+
+That's interesting. Normally, my dark part and yours—insofar as I think of them that way—I expect them to be *fighting* each other. And yet when it's laid out so clearly, it's pretty obvious that it can't work that way, right?
+
+And going forward, we will both be more likely to act in ways that strengthen the same part in others, won't we?
+
+Is this really what I wanted? Sure, I got something out of it, but in exchange for what? A darker world? That sounds like a Faustian bargain.
+
+The only reason I accepted it was that the vast majority of its implications were hidden from me. I mean, they were all right there for me to see if I had looked, but I was turned away.
+
+---
+
+This part of me: it's not my friend. Well, except when it's in control of me, at which point it's more than just my friend—it feels like *me.*
+
+Have you ever been so angry you didn't care what it destroyed—as long as it made them feel it?
+
+While you were in it, it felt like you. Like you were finally seeing clearly; cutting through all the noise, etc.
+
+But afterward, didn't it feel like "whoa, that wasn't me?" It felt almost like you were possessed.
+
+Every time we hand control over to this thing, it feels increasingly like us. We defend it with more vigor. And it gains increasingly clever ways of convincing us to give it control.
+
+---
+
+Consider: the fact that I behave this way this means I know exactly how it's possible for a fundamentally decent person—myself—to act with great malice. It doesn't require *inherent evil*.
+
+And yet when I look at you, I don't just *think* you're bad, I can practically *see* it; *feel* it. Why?
+
+Well, if I recognized you as having been overtaken by your dark part—a part that you don't ultimately want—I would be very careful not to shove you deeper into it, even if I had to fiercely put an end to your behavior, wouldn't I?
+
+Which part of me doesn't want me to see you that way?
+
+This part of me—it doesn't just lure me with justifications. It manipulates my very perception.
+
+And after our encounter, I'll see you even *more* clearly this way, won't I?
+
+This thing is colonizing my entire mind, bit by bit; gaining more control over my thoughts and perceptions—the only tools I have to detect the subterfuge in the first place.
+
+That seems dangerous.
+
+---
+
+
+Can you feel how the person seems somehow turned away from themselves, or perhaps from the "Light"?
+
+
+---
+
+
+Have you ever been on the receiving end of a dehumanizing gaze? You can *see* the malice, can't you?
+
+Well, my desire for you to dig in is a little malicious, isn't it? And yet I'm pretending it's righteous. That's the "off" feeling you're detecting, and it's what makes you dig in. Malice alone doesn't cause that.
+
+But it's actually worse than that, because I *knew* it would make you dig in.
+
+
+
+If I were too obvious about it—if you could see that I knew—you wouldn't fall for it, would you?
+
+But if it's in limbo for me? I'm still conscious of it, so I can 
+
+
+
+It's almost as if the part of me that wanted this outcome also wanted you to *see* that I wanted it. After all, that would actually make it happen, wouldn't it?
+
+Now, I want to be clear about this: it's not that I *consciously* wanted you to see it, in the usual sense of that word. Except here's the thing: the medicine showed me exactly where this desire had been lurking in my conscious mind the whole time. The desire **was** conscious—just more deeply hidden than my mere *hope* that you'd dig in.
 
 And it gets worse.
 
-Anyone who's been on the receiving end of contempt knows that this will be the result—that it makes us feel worse. So we also know it on the delivering end—it's just more deeply hidden. Part of me (consciously) knew in advance it was going to work, and I did it anyway. Doesn't that sound like an *intention*?
+Anyone who's been on the receiving end of contempt knows that this unique combination—of appearing righteous on the surface yet secretly malicious underneath—is enough to make anyone dig in. So I also knew it on the delivering end. It wasn't just a desire—it was an *intent.*
 
-Moreover, don't I already know there's a way to correct people that *doesn't* cause this to happen?
+This is what contempt **is**: the secret intention to make you worse while pretending it's not my fault.
 
-So what did my contempt *add*, exactly?
+---
+
+But why on Earth would I want to make my enemies worse?
+
+
+
+
+What happens when you do dig in?
+
 
 Your digging in wasn't accidental, and it wasn't just an unfortunate side-effect of my good intentions: **it was secretly the whole point.** I was just telling myself pretty stories about how good it would be—and buying them so completely that they became "true" for me.
 
-Which meant that when you did dig in, I could use it against you. Because not only did you fight back against my righteous behavior—which only an evil person would do—you were implicitly accusing *me* of being the evil one. How *dare* you. This world is even worse than I thought—licensing me to ignore my conscience a little more. To fight for good, of course.
+Which meant that when you did dig in, I could only see it as your fault. Because not only did you fight back against my righteous behavior—which only an evil person would do—you were implicitly accusing *me* of being evil. How *dare* you. This world is even worse than I thought—licensing me to ignore my conscience a little more. To fight for good, of course.
 
-And in case you didn't see this coming: *part of me knew that, too. The whole thing was a fiendish ruse that would allow me to feel less guilty about disobeying my own conscience. That was the big payoff.*
+And in case you didn't see this coming: *part of me knew that, too. That the whole thing was a ruse designed to free me a little more from my conscience.*
 
 Let that sit for a moment.
-
-*Something in me revealed itself to you to license more darkness in me.*
-
-And, to cinch the trap: part of me knows this, too—and it's so dark that I must **never** allow it into conscious awareness.
-
-That's why we have no idea we're doing this.
 
 ---
 ## Plausible Deniability
 
 It's difficult to unfold all the layers of this trap. Just to give you a taste: for me to hold it against you, I couldn't know that I caused it. But at the same time, there's no way for me to cause it without part of me knowing that I am.
 
-There are two parallel (conscious) layers of mind operating simultaneously and semi-independently. The left hand doesn't know what the right is doing. One does the dirty work while the other is kept clean.
+So there are two parallel (conscious) layers of mind operating simultaneously and semi-independently. The left hand doesn't know what the right is doing. One does the dirty work while the other is kept clean.
 
 This is the origin of plausible deniability. It doesn't start in governments or organizations, but right here in the individual psychology of *good people.* The "dark operative" doing dirty work while the "official part" maintains innocence? That architecture doesn't get imposed top-down. It blossoms from the bottom up; the natural, inevitable result of millions of us doing exactly this.
 
@@ -103,7 +323,7 @@ And then what do we feel when we locate the people up top "responsible for it al
 
 *Contempt.*
 
-But we'll get to that later.
+We'll come back to that later.
 
 ---
 

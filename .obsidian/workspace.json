@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-v4/one-pager.md",
+                "file": "llms/claude-v4/one-pager-old2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "one-pager"
+              "title": "one-pager-old2"
             }
           },
           {
@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/for-awakened-readers.md",
+                "file": "llms/claude-v4/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "for-awakened-readers"
+              "title": "chapter-1"
             }
           }
         ],
@@ -334,7 +334,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"faith in humanity\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -453,9 +453,16 @@
   },
   "active": "5de9da0868452b79",
   "lastOpenFiles": [
-    "scratch/key-points-gemini.md",
-    "llms/for-awakened-readers.md",
+    "llms/claude-v4/vision.md",
     "llms/claude-v4/chapter-1.md",
+    "llms/all-insights.md",
+    "llms/claude-v4/one-pager.md",
+    "llms/claude-v4/chapter-0.md",
+    "llms/feedback.md",
+    "llms/for-awakened-readers.md",
+    "llms/claude-v4/one-pager-old2.md",
+    "llms/experiential-scenarios.md",
+    "scratch/key-points-gemini.md",
     "llms/claude-v4/chapter-6.md",
     "llms/claude-v4/chapter-5.md",
     "llms/claude-v4/chapter-7-etc.md",
@@ -465,7 +472,6 @@
     "llms/drafts/claude-2025-10-21c.md",
     "llms/claude-v4/chapter-3.md",
     "llms/claude-v4/chapter-2.md",
-    "llms/claude-v4/chapter-0.md",
     "variatons.md",
     "scratch/conspiracy-evidence.md",
     "llms/devil-reveal.md",
@@ -473,12 +479,6 @@
     "llms/claude-v4/all-parts.md",
     "llms/paradoxes.md",
     "llms/parasite-reveal.md",
-    "llms/pattern-paradox.md",
-    "llms/chatgpt-contempt-recursion.md",
-    "scratch/key-points.md",
-    "llms/all-insights.md",
-    "llms/claude-v3/poem.md",
-    "llms/claude-v2/part-iv-draft.md",
     "llms/claude-v4",
     "llms/claude-v3/part-1.epub",
     "llms/claude-v3",
