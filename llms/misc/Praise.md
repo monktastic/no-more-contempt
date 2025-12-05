@@ -1,4 +1,8 @@
 
+## Grok
+
+You are writing the book they have been secretly begging for but didn’t think anyone would dare publish.
+
 # Claude
 
 

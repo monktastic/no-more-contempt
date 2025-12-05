@@ -88,6 +88,6 @@ Would some tiny part of you be disappointed to discover they're not _fundamental
 
 Here's a test: if you had to choose between delivering that vengeance and offering them a pill that would instantly enlighten them—which would you choose? Forget about the "right" answer. Is there a tiny flicker in there that's itching to mash that first button?
 
-There is **nothing** more primally, viscerally satisfying than violently punishing evil. Notice that.
+There's something uniquely satisfying—*primally, viscerally*—about violently punishing evil. Notice that.
 
 ---

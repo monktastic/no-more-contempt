@@ -1,4 +1,4 @@
-# Detailed Writing Outline
+**# Detailed Writing Outline
 
 ---
 **Conscience** 

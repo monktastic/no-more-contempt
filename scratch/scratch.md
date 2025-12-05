@@ -1,5 +1,17 @@
 ---
 ---
+- I hate my enemies because I know it will make them worse people.
+	- Because they see a hypocrite (a "good person" willing to dehumanize), which makes them a bit more cynical, licensing them to turn away from their Light more.
+- I want them to become worse because it helps me hide my own darkness from myself.
+- I can only do this to them (dehumanize) by shielding myself from their humanity, i.e., turning away from the Light.
+	- In this state, part of me realizes: oh shit, this is the only way *they* can do wrong. Turning away from the Light is the very *essence* of wrong, and I'm making them do it *more.*
+	- Which means that what I'm doing is *evil.*
+	- Which means I must never admit it to myself.
+	- Which is why I have to hide my darkness from myself.
+	- Which means I must do it more, to prove that their evil is absolutely nothing like mine.
+- When turned toward the Light, it's obvious that we're all in this mess together, and that my only hope of ending it is to stop people from turning away, which is only possible by me not turning away.
+
+---
 
 ## Mockery, Shame, and Bears—Oh My!
 
