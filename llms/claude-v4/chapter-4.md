@@ -12,11 +12,11 @@ If any of the language is metaphysically unpalatable to you, feel free to substi
 
 3. The darkness is **impossibly** clever at imitating the Light. This is why we cannot simply reason our way to what is good / right at either the personal or civilizational scales.
 
-4. The darkness in all of us is coordinating, destroying all life on Earth. Its behavior matches traditional descriptions of the Devil. It's what some call the "evil global conspiracy."
+4. The darkness in all of us is coordinating, destroying all life on Earth. Its behavior matches traditional descriptions of the Devil. It's also what some call the "evil global conspiracy."
 
 5. The only thing that can *actually* bring down the "Devil" is the Light. This doesn't have to be soft or gentle. That's a lie the Devil tells to conceal the true power of the Light.
 
 6. In every moment, we're serving one or the other. If we don't know which we're serving (e.g., we feel apathy or ennui), we're serving the darkness.
 
-7. The Light isn't something I have; it's what I most fundamentally *am*. The more I remember, the more my behavior naturally reminds others. As the Light fully remembers itself, the Devil is brought to its knees.
+7. The Light isn't something I have; it's what I most fundamentally *am*. The more I remember, the more my behavior naturally reminds others. As the Light fully remembers itself, the "Devil" is brought to its knees.
 

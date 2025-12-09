@@ -1,4 +1,239 @@
 
+
+---
+
+
+---
+
+And here's what makes it truly insidious.
+
+There IS a part of you that knows—that has *always* known. Your conscience. Your better nature. The thing that saw through your self-deception in the first place.
+
+But it doesn't operate through thoughts. It can't articulate *how* it knows, can't produce clever arguments for itself. It just... knows.
+
+And so we've learned not to trust it.
+
+The parasite doesn't just hijack our thoughts—it convinces us that thoughts are the *only* thing worth trusting. That everything else is naive, irrational, "woo." That our "better nature" is just one more voice among the noise.
+
+This is its core strategy: dismiss the one thing that could detect it.
+
+And looking around at the state of the world, it's accomplishing this task remarkably well.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can you see how fighting with integrity and fighting with contempt can be made to look nearly identical from the outside?
+
+
+faith in the light
+draining
+
+
+---
+
+
+[How can I judge when...]
+
+---
+
+## Plausible Deniability
+
+One part of me is doing my dirty work, while another is kept in the dark—and both parts are conscious.
+
+
+
+---
+
+
+
+
+
+And this is *far* from the only situation in which it operates.
+
+## The Contagion
+
+Any time any one of us skirts our conscience—say, by shaving off a little extra somewhere—we're subtly lowering the threshold for others to do the same. Think about it: in a society where such behavior is normalized, isn't everyone more likely to ignore their conscience *in general*? To say "fuck it, why should I be the lone chump following my 'better nature'?"
+
+[not just about the actions, but the way people carry themselves.]
+
+We may not think of cutting corners as "darkness," but it depends on the same mechanism— turning away from my better nature—and feeds the same part in others.
+
+We also don't think of it as *contempt*, but can you sense how it carries the same flavor? I can only benefit myself at the world's expense by treating others as subtly "less than"; by elevating myself above them.
+
+And this can be an incredibly subtle move. I've never literally thought of my partner as "inherently defective," but who hasn't felt that flash of "what's *wrong* with you" during a fight?
+
+There's a reason contempt is the #1 predictor of divorce, and why divorces so often have that bitter feeling of scorched earth; total war. Each side feels like the exclusive victim/hero, and has zero compunction sticking it to the evil other. *Armageddon*.
+
+Every one of these seemingly-unrelated behaviors—contempt for my enemies; skirting my conscience; contempt for my partner—makes the world a bit darker, and makes me more cynical. And under those conditions, each of us is *more* likely to do all those things—not less.
+
+---
+
+## The Scale
+
+Helpless animals being brutalized in factory farms; prison inmates subjected to inhumane conditions; corporations plundering nature for profit—can you feel how each of these requires the same fundamental "turning away"? People must overlook the life; the sacredness in others to do them. And each becomes more frictionless in a darker, more cynical world.
+
+Greedy bankers; corrupt politicians; hypocritical CEOs—doesn't their dirty work get easier in a world mired in darkness?
+
+Nazis called their victims "vermin," and the Tutsis, "cockroaches." Every genocide depends on contempt to twist regular people into monsters.
+
+The aspect of mind that makes it feel righteous to dehumanize you—can you feel how it's the same mechanism as all the above, even if not on the same scale?
+
+When I treat my enemy with contempt, I'm not just making them dig in against *me*—I'm subtly darkening my ambient environment, making each of these things ever-so-slightly more likely.
+
+And then, when that darker world results in more atrocities—against people, animals, nature—what do I feel for the perpetrators?
+
+It's as if there's a life-denying, life-destroying force pushing us to the brink. Is that what I want?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+This does **not** absolve me of responsibility for all the harm I've caused while under its sway—but it does point at a way out.
+
+Because as I become more free of it—which I can actually do—not only do I cause less harm, but I become increasingly aware that _you_ can only cause harm for exactly the same reason. You're not _inherently_ defective; you're just lost in a different version of the same trap.
+
+Which means that instead of treating you with contempt, I become increasingly aware of the conditions that enable you to fall under its sway, and more able to work with them.
+
+Don't get me wrong—I still *stop* you, using as much force as necessary. But I no longer make the tragic mistake of gleefully driving the parasite deeper into your mind; feeding our nemesis.
+
+And you *feel* this difference, don't you? It's like I'm reminding you of something you've temporarily forgotten in yourself. That *this darkness isn't you*.
+
+The part of me that lies beneath my parasite—my "better nature"—it begins to link up with yours. They remember where the true fight lies—exactly what the darkness doesn't want us to see.
+
+That doesn't mean we agree on everything, or even like each other. We might still have different ideas on how to help the world, but the bitterness evaporates. We're both working against the darkness—and we recognize this in each other.
+
+---
+
+It's not just a matter of thinking differently or donning rose-colored glasses.
+
+If I pretend to see the good in Hitler, I'm liable to cause a lot more harm than if I'd just shot him. (Though depending on the *way* I shoot him, I can still elicit either bloodlust or integrity in others.)
+
+Learning to actually see and reach the aspect under the darkness in others—their Light—is a skill. And skills take time to develop.
+
+And it's not an independent skill from learning to evict the darkness from my own mind: finding all the pain, confusion, insecurity, etc.—all the "hooks" it uses to draw me away from my better nature—and healing them. This *automatically* makes it easier for me to see the Light in others.
+
+To whatever degree I haven't done this work, there will *always* be areas in my life where I'm pumping darkness into the world while flawlessly convinced I'm helping.
+
+And nearly every one of us is doing this without having any idea that we are. *That* is why the world is in the state it's in.
+
+---
+
+Try and recall how *certain* you feel when wielding contempt against your enemies. You can't just reason yourself out of that state, can you?
+
+The darkness doesn't just draw you away with a single thought and then stop. It continually manipulates your thoughts, so that they act in *service* of your darkness.
+
+And you don't just *think* your enemy is evil: you practically *see* it; *feel* it. It's the same reason that dehumanizing can feel righteous.
+
+So it doesn't just manipulate your thoughts, but your feelings and perceptions. It hijacks your *entire cognitive apparatus*—all the tools you'd need to detect that you're lost.
+
+And after that interaction with your enemy, don't you see them as *more* surely defective? And not just them, but people *like* them, who you're then also forced to contemn?
+
+It's not just manipulating your perceptions while you're in the state of contempt. Your baseline state has shifted—but you have no way of detecting this. It just feels... normal. Righteous.
+
+This is why you cannot simply talk a person out of being evil. Their entire perceived reality is internally consistent in a way that powerfully resists all attempts to puncture it.
+
+How would you know whether you're lost in some (lesser) version of that right now? A state in which you cannot trust your own thoughts to guide you toward what is good?
+
+Would you be surprised to learn that narly *all* of us are? That it's a matter of degree, and not kind?
+
+---
+
+## Collaboration
+
+Your parasite and mine—they're not independent.
+
+I don't just attack you randomly. The darker my own state, the more I go *hunting* for darkness in others—almost like mine is sensing its way toward yours. And when it finds you? It *reveals* itself to you, knowing this will help yours ingratiate itself to you further—almost like a kind of secret handshake between the two; an agreement to keep this world bound in darkness.
+
+You can actually learn to feel this as you become more sensitive. And it's not subtle.
+
+When I gather with my "allies" to foster contempt for our enemies behind closed doors—something about the energy of the room feels a bit "off," doesn't it? My darkness recognizes it as a safe space to come out and play with the others.
+
+And ours somehow work together to keep the Light out. Have you felt that? Maybe you sense that "your team" is using the same dirty tricks you ruthlessly judge your enemies for—but do you dare speak up in the presence of that energy? You know you'll be excommunicated if you name what's happening, don't you?
+
+But by whom—or *what*? Any one of these people, in different circumstances, might be safe to confide in. But as a group? There's a dark synergy there that's difficult to grapple with.
+
+It's almost like our parasites are *conspiring*—yet there's no explicit coordination. In fact, any attempt to make it explicit would destroy the veil of plausible deniability that it requires. It's somehow operating in our shared blind spot; harnessing our shared intelligence.
+
+And then, when we all walk away, and that temporary pattern dissolves, none of us will be consciously aware of the darkness we've infused into the world.
+
+What would our world look like if this kind of "conspiracy" were happening all over the place, in countless seemingly-unrelated contexts, at every scale up to the civilizational? Water-cooler conversations, locker room talk, boardroom meetings, political rallies, military war rooms, ...
+
+---
+
+It's almost like there's a singular distributed malevolent entity, relentlessly driving humanity toward catastrophe—one that we can never quite pin down, because it's so amorphous and yet seemingly-intelligent.
+
+It has "control centers" in each of our minds that it periodically calls upon—yet each of us feels certain that we're uniquely immune to it; free of it. It's only *other people* that are the problem. We never recognize that this feeling of being the valiant one fighting the conspiracy **is** the conspiracy.
+
+So what do we do? We spend all our time finding clever ways to defeat others—so that our pure agendas and ideologies come out on top. Not because they benefit us in countless ways we can't yet admit, of course, but because they're uniquely noble—the only way to save the world.
+
+---
+
+Here's the core problem: the more unmoored I become from my Light, the less I'm able to notice that I am. The more I begin to accept substitutes as the real thing.
+
+Correcting with integrity feels "righteous," and violently punishing evil feels "righteous"—but they don't feel the same at all, do they?
+
+How can one word have two nearly-opposite meanings? Why didn't anyone at the dictionary stop and say "you know what guys, maybe this isn't such a great idea?"
+
+It wouldn't have mattered, would it? Any way I try to define or pin down "goodness," the darkness will usurp it for its own purposes.
+
+Reasoning can be used in service of the Light—obviously. But the more my cognition is hijacked by my darkness—a condition I can't identify by thinking harder about it—the more I tell myself *stories* of how good my agendas, ideologies, projects, etc. are; and the more I believe it.
+
+This is the condition that nearly all of humanity is lost in—and we will not think our way out of it.
+
+There was only *one thing* that could warn me that my contempt would darken the world, and my thinking mind wrote it off as naive or "mere intuition" because it had no way to justify itself.
+x
+What would happen if all of humanity wrote off this part of ourselves as mysticism or "woo," fetishizing rationality and intellect above all else? If that became our dominant worldview?
+
+What would the world look like then?
+
+And which part of us would benefit from that?
+
+---
+
+The biosphere isn't collapsing because we're not thinking hard enough. It's collapsing because we've convinced ourselves that thinking harder is enough to save it.
+
+---
+---
+
+
+---
+---
+
+
+
+---
+---
+
+## Fighting Evil
+
+---
+
 My willingness to turn away from myself is giving you license to do the same, and part of me knows this. It's like 
 
 
