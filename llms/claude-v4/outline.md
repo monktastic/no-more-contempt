@@ -1,4 +1,13 @@
+## 2025-12-17
 
+1. Contempt darkens minds.
+2. I *know* that it does.
+3. That is its *purpose*.
+	1. Why: to avoid confronting my own darkness
+4. The darkness is one thing, working against all of us.
+
+---
+---
 # Part 1
 
 Part 1 starts with experiential invitations and then walks through a scenario where I'm mocking / shaming my enemy. The punchline is that I am intentionally trying to darken their minds (and it is the contempt that does it).

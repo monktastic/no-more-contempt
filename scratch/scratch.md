@@ -1,5 +1,11 @@
 ---
 ---
+Pause and admire the astonishing cleverness.
+
+I know you're not fundamentally bad, but deceive myself about this so that I can dehumanize you. That tips you off that I'm doing *the thing*, which makes you feel more empowered to dehumanize. This convinces me I was right about you, because what kind of person does that?
+
+---
+
 - I hate my enemies because I know it will make them worse people.
 	- Because they see a hypocrite (a "good person" willing to dehumanize), which makes them a bit more cynical, licensing them to turn away from their Light more.
 - I want them to become worse because it helps me hide my own darkness from myself.

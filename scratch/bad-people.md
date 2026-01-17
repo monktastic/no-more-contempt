@@ -81,7 +81,7 @@ If you really want to know whether your behavior is good or evil, you must tur
 
 
 
-[Good and evil *cannot* be formalized. Any attempt to do so is only your mind trying to squirm out of its responsibility to be deeply sensitive to what your present situation requires of you. Your ideologies can serve as guidelines, but nothing more.]
+[Good and evil *cannot* be formalized. Any attempt to do so is only your mind trying to wriggle out of its responsibility to be deeply sensitive to what your present situation requires of you. Your ideologies can serve as guidelines, but nothing more.]
 
 [Something about how the feeling it gives us is that we're "getting away" with something, but actually we're only feeding our true nemesis.]
 

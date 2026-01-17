@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/evaluation-guide.md",
+                "file": "scratch/short.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "evaluation-guide"
+              "title": "short"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/drafts/claude-2025-10-22-edit.md",
+                "file": "scratch/key-points-gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude-2025-10-22-edit"
+              "title": "key-points-gemini"
             }
           },
           {
@@ -307,12 +307,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-v4/chapter-1-cut.md",
+                "file": "llms/claude-v4/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1-cut"
+              "title": "chapter-1"
             }
           },
           {
@@ -321,16 +321,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-v4/vision.md",
+                "file": "llms/claude-v4/outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vision"
+              "title": "outline"
+            }
+          },
+          {
+            "id": "2f69c7f4824442f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scratch"
+            }
+          },
+          {
+            "id": "41b0d86baf591188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-v5/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -362,7 +390,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rationality",
+                "query": "\"speak up\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,7 +411,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -479,34 +508,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52fafc06f1dfa9c9",
+  "active": "41b0d86baf591188",
   "lastOpenFiles": [
-    "llms/claude-v4/chapter-1-old.md",
-    "llms/claude-v4/chapter-1.md",
+    "llms/claude-v5/chapter-2.md",
     "llms/claude-v4/chapter-2.md",
-    "llms/claude-v4/chapter-3-old.md",
-    "llms/claude-v4/chapter-6.md",
-    "llms/claude-v4/chapter-4.md",
-    "llms/claude-v4/chapter-1-cut.md",
-    "llms/claude-v4/all-parts-draft.md",
-    "llms/claude-v4/main-points.md",
-    "llms/claude-v4/cutting-room-floor.md",
-    "old/index-old-10.md",
-    "old/index-old-8.md",
-    "llms/misc/Praise.md",
-    "llms/misc/claude-praise.md",
+    "scratch/short.md",
+    "llms/claude-v5/chapter-1.md",
+    "llms/claude-v4/chapter-1.md",
     "llms/claude-v4/chapter-0.md",
-    "llms/claude-v4/vision.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "llms/claude-v3/poem.md",
+    "llms/claude-v5",
+    "llms/claude-v5.md",
+    "llms/claude-v4/chapter-4.md",
+    "scratch/first-person.md",
+    "scratch/psychedelics.md",
+    "scratch/key-points-gemini.md",
+    "llms/claude-v4/main-points.md",
+    "llms/claude-v4/chapter-6.md",
+    "llms/claude-v4/chapter-5.md",
+    "llms/claude-v4/chapter-3-old.md",
+    "scratch/chapter-bullets.md",
+    "llms/overall-structure.md",
+    "llms/overall-guidance.md",
     "llms/all-insights.md",
-    "parts-0.md",
-    "scratch/endless-summary.md",
-    "llms/human-feedback.md",
-    "scratch/conspiracy-evidence.md",
-    "scratch/bad-people.md",
-    "llms/claude-v2/part-0-final.md",
+    "scratch/key-points.md",
+    "llms/claude-v4/all-parts-draft.md",
+    "llms/claude-v4/outline.md",
+    "llms/drafts/claude-2025-10-22-edit.md",
+    "Untitled 1.md",
+    "old/index-old-18.md",
+    "old/index-old-6.md",
     "llms/claude-v4",
     "llms/claude-v3/part-1.epub",
     "llms/claude-v3",
@@ -516,7 +546,6 @@
     "llms/claude-v2/TODO",
     "llms/claude-v2/untitled folder",
     "llms/claude-v2",
-    "llms/claude-v1",
     "img/tribe.png",
     "img/shared-devil.png",
     "img/parasite.png",

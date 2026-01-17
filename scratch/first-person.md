@@ -6,6 +6,17 @@
 
 ---
 
+[Some kind of intro about it being a psychedelic trip]
+
+I loved mocking and shaming people—crazy people, evil people, stupid people; my political enemies, etc.
+
+I was shown that even while treating them this way, a tiny part of me *knew* it would only make matters worse—that they would see *me* as a bad person and feel more justified in their beliefs. I saw that this would darken the world as a whole, by increasing the "net animosity." But part of me was okay with that, because it benefited my ego; proved that my enemies were the monsters I knew they were.
+
+
+
+---
+---
+
 ## Prelude
 
 Once, on a "heroic dose" of psilocybin, I was shown something that shattered my understanding of good and evil. It wasn't a gentle insight—it was a cascading series of revelations, each more horrifying than the last, that demolished my entire worldview and replaced it with something infinitely more mysterious and meaningful.
