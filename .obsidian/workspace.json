@@ -362,7 +362,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"darkest idea\"",
+                "query": "\"line goes up\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,7 +383,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -481,9 +482,9 @@
   },
   "active": "01d5a6f0e968a239",
   "lastOpenFiles": [
-    "llms/for-awakened-readers.md",
-    "llms/claude-v5/chapter-1.md",
     "llms/claude-v5/TODO.md",
+    "llms/claude-v5/chapter-1.md",
+    "llms/for-awakened-readers.md",
     "llms/claude-v5/chapter-2.md",
     "Untitled.md",
     "Untitled 1.md",

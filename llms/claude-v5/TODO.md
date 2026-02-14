@@ -1,17 +1,21 @@
 ## Part 1
 
 - Metacrisis framing intro.
-- Example of correction with integrity.
-- Feels like you.
-- Collaborating.
+- ~~Example of correction with integrity.~~
+- **Feels like you.**
 - Thinking harder cannot stop it.
 - Every act of conscience-skirting.
-- -  When it's seen clearly for what it is—with all filters removed—it feels *malevolent*; like I'm extinguishing a bit of light from this world. It's like this one single act somehow contains the distilled essence of *all the darkness there ever was.* Of *course* I'd have to turn away.
+-  When it's seen clearly for what it is—with all filters removed—it feels *malevolent*; like I'm extinguishing a bit of light from this world. It's like this one single act somehow contains the distilled essence of *all the darkness there ever was.* Of *course* I'd have to turn away.
 - I'm still fully responsible for the harm I cause—*including the downstream effects of having darkened your mind*—and yet judging me for it makes no sense. In fact, the only person who would *want* to judge me is someone still caught in the trap themselves. Think about it: do wise people treat others with contempt? No. 
 - They may not even remember that they *have* a conscience. And when you treat them as if they don't, what happens? You give them permission to *forget more thoroughly*.
 - The deeper my infection goes, the more I seek out others who are infected—the *bad people*—so I can teach them a lesson. And what lesson do I teach them? That *darkness is the way.*
-- - Rationality as the only way out.
+- Rationality as the only way out.
 - Plausible deniability
+
+
+[As long as I avoid confronting it, I literally *cannot help* but unleash it on the world in ways that escape my conscious notice.]
+
+
 
 ---
 
@@ -127,4 +131,23 @@ Different cultures have had different names for it. Satan. The ego. Today we sen
 > "The lies that corporations use to defile nature for 'shareholder value,' governments to send our young off to die in unjust wars, and me to feel contempt for the people in charge—it's all made of the same stuff: the willingness to overlook _life_."
 
 ---
+
+When I treat you with contempt, it's as though part of my mind is doing my "dirty work" while another part keeps its hands clean. What does that remind you of?
+
+*Plausible deniability.*
+
+When groups of people, blissfully unaware of their own shadows, form organizations—what is the natural result?
+
+Corporations that "don't know" what their lobbyists do, governments that "don't know" what their intelligence agencies do, executives that "don't know" what their subsidiaries do.
+
+None of it requires explicit coordination or top-down enforcement by mustache-twirling villains. It's the natural, inevitable, synergistic effect of our individual self-deceptions.
+
+Every time any one of us skirts our conscience for any reason—say, by shaving off a little extra for ourselves, justifying it as "sticking it to the man"—we are secretly making humanity more susceptible to that same self-deception.
+
+It's as though all our dark parts are secretly **coordinating**—through vast and subtle networks, operating just out of sight.
+
+That's why it sometimes feels like there must be an evil global conspiracy coordinating all the madness. In a certain sense, there is—just not the kind we normally imagine. All our darkness together behaves like a **singular malevolent distributed entity**—one with control centers in each of our minds.
+
+The belief that I'm standing outside the "conspiracy," valiantly fighting it—that's the surest sign that it's still operating through me.
+
 ---
