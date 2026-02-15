@@ -13,49 +13,62 @@ But under the covers, something much darker is taking place.
 
 ---
 
-What I'm doing is **dehumanizing** you; choosing to see you as fundamentally defective. And there's only one reason people do that: to cause harm without facing the horror of it. We **must** shield ourselves from fully perceiving the life in our victims; our profound commonality with them. Otherwise, the deepest part of us—our *better nature*—would never allow it.
+What I'm doing is **dehumanizing** you; choosing to see you as fundamentally defective. And there's only one reason people do that: to cause harm without facing the horror of it. To do that, we **must** shield ourselves from fully perceiving the life in our victims; our profound commonality with them. Otherwise, the deepest part of us—our *better nature*—would never allow it.
 
 Deep down, I know this is true of you, too—which means I know you *have* a better nature. But I'm pretending you don't. Why? So that I can provoke you in a way that **proves** you don't. I do that by weaving something predatory into this interaction—something I know you'll sense, but which no one can prove.
 
 I'm showing you that your worst fears are true; that this world really is the cruel, unforgiving place you suspect it is—which we both know is the reason you cause harm in the first place. I want you to see that I know this—that I could choose to rescue you from the abyss instead of shoving you deeper into it. But I'm not going to do that, and nobody's going to blame me for it.
 
-In fact, _I myself_ won't know it—because I know how to hide my darkness from myself just as well as you do. I’m going to **sleep like a baby**, and I want you to know that. I'm only _fighting evil_, after all—and how could that ever be wrong?
+In fact, _I myself_ won't know it—because I know how to hide my darkness from myself just as well as you do. I’m going to sleep like a baby, and I want you to know that. Because I'm only _fighting evil_, after all—and how could that ever be wrong?
 
 ---
 
 Why would I do this?
 
-Because the truth is, there's darkness in me I'm not ready to face—so I project it onto you. I need your darkness to be of a **fundamentally different nature** from mine; for there to be **inherently defective** people out there. Otherwise, I might have some complicity in the horrors of the world—and that just can't be.
+Because there's darkness in me I'm not ready to face—so I project it onto you. I need your darkness to be of a **fundamentally different nature** from mine; for there to be **inherently defective** people out there. Otherwise, I might have some complicity in the horrors of the world—and that just can't be.
 
-So I must **ensure** that "inherently bad" people exist—and I must keep them trapped there. But I must never know I'm doing this, for obvious reasons. At the same time, I obviously do know—because, remember, **showing** it to you was essential to its operation.
+So I must **ensure** that "inherently bad" people exist—and I must keep them trapped there. This way, I know they never had any hope of escaping, and so my behavior was always righteous. But I must never know I'm doing this. At the same time, I obviously do know—because **showing** it to you was essential to its operation.
 
-This means that both halves—the knowing and the not-knowing—must operate in **parallel**. It requires a kind of **split consciousness**. One part does the dirty work, while the other keeps its hands clean.
+Both halves—the knowing and the not-knowing—must operate in **parallel**. It requires a kind of **split consciousness**. One part does the dirty work, while the other keeps its hands clean—and paradoxically, both halves are conscious.
 
 Plausible deniability.
 
-It is the very **essence** of evil. If you've ever been on the receiving end of a dehumanizing gaze, you've felt it before. Doesn't the person seem somehow *absent* or "turned away" from themselves? 
+It is the very **essence** of evil. If you've ever been on the receiving end of a dehumanizing gaze, you've felt it before. Doesn't the person seem somehow *absent* or "turned away" from themselves? You *know* they know. And they do—while in another sense, they also don't.
 
 We **must** turn away from our better nature to cause harm—and because it's also the thing that warns us that we *are* turned away, the **more** turned away we are, the **less** we realize it. People committing atrocities don't feel "evil." They feel **impossibly righteous**—like how I just did. 
 
-That's what you were sensing in me—and it did all the work of communicating that predatory vibe. Nothing additional was necessary. All it required was that I abandon my better nature in favor of rationalizations of all the good it would do. By doing so, I induced the same mistake in you—and part of me knew it.
+That's what you were sensing in me—and it did the work of communicating that predatory vibe. Nothing additional was necessary. It simply required that I abandon my better nature in favor of rationalizations. By doing so, I induced the same mistake in you.
+
+**That is the transmission of evil.**
 
 Yet when people debate whether my actions were "good" or "evil" (and even when I review it in my own mind), they will latch onto the "objective facts"—completely overlooking the mechanism that actually transmitted it.
 
 It is transparent to those facts **by design**.
 
-I was teaching you that this world is, at bottom, a cold and lifeless place. One in which all that matters is what we can get away with; what we can objectively prove. And it worked precisely *because* nobody can prove I did it. What good is a *better nature* in such a world?
+I was teaching you that this world is, at bottom, a cold and lifeless place. One in which all that matters is what we can get away with; what we can objectively prove—and it worked precisely *because* nobody can prove it. What good is a *better nature* in such a world?
 
-Which means we will **both** be less likely to trust it in the future—the one part of us that actually has the capacity to detect the spreading infection. We will write it off as a naive fantasy; reducing genuine goodness to mere calculations. And then we will spread it to others.
+Which means we will **both** be less likely to trust it in the future—the one part of us that can actually detect the spreading infection. We will write it off as naive; reduce genuine goodness to mere calculations. And then we will spread this mistake to others, having calculated we're doing the "right thing."
+
+Corporations that "don't know" what their lobbyists do. Governments that "don't know" what their intelligence agencies do. Executives that "don't know" they're strip-mining the world for profit.
+
+*Plausible deniability.*
+
+Prison inmates—who cares? Animals in factory farms—not sentient anyway. Rainforests—pretty and all, but we have shareholders to appease.
+
+The overlooking of *Life itself* in favor of clever ideas: it begins **right here**, in the places we refuse to look. It's all one giant interlocking mass of self-deception.
 
 This is how the darkness wins its eternal battle against the light: by hiding in plain sight. By masquerading *as* the light. By cloaking itself in "objectivity" and "rationality."
 
-It's why the "line goes up" even as our biosphere quietly collapses and the social fabric degrades.
+How the "line goes up" even as our biosphere quietly collapses and the social fabric degrades.
 
-Why evil gets stronger even as we righteously fight it with ever-more hatred and contempt.
+Why evil gets stronger even as we fight it with ever-more hatred and contempt.
 
-It's not a bug. It's a feature.
+It's not accidental. It's by design—and we are its architects.
 
 ---
+
+
+
 
 
 
