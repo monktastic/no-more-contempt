@@ -1,4 +1,3 @@
-
 Have you ever been so angry that you'd be willing to let the whole world burn to satisfy your white-hot rage? In that moment, didn't your anger feel *righteous?*
 
 Now think back to a moment of fierce integrity—where you did the right thing even at great cost to yourself. Didn't that feel righteous, too?
