@@ -13,25 +13,45 @@ But under the covers, something much darker is taking place.
 
 ---
 
-What I'm doing is **dehumanizing** you; choosing to see you as fundamentally defective. And there's only one reason people do that: to cause harm without facing the horror of it. To do that, we **must** shield ourselves from fully perceiving the life in our victims; our profound commonality with them. Otherwise, the deepest part of us—our *better nature*—would never allow it.
+What I'm doing is dehumanizing you; choosing to see you as **fundamentally defective**. And there's only one reason people do that: to cause harm without facing the horror of it. We **must** shield ourselves from fully perceiving the life in our victims; our profound commonality with them. Otherwise, the deepest part of us—our *better nature*—would never allow it.
 
-Which means I know this about you, too—that you *have* a better nature. Why am I hiding it? Because it lets me weave something predatory into this interaction—something I know you'll sense, but which no one can prove.
+But what "harm" am I causing, exactly?
 
-I'm showing you that two can play at this game: that I'm just as skilled at hiding the humanity in others as you are. Which means I can make you hurt and get away with it—because look at how hard it is to even pin down the harm I'm causing.
+Well, I'm showing you that your worst fears are true; this world really is the cruel, unforgiving place you already suspect it is—which I know is the reason you cause harm in the first place. Which means I know this will *worsen* your behavior—which I'll be able to blame on you.
 
-I'm just subtly robbing you of hope. Showing you that your worst fears are true; that this world really is the cruel, unforgiving place you suspect it is—which we both know is the reason you cause harm in the first place. I want you to see that even the so-called "good people" will gladly forsake you to the abyss and lie to themselves about it—because *genuine* goodness is a myth.
+And how am I communicating such a complex and intricate message?
 
-I am smothering what little innocence remains in you by pretending I can't see it, knowing perfectly well that I could rescue it instead while still firmly serving justice.
+Because deep down, I know you have a better nature—which means I know you know all this too. So I know you'll instinctively recognize my attitude as malicious—but you can't prove it, can you? What are you going to say, exactly?
 
-No, wait a minute—what are we even talking about? I don't "see" anything. And there's nothing cruel about this. You're just *bad*, and I'm only *fighting evil*.
+*"He's being mean?"*
 
-How could that ever be wrong?
+LOL.
+
+I want you to see that even the so-called good people will gladly forsake you; abandon you to the abyss when they can get away with it. Because *genuine goodness* doesn't exist—at least, not for you.
+
+I know this will smother what innocence remains in you, and I want you to see that I could choose to rescue it instead while still firmly serving justice. But I'd rather let you wallow in the hell you created for yourself—because not a soul will blame me for it.
+
+*Wait, blame me for what? I'm only "fighting evil," after all—and how could that ever be wrong?*
 
 ---
 
-The thing that makes this so hard to describe is also what makes it work. That ineffability is a **requirement**. And yet every one of us knows what this is pointing to, even if we pretend not to.
+*You can sense that I'm turned away from my better nature, and that I'm hiding this from myself. And I **know** you sense this, which I must hide. But you sense that too. Which I must hide. 
 
-This is the maddening space in which the darkness hides. Unmistakable yet unprovable.
+*At each layer, something showing itself to you while hiding from me.*
+
+*Until the whole diabolical structure is revealed—the intent to shove you into the abyss while blaming you for it.*
+
+*And seeing that is what accomplishes the shove.*
+
+*Which I then blame you for.*
+
+---
+
+The sheer, maddening unprovability of the act is simultaneously what causes the harm, what prevents me from recognizing my role in it, and what makes it impossible to describe here without sounding cartoonish.
+
+And yet every one of us knows exactly what it's pointing to, even if we pretend we don't.
+
+This is the liminal space in which the darkness hides.
 
 ---
 
@@ -41,9 +61,9 @@ Because there's darkness in me I'm not ready to face—so I project it onto you.
 
 So I must **ensure** that "inherently bad" people exist—and I must keep them trapped there. This way, I know they never had any hope of escaping, and so my behavior was always righteous.
 
-I must never look directly at what I'm doing—and yet I **must** know I'm doing it, because **showing** it to you is the very mechanism by which it works.
+I must never look directly at what I'm doing. And yet I **must** know I'm doing it, because **showing** it to you is the very mechanism by which it works.
 
-So both halves—the knowing and the not-knowing—must operate in **parallel**. It requires a kind of **split consciousness**. One part of my mind is doing my dirty work, while another keeps its hands clean—and **both halves are conscious**.
+So both halves—the knowing and the not-knowing—must operate in **parallel**. This requires a kind of **split consciousness**. One part of my mind is doing my dirty work, while another keeps its hands clean—and **both halves are conscious**.
 
 This is the very **essence** of evil.
 
@@ -134,6 +154,11 @@ It is a **parasite**—and we are its hosts.
 Yours and mine aren't fighting each other. They are secretly **allied**; making us *believe* we're enemies, so that we'll never notice what is actually happening.
 
 
+---
+---
+
+
+
 
 If I could actually compare this false righteousness with the true one, the difference would be obvious. But again, since I've drifted from the one thing that can actually tell them apart, I fail to notice the difference. I instead rely on my **thoughts** to tell me whether I'm on the right track—unable to detect that my **whole thinking mind** has been compromised by the darkness.
 
@@ -154,8 +179,25 @@ Of course, I may not think of it this way, or even be conscious of it. That's be
 ---
 
 
+---
+---
 
+## The recursion
 
+I know I've turned away from my better nature, but I'm hiding this from myself.
+I know you can see that pair (which is malice), but I'm hiding that from myself.
+I know you can see *that* pair (which is hypocrisy) but I'm hiding *that* from myself.
+I know you can see *that* pair (which makes it a ruse) but I'm hiding *that* from myself.
+I know you can see *that* pair (which makes it plausibly deniable) but I'm hiding *that* from myself.
+...
+I know you can see *this whole recursion* (which is the intent to shove you into the abyss while appearing righteous)
+
+And that is what shoves you into the abyss.
+
+And I know that.
+
+---
+---
 
 
 Here's the crucial point: there is a part of my mind that is actively working **against** my deepest values. And to the degree I haven't healed my own "piddling issues," this part will continually be creating evil, in countless subtle ways that escape my notice.
