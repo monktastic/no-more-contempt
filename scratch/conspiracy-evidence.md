@@ -124,11 +124,11 @@ That's how it spreads.
 
 The conference room. Your political allies. The door closes.
 
-Someone starts: "We need a strategy to deal with [the other side]."
+Someone starts: "We need a strategy to deal with [our enemy]."
 
 Reasonable enough. Strategic. Professional.
 
-But watch what happens.
+But watch what happens next.
 
 Someone makes a joke. A little edge to it. Everyone laughs—a little too hard, a little too eagerly.
 
@@ -138,7 +138,7 @@ Someone else: "I mean, honestly, have you _seen_ what they're posting?" The ener
 
 But something else is happening beneath the surface.
 
-**The room is giving itself permission.**
+**The room is giving itself silent permission.**
 
 What started as strategy is becoming something else. "We need to stop them" slides into "we need to _destroy_ them." Someone says what everyone's thinking: "Honestly, fuck these people."
 
@@ -156,13 +156,13 @@ One person hesitates. "Is that really—"
 
 The hesitation dissolves. Of course. They're right. We're the good guys. We have to win.
 
-**Here's the key:** When we leave that room, each of us can honestly say we were just "planning strategy." We discussed "messaging." We were "realistic" about the opposition.
+When we leave that room, each of us can honestly say we were just "planning strategy." We discussed "messaging." We were "realistic" about the opposition. And in a sense, we're not wrong.
 
-The meeting minutes will look fine. But more importantly—**the story we tell ourselves will look fine.**
+The meeting minutes will look fine. But more importantly—**the story we tell *ourselves* will be impeccable.**
 
 No one _consciously_ decided "let's be cruel." No one explicitly said "let's abandon our values." There were no mustaches to twirl.
 
-We just let our parasites recognize each other and sync up. Let the darkness handle the details while our conscious minds maintained plausible deniability.
+We just let our dark parts recognize each other and sync up. Let the darkness handle the details while our conscious minds maintained plausible deniability.
 
 This is how war rooms work. Political campaigns. Activist groups sliding from justice into vengeance. Corporate boards rationalizing crushing competitors.
 

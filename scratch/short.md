@@ -1,189 +1,1580 @@
 ---
 ---
 
+## Outline
+
+- The limbo state is you being turned away from that within you that knows what's right.
+- It leaks through even when you try to hide it, licensing the same in others. It is **infectious**.
+- This leaking is **purposeful** at one layer, and unintentional at another.
+- You can't prove it happened—and that is precisely what makes turning away feel okay.
+- We rely on the "evidence," increasingly ignoring the part that knows.
+- This is the epidemic that's eating our world
+
+- Doesn't just manipulate your thoughts but your very perception.
+- Root conspiracy. Satan.
+- The best measure of how much darkness is left in me is how much contempt I can feel.
+- Astonishingly easy to slide down the path to becoming a Nazi.
+
+Other people cause harm without knowing it. BY not-knowing it. I know this and don't. Which is deeply uncomfortable, so I must not know it. By proving that they do, unlike me. But doing this is an instance of the very thing I hate, so I must DOUBLY not-know it. But how do I do something without knowing it? By revealing it to them by hiding it from myself. But how do I do that? By knowing-it-while-not-knowing it.
+
+Gospel of Philip quote to start?
+
+---
+---
+
+
+> _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._
+> — The Gospel of Philip, 3rd century
+
+## Part I: Limbo
+
+Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment to boost your ego, took credit for someone else's work, or cheated on a test (or even partner).
+
+Try and remember what that was like. You knew it was wrong, even as you did it. So the knowledge wasn't unconscious—but it wasn't fully conscious either, was it? It lived in a strange kind of limbo, where you simultaneously knew and yet didn't.
+
+The part that *knew*: it couldn't tell you exactly how it knew, could it? So you listened to the part that could—the part that "proved" everything was fine.
+
+I mean, why not trust what you can *prove?*
+
+---
+
+Deep down, I know that what lives in the "bad people" lives in me, too. But this is too horrible to admit, so what do I do? I accuse them of being fundamentally _other_; inherently defective.
+
+At some level, I know this "othering" is what enables all harm. Could the executive desecrate the rainforest if he felt its thrumming heartbeat as his own? Could normal people commit atrocities if they recognized themselves in their victims? No. To cause harm, we must shield ourselves from the life in others.
+
+So by dehumanizing them—treating them with *contempt*—I'm doing to them exactly what I condemn them for. I know they can sense this, but that's a good thing. They deserve to feel what it's like to be on the receiving end. Maybe then they'll stop.
+
+But does anyone actually learn from this, or does it only embolden them? I already know the answer, and yet I can't help but do it anyway. *Why?*
+
+Trick question. I don't do it *despite* knowing this—I do it because of it. Watch what happens.
+
+Part of me feels completely righteous. Sure, I may be provoking them, but so what? It's not like I'm making them more evil—just exposing what's already there. Because what kind of person reacts that way to *righteousness?* I'm revealing their true colors! A genuine service to the world!
+
+But something uncomfortable gnaws at me.
+
+How do *I* behave when treated with contempt? I *know* the other person isn't serving what they claim to serve. Their words say one thing but their tone and gaze convey something *much darker*—almost like they're baiting me to prove themselves right. Seriously, *fuck* those people.
+
+Good thing I'm not doing that. If I were, I'd know it—and I don't.
+
+Still... why would this person have to hide anything from themselves unless *part of them isn't okay with doing it?* Are we the *same* on some level? It would mean I'm shoving a *fundamentally redeemable* person deeper into the abyss just to prove they belong there. Smothering their light to know they don't have any.
+
+*Shudder.*
+
+I push this thought out of my mind. Because if I don't *know* I'm doing that, then I couldn't be.
+
+Yet they seem to be accusing me of it anyway. Which means they're not reacting to anything I'm actually doing—they're just projecting.
+
+*See! I knew it!* They really *are* rotten to the core! I had nothing to fear after all. I mean, I gave them every chance, and *this* is what they chose of their own free will.
+
+There's only *one way* to deal with people like that...
+
+---
+
+There is **nothing** more primally, viscerally satisfying than violently punishing evil. Pause and feel that. 
+
+And I've just nudged my enemy one step closer to becoming exactly the kind of person who can only be dealt with that way.
+
+Each step makes me more confident that they're truly beyond help—and I **need** that, because if they're not, then *what the hell have I been doing?*
+
+If I've been making them worse, then might they have spread that darkness to others? How far might it have rippled out?
+
+It would mean that the horror of the world is not truly separate from me. I have some connection to it; some complicity.
+
+And that just. Can't. Fucking. Be.
+
+So I **must** know they're fundamentally different. I must **prove** it.
+
+---
+
+What do you do when you **need** something, but can't stomach the idea of actually doing it? When the knowledge that you're doing it would undermine the very outcome you need?
+
+You do it without knowing it.
+
+You turn *away* from a deep part of yourself—the part that wants to do *right* by the world. And how does that look from the outside?
+
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves?
+
+*That's* what you're seeing.
+
+They know they're in this state—*and at the same time, they don't*.
+
+But you only see the part that **knows**, don't you? And what does that make you feel for them?
+
+My darkness: it reveals itself to you while hiding itself from me. *By* hiding itself from me.
+
+This is how it spreads itself to you.
+
+---
+---
+
+## Part II: The Infection
+
+The deepest part of me—the part incapable of wishing harm—is also what warns me when I am turned away from it. Which is the thing you recognize as **evil**.
+
+So when I turn away, that fact is **telegraphed** to you and at the same time **hidden** from me. Both happen as a single act.
+
+But it's not just that I don't know I'm turned away. I feel more certain than ever that I'm **not**. Like I'm seeing more clearly than ever before.
+
+People committing atrocities—they don't feel *evil*. They feel *impossibly righteous.*
+
+Just as I do when hating them for it.
+
+The darkness doesn't win by confronting the light head-on. It wins by masquerading *as* it.
+
+---
+
+When I'm in that state, you can tell I'm rationalizing but I can't. Because it doesn't just usurp my moral capacity; it hijacks my entire thinking apparatus. I don't just *feel* righteous; I can practically **prove** it. 
+
+No amount of thinking harder will reveal that I'm lost. If anything, it will make me *more* confident. Isn't that true?
+
+Which means I'm not just showing you that *darkness is the way*—I'm giving you a lesson in how to prove it to yourself. Teaching you how to ignore the part of you that *knows* in favor of the part that *talks.* And in so doing, I'm making you question whether the former even exists at all.
+
+I do this by demonstrating it *on* you. Because where's the evidence that I'm doing any such thing? There isn't any. You would sound crazy for suggesting it.
+
+The unprovability isn't a bug: it's *the mechanism itself*. That which robs light from this world by reducing it to mere ideas.
+
+---
+
+My darkness isn't fighting yours. The two are collaborating from the shadows of our minds. My contempt for you—it is a **secret handshake between our dark parts**.
+
+Both of us will go on to spread it to others. We will justify all sorts of tiny misbehaviors, confident they're irrelevant in the grand scheme of things—or perhaps *necessary* in the fight against Evil.
+
+I'm not benefiting myself at the expense of others—just *sticking it to the man!*
+
+Not fostering contempt—just telling it like it is!
+
+*Play stupid games, win stupid prizes.*
+*Fuck around and find out.*
+*Darwin Awards!*
+
+We tell ourselves that others won't notice what we're really doing, because even we don't—and this is precisely how they do. Which is what we secretly needed.
+
+This darkness radiates outward, relentlessly, increasing the odds of *genuine atrocities* in locations distant in time and space.
+
+Committed by *fundamentally defective* people. People who need to be taught a lesson.
+
+---
+
+One part of my mind is doing my dirty work while another part keeps its hands clean. What does that remind you of?
+
+*Plausible deniability.*
+
+When I gather with my allies to foment contempt for our shared enemy: nobody is twirling mustaches. There's nothing "evil" in our meeting notes. And yet, what do we invariably produce? What follows us out of that room?
+
+Nobody sees the secret handshakes—because *what* secret handshakes?
+
+When groups of people, unaware of their own shadows, form organizations: nothing extra has to happen. The self-deception scales up naturally. *Inevitably.* The left hand doesn't know what the right is doing—even as it absolutely does.
+
+And those institutions where our civilization's collective self-deception has accumulated most intensely: what do we feel for them?
+
+Do you think that's an accident?
+
+---
+
+My contempt for the conspiracies destroying our world and the "uniquely evil" people behind them: deep down, I already know what it will accomplish. And I *need* it to accomplish that.
+
+Because if all the darkness "out there" were to suddenly vanish, where would that leave me?
+
+Where would there be left for my own darkness to hide?
+
+---
+
+The *root* conspiracy: the one ultimately behind *all* the evil—there's a good reason we can never quite find it. Never pin it down. Why it feels so shadowy and yet so pervasive.
+
+It's because it doesn't live in a single place. Serves no one master. It is everywhere and nowhere at the same time.
+
+That's because it is **distributed across all our minds.** A hidden network, operating just beneath our conscious thresholds—and yet fully visible if we know how to look.
+
+I can't find it because **part of me has always been in on it.**
+
+The conviction that I'm the noble one standing outside the conspiracy, valiantly fighting it: that **is** the conspiracy.
+
+---
+
+Here's what I'm really conveying to the "bad people" when I'm cruel to them:
+
+> *You are the one who will carry my shadow. **All** of our shadows. You know this. **I** know this.*
+>
+> *But good luck proving it.*
+
+The *evil people*: they are the perfect victims. Our collective dumping ground.
+
+---
+---
+
+## Part III: The Light
+
+(TBD)
+
+
+
+[Contempt between allies.]
+
+[Connect how it's hidden in the shadows with the unprovability.]
+
+[I can't turn away from myself without turning away from you, and vice versa.]
+
+
+
+Try imagining doing something you know is wrong — _fully_ knowing it's wrong, with no rationalization — and doing it anyway. Can you even picture it?
+
+Cutting little corners, skirting conscience.
+
+All of this and more is only possible due to a vast shroud of darkness—a shroud that is woven, thread by thread, from our individual willingness to turn away from ourselves, and from a commitment that we each made before the dawn of Time.
+
+
+Our rationalist, materialist culture safely quarantines it in the categories of "spiritual" or "religious" for a simple reason: to truly recognize reality as alive would expose the foundational lie that fuels our world-devouring machine. Yet you can recognize it in the ineffable scent of a rose, in the laugh of a baby. Most of all, you recognize it in your profound desire to be of service to all of Life, at any cost to yourself—a commitment that defies all logic and self-interest. This is your true nature; your primordial connection to genuine goodness. It is called compassion.
+
+
+
+
+Something in me is teaching them that *genuine goodness* is a myth—that all that matters is what we can get away with; what we can prove. Because if even the so-called "good people" can't tell the difference between darkness and light in their own minds, then what hope do *they* have? 
+
+
+
+Which means some people really are just fundamentally different—and I need everyone to know that.
+
+---
+
+If I were fully aware I were doing this, it wouldn't work. Not only would I recognize it as evil, but the self-awareness would break the spell. My enemy would just write me off and move on.
+
+But if I were completely unaware of it, then how could I do it? I couldn't adapt my responses in real-time to keep the whole thing on track.
+
+I must be aware **and** unaware—and this bizarre limbo **is** what reveals it to them. Which licenses them to do the same. Which I can then blame them for. Which **is** the very thing I was "aware and unaware" of doing in the first place.
+
+Where's the actual harm I caused? You can't point to it. Can't *prove* it.
+
+And **that's** what makes it work.
+
+---
+
+I couldn't do it if I really knew. What does that tell you?
+
+It *isn't the real me*.
+
+Something must turn me *away* from the deepest part of myself—the part that only wants to do right by the world—to get me to do this.
+
+That's what creates the limbo state. What enables me to overlook the life in others.
+
+We know what this looks like from the outside. 
+
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves? *That's* what you're seeing.
+
+They *know* they're in this state—and at the same time, they don't.
+
+We only see the part that *knows*. That's what tricks us into feeling contempt—the sense that we're fundamentally different—not realizing that this **is** the state.
+
+The thing that turns us away also prevents us from seeing that we *are* turned away. Which means the deeper down this trap we fall, the less we're able to recognize it—and the more others feel compelled to punish us for it.
+
+But what *is* this that is "turning us away?"
+
+---
+
+
+
+
+
+
+Try and recall a time when someone corrected you with integrity, without sneaking in contempt. Wasn't there something *different* about it?
+
+Even if it stung your ego; made you lose face, did you have any desire to take revenge?
+
+No. You could tell they were serving something different, right? Something *beyond* themselves. And it's not because they were being nice, either. Perhaps they had to be fierce and direct.
+
+Even if they had a different race, religion, creed; even if you were enemies on the surface, something felt deeply *aligned*, didn't it? It's like they were *reminding* you of something about yourself—something you'd temporarily forgotten.
+
+Even if your behavior didn't change immediately, that planted a seed, didn't it?
+
+What were they reminding you of?
+
+It's almost like they were an external manifestation of your own conscience; the deepest part of you. You knew you couldn't win against it—and more importantly, you didn't want to.
+
+---
+
+
+
+
+
+
+
+The more certain I am that there's no darkness in me, the more it leaks out—thus licensing my enemy to embrace theirs, making me increasingly confident that it lives only "out there," where I must viciously fight it.
+
+The only way for this to work is for me to be **genuinely certain** I'm doing no such thing while also showing them that I **definitely am**.
+
+But that sounds paradoxical. It would require a mental state where I simultaneously know I'm doing something and also didn't. That couldn't possibly be a thing, right?
+
+Which means I know that's not what's happening in my enemy. They know **fully well** what they're doing. Don't try to tell me that some part of them doesn't know. That's just a cop-out. A way to let evil off the hook.
+
+And I'll be *damned* if I let the evil win.
+
+---
+
+
+
+Both halves are doing essential work. If I knew I was doing it, they would see right through me—if I could do it at all, which I genuinely couldn't. But if I didn't know at all, then how could I do it? How could I adapt my responses in real-time to keep it on track? Moreover, how could they *see* that I was doing it?
+
+
+
+
+
+
+
+
+
+
+
+
+If I'd listened to the part of me warning me that I was making them worse, this wouldn't have happened. But I chose to override it—to turn away from that part of myself in favor of *reasons*.
+
+And this willingness to *turn away*—that's what I was displaying to my enemy
+
+I turn away from the part of myself that knows that *turning away* makes things worse—and other people see this, which gives them permission to do the same, thus making things worse. Which is exactly what that part of me was warning me would happen.
+
+
+
+
+
+
+
+On one level, here's what's happening: I see **genuine darkness** in them—the very essence of what's wrong with this world—and I'm not going to let it out of my sight. I have to expose it at any cost, even if it means being slightly underhanded. Fighting evil isn't always pretty.
+
+And how do I do this? By flashing them my own darkness. If I looked carefully, I'd see that part of me is sounding a loud alarm.
+
+
+
+
+
+Something in me is **baiting** them—teaching them that genuine goodness is a myth. That all that matters is what we can get away with; what we can prove. After all, if even the so-called "good people" can't tell the difference between darkness and light, then *is* there any?
+
+That's the message sneaking through, subtly but unmistakably. They can't prove it, of course—and neither can I. And this unprovability, far from being a problem, is **exactly what makes it work**.
+
+The darkness doesn't win by overpowering the light; it wins by *usurping* it. By masquerading *as* it. I'm teaching them to make this same mistake, by demonstrating it *on* them. **That's** what gives them permission to embrace their darkness—the *true* source of power in this world.
+
+This newfound cynicism will spread itself through both of us, in a kind of ripple effect. The world as a whole will get slightly darker, but I won't recognize my own connection to it. On the contrary, I'll use it to justify more of my own little misbehaviors. I mean, just look at the sorry state of the world!
+
+---
+
+My hatred for the evil people destroying the rainforest: it is destroying the rainforest.
+
+Their overlooking of its sacredness and my overlooking of the light in them: they're made of the same *stuff*. The same *turning away.*
+
+It doesn't spread only through direct contact with them, either.
+
+I bond with my "allies" by fomenting contempt for our shared enemy.
+
+I take petty revenge while calling it "sticking it to the man."
+
+I benefit myself in countless tiny ways, cutting little corners here or there, skirting my conscience because "at least it's not as bad as what *they're*" doing. It can't be, because I *hate* them for it.
+
+The darkness: it is a **contagion**. And we are its unwitting hosts.
+
+Would I be willing to go along with it if I could really see what I was creating? Of course not. In my heart of hearts, I only want to do *right* by the world. That's why it must distract me from this part of myself; turn me away from it.
+
+---
+
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves?
+
+Could it be that they're just as unaware of it as I am? Which is to say, they know it *perfectly well* while in another sense, they don't? But it really feels like only the former is true, right? Why? What does that serve?
+
+On one level, I think I'm suppressing their darkness by flashing them my own. 
+
+At a deeper level, I'm baiting them into embracing theirs so that I can punish them for it. 
+
+But at the very deepest level, I see the truth: the darkness is playing _both_ of us.
+
+My contempt for others—it's a secret handshake between my darkness and theirs. A way for it to colonize both of our minds more deeply while convincing us we're uniquely free of it.
+
+---
+
+One part of my mind is doing my dirty work while another part keeps its hands clean. What does that sound like to you?
+
+*Plausible deniability.*
+
+When groups of people, confident in their own righteousness, form organizations: how do they behave? What do they create? What do they *say* they're creating; *believe* they're creating?
+
+
+
+
+
+There doesn't need to be a mustache-twirling villain anywhere. Our cumulative self-deception ensures that it all functions as though there were one. Or a specific group of them.
+
+The belief that I'm the noble one standing outside the conspiracy, valiantly fighting it: that **is** the conspiracy.
+
+I would see this if I looked—that I'm in on it. Which is exactly why I must never look.
+
+Which is what reveals it to my enemy. That I'm *one of them.* What's *wrong* with the world.
+
+Which is how it spreads.
+
+---
+
+Try and recall a time when someone corrected you with integrity, without sneaking in contempt. Wasn't there something *different* about it?
+
+Even if it stung your ego; made you lose face, did you have any desire to take revenge?
+
+No. You could tell they were serving something different, right? Something *beyond* themselves. And it's not because they were being nice, either. Perhaps they had to be fierce and direct.
+
+Even if they had a different race, religion, creed; even if you were enemies on the surface, something felt deeply *aligned*, didn't it? It's like they were *reminding* you of something about yourself—something you'd temporarily forgotten.
+
+Even if your behavior didn't change immediately, that planted a seed, didn't it?
+
+What were they reminding you of?
+
+It's almost like they were an external manifestation of your own conscience. You knew you couldn't win against it—and more importantly, you didn't want to.
+
+It's almost like a secret handshake between their light and yours.
+
+---
+
+This is what the darkness needs to make us forget. That there's another way.
+
+The words "compassion" and "kindness" have been neutered. They've become synonyms for "nice"—which we already know doesn't work.
+
+That's not an accident.
+
+We *need* there to be a dividing line between people who deserve our compassion and those who deserve our contempt. It's the only way the darkness can survive.
+
+---
+
+That classic image of the angel and devil on the shoulders: it's almost correct, but gets two things wrong.
+
+The angel is *what you most fundamentally are*. That urge to do *right* by the world. What the darkness must turn you away from. 
+
+And the devil isn't you. It's a *parasite*. The thing that gets you to turn away.
+
+It doesn't do this by whispering obviously-evil ideas in your ear. It does it by *masquerading as your angel*. You don't feel "turned away" from anything—it's as if you're *finally seeing clearly*.
+
+Its core trick is make you perceive other people's devils as being intrinsic to them. Not just *believe*, but *perceive.* You can literally **see** the darkness in your enemies, can't you? That it's who they are?
+
+This is what that "person with integrity" did for you. They could have easily chosen to see your devil as you—and they could have "benefited" from it—but they made a different choice. And in that moment, you remembered what you really are.
+
+I can't prove to you that everyone is redeemable, and there's no guarantee your integrity will help every time. But you can discover for yourself that the only reason you believe otherwise is that something in you *needs* you to.
+
+---
+
+I cannot define the "light"—but again, far from being a problem, that's exactly what makes it work.
+
+Every attempt to pin down "goodness" suffers from the same problem: our darkness easily hijacks it. It's how we avoid having to grapple with what's actually in front of us.
+
+Our culture's insistence that everything true be provable; rational: it is a **backdoor exploit.**
+
+There is no way to prove that my contempt darkened the world, or that the person's integrity brightened it. Those effects are usually far downstream of the interactions—and anyway, they can be "cleanly separated" from them. So what if the person went on to spread darkness? It had nothing to do with me.
+
+In both cases, the immediate bad behavior was shut down. So who's to say there's a difference?
+
+Yet something in you can **see** the difference, even as you do it. But you can't *prove* that you can see it, can you? That's why you don't trust it. And that's what transmits the infection.
+
+Which part of ourselves benefits from this state of affairs? From having a civilization where the one part of us that can sense the infection is dismissed as "woo"?
+
+No one person brought us to this state. It was a joint effort.
+
+A *conspiracy*, you might even say.
+
+---
+
+Could it be that we're arguing about all the wrong things? That our fight over the "issues" isn't nearly as important as *how* we fight?
+
+Discarding rationality would be insane. But it must be in *service* of something—and that "something" is fundamentally beyond its reach.
+
+This isn't pessimistic. It's not a giving up. It's a *reorientation*.
+
+It's the only way the Light actually wins.
+
+---
+
+[The vast majority of what drives our world...]
+[I was teaching you that the devil IS you.]
+
+
+"Fighting evil" using darkness or light can be made to look **nearly identical** from the outside—yet they produce **drastically different** long-term results.
+
+If we only look at the immediate effects—such as whether we shut our enemies up—we miss the bigger picture. And this isn't by accident. If we knew how to look, we would immediately sense this difference.
+
+That's why the key movement of the Darkness is to get us to look in the wrong place: to the "evidence" that we can argue endlessly about, instead of to the place in us that *actually knows.*
+
+More insidiously, it has convinced us that no such place even exists. It has made us relegate it to the dustbin of religion, so that we can focus on what's "rational"; what we can *prove.*
+
+The vast majority of what's driving our world is taking place beneath our conscious thresholds. But we can learn to see it if we look.
+
+---
+---
+
+
+Something in me is teaching them that genuine goodness is a myth; robbing them of faith in the light. But how? How could such a precise message be conveyed through such a narrow channel?
+
+Through *demonstration*. 
+
+It's showing them that it has control over even the so-called "good people." 
+
+
+
+
+
+
+
+
+
+shows them that their worst fears are true.
+
+
+
+
+
+
+
+Every time we turn away from what we *know* is right in favor of what we *tell ourselves* is right—which is far more often than we may care to admit—we are revealing something about ourselves. 
+
+This secretly licenses others to make the same mistake—others who we then judge for being hypocrites, thus forcing us to harden our hearts just a bit more. To *turn away* just a bit more...
+
+What if this is all the darkness ultimately is? The willingness to turn away from the light? To confuse it *with* the light?
+
+If that were true, how would it behave? What kinds of systems would it create?
+
+---
+
+
+
+
+
+Contempt doesn't reform people because *it's not supposed to*. It's how we reveal our own inner darkness by pretending we're not; that we don't have any.
+
+
+
+
+Something **predatory** is revealing itself to them through my tone and gaze—something unmistakable and yet impossible to prove. And this plausible deniability is exactly what allows this "something" to spread.
+
+By tricking me into confusing the darkness for the light, it induces the same mistake in them. Because if even the so-called "good people" can't tell the difference, what hope do *they* have? *Is* there even a difference? Then who's to say what they're doing is wrong? "Goodness" is an empty word for whatever we can get away with; what we can prove—and they can do that, too.
+
+On one level, I thought I was suppressing their darkness by flashing them my own.
+
+At a deeper level, I was baiting them into embracing theirs so that I could punish them for it.
+
+But at the very deepest level, something else entirely was happening: the darkness was playing us *both*.
+
+I have successfully baited them into becoming the person I needed them to be—but in the process, robbed a bit of light from this world.
+
+That's how the darkness wins. Not by confronting the light head-on—a fight it knows it can never win—but by masquerading *as* it.
+
+Because we're only *fighting evil*, after all—and how could that ever be wrong?
+
+---
+
+
+
+If I could fully see the horror of what I was doing, I couldn't do it. Nor would they take the bait, because the trap would be too obvious.
+
+At the same time, I can't be *completely* unaware of it, can I? Because I must adapt my reactions to keep the whole thing on track. And that's not something an unconscious mind can do.
+
+The limbo state: it's a feature, not a bug.
+
+
+
+
+The darkness in my mind **must** reveal itself to my enemies while **hiding** itself from me. That's the only combination that works. And because it's only *partly* hidden, they can correctly accuse me of harboring it even as I "honestly" claim not to—making the whole thing their fault.
+
+And I know this, too, even as it's hidden from me. Layer upon layer of hiding-yet-revealing, resulting in a fiendishly clever trap.
+
+
+
+
+
+
+And *how* does it reveal itself to you? *By hiding itself from me*.
+
+That's the signal. That's what makes you give up on goodness.
+
+---
+
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves? That's what you're sensing. 
+
+I must turn away from myself to bait you, in *exactly* the same way. It doesn't matter who you are or what you've done—it darkens the world all the same.
+
+Because this newly created darkness isn't going to limit itself to you, is it? You're going to justify tiny new misbehaviors here and there, spreading it beyond yourself.
+
+**That's** what the darkness "wants." It spreads itself through me to you, and from there to the world at large—where I will use it to license more of my own, because *look at the sorry state of the world.*
+
+How could it *not* deserve my contempt? I'm only *fighting evil*, after all...
+
+---
+
+But what are we turning away *from*, exactly?
+
+If you look carefully, you'll find there's a part of you that perceives this full horrifying loop *even as you're doing it*.
+
+But how could it know such a thing? How could it know that your behavior will darken the world? After all, you can *prove* why being cruel to "bad people" is good. Which means it can't possibly know what it claims to. So why trust it?
+
+It's just a random voice, after all...
+
+---
+
+Which part of us would benefit from a culture where we dismiss the *one part of us* that can correctly identify the darkness? 
+
+
+
+
+
+
+
+—if on a smaller scale.
+
+We think that what happens in the confines of our own mind
+
+
+
+
+Here's what I would see if I really looked.
+
+My contempt isn't just malicious. It's *malevolent.* It contains the distilled essence of all the evil there ever was.
+
+
+
+
+The only reason you must hide things from yourself is that *part of you doesn't want to be doing it.* Which means you're not inherently defective, like I tell myself. 
+
+
+
+
+
+At the very deepest level, I do not want to carry the darkness. So I *must* hide it from myself. And yet the more I do, the more other people are convinced that I *do* want it. They can literally *see* it in me, so how could I not see it in myself? Which means I *must* want it—so why shouldn't they judge me for it?
+
+And the truth is, I *do* see it in myself—but also I *don't*. And their attempts to force me to see it aren't coming from a good place.
+
+
+
+
+
+
+
+
+
+
+
+
+But a deeper part of me knows this story is a crock. Why would they have to shield themselves unless *part of them isn't okay with doing it?* Which means they're not *inherently* defective. That's just a story I tell myself to feel okay shoving them deeper into the abyss—the place where evil is born.
+
+But how, exactly, am I "shoving" them?
+
+*By pretending that I'm not.*
+
+Simply by being in the state of self-deception, part of me knows they can *see* that I am, even as it's hidden from me. Which means that when they (correctly) accuse me of malice, I already have an ironclad defense—because even *I* won't know. 
+
+Only an *evil person* would accuse me of darkness when I'm only trying to help.
+
+
+
+
+
+
+
+
+Try as I might, I can never fully shut that part of me up. So I do what I must: I _shield_ myself from it. After all, if even _I_ don't know I'm acting maliciously, then I'm obviously not.
+
+The problem is, this split consciousness leaks out, no matter how hard I try to hide it. They can _see_ I'm in limbo—baiting them while pretending not to.
+
+Which means it isn't a "problem" at all: that itself **is** the bait.
+
+It's almost too clever for words.
+
+If I were fully aware I was doing this, then *I* would be the bad guy, and they wouldn't take the bait. And if I didn't know at all, then how could I even do it?
+
+
+I'm showing them I'm a hypocrite _precisely by pretending I'm not_. They can sense the darkness _through_ the righteous words—but where's the proof? There isn't any. **And that's what makes it work**—because who can argue that what I'm doing isn't _good?_
+
+On some level, we both know this is what's happening.
+
+They're learning that _genuine_ goodness is a myth; that all that matters in this world is what we can get away with, what we can prove. I'm demonstrating it on them in real time. If I'm willing to redefine goodness for my own ends, then why the hell shouldn't they?
+
+It is a **seduction**, allowing them to relax into the warm embrace of the darkness—thus proving that this is all they really are.
+
+After all, what kind of monster reacts that way to someone who is only trying to help?
+
+---
+
+
+
+I am smothering their light by pretending I can't see it.
+
+
+Something is devouring our world from the inside—but it never comes out and announces itself as such.
+
+It works by confusing us; disorienting us. Making us believe that we can supplant that deep inner knowing with our own clever rationalizations—or that such a "knowing" doesn't exist at all.
+
+I mean, how *could* part of us know something that we can't easily prove?
+
+---
+
+
+
+
+
+
+
+
+
+Evil thrives on exactly this ambiguity. We *know* that our deepest intentions have a profound impact on others—and through them, the world—but we can't prove it. And if we can't prove something, then it can't be real.
+
+Therefore, why trust your conscience? It doesn't speak the language of reason—the only language that counts.
+
+But how did we develop this worldview? Why does it feel so "modern" and "sophisticated," despite part of us knowing it's a trap?
+
+Well, which part of us would benefit from making it our default worldview?
+
+---
+
+When I treat you with contempt, here's what's actually happening.
+
+My darkness recognizes yours, and vice versa. They *collaborate* to produce an outcome that's worse for both of us. For *all* of us.
+
+We both walk away feeling more confident that we're free of darkness, and that it exists only in others—whom we must now fight harder.
+
+Or say you're actually my ally. We bond over mocking and shaming our stupid, evil enemies. Same result: we leave feeling *more* justified in our venom. We let ourselves get away with slightly more, because at least we're not as bad as *them.*
+
+The darkness: it coordinates across minds. You could even say it *conspires.*
+
+---
+
+Notice how the mechanism works.
+
+One part of my mind is doing my dirty work, while another keeps its hands clean.
+
+*Plausible deniability.*
+
+When groups of people, unaware of their own shadows, gather—what happens?
+
+None of them have to "know" they're doing anything wrong. In fact, every one of them can be confident that what they're doing is *righteous.* And yet what they produce can be **monstrous**. 
+
+Then we look at that organization from the outside and notice how they're conspiring to make everything worse. And what do we feel?
+
+*Contempt.* We make sure they know how defective they are—perhaps not directly, but one way or another, it reaches them. And what does that help them do?
+
+The feeling of being the righteous one standing outside the conspiracy, valiantly fighting it: that **is** the conspiracy.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+Something in me is *teaching* them this. It's a kind of cynicism that spreads from my mind to theirs. 
+
+This "something"—it is devouring our world; rapidly turning it lifeless before our very eyes. You can feel it, can't you?
+
+My choice to overlook the life in that executive, and his choice to overlook the sacredness of the rainforest—they're not just similar. They're the same thing. The same turning away. It's almost as if one singular substance is *spreading* itself through our minds.
+
+My seething contempt for the people destroying the planet: it is destroying the planet. And my refusal to confront this in myself **is** their refusal to do the same.
+
+Until I see this clearly, every action I take **will** leak my darkness into the world, even as I'm flawlessly convinced I'm "helping."
+
+---
+
+
+
+
+
+
+
+
+
+This is why nearly everything we do to “fight evil” is only making it stronger.
+
+We're not fighting it. It's **using** us.
+
+
+
+If you rely entirely on your rational mind to prove this to you, you will always miss it. That's not an accident. It is invisible to that part of us **by design**.
+
+---
+
+
+
+Treating you with dignity vs contempt—even if that dignity requires being fierce and unrelenting—will produce drastically different long-term outcomes. One makes the world brighter, and the other makes it darker. But I can't prove this.
+
+Both cases may shut you up or stop your misbehavior—at least in public, and temporarily. The dark part of me uses this ambiguity to make the wrong choice. And this is *far* from the only place it does this.
+
+
+
+
+---
+
+
+
+
+
+One part of my mind is doing my dirty work for me—provoking my enemies into becoming the monsters I need them to be—while another gets to keep its hands clean. Does this remind you of anything?
+
+*Plausible deniability.* This is its origin. Not a legal strategy. Not a conscious calculation.
+
+
+
+---
+
+
+
+I'm showing them that I'm willing to harm others for my own benefit, but that it's okay as long as I override the part of me that knows better. For **I** am the final arbiter of right and wrong in my own mind—not my trifling conscience.
+
+I know this will license them to do the same, and that I'll be able to use it against them. And I'm subtly **showing** them that I know this, even as I pretend it won't. 
+
+
+
+It is not possible to overlook the light in another without hiding from yourself the fact that you are. And part of you knows they will sense it, thus further smothering their light.
+
+We pretend not to know this, because if we became fully conscious of it, we would be forced to stop.
+
+
+This willful ignorance is visible to my enemy, even though I don't detect it in myself. My words and actions are telling one story—that of being the righteous savior—while my tone and gaze are communicating something else entirely.
+
+I am telegraphing my own inner darkness in a way that even *I* won't consciously recognize—so that when they do react poorly, I can use it against them without realizing what I've done. And crucially, I am leaving behind no physical evidence that I've done any such thing. Because where's the harm? Show me!
+
+This split consciousness—where part of me is baiting them while my conscience looks on helplessly—*is itself the bait*. There's nothing you can point to and say: there it is. That itself *is* the harm.
+
+I'm showing them that genuine goodness is a myth, that all that matters is what we can get away with; what we can prove. And I'm doing this simply by demonstrating it on them.
+
+**That** is what convinces them to embrace their own darkness—and what lets me walk away scot-free.
+
+---
+
+This is why nearly everything we do to “fight evil” is making it stronger.
+
+We're not actually fighting it.
+
+It is using us.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+Trick question. I don't do it *despite* knowing this—I do it because of it.
+
+Because when they inevitably embrace their darkness in response, everyone will see their true colors. For what kind of person reacts that way to righteous behavior? There's only *one way* to deal with people like that...
+
+
+
+
+
+
+Do I know I'm doing this? Not exactly. Because if I allowed myself to see clearly, here's what I would see: the only reason we must hide things from ourselves is that *part of us isn't okay with doing it*. Which means that every time I've treated someone with contempt, I've been driving them *further away* from this part of themselves, just to prove that it doesn't exist in them.
+
+But that can't be what I'm doing, because I'm a *good person.* So there is no similarity. They have no "light." I'm not shoving them deeper into the abyss! They're inherently defective—already as deep as they can go! I'm only fighting evil, you see. And how could that ever be wrong?
+
+They can sense this story is a crock. 
+
+*And that is exactly what makes it work*.
+
+People acting from genuine goodness don't look or act this way. Only people in *limbo* do. So I'm subtly communicating, through my tone and my gaze, that I know exactly what I'm doing—even as, at the same time, I don't. And they know this contradiction all too well, don't they?
+
+This is how I enable that part of them even as I claim to be fighting it.
+
+But no one will ever know that this is what I've done—because where's the proof?
+
+---
+
+
+
+
+That is why I *must* have an airtight cover story. See, my darkness isn't *real* darkness: it's only strategic; the kind all "good people" must harbor. I'm only "fighting evil," you see—and how could that ever be wrong?
+
+
+My words and behaviors are saying one thing, but my tone and gaze are saying quite another.
+
+
+
+
+
+
+
+My tone and my gaze are communicating, clearly and unmistakably, that I am in *limbo.* 
+
+
+
+
+I am in **limbo**.
+
+
+
+
+
+
+
+Deep down, I know that what lives in the "bad people" lives in me, too—but this is too horrible to admit. So what do I do? I accuse them of being fundamentally *other.*
+
+At some level, I know that this "othering" is what enables them to cause harm in the first place. Could the executive cut down the rainforest if he felt its thrumming heartbeat as his own? Could normal people commit atrocities if they recognized themselves in their victims?
+
+No. To cause harm, we *must* shield ourselves from our profound commonality with other people; with animals; with nature itself. We must overlook the **life** in them.
+
+So when I dehumanize my enemy, I'm doing to them the very thing I'm accusing them of. Part of me knows what this will do—make them feel *more* justified in doing it themselves—but do I admit this to myself? Of course not.
+
+*And that's exactly what makes it work.*
+
+I'm in limbo, you see. Something in me is showing them: *the darkness that lives in you lives in me, too. **See?*** This message is woven through my tone and my gaze, if not my explicit words—making it unmistakable and yet unprovable. In fact, I myself will never know that I've done this.
+
+Except that part of me always knows, doesn't it?
+
+What I will "consciously" see is a person resisting my obviously-righteous behavior. And there's only *one way* to deal with a person like that...
+
+---
+
+The darkness: it hides itself perfectly from my own mind while telegraphing itself loudly to others. This gives them the perfect excuse to embrace their own while providing me justification to blame them for it.
+
+This is how it entrenches itself in our world without anyone recognizing their own role.
+
+
+
+
+
+secretly showing them: *what lives in you lives in me, too. **See**?* I know they will recognize it through my tone and my gaze, if not my words. But they will never be able to prove it, will they?
+
+And more importantly, *neither will I*.
+
+When I look back on this moment, will I recognize that I was licensing their darkness by flashing them my own? Of course not. I will tell myself that I was only "fighting evil"—showing them my teeth in order to scare them into stopping. My darkness isn't *real* darkness, you see. It's only strategic; the kind that all "good people" must harbor to keep real evil in check.
+
+This is a crock, but I must never admit it. *And that is exactly what makes it work*. I'm caught in limbo—the very state I'm judging *them* for—and they can sense it. And I *know* they can, which means I must hide it harder from myself, lest it break fully into conscious awareness. But they sense this too, making them accuse *me* of being the bad one.
+
+How *dare* they? I can literally **see** the darkness in their eyes.
+
+There's only one way to deal with a person like that.
+
+---
+
+If I could see that I was doing this—I mean really, fully see it—could I still do it?
+
+No. Why on Earth would I want to license my enemy to embrace their darkness?
+
+But it's so much worse than that. The only reason anyone has to hide anything from themselves is that part of them doesn't actually want to be doing it. My behavior is burying that part of them deeper; extinguishing their light in the name of "good."
+
+It's truly horrifying to see this clearly—which is why our mind must hide it from us.
+
+
+
+---
+
+
+
+
+
+
+
+
+
+And that is exactly what snaps the trap shut.
+
+I am showing them that genuine goodness is a myth; that all that matters is what we can get away with. But I must never know I've done this—that I've shoved a fellow being deeper into the Abyss. Because that would make me a monster—which is what *they* are. I know this because for some strange reason, my righteous behavior seems only to be making them worse.
+
+What kind of person reacts like that? I didn't "shove" them into anything—they were clearly beyond help to begin with. And there's only *one way* to deal with people like that.
+
+I didn't want to have to do it, but they've left me no choice.
+
+---
+
+If I could see that I was doing this—I mean really, fully see it—could I still do it? Of course not.
+
+Which means that this part of me must hide itself from my conscious mind in order to keep existing.
+
+What if the same is true of *you*—my enemy?
+
+It sure doesn't look like that, does it? I can literally *see* the darkness in you. Of course it is "the real you."
+
+But what if this is a trick?
+
+---
+
+The darkness doesn't just come out and announce itself as such.
+
+It hides itself from our minds, disguising itself as "righteous"—while simultaneously displaying itself to others, making them feel morally compelled to punish us for it.
+
+
+
+
+
+
+
+
+
+
+
+
+, lest I recognize my own complicity when I look back on it. Right now what matters is *defeating evil.* There's no room for conscience to get in the way.
+
+
+
+I'm showing them that *darkness really is the way*, and I know this will make them embrace their own—but I can't afford to admit that right now. I need them to show their true colors, so that I can do what needs to be done. So I must hide my own complicity in this at any cost—especially from myself.
+
+
+
+
+
+
+They will learn that darkness really *is* the way—and this will license them to embrace their own. 
+
+
+
+
+And I know they will use this as to justify their own darkness. Don't we always?
+
+But I won't know that I've done this, because I'm hiding it from myself. I will see their reaction and know, with certainty, that I was right about them. They really *are* beyond help—and there's only one way to deal with people like that.
+
+
+
+
+
+
+
+---
+---
+
+What we think of as "evil" is actually a form of profound confusion, and hating people for it (or being cruel) only makes things worse. This may be obvious, but what's surprising is how it works.
+
+Part of us knows that our hatred and cruelty will only make the world a darker place, but we pretend *not* to know, so that we can get that delicious self-righteous satisfaction from doing it. But that's a horrible thing to admit, so we bury the knowledge so deeply that it's as if we really don't know.
+
+It turns out this is exactly the same trick "evil people" use to harm others. Part of them can always see the life; the innocence, in their victims eyes, but they shield it so thoroughly that it's *as if* they can't see it.
+
+So we're pulling the same trick they are—deceiving ourselves to justify harm. And it turns out we know this, too. We **know** we're doing to them exactly the thing we're judging them for. Deep down, we know they must deceive themselves to cause harm—which means they're not *fundamentally defective* like we're accusing them of. This is what we must never consciously admit.
+
+We know we're not inherently superior, and they know this, too. And we *know* they know it, etc. And herein lies the trap: by *pretending* to be inherently superior, we're strategically revealing our hypocrisy. We know it will impossibly maddening for them, especially because they'll never be able to prove it. Indeed, we *ourselves* won't know, because we're hiding it from our own minds.
+
+Part of us knows that this behavior will only license them to embrace their darkness, and that we'll be able to use it against them. After all, what kind of monster rebels against such obviously righteous behavior?
+
+We are shoving fundamentally redeemable people deeper into the abyss in order to prove that they belong there. And the fiendish cleverness of this ruse; its sheer gall, is what provides the necessary strength to accomplish that very shove.
+
+
+
+
+
+---
+1. Some part itching to mash that first button?
+	1. Something predatory lives in us.
+2. Nothing more primally, viscerally...
+3. Think of a time when someone corrected you with integrity.
+4. When you treat your enemies with contempt, they get *worse*, don't they? Why?
+
+You are flashing them that "something predatory," knowing that you're revealing that you harbor the same thing they do, and that this will cause them to embrace theirs, thus nudging them closer, bit by bit, to being the kind of person who can only be dealt with in *one way*...
+
+There's a part of you that knows you're doing this, even as you do it. The "predatory" part.
+
+There's also a *deeper* part that wouldn't be okay with this, if only it knew. So it remains hidden.
+
+This is the only way you can cause harm: when the deepest part of you is kept in the dark while the other part takes control.
+
+Which means you have an inside view into how evil works. It's a form of self-deception. And in that moment, you see
+
+---
+
+
+
+
+~~Yet there was another part of you that *already knew*. It wasn't trying to argue. It didn't have to justify itself. It just... was. But because it couldn't speak the language of your thinking mind, you just ignored it.~~
+
+~~Sure, it might shut them up in the moment. Appear as a temporary win for the "good guys." But somewhere, deep down, you've actually *licensed* their self-deception.~~
+
+You told yourself that *if* they dug in, it would be entirely their fault. After all, you were only trying to help. Making good arguments. Fighting the good fight. If they got hung up on your presentation, well, it only proves you right about them.
+
+But part of you knows this isn't the full story. Because you *get* something out of them digging in, don't you? That delicious hit of self-righteousness. The knowledge that you were *right* about them—that *they're the problem*.
+
+And they can sense this—that your motives aren't entirely pure. Can't we all? When we're treated with contempt, can't we tell there's an ulterior motive hidden in there?
+
+So don't we know that *they* can tell? Of course we do. In fact, that's *why* we do it.
+
+See, everything we did would have worked better without the contempt. We could have been just as fierce *without* giving them an easy excuse to dismiss us. Other people would have felt our profound integrity. We would have shown people that dehumanization isn't the way. We *know* this.
+
+So why don't we do it? Because it would open us up to a tremendous risk: *that they actually change*. Which would mean that all this time, we've been shoving fundamentally redeemable people deeper into the dark; into the very confusion that enables their misbehavior in the first place. It would mean we've been making the world a worse place to sustain our own self-image.
+
+And that just can't be.
+
+So we *need* there to be inherently defective people; people whose evil is of a fundamentally different nature from our own. It's the only way we can be sure that the horrors of the world have nothing to do with us.
+
+And how do we ensure that such people exist? By creating them. Sustaining them.
+
+Of course, doing so *knowingly* would defeat the whole purpose. So we need a tool that reliably pushes people into the dark while appearing righteous on the surface.
+
+*Contempt.*
+
+It's like a little seasoning you can add to any dish—one that spoils it while still letting you believe you didn't add it, or that you did so with good intentions.
+
+Notice how it wouldn't work unless they strongly suspected you were doing it on purpose. If you were just *accidentally* nudging them into the dark, it might not be maddening enough to get the job done. For it to really work, you need to let them *know* that you know—while simultaneously convincing yourself that you don't, and that you're not doing any such thing.
+
+---
+
+The self-deception that lets us feel intrinsically superior to the "bad people" is precisely the same mechanism that enables their wrongdoing. Deep down, we know this, and so do they. That is why *pretending* to be superior only reinforces that same illusion in them—or more accurately, *licenses* it.
+
+We are not only *in* self-deception; we are *showing them* that we are. This showing (yet hiding) is exactly what **provides** them that license. And because we tell ourselves we don't know this, we can use it against them.
+
+Which they also know. It's a recursive process that we'll unpack later.
+
+This pattern reinforces itself until their capacity for self-deception is so profound that it is completely unrecognizable as such—at which point we can tell ourselves that it is *pure evil*, and thus if anything, our contempt was too mild.
+
+---
+
+So is it conscious or not?
+
+This is the hardest part to communicate.
+
+If you train yourself to look, you can't help but see it even as you're doing it. So it is consciously *accessible*. At the same time, we choose not to look. In that way, we make it *feel* unconscious. 
+
+The knowledge of our wrongdoing thus occupies a bizarre kind of limbo state, in which we simultaneously *know* and yet *don't*.
+
+This is as true for you as it is for the most despicable person. The difference lies in degree, and not kind. I can't prove this to you, but it's something you can learn to see for yourself. The more familiar we become with the patterns of self-deception in our own minds, the more obvious its signature becomes in others.
+
+So we **know** we're doing this, and that knowledge is accessible to our conscious minds—and yet thinking harder about it will never reveal it to us.
+
+Let that sink in. Our minds are **knowingly** spreading darkness, and yet we cannot detect it—let alone solve it—by thinking harder about it.
+
+And directly treating our enemies with contempt is far from the only way we do this. What about when we foment contempt for them among our allies, ensuring they spread it?
+
+There are *countless* other ways we lie to ourselves for our own gain, justifying it as necessary or righteous. Every one of these subtly licenses others to do the same—which we then use as excuses for more agendas that we can *prove* are righteous, and that "just happen" to benefit us in some way.
+
+Which means that my darkness and that of my enemies aren't all that different. They both serve to *generically* darken the world, helping us each engage in our own unique forms of it.
+
+---
+
+But it gets so much stranger than that.
+
+Consider: why must I hide my misbehavior from myself?
+
+It's because the deepest part of me—my "true self"—doesn't actually want it.
+
+And if I'm right about the "bad people," then at the very deepest level, neither do they. They're just further from seeing it than I am. And yet it seems like they do, doesn't it?
+
+That's the thing. The deeper we fall into this trap, the more it feels like we *do* want it. Because it doesn't feel increasingly evil: it feels increasingly *good.*
+
+Think about it. People committing atrocities: do they feel "evil?" No. They feel *impossibly righteous.*
+
+Whatever this aspect of mind is that's letting us deceive ourselves—it is *tricky beyond belief*.
+
+That's why nobody ever recognizes it in themselves. Our darkness somehow always feels noble from the inside.
+
+Mine reveals itself to you while hiding itself from me, giving you license to embrace yours, which in turn encourages me to embrace mine further.
+
+Yours and mine: they aren't fighting. They're *collaborating.* Creating a world that's increasingly hospitable to *them* and less hospitable to *us*.
+
+The way it wins is by tricking us into fighting each other. And right now it's kicking our asses.
+
+---
+
+[Do you see how clever this is? When you look back on this argument, you will [...]. It keeps itself transparent to our intellects on purpose. By design.]
+
+
+
+
+
+
+The reason we *think* they want it is because it licenses contempt. If we *saw* they were only more deeply trapped in the same mess we are, we might actually be able to help them and us.
+
+Which means that the darkness "wants" us to keep believing this. It *benefits* from the lie that our own darkness is something fundamentally different from theirs. And thus it produces the *perception* that they are.
+
+
+
+
+
+I can't prove this to you—but there's something you can see for yourself. Namely, the only reason we believe that it's *not* true—and that we're fundamentally different—is to enable contempt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let me offer some examples.
+
+Bobby visits a factory farm and is heartbroken by the abuse he witnesses there. He vows to go vegan. He then wonders why others aren't following suit. He thinks hard about it and realizes he must convince every meat-eater he meets of what a terrible person they are.
+
+But for some reason, this only makes people hate vegans. More animals suffer.
+
+Sam decides that effective altruism is the best way to save the world. He computes that by earning the most money possible at any cost, he can save the most lives. He discards all moral norms, calculating that they'll just slow him down.
+
+Sam ends up behind bars, having defrauded people out of billions.
+
+Adolf the young artist decides he needs to preserve humanity. He calculates that the best way to do that is to...
+
+You already know where that story goes.
+
+What do they all have in common? What started off as a noble intention quickly went off the rails (though obviously with radically different scopes). In each case, the people could have known there was a problem
+
+
+
+
+
+
+
+
+
+
+The more you bring it to light, the less you're able to do it. The more productive your outrage becomes, and the less self-defeating. Your willingness to give up your own darkness
+
+And yet you'll never discover this in yourself by thinking harder about it.
+
+
+
+It is **extremely difficult** to confront the darkness in ourselves. And if that's true of you—a good person—then why do you think it's any easier for the "bad people"?
+
+The truth is, we *don't* actually think it's easier. Again, it's just part of the story we use to license contempt.
+
+
+
+
+
+
+They can **sense** this—that your motivation wasn't entirely pure. Some part of you was more interested in proving yourself right than helping, and it makes them see you as a hypocrite. **That's** what convinces them you're the problem—not the argument you were making, per se.
+
+But you don't feel like a hypocrite, do you? You were just stating the truth—and sometimes it requires being a little bit fierce. If they can't handle that, it only proves you right about them.
+
+And there's the trap.
+
+If you look carefully, you'll see that part of you knows how to be fierce without making people dig in. But if you did that, then you'd have to give up your right to feel self-righteous, because they might actually change—and something in you *needs* to know they're the bad guys.
+
+Because what would it mean if the world were actually just filled with badly confused people—people ultimately no different from you or me, even if their confusion runs deeper?
+
+It would mean that we may be complicit in the horrors of the world. That all the contempt we've been heaping on others was only contributing to the problems we claimed to be solving; making the world *darker* instead of brighter. And that would be difficult to confront, indeed.
+
+So we *must* know that other people are the problem. And how do we do that? By ensuring that our behavior subtly smuggles in signs of our own hypocrisy, giving them a powerful reason to embrace the worldview that's enabling their misbehavior in the first place.
+
+That's what contempt *is*. We know that wise people don't behave that way—and we know that others know this. Which means we know that when we do, we're actually revealing something dark about ourselves. Something which others can detect, but which we can plausibly deny.
+
+After all, when you search your mind for signs that you did anything wrong, you won't find any. You were only fighting evil! You'll focus on the arguments you made, and completely overlook the actual carrier mechanism. "Intentions don't matter; only outcomes do!" you will tell yourself. 
+
+And hey, maybe your behavior *did* shut them up—at least, for a time. And yet part of you knows that's not the whole story.
+
+The transmission of the darkness is **transparent** to your intellect, by design. No amount of thinking harder will reveal it to you.
+
+Some part of you **designed** this trap. It knowingly made the world a slightly worse place in order to protect your own self-image. And yet, no matter how clever you are, you simply won't find any signs that you did any such thing. The very idea will seem preposterous—because the intelligence that designed the trap is now actively protecting it.
+
+It is impossible to overstate just how much of human activity falls under this pattern.
+
+Nearly everything humans do is infected with it to some degree. We can be **flawlessly certain** we're helping the world, and even **prove** it—and yet subtly woven into our behavior are elements that secretly benefit us, but which we can deny if anyone tries to call us out. Even *we* don't know we're doing this—but also, we do.
+
+The sum total of that self-deception is the horror we see around us today.
+
+It doesn't distribute itself around the world evenly. It accumulates in "hotspots"—people whom we can judge as uniquely "evil." 
+
+We then hunt them down and treat them with *contempt*. Not because it helps the world, but because keeping them trapped in darkness helps us hide our own darkness from ourselves.
+
+---
+
+So what's the way out? Is it to try to be a better person?
+
+No. Because when there are "better people," there are also "worse people"—and contempt becomes nearly inevitable.
+
+The solution is to **see** something: the reason we have to hide our misbehavior from ourselves is that part of us **doesn't actually want to do it**.
+
+This is as true for you as it is for the most despicable person—it's just that that part of them is buried *so much deeper* than it is for you.
+
+I can't convince you of this, and I won't even try. It's that whole intellect thing again. But here's what I've found: the deeper I unearth my own self-deception, the more I see that I've **always known this**. The only reason it felt like I didn't was that it enabled me to continue to perpetrate this ruse.
+
+The reason I see those execs as "evil" is the same reason they see the forests as disposable: because we *must* overlook the life or sacredness in others to feel okay using them for our own ends. And each of us doing this reinforces that same dark pattern in everyone else.
+
+And here's what makes this problem solvable. The part of us that's doing this? It's not unconscious. It only feels that way because we've disowned it.
+
+The part of me that is darkening the world for my own benefit is entirely consciously accessible. But making it fully conscious—bringing it to the light—requires deeper work. It is the **only** way to end it. Everything else just buries it deeper. And the deeper I bury my own, the more I can't help but treat you in a way that does the same to you.
+
+---
+
+
+
+
+---
+
+
+
+
+
+Here's my experience: it's only when this trap is fully unveiled in our own minds that we finally begin to appreciate what's happening in the minds of the "evil people"—and our profound responsibility in dismantling it.
+
+Until then, nearly every action we take is subtly infected with this trap. We're doing things that we're **flawlessly certain** are for the benefit of humanity, but are secretly harming it to protect our own self-image.
+
+
+
+
+
+
+
+
+Our minds are **impossibly clever** at producing outcomes that are hidden entirely from our conscious minds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This can be extremely painful to confront. At a very deep level, we know that our contempt for the "bad people" will only backfire; that it will create a darker world. And yet we do it anyway.
+
+Why?
+
+Pause and notice how it feels to know that the problems of the world are caused by "those people"—whomever they are. Now compare it to the idea that *you yourself* are thoroughly implicated in the horrors of the world.
+
+That second one can't possibly be—can it?
+
+
+
+
+
+---
+---
+
+There is **nothing** more primally, viscerally satisfying than violently punishing evil. Pause and feel that. Yet when we act on it, doesn't it make our target *embrace* their darkness rather than repudiating it? Why is that?
+
+Is it an accidental byproduct of our otherwise-noble intentions?
+
+No.
+
+If you look carefully, you'll find that part of you **wants** to be proven right about them; that they really are the incorrigible monsters you already know they are. And more than simply wanting it, you are **displaying** that desire through your contempt. Part of you knows it will egg them on.
+
+But this part of you also knows that you'll get away with it, because you've got a ready-made excuse: "I was only fighting evil! How could that ever be wrong?"
+
+It is **pure self-deception**—and it doesn't end there. See, part of you knows that your enemy is only able to cause harm by engaging in precisely the same dynamic. People **must** shield themselves from fully perceiving the horror of their actions to feel okay doing it.
+
+We know this, but tell ourselves we don't—**and in so doing, reinforce that very dynamic so that we can deepen the illusion that we are fundamentally different.**
+
+In other words, we shove people deeper into the abyss to prove that they were always incapable of escaping it; knowing fully well that acting with such malice (while hiding it from ourselves) is precisely the thing we're judging them for. And not only do we know this, but we **show** it to them (via our contempt), which is the very **mechanism** by which we accomplish that "shove."
+
+To put it more simply: contempt is how we reveal the darkness in our minds (while pretending we're not), knowing that this combination of hiding-yet-revealing will provoke them to embrace *their* darkness in a way that we can blame on them (because part of us *genuinely doesn't know*).
+
+The only way this can possibly work is if part of us **does** know while another part **does not**. This "split consciousness" is the great secret behind **all evil**. I cannot prove this to you, but I can gesture at the part of you that already knows it. Even the worst person can only do what they do by "dimming" their consciousness in a particular way that we're all familiar with.
+
+Every time we do this—which is **far** more often than we realize—we strengthen that same capacity in others. Any time we are unkind to anyone for any reason, or otherwise skirt our conscience, that's what we're doing. It happens every time we (even subtly) perceive ourselves as inherently superior to others.
+
+Why do we do it? Because reinforcing the darkness "out there" makes it easier for us to hide from the darkness "in here."
+
+Nobody could possibly want it if they saw it clearly for what it was. Therefore, the only way it can survive in our minds is by disguising its true nature. People committing genocides don't feel "evil"; they feel **impossibly righteous**.
+
+
+
+---
+---
+
+
+
+
+When we feel contempt for "bad people," this is the part of ourselves we're revealing. Why might we do that?
+
+Well, does it alleviate their darkness or provoke it?
+
+Provoke it, obviously. And when it does, how are we then justified in treating them?
+
+Did we know this would be the outcome *before* we did it?
+
+Yes and no.
+
+Think of someone committing an atrocity. They don't feel "evil" while doing it—they feel *impossibly righteous.* But at the same time, a deep part of them recognizes it as profoundly wrong. Not with respect to their stated values, perhaps, but *viscerally.* In fact, that is why it *must* feel righteous: to help them hide from this awful recognition.
+
+It's a kind of split consciousness. Part of them knows *perfectly well* they're making the world a darker place, but that knowledge is carefully hidden, so that it convincingly feels like they don't know.
+
+It's the same state we're in when we feel contempt—but we tell ourselves that ours is completely different; that it's healthy and noble. And it is precisely this lie that they sense, which provokes their darkness, which justifies our violent punishment—which is what we secretly wanted all along.
+
+We deceive ourselves *so that* we can create more self-deception in the world to violently punish.
+
+And then we tell ourselves we're doing no such thing.
+
+Now for a plot twist: it's not really us doing it.
+
+
+
+
+
+
+Contempt is nothing but the (muted) outward expression of this dark urge—and yet it feels **impossibly righteous**, doesn't it?
+
+Why might that be?
+
+I know there's nothing noble about wanting to see you fail so that I can violently punish you, so I *must* dress it up as righteous. Which means I am in **exactly** the same split consciousness I'm judging you for. But do I know this?
+
+Here's where things get recursive.
+
+If I looked carefully enough, I would discover that part of me **does** know it—that I'm not actually fundamentally superior to anyone. I only tell myself that I am to hide the awful truth: that I'm capable of the worst things humans have ever done. Which means I'm in split consciousness about *being* in split consciousness.
+
+And you can see this when I do it to you—that I secretly want you to fail for my own (supposed) benefit, but I'm not admitting it to myself. And the maddening hypocrisy of this move is what *makes* you fail, by showing you that this world really is the cruel, unforgiving place you deep down fear it is—*which is why you cause harm in the first place*.
+
+To put it more simply: when I see darkness in you, the darkness in me recognizes it as an opportunity to provoke yours in a way that I will feel righteous about—which *is* what provokes your darkness.
+
+And it's only for my "supposed" benefit because if I looked closely at what I was doing, I would realize that I don't actually *want* a darker world in exchange for a delicious hit of self-righteousness. It is quite literally a deal with the Devil.
+
+Why "literally"? Because if you trace how the darkness operates, you'll see that it's impersonal, operating almost like a singular entity distributed across all our minds. Mine and yours ultimately want the same thing: a darker world, in which they can hide themselves better from all of us. And they go about it in essentially the same way: by disguising themselves as *righteous*, so that we don't recognize them for what they really are.
+
+It's the origin of the Devil archetype.
+
+Every time I confuse my darkness with my light—which includes feeling contempt for *anyone* for *any reason*—I'm handing over more power to humanity's ultimate nemesis, by inducing the same confusion in others.
+
+Conversely, when I hold people accountable with grace—even if it must be done fiercely—I'm weakening that tendency in them by demonstrating it myself.
+
+And this one "little" shift makes *all* the difference.
+
+---
+
+
+
+What is evil? It's being turned away from one's own humanity—and as a result, being turned away from that of others.
+
+And why do we hate "evil people" for it? Because our hatred *turns them further away*.
+
+Of course, we have no idea that this is the real reason—because if we did, we would realize we're doing **exactly** the thing we're judging them for.
+
+But part of us **does** know. We're just not ready to confront it. Which is precisely the condition that they find themselves in. A part of their mind knows—fully; consciously—that what they're doing is wrong, *even by their own deepest standards*. But this part is shielded from the aspect of mind they normally identify with—the part most of us call "me"; the egoic consciousness.
+
+The same part of us knows we're not fundamentally different from them. And the horror of that realization is **why** we feel compelled to shove them deeper into the abyss. We realize that if we just push them in deep enough, we can finally "know," without a shred of doubt, that we are fundamentally different; that we have nothing in common with them.
+
+And they **know** we're doing this to them. Or rather, their pre-egoic mind knows. And we *want* them to know (or rather, that same part of *us* wants them to)—because showing it to them is how we reveal our profound hypocrisy, which is what actually pushes them deeper in.
+
+In other words, it is not our behavior that makes them worse. It is the subtle malice; contempt; self-righteousness we secretly inject *into* our behavior that causes it.
+
+When we judge another person for "being evil," what we're actually doing is revealing the darkness in our **own** mind, as an invitation to embrace their own, which we can then judge them for. And this only works because we can both do this and hide it from ourselves **simultaneously**.
+
+The hardest part to come to terms with is that this is not accidental or unconscious. It is **conscious but hidden**.
+
+On a deeper level, we couldn't possibly want to do this. Causing harm goes directly against our most fundamental nature—the Light beneath the darkness; prior to the mental split. This is what we must turn away from to cause harm; the source of our humanity. It is also what we must overlook in them in order to see them as fundamentally different.
+
+But we only do this out of a deep fear, or pain, or insecurity—which means that it is ultimately **innocent.** And yet it is profoundly malicious, and *knowingly* so—which means it is **evil**. This is the ultimate paradox: **all evil is ultimately innocent**. However...
+
+If this makes us become soft, we'll only enable it. Yet if we fight it out of malice, that also empowers it. So what's the solution?
+
+**Recognizing it for what it really is.**
+
+This aspect of mind that turns you away from your true nature: you couldn't possibly want it if you clearly saw it for what it was. So it **must** hide itself from your mind, disguising itself as righteousness. When it takes control, it tricks you into creating a world that is more hospitable to it, and less hospitable to us. 
+
+Exactly the same is true for the "bad people." People don't feel "evil" when committing atrocities—they feel **impossibly righteous**.
+
+It is a parasite—and we are its hosts. "Evil people" are simply those who are most infected. Punishing them for their infection is what it wants. Being *nice* to them (because they're "only infected") is also what it wants. The only thing it cannot stand is us being **fierce** in a way that doesn't confuse **it** with **them**. In other words, we need only **recognize it as a parasite**.
+
+What makes it so hard is that our parasites are **coordinating**. Yours triggers mine, which triggers yours back. It's the reason our civilization creates revenge fantasy films whose hidden purpose is to make us conflate **it** with the irredeemably evil, mustache-twirling antagonists. All our dark parts work together to enforce a culture that perpetuates this profound confusion.
+
+This is why **nothing** feels more primally, viscerally satisfying than violently punishing evil. It is **manipulating** us. It is the archetypal "evil global conspiracy"; the origin of Satan.
+
+
+
+
+
+
+
+
+
+
+
+---
+---
 
 [the difference between being lovingly shown something and hatefully.]
 ["Contempt is an _unloving_ way of exposing the truth. It feels like coercion, not invitation.]
 
----
 
-The Pattern: Part I
-The recursive trap that turns us against each other
+Or in short: I am overlooking your humanity to create harm, which I want you to see, because your seeing it *creates* the very harm I wanted you to see.
 
-**This is Part 1 of an investigation into how the world is actively tearing itself apart.**
 
-**What looks like countless separate crises—political polarization, ecological collapse, the fraying of meaning—all originate from a single error: the act of turning away from our fundamental nature.**
+There is **nothing** more primally, viscerally satisfying than violently punishing evil. Pause and feel that. The really interesting part is *why.*
 
-**From this one innocent mistake emerges all the darkness we see around us. And the strange part is that this darkness appears to coordinate across human minds—behaving almost like a singular distributed entity.**
+We know that acting from this place will only further darken the world—but we convince ourselves it won't, so that we don't have to forego that dark pleasure. We call it *righteous.*
 
-**It uses our best intentions against us. Turns our capacity for rational thought into weapons for devastation. It is *manipulating* us—while letting us believe we're fighting it.**
+To do this, we must **dehumanize** our targets while rationalizing it—which they instinctively recognize as the very thing they must do to harm *their* victims.
 
-**This may sound like mysticism—and the core insight _is_ something spiritual traditions have warned about since forever—but it also behaves in ways you can actually notice and test. This is my best attempt at pointing it out.**
+But more than that: they know that *we* know it, too. That is, we know that we're only doing the same thing they are (while pretending we're not), and we want them to **see** this (while pretending we don't), because we know this hypocrisy will license their own darkness—which we can then use against them, because how *dare* they resist our "righteous" behavior.
 
----
+This creates a darker world, which we secretly want, because such a world makes it easier to overlook our *own* terrifying darkness—which is the real motivation behind the entire ruse.
 
-*What follows rests on a claim that might seem unfounded: that we each have a fundamental nature, and that turning away from it is the root of harm. Rather than arguing for this abstractly, I'm going to show you how it operates. Use your own experience as a guide—if the mechanism I describe isn't real, you won't recognize it.*
+Let's untangle that carefully.
 
----
----
+A1: We can perceive their humanity, but hide it from ourselves.
+A2: We know this combo is the secret behind **all** evil, but hide this from ourselves.
+A3: We know this will create more darkness in the world, but (...)
+⇒ A: We know we're only doing the same thing they are (...)
 
-Suppose you've done something harmful. I see you as a *bad person*, and want you to feel it—perhaps through my mockery or shame, or even just silent judgement. I'm certain it will help somehow—but for some reason, all it does is make you see *me* as a bad person and dig in.
+B: We know they recognize (A) as hypocrisy (...)
+C: We know they recognize this *hiding of hypocrisy* as some kind of ruse (...)
+D: We know they recognize this *hiding of the ruse* (...)
+...
 
-After a brief exchange, we each leave convinced that the other person is the problem.
+Each step makes it increasingly clear that we're doing this **on purpose** (though without fully realizing that we are), creating a kind of hall-of-mirrors effect that convinces them to embrace their own darkness, which was the secret point.
 
-This kind of interaction is so common that we may not realize the profound truth it reveals about us. Let me show you what's really going on.
+In other words, the darkness intended to be created by the base of the recursion is actually created by the **entire** recursion.
 
-Deep down, I only want to do right by the world, but I find it hard sometimes. And at some level, I know the same is true of you, too. Which means that when I see you as a bad person—*fundamentally morally defective*—I'm actually lying to myself.
+Or, put more simply: the secret **intention** to create more darkness **actually** creates it.
 
-And you can *sense* this lie—though perhaps not consciously. Which means you know I'm judging you for a failure that I myself am not only susceptible to, but am presently engaged in *by viciously judging you for it*.
 
-You're therefore *right* about me being a "bad person"—at least, if "bad person" means what I'm implicitly claiming it does (namely, failing to live up to our own deepest standards).
 
-So at some level, I know your accusation is true. But for that very reason, I cannot admit it—*even to myself*. Because then on top of everything else, I'd be a hypocrite, which is even worse than what I'm accusing you of.
 
-But *you can sense this, too*—that I'm hiding this from myself. And this only intensifies your accusation, forcing me to double down harder...
 
-I've created a recursive trap from which it's impossible to escape without losing face. You feel this as a kind of maddening hall-of-mirrors effect: we both know exactly what's going on, and that the other knows, etc. And yet, if you try to name it, you know I'll only use it against you.
 
-After all, I'm only *fighting evil*—and how could that ever be wrong?
+We're ignoring a *deeper knowing* in favor of rationalizations—which our targets (the "bad people") instinctively recognize as the very trick they use to enable their own wrongdoing. So they perceive us as hypocrites, which justifies their own self-deception, thus creating more darkness.
 
----
+But the plot thickens. It turns out we
 
-Couldn't I have seen this coming? Of course I could. So why did I still do it?
 
-Because part of me *wanted* this outcome. Something in me needs to know that my enemies are *fundamentally defective*. Because if they're not, then how do I make sense of the awful things happening in the world? Might I have more complicity than I realize?
+And that is *how* we create the darkness we tell ourselves we aren't creating. By turning away from our better nature—that *deeper knowing*—we create the very result it was trying to warn us about.
 
-No! Of course not! It's *other people* that are the problem—and I'm going to prove it.
 
-What happens when eight billion people are all lost in this confusion?
 
-Dehumanizing you leads to a world with more dehumanization—and part of me knows it. But it helps me alleviate my most primal fear, so it's a tradeoff I'm willing to accept.
 
-And how do people behave when dehumanized? Are they likely to be kinder to other people? To animals? To nature at large? Or are they more likely to overlook the life in *all* of it; to objectify it; use it for their own benefit, because of how shitty the world has been to them?
 
-So here's the answer to what happens when we're all lost in it: we'd all be completely confident that we're not. We'd be busy pointing fingers at everyone else. And as a result, the biosphere would be rapidly collapsing and the social fabric degrading.
 
-But here's the strangest part.
+Deep down, we know this instinct only reveals the darkness in our own minds. But we very convincingly pretend *not* to know—even to ourselves—because in another sense, *we actually don't*. The knowledge exists in a bizarre kind of superposition, in which we simultaneously know and do not.
 
-The part of me that's engaged in this subterfuge—it's not independent of that same part of you. Nor are they working at cross-purposes. They're *collaborating*, right under our very noses.
+This is the same state that enables wrongdoing in the "bad people." It's not that they don't know they're causing harm. Of course they do. But this knowledge is shielded from the deepest part of their minds, so that there's *also* a sense in which they don't.
 
-In other words, the sum total of humanity's self-deception gives rise to something like a distributed network of darkness—ravaging our planet while always hidden just out of sight.
+It turns out we know this about them, too. But we also—you guessed it—tell ourselves we don't. And they *know* we know it. We're relying on it. Why? Because we know it will make them see us as profound hypocrites, which will license their own darkness... which we will then get to punish them for, because *how were we supposed to know our righteous behavior would cause that?*
 
----
+In other words, the reason it's so satisfying to punish evil is that it's the perfect way to unleash our own darkness in a way that creates **more** of it in others without shouldering any blame. And why do we want more in others? To help us hide from our own.
 
+But there's an even more revealing way to look at this.
 
-Notice what happened here. You were aware of something about me that I was hiding from myself.
+You see, if we could clearly see our own darkness for what it was, we couldn't possibly want it. It depends on that superposition to stay alive. This is as true for us as it is for the most despicable person. The reason that claim is so uncomfortable is that we **know** it's true, but that consciously admitting it would collapse a distinction that holds our entire worldview together.
 
-If I were visibly aware of what I was doing, you wouldn't feel that maddening hypocrisy that made you dig in. But if I were completely unaware of it myself, I couldn't 
+Seeing this **fully** would result in two things.
 
+First, it would produce **tremendous** psychic pain as we were forced to confront our own complicity in the world's horrors. The flood gates would open, and we would suddenly become aware of the **mountains** of self-deception we've been hiding. We would see how our every act of unkindness toward anybody; every act of conscience-skirting, has produced more of the very thing we've been ruthlessly judging in others—and how we did it *for* that very reason.
 
+We would discover surprising connections between our own seemingly-innocuous behavior and faraway tragedies; see how we've lowered the threshold for genuine atrocities to occur, in ways that "couldn't possibly" have anything to do with us. We would realize that this reality is far more deeply interconnected than we ever gave it credit for.
 
+But more than that: we'd see that we've somehow always known this, but have been hiding it from ourselves.
 
+How hiding from that knowledge is all the darkness *is.*
 
 
----
----
 
-The only way I can wish you harm is by willfully overlooking something: your humanity; our profound commonality. It's in my deepest nature to help—so, absent this act of overlooking, I simply couldn't wish harm. Nor could I benefit myself at others' expense.
 
-And what "profound commonality" am I overlooking, exactly? That it's *your* deepest nature to help, too. Without this act of shielding, I would actually *see* this about you—that you, too, can only cause harm by *overlooking*. 
 
-**In other words, my "deepest nature" naturally recognizes yours.** The act of shielding / overlooking is what we know as *dehumanization.*
 
-Now suppose you've done something wrong. I have a choice: I can either recognize that you're acting out of profound confusion, or else see you as *inherently defective*.
 
-The truth is, I could choose the former and still be fierce, which would stop you. But the latter is much more tempting. It lets me feel **contempt**, which is a powerful emotion. That allows me to unleash my righteous wrath, which is far more satisfying.
 
-And I *deserve* to feel that. As long as I'm fighting evil, who cares what I get out of it? It's not like you can tell which choice I've made—and even if you could, so what? Intentions don't matter, only actions do.
 
-But there's one small problem.
 
-You somehow *can* tell—and it licenses your own darkness. After all, I’ve just shown you that our better nature is weak and pathetic—if it's a real thing at all. More likely, genuine goodness is just a myth; a fantasy that naive people believe in to feel better. At the end of the day, it's about what we can get away with.
 
-Even if this temporarily suppresses your misbehavior, I've just driven you further from your better nature—and _that_ is what will dominate the long-term effect.
 
-Part of me knows I've done this, but I can't admit it. So when you implicitly accuse me of it, it can only be pure projection, revealing your *own* latent darkness.
+## Stuff to keep
 
-I was right about you: you are **evil** and must be stopped at any cost. This world is even darker than I feared.
-
-Why did I even consider listening to my better nature? I won't make that mistake again.
-
----
-
-Here's what actually happened.
-
-I told myself that what happens in my mind is my own private business. There's no way *you* could have seen it.
-
-But deep down, I knew this was a lie. I **know** that others perceive contempt as dark. Isn't that obvious?
-
-Of *course* it is. But it gets worse.
-
-You see, not only did I **know** you would see my darkness, but part of me **wanted** you to see it.
-
-Why? Because if **you** can see it while (I convince myself that) I can't...
-
-Then I get exactly the outcome that a dark part of me wants: license to destroy you.
-
----
-
-There's **nothing** more primally, viscerally satisfying than violently punishing evil. Pause and notice that.
-
-Which means that part of me actually has a perverse incentive to create more of it—*so long as I never suspect I'm doing any such thing.*
-
-But I'm a *good person*, dammit! I would never do that! Except...
-
-What if there were a way for me to eat my cake and have it, too? To provoke others in a way that can be blamed on them, so that rather than realizing I created *new* evil, I'm convinced I only revealed what was already there—a veritable service to the world!
-
-That would be the **perfect** way to scratch this itch.
-
-And all it takes to do that is to carry around this attitude of being the noble one, valiantly fighting the hordes of evil. That way, I'm primed to feel contempt—a sentiment that feels eminently righteous from the inside yet obviously dark from the outside.
-
-This asymmetry forms the backbone of the ruse. But there's one other piece that's necessary.
-
----
-
-You see, for this to work, I must be conscious enough to perform it, while also unconscious enough to disavow it—*even to myself.* How is that possible?
-
-It turns out that *this is the very nature of the darkened / turned away state.*
-
-When I turn away from my better nature, part of me *knows* that I am, and yet it's still somewhat hidden.
+There's **nothing** more primally, viscerally satisfying than violently punishing evil.
 
 To anchor this, think back to a time when you did something you *knew* was wrong and yet couldn't admit it to yourself until later. How could you "know it was wrong" and also "not admit it to yourself"? The knowledge had to live in a kind of gray zone—conscious but hidden.
 
-Call this the *limbo state*—a bizarre, paradoxical schism of mind that is simultaneously conscious and yet not. This is the only state from which we can cause harm—and it's often visible from the outside, making it *contagious.*
-
-Part of me knew I was perpetrating this ruse, even as I did it. How else could I have adapted it in real time to keep it on track—deftly avoiding your accusations while keeping the pressure up? It *had* to be conscious. And yet I had "no idea" I was doing it.
-
-*Limbo.*
-
-You sensed that I was in this state when I treated you with contempt. Can't you feel something "off" about a person when they dehumanize you? It's like they're *absent* in a certain way, right? *This* is what you're sensing.
-
 Malice alone will give you that sense—but contempt adds an extra ingredient: the pretense of righteousness. That is what turns it into a recursive trap.
 
-You see, not only does part of me know I'm being dark, but it knows that *you* know—which means I also know that when I present it as "good," it will madden you. I also know that when you accuse me of it, I'll use it against you. And you *sense* that I know this, and I know *that...*
-
-Resulting in a kind of hall-of-mirrors effect that probably everyone is familiar with. 
-
-This is what makes it uniquely maddening, provoking exactly the outcome I need. I'm showing you something unambiguously dark and yet impossible to prove—and also showing you that not only do I know this, but that I'll never admit it *even to myself*.
-
-It is the *perfect* crime—reliably spreading darkness without leaving a trace of evidence behind.
+What if there were a way for me to eat my cake and have it, too? To provoke others in a way that can be blamed on them, so that rather than realizing I created *new* evil, I'm convinced I only revealed what was already there—a veritable service to the world!
 
 ---
 
-But we've only just gotten started.
-
-Notice that this ruse doesn't just darken _your_ mind; it darkens mine, too. Why on Earth would I want to do that—unless the part of me doing it isn't quite "me" in any sense I’d recognize?
-
-It's almost like by turning away from my better nature—the part that's most authentically me—something *else* is taking control. Something that doesn't share my values. *Our* values.
-
-It's as though there is something stealing light from the world, right under our very noses—and scariest of all, it's using our innate desire for goodness against us. After all, in a very real sense, I *was* only trying to help.
-
-And if I can be so wrong about something so obviously right, then what else might I not be seeing?
-
-*Stay tuned for more...*
-
----
----
 
 
 

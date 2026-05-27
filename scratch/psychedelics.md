@@ -1,3 +1,138 @@
+Have you ever done something you knew was wrong at the time, but couldn't fully admit it to yourself until later? Maybe you made a cruel comment to boost your ego, took credit for someone else's work, or cheated on a test (or even partner).
+
+Between the time you did it and when you admitted it, the knowledge of your wrongdoing—was it *conscious* or *unconscious*? Try and remember what it was like.
+
+You knew it was wrong, so it wasn't unconscious. But you were somehow shielding yourself from it, so it wasn't fully conscious either. The knowledge occupied a bizarre kind of limbo state; consciously accessible and yet hidden.
+
+It is this same state that enables others to do wrong. And the only reason they have to shield it from themselves is the same reason *we* do: a deeper part of them wouldn't allow it otherwise.
+
+At some level, we know this. Yet in the moment, we often "forget" it. We accuse our enemies of being *fundamentally defective*—the kind of people who wouldn't have to shield anything from themselves, because they're inherently *bad.*
+
+But do we *actually* forget? Or are we just shielding this knowledge from ourselves?
+
+---
+
+
+
+
+
+
+How can you "know" something is wrong and yet not "admit it to yourself"? *Did* you know it or *didn't* you?
+
+The answer is: both. The knowledge was **fully accessible** to your conscious mind, and yet you hid it in a way that made it *feel* unconscious. It existed in a kind of **limbo state.**
+
+No amount of thinking harder would have revealed it to you, because the whole job of your thinking mind was to hide it from yourself.
+
+What might you be hiding from yourself **right now**? Do you see why thinking harder about it won't reveal the answer?
+
+And yet there *are* ways to reveal it. I want to describe what happened when the full depth of my own self-deception was revealed to me.
+
+---
+
+I was made to revisit a moment in my life when I'd confronted an enemy. Someone who had acted in abhorrent ways.
+
+I heaped contempt on them—made them feel the weight of being a *bad person.* I didn't even have to say it directly. Everything about my tone, my gaze, my body language conveyed that they were *inherently defective*. It felt delicious.
+
+I was then shown that part of me already knew my behavior would make them a worse person. I couldn't say exactly how I knew this—but I did. And yet I'd convinced myself that I *didn't* know it; that it wasn't true. I saw that if they did actually become worse, I would have an easy excuse: it wasn't my fault. After all, how could I possibly have known?
+
+This was painful enough to admit, but then another layer was revealed.
+
+I saw that when they inevitably did dig in their heels, I would have the perfect excuse to escalate, and an easier time justifying it. After all, why would someone become worse in response to righteous behavior unless they were already beyond help to begin with?
+
+And there's only *one way* to deal with people like that.
+
+See, there's **nothing** more primally, viscerally satisfying than violently punishing evil. Can you feel that?
+
+I could never have admitted it, but my behavior was slowly, imperceptibly nudging them toward that ultimate payoff.
+
+And *that is why they became worse*. They could *sense* it.
+
+It's a recursive process.
+
+They could sense it because part of me was *leaking* it. The whole purpose of my contempt was to provoke the darkness in them so that I could prove it was inherent. There is **no other reason** to feel contempt for a human.
+
+Full stop.
+
+This isn't a guess. It's not a logical implication, or an assumption. I was shown, with devastating clarity, where this knowledge already existed in my mind. Consciously accessible, but hidden.
+
+[And where it existed in theirs! The parallels were too striking to ignore.]
+
+The darkness in my own mind—all the stuff I know about but *refuse* to know—was **revealing itself** to my enemies, so that they would know what a complete fucking hypocrite I am. I was showing them: *I know exactly how you're capable of doing what you do, because it lives in me, too. But I'm going to pretend it doesn't, so that **you** can carry the full weight of blame, and I never have to confront what lives deep within me.* 
+
+I tremble even as I write this. Because there's only one word that captures the full horrifying vibe of that predatory intention in myself:
+
+*Evil.*
+
+Pure malevolence. I was willing to throw another human under the bus to hide my own guilt.
+
+Guilt about what?
+
+Well, about throwing other humans under the bus, for starters.
+
+Like I said, it's recursive. I won't try to describe all the layers, but I will describe what lays at the heart of it all.
+
+Deep down, I only want to do right by the world—but it's really fucking hard. Sometimes I mess up.
+
+Part of me knows that this is ultimately true of others, too. Again, it's not a belief, but a kind of knowledge. I can't explain it in such a short space, but *I literally see myself in you*. I know that all your fuck-ups aren't "the real you." That you're just as lost and confused as I am.
+
+But I've spent so much time shoving you into the dark that it's too late to own up to it. I'm in too deep. So I have no option but to keep doing it. Because what would it say about me to learn that I've been shoving *inherently redeemable people* deeper into the abyss? It just can't be.
+
+The deeper we get lost in this confusion, the harder it is to escape. The harder it is to remember that we were ever anything else. It becomes our identity, because it feels like the only safe place left. Like we've come too far from the Light to ever be welcome back.
+
+I was shown what it is to be trapped there.
+
+In that state, everyone mirrors this fact back to me—my *inherent defectiveness*—so why not embrace it? It becomes my *identity.*
+
+But every now and then, I meet someone who refuses to let me stay trapped there. I don't know how to explain it. They don't coddle me or tolerate my shit—but they also refuse to see it *as* me. It's like they're looking right through all my self-deception, at what lies *underneath*.
+
+And that shifts something. Slowly. Imperceptibly.
+
+And they can only do this because they're free of it themselves. There's no part of them that needs to feel superior to me, because the whole illusion of "better" and "worse" has been dispelled. And that changes *everything.*
+
+This is what we hide from ourselves.
+
+We can always literally see ourselves in others—but we convince ourselves we can't. And this conviction is so deep that it literally transforms our very perception of reality.
+
+You don't just *think* certain people are beyond help; you can literally *see* it; *feel* it. But what you can't see—and what I often still don't, if I'm being honest—is that this is just an excuse to feel contempt. Because we *know* that our contempt will reveal to them the darkness within. 
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**I hate my enemies for doing the very thing I'm doing to them by hating them for it**. 
+
+
+
+
+
+It became clear that this is the very *essence* of wrongdoing. We all walk around with our clever ideas on how to save or fix the world, secretly knowing that they're actually just self-serving rationalizations, but never letting ourselves *know* that we know. And how simply doing this—maintaining that facade—licenses others to hide behind their own rationalizations.
+
+Because when they see me doing this
+
+
+The lie that Hitler used to justify his evil is **exactly** the same lie I use to justify my hatred of him. I know that treating "bad people" with contempt will only reinforce their conviction that they're correct, and that I can use this against them
+
+
+
+
+
+---
+---
 
 There's a powerful insight about morality that can be revealed on psychedelics, and that I think our culture is still largely missing. There are certainly other ways to come by it, though perhaps not as poignantly.
 

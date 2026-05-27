@@ -11,3 +11,5 @@
 
 > In summary, while the specific concept of the Devil as a hidden conspirator is more a product of theological speculation and cultural imagination than scriptural doctrine, it is a powerful metaphor for understanding the insidious nature of evil. Your metaphor of evil as a distributed organism could be seen as a modern, systemic interpretation of these older ideas, reflecting a nuanced understanding of how evil operates in a complex, interconnected world.
 
+> *"Diabolos."* — From Greek: "to throw across," "to divide"
+
