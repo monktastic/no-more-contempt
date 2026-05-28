@@ -14,7 +14,8 @@ header h1::before {
 body {
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/img/no-contempt.png');
+  background-image: none;
+  /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/img/no-contempt.png'); */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

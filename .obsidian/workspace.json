@@ -320,7 +320,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"fuck around\"",
+                "query": "\"Putting an end\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -442,6 +442,10 @@
   "lastOpenFiles": [
     "scratch/short.md",
     "index.md",
+    "old/index.md",
+    "img/no-contempt.png",
+    "img/no-contempt-black.png",
+    "img/parasite.png",
     "scratch/conspiracy-evidence.md",
     "llms/all-insights.md",
     "Untitled 1.md",
@@ -464,8 +468,6 @@
     "scratch/chapter-bullets.md",
     "short.md",
     "scratch/hypocrisy.md",
-    "llms/claude-v2/part-iv-draft.md",
-    "scratch/satan.md",
     "llms/claude-v5",
     "llms/claude-v4",
     "llms/claude-v3/part-1.epub",
@@ -478,9 +480,6 @@
     "llms/claude-v2",
     "img/tribe.png",
     "img/shared-devil.png",
-    "img/parasite.png",
-    "img/no-contempt.png",
-    "img/no-contempt-black.png",
     "img/half-evil.png",
     "img/good-vs-bad.png",
     "img/evil-conspiracy.png",

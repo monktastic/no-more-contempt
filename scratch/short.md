@@ -24,6 +24,7 @@ Gospel of Philip quote to start?
 
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._
+> 
 > — The Gospel of Philip, 3rd century
 
 ## Part I: Limbo
@@ -207,8 +208,9 @@ The *evil people*: they are the perfect victims. Our collective dumping ground.
 (TBD)
 
 
+[Cutting corners. Benefiting myself.]
 
-[Contempt between allies.]
+[Not just contempt for evil people. Stupid, crazy people etc.]
 
 [Connect how it's hidden in the shadows with the unprovability.]
 

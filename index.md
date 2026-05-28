@@ -1,5 +1,6 @@
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._
+> 
 > — The Gospel of Philip, 3rd century
 
 ## Part I: Limbo
