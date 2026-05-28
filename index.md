@@ -11,7 +11,7 @@ Try and remember what that was like. You knew it was wrong, even as you did it. 
 
 The part that *knew*: it couldn't tell you exactly how it knew, could it? So you listened to the part that could—the part that "proved" everything was fine.
 
-I mean, why not trust what you can *prove?*
+I mean, why not trust something you can *prove?*
 
 ---
 

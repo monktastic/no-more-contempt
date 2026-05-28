@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "scratch/short.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "short"
             }
           }
         ],
@@ -440,8 +440,8 @@
   },
   "active": "1324a7d9743f4cbe",
   "lastOpenFiles": [
-    "scratch/short.md",
     "index.md",
+    "scratch/short.md",
     "old/index.md",
     "img/no-contempt.png",
     "img/no-contempt-black.png",
