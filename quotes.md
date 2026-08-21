@@ -4,9 +4,9 @@
 
 > *Be kind, for everyone you meet is fighting a great battle.* — [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
 
-> *Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.* ― Martin Luther King, Jr.
+> *Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.* ―Martin Luther King, Jr.
 
-> *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* ― Reinhold Niebuhr
+> *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* ―Reinhold Niebuhr
 
 > *The road to hell is paved with good intentions.* —Proverb
 
@@ -14,7 +14,7 @@
 
 > *Wisdom without compassion is ruthlessness, compassion without wisdom is folly.*
 
-> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-16
+> _And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness._ —2 Corinthians 11:14-15
 
 > _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._ — The Gospel of Philip
 
@@ -74,9 +74,9 @@ From a first-time user of the empathogen MDMA (emphasis mine):
 
 > *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world. He has succeeded in shouldering at least an infinitesimal part of the gigantic, unsolved problems of our day.* —Carl Jung, 1975
 
+> One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular. —Carl Jung
 
 > _If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?_ —Alexander Solzhenitsyn
-
 
 > _But some unresolved emotional issues remained. For a start, I still felt that I had been victimized by this person. I felt hurt. To resolve this, I needed to face all the things this person’s deliberate and ruthless dishonesty had stirred up within my dark side. I succeeded in doing so mainly by looking at examples of situations where I had deliberately lied. Why had I lied? How had I justified it to myself? I kept reflecting on such situations where I had been a liar. Eventually I reached the point where I could clearly see that this person had essentially been doing nothing different from me._
 >

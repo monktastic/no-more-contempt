@@ -1,3 +1,19 @@
+
+Much of what we do to fight evil only makes it stronger. We then wring our hands, wondering where we went wrong. But the truth is, part of us knows *exactly* where we went wrong—it's just that we can't easily put it into words. So we tell ourselves that maybe we *don't* actually know, enabling us to keep making the same mistake again and again.
+
+But this isn't just a piece about evil. It's about a mistake each of us is making, right now, in small ways we'd never call harmful—and how when you add it all up across eight billion people, it produces the monstrosity we think of as "what's wrong with the world." It gets into our institutions, our politics, our best intentions. And it's about how to stop.
+
+
+
+
+---
+
+Two people can do nearly the same thing, for the same good reason, and yet one of them makes the world worse while the other makes it better. The difference isn't in anything we can prove—nothing we'd ever write down in a report—and yet it decides almost everything.
+
+If that's true, then it explains why so much of what we're doing to fix the world isn't working: we're failing to account for the most important factor.
+
+---
+
 ## Angle 1: The Socratic Hook (Grounded in Relatable Experience)
 
 Humanity seems to be on a dangerous trajectory [...]. How do we get them to stop? [...]

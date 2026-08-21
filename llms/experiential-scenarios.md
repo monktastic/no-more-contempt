@@ -1,15 +1,19 @@
 
-## Evil people
+## Pill-vs-enlightenment
 
-Bring to mind the "bad people" of the world—whoever you think is responsible for ruining things for the rest of us. Maybe it's the hypocritical CEOs, greedy bankers, corrupt politicians—and all who support them.
+Think of the "bad people" of the world—whoever's responsible for ruining things for the rest of us. Hypocritical CEOs. Greedy bankers. Corrupt politicians, and all who support them. Whoever it is for you.
 
-They seem to lack something fundamental that the rest of us have, right? A moral compass.
+They seem to lack something fundamental that the rest of us have, right? A moral compass, or the sense to listen to it.
 
-Would some tiny part of you be disappointed to discover they're *not* fundamentally evil—that they're just badly confused but inherently redeemable people like the rest of us? Would that part feel robbed of the right to deliver the righteous vengeance they so richly deserve?
+Would some tiny part of you be disappointed to discover they're not *fundamentally* evil—that they're just badly confused but inherently redeemable, like the rest of us? Would that part feel robbed of the right to deliver the righteous vengeance they so richly deserve?
 
 If you had to choose between delivering that vengeance and offering them a pill that would instantly enlighten them—which would you choose? Forget about the "right" answer. Is there a tiny flicker in there that's itching to mash that first button?
 
-There is **nothing** more primally, viscerally satisfying than violently punishing evil. Notice that.
+There is **nothing** more primally, viscerally satisfying than violently punishing evil.
+
+---
+
+I'd like to see them punished, and if I'm honest, *hurt*—quite independently of any good it might do. I'm not going to act on it, of course. That would be distasteful. But there's nothing wrong with feeling it. In fact, it's something all good people should harbor, to keep evil in check.
 
 ---
 
