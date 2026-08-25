@@ -96,53 +96,53 @@ We never say "I'm going to ignore my conscience." Instead, it feels like the wor
 
 ---
 
-But why did the first stranger have the effect he did? It's not so easy to pin down—and that's actually the point. [A0]
+But why did the first stranger have the effect he did? It's not so easy to pin down—and that's actually the point.
 
-You knew there was nothing you could say or do to change his mind, right? That it would all be used against you somehow. It's as if some part of him *needed* you to be bad—and you knew this right off the bat. Something about his tone and gaze gave it away, even if his words didn't. [A1]
+You knew there was nothing you could say or do to change his mind, right? That it would all be used against you somehow. It's as if some part of him *needed* you to be bad—and you knew this right off the bat. Something about his tone and gaze gave it away, even if his words didn't. 
 
-And the longer it went on, the more clearly it felt intentional. Something in him was tracking your reactions, navigating around obstacles, and preventing you from wriggling out and exonerating yourself. It was aimed at getting that need met, and you felt that too. [A2]
+And the longer it went on, the more clearly it felt intentional. Something in him was tracking your reactions, navigating around obstacles, and preventing you from wriggling out and exonerating yourself. It was aimed at getting that need met, and you felt that too. 
 
-But it couldn't _be_ intentional in the usual sense. How could he sincerely hold your reaction against you if he knew he was causing it? How could he trust evidence he knew he was producing? So he couldn't be fully aware of what he was doing. [A3]
+But it couldn't _be_ intentional in the usual sense. How could he sincerely hold your reaction against you if he knew he was causing it? How could he trust evidence he knew he was producing? So he couldn't be fully aware of what he was doing. 
 
-And yet it couldn't be fully unconscious either. If it were, he'd be embarrassed or confused when you pushed back. Instead, his behavior _intensified_ in exactly the way needed to protect itself. [A4]
+And yet it couldn't be fully unconscious either. If it were, he'd be embarrassed or confused when you pushed back. Instead, his behavior _intensified_ in exactly the way needed to protect itself. 
 
 Does that remind you of anything?
 
-*Limbo.* You weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of judging you.* [A5]
+*Limbo.* You weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of judging you.* 
 
-It _had_ to be that way, for him to even do it. [A6]
-
----
-
-And notice that you had to *recognize* it as limbo for this to work. [B1]
-
-If it had looked fully self-aware, he'd have looked malicious rather than righteous—and your reaction to malice doesn't convict you; it convicts *him*. It also would have given you a target to fight back against. Even if he denied it out loud, you would at least know that it registered somewhere. [B2]
-
-And if it had seemed purely unconscious or accidental, you might have forgiven him or pitied him instead—which wouldn't have given him what he needed: for you to dig in, in response to his righteous behavior. [B3]
-
-So it *had* to look intentional—as though there's "someone behind the wheel"—yet with no one there to accept the blame. Both halves were necessary. [B4]
-
-And look, it worked: you dug in. Because you couldn't let it stand. Which is exactly what gave him what he needed—because look how you're reacting to his _good behavior_. [B5]
+It _had_ to be that way, for him to even do it. 
 
 ---
 
-And it's not enough that you recognized it. He had to *know* that you would—otherwise how could he expect it to provoke you? [B6]
+And notice that you had to *recognize* it as limbo for this to work. 
 
-And you would have recognized it even if it only lasted a few seconds. What allows him to rely on that? [C1]
+If it had looked fully self-aware, he'd have looked malicious rather than righteous—and your reaction to malice doesn't convict you; it convicts *him*. It also would have given you a target to fight back against. Even if he denied it out loud, you would at least know that it registered somewhere.
 
-It's because turning away from your conscience has a certain look—one we all instinctively recognize. And we all know what it implies. [C3]
+And if it had seemed purely unconscious or accidental, you might have forgiven him or pitied him instead—which wouldn't have given him what he needed: for you to dig in, in response to his righteous behavior. 
 
-Think back to the opening, where I recognized you had to be in limbo to cause harm, despite not knowing anything about you. You weren't _surprised_ that I knew it, were you? [C4]
+So it *had* to look intentional—as though there's "someone behind the wheel"—yet with no one there to accept the blame. Both halves were necessary. 
 
-It's just something we know about each other, even if we don't _let_ ourselves know. That others are just like us. That they have a conscience, and sometimes have difficulty following it. That that's how they do wrong. And that our behavior can influence whether they follow it. [C5]
+And look, it worked: you dug in. Because you couldn't let it stand. Which is exactly what gave him what he needed—because look how you're reacting to his _good behavior_. 
 
-Look at it another way: why would he need so desperately to prove that you're irredeemable unless _part of him suspected you weren't?_ Why would he cut off your road to proving it? [C6]
+---
 
-That's what he was revealing to you: that part of him knows he's acting maliciously, and that you'll recognize it *because we all do*. [C7]
+And it's not enough that you recognized it. He had to *know* that you would—otherwise how could he expect it to provoke you? 
+
+And you would have recognized it even if it only lasted a few seconds. What allows him to rely on that? 
+
+It's because turning away from your conscience has a certain look—one we all instinctively recognize. And we all know what it implies. 
+
+Think back to the opening, where I recognized you had to be in limbo to cause harm, despite not knowing anything about you. You weren't _surprised_ that I knew it, were you? 
+
+It's just something we know about each other, even if we don't _let_ ourselves know. That others are just like us. That they have a conscience, and sometimes have difficulty following it. That that's how they do wrong. And that our behavior can influence whether they follow it. 
+
+Look at it another way: why would he need so desperately to prove that you're irredeemable unless _part of him suspected you weren't?_ Why would he cut off your road to proving it? 
+
+That's what he was revealing to you: that part of him knows he's acting maliciously, and that you'll recognize it *because we all do*. 
 
 And yet could you have proven any of this? If you'd tried to name it out loud, how would it have sounded?
 
-And both of you knew that, too. [C8]
+And both of you knew that, too. 
 
 ---
 
@@ -156,45 +156,43 @@ I'm speaking of it as a kind of agent not because it necessarily is one. I'm not
 
 And notice: it didn't just reveal itself to you *while* hiding itself from him. It revealed to you that it *was* hiding itself from him.
 
-[D]
+---
+
+So it wasn't only acting *on* you. It was *addressing* you—without there being anything to address back. 
+
+It's as if it was saying: *I'm causing harm. We both know that, and that neither of us can prove it—and that **is** the harm, which we both know but cannot prove. So you'll have no recourse, and I'll have nothing to feel guilty for—because I'll never even know that I did it.* 
+
+No words were needed. All the necessary shared knowledge was already present between you—it merely had to be _evoked_. Which is why a tone and a gaze were enough.
+
+You may have felt this before, as a kind of "hall of mirrors" effect. You both know exactly what's happening, and that neither one of you can name it. 
+
+What makes it so maddening—and so hard to pin down—is precisely what makes it work. 
 
 ---
 
-So it wasn't only acting *on* you. It was *addressing* you—without there being anything to address back. [E1]
+Here's another way of looking at it. 
 
-It's as if it was saying: *What I'm doing is harming you. We both know that, and that neither of us can prove it—and that's what's harming you, which we both know but cannot prove. So you'll have no recourse, and I'll have nothing to feel guilty for.* [E2]
+You could see that he was trusting the part in him that could prove over the part that knew—and that he was using it against you. How? By making his behavior appear "provably" good while you both secretly knew what was happening. 
 
-No words were needed because all the necessary shared knowledge was already present. *That's* why it could be communicated through a tone and gaze. The common knowledge merely had to be *evoked*. [E4]
+And it widened the same split in you—taught you to trust what you could prove over what you know. Which *is* the "what was happening." 
 
-You may have felt this before, as a kind of "hall of mirrors" effect. You both know exactly what's happening, and that neither one of you can prove it. [E5]
-
-That's what makes it so maddening. So hard to pin down. And it's **precisely** what makes it work. [E6]
-
----
-
-Here's another way of looking at it. [F0]
-
-You could see that he was trusting the part in him that could prove over the part that knew—and that he was using it against you. How? By making his behavior appear "provably" good while you both secretly knew what was happening. [F1]
-
-And it widened the same split in you—taught you to trust what you could prove over what you know. Which *is* the "what was happening." [F2]
-
-It feels like this: *if this is the kind of world we live in—one where people can just ignore their conscience and get away with it; where you can't even tell the good ones from the bad ones; where he can use that as a weapon against me and no one cares—then fuck it. Game on.* [F3]
+It feels like this: *if this is the kind of world we live in—one where people can just ignore their conscience and get away with it; where you can't even tell the good ones from the bad ones; where he can use that as a weapon against me and no one cares—then fuck it. Game on.* 
 
 Again, you don't tell yourself you'll ignore your conscience. Your justifications simply become more reasonable. More practical. As though they *are* your conscience. The two become just a little harder to tell apart.
 
-The one faculty you have to detect this corruption of your mind—it has just been demoted.[F4]
+The one faculty you have to detect this corruption of your mind—it has just been demoted.
 
-And the thing is, it doesn't feel like a loss at all. It feels like you've gotten a bit wiser. A little less naive about how this world really operates. [F5]
+And the thing is, it doesn't feel like a loss at all. It feels like you've gotten a bit wiser. A little less naive about how this world really operates. 
 
 ---
 
-And notice what happens in him. [G0]
+And notice what happens in him. 
 
-He just watched you get worse in response to his "righteous" behavior, convincing him that people really are as rotten as he feared. So he gives that part of himself more power; learns to trust it more. [G1]
+He just watched you get worse in response to his "righteous" behavior, convincing him that people really are as rotten as he feared. So he gives that part of himself more power; learns to trust it more. 
 
-A part that's making his enemies _more_ entrenched. Harder to fight. Creating more of the very thing he hates. [G2]
+A part that's making his enemies _more_ entrenched. Harder to fight. Creating more of the very thing he hates. 
 
-So whose goals is it pursuing, exactly? His—or its own? [G3]
+So whose goals is it pursuing, exactly? His—or its own? 
 
 ---
 
@@ -210,7 +208,7 @@ Which then gives that part of him *more* power.
 
 It _benefits_ from you seeing it as something he wants. As something he *is*.
 
-That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him. [G4]
+That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him. 
 
 ---
 
