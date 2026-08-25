@@ -10,7 +10,9 @@ This isn't just about individual behavior. It's about how this mistake creeps in
 
 Do we know we're making this mistake? Yes and no. On some level we all know it—but bringing it into full awareness would threaten something deep within, so we refuse it.
 
-Which means that if I'm right, everything I'm about to say is something you already know. It also means I can't argue you into it—and you should be suspicious of anyone who tries.
+Which means that if I'm right, everything I'm about to say is something you already know. It also means I can't argue you into it—and you should be suspicious of anyone who tries. All I can do is ask you to check it against your own experience. If you recognize it, that's enough.
+
+[TODO: this immunization comes too early]
 
 It's easier to get a sense of this with small examples, so let's start there.
 
@@ -23,7 +25,7 @@ Try to put yourself back in that state. You knew it was wrong, even as you did i
 
 But how did you know it was wrong?
 
-Whatever it was, it arrived *before* you'd done any calculations, right? And it wasn't swayed by them. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
+Whatever it was, it arrived *before* you'd done any calculations. And it wasn't swayed by them. It couldn't say exactly how it knew, but it knew. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
 Why did one side have to argue, and the other not? Which side did you listen to?
 
@@ -35,125 +37,151 @@ And yet, despite "losing" that battle, notice that it never budged an inch.
 
 Now imagine that while you were in that state—doing wrong, justifying it, half-knowing—a stranger had caught you and publicly chastised you for it. Not just for doing something wrong, but for *being the kind of person who does*.
 
-Would that have made it easier to confront what you already knew, or harder?
+Does that make it easier or harder to confront what you already knew?
 
-Almost certainly harder. [Whether you complied or dug in your heels, ]
+Harder, almost certainly. Because *who the hell is he to judge*, right? He's obviously the kind of person who does this, too—things he knows are wrong while pretending not to know.
 
-But why, exactly? Really put yourself back in those shoes.
+[Can sharpen: you'd take that bet at any odds, right? On what evidence? You've never met him. You don't know anything about him. All you had to go on was the way he was standing there, doing what he was doing.]
 
-Because *who the hell is he to judge,* right? He's *obviously* the kind of person who does this, too—things he knows are wrong while pretending not to know.
-
-But how could you know that? You'd never met him. You knew nothing about his life. All you had was the way he was standing there, doing what he was doing.
-
-And yet it felt obvious, didn't it? You could sense something "off" about his behavior, even if you couldn't put your finger on it.
+But where does that judgement come from? Is it just a defense mechanism—or are you sensing something real?
 
 ---
 
 For comparison, think of a time you were corrected with integrity—had your feet held to the fire in a way that wasn't remotely soft or nice, and yet didn't contain a trace of contempt.
 
-Maybe it was even harsher than what the above stranger did. He may have said things that stung more, in front of more people, and left you less room to wriggle out.
+[Make this stranger more concrete]
 
-But did it make you dig in or vow revenge? Why not? What was different about it?
+Maybe it was even harsher than what the above stranger did. He may have said things that stung more, in front of more people, and left you less room to wriggle out. But it was about what you *did*, and not your character.
 
-It's like he was reminding you of something: that *you're better than this*. Meanwhile, the first stranger was convincing you that *this is all you are*.
+Did that make you dig in or vow revenge? Why not?
 
-It's almost as if the second one was giving voice to your own conscience. You knew you couldn't win against it—and more importantly, *you didn't want to.*
+It's like he was reminding you of something: that *you're better than this*. Meanwhile, the first stranger was claiming that *this is all you are*—and he seemed invested in that judgement.
 
-He didn't stand to gain from it. If anything, it cost him, by letting the world know that he could be held to the same standard.
+It's almost as if this one was giving voice to your own conscience. You knew you couldn't win against it, and more importantly, you didn't want to.
 
-If you had to guess: is this the kind of person who sneaks around trying to get away with stuff?
+He didn't stand to gain from it. If anything, it cost him, because it let the world know he could be held to the same standard.
 
----
-
-Both people may have stopped your misbehavior, and so both can claim that what they did "worked." But one of them made it easier to ignore your conscience, and the other made it harder. The change may be minor, but it will long outlast this interaction.
-
-Later, you'll face a small choice—say, whether to give a stranger the benefit of the doubt—and you'll feel a tug in one direction or the other. And if it's toward the wrong choice, it won't feel "wrong" at all. It will just feel like what you must do to protect yourself in this selfish world.
-
-You never say "I'm going to ignore my conscience." Your justifications simply feel more convincing, more obvious, more *righteous*—as though they *are* your conscience. It gets harder to tell them apart, making it easy to believe you're still following it.
+If you had to guess: is *this* the kind of person who sneaks around trying to get away with stuff?
 
 ---
 
-Don't we all know the impact that contempt has? You know it. I know it. And *that stranger knew it, too*. But do you think he would have admitted it? No, he would have insisted it was good. That if you dug in your heels, it was only proof of how bad *you* are—nothing to do with him.
+Both people may have stopped your misbehavior, and both can claim that what they did "worked." But one of them made it easier to ignore your conscience, and the other made it harder. The change might be small, but it will long outlast this interaction.
 
-And the thing is, he genuinely believed it—the same way your justifications felt true to you. His calculations told him something like: *see "bad person," teaching bad people lessons = good, thus what I'm doing is good. QED*.
+Later, you may face a small choice—say, whether to give a stranger the benefit of the doubt—and you'll feel just the slightest tug in one direction or the other. And if you make the "wrong" choice, it won't feel wrong. It will just feel like what you must do to protect yourself in this world.
 
-So you weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of treating you with contempt.* He knew he was causing harm, and also he didn't.
+You never say "I'm going to ignore my conscience." Instead, your justifications simply feel more convincing, more obvious, more *righteous*—as though they *are* your conscience. They become just a little harder to tell apart from it.
 
-*That*'s the "off" feeling you were sensing. That he was in *limbo*—the same state he was judging you for.
+---
+
+But what did the first person actually *do* to cause harm? There was just something in his tone. His gaze. Nothing you could point to and say: *that's what did it*. And that's not an accident.
+
+Look at what happened.
+
+Don't we all know what contempt does? You know it. I know it. And *that stranger knew it, too*. But he never would have admitted it, would he? He would have insisted it was good. That if you dug in your heels, it was only proof of how bad *you* are—nothing to do with him.
+
+And the thing is, he genuinely believed it, the same way your justifications felt true to you. His calculations told him something like: *see "bad person," teaching bad people lessons = good, thus what I'm doing is good. QED*.
+
+He knew he was causing harm, and he didn't. You weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of judging you.* That he was in *limbo*—the same state he was judging you for.
 
 Limbo: it's not just how we hide from what we've done. It's what lets us do it in the first place.
 
 ---
 
-So he wasn't fully aware of what he was really doing. And yet it felt intentional, didn't it? He was tracking your every reaction, preventing you from wriggling out and exonerating yourself—as if something in him *needed* you to be bad, and was working around obstacles to get it.
+Before we continue, consider: *is judgement wrong?*
 
-And what effect did that have on you? Exactly the one he needed.
+The second person did it too. But he judged what you *did*, not what you *are*—and that made all the difference in the world.
 
-But how did one turn into the other?
+So "judging someone" can mean two radically different things. And yet we often treat them as the same. For now, just ask yourself this: what does that conflation enable?
 
-If he'd come right out and said "I need you to be bad," would that have worked? Of course not. In fact, if he was even aware he was doing it—*fully* aware—that would defeat it. How can he blame you for something he knows he's causing? So he *cannot* fully know he's responsible.
+---
 
-But if he were fully unaware, that wouldn't work either. How could he keep the whole thing so carefully on track? And more importantly: *how could he show you that he was?* That feeling of there being "someone behind the wheel" had to be legible. If it looked accidental or purely unconscious, it wouldn't have been so maddening, and he wouldn't have gotten what he needed.
+So he wasn't fully aware of what he was really doing. And yet it *felt* intentional, didn't it? He was tracking your reactions, preventing you from wriggling out and exonerating yourself—as if something in him *needed* you to be bad, and was working around obstacles to get it.
 
-There it is again—limbo—but this time one level up. Not just about the fact that he's doing it, but that he's *showing* it.
+But how did he get it? How did that apparent desire or intention turn into a result?
 
-And yet you can't prove any of this, can you? Which itself folds back into the plan, making it extra maddening—because you know it, and yet you also know he has a defense ready.
+If he'd come right out and said "I need you to be bad," it obviously wouldn't have worked. If he were even aware he was doing it—*fully* aware—that would defeat it. How can someone sincerely blame you for something they know they're causing? So he *cannot* fully know he's responsible.
+
+But he cannot be fully *unaware* either—because then how could he keep the whole thing so carefully on track? And more importantly: *how would he **show** you that he was?* That feeling of intention; of there being "someone behind the wheel": it had to be legible to you. If it looked accidental or purely unconscious, it wouldn't have been so maddening. You might have forgiven or pitied him instead, which he can't afford.
+
+So he has to know, and also not-know. Not just about the fact that he needs you to be bad, but that he's *showing* it to you to provoke it. Limbo again, this time one level up.
+
+And yet you can't prove any of this, can you?
+
+Which itself folds back into the trap, making it extra maddening—because you *know* it, and also know that you cannot prove it, because he already has a defense ready.
 
 And do you think he knows *that?*
 
 *Yes and no.*
 
-Layer upon layer of limbo, each simultaneously hidden yet revealed. You both know exactly what you're looking at, and also that neither of you can prove it. Which is why you'll have no recourse, and he'll have nothing to feel guilty for. Which you *also* both know but cannot prove—adding another level of madness.
+Layer upon layer of limbo, each simultaneously hidden yet revealed. And the hiddenness *is* what reveals it to you—and some part of him knows that, too, and hides it, which you see. And so on.
 
-If you've ever felt that eerie "hall of mirrors" effect before; that gaslight-y texture—this is it. And there are more layers to it, which we won't name now.
+This produces an eerie "hall of mirrors" effect which you may have felt before. You both know exactly what's happening, but also that neither one of you can prove it. Which means you'll have no recourse, and he'll have nothing to feel guilty for—which you *also* both know but cannot prove.
 
----
+And there are more layers to it, which we won't get into now. For now, just notice this.
 
-For now, notice this: acting like someone is inherently bad—i.e. unreachable—especially when we suspect they're not, is malicious. It produces the evidence we need, at their expense. Every one of us knows this. And we know that *others* know it. It is common knowledge: we all know that we all know that we all know etc.
-
-And that condition—"especially when we suspect they're not"—is trivially met. There's a part of us that *always* suspects that others are just like us, even if we're not aware of it. *That's what your conscience **is**.* And that, too, is common knowledge, but the implicit kind: something we know but cannot prove.
-
-Which means that when we simply *act like someone is inherently bad*, everyone senses what is secretly happening, and we all know *that*, etc. And yet nobody can name it without sounding crazy. Just try telling him: but you *know* I'm not what you say I am.
-
-That's why it reliably produces that "hall of mirrors" effect, creating a chasm between what we know and what we can prove. Because what's happening *is* something we commonly know and also cannot prove.
-
-You sensed this chasm in him; he knew (and didn't know) you saw it; he knew (and didn't know) it would produce the same chasm in you—and *that's what produced the same chasm in you.* 
-
-And here's what it feels like: *if this is the kind of world I live in—where people can ignore their conscience and get away with it; where everyone knows what he's doing to me and I'm still the villain—then fuck it. Game on.*
-
-That's what teaches you to trust your *reasons* over what you deep down *know*—your conscience.
+If a person starts with the (hidden) intent to harm you—without even knowing what that "harm" is—then that state can reflect itself through both of you to *create* the harm, turning you into the kind of person who "deserved" it.
 
 ---
 
-So here we have something in him acting like an agent, pursuing goals, revealing itself to you as being "behind the wheel" while also hiding itself from him.
+Here's another way to look at it. He knew he was harming you, while following a voice telling him he wasn't. He trusted what he could "prove" over what he knew.
 
-And when he achieves that goal—confirming you're as rotten as he feared—what happens? The same thing that happened to you. After all, he just watched a "bad person" become worse in response to his "righteous" behavior.
+And you both knew this but could not prove it. And you each knew the other knew that. And that they knew *that.* Etc.
 
-So that part of him gets stronger. A part that's making his enemies *more* entrenched. Harder to fight. Creating more of what he hates.
+So the whole thing functions like a taunt: *we both know perfectly well what's happening, and also that nobody can prove it. Just try to name it out loud and see what happens.*
 
-Whose goals is it pursuing? His—or its own?
+And that's what widened the same split in you—taught you to trust what you could prove over what you know. Your reasons over your conscience.
 
-He couldn't want it if he clearly saw what it was doing. And yet it certainly *looks* like he wants it. Which can only mean he's a "bad person."
+Here's what it feels like from the inside: *if this is the kind of world we live in—one where people can just ignore their conscience and get away with it; where he can use that as a weapon against me and no one cares—then fuck it. Game on.*
 
-And what do we feel for *bad people?* How do we treat them?
+---
 
-Which will further strengthen that part of him. And of yourself.
+Now let's go back to another strange fact. Something in him was telegraphing itself as being intentional, while hiding itself from him. Which means it couldn't *be* intentional in the usual sense of that word.
 
-This "something": it *benefits* from you seeing it as something he wants. As something he *is.*
+That part of him: it was functioning as a kind of agent. Pursuing goals he didn't know he had.
+
+And when it achieves that goal—confirming you're as rotten as he feared—what happens? The same thing that happened to you. He just watched a "bad person" become worse in response to his "righteous" behavior. Which makes him give that part of himself more power.
+
+A part that's making his enemies *more* entrenched. Harder to fight. Creating more of the very thing he hates.
+
+So whose goals is it pursuing, exactly? His—or its own?
+
+He couldn't want it if he clearly saw what it was doing.
+
+And yet it certainly *looks* like he wants it. 
+
+And what do we call people who obviously want to cause harm—especially when "pretending" they don't? How do we treat them?
+
+With *contempt.*
+
+Which then further strengthens that part of him. Of both of you.
+
+So this part of him: it *benefits* from you seeing it as something he wants. As something he *is.*
 
 ---
 
 We'll talk later about what "it" is. For now, notice a few things.
 
-Why would he have to nudge you away from your conscience unless, at some level, he suspects you have one—and that you might otherwise have followed it?
+Why would he be so invested in proving you're bad, unless some part of him suspects you're not? You don't do that for something you're already sure of.
 
-Which means he suspects he's harming a redeemable person. Might that not explain why he had to turn away from his conscience—enter limbo—to do it?
+And why would he try to nudge you further away from your conscience unless he thought you might actually have one—one you might otherwise have followed?
 
-And if he ever suspects he's the bad guy, it all comes tumbling down. So he needs "bad guys" out there—*real* ones.
+So maybe he senses that at some level, you're just like him. That you have a conscience too, but have difficulty following it, just as he does.
 
-Also notice that there's nothing you could point at and say "this is what caused the harm." There was just something in his tone; his gaze. Nothing you could ever prove to anyone.
+And that's unbearable, because he "knows" you're bad. It would mean that the "bad people" are ultimately just like him. That would be the *worst possible thing* to learn about himself.
 
-The world becomes ever so slightly worse as a result—and yet there's not a trace of evidence of any wrongdoing.
+In that case, he must do everything in his power to silence that deep suspicion. To find concrete *evidence* that you're bad, to shut that part up.
+
+So he simply holds that unacknowledged need in limbo...
+
+And the rest takes care of itself.
+
+---
+
+Of course, there's one little problem: he can *never* shut that part of himself up. He can only bury it. But now it's warning him even more loudly, because of what he's done. Which means he needs more evidence, to shut it up...
+
+---
+
+As a result of this interaction, the world has been made slightly worse—and yet there's not a trace of evidence of anything "wrong" having happened.
 
 ---
 ---
