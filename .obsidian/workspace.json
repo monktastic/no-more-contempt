@@ -55,20 +55,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/index-old-5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index-old-5"
-            }
-          },
-          {
-            "id": "ec44bdaa2ebcc65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_site/llms/claude-2026-08/chapter-1.md",
                 "mode": "source",
                 "source": false
@@ -78,31 +64,17 @@
             }
           },
           {
-            "id": "7380d6e99472182e",
+            "id": "75a55cfb3ebc0183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/llms/claude-2026-05/outline.md",
+                "file": "llms/claude-2026-08/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "outline"
-            }
-          },
-          {
-            "id": "046367a7ca2b5892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_site/llms/claude-2026-08/chapter-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-2"
+              "title": "chapter-1"
             }
           }
         ],
@@ -255,16 +227,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ec44bdaa2ebcc65f",
+  "active": "75a55cfb3ebc0183",
   "lastOpenFiles": [
-    "_site/llms/claude-2026-08/TODOs.md",
+    "Untitled 3.md",
     "_site/llms/claude-2026-08/chapter-1.md",
+    "llms/claude-2026-08/chapter-1.md",
     "_site/llms/claude-2026-08/stuff-not-to-lose.md",
+    "_site/llms/claude-2026-08/chapter-2.md",
+    "_site/llms/claude-2026-08/TODOs.md",
+    "_site/llms/claude-2026-08",
+    "_site/llms/claude-2026-05/whats-different.md",
+    "_site/llms/claude-2026-05/outline.md",
+    "_site/llms/claude-2026-05/draft.md",
+    "_site/llms/claude-2026-05",
+    "llms/claude-2026-08/stuff-not-to-lose.md",
+    "llms/claude-2026-08/chapter-2.md",
+    "llms/claude-2026-08/TODOs.md",
+    "llms/claude-2026-08",
+    "llms/claude-2026-05/whats-different.md",
+    "llms/claude-2026-05/outline.md",
+    "llms/claude-2026-05/draft.md",
+    "llms/claude-2026-05",
     "llms/claude-v4/chapter-1.md",
     "scratch/key-points.md",
-    "_site/llms/claude-2026-08/chapter-2.md",
     "llms/chatgpt-contempt-recursion.md",
-    "_site/llms/claude-2026-05/outline.md",
     "scratch/short.md",
     "scratch/intros.md",
     "llms/all-insights.md",
@@ -272,30 +258,16 @@
     "quotes.md",
     "old/index-old-5.md",
     "scratch/preface.md",
-    "_site/llms/claude-2026-08",
     "_site/llms/Untitled.md",
-    "llms/claude-v4/all-parts-draft.md",
-    "_site/llms/claude-2026-05/draft.md",
-    "index.md",
-    "_site/llms/calculating-goodness.md",
-    "llms/calculating-goodness.md",
-    "short.md",
-    "llms/misc/new-journey.md",
-    "scratch/premise.md",
-    "llms/experiential-scenarios.md",
-    "short-2.md",
-    "_site/llms/claude-2026-05",
     "_site/llms/claude-v5/Untitled",
     "_site/jekyll/update/2023/11/10/welcome-to-jekyll.html",
     "_site/jekyll/update/2023/11/10",
     "_site/jekyll/update/2023/11",
     "_site/jekyll/update/2023",
     "_site/jekyll/update",
-    "_site/jekyll",
     "_site/assets/images/bullet.png",
     "_site/assets/images/blacktocat.png",
     "_site/assets/images/bkg.png",
-    "_site/assets/images",
     "_site/img/tribe.png",
     "_site/img/shared-devil.png",
     "_site/img/parasite.png",
