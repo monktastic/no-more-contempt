@@ -96,7 +96,17 @@ We never say "I'm going to ignore my conscience." Instead, it feels like the wor
 
 ---
 
-But why did the first stranger have the effect he did? It's not so easy to pin down—and that's actually the point.
+But *why* did the first stranger have the effect he did?
+
+Well, what does contempt license? Once you believe "this is all you are" about someone, what does that enable you to do?
+
+Of course, there's no evidence the stranger was actually going to *do* anything. That's why we tell ourselves contempt is okay. That maybe it will scare people into stopping or something.
+
+But that's not what it actually communicates.
+
+---
+
+First: how did you *know* he was a hypocrite?
 
 You knew there was nothing you could say or do to change his mind, right? That it would all be used against you somehow. It's as if some part of him *needed* you to be bad—and you knew this right off the bat. Something about his tone and gaze gave it away, even if his words didn't. 
 
@@ -108,13 +118,13 @@ And yet it couldn't be fully unconscious either. If it were, he'd be embarrassed
 
 Does that remind you of anything?
 
-*Limbo.* You weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of judging you.* 
+*Limbo.* You weren't just detecting that he's the kind of person who deceives himself in general. You sensed that he was doing it *right then, in the act of judging you.* He _had_ to be, to even do it.
 
-It _had_ to be that way, for him to even do it. 
+Which meant he was judging you *from* the very state he was judging you *for*.
 
 ---
 
-And notice that you had to *recognize* it as limbo for this to work. 
+Next, notice that you had to recognize it *as* limbo for this to work. 
 
 If it had looked fully self-aware, he'd have looked malicious rather than righteous—and your reaction to malice doesn't convict you; it convicts *him*. It also would have given you a target to fight back against. Even if he denied it out loud, you would at least know that it registered somewhere.
 
@@ -122,15 +132,15 @@ And if it had seemed purely unconscious or accidental, you might have forgiven h
 
 So it *had* to look intentional—as though there's "someone behind the wheel"—yet with no one there to accept the blame. Both halves were necessary. 
 
-And look, it worked: you dug in. Because you couldn't let it stand. Which is exactly what gave him what he needed—because look how you're reacting to his _good behavior_. 
+And look, it worked: you dug in. Because you couldn't let it stand. Which is exactly what gave him what he needed—because look how you're reacting to his _good behavior_.
 
 ---
 
-And it's not enough that you recognized it. He had to *know* that you would—otherwise how could he expect it to provoke you? 
+And it's not enough that you recognized it. He had to *know* that you would—otherwise how could he expect it to provoke you?
 
-And you would have recognized it even if it only lasted a few seconds. What allows him to rely on that? 
+And you would have recognized it even if it only lasted a few seconds. What allows him to rely on that?
 
-It's because turning away from your conscience has a certain look—one we all instinctively recognize. And we all know what it implies. 
+It's because turning away from your conscience has a certain look—one we all instinctively recognize. And *we all know what it implies*. You don't turn away when you're doing something *good.* [This is a weak point. It's not that all limbo has the same look. It's just this one in particular.]
 
 Think back to the opening, where I recognized you had to be in limbo to cause harm, despite not knowing anything about you. You weren't _surprised_ that I knew it, were you? 
 
@@ -154,19 +164,31 @@ And notice what it had to work with. His tone. His gaze. His timing. Nothing els
 
 I'm speaking of it as a kind of agent not because it necessarily is one. I'm not trying to smuggle in any metaphysics here. But notice that for any of this to work, it must *function* as one—and it can't exactly be him in the usual sense.
 
-And notice: it didn't just reveal itself to you *while* hiding itself from him. It revealed to you that it *was* hiding itself from him.
+And notice: it didn't just reveal itself to you *while* hiding itself from him. It revealed to you *that* it *was* hiding itself from him.
+
+I'll call it the "dark" part of him—both because it's hidden from him, and because of what it enables. That word may sound unearned, but you're about to see why I call it that.
 
 ---
 
-So it wasn't only acting *on* you. It was *addressing* you—without there being anything to address back. 
+It wasn't merely acting *on* you. It was *addressing* you—without there being anything to address back. 
 
-It's as if it was saying: *I'm causing harm. We both know that, and that neither of us can prove it—and that **is** the harm, which we both know but cannot prove. So you'll have no recourse, and I'll have nothing to feel guilty for—because I'll never even know that I did it.* 
+And here's what it was communicating:
 
-No words were needed. All the necessary shared knowledge was already present between you—it merely had to be _evoked_. Which is why a tone and a gaze were enough.
+> *We both know exactly what I'm doing, and that nobody can prove it. Which means anything you try to do to wriggle out of it will be turned against you—because what have I done wrong? 
+> 
+> I know **exactly** how maddening that is, and what it will drive you to do. And when you inevitably do it, I'll be right here, waiting. 
+> 
+> I am going to provoke you until you become the very thing I need you to be. And when you do, no one will blame me for what I must do. Because you will only have revealed yourself for what you truly are.
+> 
+> And I know you can see this. But good luck proving it.
 
-You may have felt this before, as a kind of "hall of mirrors" effect. You both know exactly what's happening, and that neither one of you can name it. 
+His dark part: it is *seducing* you into becoming what it needs you to be.
 
-What makes it so maddening—and so hard to pin down—is precisely what makes it work. 
+All of this can be communicated through a single glance. We all know what it means on some level, even if we've never put it into words. Even if we've never felt the full weight of it before. And it works precisely *because* we cannot prove it's happening.
+
+You may have felt it before—that eerie "hall of mirrors" effect, where you both know exactly what's happening, and that neither one of you can name it. 
+
+This is what is being communicated from inside it.
 
 ---
 
@@ -182,57 +204,63 @@ Again, you don't tell yourself you'll ignore your conscience. Your justification
 
 The one faculty you have to detect this corruption of your mind—it has just been demoted.
 
-And the thing is, it doesn't feel like a loss at all. It feels like you've gotten a bit wiser. A little less naive about how this world really operates. 
+And the thing is, it doesn't feel like a loss at all. It feels like you've gotten a bit wiser. A little less naive about how this world really operates.
+
+Which is exactly what the dark part of *you* needs to justify itself.
 
 ---
 
 And notice what happens in him. 
 
-He just watched you get worse in response to his "righteous" behavior, convincing him that people really are as rotten as he feared. So he gives that part of himself more power; learns to trust it more. 
+He just watched you get worse in response to his "righteous" behavior, convincing him that people really are as rotten as he feared. So he gives that part of himself more power; learns to trust it more.
 
-A part that's making his enemies _more_ entrenched. Harder to fight. Creating more of the very thing he hates. 
+A part that's making his enemies _more_ entrenched. Harder to fight. Creating more of the very thing he hates. If he were *fully conscious* of what it is creating: could he really want it?
 
 So whose goals is it pursuing, exactly? His—or its own? 
 
 ---
 
-He couldn't want it if he clearly saw what it was doing.
-
-And yet it certainly _looks_ like he wants it, doesn't it?
+So he couldn't want it if he clearly saw what it was doing. And yet it certainly _looks_ like he wants it, doesn't it?
 
 And what do we call people who obviously want to cause harm—especially when pretending it's good? How do we treat them?
 
-With *contempt*.
+With *contempt.*
 
-Which then gives that part of him *more* power.
+Which settles what he is. And once that's settled, whatever we do to him isn't harm anymore. It's what he *deserves.*
 
-It _benefits_ from you seeing it as something he wants. As something he *is*.
+**Contempt is the license we give ourselves to cause harm while feeling completely righteous.**
 
-That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him. 
+Which then gives that part of him *more* power. Because you'll have done to him the exact thing he did to you: flattened him into a monster so you don't have to look at what's inside.
 
----
+His dark part: it _benefits_ from you seeing it as something he wants. As what he *is*.
 
-Something in him felt the need to see you as irredeemable, even as a deeper part of him warned him you weren't—that what he was doing was harmful. 
+That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him.
 
-So he paved over it with justifications. But no matter how clever they were, look what happened: the harm came true.
-
-And what are the justifications we usually use? "Fine, maybe it will harm *him*, but at least other people will learn." Learn what? To fight with more contempt.
-
-That deeper part of him: it never stopped warning him. Which means now he's going to have an even harder time facing it, because of what he's done.
-
-So all he can do is try to shut it up harder. How? By behaving in ways that will "prove," beyond any doubt, that you really are bad. 
-
-Maybe then it will finally see.
+Can you imagine a world in which this was happening in *all* of us?
 
 ---
 
-The world has gotten slightly darker as a result of this interaction, and yet there's not a trace of evidence of anything wrong ever having happened.
+That deeper part of him: it never stopped warning him. *This* is what it was warning him about.
+
+Which means now he's going to have an even harder time facing it.
+
+All he can do is try to shut it up harder. How? By removing any last shred of doubt that you are what he says you are.
+
+By turning you into exactly what his darkness needs you to be.
+
+---
+
+The world has gotten worse as a result of this interaction, and yet there's not a trace of evidence of anything wrong ever having happened.
 
 It's not that the deeper part of you has been silenced. That's not how it works.
 
-Which means it's still there, quietly knowing what it knows.
+It's still there, quietly knowing what it knows, patiently waiting to be remembered.
+
+Just as it is in him.
 
 ---
 ---
 
 
+
+~~TODO: How do I know what this message is like? Because I've delivered it. Here's what it feels like on the delivering end.~~

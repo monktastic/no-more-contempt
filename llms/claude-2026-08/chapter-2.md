@@ -1,6 +1,24 @@
 ## Chapter II: The Descent
 
-Let me offer an experience from my own life.
+How do I know that the chilling taunt from the last chapter is accurate? *Because I've been on the delivering end more times than I'd like to admit.*
+
+Here's what it feels like from the inside.
+
+> I **know** there's evil in the world—almost like a force that's completely alien to me. I know that, because I've seen what people are capable of. And *I'm* not capable of that.
+> 
+> So when I catch the faintest whiff of it in someone else—perhaps something as minor as littering—I'm not simply going to let it go. It's *evidence* of something. I can feel it. And I'm going to reveal it for what it really is. It's a public service. The least I can do.
+> 
+> At some level, I know that my contemptuous tone isn't going to help anything. That there's something dark about it that I can't quite put my finger on. But I don't *let* myself know. And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
+> 
+> But for some reason, my target isn't taking it that way. He's *defiant.* I didn't want to believe this about him—but now what choice do I have? I was only trying to show him how much he should *care*, and look at how he went and took it.
+> 
+> Which means that my contempt was *justified.*
+> 
+> Now the kid gloves must come off.
+
+---
+
+Now let me offer a much more dramatic experience from my own life—the first that showed me the full depth of what I'm really capable of.
 
 ---
 
