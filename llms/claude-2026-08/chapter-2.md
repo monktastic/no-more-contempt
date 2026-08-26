@@ -6,25 +6,28 @@ Here's what it feels like from the inside.
 
 > I **know** there's evil in the world—almost like a force that's completely alien to me. I know that, because I've seen what people are capable of. And *I'm* not capable of that.
 > 
-> So when I catch the faintest whiff of it in someone else—perhaps something as minor as littering—I'm not simply going to let it go. It's *evidence* of something. I can feel it. And I'm going to reveal it for what it really is. 
+> So when I catch the faintest whiff of it in someone else—perhaps something as minor as littering—I'm not simply going to let it go. It's *evidence* of something. I can feel it. And I'm going to expose it for what it really is. 
 > 
-> It's a public service. The least I can do.
+> What I'm doing is a public service. It's the least I can do as a *good person*.
 > 
-> At some level, I know that my contemptuous tone isn't going to help anything. That there's something *dark* about it that I can't quite place. But I don't *let* myself know. And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
+> At some level, I know that my contemptuous tone isn't going to help anything. That there's something dark about it that I can't quite place. But I don't *let* myself know. 
+> 
+> And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
 > 
 > But for some reason, my target isn't taking it that way. He's *defiant.* 
 > 
 > Ugh. I didn't want to believe this about him—but now what choice do I have? I was only trying to show him how much he should *care*, and look at how he went and took it.
 > 
-> Which means my contempt was *justified.*
+> Which means my contempt was justified.
 > 
-> Now the kid gloves must come off.
+> If anything, I was too soft.
 
 ---
 
-Let me now offer a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me.
+Let me now offer a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
 
 ---
+## The trip
 
 *In this experience, I was taken back to a memory where I had ruthlessly mocked someone for having a different political opinion than me—an opinion that I knew was harmful. That's how I knew it was okay to do this to him. My goal was to stop him, and also dissuade others from following. And if it didn't do that, well, at least he'd be made to feel bad for being bad.*
 
@@ -98,19 +101,21 @@ But how?
 
 Do you think he was running a mental story of what a good person he was? How *virtuous?* If he was, you would have detected it, right? And then would it have had the same effect?
 
-He didn't have to tell himself a story, unlike the first person. And it is the *absence of a story* that you detected. It's how you knew he wasn't running away himself. And he didn't have to *do* anything to convey it—you just knew.
+He didn't have to tell himself a story, unlike the first person. And it is the *absence of a story* that you detected. It's how you knew he wasn't running away himself. And he didn't have to *do* anything to convey it—that absence conveyed itself too.
 
-If either of the two people could be said to have "fought evil," it's clearly him. And yet where's the evidence? There isn't any.
+If either of the two people could be said to have "fought evil," it's clearly him. And yet where's the evidence? There isn't any. Nor does he even likely think of it that way, because he wasn't looking at "evil." He knows he was just seeing a form of confusion.
 
-In both cases, something was *transmitted*—something difficult to pin down.
+In the case of both strangers, something was *transmitted*—something difficult to pin down.
 
 And this difficulty in pinning it down: it's not an accident. It's what allows the dark behavior to continue.
 
-Think about what happens when we try to fight evil. We correctly identify that it requires being fierce—and then, almost without noticing, let it devolve into contempt.
+---
+
+Think about what happens when we try to fight evil. We correctly identify that it requires being fierce—and then, almost without noticing, let it devolve into contempt. *Almost* without noticing.
 
 And it's not just a mistake that one particular "side" makes. It's something we've collectively agreed isn't a mistake at all. It's *righteous.* Necessary.
 
-What do you think that mistake is serving?
+That mistake—it isn't serving a side at all. It's serving something deeper and stranger.
 
 ---
-
+---

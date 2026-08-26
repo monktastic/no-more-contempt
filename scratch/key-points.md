@@ -1,4 +1,6 @@
 
+- It is EVIL. That's not a value judgement.
+
 - SEAL Team 6 and desecrating bodies.
 
 - Why would I want to stop corruption when I feel so good judging it?

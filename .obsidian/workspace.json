@@ -50,35 +50,91 @@
             }
           },
           {
-            "id": "4bcf876248d3f80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/claude-2026-08/chapter-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-2"
-            }
-          },
-          {
             "id": "39eddee789ae3e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-05/draft.md",
+                "file": "llms/claude-2026-08/TODOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "TODOs"
             }
           },
           {
-            "id": "7d434aaed7d78f06",
+            "id": "ee0bd8e766a296a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/key-points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "key-points"
+            }
+          },
+          {
+            "id": "155b1dea412994b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch/key-points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "key-points"
+            }
+          },
+          {
+            "id": "542f1a8bcae3e2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/misc/new-journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "new-journey"
+            }
+          },
+          {
+            "id": "3d24cbd452fd7db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/Prefaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prefaces"
+            }
+          },
+          {
+            "id": "f42f6d935cc5fcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_site/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "027618ff3c5154d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +146,37 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "3de328c007fa2648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
+            }
+          },
+          {
+            "id": "7f78f5152140fbca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/chapter-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-2"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -124,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"watch how I transmit\"",
+                "query": "\"turn away *from*\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +229,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,38 +326,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d9a15ad3aa4ef4f5",
+  "active": "027618ff3c5154d5",
   "lastOpenFiles": [
-    "llms/claude-2026-05/draft.md",
-    "_site/llms/claude-2026-05/draft.md",
-    "llms/claude-2026-08/TODOs.md",
-    "index.md",
-    "llms/claude-2026-08/chapter-2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 4.md",
     "llms/claude-2026-08/chapter-1.md",
-    "_site/llms/claude-2026-08/chapter-1.md",
-    "llms/claude-2026-08/stuff-not-to-lose.md",
-    "llms/claude-2026-08",
-    "llms/claude-2026-05/whats-different.md",
-    "llms/claude-2026-05/outline.md",
-    "llms/claude-2026-05",
-    "Untitled 3.md",
-    "_site/llms/claude-2026-08/stuff-not-to-lose.md",
-    "_site/llms/claude-2026-08/chapter-2.md",
-    "_site/llms/claude-2026-08/TODOs.md",
-    "_site/llms/claude-2026-08",
-    "_site/llms/claude-2026-05/whats-different.md",
-    "_site/llms/claude-2026-05/outline.md",
-    "_site/llms/claude-2026-05",
-    "llms/claude-v4/chapter-1.md",
-    "scratch/key-points.md",
-    "llms/chatgpt-contempt-recursion.md",
+    "_site/index.md",
     "scratch/short.md",
-    "scratch/intros.md",
-    "llms/all-insights.md",
-    "scratch/key-points-old.md",
+    "llms/claude-v5/chapter-1.md",
+    "llms/chatgpt-contempt-recursion.md",
+    "llms/claude-2026-08/chapter-4.md",
+    "llms/claude-2026-08/chapter-2.md",
+    "index.md",
+    "llms/claude-2026-08/chapter-3.md",
+    "_site/llms/claude-v3/poem-todo.md",
+    "llms/claude-2026-08/Prefaces.md",
+    "llms/claude-v4/chapter-0.md",
+    "scratch/key-points.md",
+    "llms/claude-2026-08/TODOs.md",
+    "llms/claude-2026-05/draft.md",
+    "bbcdbfde32aef079229501bc2a65b3bfae4e7f1b.md",
+    "d62d5b6533666cfb42a1e0781f2ffa0ee33cc46f.md",
+    "e168745a0821e2ac133e836bd526f7a8cbbd1d1c.md",
+    "995ac7c8858a808c2564a7632420c0314b8df02e.md",
+    "de51c592abe90411ccd2ec00ee19a124659f2eb2.md",
+    "llms/misc/new-journey.md",
+    "llms/misc/gemini-favorite-2026-08-26.md",
+    "llms/misc/gemini-favorite-1.md",
+    "llms/misc/claude-praise.md",
+    "llms/misc/claude-feedback.md",
+    "scratch/for-systems-thinkers.md",
+    "llms/claude-2026-08",
+    "llms/claude-2026-05",
+    "_site/llms/claude-2026-08",
+    "_site/llms/claude-2026-05",
     "_site/llms/claude-v5/Untitled",
     "_site/jekyll/update/2023/11/10/welcome-to-jekyll.html",
     "_site/jekyll/update/2023/11/10",
