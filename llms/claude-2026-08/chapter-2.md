@@ -6,19 +6,23 @@ Here's what it feels like from the inside.
 
 > I **know** there's evil in the world—almost like a force that's completely alien to me. I know that, because I've seen what people are capable of. And *I'm* not capable of that.
 > 
-> So when I catch the faintest whiff of it in someone else—perhaps something as minor as littering—I'm not simply going to let it go. It's *evidence* of something. I can feel it. And I'm going to reveal it for what it really is. It's a public service. The least I can do.
+> So when I catch the faintest whiff of it in someone else—perhaps something as minor as littering—I'm not simply going to let it go. It's *evidence* of something. I can feel it. And I'm going to reveal it for what it really is. 
 > 
-> At some level, I know that my contemptuous tone isn't going to help anything. That there's something dark about it that I can't quite put my finger on. But I don't *let* myself know. And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
+> It's a public service. The least I can do.
 > 
-> But for some reason, my target isn't taking it that way. He's *defiant.* I didn't want to believe this about him—but now what choice do I have? I was only trying to show him how much he should *care*, and look at how he went and took it.
+> At some level, I know that my contemptuous tone isn't going to help anything. That there's something *dark* about it that I can't quite place. But I don't *let* myself know. And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
 > 
-> Which means that my contempt was *justified.*
+> But for some reason, my target isn't taking it that way. He's *defiant.* 
+> 
+> Ugh. I didn't want to believe this about him—but now what choice do I have? I was only trying to show him how much he should *care*, and look at how he went and took it.
+> 
+> Which means my contempt was *justified.*
 > 
 > Now the kid gloves must come off.
 
 ---
 
-Now let me offer a much more dramatic experience from my own life—the first that showed me the full depth of what I'm really capable of.
+Let me now offer a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me.
 
 ---
 
@@ -78,7 +82,7 @@ Now let me offer a much more dramatic experience from my own life—the first th
 
 *The knowledge that all the carnage of the world is caused by a mistake that I myself often make—and that my unkind behavior reinforces—is far too horrifying for my defended mind to handle. But as long as I avoid it, I have no choice but to treat evil as fundamentally alien to me—and to treat its perpetrators with contempt.*
 
-*The lesson was clear: if I didn't get back on the "right track," I would continue adding to the burden of the world, even as I was flawlessly confident I was helping. And there was always the possibility that I would slip past the point of no return. A place where others would see **me** as irredeemably evil, and in their confusion, shove me deeper in while feeling righteous about it.*
+*The lesson was clear: if I didn't get back on the "right track," I would continue adding to the burden of the world, even as I was flawlessly confident I was helping. And there was always the possibility that I would slip past the point of no return. A place where others would see **me** as irredeemably evil, and in their confusion, shove me deeper in while feeling righteous for it.*
 
 *And what was this "right track"? It was astonishingly simple. All I had to do was stop hiding things from myself. Stop willfully overlooking the **life** in others—my profound commonality, equality with them.*
 
@@ -106,7 +110,7 @@ Think about what happens when we try to fight evil. We correctly identify that i
 
 And it's not just a mistake that one particular "side" makes. It's something we've collectively agreed isn't a mistake at all. It's *righteous.* Necessary.
 
-What do you think that's serving? Does it help any particular "side"? Or is it helping *something else?*
+What do you think that mistake is serving?
 
 ---
 
