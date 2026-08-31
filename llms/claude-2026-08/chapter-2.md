@@ -75,9 +75,9 @@ Let me now offer a much more dramatic experience from my own life—the first th
 
 ---
 
-*I next recalled looking into the eyes of "evil people." That dehumanizing gaze. It had always felt like they were somehow absent, or "turned away" from themselves. Now I finally recognized what I had been looking at. Why they had to "turn away" to do what they did.*
+*I next recalled looking into the eyes of "evil people." That dehumanizing gaze. How it had always felt like they were absent or "turned away" from themselves. Now I finally recognized what I had been looking at. Why they had to "turn away" to do what they did.*
 
-*The parallel with my earlier taunting of my enemy was impossible to miss. That terrifying predatory quality—it may have been a million times weaker there, but it was unmistakably the same thing. Carried the same flavor. That "righteous" enjoyment of causing harm.*
+*The parallel with my earlier taunting of my enemy was impossible to miss. That terrifying predatory quality—it was **identical** in both cases, if vastly different in intensity. It carried the same flavor. That "righteous" enjoyment of causing harm.*
 
 *Of **course** it had to feel righteous. Righteousness is what I actually wanted. The only way I was willing to turn away from it was if the counterfeit—the reasons I used to justify turning away—felt "righteous" too. The further I drifted, the more different the genuine and counterfeit felt—but only if I could compare them side-by-side. And yet the deeper I got lost, the less access I had to the real thing, so the less I could. No wonder it was so easy to lose one's way.*
 
@@ -111,11 +111,11 @@ And this difficulty in pinning it down: it's not an accident. It's what allows t
 
 ---
 
-Think about what happens when we try to fight evil. We correctly identify that it requires being fierce—and then, almost without noticing, let it devolve into contempt. *Almost* without noticing.
+Think about what happens when we try to fight evil. We correctly identify that it requires being fierce—and then, almost without noticing, let it devolve into contempt. *Almost*.
 
 And it's not just a mistake that one particular "side" makes. It's something we've collectively agreed isn't a mistake at all. It's *righteous.* Necessary.
 
-That mistake—it isn't serving a side at all. It's serving something deeper and stranger.
+That mistake—what might it be serving?
 
 ---
 ---

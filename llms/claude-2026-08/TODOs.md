@@ -1,8 +1,10 @@
 ## Ch 1
 
-On evoking the parasite:
+"He's teaching you to turn away from what you know in favor of what you can prove—by turning away from what he knows in favor of what he can prove.
 
-**Location: one block, immediately after "That leaves... what? His tone; his gaze; his mannerisms. Exactly the things you used to detect it."** Then resume with "And think back on exactly what it was that made you dig in."
+Which is something you know but cannot prove."
+
+On evoking the parasite:
 
 Six beats, in this order:
 
@@ -96,3 +98,58 @@ Derive the constraints for the second stranger.
 
 
 This one didn't stand to gain from it. If anything, it cost him. It let the world know he could be held to the same standard.
+
+---
+---
+## Chapter 3
+
+Nothing in ch1 required that the contemner thought that harming you was wrong. (Avoids the claim that the "bad people" are different, because they can do it even while knowing it.)
+
+It's almost impossible not to reveal it to someone you hate, isn't it?
+
+The asymmetry: assuming they must see their own darkness.
+
+> _I know I could choose to rescue that part of you while still serving justice. But I could also choose to quietly smother it, and no one will blame me for it._
+
+
+**6. The licensing terminus, compressed:** _smothering their light to know they don't have any._ Better than anything in G4.
+
+**7. The accurate-perception precision:** _And you perceive this as **evil**—something I must fully see._ That's your sharpened insight with the error located exactly: your perception is correct, and the only false step is assuming he sees it too.
+
+**8. The faith-robbing mechanism, from inside:** _The part that knows I'm creating a darker world cannot prove it, while the part that's darkening it can prove that I'm not._ Compact, and it's why the demotion is rigged rather than neutral.
+
+**9. Two phrasings worth stealing outright:** _deafeningly obvious from the inside, but invisible from the outside_, and — as a transition — _That gap: what does it make possible?_ The second is nearly a thesis statement for the whole book.
+
+**10. Filed for later, not Ch1:** the unnameability defense (_that's why I'm using phrases like "better nature" and "conscience"… I can't prove it's real, that's the whole point_) answers the objection your vocabulary will draw. And _if you could taste the two side by side, they'd feel nothing alike; all they share is the label_ is the two-righteousnesses argument.
+
+---
+
+
+
+
+
+
+[It's what we are.]
+
+
+The maximal version of this obstruction or turning away is what we call evil. Ultimately, it is not a presence but a kind of absence-- and yet, when we look carefully, we find that it behaves like a presence.
+
+
+
+
+
+
+Here's the real tragedy of it—which is also the greatest cause of hope.
+
+*We don't do this because we're bad people.*
+
+That may sound like I'm just trying to console you. What *else* do you call someone who *pushes other people into darkness just so that they can hide their own?*
+
+But that's exactly the trap: *shame.*
+
+The thing we try to do to the "bad people" is to prevent them from ever turning toward the one part of themselves 
+
+
+The fact that this book can be written at all should tell you something: that *this mechanism can be punctured*. That what begins in limbo must not necessarily stay in limbo.
+
+In fact, it *cannot* forever stay in limbo. 
