@@ -1,10 +1,25 @@
 ---
 ---
+Say you're my political enemy. I see you as a *bad person*, and treat you like one, by mocking, shaming or judging you. I tell myself this will help somehow. Maybe by getting you to reflect on what a bad person you are so that you'll change—or, barring that, then at least by dissuading others from joining you.
 
-> _For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it._
-> 
-> — The Gospel of Philip, 3rd century
+But does it make you a better person? Or does it just make you see me as a bad one, so that you feel even more convinced of your own position?
 
+And when you do dig in, what does that tell me about you? That you're the kind of person who's not even capable of change. Because I did my best, and look what happened. Which means I was right about you. I treated you with contempt because I knew you were beyond help, and you went and proved me right.
+
+Do you think that's a coincidence? That the thing I suspected you of is what I turned you into?
+
+Look what I get from it: proof that my enemies can't be reasoned with, so that I don't have to feel guilty for how I'm treating them. And the self-serving aspects of my own agendas: I'll have an easier time overlooking them. They're not *selfish*, I'll tell myself—they're necessary.
+
+Here's what's really happening.
+
+Part of me knows perfectly well that you're not inherently bad—that you cause harm for the same basic reason I do; using the same mechanism. You must turn away from your conscience, just as I do. Which means you *have* one.
+
+But that's uncomfortable. It suggests that under the right circumstances, I might be capable of what you are. So I need to see you as something fundamentally *different*. How? By turning you into it.
+
+But if I were consciously aware I were doing this [...]
+
+
+---
 ---
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment to boost your ego, took credit for someone else's work, or cheated on a test (or even partner).

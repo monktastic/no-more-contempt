@@ -1,4 +1,4 @@
-
+# Conspiracy evidence
 ## Who's behind all the outrage?
 
 Who's directing all the outrage? Is there some central coordinating agency? Even sitting at home feeling contempt for a faraway politician spreads it. Distributed intelligence thanks to common knowledge.
