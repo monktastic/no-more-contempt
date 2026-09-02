@@ -14,7 +14,7 @@ Looking back, can you sense that *some part of you knew exactly what you were do
 
 Try to recall how you knew it was wrong in the first place.
 
-Whatever it was, it arrived *before* you'd done any calculations, right? The part of you that knew: it couldn't say exactly how it knew, because it wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
+Whatever it was, it arrived *before* you'd done any calculations, right? The part of you that knew: it couldn't say exactly how it knew. It wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
 Why did one side have to argue, and the other not?
 
@@ -37,7 +37,7 @@ How much of human behavior might be taking place from some degree of limbo?
 
 Imagine that while you were in that state—doing wrong, justifying it, half-knowing—a stranger had caught you and publicly chastised you for it. Not just for doing something wrong, but for *being the kind of person who does*.
 
-You've been in similar situations before. Really visualize it, and how it plays out. When you try to exonerate yourself—not your behavior, necessarily, but what kind of person you are—what happens? Does he just let you go?
+You've been in similar situations before. Really visualize it, and imagine it playing out. When you try to exonerate yourself—not your behavior, necessarily, but what kind of person you are—what happens? Does he just let you go?
 
 And that behavior: does it make it *easier* or *harder* to confront what you already knew?
 
@@ -78,22 +78,24 @@ We never say "I'm going to ignore my conscience." Instead, it feels like the wor
 
 But what exactly did the first stranger do to cause this? And did he know he was doing it?
 
-Well, what does contempt license? Once you believe "this is all you are" about someone, how does that enable you to treat them? Is there any bottom to it?
+Notice how there's nothing you can point to and say "that was the cause." If harm comes from being treated harshly, then he should have caused *less* harm than the second stranger. But he didn't. And it's true that being made to feel that *this is all you are* is harmful—but he never said those words, did he? And yet you could sense it immediately. Something else delivered it.
 
-But it's worse than that. Recall what happens when you try to exonerate yourself in such situations. Deny it, and you're exactly the kind of person who does. Get angry, same thing: proof. Stay calm, and you don't even care. Apologize, and it's too convenient.
+And just why is contempt harmful? Well for one thing, look what it licenses. Once you believe "this is all you are" about someone, how does that enable you to treat them? Is there any bottom to it?
+
+But it's worse than that. Recall how it would have played out had you tried to exonerate yourself. Deny it, and you're exactly the kind of person who does. Get angry, same thing: proof. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
 Every road funnels into the same conclusion.
 
 Contempt doesn't just permit harming someone who deserves it. It shapes them into the kind of person who does.
 
-We all know this is how it works, on some level. But did he know that while he was doing it?
+(We all know this is how it works, on some level. So he surely knew it too. But did he know it *while* he was doing it? This is where things get strange.)
 
 ---
 ## The Tell
 
 On one hand, what he was doing certainly *felt* intentional, didn't it? Something about his tone and gaze gave it away instantly, even if his words didn't.
 
-How could it be purely accidental? He has to track your reactions, navigate around obstacles, and prevent you from wriggling out and exonerating yourself.
+And the longer it went on, the more obvious it was that wasn't accidental. He had to track your reactions, navigate around obstacles, and prevent you from wriggling out and exonerating yourself.
 
 It's as if some part of him *needed* you to be exactly what he said you were, and was working hard at proving it. Could you feel that?
 
@@ -101,33 +103,69 @@ On the other hand, how could it actually *be* intentional? If he knew he was pla
 
 So he couldn't be fully aware of his own need, let alone that he was working so hard at fulfilling it. To him, it didn't feel like a need; it just felt obviously true.
 
-And yet his behavior couldn't have been purely unconscious either. Not only could it not be so precisely guided, but he'd be embarrassed or confused if you pointed it out. Instead, this *intensifies* in exactly the way needed to keep itself hidden.
+But his behavior couldn't have been purely unconscious either. Not only could it not be so precisely guided, but he'd be embarrassed or confused if you pointed it out. Instead, this kind of behavior *intensifies* in exactly the way needed to keep itself hidden.
 
 What does that remind you of?
 
 *Limbo.* He knew what he was doing, and he didn't.
 
-You weren't just sensing that he's the kind of person who deceives himself in general. You were sensing that he was doing it right then, in the act of judging you. He was judging you *from* the very state he was judging you *for*. 
+You weren't just sensing that he's the kind of person who deceives himself in general. You were sensing that he was doing it right then, in the act of judging you. He was judging you *from* the very state he was judging you *for*.
 
 ---
 
-So he knew-and-didn't-know what he was doing. But what is it that he *was* doing? He had to do *something* to get a reaction from you, didn't he?
+But what was he deceiving himself *about?* Whatever it was, it clearly had moral content. That's what limbo is for.
 
-Think back on exactly what it was that made you dig in. You felt both that it was intentional, and that there was no part of him you could appeal to, right? And both halves together produced a maddening quality. You _knew_ he was up to something, but couldn't prove it—and you couldn't let that stand.
+So some part of him sensed that he was doing something wrong. But what was it? Well, *shaping you into the kind of person who deserves harm* would certainly qualify, wouldn't it?
 
-If it had looked unintentional, you might have forgiven or pitied him instead. And if he had offered you something to appeal to or accuse in return, the sting would have gone out of it: even if he denied your accusations out loud, you would at least have known that it registered somewhere.
+Look at it this way. He "knows" you're a bad person—irredeemable—which is why he thinks his behavior is okay. Because what's wrong with treating an irredeemable person with contempt? It's not like it will make them worse. On the other hand, he's working pretty hard to prove something he already knows. Why do that—*unless some part of him suspects it isn't true?*
 
-So that precise combination—causing harm; appearing intentional (as if there's "someone behind the wheel"); and yet with no part of him to appeal to—was both necessary to accomplish the job, and as we saw, sufficient.
+*That's* what his conscience is warning him about: that you don't deserve this. That you're not actually beyond help. That you have to be in limbo to cause harm, just as he does—meaning that you have a conscience, but sometimes have trouble following it, which he's now making harder.
 
-Which is to say: in addition to being in limbo, he had to show you that he was. And not just any limbo—the one he was in right then, about _you_. He had to show you that he knew what he was doing to you was wrong, and was doing it anyway.
+He's in limbo *about the fact that you're in limbo*.
 
-Now look at how tight a bind he's in. He has to cause harm without doing anything that will reveal that he is—crucially, *even to himself*. Otherwise, when he looks back on it, he'll realize it was his fault. So he can't be overtly cruel. He has to show you that he's *intentionally* doing it—while not letting _himself_ see it.
+But why? Why does he *need* you to be bad? Sure, it will post facto justify his nasty behavior, but where does that need come from?
+
+---
+## The Motive
+
+Consider this.
+
+What would it be like to discover that your enemies—the *bad people*—aren't inherently different from you? That they cause harm for essentially the same reason you do—not because they're inherently bad, but because we *all* struggle to do what's right sometimes.
+
+It would mean they're fundamentally redeemable—and that your contempt has only been making them worse, all for the "benefit" of proving that you're nothing alike. 
+
+And you did it while knowing there was a better way: what the second stranger did. A way that might actually improve them, at the cost of giving up the feeling of being *morally superior*.
+
+What would it be like to learn that not only were you doing this, but that it was never truly unconscious? That some part of you knew exactly what you were doing, even as you did it?
+
+That would be pretty uncomfortable to learn, wouldn't it?
+
+So uncomfortable, in fact, that you might not allow it into full conscious awareness.
+
+---
+## The Constraints
+
+So he needs you to be bad because at some level he knows you're not. Which means he must provoke you into doing something that will *prove* to his conscience that you are, beyond any doubt.
+
+And how does he do that? By making you dig in, in response to behavior that he genuinely perceives as righteous.
+
+But how? Look how tight a bind he's in. He has to cause harm without doing anything that will reveal that he is—crucially, *even to himself*. Otherwise, when he looks back on it, he'll realize it was his fault. So he can't be overtly cruel.
 
 That doesn't leave him much to work with. Nothing that can be audited. Which leaves... what, exactly? His tone; his gaze; his manner. Exactly the things you used to detect it.
 
-So he couldn't do it verbally. He had to somehow *telegraph* it.
+Think back on exactly what it was that made you dig in. You felt both that it was intentional, and that there was no part of him you could appeal to, right? And both halves together produced a maddening quality. You *knew* he was up to something, but couldn't prove it—and you couldn't let that stand.
 
-But how the heck do you telegraph a state that, by definition, you cannot be fully aware you're in? And not just any state—that exact one: _I know what I'm doing to you is wrong, and I'm doing it anyway._ How do you send that in a glance, before a word is said, when you can't know you're sending it?
+Both halves were necessary. If it had looked unintentional, you might have forgiven or pitied him instead. And if he had offered you something to appeal to or accuse in return, that would have taken out the sting: even if he denied it out loud, you would at least have known that it registered somewhere.
+
+**So what he was conveying was his own hypocrisy**—that he was judging you for something that he himself was doing. That part of him knew that. And that *the part that knew it was sealed off from you.*
+
+He was somehow conveying that the part of him that knew what he was doing was unavailable for you to accuse—because it was hidden from *him.*
+
+In other words: all he had to show you was that he *was* in limbo. Not limbo in general—the one he was in right then, about _you_. Nothing additional was required.
+
+But how the hell do you reveal something to someone else that's hidden from you? And not just anything—that exact thing: *I know what I'm doing to you is wrong, I know it will turn you into what I need you to be, and I'm doing it anyway*.
+
+How do you send that in a glance, before a word is said, when you don't even know you're sending it?
 
 ---
 ## The Mechanism
@@ -136,9 +174,7 @@ Recall what limbo is: being turned away from your conscience. The reason we don'
 
 When we're lost in this state—and when it's *aimed* at someone—it has a certain "tell."
 
-Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves? *That's* what you're looking at. They're absent from the part of them that would have *seen* you. (The fact that turning away from *oneself* and from *one's conscience* are the same thing—that's important, and we'll return to it later.)
-
-It's the same thing you're seeing in the stranger now, if in a milder form.
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves? *That's* what you're looking at. They're absent from the part of them that would have *seen* you. It's the same thing you're seeing in the stranger now, if in a milder form. (And the fact that turning away from *oneself* and from *one's conscience* are the same thing—that's important, and we'll return to it later.)
 
 Try this: go out in public, find a stranger, and shoot them a dehumanizing gaze. It's hard to actually do, isn't it? And ask what's stopping you. Is it just how you'll look? Or is it that you know exactly how it will land on them—something you don't want another human to feel? Because you know what it's like to *be* them.
 
@@ -146,17 +182,18 @@ You can only do it with a reason telling you *this is okay*. Exactly what he's t
 
 Turning away from himself; from his humanity; from *your* humanity; from the knowledge of what it will do to you—it's all a single move. And you recognize it even though he doesn't. _Because_ he doesn't.
 
-Which means he doesn't have to do anything extra to telegraph it. He doesn't even have to know that he *is.* The state telegraphs *itself.* That's why you suspected it even before the encounter fully unfolded.
+Which means he doesn't have to do anything extra to telegraph it. He doesn't even have to know that he *is.* The state telegraphs *itself*. That's why you suspected it even before the encounter fully unfolded.
 
 Simply by maintaining that state, in which he *needs* you to be bad, something in him accomplishes his goal for him.
 
 It aims. It reads your reactions. It closes every road but one. It shows you a man with nobody home. It leaves no mark on any record. And it does all of that while he stands there certain he is doing you a favor.
 
-But strangest of all: it knows you will recognize all this for what it is.
+But strangest of all: it knows you will recognize all this for what it is. Which you did—instantly, even before the funneling. Not just that something was off, but *what* was off. 
+
+How?
 
 ---
-
-And you did—instantly, even before the funneling. Not just that something was off, but *what* was off. How?
+## Common Knowledge
 
 *Because you've been there yourself, haven't you?*
 
@@ -177,29 +214,13 @@ Because a deep part of you already knows this about everyone. I didn't teach you
 He can count on you to know it because it is *common knowledge.* That's why he can depend on his approach to work.
 
 ---
-## The Motive
+## The Loop
 
-Now we see why he was working so hard to prove that you're bad—something he supposedly already knows: it's because *he knows it's false.*
+But he has a problem. The more he does this, the worse his problem gets. The more part of him realizes that *he's the bad guy.*
 
-*That's* what his conscience is warning him about. Some part of him knows that you can only cause harm by turning away from *your* conscience. And because he's been on the receiving end of contempt before, he knows that his behavior is likely to turn you away further. Which means **he's causing genuine harm**.
-
-It's also why he's been refusing to listen to it.
-
-Imagine what it would be like to discover that your enemies aren't fundamentally different from you. That they cause harm for essentially the same reason you do—not because they're inherently bad, but because we *all* struggle to do what's right sometimes.
-
-It would mean they're redeemable—and your contempt has only been making them worse people, all for the "benefit" of proving that you're nothing alike. The very thing he suspects now.
-
-And that just. Can't. Be.
-
-So he does what he must: behaves in a way that will prove him right. That will finally show his conscience that it's wrong; that you *do* deserve this after all.
-
----
-
-The problem is, this only makes his problem worse. Because now he isn't just looking at someone whose behavior he himself is capable of; he's watching himself do it to them while blaming them for it. Accusing them—you—of being *fundamentally different*.
-
-Which forces him to overlook your humanity even harder. Which his conscience registers and warns him about. Which increases the pressure to prove he's nothing like you. Which is what reveals to you—and to part of him—that he is, because it's his only way to make you *bad*. Which you clearly sense, threatening to expose the whole ruse.
+Which increases the pressure to prove he's nothing like you. Which he can only do by revealing to you that he *is.* Which makes you increasingly sense the whole thing as a ruse, threatening to expose it. Which forces him to hide it from himself even harder, by overlooking your humanity even more. Which his conscience registers and warns him about.
  
-Which forces him to overlook your humanity even harder...
+Which increases the pressure to prove he's nothing like you...
 
 ---
 
@@ -216,17 +237,20 @@ And that is what makes him forget there's a better way. That he could do what th
 
 Now we come to the strangest part: what, exactly, is it in him that's doing all this?
 
-Remember that it seems intentional; calculating; goal-driven. And it *presents itself as such* to you while hiding itself from him. In fact, not just *while* hiding itself from him. It reveals to you *that it is* hiding itself from him.
+Remember that it seems intentional; calculating; goal-driven. And it *presents itself as such* to you while hiding itself from him. In fact, not just *while* hiding itself from him, but *by* hiding from him. It reveals to you *that it is* hiding itself from him.
 
-Which means it can't exactly be him in the usual sense. And yet nothing about it feels foreign to him. He feels entirely like himself. Everything is available to him, except one thing—*what he's actually doing.*
+So it can't exactly be him in the usual sense. He *cannot* be aware of its operation. And yet in another sense, it clearly *is* him. It's not as though he's unconscious or in a haze. He feels fully lucid, entirely like himself.
+
+Everything it's doing, it is doing *through* him—as though he is its *vehicle.*
 
 So what the hell is it?
 
 It behaves like an agent, so I'll refer to it as one. I'll call it his "dark" part, or just his "darkness"—both because it's hidden from him, and because of what we're about to see.
  
 ---
+## The Taunt
 
-His darkness is showing you all this in a way that renders it totally unmistakable, yet without giving you anything to grab onto to prove it.
+It's showing you what it is doing in a way that renders it totally unmistakable, yet without giving you anything to grab onto to prove it.
 
 It's like a parallel layer of communication happening *beneath* the words—one that can't be recorded on any ledger or in any transcript, and yet is louder than the stuff that can.
 
@@ -235,9 +259,8 @@ Could you have named what was happening out loud? What would you have said—*yo
 You both knew that, too.
 
 ---
-## The Taunt
 
-So his agent is doing his "dirty work" for him. And it doesn't merely act *on* you. It *addresses* you—without giving you anything to address in return.
+So his dark part is doing his "dirty work" for him. And it doesn't merely act *on* you. It *addresses* you—without giving you anything to address in return.
 
 It communicates something like this:
 
@@ -313,7 +336,7 @@ And treating him that way gives that part of him *more* power, because you'll ha
 
 **His dark part: it benefits from you seeing it as something he wants. As something he *is*.**
 
-That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him.
+That's how it keeps itself alive: by convincing him it doesn't exist in him, while ensuring you see it *as* him. And the more power it gets, the more convincingly it looks like it is him.
 
 **This is why none of us ever recognize it operating in ourselves**. It hides itself perfectly from our own minds while revealing itself to others, compelling them to righteously attack us for it, thereby enabling ours to hide itself better from us.
 
@@ -339,5 +362,4 @@ Just as it is in him.
 
 I cannot prove any of this to you, but I suspect some part of you already knows it. If you recognized it, that's the evidence.
 
----
 ---

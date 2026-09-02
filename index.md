@@ -1,32 +1,40 @@
+## Preface
+
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it.* —The Gospel of Philip
 
 ---
 
-Something inside you cares. *Profoundly.* About other people, about the world around you. So it's painful to look around and see people who seem not to. Who put their own interests ahead of everyone else's. Who knowingly cause harm. You know the people I'm talking about.
+Bring to mind the worst people in the world. Maybe someone from a news story that made you truly enraged; one where innocent people were hurt. *How can people do this and sleep at night?*
 
-How does it make you feel about them? How does it make you want to treat them?
+How do you feel about the perpetrators? How do you want *them* to feel?
 
-Your profound care: does it dissolve in their presence? I know mine does. Something in me wants to *hurt* them—quite independently of any good it might do. It's painful to admit, but there it is.
+Maybe you ascribe their behavior to a force called _evil_—something they have that we don't. Or maybe you see it as a profound form of confusion. Either way, there's a feeling: there's something _fundamentally different_ about them. _I_ could never do that. I'm made of _better stuff._
 
-Here's the conundrum. Fighting for what matters—it requires force. Sometimes even violence. How do we know when we've crossed the line? When we've stopped serving what *matters*, and started serving something else?
+If we're honest, there's a part of us that would love nothing more than to see them hurt—*quite independently of any good it might do*. Over and above the justice it would serve. Check and see if that's true.
 
-However we may try to answer that question—whatever rules we may try to pin down—it never quite captures the full essence, does it? For any definition you might propose about what "good" behavior looks like, there's *always* a way to exploit it. To follow the letter of the law while violating its spirit.
+Or here's a test. Say you could either deliver the punishment they so richly deserve, or give them a pill that magically enlightens them—ending the threat, but no punishment at all. Forget the "right" answer. Isn't there a flicker in there just *itching* to mash that first button?
 
-We know this is something the "bad people" do. It's why we hate them. But the truth is, something in **every one of us** is constantly searching for a way to do it. To bend those rules for our own benefit. That's the part of us we unleash on the "bad people"—to hurt them—telling ourselves it's different when we do it. *And that's the license we hand them to do it more.*
+I know there is in me.
 
-Here's the challenge: I want to describe exactly how that mistake functions. But any way I might try to pin it down, it just turns into another rule—something the "dark" part of us can exploit or poke holes in. So all I can do is point at it and ask you to look honestly.
+But who cares, right? It's not like we'd ever act on it. And if it's just sitting there, confined to our skulls, then how could it matter? There's no way it could have any effect on the world.
 
-The part of you that cares: it will recognize what I'm pointing at. But it won't be able to *define* it. Defining it *is* the trap. It's why most projects, ideologies, and systems we design to solve the problem only make it worse. We've designed them to follow definitions while exploiting the gap those definitions create. The mistake doesn't lie in anything we can pin down—*and that's by design*.
+Except that it does. Because that belief—I'm nothing like them—doesn't just stay in our heads. It leaks into the world. It designs our institutions, our politics, our justice systems. It compels us to behave in ways that reproduce the very thing we hate, locking us into a loop that creates a world full of "evil people" who we can be sure we're nothing like. 
 
-So here's what I'll do. I'll gesture at the part that cares. I'll try to evoke what it's saying, beneath the words. Because it already knows what I'm about to tell you. If I pretended to be morally superior to you, or to know something you don't, I'd be doing to you exactly the thing I'm claiming to warn you about.
+The idea that the "dark" part of us is confined to our skulls—that's the lie it feeds us *so that it **can** leak out and cause that structural damage.*
 
-If you look and recognize what you find, that's the evidence, and I couldn't have planted it. If you don't, it's better that you don't believe me than simply nod along.
+You may have heard versions of this before and dismissed it. *Where's the evidence?* 
 
-It's easiest to see in small things, so that's where we'll start.
+I want to show you exactly how it works. How a hidden impulse inside us expresses itself in the systems around us.
+
+Nothing here will ask you to soften what you see, forgive what shouldn't be forgiven, or pretend the harm isn't real. If anything, you'll end up seeing more clearly what's wrong—how our individual blind spots work together to create broken systems we can't seem to fix.
+
+I can't argue you into this, and you should be wary of anyone who tries. What I can do is take you to the places where you can see it for yourself—in your own memory, where you have evidence I couldn't have planted.
+
+If you look and recognize what you find, *that's* the evidence.
+
+Let's start with small examples, since that's where this is easiest to see.
 
 ---
----
-
 ## Chapter 1: Limbo
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
@@ -43,7 +51,7 @@ Looking back, can you sense that *some part of you knew exactly what you were do
 
 Try to recall how you knew it was wrong in the first place.
 
-Whatever it was, it arrived *before* you'd done any calculations, right? The part of you that knew: it couldn't say exactly how it knew, because it wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
+Whatever it was, it arrived *before* you'd done any calculations, right? The part of you that knew: it couldn't say exactly how it knew. It wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
 Why did one side have to argue, and the other not?
 
@@ -369,8 +377,6 @@ Just as it is in him.
 I cannot prove any of this to you, but I suspect some part of you already knows it. If you recognized it, that's the evidence.
 
 ---
----
-
 ## Chapter II: The Descent
 
 How do I know that the chilling taunt from the last chapter is accurate? *Because I've been on the delivering end more times than I'd like to admit.*
@@ -491,8 +497,6 @@ And it's not just a mistake that one particular "side" makes. It's something we'
 That mistake—what might it be serving?
 
 ---
----
-
 ## Chapter 3
 
 There is nothing more primally, viscerally satisfying than violently punishing evil.
@@ -596,42 +600,3 @@ It is to *get better*.
 That is the one thing we must never allow.
 
 ---
----
-
-## Chapter 4
-
-There's a faculty we each have that lets us perceive the sacredness in each other and in our natural world. It's what we've been calling "conscience"—and its job is so much subtler than just telling us "right" from "wrong."
-
-But this faculty can be obstructed, and in all of us it has been, to one degree or another. In its most extreme form we call this "evil." It's what's behind all the devastation we see around us. Behind all the ways humans mistreat each other and our living planet.
-
-Its true nature is a kind of absence, not a presence—and yet, as we saw, it still *behaves* as a presence. And this distinction isn't just philosophical. It's the reason fighting it is so difficult.
-
-When we treat it as a mere absence, we don't confront it with the directness or fierceness required of us. But when we see it as a real presence, we can't help but treat its host with profound *contempt*—and we just saw where that leads. That is a trick it uses to license our own.
-
-And notice what our darkness—this "presence"—benefits from. The darker the world as a whole gets, the more each of us feel justified in harboring a bit of our own. We tell ourselves it's there to protect us; to help us fight the "real" darkness out there.
-
-Which means that yours and mine ultimately want the same thing. 
-
-They're not actually fighting each other. When I treat you with contempt, mine isn't fighting yours. They are teaching each other how to gain deeper access to our minds. How to hide from us better. They are *collaborating.*
-
-Now think of all the behavior that falls short of what we call "evil." All the corruption, the self-serving agendas, all the self-deception people engage in to benefit themselves at the world's expense.
-
-Then think of how much we *hate* them for it. Not just their behaviors, but *them.* What does it enable in us?
-
-I'll tell you what it enables in me. I feel more justified in cheating the corporations and governments; in taking a bit more for myself because *it's nothing compared to what **they're** doing.*
-
-It's as if our dark parts are collaborating across vast distances.
-
-So what to do about all this?
-
-Here's the secret: that faculty—the one that lets you perceive the *life* in others; your profound commonality with them—it's not just a faculty you have. It's what you most fundamentally *are.*
-
-The darkness: it is a *parasite.* And like all parasites, it can be evicted.
-
-The more I evict mine from myself, the more I recognize your behavior for what it is. The more I recognize you for what you are. The less I make the mistake of "righteously" empowering your parasite.
-
-That's what turns this whole thing around.
-
-To whatever degree I don't see this—to whatever degree I still believe that some people deserve my contempt—my darkness will continue to operate in my blind spots, creating more of itself in the world, even as I'm flawlessly convinced I'm fighting it.
-
-That's why everything comes down to *seeing what I most fundamentally am*.

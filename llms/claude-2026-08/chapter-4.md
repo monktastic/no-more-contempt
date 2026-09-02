@@ -1,200 +1,91 @@
-# Interlude: What's Coming
+If your darkness just is you, then it becomes very difficult to avoid shame—especially as you discover the full extent of harm you've caused from within it. That prevents you from seeing it clearly for what it is, and doing what you must to end it. That only gives it more power.
 
-That's as far as I'm going to take the argument for now.
+But if it's *not* you—if it's something else, or some unconscious process—then how can you bear full responsibility? That entails feeling the full weight of it. Seeing that *yes, I did this—and I **knew** I was doing it.* And as we've seen, we absolutely *do* know, in the sense that matters.
 
-Not because it's done. Because from here on the claims get bigger, and I want to be honest about which ones you can still check and which ones you can't.
+Our mind can't help but collapse the paradox to one side or the other. *That's what keeps the whole thing going*. In a sense, the darkness benefits from our inability to hold this paradox.
 
-Let's start with the ones you can.
+And look what happens when we apply it to our enemies.
 
----
-### It was never about good people
+If they fully knew and *only* knew, then they're just bad. Fundamentally defective. Beyond help. In that case, contempt is fully deserved. And we've already seen exactly where that leads. It's the mirror image of the shame case above: a way to prevent them from seeing it clearly and ending it.
 
-Nothing in Chapter 1 required him to _think_ that what he was doing was wrong. Go back and look. All it required was that _some part of him_ registered it. That's a much lower bar—and it's one every human clears.
+But if they didn't know, then why hold them accountable at all? Maybe we should just go easy on them. This is close to what the popular misconception of compassion is: being soft and nice, and non-confrontational.
 
-Which means this was never a story about "good people." People who, on reflection, don't want to cause harm. It's a story about everyone. The ones who harm on purpose, who seem to enjoy it—they aren't doing a different thing. They're doing a stronger version of the same thing.
+**Nothing could be further from the truth.**
 
-You don't have to take that on faith. Bring to mind the worst person you can think of. Now imagine standing in front of them.
+Compassion holds both halves at once. We (and our enemies) are **fully responsible** for the harm we've caused—and at the same time deserve the grace necessary to actually let us see it clearly enough to end it, rather than forsaking us to the abyss where we're doomed to repeat it.
 
-Notice what your face wants to do.
-
-Something in you wants them to _know_. To flash your own capacity for darkness at them, hoping it will subdue theirs. Try to keep it off your face. Can you?
-
-That's the tell from Chapter 1, running in you, aimed at someone who deserves it. And the fact that you can barely suppress it tells you something about the man who didn't.
+All of that is necessary to recognize to help us hold what comes next.
 
 ---
 
-### Why everyone is sure they're different
+I should tell you plainly what changes here.
 
-We assume our enemies can see their own darkness. That's why contempt feels fair: _they know what they're doing._ And they do—in the way he did. Known and not known. Right there, and turned away from.
-
-But we can't see ours at all. Not even in that way. That isn't because we're cleaner. It's because that's what limbo _is_: the one state you can't see yourself in.
-
-So everyone is certain they're different. Every side, every time. And the certainty is worthless as evidence, because it's exactly what the mechanism produces. If anything, it's the red flag.
+Everything up to this point, you could check against your own memory. That was the arrangement. What follows is different: some of it is inference, and some of it is simply how I've come to hold the whole picture. I'll try to mark which is which. Nothing practical in this book depends on you agreeing with the second kind.
 
 ---
 
-### We do it because we're good
+Recall from the last chapter what happens when I treat my enemy with contempt: my darkness _teaches theirs to ingratiate itself to them_.
 
-We don't do this because we're bad people.
+All of this takes place in **deep limbo**—a place so well hidden that I can hardly stop myself from calling it unconscious. But it is conscious and unconscious at once. Both me and not-me. What we learned to hold above.
 
-I want to say that plainly, because by now you may have started to suspect otherwise. Look at the apparatus in Chapter 1 again—the hiding, the funneling, the ruse that has to be maintained against your own conscience. None of it would exist if part of you didn't refuse to be someone who harms. The whole trap is built out of that refusal.
+And it is from _there_ that I want to tell you what this feels like from the inside. Not a guess. My best attempt at a description of something I was present for—as we all are.
 
-We do it _because_ we're good. Ironically. And that's what the thing relies on.
+It feels like a **secret handshake between my darkness and theirs.**
 
----
+For what purpose? To keep themselves better hidden. From both of us. From everyone.
 
-### How low the floor goes
-
-You look at someone and think: _why are they reacting like that? I could never._ That's it. That's the whole mechanism, in a thought you've had a thousand times. Or you look at a stranger the way you'd look at scenery. Or you look at a forest and see lumber.
-
-The line between people who deserve compassion and people who deserve contempt—where exactly do you draw it? Notice that the line only has to exist for the thing to get a foot in the door. As long as you'll grant that _some_ people are fundamentally bad, you're already those people, in fledgling form.
-
-As long as any of that operates—and it operates in all of us—we're in it.
+Which is exactly what they accomplish. Both of us leave more certain than ever that we're free of darkness ourselves, and that it exists only "out there" in others, where it's our righteous duty to defeat it.
 
 ---
 
-### What contempt is for
+If that gives off "evil conspiracy" vibes, it's not an accident. I offer this gingerly, because I know how it comes across. 
 
-And here's the thing Chapter 1 kept circling without ever landing on.
+But the archetype of the *evil global conspiracy*: it doesn't come from nowhere. Some part of us senses that there's more to the picture of what's going wrong in our world than our usual stories can explain
 
-Contempt works by taking away the safety a person needs to look at themselves. That's what it's _for_. We make others feel unsafe precisely so they can never look closely enough to see that their darkness isn't them.
-
-The second stranger did the opposite. He made it safe. And you looked.
+Because there is.
 
 ---
 
-### The wall
+We've seen how two people, each flawlessly convinced they're doing good, can between them increase the net evil in the world—and **not entirely by accident**. It is not incorrect to say that both knew what they were doing, even if it's also true that they didn't.
 
-Okay. That's the last thing I can hand you and say: check it.
+And it doesn't just run between enemies. 
 
-Because now we hit a wall, and I want you to see the wall before I try to climb it.
+Think of what happens when we get together and foster contempt for a shared enemy. On the surface, it feels like bonding. Harmless. But underneath that, what's actually happening? How are we likely to treat our enemies after this? How are we likely to relate to our own principles, having just "reminded" one another how evil our enemies are, and how they must be stopped at any cost? 
 
-We've been calling it his "dark part." At some point you're going to want to know what it _is_. So let me pose the question the way it's going to come at you, and show you why every answer is a trap.
+Is it likely to be with *more* integrity?
 
-Is it _you_? Say yes, and shame comes flooding in—and shame is the mechanism's favorite defense, because a person drowning in it can't look. Say no, and you're free to shrug it off. Not my problem.
+What happens in those rooms is very much that same handshake, at a larger scale. The darkness does not care whether we are friends or foes.
 
-Is it your _enemy_? Say yes, and you'll treat it with contempt—and we just spent three chapters on where that leads. Say no, and you've let it off the hook.
+Or look at social media. The casual contempt we hurl at each other all day, most of it too small to notice. Does that make this thing stronger or weaker? 
 
-Is it _real_? Say yes, and you'll fight its hosts as though they were it. Say no, and you'll go soft on something that eats people.
-
-Every door is a trap. And every one of them is a trap the book has already shown you.
-
-So I'm not going to answer it yet. I don't think you can hold the answer yet. I don't think I could have either, before I'd seen what comes next.
+Would we consent to it if we could clearly see what we were doing?
 
 ---
 
-### Where the deal changes
+Take a careful look around, and you'll find that most of the harm we cause has its root in some form of contempt. For each other. For animals. For nature herself.
 
-Everything up to this line, you could check against your own memory. That was the deal. From here on, some of what I say is inference—things I think follow from what you've verified—and some of it is how I hold the whole picture, which I can't hand you at all.
+I'm not waxing spiritual to slip my views past you. As best I can tell, none of us actually wants to destroy our biosphere—not if that "want" is interrogated deeply enough. Even the ones who'd claim otherwise simply aren't looking closely.
 
-I'll mark which is which. And I'll tell you now: nothing practical in this book depends on you agreeing with the parts you can't check.
+And the way I've been relating to them—it's only making it *harder* for them to look.
 
-Why include them, then? Because leaving them out would be a small version of the thing this book is about. Keep only what I can defend; quietly drop the rest. You know that move.
-
-So take what follows as a map of where we're going. Watch where it leads.
+And it's not. By. Accident.
 
 ---
 
-### It changes what you see
+Here's what I'm trying to say. 
 
-The first thing you'll see is that it doesn't just feed you thoughts. It changes what you _see_.
+There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants. 
 
-The world it builds is internally consistent, and you're the hero of it. Nothing ever feels off, because the thing that would tell you something's off is the thing it took first. And it speaks in your own voice—there's no accent to catch. That's how the monsters of history were, every one of them, the good guys of their own story.
+And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
 
-It's also how you and I are.
+Every act of unkindness, all the conscience skirting, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
 
----
+There _is_ a kind of "evil global conspiracy." It just isn't the kind we've trained ourselves to look for.
 
-### The ones with no conscience
+The belief that we're the righteous ones standing outside it, valiantly fighting it with our well-deserved contempt?
 
-Then psychopaths—the ones who seem to have none at all. I promised we'd get to them. The short version: they're not a different animal. They're all the way turned away, with no memory left of what it was like to be turned toward.
+That **is** the conspiracy.
 
----
-
-### How it spreads
-
-Not mainly through dramatic confrontations. Through the hum. Comment sections. Pile-ons. Every _play stupid games, win stupid prizes_. Each one tiny. Cumulative, like radiation. That's the atmosphere the big evils breathe—and the quiet channels move more of the world than the loud ones ever do.
-
-And notice what all of it teaches. Not just that the world is cruel. That the so-called good people are frauds, that their supposed light is a story, and that when it counts, everyone runs on the same dark fuel. That lesson is the payload. The cruelty is just the delivery.
-
-Then how it gets into the things you believe. I'm going to argue that a lot of our ideologies, our projects, our values, get adopted not _despite_ the contempt they license but _because_ of it. And that your intentions don't stay inside your skull: a deep part of you knows when a noble project is also serving something else, and that knowledge gets into everything the project touches.
-
-Then the everyday version. Every time you cheat a corporation or a government a little, because look at what _they're_ doing—notice that part of you knows the cheating is what turns them into the kind of thing you have to cheat.
+That's what the rest of this book exists to unfold.
 
 ---
-
-### Nobody has to decide
-
-Then the war rooms. Nobody in the room decides to be cruel. The minutes look fine. Everyone leaves a little darker. Conspiracies don't need coordination. Our dark parts recognize each other and sync up—and not only across enemy lines. Among allies too. Mine hands yours the proof that you're persecuted; yours hands mine the proof that you're irredeemable. A perfect loop, and neither of us built it.
-
-And when someone carrying a lot of this runs something large—a company, a movement, a platform—the darkness doesn't stay in them. It goes out through whatever they build: the contempt in the public statements, the rationalizations baked into the culture, the products that materialize what they never examined, the people they hire. Scale doesn't dilute it. Scale is a channel.
-
----
-
-### The word for it
-
-That's when the word "parasite" is going to start earning its keep.
-
-Here's the one thing I'll say about it now. You couldn't possibly want it. Not because of anything about your true nature—because of two things you can already see. It hides from you. And it reinforces itself out there. Nothing you actually wanted would need to do either.
-
-Its one job is to get you to confuse it with the person carrying it. That alone guarantees you'll feed it. And it does this to you in three layers. First: _I have no darkness._ Then, when that fails: _okay, I'm hiding it, because it's too horrible to face—but I'm using it strategically._ And underneath that, the one it never lets you reach: the thing convincing you it's too horrible to face _is the darkness itself_, so that you'll keep hiding it, and keep spreading it. It's using you as a vehicle. It keeps you from seeing the third layer by letting you half-see the second.
-
-And the shame door, the first one in the trilemma? Watch it loosen. Naming the thing as _not you_ is what lets you look at it. That isn't a metaphysical claim. It's just what happens.
-
----
-
-### Its last two stands
-
-Offered a choice between your enemy fully reforming and your enemy eternally punished—notice the part of you that wants the second.
-
-And the fear: _but what if, underneath all the self-deception, some people would still do wrong?_ I'll show you that fear exists for exactly one purpose. It doesn't care who you hate. As long as you hate.
-
----
-
-### Where it ends up
-
-Then the scale. How much of what horrifies us depends on overlooking the life in others. How the maximum version of that overlooking is what we've been calling evil. And how the whole thing sustains itself by pretending to fight itself.
-
----
-
-### The deepest point
-
-And then the deepest point in the book, which I'll say here even though it won't land yet.
-
-The part of you that reasons isn't the problem. The problem is when it comes loose from the thing it was supposed to serve. That disconnection _is_ the darkness. And it never feels like disconnection. It feels like clear seeing.
-
-Both strangers felt like they were seeing clearly.
-
-You can't calculate your way to goodness, because you can never know whether the calculation is built on self-deception—and the belief that metrics can tell us whether we're on track is the same belief, blown up to the size of a civilization. Ours is going off the rails in exactly this way, and it feeds on itself. As long as you harbor any contempt at all, you're in the loop.
-
----
-
-### What I actually think
-
-And then there's what I believe, which I'll say once, and mark.
-
-I think the thing that never budged in you—the part that knew—isn't something you have. I think it's what you are. And I think the darkness is what it looks like when that gets covered over. Not a second thing. An absence that has learned to act like a presence.
-
-Which would mean all of it is innocent, in the end. Every bit of evil there ever was: an attempt to get back home, filtered through more layers of confusion than anyone could count.
-
-You don't need any of that. I'm telling you because hiding it would be the move.
-
----
-
-### The way out
-
-What you _do_ need, and what's coming: a way out that doesn't ask you to soften anything. Anger stays. Fierceness stays. What goes is only the part that needs the other person to be worthless.
-
-Let me be clear about something first, so nobody mistakes what I'm saying. Stopping evil with contempt is probably better than quietly letting it win. I'm not arguing for doing nothing. I'm arguing that there's something better than either, and that you already know it. You watched someone do it to you, and it was the only correction that worked. Contempt exposes the truth without love; it feels like coercion, and people run from it into denial. The other thing exposes the same truth and feels like an invitation.
-
-Wise people have always said to have compassion for the evildoer, and our culture has always called that naive. Which part of us benefits from that verdict?
-
-Here's what's actually being asked. To defeat evil is to end the capacity for self-deception—and you can only do that in others to the degree you've done it in yourself. Not by trying to be a good person. That's the trap: the moment you're trying to be one of the good ones, you've signed up for the existence of bad ones, and you'll go looking.
-
-One caution before we go on. If you find yourself pointing this book at someone else—_that's his darkness talking_—stop and notice which part of you reached for it.
-
-Which of the examples ahead make you feel contempt? Which make you feel compassion?
-
-The ones you can safely judge are the ones that aren't yours.
-
-The rest are.

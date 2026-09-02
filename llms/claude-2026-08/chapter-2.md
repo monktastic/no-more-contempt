@@ -1,6 +1,26 @@
 ## Chapter II: The Descent
 
-How do I know that the chilling taunt from the last chapter is accurate? *Because I've been on the delivering end more times than I'd like to admit.*
+Something inside you cares. *Profoundly.* About other people, about other beings, about the world around you.
+
+It's what we've been calling your "conscience." But it does so much more than just tell you right from wrong. It's the part of you that senses its way toward what matters; what's *good*, even if it can't quite pin it down.
+
+Our belief that it *can* be pinned down: that's what the "dark part" exploits. Any which way you try to define "goodness," it will find a way to obey the letter of the law while ignoring its spirit.
+
+If violence is always wrong, what do you do when it's actually necessary? If harming bad people is right, then watch how quickly "bad" and "harm" expand to cover exactly who you need them to cover.
+
+Which means that the easiest way for it to win is to make us focus only on what we *can* define. To disconnect the part that reasons from the part that cares.
+
+We never notice this disconnection taking place. Not because we *can't*—the part that cares can always see it happening—but because the tool we use to detect this disconnection is the very one that has been disconnected. That has been *hijacked* by the darkness.
+
+It's why "bad people" can never tell they're the bad guys. And it's why we can never tell that treating them with contempt is the wrong solution.
+
+I can't promise there's a way to bring them back. But I *can* promise you that the belief that there isn't—it doesn't originate from the part of you that cares.
+
+This is how the broken systems get built. Not by bad people designing them, but by ordinary people, each of us slightly disconnected from the part that cares, each of us certain we're the ones who aren't. That's what the rest of this book has to show.
+
+---
+
+Let's go back to the chilling taunt from the last chapter. How do I know it's accurate? *Because I've been on the delivering end more times than I'd like to admit.*
 
 Here's what it feels like from the inside.
 
@@ -12,15 +32,15 @@ Here's what it feels like from the inside.
 > 
 > At some level, I know that my contemptuous tone isn't going to help anything. That there's something dark about it that I can't quite place. But I don't *let* myself know. 
 > 
-> And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep real evil in check.
+> And anyway, *my* darkness isn't *real* darkness—it's the strategic kind. The kind that all *good people* must harbor to keep **real** evil in check.
 > 
-> But for some reason, my target isn't taking it that way. He's *defiant.* 
+> But for some reason, my target isn't taking it that way. He's *defiant.* Recalcitrant.
 > 
-> Ugh. I didn't want to believe this about him—but now what choice do I have? I was only trying to show him how much he should *care*, and look at how he went and took it.
+> Ugh. I didn't want to believe this about him—but what choice has he left me? I was only trying to show him how much he should *care*, and look at how he went and took it.
 > 
 > Which means my contempt was justified.
 > 
-> If anything, I was too soft.
+> This world is even shittier than I thought.
 
 ---
 
