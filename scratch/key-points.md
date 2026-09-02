@@ -1,4 +1,6 @@
 
+L0- All evil is ultimately innocent
+
 - It is EVIL. That's not a value judgement.
 
 - SEAL Team 6 and desecrating bodies.

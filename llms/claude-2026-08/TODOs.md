@@ -93,21 +93,39 @@ And the rest takes care of itself.
 
 "Nobody turns away to do something good" again
 
-Derive the constraints for the second stranger.
-
-
-
-This one didn't stand to gain from it. If anything, it cost him. It let the world know he could be held to the same standard.
 
 ---
 ---
 ## Chapter 3
 
-Nothing in ch1 required that the contemner thought that harming you was wrong. (Avoids the claim that the "bad people" are different, because they can do it even while knowing it.)
+Note that nothing in ch1 required that the contemner thought that harming you was wrong. If it did, then what we wrote only applies to "good people" (people who, on self-reflection, don't want to cause harm.) All it requires is that _some part of him registers that it's wrong_, which applies to everyone.
 
-It's almost impossible not to reveal it to someone you hate, isn't it?
+It's almost impossible not to reveal it to someone you hate, isn't it? Visualize yourself standing in front of the worst people.
 
-The asymmetry: assuming they must see their own darkness.
+The necessity of the asymmetry. We assume that others can see their own darkness, which is why contempt feels justified. And they can, in a sense, but not the right sense. And we cannot see our own. That's why we're sure we're different. Limbo is what perpetuates the dynamic, because our minds feel forced to settle the know / not-know paradox.
+
+Notice how much horrible human behavior depends on overlooking Life in others.
+
+Notice how much corruption, self-serving behavior there is. Also limbo.
+
+Notice how the shittiness of the world lets you feel okay cheating corporations and governments etc. Part of you knows that it will turn them into exactly the kinds of entities that "require" you to cheat.
+
+Darkness is a parasite. You couldn't possibly want it (should NOT depend on your true nature being light; maybe only evidence is that it is hiding from you and reinforcing itself out there) Using it as a vehicle to spread itself.
+
+One part of my mind doing my dirty work for me while another keeps its hands clean. What does that sound like to you? _Plausible deniability._
+
+Cooperation of our entities. Not just between enemies but also allies.
+
+The maximal version of this obstruction or turning away is what we call evil. 
+
+*We don't do this because we're bad people.* Ironically, we do it because we're good people. That's what the parasite relies on.
+
+Extremely subtle contempt: looking at someone and thinking "why is this person reacting like this (to ANYTHING)? I could never do that." THAT'S what runs this whole operation. Or looking at nature like it's something for me to use. As long as we have that, we will be participating in the Darkening.
+
+Rationality (the part that can prove) isn't wrong. The problem is that it gets disconnected from our true source of care! That's what the darkness is: that disconnection. And it never feels like disconnection. It feels like clear seeing. Both strangers felt like they were seeing clearly. THIS IS THE DEEPEST POINT. Our civilization is going off the rails in precisely this way, and it's a self-reinforcing feedback loop. As long as you harbor ANY contempt, you're doing it.
+
+
+
 
 > _I know I could choose to rescue that part of you while still serving justice. But I could also choose to quietly smother it, and no one will blame me for it._
 
