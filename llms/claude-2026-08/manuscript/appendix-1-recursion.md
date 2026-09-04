@@ -73,9 +73,9 @@ Which is why a mind that goes looking for the offense doesn't come back with any
 - **Inexpressibility.** None of this leaves a record. C doesn't testify, and no other faculty saw it.
 - …
 
-The list doesn't close. These are the rungs this encounter happens to climb; another encounter would climb others. What keeps the set open is that common knowledge is closed under shared inference: every bearer of C runs the same moral logic, so whatever follows from a common-knowledge fact is also common knowledge. The derived facts come free—that the turning away is a lie, that it causes harm, that it can't be proven, that the unprovability can be used against you.
+The list doesn't close. These are the rungs this encounter happens to climb; another encounter would climb others. What keeps the set open is that anything following from a shared fact is shared too. Everyone runs the same moral logic on it, so nobody has to be told the consequences. The derived facts come free—that the turning away is a lie, that it causes harm, that it can't be proven, that the unprovability can be used against you.
 
-Put the two dimensions together and you get a grid: five rungs (or more), each with three depths—I know it; we both know it; it's common knowledge. That grid is what fits in a look. By §2, the three depths of every rung are one step, so the whole grid is present the moment any of it is.
+Lay the two out together and you get a grid: five rungs or more, each one known at three depths—I know it; we both know it; everyone knows everyone knows. That whole grid is what fits in a look. By §2, the three depths of every rung are one step, so the whole grid is present the moment any of it is.
 
 ## 4. Why the hiding is the showing
 
@@ -113,7 +113,7 @@ Compressed to its shape:
 
 > **H** = being made to know, with no recourse and no proof, that H is being done to you.
 
-Circular on purpose. If the harm had any other content—a slur, a shove, a lie you could catch—you'd have something to point to. This is a second, stronger reason for the unlocatability in §2. There, no depth of the tower was privileged. Here, the act has no non-self-referential residue anywhere in it.
+Circular on purpose. If the harm had any other content—a slur, a shove, a lie you could catch—you'd have something to point to. This is a second, stronger reason for the unlocatability in §2. There, no depth of the tower was privileged. Here, there's no part of the act that isn't about itself.
 
 But it isn't empty, the way _this sentence is false_ is empty. H has an independent effect. Being held in that state teaches you that clear knowing counts for nothing, so you demote the faculty that knew and promote the one that can prove. That's a real injury with real consequences—it's what the second half of Chapter 1 traces. What the self-reference adds is that the delivery isn't a _report_ of the harm. Being made to know, under these conditions, that you're being harmed in a way you can't prove—that is the unprovable harm. The message is an instance of what it describes.
 
@@ -123,9 +123,9 @@ And it's self-sealing in a way G is not. Your only evidence for H was C's unprov
 
 ## 6. Why it spreads to you
 
-This isn't a new fact. It's the fixed point of §5 seen as transmission. But it's worth stating on its own, because it's the part the chapter performs without naming.
+Nothing new here—it's §5 again, watched from outside instead of inside. But it's worth its own section, because it's the part the chapter performs without ever naming.
 
-Because C is common equipment, treating you as though you lack it is false—and known false at every depth. But it does something besides being false. It shows you a move: here is a bearer of C treating a bearer of C as other. And your C recognizes the move, because it's the one C makes itself, in limbo. Recognition makes it available. You now have a reason, and the look is yours to give.
+Because everyone has C, treating you as though you don't is false—and known to be false, at every depth. But it does something besides being false. It shows you a move: here is a bearer of C treating a bearer of C as other. And your C recognizes the move, because it's the one C makes itself, in limbo. Recognition makes it available. You now have a reason, and the look is yours to give.
 
 That reciprocation is not a side effect. It's what he needed. If you reciprocate, you look like what he said you were, and the verdict he needed becomes true on the evidence. His decision to see you as other induces the same seeing in you—and he wants it to, because your otherness is what keeps him other.
 
@@ -133,11 +133,11 @@ Notice the shape. The contagion was the point. Part of him knew that. That knowi
 
 ## 7. Three things that fall out
 
-**The verdict has to reach "irredeemable."** What C detects in the target is the _presence_ of a conscience being evaded. What his conscious mind delivers is _absence_. Evidence and conclusion have opposite signs—which tells you the dark part isn't a perceiver but an editor: it keeps C's finding and deletes the half that carries the resemblance. And "bad" won't hold, because any verdict that leaves your C in the picture leaves the resemblance in the picture. So it escalates until there is nothing left to resemble.
+**The verdict has to reach "irredeemable."** What C detects in the target is the _presence_ of a conscience being evaded. What his conscious mind delivers is _absence_. So what he concludes is the exact opposite of what he saw—which tells you the dark part isn't seeing anything itself. It's editing: it keeps C's finding and deletes the half that carries the resemblance. And "bad" won't hold, because any verdict that leaves your C in the picture leaves the resemblance in the picture. So it escalates until there is nothing left to resemble.
 
-**The loop has no interior stopping point.** Each act of suppression is a fresh perception for C to register, demanding fresh warrant; the only warrant available is a worse you. Strictly increasing, no fixed point short of a target with no C at all. Dehumanization isn't an excess of the process. It is its limit.
+**The loop has no interior stopping point.** Each act of suppression is something new for C to register, and each new registering has to be answered. The only answer available is a worse you. So it can only go one direction, and it can't settle anywhere short of a target with no conscience at all. Dehumanization isn't an excess of the process. It is its limit.
 
-**This book is the announcement.** The tower in §2 was built without one, which makes it _implicit_ common knowledge—and that predicts something. Say the thing aloud, in public, and the pretense stops working, because now everyone can see that everyone sees. No information is added; one kind of common knowledge is converted into the other. In plain terms: if it becomes explicit, public common knowledge that contempt is the thing—that this is what we've been calling evil—then contempt loses its cover. It becomes something that can be named. And a thing that can be named can't do its work, because its work was being unnameable. That is what this book is for, and the epigraph is the prediction stated in advance: _when it is recognized, it is dissolved._
+**This book is the announcement.** The tower in §2 was built without one, which makes it _implicit_ common knowledge—and that predicts something. Say the thing aloud, in public, and the pretense stops working, because now everyone can see that everyone sees. Nobody learns anything they didn't already know. What changes is only that it's now been said. In plain terms: if it becomes explicit, public common knowledge that contempt is the thing—that this is what we've been calling evil—then contempt loses its cover. It becomes something that can be named. And a thing that can be named can't do its work, because its work was being unnameable. That is what this book is for, and the epigraph is the prediction stated in advance: _when it is recognized, it is dissolved._
 
 ---
 

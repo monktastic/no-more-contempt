@@ -1,0 +1,103 @@
+// Interlude DAG v2. An edge A -> B means B cannot be transmitted before A is in
+// place. Any topological sort is a valid linearization. The current interlude
+// order is: R1..R5, T0, A1, A2, A3, A4, B0, B1, B2, B3, B4, C1, C2, D0, D1, D2, D3, D4, D5.
+// Structure: one argument. T0 states the claim; A shows the hijack (why you can't
+// trust yourself); B shows scaling; C shows what "evil people" are and contempt
+// from below; D gives the lever (practice) BEFORE the marked metaphysics (D3, D4).
+digraph interlude {
+  rankdir=TB;
+  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, margin="0.15,0.08"];
+  edge [color="#555555", arrowsize=0.7];
+
+  subgraph cluster_recap {
+    label="Already in place (Ch 1-4)"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#e8e8e8"];
+    R1 [label="R1  Limbo\nknowing and not letting yourself know;\nthe turning away steers behavior"];
+    R2 [label="R2  Contempt = malice + pretense it isn't\nlimbo aimed at someone; judged from the state\nhe judges you for; produces what it accuses"];
+    R3 [label="R3  The hiding is the revealing\nhidden from him, shown to you, one act;\nbenefits from being seen as him"];
+    R4 [label="R4  The handshake\nour darknesses collaborate;\neach supplies the other's evidence"];
+    R5 [label="R5  Both halves\nfully responsible AND not what you are"];
+  }
+
+  subgraph cluster_claim {
+    label="The opening (whole claim, then three rungs)"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#ffd966"];
+    T0 [label="T0  THE OPENING (author's draft)\nagent = parasite of sorts, evictable; true nature (or lack) later;\nstranger: knew and didn't -- collapsing the paradox = confusion;\nhandshake offered and ACCEPTED; freedom would have denied it\n(2nd stranger) -> parasite reaches down to PERCEPTION;\nevil = far extreme; must actually SEE the parasite, not pretend;\nparasites cooperate: pair/room/building/species = the Devil;\nhatred of corruption = real you; of people = parasite; don't go easy;\n+ IN THEM: soldier, two days, 'that wasn't me' = accurate reporting;\n+ IN YOU: the face; relief or robbed?; the OTHER handshake\n(2nd stranger's anger had nothing for the parasite; went past it)"];
+  }
+
+  subgraph cluster_A {
+    label="A  Why you can't think your way out"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#fde9c9"];
+    A1 [label="A1  Hijack of reasoning\ngrand plans built by the arguing side; rules as escape hatch;\nmetrics; the memo in the file; reason in service; clues not rules"];
+    A2 [label="A2  Hijack of perception\nthe verdict becomes what you see; world indistinguishable\nfrom one where it's true; YOU CANNOT DECIDE TO LOOK\n(2nd stranger makes looking survivable; why not just fix Hitler);\ntwo righteousnesses / trance; TWO IDENTICAL ACTS, OPPOSITE EFFECTS;\n'notice how sure you are'"];
+    A3 [label="A3  The tug\ncontempt = a tug to be recruited into the thing you hate;\naccuracy is the hook; soldiers/corpse: conscience knows w/o proof; faith-robbing -> proof culture"];
+    A4 [label="A4  Limbo is the water\ndual motives; the thrill; enemies vs allies; subtle forms;\nTHE AGENDA LOOK (self-serving push w/o heat: everyone reads it,\nthey know and don't; still limbo, still teaches the lesson);\n'my clarity proves I'm clean'"];
+  }
+
+  subgraph cluster_B {
+    label="B  How it scales"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#d9ead3"];
+    B0 [label="B0  Hot and cold\ncontempt = incomplete turning away (protest audible);\ncold = complete (nobody home); further along, not milder;\nmost of the world's harm runs on cold"];
+    B1 [label="B1  Shadow spaces & the hum\nDave's-working-from-home offer; alliances needing no structure;\nLOCKER ROOM: 10 parasites behaving as one, felt from the doorway,\nstops when the wife walks in; the room recruits you FOR or AGAINST;\nstrategy meetings; the hum; small shadows need large ones"];
+    B2 [label="B2  Plausible deniability at scale\nevery parasite needs the split + unauditable channels;\n1000 hosts -> policy/procedure/omission; institution =\nthe need for not-looking made PERMANENT; CEO; shadowy agents"];
+    B3 [label="B3  Marks on the culture (non-metaphysical)\n'humans are greedy'; revenge films; compassion called naive;\nliving world as inventory (checkable); matter deferred to D4"];
+    B4 [label="B4  The conspiracy\npair/room/building/ALL -> one thing, one purpose;\nAGENCY SIGNATURES (checkable): it DEFENDS itself (naming it in the\nroom makes you the suspect); it RECRUITS (each joiner lowers the\ncost); it ADAPTS (attention makes it intensify, not stop -- Ch1);\nDevil/Mara; TEST: two at war, both grow -> always on both sides;\nreal conspiracies exist, this is the ROOT; trance; extermination;\ncontempt IS evil; does it matter what we call it?"];
+  }
+
+  subgraph cluster_C {
+    label="C  Evil people"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#e6d5f0"];
+    C1 [label="C1  What they are\nevil = result of turning away; gradient (check, not assert);\nTHE FAR END: the knowing GROWS while access shrinks -> knows most\nand least at once; what horrifies you is a suppressed PRESENCE,\nnot an absence; it shows itself so you'll press harder;\n'they need the most love' = flat reading, not sentiment;\nIN VIEW DEFINED (3 checks, independent of harm): objection lands /\nhurt registers AS BAD / what's in them can change you;\nSADISM as hypothesis + falsifier (sees a subject, fails all 3;\nCh2 trip fits: innocence devoured, life not);\npsychopaths 'I don't know' (which check is off?);\nALL EVIL IS INNOCENT + regress trap"];
+    C2 [label="C2  Contempt from below\nrage/force are right; only the verdict on trial; who benefits;\nthe SAME thing runs the one above; the tug at its strongest;\nKing; remorse vs shame; self-contempt"];
+  }
+
+  subgraph cluster_D {
+    label="D  The way through (practice first)"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#cfe2f3"];
+    D0 [label="D0  THE ONLY LEVER\n'what's left?' -> CARE, derived from the gaze experiment and the\nsize of the hiding; remembered not built (subtraction, not building);\nNOT-SEEING ISN'T CHOSEN, NOT-LOOKING-AGAIN IS TRAINABLE\n(what improves is how fast you catch it); oldest religious claim;\nwithout-sin = mechanism; the book as weapon spreads it; checks;\ntwo versions of judgment + the ESCAPE HATCH; the SKILL of seeing\nturning-away requires seeing your own; author not finished;\nfierce = passes all 3 in-view checks and fights anyway (C1);\ncompassion vs wisdom; good-person trap; tools"];
+    D1 [label="D1  What it's made of\nlayers 1-3; FEAR underneath; layer 4: no creature;\naddresses the full-strength reader FIRST + LOW-DOSE version for\neveryone (the bully who changed tactics with you);\ncold/drowning/hull: absences kill; it 'wants' because it runs on a\nwhole person with the caring off -> looks MORE than human;\nit wears a FACE -- and you can recognize the same one twice;\nboth hands; PAYOFF: an essence could only be ended by ending them"];
+  }
+  subgraph cluster_marked {
+    label="E  What I believe (Tier III)"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#fff2b3"];
+    D3 [label="D3  What remains\nhinge gave existence; this gives SIZE (not derivable):\nnot a better me, not a version of me; second stranger revisited;\nfierce not nice; 'compassion is weak' as a lie;\nhandshake of the Light; the ones who wouldn't hand me over;\nyour own clean moments"];
+    D4 [label="D4  What you are\nTHE RECOGNITION (perception, not inference); traditions personify\n(weak evidence); step past the opening: ONE absence in many places\n(shadows / one sun); nondual argument: nothing distinguishes two\nawarenesses; Baumeister + objection (shared world, no shared seeing);\nconscience = the world knowing itself; fear of having left\nGod/Love/Source (Wapnick corroborates); sealed room; matter;\nimpact of integrity; good = what helps remember"];
+  }
+  subgraph cluster_contemp {
+    label="E (cont.)  A note for contemplatives"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#fff2b3"];
+    D6 [label="D6  For contemplatives (skippable)\nmarigpa = non-recognition; afflictions as display; adventitious;\nnon-fabrication + familiarization; POINTING-OUT = 2nd stranger;\nSAMANTABHADRA: blank first, no motive, self/other AFTER;\nRECONCILED with the fear of §15: blank first, fear = what the\nblank feels like once there's someone to feel it;\nWHAT'S MINE: coordination across minds; caution: not permission"];
+  }
+
+  subgraph cluster_end {
+    label="F  What this book is for"; style=dashed; color="#888888"; fontname="Helvetica";
+    node [fillcolor="#cfe2f3"];
+    D5 [label="D5  What this book is for\nexplicit common knowledge removes cover; the limit;\nit will be weaponized; epigraph"];
+  }
+
+  // recap
+  R1 -> R2; R2 -> R3; R3 -> R4; R3 -> R5;
+  // claim depends on all four
+  R2 -> T0; R3 -> T0; R4 -> T0;
+  // A
+  R1 -> A1; T0 -> A1;
+  A1 -> A2; R2 -> A2; T0 -> A2;
+  A2 -> A3; R2 -> A3; R4 -> A3;
+  R1 -> A4; A1 -> A4;
+  // B
+  R2 -> B0; A2 -> B0;
+  A4 -> B1; R4 -> B1; B0 -> B1;
+  R3 -> B2; B0 -> B2; B1 -> B2;
+  B1 -> B3; B0 -> B3; A3 -> B3;
+  R4 -> B4; B1 -> B4; B2 -> B4; B3 -> B4;
+  // C
+  R1 -> C1; R2 -> C1; B0 -> C1; R5 -> C1;
+  R2 -> C2; R4 -> C2; A3 -> C2; B4 -> C2; C1 -> C2;
+  // D
+  T0 -> D0; A2 -> D0; A3 -> D0; C2 -> D0; C1 -> D0;
+  R3 -> D1; R5 -> D1; R4 -> D1; B4 -> D1; D0 -> D1;
+  D1 -> D3; R2 -> D3; A2 -> D3; C2 -> D3;
+  D3 -> D4; B4 -> D4; B3 -> D4; D1 -> D4;
+  D4 -> D6; D1 -> D6; D0 -> D6;
+  R4 -> D5; R3 -> D5; D0 -> D5; A3 -> D5; D4 -> D5; D6 -> D5;
+}
