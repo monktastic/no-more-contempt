@@ -80,7 +80,7 @@ None of this requires a decision. Nobody thinks: _we will put the part of oursel
 
 But check whether some part of you knows it anyway.
 
-When the punishment feels a little too good. When you're more interested in what they _are_ than in what they did. When their getting worse feels strangely welcome.
+In those times when the punishment feels a little too good. When you're more interested in what they _are_ than in what they did. When their getting worse feels strangely welcome.
 
 You know. And then you turn away.
 
@@ -88,7 +88,7 @@ And when everyone turns away in the same direction, the knowledge doesn't go any
 
 Which means the person we've designated carries something for us. Not only their own harm, but ours. The part we couldn't hold.
 
-So consider what would happen if they changed.
+Now consider what would happen if they changed.
 
 Not surrendered. Not admitted anything. Just quietly became someone you could no longer see that way.
 
@@ -101,4 +101,14 @@ It is to *get better*.
 That is the one thing we must never allow.
 
 ---
----
+
+Here's what's crucial to see. *We absolutely couldn't do this if we clearly saw that we were.*
+
+What does that tell you? Why would you not want to do this to others—even to "evil" others?
+
+There. *That's* your humanity. The part that *cannot* want another person to hurt, when you can clearly see what that hurt entails.
+
+Because you know that hurt from the inside. It's the thing you want to banish from this world.
+
+And that's what the darkness relies on: our not seeing it for what it is. And it's not just what the darkness *needs*: it's what the darkness *is.*
+

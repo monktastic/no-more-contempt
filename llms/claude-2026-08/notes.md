@@ -1,0 +1,1 @@
+To Claude: "I don't want to prove the entailment with contingent evidence."

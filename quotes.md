@@ -126,3 +126,12 @@ Zen priest (and punk rocker) Brad Warner:
 > Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.
 >
 > But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.
+
+
+---
+
+> *Inside a heated tent, as many as 40 SEAL Team 6 operators asked themselves how they wanted to treat their fallen enemies. Should they seek revenge for Roberts? Was it acceptable, as Hyder had done with the wounded man whom he executed, to desecrate the dead?*
+> 
+> *“We talked about it … and 35 guys nodded their heads saying this is not who we are. We shoot ’em. No issues with that. And then we move on,” said a former SEAL who was present at the meeting. “There’s honor involved and Vic Hyder obviously traipsed all over that.” he said. “Mutilation isn’t part of the game.”*
+
+https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/

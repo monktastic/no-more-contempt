@@ -1,13 +1,19 @@
 
+L0 - Reasoning must be in service to the care, not disconnected from it.
+
+L0 - When you feel contempt, what you're feeling is a tug to be recruited into the thing you hate.
+
 L0- All evil is ultimately innocent
 
-- It is EVIL. That's not a value judgement.
+L2- Kenneth Wapnick's interpretation of ACIM and how it connects.
 
-- SEAL Team 6 and desecrating bodies.
+L2- Contempt is EVIL. That's not a value judgement.
+
+- Example of SEAL Team 6 agreeing that desecrating bodies is bad, despite there being no nameable harm. (see quotes file)
 
 - Why would I want to stop corruption when I feel so good judging it?
 
-- Contempt for a person and contempt for all of life aren't received as different. And that's not a mistake—it's the whole point.
+L2- Contempt for a person and contempt for all of life don't register as different. And that's not a mistake—it's the whole point.
 
 - _Unintegrated darkness in a person operating at scale produces disproportionate harm through hidden channels_: When people with substantial unintegrated darkness (their _shadow_, in Jungian terms) operate at scale — leading institutions, building large projects, holding public platforms — the unintegrated darkness gets transmitted through whatever they build. The transmission happens through: the contempt that infuses their public statements, the rationalizations baked into their corporate cultures, the products they build that materialize their unexamined assumptions, the second-order effects of the people they hire and the systems they design.
 

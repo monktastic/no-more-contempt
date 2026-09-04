@@ -1,4 +1,8 @@
-If your darkness just is you, then it becomes very difficult to avoid shame—especially as you discover the full extent of harm you've caused from within it. That prevents you from seeing it clearly for what it is, and doing what you must to end it. That only gives it more power.
+# Chapter 4: The Darkness
+
+Now we must confront a burning question: is your darkness *you?*
+
+If it just is you, then it becomes very difficult to avoid shame—especially as you discover the full extent of harm you've caused from within it. That prevents you from seeing it clearly for what it is, and doing what you must to end it. That only gives it more power.
 
 But if it's *not* you—if it's something else, or some unconscious process—then how can you bear full responsibility? That entails feeling the full weight of it. Seeing that *yes, I did this—and I **knew** I was doing it.* And as we've seen, we absolutely *do* know, in the sense that matters.
 
@@ -14,13 +18,25 @@ But if they didn't know, then why hold them accountable at all? Maybe we should 
 
 Compassion holds both halves at once. We (and our enemies) are **fully responsible** for the harm we've caused—and at the same time deserve the grace necessary to actually let us see it clearly enough to end it, rather than forsaking us to the abyss where we're doomed to repeat it.
 
-All of that is necessary to recognize to help us hold what comes next.
+---
+
+And another question: is the darkness _real?_
+
+Look at what you already have. Everything the first stranger's dark part did, it did with borrowed equipment. It aimed with his eyes. It read your reactions with his perception. It closed every road with his intelligence. It felt certain using his conscience's own sense of what real evil calls for. Take away everything that is _him_ and ask what's left of the darkness. Nothing. No hidden something that was steering him. Only the fact that all of that equipment was pointed slightly away—from you, and from himself.
+
+You saw it from the other side, too. When you tried to give a stranger that gaze and couldn't, what stopped you wasn't a good part winning a fight with a bad part. It was that you were looking. You can't do it while looking. The darkness didn't lose. There was no fight, because there was nothing there to fight with.
+
+That's its strange status. It isn't a thing. It's the not-looking. Which is why it's not quite our "willingness" to turn away. Willingness makes it sound like a choice, an evil one, and that just pushes the problem one level down, where you'd need a darkness to explain the darkness. Nobody chooses to stop looking while they're still looking. It happens because something isn't being seen clearly. And the moment it is, it stops—as you found when you tried.
+
+So: real enough to sink a ship, and made of nothing but a hole. 
+
+All of the above is needed to hold what comes next.
 
 ---
 
 I should tell you plainly what changes here.
 
-Everything up to this point, you could check against your own memory. That was the arrangement. What follows is different: some of it is inference, and some of it is simply how I've come to hold the whole picture. I'll try to mark which is which. Nothing practical in this book depends on you agreeing with the second kind.
+Everything up to this point, you could check against your own memory. What follows is different: some of it is inference, and some of it is simply how I've come to hold the whole picture. I'll try to mark which is which. Nothing practical in this book depends on you agreeing with the second kind.
 
 ---
 
@@ -78,13 +94,13 @@ There are countless "hidden channels of communication" taking place between all 
 
 And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
 
-Every act of unkindness, all the conscience skirting, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
+Every act of unkindness, every skirting of conscience, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
 
 There _is_ a kind of "evil global conspiracy." It just isn't the kind we've trained ourselves to look for.
 
-The belief that we're the righteous ones standing outside it, valiantly fighting it with our well-deserved contempt?
+The belief that we're the righteous ones standing outside it, valiantly fighting it?
 
-That **is** the conspiracy.
+That **is** the conspiracy. The "agent" you met in chapter 1—the one operating in your mind—is part of it.
 
 That's what the rest of this book exists to unfold.
 
