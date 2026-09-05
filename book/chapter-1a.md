@@ -39,7 +39,7 @@ So here's the honest version. In the cases you're likely to worry about, you won
 
 The dangerous cases are the opposite kind. They're the ones where you feel nothing at all and are completely certain. Because the further you drift from that signal, the fainter it seems, and the thing that would notice how faint it's gotten is the same thing you're drifting from. It never actually goes quiet. It only comes to seem absent, more and more, while you take your bearings from something else and never register the swap.
 
-That's most of what the rest of the book is about. For now: if you're anxious about whether you're evil for staying seated on a bus, that anxiety is not the signal. The signal doesn't feel like that.
+If you're anxious about whether you're evil for staying seated on a bus, that anxiety is not the signal. The signal doesn't feel like that.
 
 **2. Where you'd felt that before.**
 
@@ -61,7 +61,7 @@ Notice it doesn't go through either.
 
 Which tells you the block was never about size. It was about whether you were looking at them. While you were, nothing was available to you, large or small. Something had to go before anything could.
 
-That's what you found in your own case. I think it's true of everyone, and of every harm there is, and I haven't shown you that. I'll say later what would prove me wrong.
+That's what you found in your own case. I think it's true of everyone, and of every harm there is, and I haven't shown you that.
 
 Now the other side of it, because so far this has all been about what you can't do.
 
@@ -73,7 +73,7 @@ Notice what was there instead. If they had objected to something, the objection 
 
 That doesn't arrive as three separate facts. It arrives as one: somebody is there.
 
-I'm not going to explain that yet. I want you to have touched it, so that when I say *seeing*, or say that somebody is *in view*, you know which thing I mean. Later I'll say what those three amount to, in a form you can hold me to.
+I want you to have touched it, so that when I say *seeing*, or say that somebody is *in view*, you know which thing I mean.
 
 **4. Where the verdict had to end up.**
 
@@ -95,7 +95,7 @@ Hold onto that. It's going to matter more than it looks.
 
 ## Where that leaves us
 
-I'm not going to tell you what all of that means yet. Most of it needs a chapter, and some of it needs the whole book. But you should know where you stand. So here is an honest accounting, in three piles: what you saw, what I make of it, and what I'm asking you to take on trust for now.
+Most of that needs a chapter, and some of it needs the whole book. But you should know where you stand. So here is an honest accounting, in three piles: what you saw, what I make of it, and what I'm asking you to take on trust for now.
 
 **What you saw.**
 
@@ -107,7 +107,7 @@ That one man, in your imagination, made it easier to turn away from what you kne
 
 **What I make of it.**
 
-These are inferences. I think they're good ones, and Chapter 1 argued for each of them. But you didn't observe them. You observed the things above, and I'm drawing conclusions from them, and you should know which is which.
+These are inferences. Chapter 1 argued for each of them, but you didn't observe them. You observed the things above.
 
 That the state you read in him matched the one you had just recalled in yourself. He was imagined, so what you actually did was build a man from the inside, and what came out matched what you had just caught yourself doing. That tells you the faculty knows what the state looks like from the outside because it has been on the inside. Whether the reading would be accurate in a real encounter is a further question, and one I owe you.
 
@@ -115,7 +115,7 @@ That nothing in what either man said accounts for the difference between them.
 
 That his verdict couldn't have stopped anywhere short of *this is what you are*.
 
-That whatever was running the first man could not have gone on running if he'd turned and looked straight at it. It wasn't deliberate, because a man can't convict you on evidence he knows he planted, and it wasn't blind, because it aimed, it tracked you, and it got stronger when you noticed it instead of embarrassed.
+That whatever was running the first man could not have gone on running if he'd turned and looked straight at it.
 
 That it does better when you mistake it for him. He defends it as his own judgment, and you go after the man, because the man is what you can see.
 
@@ -123,11 +123,11 @@ That what you did when you cheated and what he did to you are one move from two 
 
 **The trap, in one piece.**
 
-Now put the inferences together, because assembled they're more than a list. They form a single mechanism, in which each part predicts and reinforces the next, and I haven't found another account that explains the whole of it at once.
+Now put the inferences together, because assembled they're more than a list.
 
 He couldn't have fully known what he was doing. If he'd admitted to himself that he was producing the evidence against you, the evidence would have been worthless to him. And he couldn't have been completely blind to it either, because it tracked every attempt you made to expose it and got stronger in exactly the way it needed to stay hidden. So it had to be the third thing, the one you know from the inside: the knowledge available enough to steer and protect itself, and unadmitted enough that he could still feel innocent. And at the bottom of what he was holding down wasn't what he was doing to you. It was the fact that you're the same kind of thing he is. What he did to you is what holding that down made possible.
 
-That state can't be concealed, and not because it leaks around the edges. The hiding itself is what you saw. What he had to keep from himself is exactly what reached you.
+That state can't be concealed, and not because it leaks around the edges. What he had to keep from himself is exactly what reached you.
 
 And it reached you as a provocation. Your reaction wasn't a side effect he'd have preferred to avoid. It was one of the things the whole performance was for, and what it needed above all was that nothing you did should be allowed to clear your name. So the one thing he couldn't afford was for you to get better and have it count.
 
@@ -171,7 +171,7 @@ You're taking four claims on trust. Here is what I owe you on them, and two more
 
 I haven't shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more. There's an obvious candidate for a counterexample, too: the one who wants the suffering and stays to watch it. I'll take that case head on when we get to them, and I'll say what would settle it against me.
 
-But I want to be exact about how much rides on it, because it's less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. Something eases. Something wanted that.
+How much rides on it is less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. Something eases. Something wanted that.
 
 You may not catch it the first time. It's quick, and it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. But it's there, and once you've caught it once you'll catch it again, and you'll notice it has nothing to do with wanting the harm to stop.
 
@@ -180,8 +180,6 @@ I haven't shown you anything about your own contempt for somebody who really hur
 I haven't shown you that any of this survives past two people on a street.
 
 And I haven't told you what's underneath the caring, beyond the fact that it's there and that it's enough.
-
-Each of those gets its own chapter, and each is built from something you just checked.
 
 And now the thing I owe you most, which is a real way to say no.
 

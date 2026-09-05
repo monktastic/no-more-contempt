@@ -184,7 +184,7 @@ How do you send that in a glance, before a word is said, when you can't even kno
 ---
 ## What He Could Count On
 
-This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to. You know it, and he can count on your recognizing it, and neither of you could prove a word of it, and that last part is what lets it keep going.
+This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to.
 
 He can count on you because *you've been there.*
 
@@ -286,9 +286,9 @@ It communicates something like this:
 >
 > *I know you can see this, but you can't prove it. Good luck.*
 
-You know all of that and can't prove any of it, and being held there is what turns you into what he needs you to be.
+Which you know but cannot prove, turning you into what he needs you to be.
 
-Which is exactly what he was doing to you in the first place. Good luck proving that, either.
+Which is precisely the "what" that he was doing to you in the first place. But good luck proving it.
 
 ---
 

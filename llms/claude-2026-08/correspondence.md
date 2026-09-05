@@ -88,7 +88,7 @@ That's not proof, and it must not be presented as proof. It's the same standard 
 
 **Tier III** (Part E, near the nondual argument): the dissolution, plus the meta-observation that the problem's insolubility is what the hypothesis predicts. Two paragraphs, clearly marked.
 
-## 8. Key point, for key-points.md
+## 8. Key point, for scratch/key-points/index.md
 
 **L1 — What conscience actually detects.** Conscience is not a moral rulebook or a detector of wrongness. It is the perception of another's reality — that there is someone there, to whom things happen. The wrongness of harming them isn't a second fact requiring a second faculty; it follows from the first. This is why conscience can't define the good (a sense isn't a definition), why it never argues (perception doesn't argue), why seeing clearly is *sufficient* to stop you, and why every harm requires a turning-away first. It also blocks the sincere-monster objection: the atrocity-committer isn't reaching toward the good and failing on competence, he is factually wrong about what's in front of him.
 
