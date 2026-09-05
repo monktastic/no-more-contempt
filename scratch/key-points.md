@@ -7,7 +7,7 @@ L0- All evil is ultimately innocent
 
 L2- Kenneth Wapnick's interpretation of ACIM and how it connects.
 
-L2- Contempt is EVIL. That's not a value judgement.
+L0- Contempt is EVIL. That's not a value judgement.
 
 - Example of SEAL Team 6 agreeing that desecrating bodies is bad, despite there being no nameable harm. (see quotes file)
 

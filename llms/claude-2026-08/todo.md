@@ -20,6 +20,8 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## Fable
 
+- **Chapter 5 by Aditya's rankings, pushback:** the L0 list treats "the signal is the pretense there's no signal," "the hiding is the revealing," and "the tug" as three theses. They're one thesis from three angles, and Chapter 5 states it once. "Reasoning in service of the care" is a corollary, not a thesis. "Contempt is evil, not a value judgment" is L2 on the list and should be L0. Settle the rankings so the condensed chapter has a standard.
+
 - **Fear as the root, from Chapter 1 onward.** The man reads as vain; he's frightened. Structural; changes how the first act holds. Lives at §13 only. See `archive/feedback-chapters-1-4.md` A1.
 - **The phenomenology seam inside Chapter 1.** The interlude sorts saw / infer after the fact; Chapter 1 itself still says "we all know" at chapter-1.md:95, :297, :355 and treats the read as accurate. Mark the seam without losing momentum.
 - **What "fully responsible" means, given the turning isn't chosen.** Chapter 4 asserts both. The answer in §12 (responsibility lives in how fast you catch it, and is graded by capacity) needs to be stated as the account, not left as reassurance.
@@ -33,7 +35,7 @@ here is a record of what was done; that goes in git, and the lessons go in
 - **The institutional bridge through cases**, not by extending the stranger by analogy. Part B is the map; it needs perpetrators' accounts, institutional case studies, and failures of compassion as well as successes.
 - **The Jung/Girard/Arendt comparison chapter**: write it, place it late. Framed as what each got right and where it stops, never as how I differ.
 - **Every debt named in the interlude must be paid by its chapter, or the line comes out.** Evil further along (§10), contempt from below (§11), past two people (Part B), what's underneath (§14).
-- **Chapter 5 is now 3,270 words.** It was meant to be 2,000 to 2,500; the audit-driven additions overshot. Cut on the next pass, once they have been read.
+- **Chapter 5 is 3,150 words against a 2,000 target.** Every thesis in it is L0 or L1 on Aditya's list, so cutting to 2,000 means demoting theses, not tightening prose. Decide which, if any, are sub-theses: candidates are the metrics line, "good person" backfires, the grand-plan test, and the two-failure-modes paragraph.
 
 ## Opus
 

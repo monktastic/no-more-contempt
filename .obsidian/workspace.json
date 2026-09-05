@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/manuscript/chapter-5.md",
+                "file": "scratch/key-points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-5"
+              "title": "key-points"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"what I think is new\"",
+                "query": "\"not a value judgement\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -299,10 +300,10 @@
   },
   "active": "65ec53952f722da8",
   "lastOpenFiles": [
+    "llms/claude-2026-08/manuscript/chapter-5.md",
     "llms/claude-2026-08/manuscript/chapter-4.md",
     "llms/claude-2026-08/argument.md",
     "llms/claude-2026-08/README.md",
-    "llms/claude-2026-08/manuscript/chapter-5.md",
     "llms/claude-2026-08/manuscript/chapter-1.md",
     "llms/claude-2026-08/manuscript/appendix-2-what-others-have-seen.md",
     "llms/claude-2026-08/working-manuscript.md",

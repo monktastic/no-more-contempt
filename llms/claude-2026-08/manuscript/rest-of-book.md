@@ -343,6 +343,8 @@ Each of these comes apart from harm. You can pass all three and still restrain s
 
 The sadist fails all three. Objection is part of the show. The hurt registers with its sign reversed; it arrives as appetite. And nothing in the victim has any standing to revise the plan. The attention is real and total, and it's the attention you give a dial.
 
+I should say exactly how much the three checks prove, because a careful reader will push here. Somebody bent on revenge can answer: the objection landed and I judged it insufficient; the hurt registered as bad, and its badness is why I want it; something in him could have changed my mind and didn't. So the checks don't show that he sees nothing. What they show is narrower, and it's enough. Wanting suffering as suffering requires a failure of *equal standing*, even when the pain is vividly perceived. He can see a person and still not count that person as the same kind of thing as himself. That is the claim, and it's what the second check is for. The further step, that under the failure care would prevail, is the contemplative thesis, and I'll mark it as belief when I get there.
+
 The test is the one you'd expect. Find someone who passes all three toward a person and wants that person to suffer, as suffering. Not as a means, not as a lesser evil, not as justice. Wants it. If that person exists, the mechanism is narrower than I've claimed and the book has to say so.
 
 Now let me say what that would cost me, because it's less than it sounds, and I'd rather you knew the size of the bet before you took my side of it.

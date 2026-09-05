@@ -88,6 +88,12 @@ And it's not by accident.
 
 ---
 
+There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants.
+
+And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
+
+Every act of unkindness, every skirting of conscience, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
+
 There _is_ a kind of "evil global conspiracy." It just isn't the kind we've trained ourselves to look for.
 
 The belief that we're the righteous ones standing outside it, valiantly fighting it?
