@@ -22,7 +22,7 @@ Why did one side have to argue, and the other not? And which side did you listen
 
 I mean, *obviously*. Why trust something that can't even justify itself?
 
-And yet, despite "losing" that battle, notice that it never budged an inch. It kept on quietly knowing exactly what it knew. And some part of you knew that wouldn't go away.
+And yet, despite "losing" that battle, notice that it never budged an inch. It kept on quietly knowing what it knew. And some part of you knew that wouldn't go away.
 
 That's why you need limbo in the first place. If all you could hear was your own conscience—no justifications to hide behind—could you have even done what you did?
 
@@ -86,7 +86,7 @@ Notice how there's nothing you can point to and say "that's it." We intuitively 
 
 And it's not just about how you felt. Notice what contempt licenses. Once he believes that *this is all you are,* how does that enable him to treat you? Is there any bottom to it?
 
-But it's worse than that. Recall how it would have played out had you tried to exonerate yourself. Deny it, and you're exactly the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
+But it's worse than that. Recall how it would have played out had you tried to exonerate yourself. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
 Every road funnels into the same conclusion.
 
@@ -103,7 +103,7 @@ There's a third answer—and it's what the book is about.
 
 On one hand, what he was doing certainly *felt* intentional, didn't it? Something about his tone and gaze gave it away instantly, even if his words didn't. And the longer it went on, the more obvious it was that wasn't accidental. He had to track your reactions, navigate around obstacles, and prevent you from wriggling out and exonerating yourself.
 
-It's as if some part of him *needed* you to be exactly what he said you were, and was working hard at proving it. Can you feel that?
+It's as if some part of him *needed* you to be what he said you were, and was working hard at proving it. Can you feel that?
 
 On the other hand, how could it actually *be* intentional? If he knew he was planning to use your reactions against you, how could he then turn around and sincerely hold them against you? You can't trust evidence that you know you yourself planted.
 
@@ -296,13 +296,13 @@ His darkness is **seducing** you to embrace yours. To listen to the part that ca
 
 And it can all be communicated through a single glance. We all know what it means on some level, even if we've never put it into words or felt the full weight of it before. And it works precisely *because* we all know it, but cannot prove it.
 
-You may have felt this before, as a kind of "hall of mirrors" effect, where you both know exactly what's happening, and that neither one of you can name it.
+You may have felt this before, as a kind of "hall of mirrors" effect, where you both know what's happening, and that neither one of you can name it.
 
 This is what is being communicated from inside it.
 
 ---
 
-It feels like this on the receiving end: *if this is the kind of world we live in—where people can be cruel and the world calls it "righteous"; where we all know exactly what's happening but pretend not to—then **fuck it**. Game on.* 
+It feels like this on the receiving end: *if this is the kind of world we live in—where people can be cruel and the world calls it "righteous"; where we all know what's happening but pretend not to—then **fuck it**. Game on.* 
 
 That's what teaches you to do it too. To demote that inner knowing—because what is it worth?
 

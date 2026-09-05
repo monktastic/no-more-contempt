@@ -1,4 +1,4 @@
-NOTE: This appendix was written by Claude, with my guidance.
+*Written by Claude, with my guidance.*
 # Appendix 2: What Others Have Seen
 
 *Place late in the book. This is scholarship, not positioning, and it only reads that way once the reader can judge the comparisons for themselves.*

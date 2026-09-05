@@ -10,9 +10,9 @@ has_toc: true
 
 # Where This Goes
 
-*Parts A to F: about 17,974 words, roughly 64 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Parts A to F: about 18,019 words, roughly 64 pages at 280 words a page. Updated whenever the site is regenerated.*
 
-NOTE: This map was written by Claude, with my extensive guidance.
+*Written by Claude, with my extensive guidance.*
 
 *A map of the rest of the book, for early readers. Placed after Chapter 5, which is the short version of everything here. This will not be in the finished book.*
 
@@ -59,7 +59,7 @@ You can check this right now, on whoever you're carrying. Where does the rage si
 
 That question is most of the practice. The rage at the harm is the real you. The rage at the person is the parasite. And this is how it gets you: it shows you real evil, which you're right about, and then offers to handle it for you.
 
-Here's why the sorting matters. Rage at the harm, kept off the face, is exactly what the second stranger did. He wasn't gentle. He was angry at what you did, and he never once made it about what you are. Which meant his anger had nothing in it for your parasite to use. No contempt to feed on. No hypocrisy to point at. So it went past your parasite and landed on the part of you underneath, and that part recognized something. Not an enemy. Someone on its side, against the thing that had been using you.
+Here's why the sorting matters. Rage at the harm, kept off the face, is what the second stranger did. He wasn't gentle. He was angry at what you did, and he never once made it about what you are. Which meant his anger had nothing in it for your parasite to use. No contempt to feed on. No hypocrisy to point at. So it went past your parasite and landed on the part of you underneath, and that part recognized something. Not an enemy. Someone on its side, against the thing that had been using you.
 
 That's the other handshake. There's one between parasites, and it's called contempt. There's one between the parts underneath, and it's what the second stranger did. It doesn't need to be nice. It can be fierce. It can, when it has to, be violent: you can be fighting someone with everything you've got and still be talking to the part of them underneath. The one thing it can't be is contemptuous, because contempt is the parasite's own handshake, and the moment you offer it, you've switched sides.
 
@@ -67,6 +67,6 @@ That's the other handshake. There's one between parasites, and it's called conte
 
 So why can't you just do that? Keep the first rage, drop the second, and go be the second stranger?
 
-Because the parasite doesn't just use your hands. It uses your thinking, and then your seeing, and by the time it's done, your world looks exactly like a world in which those people really are what you decided they are. That's Part A. Then how that scales to everything we build together: Part B. Then the people we call evil, and what you owe the one who hurt you: Part C. Then the only lever there is, and what the parasite turns out to be made of: Part D. Then, set apart, what I believe: Part E. Then what the book is for.
+Because the parasite doesn't just use your hands. It uses your thinking, and then your seeing, and by the time it's done, your world looks like a world in which those people really are what you decided they are. That's Part A. Then how that scales to everything we build together: Part B. Then the people we call evil, and what you owe the one who hurt you: Part C. Then the only lever there is, and what the parasite turns out to be made of: Part D. Then, set apart, what I believe: Part E. Then what the book is for.
 
 ---

@@ -162,9 +162,9 @@ You're taking four claims on trust. Here is what I owe you on them, and two more
 
 I haven't shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more. There's an obvious candidate for a counterexample, too: the one who wants the suffering and stays to watch it. I'll take that case head on when we get to them, and I'll say what would settle it against me.
 
-How much rides on it is less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. Something eases. Something wanted that.
+How much rides on it is less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. In me, something eases. Something wanted that.
 
-You may not catch it the first time. It's quick, and it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. But it's there, and once you've caught it once you'll catch it again, and you'll notice it has nothing to do with wanting the harm to stop.
+You may not catch it the first time. It's quick, it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. If you do catch it, look at whether it has anything to do with wanting the harm to stop.
 
 I haven't shown you anything about your own contempt for somebody who really hurt you. In this chapter you got caught doing something you actually did. Being hurt by someone when you'd done nothing at all is a different seat. The mechanism is the same. The seat isn't, and it gets its own chapter.
 

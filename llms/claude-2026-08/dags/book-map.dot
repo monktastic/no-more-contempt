@@ -1,0 +1,146 @@
+// The whole book on one page. An edge A -> B means B rests on A.
+// Bands are the three kinds of claim (the two seams). Fill is where the
+// claim lives. Heavy outline: the book's own contribution. The red road is
+// the way in to the destination: the hiding proves the care.
+// Render: dot -Tsvg dags/book-map.dot -o dags/book-map.svg
+digraph book {
+  graph [rankdir=TB, splines=spline, concentrate=true, nodesep=0.25, ranksep=0.5, pad=0.4,
+         fontname="Helvetica Neue", fontsize=11, bgcolor="#fbfaf7", newrank=true];
+  node  [shape=box, style="rounded,filled", fontname="Helvetica Neue", fontsize=10,
+         color="#8a8378", penwidth=0.8, margin="0.14,0.07"];
+  edge  [color="#b5aea2", arrowsize=0.55, penwidth=0.8];
+
+  // ---- fills by where the claim lives ----
+  // chapters 1-4 and interlude   #e8eef7 (blue-grey)
+  // Part A (thinking)            #fbe9d0 (peach)
+  // Part B (scale)               #dcebd8 (green)
+  // Part C (evil people)         #e9dcf1 (violet)
+  // Part D (the way through)     #d7e6f3 (blue)
+  // Part E (belief)              #fbf0c4 (gold)
+  // Part F / appendices          #efe9df (sand)
+
+  subgraph cluster_checked {
+    label="WHAT YOU CHECKED   ·   your own memory, and the street"; labeljust=l;
+    style="rounded,filled"; fillcolor="#f3f1ec"; color="#d8d2c6"; fontcolor="#5a544b";
+    node [fillcolor="#e8eef7"];
+    P   [label="The flicker\nvengeance, or the pill"];
+    L   [label="Limbo\nknew, and didn't let yourself know", penwidth=2.2, color="#3d3934"];
+    Cn  [label="Conscience\nknew before the reasons; never argued"];
+    G   [label="The gaze\nyou can't harm while looking"];
+    S2  [label="Two strangers\nnear-identical words, opposite effects", penwidth=2.2, color="#3d3934"];
+    T   [label="The tell\nthe hiding is the revealing", penwidth=2.2, color="#3d3934"];
+    Ex  [label="The exception\n'this doesn't apply to me' =\n'you're not one of us'"];
+  }
+
+  subgraph cluster_inferred {
+    label="WHAT I INFER   ·   conclusions drawn from what you checked"; labeljust=l;
+    style="rounded,filled"; fillcolor="#f6f3ed"; color="#d8d2c6"; fontcolor="#5a544b";
+
+    node [fillcolor="#e8eef7"];
+    Tr  [label="The trap\ncouldn't have known, couldn't have been blind:\nlimbo, held with both halves", penwidth=2.2, color="#3d3934"];
+    K   [label="Kind is not nice\nthe second stranger held both halves"];
+    Pa  [label="The parasite\nan agent that hides from its host\nby showing itself to you", penwidth=2.2, color="#3d3934"];
+    Loop [label="The loop\nno stopping point short of 'irredeemable'"];
+
+    node [fillcolor="#fbe9d0"];
+    Tug [label="The tug\ncontempt is recruitment;\nyour accuracy is the hook", penwidth=2.2, color="#3d3934"];
+    Hj  [label="Reasoning hijacked\nrules, metrics, the memo on file"];
+    Pc  [label="Perception hijacked\nthe verdict becomes what you see"];
+    W   [label="Limbo is the water\n'unconscious' (mine) vs 'conscious' (yours)"];
+
+    node [fillcolor="#dcebd8"];
+    HC  [label="Hot and cold\ncold is further along, not milder"];
+    Sh  [label="Shadow spaces, the hum\nten parasites behaving as one"];
+    In  [label="Institutions\nnot-looking made permanent"];
+    Cs  [label="The conspiracy\none thing, one purpose;\nnever on only one side"];
+
+    node [fillcolor="#e9dcf1"];
+    Ev  [label="Evil people\nresult of turning away, not its cause"];
+    Far [label="The far end\na hostage held up to the window", penwidth=2.2, color="#3d3934"];
+    Sad [label="The sadist\nthe kind-gaze test; where it could fail"];
+    Inn [label="All evil is innocent\nand you're fully responsible"];
+    Bel [label="Contempt from below\nand contempt for yourself"];
+
+    node [fillcolor="#d7e6f3"];
+    Lev [label="The only lever\nwhat's left is care;\nthe size of the hiding measures it", penwidth=2.2, color="#3d3934"];
+    Md  [label="What it's made of\na nothing that must be fought\nlike a something"];
+    Prac [label="The practice\ncatch the wanting;\nrage at the harm, not the face"];
+  }
+
+  subgraph cluster_believed {
+    label="WHAT I BELIEVE   ·   same road, further along; the checks run out"; labeljust=l;
+    style="rounded,filled"; fillcolor="#f8f4e6"; color="#d8d2c6"; fontcolor="#5a544b";
+    node [fillcolor="#fbf0c4"];
+    Rem [label="What remains\nlove; goodness needs nothing added"];
+    One [label="One absence, one light\nnothing tells two awarenesses apart"];
+    Fear [label="Where the fear comes from\nthe blank first; self and other after"];
+    Arch [label="The tree and the arch\ncontempt for the world"];
+    node [fillcolor="#efe9df"];
+    ICK [label="Implicit common knowledge\ncommon at the level of awareness,\nunavowable at the level of persons\n(Appendix 1)", penwidth=2.2, color="#3d3934"];
+    node [fillcolor="#fbf0c4"];
+    Nat [label="Compassion is the nature of mind\nwhat stopped you on the street\nwas what was doing the looking", penwidth=2.6, color="#a8362b", fontcolor="#5a1d16"];
+  }
+
+  subgraph cluster_end {
+    label="WHAT THIS BOOK IS FOR"; labeljust=l;
+    style="rounded,filled"; fillcolor="#f3f1ec"; color="#d8d2c6"; fontcolor="#5a544b";
+    node [fillcolor="#efe9df"];
+    Four [label="One idea, four sides\none move; all wrongdoing is made of it;\ncontempt is its purest form; only turning toward"];
+    For  [label="A shared, sayable name\nand under it: what you're made of"];
+  }
+
+  // ---- rows (keep each band compact and stacked) ----
+  { rank=same; G; Ex; }
+  { rank=same; S2; P; }
+  { rank=same; Tr; Hj; HC; }
+  { rank=same; K; Pc; Sh; Pa; }
+  { rank=same; Lev; W; In; Tug; Loop; Ev; }
+  { rank=same; Md; Cs; Bel; Far; Inn; }
+  { rank=same; Sad; Prac; }
+  { rank=same; Rem; One; Arch; Fear; }
+  { rank=same; ICK; Nat; }
+
+  // ---- edges: what rests on what ----
+  L -> Cn; L -> Tr; Cn -> G; G -> S2; S2 -> T; Cn -> Ex;
+  P -> Tug;
+  Tr -> K; T -> Pa; Pa -> Tug; Pa -> Loop;
+  L -> Hj; Hj -> Pc; Pc -> W; Ex -> W;
+  T -> HC; HC -> Sh; Sh -> In; In -> Cs; Tug -> Cs;
+  HC -> Ev; Ev -> Far; Loop -> Far; Far -> Sad; Ev -> Inn; Tug -> Bel;
+  K -> Lev; Pa -> Md; Lev -> Md; Lev -> Prac; Sad -> Prac;
+  Md -> One; Md -> Fear; Ex -> Arch;
+  One -> ICK; T -> ICK;
+  Rem -> Nat; One -> Nat;
+  Lev -> Four; Nat -> For; Four -> For;
+
+  // ---- the road in ----
+  edge [color="#a8362b", penwidth=2.2, arrowsize=0.7];
+  G -> Lev; Lev -> Rem;
+
+  // ---- ordering only (invisible) ----
+  edge [style=invis];
+  T -> Tr; T -> Hj; Ex -> HC;
+  Prac -> Rem; Prac -> One; Prac -> Arch; Prac -> Fear; Sad -> Rem;
+  Nat -> Four; ICK -> Four;
+
+  // ---- legend ----
+  subgraph cluster_legend {
+    label="LEGEND"; labeljust=l; style="rounded,filled"; fillcolor="#ffffff"; color="#d8d2c6"; fontcolor="#5a544b";
+    node [fontsize=9, margin="0.10,0.05"];
+    { rank=same;
+    lg1 [label="Chapters 1 to 5", fillcolor="#e8eef7"];
+    lg2 [label="Part A  why you can't think your way out", fillcolor="#fbe9d0"];
+    lg3 [label="Part B  how it scales", fillcolor="#dcebd8"];
+    lg4 [label="Part C  evil people", fillcolor="#e9dcf1"];
+    lg5 [label="Part D  the way through", fillcolor="#d7e6f3"];
+    lg6 [label="Part E  what I believe", fillcolor="#fbf0c4"];
+    lg7 [label="Part F, appendices", fillcolor="#efe9df"];
+    lg8 [label="the book's own contribution", fillcolor="#ffffff", penwidth=2.2, color="#3d3934"];
+    lg9 [label="the destination", fillcolor="#fbf0c4", penwidth=2.6, color="#a8362b", fontcolor="#5a1d16"];
+    lgA [label="A → B: B rests on A", fillcolor="#ffffff"];
+    lgB [label="red road: the way in (the hiding proves the care)", fillcolor="#ffffff", color="#a8362b", fontcolor="#5a1d16"];
+    lg1 -> lg2 -> lg3 -> lg4 -> lg5 -> lg6 -> lg7 -> lg8 -> lg9 -> lgA -> lgB [style=invis];
+    }
+  }
+  For -> lg1 [style=invis];
+}

@@ -15,7 +15,7 @@ Evil is the *result* of turning away, not its cause. That's the claim. We all sh
 
 The checkable version: bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. I've never found one that doesn't run on that move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
 
-The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly *more* certainty. Take the "evil people" you've watched and check whether that pattern is there. I think you'll find it in nearly all of them. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
+The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly *more* certainty. Take the "evil people" you've watched and check whether that pattern is there. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
 
 ### The far end
 
@@ -53,7 +53,7 @@ And then you go after it. But you go after it from inside your own, because that
 
 Every part of that is correct except the last step, and the last step is the only one you can't see.
 
-That's the trap. Not that people are confused about what's good. We aren't. We know exactly what's evil and we want it gone, and that accuracy is precisely what gets harvested.
+That's the trap. Not that people are confused about what's good. We aren't. We know what's evil and we want it gone, and that accuracy is precisely what gets harvested.
 
 ---
 
@@ -65,13 +65,13 @@ He isn't struggling. From where he sits there is nothing holding him.
 
 I don't mean he's happy, or comfortable, or that his life is going well. I mean that the thing you're trying to free him from doesn't present itself to him as a captor. It presents itself as his judgment. His moral seriousness. The part of him that refuses to let bad things stand. Ask him to put it down and you are asking him to stop caring about what's wrong with the world.
 
-And it pays him. Every time he uses it there's a hit. That hot rightness, the satisfaction of pressing down on something that deserves it. You know the feeling, because you have it too, and when you have it you do not experience it as being ridden. You experience it as being *right*, more clearly than usual.
+And it pays him. Every time he uses it there's a hit. That hot rightness, the satisfaction of pressing down on something that deserves it. You've had it too. It doesn't arrive as being ridden. It arrives as being *right*, more clearly than usual.
 
 So this is the shape of it. From the outside, the thing looks monstrous, and you're not wrong. From the inside, the same thing feels like the best of you, and that isn't a trick you could catch by paying closer attention. It's what it's like in there. And no one ever gets both views of the same instance. You have the inside of yours and the outside of everyone else's. So does everyone. So does he.
 
 Which is why this is not a problem that people can solve for each other by explaining. Hand a man the outside view of himself and it arrives on the inside, where it lands as an attack on the thing he thinks is best in him. That is the first stranger, in one sentence, and it's why he made you worse.
 
-Whatever gets through has to get through without carrying a verdict. There is exactly one thing that does that, and you already know what it is, because it was done to you.
+Whatever gets through has to get through without carrying a verdict. One thing does that, and you've met it, because it was done to you.
 
 ### Two objections
 
@@ -97,7 +97,7 @@ I should say exactly how much the three checks prove, because a careful reader w
 
 Now the part that's mine, which you should hold as inference. That failure is not an absence but limbo. The recognition that the other person is the same kind of thing as you is never gone. It's held down, and the deeper it's held, the less it looks like anything at all. In you, near the surface, you can catch it in a second. In him it's under so much that the only honest-sounding description is that it isn't there at all. That description is the core mistake, and it's the same mistake in both directions. It lets us call our own not-looking "unconscious" and his "evil," and both words say the same false thing: that it's fixed. What's in limbo was never the deed. It's the other person's sameness to you, and the deed is what holding that down makes possible. The far end I described above is this claim at full strength: what's held down doesn't shrink. It shows through.
 
-So the test has to change, and it shouldn't rest on my reading of what's underneath. It can use the evidence the book has used since the street. If the contemptuous gaze is real evidence, and I've treated it as real from the first page, then the kind gaze is evidence of the same standing. So: at the moment somebody is inflicting suffering for its own sake, can they be seen looking at the victim with genuine kindness? Not instrumental harm, and not harm sincerely believed necessary; those aren't the test. Not "this hurts me more than you," which is coercion wearing tenderness. Not a flash of kindness and then the turning-away again, which is sequential. Not warm eye contact from somebody who has learned what it looks like. Real kindness, in the moment, while the suffering is being wanted for its own sake. If that exists, equal standing and the wish for suffering can coexist, and the account fails in a way that matters. I've never seen it, and I've looked.
+So the test has to change, and it shouldn't rest on my reading of what's underneath. It can use the evidence the book has used since the street. If the contemptuous gaze is real evidence, and I've treated it as real from the first page, then the kind gaze is evidence of the same standing. So: at the moment somebody is inflicting suffering for its own sake, can they be seen looking at the victim with genuine kindness? Not instrumental harm, and not harm sincerely believed necessary; those aren't the test. Not "this hurts me more than you," which is coercion wearing tenderness. Not a flash of kindness and then the turning-away again, which is sequential. Not warm eye contact from somebody who has learned what it looks like. Real kindness, in the moment, while the suffering is being wanted for its own sake. If that exists, equal standing and the wish for suffering can coexist, and the account fails in a way that matters. I have never come across a case that meets those conditions.
 
 Second, and this is a prediction rather than a proof: holding something down leaves a signature. It needs deniability. It tracks the target. It intensifies when exposed. It works on the verdict. I can't show from outside that nothing is held under, so this can't settle the question alone. But an appetite for suffering with none of that signature is either the place where this account stops, or a person in whom the faculty is missing rather than held down. I don't know which. That's the psychopath question, and it comes below.
 
@@ -131,7 +131,7 @@ I have to say this carefully, because it's the hardest thing in the book. When t
 
 Your rage is right. The fierceness is right. Stopping them is right, and if stopping them takes force, the force is right. Nothing here asks you to feel less, soften anything, or grant an inch you don't want to grant. None of that is on trial.
 
-One thing is on trial: the verdict. *This is what they are.* And I'm going to ask you to look at something about that verdict that you will not want to look at. I'm asking because, of everyone, you've earned the right to know it.
+One thing is on trial: the verdict. *This is what they are.* And I'm going to ask you to look at one thing about that verdict. I'm asking because, of everyone, you've earned the right to know it.
 
 Look at who benefits when you hold it.
 
@@ -143,7 +143,7 @@ Of course you don't want to feed that. You, of all people.
 
 What actually frightens it is the other thing: fierce, unyielding refusal that carries no verdict. That isn't a nice idea from a book. It's among the most effective forces in the history of people facing power they couldn't match. When King said hate was too great a burden to bear, he wasn't being sentimental; he was describing a strategy, and the record bears him out. It works because it's the second stranger. It gives the other side nothing to dig in against, and it gives the parasite in them nothing to eat. And it is enormously harder than contempt, which is why the parasite sells you contempt as the strong option.
 
-Notice what the second stranger produced in you. It wasn't shame. It was remorse: what you feel about what you did when what you are isn't in question. Remorse repairs. Shame hides. That is the entire difference between the two strangers, and it turns out to have been measured.
+Notice what the second stranger produced in you. It wasn't shame. It was remorse: what you feel about what you did when what you are isn't in question. Remorse repairs. Shame hides. That is the difference between the two strangers, and it has been measured.
 
 There's one more form of contempt, the most common of all, and nobody talks about it: contempt for yourself. The verdict, turned inward. It feels like accountability. It produces what contempt always produces: hiding. The way you hold your own darkness is the way you'll end up holding theirs. If you can only look at what you did while what you are isn't on trial, that's true of them too. And it's true of you first.
 

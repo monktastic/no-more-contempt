@@ -25,9 +25,7 @@ If they fully knew and *only* knew, then they're just bad. Fundamentally defecti
 
 But if they didn't know, then why hold them accountable at all? Maybe we should just go easy on them. This is close to what the popular misconception of compassion is: being soft and nice, and non-confrontational.
 
-**Nothing could be further from the truth.**
-
-Compassion holds both halves at once. We (and our enemies) are **fully responsible** for the harm we've caused—and at the same time deserve the grace necessary to actually let us see it clearly enough to end it, rather than forsaking us to the abyss where we're doomed to repeat it.
+But genuine compassion holds both halves at once. We (and our enemies) are **fully responsible** for the harm we've caused—and at the same time deserve the grace necessary to actually let us see it clearly enough to end it, rather than forsaking us to the abyss where we're doomed to repeat it.
 
 ---
 
@@ -97,7 +95,7 @@ Would we consent to it if we could clearly see what we were doing?
 
 ---
 
-Take a careful look around, and you'll find that most of the harm we cause has its root in some form of contempt. For each other. For animals. For nature herself.
+When I take a look around, I find that most of the harm we cause has its root in some form of contempt. For each other. For animals. For nature herself.
 
 I'm not waxing spiritual to slip my views past you. As best I can tell, none of us actually wants to destroy our biosphere—not if that "want" is interrogated deeply enough. Even the ones who'd claim otherwise simply aren't looking closely.
 

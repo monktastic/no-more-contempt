@@ -49,7 +49,9 @@ Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
 `spiral.md` why circular dependencies aren't a problem here.
 `dags/` dependency graphs. The `.dot` is the source; regenerate with
-`dot -Tsvg f.dot -o f.svg`.
+`dot -Tsvg f.dot -o f.svg`. `book-map.dot` is the whole book on one page,
+by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
+map; `spiral-cycle.dot` is why the circularity is fine.
 `archive/` kept for the reasoning, not for reuse. References in here point at
 files under their old names; that's the historical record and stays as it is.
 `build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
@@ -99,6 +101,32 @@ Banned outright, because I keep finding them:
   was harsh and it was kindness. If a sentence uses any of those words for
   softness, it's wrong. That applies in working documents and in messages to
   me, not only in the book. I have caught the assistant doing it.
+
+## The reader is not cornered
+
+The book is a transmission before it is an argument. A reader who feels
+cornered hides, which is the thing the book is about, so a page that corners
+does harm even when every sentence on it is true. Trust the reader. Leave room.
+This overrides the urge to make sure they got it.
+
+The tells, every one of which has turned up in drafts:
+
+- **Telling the reader what they'll find before they look.** "I don't think
+  you will," "you'll find," "check whether some part of you has always known
+  this." Ask the question and stop. If it's my finding, say it's mine.
+- **"If you're honest."** Makes disagreement dishonesty.
+- **Treating the reader's objection as the mechanism.** "Shouldn't I correct
+  bad behavior?" is a fair question and the answer is yes. Say what the
+  question swaps; never say the questioner is the parasite.
+- **Volume knobs.** "Exactly," "precisely," "the whole," "the only," "the
+  most," "never once," "every single." One is precision. Ten a page is
+  insistence.
+- **The book naming itself.** "That's what this book is about." Say the thing.
+- **Questions that presume their answer.** "Right?", "isn't it?". Chapter 1's
+  method is questions. The ones that leave room are the method; the ones that
+  close it are the tell.
+- **Every road funnels.** If every response the reader could make has been
+  answered in advance, the page is doing what the first stranger did.
 
 Fragments are allowed and are sometimes the point. More than one or two on a
 page and they stop working. Read it aloud before you keep it. If it sounds like

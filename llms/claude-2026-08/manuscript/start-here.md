@@ -4,7 +4,7 @@ This is a book in progress, and what you're looking at is the working draft. It'
 
 ## What it's about
 
-This is a book about contempt: what happens when you decide that a person isn't just somebody who did a bad thing but a bad person, and what that decision does to them, to you, and to everyone who's watching. The book claims three things. That this one move is what we've always meant by the word evil. That it depends on a state of mind you can catch yourself in. And that the only thing that has ever undone it is an attitude most of us were taught to see as weakness. I don't argue for any of that. The first chapter asks you to look at your own memory, and everything after it is built from what you find there.
+This is a book about contempt: what happens when you decide that a person isn't just somebody who did a bad thing but a bad person, and what that decision does to them, to you, and to everyone who's watching. The book claims three things. That this one move is what we've always meant by the word evil. That it depends on a state of mind you can catch yourself in. And that the one stance that doesn't reproduce it is one most of us were taught to see as weakness. I don't ask you to accept any of that up front. The first chapter asks you to look at your own memory, and everything after it is built from what you find there.
 
 ## Three lengths
 
