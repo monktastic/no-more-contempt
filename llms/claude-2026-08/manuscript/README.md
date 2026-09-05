@@ -9,6 +9,7 @@ here is edited in place; git is the safety net.
   chapter-2.md
   chapter-3.md
   chapter-4.md
+  chapter-5.md     the whole book once, in 2,500 words, tiered
   rest-of-book.md  map of the unwritten rest, for beta readers
   appendix-1-recursion.md
   appendix-2-what-others-have-seen.md

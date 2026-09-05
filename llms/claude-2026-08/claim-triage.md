@@ -82,7 +82,8 @@ Corollary for the interlude: three piles, not two. What you saw. What I make of 
 | Conscience knew before calculating; what it knew was the exception | Ch 1a | Demonstrated | Ch 1a recall 1 | done |
 | You can't harm while looking | Ch 1a | Demonstrated for your case; owed for everyone | Ch 1a recall 3 | Part C §10, the sadist |
 | Contempt makes people worse (two strangers) | Ch 1 | Demonstrated | Ch 1 | Part B, with data |
-| **The trap is forced** (the contribution) | Ch 1a | Argued in Ch 1 (Constraints); assembled in Ch 1a | Ch 1a, "The trap, in one piece" | Ch 1 |
+| **The trap** (the contribution) | Ch 1a | Argued in Ch 1 for this configuration; that every act of contempt carries it is owed | Ch 1a, "The trap, in one piece" | Parts A to C |
+| You read him accurately | Ch 1a | Inferred: the imagined state matched your own; accuracy in real encounters owed | Ch 1a, "what I make of it" | Part B |
 | Cheating and contempt are one move | Ch 1a | Inferred | Ch 1a, "what I make of it" | Part A |
 | The agent exists; benefits from being taken for him | Ch 1a | Inferred | Ch 1a, "what I make of it" | Ch 1 |
 | The agent *needs* to be taken for him | Ch 4 | Stated, owed | Ch 1a debts | Part C |

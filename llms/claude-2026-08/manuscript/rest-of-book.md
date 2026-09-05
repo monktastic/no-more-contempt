@@ -1,27 +1,11 @@
 # Where This Goes
 
-*A map of the rest of the book, for early readers. Placed after Chapter 4. This will not be in the finished book.*
+*A map of the rest of the book, for early readers. Placed after Chapter 5, which is the short version of everything here. This will not be in the finished book.*
 
 
 ---
 
-Chapter 4 ended on a claim I haven't earned yet: that the agent you met in Chapter 1—the thing that was working through the stranger, and through you—is part of something larger. Here's what I mean, in plain terms. Then I'll go through it piece by piece.
-
-Your agent is a parasite of sorts: not the "real you," but something that can be evicted from your mind. So for now I'll refer to it as one. Later we'll discover its true nature (or lack thereof).
-
-Recall how the stranger's parasite did his "dirty work" for him while he kept his hands clean. He would have been *genuinely surprised* to learn that he was making you a worse person for his own benefit—even though another part of him knew it *perfectly well*, and was in fact choreographing it. He knew and he didn't. Collapse that paradox to either side and you lose the thread.
-
-His parasite was offering yours a secret handshake, and yours accepted. That's why you dug in, and digging in gave his parasite what it needed. If you had been relatively free of yours, you would have recognized the sense in which it wasn't really him—*the sense in which*, not an excuse. Then you could have done for him what the second stranger did for you. His parasite would have gotten nothing from you to feed on. Handshake denied.
-
-Which tells you something. Your parasite doesn't just change what you think. It changes what you see.
-
-Every one of us is infected to one degree or another. A person we call "evil" is simply at the far end. His parasite has taken over so completely that, to most of us, it looks like him. The deeper someone's infection, the freer you have to be of your own before you can see the parasite instead of the person. Otherwise you get pulled in, and we already know where that leads. But pretending it isn't him doesn't work either; that just makes you soft. You have to *actually see* it, and you can only see it in him to the degree you're free of it yourself.
-
-Now the strange part. These parasites don't act like billions of separate things. They cooperate, almost seamlessly. With two people, it's a handshake. Put enough of them in a room and they produce something none of the people would produce alone. Put enough of them in a building and they build institutions. Put all of them together, across the whole species, and they behave like a single thing with a single purpose. It's what people have always called the Devil.
-
-When you hate the corruption in the world, that hatred comes from the "real you": the part that cares. When you hate the people who do it, that hatred comes from the parasite. Which doesn't mean you should go easy on them.
-
-That's the biggest claim in the book. It isn't the only one. The book also claims that you can't think your way out of this; that the only thing that works is what the second stranger did; and, set apart at the end, that what you are is something the parasite can't touch. Those come in order. But two pieces of the big claim need slowing down on first, because everything turns on them.
+Chapter 5 said the whole thing once, with less evidence than any of it deserves. This is the middle length: the same claims, walked through with more of what stands behind each, in the order the finished book will take. Two pieces of the big claim need slowing down on first, because everything turns on them.
 
 ---
 
@@ -119,7 +103,7 @@ That's the hijack. Your world becomes indistinguishable from a world in which th
 
 This is why good intentions don't fix it. You cannot simply decide to look. Deciding is done with the equipment that's already turned, so the decision comes out turned. This is not a fight between a good part of you and a bad part, which you could win by trying harder. There's nothing there to fight. There's a not-looking, and it ends when looking becomes possible again.
 
-Which is why the second stranger worked and the first didn't. He didn't win an argument with you. He made looking survivable, by taking what you are off the table, and then you looked. And it's why contempt can't ever do that, no matter how deserved. It puts what you are on trial, and looking becomes the most dangerous thing you could do.
+Which is why the second stranger worked and the first didn't. He didn't win an argument with you. He made looking survivable, by taking what you are off the table, and then you looked. And it's why contempt can't do that, however deserved. It puts what you are on trial, and looking becomes the most dangerous thing you could do.
 
 So this is where "evil people" live. In a world where their victims really are what they seem. Not a world they chose. A world that looks, from inside, like the truth. Which raises the obvious objection: then why can't we just do what the second stranger did, to the worst people, and fix them? I have two answers, and neither is comforting. The deeper someone is in, the more has to be true around them before looking is survivable, and one person's dignity is usually nowhere near enough. And I don't know whether there's a point past which nobody can be reached. I suspect there is. What I do know is which direction contempt moves them, and it's not toward. When we hold the verdict, we aren't opening the cage. We're welding it shut.
 
@@ -141,7 +125,7 @@ If you take one sentence from this book, take this one.
 
 It isn't a signal that you've spotted evil. It's the feeling of evil recruiting you, and it uses your accurate perception of it as the hook. You saw that with the stranger: he was right that there was darkness in you. He was recruited by it anyway, into doing the thing that fed it. The accuracy is what makes the tug so hard to refuse.
 
-Before saying what that costs, I want to show you the thing that's being pushed aside. Ask a room of hardened soldiers whether it's wrong to desecrate an enemy's corpse. They'll say yes, nearly all of them, instantly. Then ask them what the harm is. The person is dead. Nobody's watching. No rule is being enforced. They won't be able to tell you, and they won't budge either. That's conscience caught in the act: it knows, it can't prove, and it doesn't need to.
+First, the thing that's being pushed aside. Ask a room of hardened soldiers whether it's wrong to desecrate an enemy's corpse. They'll say yes, nearly all of them, instantly. Then ask them what the harm is. The person is dead. Nobody's watching. No rule is being enforced. They won't be able to tell you, and they won't budge either. That's conscience caught in the act: it knows, it can't prove, and it doesn't need to.
 
 Now the cost. I think this is where the damage to whole societies begins. Every act of contempt teaches the same lesson to everyone it touches: that the inner knowing is worthless. If good and evil can't be told apart from the outside, and the world only rewards the outside, why listen to the part that can't prove anything? That is how a culture that trusts only proof gets built, one interaction at a time. And a culture that trusts only proof is one in which the single faculty capable of detecting this whole thing has been demoted to the "spiritual," where it can be safely ignored.
 
@@ -275,7 +259,7 @@ I should say the obvious thing, because leaving it out would be its own kind of 
 
 That's also why the men in that locker room are so hard to think about clearly. Everything in you wants to write them off as what they appear to be. But what you're looking at is a trance. Nobody in it chose it, and none of them can see out of it while they're in it. You know that from the inside, because you know what it's like to be in one and be certain you aren't.
 
-And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could just round up the bad people and be rid of them, the rest of us would live in peace. The self-deception required to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. Every atrocity ever committed began there.
+And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could just round up the bad people and be rid of them, the rest of us would live in peace. The self-deception required to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find an atrocity that didn't begin there.
 
 When I say contempt *is* evil, I don't mean it as a value judgment. I mean it as an identification. This is the thing the word was always pointing at. You're in it. So am I.
 
@@ -289,7 +273,7 @@ I promised we'd get to them.
 
 Evil is the *result* of turning away, not its cause. That's the claim. We all shield ourselves from someone's humanity a little, in order to cause them a little harm. Turn that all the way up—shield completely, so that no life is perceived in the other at all—and what's left is what I was dropped into in Chapter 2. It isn't a different thing. It's the same thing with the brakes gone. That's what it's like to *be* evil, and it doesn't feel evil. It feels like appetite. Like righteousness. Like the obvious thing to do.
 
-Here's the checkable version of that claim. Bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. Every atrocity anyone has ever committed runs on that one move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
+Here's the checkable version of that claim. Bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. I've never found one that doesn't run on that move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
 
 The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly *more* certainty. Take the "evil people" you've watched and check whether that pattern is there. I think you'll find it in nearly all of them. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
 
@@ -437,13 +421,13 @@ It implies that "let him who is without sin cast the first stone" isn't a counse
 
 And it implies that what the traditions called compassion was never the soft thing we've been taught to picture. Something needed us to picture it that way, so that we'd lose the ability to remember what it is. That's the last thing this book has to give back.
 
-So: you can't fix people. What you can do is turn toward them, and you can only do that from turned-toward. I want to be careful here, because the strong version of this is false. Things done from turned-away sometimes work anyway. A contemptuous rebuke has shocked people into looking; it's happened to me. But it does something else at the same time, whatever the immediate result. It makes more of the thing it was aimed at, in them and in you. Turned-toward is the one stance that doesn't.
+So: you can't fix people. What you can do is turn toward them, and you can only do that from turned-toward. I want to be careful here, because the strong version of this is false. Things done from turned-away sometimes work anyway. A contemptuous rebuke has shocked people into looking; it's happened to me. But whatever carries contempt also enacts the very relation it's trying to end, whether or not it gets the result. Turned-toward is the one stance that doesn't.
 
 Here's the warning the book owes you before it says another word about practice. If you take this book and go out to fix people with it, you will produce more of what it warns about, and you'll be certain you're helping. That's not a prediction about other readers. It's a report about me. The trap I fall into most is contempt for people who still have contempt. Watch for it. It's the same thing in new clothes.
 
 What that leaves is your own turning-toward, and it's the only lever there is. Not because it's the noble option. Because it's the only thing in the whole picture that isn't already recruited.
 
-And "turning toward" doesn't mean building something. The faculty is still there. It never left. What the work amounts to is whatever lets you stop drowning it out, which is why the practices that do this are mostly practices of subtraction, and why the second stranger could do it with a look.
+And "turning toward" doesn't mean building something. The faculty is still there. It never left. This is also the thing Chapter 1 promised to come back to: turning away from yourself and turning away from your conscience are one act, because your conscience is the part of you that was doing the seeing. You don't lose a monitor. You lose the view. What the work amounts to is whatever lets you stop drowning it out, which is why the practices that do this are mostly practices of subtraction, and why the second stranger could do it with a look.
 
 Which also settles a question you may have been holding since Chapter 1. If you can't decide to look, is any of this up to you? Yes, but not where you'd expect. The moment of not-seeing isn't chosen; by the time you could choose, the seeing is already gone. What is trainable is how fast you catch it afterward. Days, then hours, then sometimes while it's still happening. That's the core of it, and it's the only part of this that improves with effort.
 
@@ -611,7 +595,7 @@ Everything in this book has been one idea from different sides, and I'd rather s
 
 **Contempt is that move in its purest form.** Which is why this book is named for it.
 
-**So the only thing that doesn't feed the trap is turning toward.** Yours, first. Things done from turned-away sometimes help by accident. They never stop making more of what they're aimed at.
+**So the only thing that doesn't feed the trap is turning toward.** Yours, first. Things done from turned-away sometimes help. What they can't do is stop enacting the relation they're aimed at ending.
 
 The first and third you saw in Chapter 1 and the interlude. The second I've argued through Parts A to C, and the sadist in section 10 is where it could still fail. The fourth is what Part D exists to earn, and whether it earned it is yours to say, not mine.
 

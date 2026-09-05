@@ -1,6 +1,6 @@
 # Discoveries
 
-*Everything worked out in the session of 2–4 September 2026, with where each thing now lives. Ordered by how much weight it carries, not by when it came up. If something here has no destination in the book yet, that's noted.*
+*What the book knows, and where each thing lives. Ordered by how much weight it carries. This file has no state: nothing here is open, owed, or pending. Open work is in `todo.md`.*
 
 ---
 
@@ -21,7 +21,7 @@
 **Contempt attacks the premise, not the feeling.** The badness of another's suffering follows from their being the same kind of thing you are. Contempt asserts a difference in kind. It doesn't suppress compassion; it removes what compassion follows from. Hence the necessary escalation to *irredeemable* — only a different kind of thing is beyond reach.
 → `correspondence.md` (addendum §A)
 
-**"In view" has a definition, and it's independent of harm.** Their objection would land on you; their hurt would register as bad the way yours does; what's in them could change what you do next. Pass all three and you can still fight (the second stranger). Fail all three and lift no finger (the cold form). So the thesis can lose: harm needs none of the failures, *wanting* harm needs at least one. The sadist sees a subject and fails all three, and his pleasure is predicted not to survive same-kindness being put back. Chapter 2's trip already has this shape: innocence devoured, so perceived; life not. Falsifier: someone who passes all three toward a person and wants their suffering as suffering. This replaces the "conscious malice still needs limbo" paragraph, which was No True Scotsman as written.
+**"In view" has a definition, and it's independent of harm.** Their objection would land on you; their hurt would register as bad the way yours does; what's in them could change what you do next. Pass all three and you can still fight (the second stranger). Fail all three and lift no finger (the cold form). So the thesis can lose: harm needs none of the failures, *wanting* harm needs at least one. The sadist sees a subject and fails all three, and his pleasure is predicted not to survive same-kindness being put back. Chapter 2's trip already has this shape: innocence devoured, so perceived; life not. Falsifier: someone who passes all three toward a person and wants their suffering as suffering.
 → `manuscript/rest-of-book.md` §10, `argument.md` Thesis 2 and §6 (▸), `manuscript/chapter-1a.md` (recall 3, seeded as three features of the moment you saw someone; debt named in the closing list), `audit.md` P6 (Chapter 1 patch, not applied)
 
 **The falsifier costs less than it looks, because the checkable claim is about you.** Even if somebody turns up who passes all three in-view checks and wants the suffering anyway, that breaks the account of how harm gets done and leaves the core untouched. The core: the desire to see somebody as a different kind of creature is itself the move, and you can catch it without any fact about anybody else, by noticing that something in you is relieved when the verdict lands. Takes practice; the relief is fast and comes dressed as clarity. Also sets the bar correctly. Seeing all the way into a far-gone person may take decades, so the book asks for the near end of the skill instead.
@@ -39,6 +39,9 @@
 **"Only turning toward helps" was false as stated, and the true version is stronger.** A contemptuous rebuke sometimes shocks someone into looking. What it never does is stop making more of what it's aimed at. So the claim is about what a stance reproduces, not what a single act achieves: turned-toward is the one stance that doesn't feed the trap. Reframed in §12 and §17.
 → `manuscript/rest-of-book.md` §12, §17; `manuscript/chapter-1a.md` (fourth held claim)
 
+**The trap, stated so that it's a deduction and not a slogan.** Three refinements from the second round of outside review, all accepted. *Fully* known, not known: he can know he's being cutting; what he can't admit is his part in producing the evidence. Blind is ruled out by the response to exposure, not by "blind things don't aim," since plenty of blind processes aim; what marks this one is that it adapts in exactly the direction needed to stay unacknowledged. And what he can't afford is not your improving but your improving *counting*: the funnel converts every response into proof, so the requirement is that nothing you do be admissible against the verdict. That's darker and more exact. The deduction is conditional on the configuration Chapter 1 established; that every act of contempt has it stays on credit.
+→ `manuscript/chapter-1a.md` ("The trap, in one piece"), `manuscript/chapter-5.md`
+
 **Conflation is one requirement with two faces.** The parasite needs to be mistaken for the host by the observer (so the observer attacks the host, pressing down the conscience that could end it) *and* by the host (so he defends it as his own convictions). Chapter 1 has both, scattered; they were never stated as one thing.
 → `manuscript/rest-of-book.md` Part C
 
@@ -52,7 +55,7 @@
 → `manuscript/rest-of-book.md` Part C
 
 **The rivals are instances, not alternatives.** Motivated reasoning (my conclusion counts for more than the truth), status defense (I count for more), shame avoidance (my self-image counts for more than accuracy), dominance-reward (I'm above) — every one is the asymmetry at a different level. **The cost:** if everything is the same thing, the word stops working. Paid two ways: keep "contempt" for the hot interpersonal form only, and make the unification predict something — that all of them share one blind spot of the same shape, which fails the same way when the thing looked away from is put back in view. For motivated reasoning that's Kunda's finding: people stop searching when they reach the conclusion they wanted.
-→ `archive/cut-from-interlude-one.md` (integration notes), `todo.md`. **Still needs a home in the body.**
+→ `manuscript/rest-of-book.md` §4, `archive/cut-from-interlude-one.md` (integration notes)
 
 ---
 
@@ -81,7 +84,7 @@
 
 ---
 
-## Corrections made after outside review
+## Lessons, kept because we'd repeat the mistake otherwise
 
 **The book was building the first stranger's funnel for its own reader.** "I suspect you noticed they didn't fit" tells a reader who honestly found nothing that they didn't really look. Replaced with three things it could mean if they looked and it isn't there, none of which makes them turned-away.
 → `manuscript/chapter-1a.md` (closing)
@@ -93,7 +96,6 @@
 → `manuscript/chapter-1a.md` (recall 1, amnesty passage)
 
 **Scope, not hedging, is the fix for overclaim.** Grading everything ("often," "one explanation is") would destroy the method, since hedged verification is nothing. The correct discipline: claims about what *the reader verified in their own case* stay flat; claims about *everyone* get graded or deferred. The erosion was Tier II claims wearing Tier I sentences.
-→ `todo.md`
 
 ---
 
@@ -114,16 +116,3 @@ Does *not* support: coordination across minds (that's the author's), and no moti
 → `manuscript/appendix-2-what-others-have-seen.md`
 
 ---
-
-## Open, with the biggest first
-
-**The sadism test has been stated, not run.** Nobody has gone looking for the person who passes all three checks and wants the suffering. Until someone does, the answer is a hypothesis. Also unapplied: the three checks belong next to the gaze experiment in Chapter 1 (P6 in `audit.md`), which is manuscript.
-→ `todo.md`
-
-**The recursion appendix needs rework** (author's own): recast common knowledge as recursive mutual recognition under deniability, which is what it actually describes; remove Gödel.
-→ `todo.md`
-
-**The rivals rewrite has no home in the body yet.**
-
-**The four faces** (one move / all wrongdoing / contempt purest / only turning-toward helps) belong at the end of Part D or in Part F, and side four is the book's largest outstanding debt.
-→ `archive/cut-from-interlude-one.md`

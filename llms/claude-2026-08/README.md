@@ -13,6 +13,7 @@ manuscript/                        the book
   preface.md
   chapter-1.md, chapter-1a.md      Chapter 1 and the interlude after it
   chapter-2.md, chapter-3.md, chapter-4.md
+  chapter-5.md                     the whole book once, condensed and tiered
   rest-of-book.md                  map of the unwritten rest, for beta readers
   appendix-1-recursion.md
   appendix-2-what-others-have-seen.md
@@ -20,8 +21,7 @@ argument.md                        master statement of what the book claims
 discoveries.md                     index of what's been worked out, and where
 correspondence.md                  why what conscience knows turns out to be right
 audit.md                           novelty vs prior art; what Chapter 1 supports
-todo.md                            open problems, biggest first
-fable-queue.md                     work that needs a Fable session
+todo.md                            the one state file: open work, by owner
 claim-triage.md                    how much to establish a claim, and when
 spiral.md                          why the circular dependencies aren't a problem
 dags/                              dependency graphs (.dot is the source)

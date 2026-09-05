@@ -1,6 +1,6 @@
 # Novelty and Risk Audit
 
-*This is not a statement of the book's argument — `argument.md` (now in this folder, revised 2026-09-04 with changes marked ▸) does that, and does it better, in the book's own voice. This document answers three different questions: what in the book is actually new, how much weight each claim carries, and where the book is at risk of overclaiming. Read that one to know what the book says. Read this one to know what to defend.*
+*This is not a statement of the book's argument — `argument.md` does that, and does it better, in the book's own voice. This document answers three different questions: what in the book is actually new, how much weight each claim carries, and where the book is at risk of overclaiming. Read that one to know what the book says. Read this one to know what to defend.*
 
 ## The one sentence
 
@@ -123,7 +123,7 @@ Both now folded in above (items 13 and 14): the escape hatch, and the dark prefe
 *The evidence inventory and thesis-by-thesis audit behind `manuscript/chapter-1a.md`.*
 
 
-*Three things here. First, an inventory of what the reader has actually verified by the end of Chapter 1 (the evidence). Second, every thesis in the book checked against that evidence: which ones Chapter 1 already supports abductively, which need a small patch to Chapter 1, and which can't be reached from Chapter 1 at all. Third, a draft of the interlude that lays the case out for the reader.*
+*Two things here. An inventory of what the reader has verified by the end of Chapter 1, and every thesis checked against it. The patches this once proposed are applied (P1 to P5, in the interlude) or in `todo.md` (P6).*
 
 *A note on "abductive." The book can't prove any of this, and the reader has to check it for themselves. What the interlude can do is show the reader the shape of an inference they've already half-made: here's what you found; here's what would have to be true for you to have found it; here's the deflationary alternative; here's why I think it doesn't fit what you actually felt. That's inference to the best explanation, stated honestly, with the rival on the table.*
 
@@ -187,53 +187,3 @@ Status codes: **Verified** (demonstrated in Ch1, no inference needed) · **Abduc
 **Summary:** Two verified. Ten abductive from Chapter 1 as it stands. Five reachable with small patches (P1–P5, all one paragraph or less). Four can't be reached from Chapter 1 and shouldn't be tried.
 
 ---
-
-## 3. The five patches to Chapter 1
-
-**P1 — What conscience knew (Limbo section).** After "Try to recall how you knew it was wrong in the first place," and before the calculation point:
-
-> And notice *what* you knew. If it was the test, nobody was in front of you being hurt. You hadn't worked out any consequences. So what exactly was it? Try to say it. — You knew you'd made yourself an exception.
-
-**P2 — The turn (Common Knowledge section).** Where it currently says "Because you've been there yourself":
-
-> Here's what you were detecting in him. He was making himself an exception too — judging you for the very thing he was doing. That's the same thing you knew about yourself an hour earlier, and couldn't say. You read it in him in two seconds, using the faculty you'd just spent an hour refusing to point at yourself.
-
-**P3 — Extend the gaze experiment (Mechanism section).** After "You can't do it while fully looking at it":
-
-> Now try to find the smallest cruelty you *could* manage with them fully in view. Anything. Notice that there isn't one. Whatever you can do to them, you can only do after something has moved out of view.
-
-**P4 — Why the verdict escalates (The Cause or The Loop).** One sentence:
-
-> Notice the verdict can't rest at *you did wrong*. It has to reach *this is all you are* — because anything less leaves you the same kind of thing he is.
-
-**P5 — The perception check (Motive section).** Where the reader is invited into his perspective:
-
-> Check this against your own memory. Think of someone you once despised and later came to see differently. At the time, were you *interpreting* them as rotten? Or were you just seeing it?
-
-**P6 — What "looking" means (Mechanism section, added 2026-09-04).** After "You can't do it while fully looking at it," the gaze experiment needs "looking" pinned to something checkable, or the sadist falsifies it (see `manuscript/rest-of-book.md` §10). One sentence, no list:
-
-> And notice what "looking" was made of. Their objection would have landed on you. Their hurt would have been bad, the way yours is. And whatever was in them could have changed what you did. That's what you couldn't do it through.
-
-Not applied; manuscript.
-
----
-
-## 4. The interlude itself
-
-Moved to its own file: `manuscript/chapter-1a.md`.
-
----
-
-## 5. Key points to add
-
-**L0 — Conscience detects asymmetry, not harm.** (See `correspondence.md`, addendum §G.)
-
-**L0 — Cheating and contempt are one move.** *I am more* / *you are less*. One faculty, both directions.
-
-**L1 — The ego exists; that's what the agent is.** Profile: aims, tracks, adapts under scrutiny, isn't embarrassed, benefits from misattribution. Bias does none of these. Best explanation: a functioning process with interests that aren't the host's.
-
-**L1 — "Evil" is not a rating.** It names the thing you most want gone. Contempt is that thing's pure form. Hence "a little evil to fight evil" describes feeding it.
-
-**L0 — "In view" has a definition independent of harm.** Objection lands; hurt registers as bad the way yours does; what's in them can change what you do. Harm needs none of the failures; wanting harm needs one. The sadist sees a subject and fails all three. Falsifier: passes all three, wants the suffering as suffering.
-
-**L1 — Chapter 1 supports twelve theses abductively with five one-paragraph patches.** The four it can't reach (evil people further along; contempt from below; institutions; the Light) must not be attempted there.

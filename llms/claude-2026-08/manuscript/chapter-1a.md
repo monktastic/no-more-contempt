@@ -96,15 +96,15 @@ That you couldn't give a stranger that look while you were looking at him. Not t
 
 That one man, in your imagination, made it easier to turn away from what you knew, and another made it harder, and you could feel the difference before either of them finished a sentence.
 
-That the first man's verdict couldn't stop short of *this is what you are*.
-
 **What I make of it.**
 
 These are inferences. I think they're good ones, and Chapter 1 argued for each. But you didn't observe them. You observed the things above, and I'm drawing conclusions from them, and you should know which is which.
 
-That you read him accurately. He was imagined, so what you actually did was build a man from the inside, and what came out matched what you'd just caught yourself doing. That tells you the faculty knows what the state looks like from outside because it has been inside.
+That the state you read in him matched the one you'd just recalled from inside. He was imagined, so what you actually did was build a man from the inside, and what came out matched what you'd just caught yourself doing. That tells you the faculty knows what the state looks like from outside because it has been inside. Whether the reading would be accurate in a real encounter is a further question, and one I owe you.
 
 That nothing in the words accounts for the difference between the two men.
+
+That his verdict couldn't have stopped short of *this is what you are*.
 
 That whatever was running the first man could not have gone on running if he'd turned and looked straight at it. Not deliberate, because a man can't convict you on evidence he knows he planted. Not blind, because it aimed, it tracked you, and it got stronger when you noticed it instead of embarrassed.
 
@@ -114,17 +114,17 @@ That what you did when you cheated and what he did to you are one move from two 
 
 **The trap, in one piece.**
 
-Now put the inferences together, because assembled they're more than a list. They're a shape, and every part of the shape is forced.
+Now put the inferences together, because assembled they're more than a list. They form a single mechanism, and once its conditions are in place, each part requires the next.
 
-He couldn't have known what he was doing. If he had, the evidence would have been worthless to him. He couldn't have been blind to it either. Blind things don't aim. So it had to be the third thing, the one you know from inside: knowing, and not letting yourself know.
+He couldn't have fully known what he was doing. If he'd admitted his own part in producing the evidence, the evidence would have been worthless to him. And he couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be the third thing, the one you know from inside: available enough to steer and protect itself, unadmitted enough to leave him innocent.
 
 That state can't be concealed. Not because it leaks around the edges. Because the hiding is what you saw. What he had to keep from himself is exactly what reached you.
 
-And it reached you as a provocation. Your reaction was the point. Not a side effect he'd have preferred to avoid; the proof he was working for. Which means the one outcome he couldn't afford was for you to get better.
+And it reached you as a provocation. Your reaction wasn't a side effect he'd have preferred to avoid. It was one of the things the whole performance was for, and what it needed above all was that nothing you did be allowed to clear you. Which means the one thing he couldn't afford was for your getting better to count.
 
-Take any link out and the whole thing stops. If he knew, no evidence. If he were blind, no aim. If it could be hidden, no provocation. If you could improve, no proof. That's why I call it a trap and not a bad habit. A habit is something you could drop. This has one working configuration, and it's the one you met.
+Take any link out and the whole thing stops. If he'd admitted his part, no evidence. If it were blind, no tracking. If it could be hidden, no provocation. If your improving could count, no verdict. That's why I call it a trap and not a bad habit. A habit is something you could drop. Given those conditions, this has one working configuration, and it's the one you met.
 
-I think it's the same trap, at a different dose, in every act of contempt there is. Yours and mine included. That's the claim of this book, and Chapter 1 is as far as I can take it on evidence you've checked yourself.
+I think it's the same trap, at a different dose, in every act of contempt there is. Yours and mine included. That's the claim of this book, and it's on credit. Chapter 1 derived the mechanism of one encounter. It didn't show that every encounter has it.
 
 **What people already know, and what I think is new.**
 
@@ -142,7 +142,7 @@ The thing in him and the thing in you are on the same side, and contempt is what
 
 You are not it. And the shame you feel when you catch it is how it keeps you from looking.
 
-The only stance that doesn't feed the trap is the second stranger's. Other things sometimes work. That one is the only one that doesn't make more of what it's trying to stop.
+The only stance that doesn't feed the trap is the second stranger's. Other things sometimes help. But whatever carries contempt also enacts the very relation it's trying to end, and that one is the only stance that doesn't.
 
 There's a fifth, about what's underneath all of this, and I'm going to hold it until the end, because it isn't something you can check.
 

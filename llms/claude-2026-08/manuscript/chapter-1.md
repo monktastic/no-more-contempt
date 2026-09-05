@@ -1,4 +1,4 @@
-## Chapter 1: Limbo
+# Chapter 1: Limbo
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even partner).
 
@@ -51,7 +51,7 @@ You'd take that bet at any odds. But on what evidence? You'd never met him. You 
 
 ---
 
-Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. To be clear: **not more gently**. Just that his anger was directed at what you *did*, and not what you *are*.
+Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. **Not more gently.** Just that his anger was directed at what you *did*, and not what you *are*.
 
 Would you have dug in? Vowed revenge?
 
@@ -144,7 +144,7 @@ Let's inhabit his perspective for a moment.
 
 What would it be like to discover that your enemies—the *bad people*—aren't inherently different from you? That they cause harm for essentially the same reason you do—not because they're inherently bad, but because we *all* struggle to do what's right, for different reasons.
 
-It would mean they're fundamentally redeemable—and so your contempt has only been making them worse. All for the "benefit" of proving that you're nothing alike. 
+It would mean they're redeemable after all—and so your contempt has only been making them worse. All for the "benefit" of proving that you're nothing alike. 
 
 And you did it while knowing there was a better way: what the second stranger did. A way that might actually help, but require you to give up the feeling of being *morally superior*.
 
@@ -163,7 +163,7 @@ Look at the bind he's in. He needs you to be bad because at some level he knows 
 
 He can't be openly cruel, because that would make *him* bad. In fact, he can't do anything that will leave a trace, *even within his own mind*. When he looks back on it later, he cannot sense anything amiss. That's a pretty tight constraint.
 
-All he can do is somehow provoke you into a nasty response—crucially, in response to his *objectively good* behavior. Because what kind of person reacts like *that?*
+All he can do is somehow provoke you into a nasty response, and it has to come in answer to his *objectively good* behavior. Because what kind of person reacts like *that?*
 
 And look what he has to work with. His tone; his gaze; his manner. Exactly the things you used to detect it. Anything else could be audited.
 
@@ -184,7 +184,7 @@ How do you send that in a glance, before a word is said, when you can't even kno
 ---
 ## What He Could Count On
 
-This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to. You know it, and he knows you know it, and neither of you could prove a word of it, and that last part is what lets it keep going.
+This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to. You know it, and he can count on your recognizing it, and neither of you could prove a word of it, and that last part is what lets it keep going.
 
 He can count on you because *you've been there.*
 
@@ -192,11 +192,11 @@ We know what it is to hide from our own conscience. What it's like to pretend th
 
 Haven't you ever watched an enemy squirm under your "righteous" gaze—half-knowing that they would recognize it for what it is, and how their reaction would convict them, not you?
 
-It's worth pausing to recall an instance of this. Maybe it wasn't even an enemy. Sometimes we do it to loved ones "for their own good." The *sigh* that lets them know what we really think of them in that moment, dressed up to make us seem like the reasonable one. The look on their face that tells us it landed, which we'll pretend not to have seen.
+Pause and recall an instance of this. Maybe it wasn't even an enemy. Sometimes we do it to loved ones "for their own good." The *sigh* that lets them know what we really think of them in that moment, dressed up to make us seem like the reasonable one. The look on their face that tells us it landed, which we'll pretend not to have seen.
 
 You had to be present enough to actually do it, while also absent enough to give yourself *plausible deniability*—so that when you looked back on it later, your hands would be clean.
 
-And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do, because they've been there too.
+And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do, because they've been on the receiving end too.
 
 But still what, exactly, gives it away?
 
@@ -230,7 +230,7 @@ We don't have to reveal that we are hiding. The hiding *is* the revealing.
 ---
 ## The Loop
 
-So that's what he's doing to you. But it creates a problem—because the more he does this, the more part of him realizes that *he's the bad guy.*
+So that's what he's doing to you. But it creates a problem—because the more he does this, the more some part of him realizes that *he's the bad guy.*
 
 Which increases the pressure to prove he's nothing like you. Which he can only do by revealing to you that he *is.* Which makes you increasingly sense the whole thing as a ruse, threatening to expose it. Which forces him to hide it from himself even harder, by overlooking your humanity even more. Which his conscience registers and warns him about.
  
@@ -286,9 +286,9 @@ It communicates something like this:
 >
 > *I know you can see this, but you can't prove it. Good luck.*
 
-Which you know but cannot prove, turning you into what he needs you to be.
+You know all of that and can't prove any of it, and being held there is what turns you into what he needs you to be.
 
-Which is precisely the "what" that he was doing to you in the first place. But good luck proving it.
+Which is exactly what he was doing to you in the first place. Good luck proving that, either.
 
 ---
 
@@ -306,9 +306,7 @@ It feels like this on the receiving end: *if this is the kind of world we live i
 
 That's what teaches you to do it too. To demote that inner knowing—because what is it worth?
 
-Again, you don't tell yourself you'll ignore your conscience. Your justifications—what you can "prove"—simply become more reasonable. More practical. As though they *are* your conscience. The two become just a little harder to tell apart. The very notion of a conscience—that one faculty you have to detect this corruption of your mind—starts to feel naive.
-
-It's the same faculty that let you see him. That sees anyone. Demote it, and you see a little less of everyone.
+In fact, the very notion of a conscience—that one faculty you have to detect this corruption of your mind—starts to feel naive. It's the same faculty that let you see him. That sees anyone. Demote it, and you see a little less of everyone.
 
 Remember how one side had to argue and the other didn't? The arguments weren't there to convince your conscience. That never works. They were there to convince *you* that it was just one more voice among the noise. That's what's happening now.
 
@@ -318,9 +316,9 @@ His darkness has just taught you to embrace your own.
 
 ---
 
-The reason it feels so good to him isn't the harming—he doesn't realize he's caused it. It's being _proven right_, in real time, by you. And from the inside, being proven right and being right are the same experience. The only difference is who produced the evidence, and that's the part he can't see.
+He feels good being proven right, in real time, by you. And from the inside, being proven right and being right are the same experience. The only difference is who produced the evidence, and that's the part he can't see.
 
-And look at what he thinks he's been proven right about. Not that you're careless, or rude. That the thing behind everything wrong with the world just surfaced in front of him—and he's the one who caught it. Which is why it never mattered how small the thing you did was. It only had to be _evidence_.
+And look at what he thinks he's been proven right about. Not that you're careless, or rude. That the thing behind everything wrong with the world just showed itself in front of him—and he's the one who caught it. Which is why it never mattered how small the thing you did was. It only had to be _evidence_.
 
 Which is why he can't see what he's doing. Certainty, urgency, the sense that he must not let this go—those are what facing real evil actually calls for. What's missing is his felt connection to what they were meant to serve. *Life*. The thing he's overlooking in you right now. The thing he's disconnected from in himself.
 

@@ -1,4 +1,4 @@
-## Chapter 3
+# Chapter 3
 
 There is nothing more primally, viscerally satisfying than violently punishing evil.
 
@@ -102,7 +102,7 @@ That is the one thing we must never allow.
 
 ---
 
-Here's what's crucial to see. *We absolutely couldn't do this if we clearly saw that we were.*
+Now the part that matters most. *We absolutely couldn't do this if we clearly saw that we were.*
 
 What does that tell you? Why would you not want to do this to others—even to "evil" others?
 

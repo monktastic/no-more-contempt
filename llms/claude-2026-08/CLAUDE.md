@@ -19,7 +19,9 @@ Everything the book is made of lives in `manuscript/`. The base directory holds
 the working documents: what the book claims, what's open, and how to decide.
 
 `manuscript/preface.md`, `chapter-1.md`, `chapter-1a.md` (the interlude after
-Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`.
+Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`, `chapter-5.md` (the whole
+book once, condensed and tiered; the short version, with `rest-of-book.md` the
+medium and Parts A to F the full).
 `manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
 `manuscript/appendix-1-recursion.md` the recursion, stated without formalism.
@@ -32,8 +34,8 @@ lives. **Read this first.**
 `correspondence.md` the philosophical problem of why conscience's knowing
 tracks the good.
 `audit.md` what's novel vs. prior art; what Chapter 1 can support.
-`todo.md` open problems, biggest first.
-`fable-queue.md` work that needs judgment, waiting for a Fable session.
+`todo.md` the one state file: everything open, split by who does it (me, Fable,
+Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
 `spiral.md` why circular dependencies aren't a problem here.
 `dags/` dependency graphs. The `.dot` is the source; regenerate with
@@ -98,17 +100,39 @@ or what it says it has earned; deciding what a chapter is allowed to assert;
 new prose that goes in the book; judging whether something has been shown;
 resolving a conflict between `argument.md` and a draft.
 
-If you're Opus and the task is Fable's, do not do it. Append it to
-`fable-queue.md` with enough context to act on later, tell me you've queued it,
-and finish whatever mechanical part you legitimately can.
+If you're Opus and the task is Fable's, do not do it. Add it to the Fable
+section of `todo.md` with enough context to act on later, tell me you've queued
+it, and finish whatever mechanical part you legitimately can.
 
-If you're Fable, read `fable-queue.md` at the start of the session and tell me
-what's in it before starting new work.
+If you're Fable, read the Fable section of `todo.md` at the start of the session
+and tell me what's in it before starting new work.
 
 When you change a claim in a draft, check `argument.md` and update it too,
 marking the revision.
 
 After any structural edit, update the relevant `.dot` and re-render it.
+
+## Reminders
+
+At the start of every session, after the model check, list what's under "On
+Aditya" in `todo.md`, one line each, and then get on with whatever I asked.
+Once per session. If I've done one, delete it from the list.
+
+## Documents: state and stateless
+
+Every file in the base directory is one or the other, and stays that way.
+
+**State** is what's open, owed, or pending. It lives in `todo.md` and nowhere
+else. Not in a "still needs" note inside another file, not in a "handled"
+section, not in a revision banner at the top of `argument.md`.
+
+**Stateless** is everything else: what the book claims, what's been worked out
+and where it lives, how to decide things. Those files describe the present.
+They don't narrate how it got that way. Git does that.
+
+When a stateless file starts growing a log (dated passes, "reversed on",
+"formerly said"), cut the log. Keep a lesson only if we'd repeat the mistake
+without it, and keep it as a lesson, not a diary entry.
 
 ## Passes to run on request
 
