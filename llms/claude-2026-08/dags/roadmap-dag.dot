@@ -72,7 +72,7 @@ digraph interlude {
   subgraph cluster_end {
     label="F  What this book is for"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#cfe2f3"];
-    D5 [label="D5  What this book is for\nexplicit common knowledge removes cover; the limit;\nit will be weaponized; epigraph"];
+    D5 [label="D5  Part F: the four sides + what this book is for\nONE IDEA, FOUR SIDES stated whole (one move / all wrongdoing /\ncontempt purest / only turning-toward helps); a shared sayable\nname removes deniability (NOT common knowledge); the limit;\nit will be weaponized (gaslighting precedent); epigraph"];
   }
 
   // recap

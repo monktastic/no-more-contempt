@@ -66,7 +66,7 @@ So I **cannot** risk it.
 
 This is how my darkness hides itself from me. By reminding me that the *real* problem exists "out there," where it's my righteous duty to viciously attack it.
 
-**We all know this is happening, on some level.** It's that **common knowledge** again. Which is also why we must never acknowledge that it is.
+**We all know this is happening, on some level.** It's the same thing he could count on in the street: you know, I know you know, and neither of us will ever say so. Which is also why we must never acknowledge that it is.
 
 So the full message I'm communicating actually goes something like this:
 

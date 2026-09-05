@@ -60,26 +60,45 @@ That's all three, and it costs two sentences. Compare with the four pages it wou
 
 ---
 
+## The question that stops the whiplash
+
+There are two questions about every claim, and the drafts kept asking one and answering the other.
+
+*Does the reader need this to read the next stretch correctly?* That's function. It decides whether a claim appears early.
+
+*What has the reader checked?* That's evidence. It decides how the claim is stated: demonstrated, stated-and-owed, argued, or held back.
+
+The old interlude got function right and evidence wrong: ten claims the reader needed, each defended as though established. The cut got evidence right and function wrong: nothing unearned said early, the picture lost, and Chapter 1 under-credited into the bargain. Every reversal since has been one axis correcting the other.
+
+The rule: **a claim goes early if the reader needs it. Its evidence grade decides the form, never the placement.** A high-need, low-evidence claim goes early, flat, with the debt named and no rival explanation attached. That isn't overclaiming. Overclaiming is defending it there.
+
+Corollary for the interlude: three piles, not two. What you saw. What I make of it. What I'm asking you to hold. The middle pile is where well-supported inferences live, and the third is where the theses the reader needs go, undefended.
+
 ## Applied to what's on the table
 
-| Claim | How it's handled | Where |
-|---|---|---|
-| Limbo exists in you | Demonstrated | Ch 1 |
-| Conscience detects asymmetry, not harm | Demonstrated | Interlude 1, §1 (the reader re-examines a memory they already have) |
-| Cheating and contempt are one move | Demonstrated | Interlude 1, §2 |
-| The caring is prior and sufficient | Demonstrated | Interlude 1, §3 |
-| The verdict must reach "irredeemable" | Stated, not defended | Interlude 1, §4 — one paragraph, no defense |
-| The perception hijack | Demonstrated | Interlude 1, §5 |
-| The agent / ego exists | Stated, with the ordinary explanation named | Interlude 1, bullet 3 |
-| Contempt *is* evil (identification) | Stated, debt admitted | Interlude 1, closing |
-| Evil people are further along | Named as a debt | Interlude 1, "what I haven't shown" |
-| Contempt from below | Named as a debt | ditto |
-| Institutions | Named as a debt | ditto |
-| The Light | Named as a debt | ditto |
-| The escape hatch ("shouldn't I correct bad behavior?") | **Argued** | Wherever the reader first reaches for it — this is one of the few worth full defense, because a reader who keeps it will misread the whole book |
-| Two acts, opposite effects | **Argued** | It's the load-bearing claim; a reader who rejects it should stop |
+| Claim | Reader needs it by | Grade | Stated | Paid |
+|---|---|---|---|---|
+| Limbo exists in you | Ch 1 | Demonstrated | Ch 1 | Ch 1 |
+| Conscience knew before calculating; what it knew was the exception | Ch 1a | Demonstrated | Ch 1a recall 1 | done |
+| You can't harm while looking | Ch 1a | Demonstrated for your case; owed for everyone | Ch 1a recall 3 | Part C §10, the sadist |
+| Contempt makes people worse (two strangers) | Ch 1 | Demonstrated | Ch 1 | Part B, with data |
+| **The trap is forced** (the contribution) | Ch 1a | Argued in Ch 1 (Constraints); assembled in Ch 1a | Ch 1a, "The trap, in one piece" | Ch 1 |
+| Cheating and contempt are one move | Ch 1a | Inferred | Ch 1a, "what I make of it" | Part A |
+| The agent exists; benefits from being taken for him | Ch 1a | Inferred | Ch 1a, "what I make of it" | Ch 1 |
+| The agent *needs* to be taken for him | Ch 4 | Stated, owed | Ch 1a debts | Part C |
+| Righteousness is loudest when it's running | Ch 2 | Stated | Ch 1, Ch 2 | Part A §2 |
+| Evil is further along, not a different kind | Ch 2 | Stated, owed | Ch 1a, "hold" | Part C |
+| The dark parts cooperate | Ch 4 | Stated, owed | Ch 1a, "hold" | Ch 4, Part B |
+| You are not it; shame is its last defense | Ch 2 | Stated, owed | Ch 1a, "hold" | Ch 2 (trip), Ch 4, Part D |
+| Turning toward is the only stance that doesn't feed it | Ch 2 | Stated, owed | Ch 1a, "hold" | Part D |
+| The escape hatch ("shouldn't I correct bad behavior?") | Part D | **Argued** | Part D §12 | there |
+| Two acts, opposite effects | Ch 1 | **Argued** | Ch 1; Part A §2 | there |
+| Catching it is trainable | Part D | Stated | Part D | Part D |
+| Contempt from below | Part C | Named as a debt | Ch 1a debts | Part C §11 |
+| Institutions | Part B | Named as a debt | Ch 1a debts | Part B |
+| What you are (Tier III) | Part E | Held back | Ch 1a, one line | Part E |
 
-Two argued claims in the whole structure. That's about right.
+Two argued claims. Four held on credit from the interlude. That's the shape.
 
 ---
 

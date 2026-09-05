@@ -1,5 +1,117 @@
 # Feedback on No More Contempt (through Chapter 4)
 
+## Status as of 2026-09-04
+
+*Every numbered item below graded against the current drafts: `manuscript/` (preface, chapter-1, chapter-1a, chapter-2, chapter-3, chapter-4, appendix-1, appendix-2), `roadmap-for-beta-readers.md` (§1–17), `todo.md`, `discoveries.md`, `audit.md`. "Roadmap" means the item has a home and a draft in the map, but no finished chapter yet. Quoted words are from the file named so you can verify.*
+
+*Statuses: DONE / PARTIAL / OPEN / REJECTED-BY-AUTHOR / SUPERSEDED.*
+
+| ID | Gist | Status | Where it lives now, or what remains |
+|---|---|---|---|
+| A1 | Fear is the root, not the wish to be superior | PARTIAL | Roadmap §13: "Underneath was fear... Everybody is innocent for being afraid." Also §15 ("fear of having left what you are") and §16 (blank first, fear second). Not rooted in Ch1; the Motive section is unchanged. `todo.md` still has the two-origin-stories decision open. |
+| A2 | Shame/guilt literature agrees; cite it | DONE | Appendix 2: "Braithwaite got the two strangers, with data... That is my Chapter 1, tested at scale." Body sentence in roadmap §11: "Remorse repairs. Shame hides... it turns out to have been measured." Tangney named only in `audit.md`. |
+| A3 | Drop "parasite"; it contradicts privation | REJECTED-BY-AUTHOR | Word kept; see CLAUDE.md vocabulary rule ("Parasite", not "dark part"). Substantive point is present: roadmap §13 "I don't think there's a creature in there... unlike a parasite in that a parasite is a living thing"; "Decide it's a real essence and you'll fight the person, which is contempt." Appendix 1 Part Three: "an absence organized into a function." `audit.md`: "sequenced, not chosen between." Note: Ch1 still says "his 'dark' part, or just his 'darkness'"; Ch4 title is "The Darkness." Vocabulary check on manuscript owed. |
+| A4 | No victim's chapter | DONE (roadmap) | Roadmap §11 "Contempt from below": "Your rage is right... One thing is on trial: the verdict." King quoted. Self-contempt paragraph at end of §11. Debt named in chapter-1a: "your own contempt for somebody who really hurt you... a different seat." Missing: Mandela, Chenoweth, Neff, Steele by name; Preface still aims the reader at the worst people with no line for the hurt reader. |
+| A5 | "All harm runs on limbo" too strong; name hot vs cold | DONE (roadmap) | Roadmap §5 "Hot and cold": "Cold isn't milder than hot. It's further along... Most of the harm in the world runs on the cold one." Ch4's "most of the harm we cause has its root in some form of contempt" now sits after the tier marker. Scope sweep on manuscript still owed (`todo.md`, top). |
+| A6 | Contempt is coalitional; the sacrifice holds the group together | PARTIAL | Roadmap §6 (shadow spaces, locker room, "Our small shadows *need* the large ones") and §9. Ch3 has "You will be our sacrifice. The communal dumping ground." The flat principle, that the group gets cohesion out of the carrier, is not stated anywhere. |
+| A7 | Punishment appetite is evolved and functional; say what's kept | PARTIAL | Roadmap §12: "Judgment, outrage, punishment: each of those words covers two different things"; §14 Dalai Lama "shoot back. Just never out of malice"; §11 "if stopping them takes force, the force is right." Ch1's "The reason it feels so good to him isn't the harming" is unchanged. Fehr, de Quervain not cited. |
+| A8 | Institutions are audit-proof channels | DONE (roadmap) | Roadmap §7: "Policy. Procedure. Incentive. Omission. Channels in which nobody ever has to look at anybody." It sits in Part B after §5–6 rather than opening it. |
+| A9 | Scope the "announcement" prediction; predict weaponization | PARTIAL | Roadmap §17: "The word 'contempt' already exists, and its existence hasn't dissolved anything... this idea will be used as a weapon." `audit.md` thesis 18 scoped. Appendix 1 §7 still states the naive form ("This book is the announcement") with no pointer. |
+| A10 | Guard "conscience never argues" against anti-reason; give checkable markers | DONE (roadmap) | Roadmap §1: "None of this is an argument against thinking. Thinking is indispensable, *in service* of the part that knows." §12 has the five checks verbatim ("Does this need them to be bad? Would I feel *worse* if they got better?..."). Chapter-1a: "A clue you can be wrong about. A rule you can obey." Markers live at §12, not early. |
+| A11 | Cite dehumanized perception (Harris & Fiske, Gray & Wegner, Bandura) | PARTIAL | Bandura in Appendix 2 ("got the machinery") and Appendix 1 "Where else to look." Harris & Fiske and Gray & Wegner appear nowhere. |
+| A12 | Developmental origin: first turning-away is taught in childhood | OPEN | Not in any draft. Roadmap §16 gives a metaphysical origin (Samantabhadra), not a developmental one. Jung is in Appendix 2 for projection only; Rogers absent. |
+| A13 | Psychopaths: say "I don't know", plus one more thing | DONE (roadmap) | Roadmap §10, reworked today: "I don't know... overwhelmingly not psychopaths. They're ordinary people in deep limbo. The three checks at least make the question exact." Meffert is the cited candidate in `todo.md`. Omitted: overrepresentation at the top of hierarchies. |
+| A14 | The reviewer's list of what to do | PARTIAL | Composite. Done: victim chapter (§11), scope all-harm (§5), institutions (§7), markers (§12), appendix for rationalists (Appendix 2). Rejected: drop parasite. Open: second-stranger scene; fear from Ch1; body pointer sentence to the appendix. |
+| B1 | Ch3 conviction outruns exoneration; needs spiral move at end | PARTIAL | Ch3 now ends: "There. *That's* your humanity. The part that *cannot* want another person to hurt." `todo.md`: "the new ending helps but the middle still runs long without relief." |
+| B2 | Ch3–4 shift to assertion without verification | PARTIAL | Ch3 added a check: "check whether some part of you knows it anyway. In those times when the punishment feels a little too good." Ch4 added "You saw it from the other side, too" and the tier marker. Ch4's institutional claims remain unverified; roadmap §6 supplies the checks. |
+| B3 | Preface assigns a belief then indicts it; lead with the pill test | OPEN | Preface unchanged: "I'm made of *better stuff*" and "that's the lie" both present; pill test is fourth paragraph, not first. |
+| B4 | Relief isn't landing; every dark claim needs a Tier I holding within a page | PARTIAL | Holdings added: Ch3 ending; Ch4 "made of nothing but a hole"; chapter-1a "that anxiety is not the signal"; roadmap §13 "there is nothing to be ashamed of at the bottom." No pass has been run to check the one-page rule. |
+| B5 | Practical path barely exists; safety is what makes hiding unnecessary | PARTIAL | Roadmap §2: "He made looking survivable, by taking what you are off the table." §12: catching it "Days, then hours, then sometimes while it's still happening." §13: "Held, we can." `todo.md` still lists "Parts V–VI need something practicable beyond recognition." |
+| B6 | Ch4 becomes expository ("Here's what I'm trying to say" plus theses) | OPEN | Ch4 line 91: "Here's what I'm trying to say." followed by the thesis list, unchanged. |
+| B7 | Structural worry: make the target-to-perpetrator flip happen once more before the Loop | DONE | Ch1 Common Knowledge: "Haven't you ever watched an enemy squirm under your 'righteous' gaze... Sometimes we do it to loved ones 'for their own good.'" |
+| C1 | Second stranger's concrete scene | OPEN | No scene in any chapter. Closest is roadmap §14, one paragraph: "a handful never did... They were refusing to let the parasite have me." |
+| C2 | One-sentence definition of contempt | DONE | Ch1 Mechanism: "**And contempt is just malice plus the pretense that it's not.**" Two Strangers has "*this is all you are*." |
+| C3 | Fear as source of the need, one paragraph in Motive | PARTIAL | Paragraph exists at roadmap §13 ("Chapter 1 asked why he *needed* you to be bad. The full answer..."). Motive section unchanged. See A1. |
+| C4 | Reader's own goodness as evidence, Tier I, in Ch1 | DONE | Chapter-1a: "you needed limbo before you could do what you did." Ch3 ending: "We absolutely couldn't do this if we clearly saw that we were. What does that tell you?" Roadmap §12: "Nobody builds machinery that elaborate to conceal something from a part of themselves that doesn't care." Ch1 itself still only asks the question ("could you have even done what you did?"). |
+| C5 | Name the what-you-did / what-you-are line as the book's axis | PARTIAL | The line is in Ch1 and is used throughout. Named as measured in roadmap §11. Never announced as "the thing the whole book turns on." |
+| C6 | Tier I holding at end of Ch3 | DONE | See B1. |
+| C7 | Markers at end of Ch4 | PARTIAL | Markers exist at roadmap §12 (see A10). Ch4 has none. Placement is the author's call. |
+| C8 | One line acknowledging the victim's position | PARTIAL | Chapter-1a debt list: "Being hurt by someone when you'd done nothing at all is a different seat, and it has to be treated differently." Preface has "forgive what shouldn't be forgiven" but no line for the hurt reader. Full treatment at roadmap §11. |
+| C9 | Faith-robbing mechanism made explicit | DONE | Ch1 Taunt, expanded: "It's the same faculty that let you see him... Demote it, and you see a little less of everyone." Roadmap §3: "Every act of contempt teaches the same lesson... that the inner knowing is worthless." |
+| C10 | Self-contempt, one sentence in Ch4 | PARTIAL | Roadmap §11: "contempt for yourself. The verdict, turned inward. It feels like accountability." Not in Ch4. |
+| C11 | Psychopaths promised in Ch1, honored late | SUPERSEDED | Ch1 no longer mentions psychopaths, so there is no open promise. `todo.md` line 60 ("promised in Chapter 1") is stale and should be corrected. Answer is at roadmap §10. |
+| C12 | Bridge from parking lot to institution | PARTIAL | Roadmap §7: "That's the bridge from one man to a civilization." Ch4 gestures ("that same handshake, at a larger scale") without deriving it. |
+| D1 | Ch1 Taunt: "Which you know but cannot prove... Which is precisely the 'what'" unparseable | OPEN | Ch1 lines 289–291, unchanged. |
+| D2 | Ch1 Loop: "the more part of him realizes" missing a word | OPEN | Ch1 line 233, unchanged. |
+| D3 | Ch1 Common Knowledge asks reader to remember something not told | DONE | Now reads "And that's only possible because *we've all been there before*." The "Think back to the opening" sentence is gone. |
+| D4 | Ch1 Motive: "you" flips from target to perpetrator unannounced | DONE | Kept deliberately; B7 confirms the flip is now used twice on purpose. |
+| D5 | "harder to tell apart" appears twice near-verbatim | OPEN | Ch1 lines 76 and 309: "The two become harder to tell apart" and "The two become just a little harder to tell apart." Decide if the echo is intentional. |
+| D6 | Don't introduce "his darkness" as a noun he owns | SUPERSEDED | Vocabulary rule now says "parasite." Ch1 line 262 still introduces "dark part" and "darkness"; the vocabulary check on manuscript will catch it. |
+| D7 | Ch2 "belief that it can be pinned down" is a Tier II claim in Tier I voice | PARTIAL | Line unchanged in Ch2. Roadmap §1 now pays it: "any definition of 'good' can be obeyed to the letter while betraying its spirit." Not flagged as a promise in Ch2. |
+| D8 | Ch2 title "The Descent" doesn't fit; numbering inconsistent (II vs 1, 3, 4) | OPEN | Ch2 line 1: "## Chapter II: The Descent." Unchanged. |
+| D9 | One sentence of holding after "Delicious" before turning outward | OPEN | Ch2: ellipsis, divider, then "I next recalled looking into the eyes of 'evil people.'" Unchanged. |
+| D10 | Ch3 "so that I can taste" asserts pleasure as motive, shifting from Ch1 | OPEN | Ch3 line 31, unchanged. |
+| D11 | Ch4 "All of that is necessary to recognize to help us hold" awkward | DONE | Now "All of the above is needed to hold what comes next." |
+| D12 | Two percussive fragments; make "not. By. Accident." a plain sentence | OPEN | Ch4 line 87: "And it's not. By. Accident." Unchanged. |
+| D13 | Appendix §7 "This book is the announcement" is the falsifiable prediction | PARTIAL | See A9. Scoped at roadmap §17; appendix unchanged. |
+| D14 | Preface promises "exactly how it works"; chapters don't yet keep it | PARTIAL | Preface line unchanged. Roadmap §6–7 keep the promise in map form; no chapter does yet. |
+| E1 | Interlude section order verified against DAG | SUPERSEDED | The reviewer's interlude became the roadmap, restructured into 17 sections. `dags/roadmap-dag.dot` is the current graph. |
+| E2 | Remove "if any of those four didn't land, tell me which one" | DONE | Phrase absent from roadmap. |
+| E3 | Corpse-desecration example is the reviewer's guess; replace with the author's source | OPEN | Roadmap §3 still has "Ask a room of hardened soldiers whether it's wrong to desecrate an enemy's corpse." |
+| E4 | "All evil is innocent" placed before the layers | SUPERSEDED | Still §10 before §13, and Ch4 supplies "not you," so the order works as the reviewer said it would. No action. |
+| E5 | Wapnick/ACIM one sentence, marked | DONE | Roadmap §15, inside Part E ("What I believe"): "Kenneth Wapnick's reading of *A Course in Miracles*." |
+| E6 | §5–6 contain Tier II inferences in Tier I voice | PARTIAL | Part E is now marked. §5 ("Most of the harm in the world runs on the cold one") and §10 ("Evil is the *result* of turning away... That's the claim") are still flat. Scope sweep owed. |
+| E7 | Things deliberately left out (self-licensing, slap, agendas list, vegan/FTX) | SUPERSEDED | Informational. §4 has the agendas material; §1 has the FTX shape generically. Nothing to act on. |
+| F-L0a | Contempt is fear wearing certainty | PARTIAL | Roadmap §13; not in argument.md's Tier I. See A1. |
+| F-L0b | You can only look at what you did when what you are is not on trial | DONE | Roadmap §2: "He made looking survivable, by taking what you are off the table." §11: "If you can only look at what you did while what you are isn't on trial." |
+| F-L0c | The sacrifice holds the group together | PARTIAL | See A6. |
+| F-L0d | Institutions are audit-proof channels | DONE | Roadmap §7. |
+| F-L1a | Shame/guilt axis; reintegrative shaming | DONE | See A2. |
+| F-L1b | Self-contempt is the same mechanism inward | DONE | Roadmap §11 last paragraph. |
+| F-L1c | Dark part is a protector, made of fear; fighting it is fighting him | PARTIAL | Fear: §13. Fighting it: §13 "you'll fight the person, which is contempt." "Protector" framing not adopted. |
+| F-L1d | Hot vs cold turning-away | DONE | Roadmap §5. |
+| F-L1e | Second stranger from below at scale (King, Mandela, Chenoweth) | PARTIAL | Roadmap §11 has King only: "the record bears him out." Mandela, Chenoweth absent. |
+| F-L1f | Punishment appetite functional; only the verdict removed | PARTIAL | See A7. |
+| F-L1g | Announcement will be weaponized; carries the tell | DONE | Roadmap §17: "it will carry the same tell it always has. You'll know." |
+| F-L1h | Checkable markers, Tier I | DONE | Roadmap §12. |
+| F-L2a | First turning-away taught in childhood | OPEN | See A12. |
+| F-L2b | Dehumanized perception measurable; for the appendix | PARTIAL | See A11. |
+| F-L2c | Psychopaths overrepresented where audit-proof channels are | OPEN | Not in §10 or anywhere. |
+| F-rating | "Contempt is EVIL, not a value judgment" should be L0 | DONE | Roadmap §9: "I don't mean it as a value judgment. I mean it as an identification." `audit.md` "The one sentence." `discoveries.md` load-bearing list. |
+
+### Still open, by value
+
+1. **C1** Second stranger's concrete scene. Nothing in any chapter; the reader still has a vivid first stranger and an abstraction.
+2. **A1 / C3 / F-L0a** Fear as the root. Lives at roadmap §13 only; Ch1 Motive unchanged, and the blank-vs-fear origin decision is still open in `todo.md`.
+3. **B3** Preface assigns "I'm made of better stuff" and indicts it before the reader has been given anything. Lead with the pill test.
+4. **B1 / B4** Ch3 middle still escalates without relief; no pass has checked the one-page holding rule across Ch3–4.
+5. **B6** Ch4 still ends with "Here's what I'm trying to say" and a thesis list.
+6. **A6 / F-L0c** The group gets cohesion out of the carrier. Implied in §6 and Ch3, never stated flat.
+7. **A12 / F-L2a** Developmental origin of the first turning-away. Absent everywhere.
+8. **A7 / F-L1f** Ch1's "isn't the harming" line unsoftened; the verdict-only scope is in §12 but not near the Ch1 claim.
+9. **B5** Practical path: §12 has the checks and the catching-faster claim; `todo.md` still says Parts V–VI need something practicable.
+10. **C12 / D14** The parking-lot-to-institution bridge exists only in the map (§7); the Preface promise is unpaid by any chapter.
+11. **A9 / D13** Appendix 1 §7 still states the naive announcement claim; needs a pointer to §17's scoping.
+12. **A11 / F-L2b** Harris & Fiske, Gray & Wegner absent; Bandura present.
+13. **F-L1e** Mandela and Chenoweth absent from §11.
+14. **A4 / C8** No line for the hurt reader in the Preface or Ch1–4; the debt is named in chapter-1a only.
+15. **C5** The did/are axis is used throughout but never announced as the axis.
+16. **C7 / C10** Markers and self-contempt live at §11–12, not in Ch4. Placement call.
+17. **E6** §5 and §10 still carry flat scope claims; scope sweep owed.
+18. **E3** Corpse-desecration example still the reviewer's placeholder; replace with the author's source.
+19. **F-L2c** Psychopaths overrepresented at the top of hierarchies. Omitted from §10.
+20. **D8** Ch2 title and "Chapter II" numbering.
+21. **D9** One sentence of holding after "Delicious."
+22. **D10** Ch3 "so that I can taste" shifts the motive from Ch1's "being proven right."
+23. **D1, D2** Two unparseable or word-dropped sentences in Ch1 (Taunt line 289, Loop line 233).
+24. **D5** Duplicate "harder to tell apart" in Ch1.
+25. **D12** "And it's not. By. Accident." in Ch4.
+26. **D7** Ch2's "belief that it can be pinned down" not flagged as a promise.
+27. **C11 (housekeeping)** `todo.md` line 60 still says psychopaths are promised in Ch1; they aren't.
+
+---
+
+
 Ordered by what I think matters most. Part A is the stuff I'd want you to read even if you read nothing else. Everything is numbered so you can push back on specific items.
 
 ---

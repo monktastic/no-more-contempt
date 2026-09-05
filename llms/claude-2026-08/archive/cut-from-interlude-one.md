@@ -1,5 +1,7 @@
 # Cut from Interlude One — for integration into the body
 
+*Status 2026-09-04: folded. Claims 1, 2, 3 (with the spectator seat and the title note), 4 (rivals rewrite), 9 (graded), 10, the atrocity test, and the four sides are now in `roadmap-for-beta-readers.md` at the destinations below. Claims 5, 6, 7, 8 and the trap were already there and are discarded as duplicates. Sadism went to §10 with a test attached. Kept for the reasoning.*
+
 *These 2,400 words were written into Interlude One over several passes and then cut, on the reasoning that they announce conclusions the later book has to earn. None of them is being thrown away. Each belongs in a specific Part, where it can be stated after the reader has what it needs. The lesson this file encodes: **explicit and early are different things.** Everything below gets said outright. The discipline is saying it where it's been paid for.*
 
 *The table gives a destination for each piece. The original text follows, unchanged, so nothing is lost in transit.*

@@ -1,114 +1,183 @@
-# Interlude 1: What You've Found So Far
+# Interlude One
 
-Before we go any further, I want to go back over some of what you just did. Not to repeat it, but to look at a few parts of it more closely than we could while they were happening.
+Before going any further I want to send you back over some of what you just did. Not to repeat it. To look at a few parts more closely than we could while they were happening.
 
 ---
+
 ## Five things worth going back for
 
 **1. What you actually knew.**
 
-Go back to the thing you brought to mind at the start of the chapter—the thing you did while not letting yourself know it. I asked how you knew it was wrong, but I never asked _what_ you knew. [awkward phrasing]
+Go back to the thing you brought to mind at the start of the chapter, the one you did while not letting yourself know it. Earlier I asked how you knew it was wrong. Now I want the other half: what, exactly, was the wrong thing?
 
-Try to say it now, and notice how hard it is. If it was a test you cheated on, nobody was in front of you being hurt. You hadn't worked out any consequences—there wasn't time, and anyway you weren't calculating. So what was the content of it?
+Try to answer, and notice how hard it is. If it was a test you cheated on, nobody was in front of you being hurt. You hadn't worked out any consequences; there wasn't time, and you weren't calculating anyway. So what was in there?
 
-I think it was this: you knew you had made yourself an exception. That the thing applied to everyone and you had quietly stepped outside it. Not _someone will suffer_. Just _I am treating myself as a special case._
+I think it was this. You knew you'd made yourself an exception. That the thing held for everyone and you had quietly stepped outside it. Not *someone will suffer*. Just *this doesn't apply to me*.
 
 Check whether that's the flavor of it.
 
-And yet that's not quite the entirety of it. Making an exception of yourself isn't always wrong. Take the last seat because your back is ruined. Say no to someone who needs you, because you have nothing left today. Feed your own child first. Those are exceptions, and your conscience doesn't make a sound.
+And yet that's not quite the whole of it, because making an exception of yourself isn't always wrong. Take the last seat when your back is ruined. Say no to someone who needs you, on a day when you have nothing left. Feed your own child first. All exceptions, and your conscience doesn't make a sound.
 
-So what's the difference? It isn't the size of the exception, and it isn't a rule about when exceptions are allowed. Look at what the cheating required and the others don't: you had to stop looking at somebody. You can take the last seat with the person still fully in view. You couldn't cheat that way. The exceptions that are fine are the ones you can make while still seeing everyone involved. ["had to stop looking" is, of course, another rule. but we're limited by language. what most strongly evokes the FEELING we're after?]
+So try this instead of a definition. Picture taking that last seat while looking the other person in the eye. You can. It's fine. Now picture cheating that way, with the people it costs standing right there in front of you, watching, while you do it.
 
-Which means the thing your conscience registered wasn't the exception. It was the not-looking that the exception needed.
+You can't get the picture to hold. Something has to be somewhere else.
+
+That's what your conscience registered. Not the exception.
+
+One thing before this turns into a way of torturing yourself. You will not always know. Sometimes you take the seat and genuinely can't tell whether you needed it more, and sometimes there's nothing there at all and you'll go hunting anyway. Not every self-interested act has a turning-away inside it. A book that leaves you interrogating whether you're evil for staying seated on a bus has done you harm, not good.
+
+So here's the honest version. In the cases you're likely to worry about, you won't be squinting. When it's there and you're anywhere near yourself, you know, and you have never once needed help identifying it.
+
+The dangerous cases are the opposite kind. They're the ones where you feel nothing at all and are completely certain. Because the further you drift from that signal, the fainter it seems, and the thing that would notice how faint it's gotten is the same thing you're drifting from. It never actually goes quiet. It only comes to seem absent, more and more, while you take your bearings from something else and never register the swap.
+
+That's most of what the rest of the book is about. For now: if you're anxious about whether you're evil for staying seated on a bus, that anxiety is not the signal. The signal doesn't feel like that.
 
 **2. Where you'd felt that before.**
 
-Now the stranger. You read him in about two seconds, on no evidence, and you'd have bet at any odds.
+Now the stranger. You read him in about two seconds, on no evidence at all, and you'd have bet at any odds.
 
-What did you read? Not that he was angry—you'd have forgiven angry. You read that he was doing the very thing he was condemning you for. He was making himself an exception. You *knew* he wouldn't tolerate contempt, because who does?
+What did you read? Not that he was angry; you'd have forgiven angry. You read that he was doing the very thing he was condemning you for. He was making himself an exception.
 
-Which is the same thing you'd known about yourself an hour earlier, and couldn't put into words. [what hour? do you mean the thing he was angry about?]
+Which is what you'd known about yourself minutes before, in the thing that got you caught, and couldn't have put into words if you'd tried.
 
-So you detected it in him instantly, using the faculty you had spent that hour refusing to point at yourself. Same recognition, aimed outward. _I am more_, and _you are less_, turn out to be one thing seen from two ends. [again, what hour?]
+So you spotted it in him instantly, using the one faculty you had just spent that whole episode refusing to turn on yourself. Same recognition, pointed outward. *This doesn't apply to me* and *you're not really one of us* turn out to be one thing seen from two ends.
 
 **3. The harder version of the experiment.**
 
-Earlier I asked you to go find a stranger and give them a dehumanizing look, and you found you couldn't do it — not while actually looking at them.
+Earlier I asked you to find a stranger and give them a dehumanizing look, and you found you couldn't do it, not while actually looking at them.
 
-Now try the harder version. Don't look for the worst thing you could do to them. Look for the _smallest_. The mildest unkindness you could manage with that person fully in view. A little dismissiveness. A flicker of superiority. Anything at all.
+You might think that's about intensity. That the look was too extreme, and something milder would go through easily. So try the mild version. Not the worst thing you could do to that stranger. The smallest. A flicker of dismissal. A half-second of superiority. The most trivial unkindness you can imagine, with them fully in view.
 
-Notice there isn't one. Whatever you can do to somebody, you can only do once something has moved out of view first. [What is harder about it if it's the smallest? This is confusing.]
+Notice it doesn't go through either.
+
+Which tells you the block was never about size. It was about whether you were looking at them. While you were, nothing was available to you, large or small. Something had to go before anything could.
+
+That's what you found in your own case. I think it's true of everyone, and of every harm there is, and I haven't shown you that. I'll say later what would prove me wrong.
+
+Now the other side of it, because so far this has all been about what you can't do.
+
+Think of a time you actually saw somebody. Not thought about them. Saw them. Maybe someone you love, in a completely ordinary moment, when it suddenly landed that there is a whole person in there, with a childhood, and a private fear, and their own particular way of being tired. Or a stranger, once, for no reason you could name.
+
+Notice what was missing from that moment. Not just that you wouldn't have harmed them. The option wasn't in the room. And it didn't feel like restraint, or like being good. It didn't feel like anything, because there was nothing there to hold back.
+
+Notice what was there instead. If they had objected to something, the objection would have landed on you. You'd have had to answer it, not manage it. If they had been hurt, it would have been bad, in the way your own hurt is bad, and not merely bad for them. And what was going on in them could have changed what you did next.
+
+That doesn't arrive as three separate facts. It arrives as one: somebody is there.
+
+I'm not going to explain that yet. I want you to have touched it, so that when I say *seeing*, or say that somebody is *in view*, you know which thing I mean. Later I'll say what those three amount to, in a form you can hold me to.
 
 **4. Where the verdict had to end up.**
 
-Look again at what the first stranger needed you to be. Notice it couldn't stop at _you did something wrong_. It couldn't even stop at _you're careless_ or _you're a liar_. It had to get all the way to _this is what you are._
+Look again at what the first stranger needed you to be. It couldn't stop at *you did something wrong*. It couldn't even stop at *you're careless* or *you're a liar*. It had to reach *this is what you are*.
 
-Ask why it can't rest anywhere short of that. I think it's because anything short of that leaves you the same kind of creature he is — and the same kind of creature has the same claim on him that he has on himself. Only a different kind of thing is beyond reach. [what is a "claim on him"?!]
+Ask why nothing short of that would do.
+
+I think it's because anything short of that leaves you a person, and he can't do what he's doing to a person. A person's objection would land on him; he'd have to answer it. So the verdict has to keep going until there's nothing left in you that he'd feel obliged to answer.
 
 **5. What it was like from inside his eyes.**
 
-One more, and this one is about you, not him.
+One more, and this one is about you.
 
-Think of someone you once despised and later came to see differently. Go back to when you despised them. Were you _interpreting_ them as rotten? Or were you just seeing it?
+Think of somebody you once despised and later came to see differently. Go back to when you despised them. Were you *interpreting* them as rotten? Or were you just seeing it?
 
-You were just seeing it. That's what makes this so hard to catch from inside: it doesn't arrive as an opinion you're holding. It arrives as what's there.
-
----
-
-## What this adds up to
-
-Nothing in this book is going to be proved. I said that at the start and I'll keep saying it. But things you can't prove can still be reasoned about, and I want to lay out plainly what I think all of this points at — with the ordinary explanation next to each one, so you can judge the fit yourself.
-
-I'm not going to defend these hard yet. Most of them get a chapter later. For now I only want them on the table, so that when they arrive you'll recognize them rather than meet them cold.
-
-**1. Conscience isn't a rulebook, and it isn't a harm detector.** [Needs a line break, along with the rest.] It detects one thing: the claim that some of us [you mean *we*] count more than others — and it detects that claim by registering what you had to stop seeing in order to make it. [second half of sentence is too dense] _The ordinary explanation:_ a fast-firing learned rule about harm. _The problem with it:_ your conscience fired when nobody was being harmed and nothing had been calculated. A detector tuned for harm shouldn't go off when there's none. This one does, reliably.
-
-**Which is why nothing in this book is a rule, and nothing in it ever will be.** I'm not going to tell you that self-interest is wrong, or that anger is wrong, or that punishment is wrong, or that making an exception of yourself is wrong. Every one of those is sometimes exactly right. The moment I give you a rule, two things happen, and you've already watched both. Your conscience gets handed a substitute it can hide behind. And the part of you that argues gets something to satisfy the letter of while betraying every bit of the spirit — which it is extraordinarily good at, and which is most of how the harm in this book gets done. What I can give you are clues: things to check, in yourself, that tend to be there when something has been turned away from. A clue you can be wrong about. A rule you can obey.
-
-[It seems like 4 belongs naturally after 1, doesn't it? And is it "helps or harms" or "good or bad"?]
-
-**2. Contempt and cheating are the same move.** _I am more_ and _you are less_, detected by one faculty in both directions. _The ordinary explanation:_ two different social instincts that happen to overlap. _The problem with it:_ both arrive instantly, without words, without argument, and both are accurate. That's one instrument, not two.
-
-[Does this need to be its own thesis? I thought we were listing only theses here.]
-
-**3. Something is operating in there that isn't him.** It aims. It tracks reactions. It closes exits. It intensifies when noticed, rather than getting embarrassed. And it benefits from being mistaken for the person carrying it. _The ordinary explanation:_ bias. _The problem with it:_ bias does none of those five things. Whatever has that profile is acting like something with its own interests. I'll be calling it an agent, and later something less flattering.
-
-[Crucially: he CANNOT be fully aware of its operation.]
-
-**4. What decides whether an act helps or harms is not anything you could write down.** Two strangers, nearly the same words, opposite results — and the second could have been harsher and still worked. _The ordinary explanation:_ one had a better manner. _The problem with it:_ manner was only the channel. What travelled through it was a verdict about what you are.
-
-**5. The caring is already there, and it's already enough to stop you.** That's why you couldn't manage even the smallest cruelty with the person in view, and why you needed limbo before you could do the thing you did. _The ordinary explanation:_ social inhibition. _The problem with it:_ it holds with nobody watching [it holds with?]. Nobody builds machinery that elaborate to get around a part of themselves that doesn't care.
-
-**6. Something in him preferred you not to improve.** Reform would have been the worst possible outcome for what he needed. [because it immediately destroys his perception that you're a different kind of thing] _The ordinary explanation:_ frustration. _The problem with it:_ frustration wants the problem solved. This wanted it kept.
-
-**7. Everyone has this, and everyone can read it in everyone.** Instantly, untrained, across cultures, accurately. _The ordinary explanation:_ shared culture. _The problem with it:_ nobody taught you, and you weren't wrong.
-
-**8. Contempt for him would feed the thing in him.** [even if it's done for a "good reason." This is the thing I cannot argue you into, but only give you hints for checking in yourself.] This one isn't a separate finding; it falls out of the rest. If it stays hidden by being mistaken for its host, then treating him as what it has made him look like is exactly what keeps it hidden.
+Hold onto that. It's going to matter more than it looks.
 
 ---
 
-And then one more, which is really just the first two put together, and which is where this book gets its title.
+## Where that leaves us
 
-When we call something _evil_, we don't mean very bad. We mean the thing we most want gone from the world—the thing worth destroying at any cost. And what you found is a faculty built to detect exactly one thing: the claim that some of us count more than others [you need to justify why the claim that some of us count more than others = what we most want gone from the world. as it stands, it sounds like leftist philosophy. I think it needs to evoke something more clearly]. Contempt is that claim in its purest form.
+I'm not going to tell you what all that means yet. Most of it needs a chapter, and some of it needs the whole book. But you should know where you stand. So here is an honest accounting, in three piles: what you saw, what I make of it, and what I'm asking you to carry on credit.
 
-So contempt isn't a bad way of responding to evil. It's the thing the faculty exists to catch.
+**What you saw.**
 
-I'm stating that now rather than arguing for it, because it needs everything in the rest of the book to stand up. But hold it while you read, because a lot depends on it — including why "sometimes you have to be a little evil to fight evil" might not be a hard truth about the world at all.
+That you knew a thing was wrong before you'd worked anything out, and that what you knew was that you'd stepped outside something that held for everyone.
+
+That you couldn't give a stranger that look while you were looking at him. Not the worst version of it. Not the smallest.
+
+That one man, in your imagination, made it easier to turn away from what you knew, and another made it harder, and you could feel the difference before either of them finished a sentence.
+
+That the first man's verdict couldn't stop short of *this is what you are*.
+
+**What I make of it.**
+
+These are inferences. I think they're good ones, and Chapter 1 argued for each. But you didn't observe them. You observed the things above, and I'm drawing conclusions from them, and you should know which is which.
+
+That you read him accurately. He was imagined, so what you actually did was build a man from the inside, and what came out matched what you'd just caught yourself doing. That tells you the faculty knows what the state looks like from outside because it has been inside.
+
+That nothing in the words accounts for the difference between the two men.
+
+That whatever was running the first man could not have gone on running if he'd turned and looked straight at it. Not deliberate, because a man can't convict you on evidence he knows he planted. Not blind, because it aimed, it tracked you, and it got stronger when you noticed it instead of embarrassed.
+
+That it does better when you take it for him. He defends it as his own judgment, and you go after the man, because the man is what you can see.
+
+That what you did when you cheated and what he did to you are one move from two ends. *This doesn't apply to me. You're not really one of us.*
+
+**The trap, in one piece.**
+
+Now put the inferences together, because assembled they're more than a list. They're a shape, and every part of the shape is forced.
+
+He couldn't have known what he was doing. If he had, the evidence would have been worthless to him. He couldn't have been blind to it either. Blind things don't aim. So it had to be the third thing, the one you know from inside: knowing, and not letting yourself know.
+
+That state can't be concealed. Not because it leaks around the edges. Because the hiding is what you saw. What he had to keep from himself is exactly what reached you.
+
+And it reached you as a provocation. Your reaction was the point. Not a side effect he'd have preferred to avoid; the proof he was working for. Which means the one outcome he couldn't afford was for you to get better.
+
+Take any link out and the whole thing stops. If he knew, no evidence. If he were blind, no aim. If it could be hidden, no provocation. If you could improve, no proof. That's why I call it a trap and not a bad habit. A habit is something you could drop. This has one working configuration, and it's the one you met.
+
+I think it's the same trap, at a different dose, in every act of contempt there is. Yours and mine included. That's the claim of this book, and Chapter 1 is as far as I can take it on evidence you've checked yourself.
+
+**What people already know, and what I think is new.**
+
+None of the conclusions in this book are new. That we make other people bad so we can feel good. That a person can hide from himself. That shaming somebody makes them worse. People have known all of that for a long time, and some of them have measured it. If it sounds familiar, that's because it is, and I'd rather stand with that company than pretend otherwise.
+
+What I don't think anyone has said is what actually passes between two people in that moment. That the hiding is the message. That what you read in him wasn't a mood but his relation to his own knowing. That it has to be deniable or it doesn't work at all. And that it teaches you something, which is the piece I most want you to keep hold of: that the part of you which knew is not worth listening to. Everything larger in this book comes out of that last one.
+
+**What I'm asking you to hold.**
+
+Four claims I can't earn from one encounter, stated plainly so you know what you're carrying. I'm not going to defend them here. Each gets its own part of the book. Hold them the way you'd hold a friend's account of something you weren't there for: provisionally, and with the right to put it down.
+
+The people we call evil are further along this same road. Not on a different one.
+
+The thing in him and the thing in you are on the same side, and contempt is what they feed each other.
+
+You are not it. And the shame you feel when you catch it is how it keeps you from looking.
+
+The only stance that doesn't feed the trap is the second stranger's. Other things sometimes work. That one is the only one that doesn't make more of what it's trying to stop.
+
+There's a fifth, about what's underneath all of this, and I'm going to hold it until the end, because it isn't something you can check.
+
+**The question that leads forward.**
+
+You can't harm somebody you're looking at, and you can't argue anybody into looking. So what does it? What turns a person back toward what they already know?
+
+You already have the answer, because it was done to you. The second stranger did it without a single argument. The rest of this book is an attempt to say what he did.
 
 ---
 
 ## What I haven't shown you
 
-I want to be exact about the debts, because I'm going to be asking for a lot of credit.
+You're carrying four claims on credit. Here is what I owe on them, and two more besides.
 
-I have not shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more.
+I haven't shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more. There's an obvious candidate for a counterexample, too: the one who wants the suffering and stays to watch it. I'll take that case head on when we get to them, and I'll say what would settle it against me.
 
-I have not shown you anything about your own contempt for someone who really hurt you. In this chapter you were the target, not the wronged [wait, what? why is being a target not wrong?], and those are not the same seat.
+But I want to be exact about how much rides on it, because it's less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. Something eases. Something wanted that.
 
-I have not shown you that any of this scales past two people in a parking lot.
+You may not catch it the first time. It's quick, and it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. But it's there, and once you've caught it once you'll catch it again, and you'll notice it has nothing to do with wanting the harm to stop.
 
-And I have not told you what's underneath the caring, beyond the fact that it's there and that it's enough.
+I haven't shown you anything about your own contempt for somebody who really hurt you. In this chapter you got caught doing something you actually did. Being hurt by someone when you'd done nothing at all is a different seat, and it has to be treated differently.
 
-Each of those gets its own chapter, and each is built from something you just checked. If the ordinary explanations fit better — if it really was just a rule, just a manner, just a bias, just culture — then you should stop here, because none of the rest will hold.
+I haven't shown you that any of this survives past two people on a street.
 
-I don't think they fit. And I suspect you noticed they didn't somewhere around the third one.
+And I haven't told you what's underneath the caring, beyond the fact that it's there and that it's enough.
+
+Each of those gets its own chapter, and each is built from something you just checked.
+
+And now the thing I owe you most, which is a real way to say no.
+
+You may have gone back to those memories honestly and found something different from what I described. Not a failure to look. A different finding. Maybe the knowing you had was a rule after all, and it fired fast. Maybe the stranger's tell was a manner you'd learned to read, and it didn't feel to you like a verdict. Maybe you can, in fact, picture doing a small unkindness to somebody while looking straight at them, and you'd be telling the truth.
+
+If so, then one of three things is true. The mechanism I've described is narrower than I've been claiming, and applies to some encounters and not others. Or your experience differs from mine in a way that matters, and I've been generalizing from too small a sample. Or I'm wrong.
+
+I don't know which. What I can promise is that none of those makes you the kind of reader who couldn't see. A book about contempt that treated its doubters as turned-away would be doing the thing it's about. So: if you looked and it isn't there, that's a finding, and it counts against me, and you should carry it forward as evidence rather than set it aside.
+
+What I believe is that it's there. That's why I'm writing. But I'm going to try to earn that over the rest of the book rather than assume it now, and if you're reading with the finding that it isn't, you're reading the way I'd want.

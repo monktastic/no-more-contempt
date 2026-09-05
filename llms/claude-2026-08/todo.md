@@ -6,13 +6,33 @@ Appendix 2 says "Most of what this book concludes is old. I want to say that pla
 
 ## FIRST — passes owed
 
-**Scope sweep** on `interlude-one.md` and the manuscript chapters (report only for manuscript). Ask for it by name. The single worst instance, the "entirely real to you" sentence in recall 3, is fixed as part of the sadism work below; the rest is mechanical.
+**Scope sweep** on `manuscript/chapter-1a.md` and the manuscript chapters (report only for manuscript). Ask for it by name. The single worst instance, the "entirely real to you" sentence in recall 3, is fixed as part of the sadism work below; the rest is mechanical.
 
 **Run the sadism test.** It's now stated as a hypothesis with a falsifier (below). Nobody has gone looking. Candidates to check against the three in-view checks: documented sadists' own accounts; torturers' testimony (Browning's *Ordinary Men*, Haritos-Fatouros on Greek junta torturers); the "cognitive empathy intact, affective off" psychopathy literature. The question for each: does their objection land, does the hurt register *as bad*, can anything in the victim revise the plan.
 
+## Handled 2026-09-04 (seventh pass, Fable)
+
+**The whiplash diagnosed and the criterion written down.** Function decides placement; evidence decides form. In `claim-triage.md` with a two-axis table. Stop relitigating "how much early."
+
+**Interlude rebuilt on three piles.** Saw / make of it / hold. Plus "The trap, in one piece" (the contribution, every link forced), "what people already know and what I think is new" (plain language, no names), and four held claims with a fifth held back. 2,890 words.
+
+**Common knowledge withdrawn from the chapters.** Ch1 section retitled "What He Could Count On"; Ch3 and rest-of-book §18 reworded. Only the appendix's own contrast passages still use the term, correctly.
+
+**"Only" claims reframed** in §12 and §17: the stance that doesn't feed the trap, not the only thing that helps. Appendix stack-overflow and non-terminating-search lines cut.
+
+**Open from this pass:** the roadmap's opening ("Where This Goes") now overlaps the interlude's trap passage. Fine while the roadmap is scaffolding; dissolve it when Parts A to F become chapters. And the **full audit** should run next, by name, now that the structure has settled.
+
+## Handled 2026-09-04 (sixth pass)
+
+**The interlude's debt list was under-crediting Chapter 1.** The agent's existence and its benefit from being mistaken for its host are both derived in Chapter 1 and were sitting in the not-shown column. Moved. Only "needs" stays as a debt.
+
+**The sadism falsifier now says what survives losing it.** The checkable claim was never about sadists. It's that the wanting is the move, catchable in yourself, with practice. Also added the bar: full seeing into a far-gone person may take decades, so the book asks for the near end.
+
+**Voice rules and model rules added to `CLAUDE.md`.** LLM-speak is now enumerated with the actual instances found. Model rules: check the git attribution line, Opus does mechanical work, Fable does judgment, `fable-queue.md` holds the difference. A **full audit** pass is defined and only runs when asked for by name.
+
 ## Handled 2026-09-04 (fifth pass)
 
-**Sadism, and what "seeing" means.** The sadist needs the suffering real, so he sees a subject. That falsified "you can only harm once they've stopped being real to you" as written, and the roadmap's answer ("conscious malice still needs limbo, further down") was No True Scotsman. Fixed by defining "in view" independently of harm, with three checks: their objection would land on you; their hurt would register as bad the way yours does; what's in them could change what you do. Two of the three candidate checks from the earlier note were sharpened: "would you feel it if they were hurt" fails against the sadist, who feels it as appetite, so it became "register *as bad*"; "curious about their inside" fails too, since the sadist attends totally, so it became "could change what you do." The claim now: harm needs none of the failures; *wanting* harm needs at least one. Falsifier: passes all three, wants the suffering as suffering. Chapter 2's trip is the one inside instance and fits. Now in `roadmap-for-beta-readers.md` §10 (full), `argument.md` Thesis 2 and §6 (▸), `interlude-one.md` recall 3 (seeded, debt named), `audit.md` P6 (Chapter 1 patch for the author to apply).
+**Sadism, and what "seeing" means.** The sadist needs the suffering real, so he sees a subject. That falsified "you can only harm once they've stopped being real to you" as written, and the roadmap's answer ("conscious malice still needs limbo, further down") was No True Scotsman. Fixed by defining "in view" independently of harm, with three checks: their objection would land on you; their hurt would register as bad the way yours does; what's in them could change what you do. Two of the three candidate checks from the earlier note were sharpened: "would you feel it if they were hurt" fails against the sadist, who feels it as appetite, so it became "register *as bad*"; "curious about their inside" fails too, since the sadist attends totally, so it became "could change what you do." The claim now: harm needs none of the failures; *wanting* harm needs at least one. Falsifier: passes all three, wants the suffering as suffering. Chapter 2's trip is the one inside instance and fits. Now in `manuscript/rest-of-book.md` §10 (full), `argument.md` Thesis 2 and §6 (▸), `manuscript/chapter-1a.md` recall 3 (seeded, debt named), `audit.md` P6 (Chapter 1 patch for the author to apply).
 
 ## Reversed 2026-09-04, after outside review
 
@@ -37,13 +57,13 @@ Appendix 2 says "Most of what this book concludes is old. I want to say that pla
 
 Resolved inside the existing framework rather than by adding a qualification: **the exception isn't what conscience registers. The not-looking that the exception required is.** You can take the last seat with the person still fully in view. You couldn't cheat that way. This keeps the account perceptual instead of turning it into a universalizability rule (which would be Kant, and would be exactly the kind of thing the book says can be obeyed in letter and betrayed in spirit).
 
-Added to `interlude-one.md` §1, and a bolded statement of the no-rules commitment added to numbered point 1, where the "conscience is not a rulebook" claim lives. The reason given there: a rule hands conscience a substitute to hide behind, and hands the arguing part something to satisfy the letter of. *A clue you can be wrong about. A rule you can obey.*
+Added to `manuscript/chapter-1a.md` §1, and a bolded statement of the no-rules commitment added to numbered point 1, where the "conscience is not a rulebook" claim lives. The reason given there: a rule hands conscience a substitute to hide behind, and hands the arguing part something to satisfy the letter of. *A clue you can be wrong about. A rule you can obey.*
 
 ---
 
 ## Open
 
-**The debt list in `interlude-one.md` names four things.** Each needs its chapter to actually pay: evil people as further along the same road; contempt from below; institutions; what's underneath the caring. If any chapter ships without paying its debt, cut the corresponding line from the interlude.
+**The debt list in `manuscript/chapter-1a.md` names four things.** Each needs its chapter to actually pay: evil people as further along the same road; contempt from below; institutions; what's underneath the caring. If any chapter ships without paying its debt, cut the corresponding line from the interlude.
 
 **Eight counter-explanations may be too many for interlude one.** Each named alternative is an objection handed to a reader who might not have had it. If it reads heavy, points 1, 3 and 5 keep theirs and the rest go flat.
 
@@ -51,13 +71,13 @@ Added to `interlude-one.md` §1, and a bolded statement of the no-rules commitme
 
 **The glare experiment from archive V38** is still unincorporated. Identified as the highest-value missing element: a live demonstration from the sending end.
 
-**Two origin stories for the turning.** ACIM: fear first, then projection. Samantabhadra: motiveless blank first, self and other after. Reconciliation proposed in `roadmap-for-beta-readers.md` §16 and `argument.md` §14 (blank first; fear is what the blank feels like once there's someone to feel it). Decide whether to keep both traditions visible or commit to one.
+**Two origin stories for the turning.** ACIM: fear first, then projection. Samantabhadra: motiveless blank first, self and other after. Reconciliation proposed in `manuscript/rest-of-book.md` §16 and `argument.md` §14 (blank first; fear is what the blank feels like once there's someone to feel it). Decide whether to keep both traditions visible or commit to one.
 
-**"Evil" needs its definition early.** Currently defined properly only in `roadmap-for-beta-readers.md`: not a rating, but the thing you'd destroy at any cost. Everything downstream of "contempt *is* evil" depends on the reader having that definition. It probably belongs in the Preface or Chapter 1.
+**"Evil" needs its definition early.** Currently defined properly only in `manuscript/rest-of-book.md`: not a rating, but the thing you'd destroy at any cost. Everything downstream of "contempt *is* evil" depends on the reader having that definition. It probably belongs in the Preface or Chapter 1.
 
 **The escape hatch** — *"are you saying I shouldn't correct bad behavior?"* — is one of only two claims worth arguing at full length (per `claim-triage.md`). It has no home yet.
 
-**Psychopaths** are promised in Chapter 1 and answered nowhere before Part C. The three in-view checks now make the question exact (which check is off by default, and does it switch on when asked); §10 says so in one sentence. Meffert et al. 2013 is the citation if one is wanted.
+**Psychopaths** are answered nowhere before Part C (Chapter 1 no longer promises them). The three in-view checks now make the question exact (which check is off by default, and does it switch on when asked); §10 says so in one sentence. Meffert et al. 2013 is the citation if one is wanted.
 
 **`manuscript/rest-of-book.md` is a stale copy of the roadmap.** Its §10 still has the No True Scotsman paragraph. Decide which file is canonical.
 
@@ -69,7 +89,7 @@ Added to `interlude-one.md` §1, and a bolded statement of the no-rules commitme
 
 ## Added 2026-09-04 (second pass)
 
-**"One idea, four sides" now appears in `interlude-one.md`.** The four: there is one move (turning away); all wrongdoing is made of it; contempt is its purest form; therefore only turning-toward helps. Sides one and three are earned from Chapter 1. Sides two and four are asserted and flagged. **Side four is the book's largest outstanding debt** and needs Parts D–F to pay it.
+**"One idea, four sides" now appears in `manuscript/chapter-1a.md`.** The four: there is one move (turning away); all wrongdoing is made of it; contempt is its purest form; therefore only turning-toward helps. Sides one and three are earned from Chapter 1. Sides two and four are asserted and flagged. **Side four is the book's largest outstanding debt** and needs Parts D–F to pay it.
 
 **The identification of vocabulary is now stated:** turning toward/away is what right/wrong, help/harm, and good/evil have been pointing at. Stated, not argued. If the book can't earn this, cut it back to the narrower Chapter 1 version (one stranger made turning away easier, the other harder).
 
@@ -77,17 +97,17 @@ Added to `interlude-one.md` §1, and a bolded statement of the no-rules commitme
 - *Naming "ego" in interlude one.* The word makes readers substitute a concept they already have (Freud, pop-spirituality, "he's egotistical") for the one just built from evidence. Deferred to where the reader has more.
 - *Naming the book's unique contribution in the text.* It's the one move the book's own analysis flags: claiming a high-status position and inviting the reader to grade the author against a literature they don't have. Belongs in the proposal and jacket copy, not the book.
 
-**The subtlety claim was overclaimed and is now split.** Near yourself, the signal isn't subtle and never was. Far from it, it seems absent — and the thing that would notice how faint it's gotten is the same thing you're drifting from. The second half is a real thesis (it's the drift material in `roadmap-for-beta-readers.md` §1) and is now seeded in interlude one.
+**The subtlety claim was overclaimed and is now split.** Near yourself, the signal isn't subtle and never was. Far from it, it seems absent — and the thing that would notice how faint it's gotten is the same thing you're drifting from. The second half is a real thesis (it's the drift material in `manuscript/rest-of-book.md` §1) and is now seeded in interlude one.
 
 ---
 
 ## Added 2026-09-04 (third pass)
 
-**The spectator seat.** Contempt is *pleasurable to watch*, which is a transmission channel neither party controls — it spreads through people who did nothing. Chapter 1 gave the reader the target's seat and the perpetrator's; this is a third. Now in `interlude-one.md` as a side-by-side check (clean fierceness vs. contemptuous takedown; the second has a hot charge in it and wants more). Worth expanding into its own treatment later — most contempt is consumed, not performed.
+**The spectator seat.** Contempt is *pleasurable to watch*, which is a transmission channel neither party controls — it spreads through people who did nothing. Chapter 1 gave the reader the target's seat and the perpetrator's; this is a third. Now in `manuscript/chapter-1a.md` as a side-by-side check (clean fierceness vs. contemptuous takedown; the second has a hot charge in it and wants more). Worth expanding into its own treatment later — most contempt is consumed, not performed.
 
-**Why contempt uniquely deserves a book.** Four properties nothing else has together: it's a self-exception; it leaves no evidence; it's performed publicly and rewarded; watching it is pleasurable. Theft leaves evidence, violence is visible, lying can be checked. Now stated in `interlude-one.md`, with a note about the original title (*Contempt Is Evil*) and why it was dropped — it reads as a judgment when it's meant as an identification.
+**Why contempt uniquely deserves a book.** Four properties nothing else has together: it's a self-exception; it leaves no evidence; it's performed publicly and rewarded; watching it is pleasurable. Theft leaves evidence, violence is visible, lying can be checked. Now stated in `manuscript/chapter-1a.md`, with a note about the original title (*Contempt Is Evil*) and why it was dropped — it reads as a judgment when it's meant as an identification.
 
-**NEW THESIS — the far end (added to `roadmap-for-beta-readers.md`, Part C).** The faculty needed to notice drift is the faculty being drifted from, so access shrinks. But the *knowing* doesn't shrink; it grows, because there's more harm to register. So the deeply lost person knows most and least at once, at maximum intensity. Consequences:
+**NEW THESIS — the far end (added to `manuscript/rest-of-book.md`, Part C).** The faculty needed to notice drift is the faculty being drifted from, so access shrinks. But the *knowing* doesn't shrink; it grows, because there's more harm to register. So the deeply lost person knows most and least at once, at maximum intensity. Consequences:
 - What horrifies you when you look at such a person is not an absence. It's an enormous suppressed presence — a conscience under crushing load, showing through. You read it accurately.
 - It shows itself *so that* you'll press harder, because your contempt is what the thing doing the suppressing requires.
 - "They need the most love" is therefore the flat reading, not sentiment: most carried, most pressure, least access, and every instinct we have adds to the load.
@@ -104,7 +124,7 @@ This is the foregrounded version of the appendix's "evidence and conclusion have
 
 ## Added 2026-09-04 (fourth pass)
 
-**Conflation is one requirement with two faces, now joined.** The parasite needs to be mistaken for the host by the observer (so the observer attacks the host, pressing down the conscience that could end it) *and* by the host (so he defends it as his own convictions). Chapter 1 has both, scattered; they were never stated as one thing. Now claim 5 in `interlude-one.md`, and expanded in `roadmap-for-beta-readers.md` Part C.
+**Conflation is one requirement with two faces, now joined.** The parasite needs to be mistaken for the host by the observer (so the observer attacks the host, pressing down the conscience that could end it) *and* by the host (so he defends it as his own convictions). Chapter 1 has both, scattered; they were never stated as one thing. Now claim 5 in `manuscript/chapter-1a.md`, and expanded in `manuscript/rest-of-book.md` Part C.
 
 **The inside/outside asymmetry is what makes the arrangement stable.** From outside it looks monstrous. From inside it feels righteous — not tolerable, not excused, *good*. And nobody ever gets both views of the same instance: you have the inside of yours and the outside of everyone else's. So we are all accurate about each other and blind about ourselves, permanently, by construction rather than by character.
 

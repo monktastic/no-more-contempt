@@ -182,11 +182,11 @@ But how the hell do you reveal something to someone else that's hidden from you?
 How do you send that in a glance, before a word is said, when you can't even know you're sending it—and moreover, know that they'll receive it?
 
 ---
-## Common Knowledge
+## What He Could Count On
 
-This can only work if it's already **common knowledge**. Something that we all recognize, and we know that everyone *else* recognizes, and we know they know *we* recognize, etc.
+This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to. You know it, and he knows you know it, and neither of you could prove a word of it, and that last part is what lets it keep going.
 
-And that's only possible because *we've all been there before.*
+He can count on you because *you've been there.*
 
 We know what it is to hide from our own conscience. What it's like to pretend that we're not. And *to pretend that others can't see it, even though part of us **needs** them to.*
 
@@ -196,7 +196,7 @@ It's worth pausing to recall an instance of this. Maybe it wasn't even an enemy.
 
 You had to be present enough to actually do it, while also absent enough to give yourself *plausible deniability*—so that when you looked back on it later, your hands would be clean.
 
-And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do—because we *all* do.
+And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do, because they've been there too.
 
 But still what, exactly, gives it away?
 

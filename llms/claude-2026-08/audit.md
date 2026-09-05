@@ -120,7 +120,7 @@ Both now folded in above (items 13 and 14): the escape hatch, and the dark prefe
 
 # What Chapter 1 can support
 
-*The evidence inventory and thesis-by-thesis audit behind `interlude-one.md`.*
+*The evidence inventory and thesis-by-thesis audit behind `manuscript/chapter-1a.md`.*
 
 
 *Three things here. First, an inventory of what the reader has actually verified by the end of Chapter 1 (the evidence). Second, every thesis in the book checked against that evidence: which ones Chapter 1 already supports abductively, which need a small patch to Chapter 1, and which can't be reached from Chapter 1 at all. Third, a draft of the interlude that lays the case out for the reader.*
@@ -210,7 +210,7 @@ Status codes: **Verified** (demonstrated in Ch1, no inference needed) · **Abduc
 
 > Check this against your own memory. Think of someone you once despised and later came to see differently. At the time, were you *interpreting* them as rotten? Or were you just seeing it?
 
-**P6 — What "looking" means (Mechanism section, added 2026-09-04).** After "You can't do it while fully looking at it," the gaze experiment needs "looking" pinned to something checkable, or the sadist falsifies it (see `roadmap-for-beta-readers.md` §10). One sentence, no list:
+**P6 — What "looking" means (Mechanism section, added 2026-09-04).** After "You can't do it while fully looking at it," the gaze experiment needs "looking" pinned to something checkable, or the sadist falsifies it (see `manuscript/rest-of-book.md` §10). One sentence, no list:
 
 > And notice what "looking" was made of. Their objection would have landed on you. Their hurt would have been bad, the way yours is. And whatever was in them could have changed what you did. That's what you couldn't do it through.
 
@@ -220,7 +220,7 @@ Not applied; manuscript.
 
 ## 4. The interlude itself
 
-Moved to its own file: `interlude-one.md`.
+Moved to its own file: `manuscript/chapter-1a.md`.
 
 ---
 
