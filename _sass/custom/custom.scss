@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+.main-content {
+  font-family: Lora, Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  max-width: 44rem;
+  h1, h2, h3, h4 { font-family: inherit; font-weight: 600; }
+  h1 { margin-top: 0.5em; }
+  h2 { margin-top: 2.2em; }
+  blockquote { font-style: italic; border-left: 3px solid #ccc; color: inherit; }
+  hr { margin: 2.5em auto; width: 4rem; border-top: 1px solid #bbb; }
+  p { margin-bottom: 1.1em; }
+}
