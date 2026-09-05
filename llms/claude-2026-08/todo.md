@@ -6,6 +6,9 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## On Aditya
 
+- **The site.** It's rebuilt on the just-the-docs theme and generated from `manuscript/` by `publish.sh`. Before pushing: confirm the nav title "Chapter 3: The Sacrifice" (the file has no title; I took it from your old file list); keep or cut the AI note at the end of "Start here"; and decide whether the old book (`old/index-old-v6.5.md`) should stay reachable at some URL. Then `git add -A && git commit && git push`, and GitHub Pages will build it. Run `./publish.sh` after any manuscript change you want live.
+- The repo root still holds a dozen loose files from earlier drafts (`alt.md`, `faq.md`, `short.md`, `chapters/`, the `history_part_*.txt` files). They're excluded from the site now, but they're clutter. Move to `old/` or delete.
+
 - Chapter 2's title doesn't describe the chapter. Chapter 3 has no title.
 - chapter-2.md:7, "Our belief that it *can* be pinned down: that's what the dark part exploits." Tier II in Tier I voice; flag it as a promise or move it.
 - chapter-4.md:81 uses "contempt" for the cold form (animals, nature) before §5 restricts the word. Either accept it or say "turning away."

@@ -18,6 +18,7 @@ make the change and tell me, rather than stopping to check.
 Everything the book is made of lives in `manuscript/`. The base directory holds
 the working documents: what the book claims, what's open, and how to decide.
 
+`manuscript/start-here.md` orientation for early readers; the site's front page.
 `manuscript/preface.md`, `chapter-1.md`, `chapter-1a.md` (the interlude after
 Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`, `chapter-5.md` (the whole
 book once, condensed and tiered; the short version, with `rest-of-book.md` the
@@ -45,6 +46,13 @@ Opus). Nothing else in the repo holds state.
 files under their old names; that's the historical record and stays as it is.
 `build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
 Generated output; never edit it.
+`publish.sh` generates the website from the manuscript files into the repo
+root: `index.md`, `book/`, `map/`, `appendix/`. Those are generated and
+committed (GitHub Pages builds from the repo); never edit them, edit
+`manuscript/` and run the script. The site is Jekyll with the just-the-docs
+theme; config is `_config.yml` at the repo root, custom style in
+`_sass/custom/custom.scss`. Run `publish.sh` after any manuscript change that
+should go live.
 
 ## How I want you to work
 
