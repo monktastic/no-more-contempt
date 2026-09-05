@@ -19,7 +19,7 @@ Now bring to mind someone who actually qualifies. Not a stranger who was rude to
 
 Something in you wants them to _know_. Not just to be stopped—that isn't enough. You want it to land on them, from the inside, what they *are*.
 
-And how *does* it land on them? Do they back down—or do they treat it as a challenge and respond accordingly? You can see it strengthening their resolve, can't you? 
+And how *does* it land on them? Do they back down—or do they treat it as a challenge and respond accordingly? You can almost see it strengthening their resolve.
 
 Why? Because they're evil, obviously, and that's just what evil does.
 

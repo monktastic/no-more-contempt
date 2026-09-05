@@ -66,13 +66,14 @@ digraph interlude {
   subgraph cluster_contemp {
     label="E (cont.)  A note for contemplatives"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#fff2b3"];
-    D6 [label="D6  APPENDIX 3, the traditions (was §17)\nmarigpa = non-recognition; afflictions as display; adventitious;\nnon-fabrication + familiarization; POINTING-OUT = 2nd stranger;\nSAMANTABHADRA: blank first, no motive, self/other AFTER;\nRECONCILED with the fear of §15: blank first, fear = what the\nblank feels like once there's someone to feel it;\nWHAT'S MINE: coordination across minds; caution: not permission"];
+    E7 [label="E7  APPENDIX 1 Part Three: IMPLICIT COMMON KNOWLEDGE\nstreet = recursive mutual recognition under deniability (not CK);\nunder care-as-nature + self-knowing + turning-away-as-the-one-mistake,\nthe sameness is CK at the level of awareness (a fixed point) and\nunavowable at the level of persons; contempt = the anti-ritual;\n2nd stranger enacts the sameness so it can't be disavowed;\nneeds indistinguishable nature, not numerical oneness"];
+    D6 [label="D6  APPENDIX 3, the traditions (was §17)\nmarigpa = non-recognition; afflictions as display; adventitious;\nnon-fabrication + familiarization; POINTING-OUT = 2nd stranger;\nSAMANTABHADRA: blank first, no motive, self/other AFTER;\nRECONCILED with the fear of §15: blank first, fear = what the\nblank feels like once there's someone to feel it;\nWHAT'S MINE: coordination across minds; THE ROAD IN (the hiding\nproves the care; from your worst moment, not your best; Mencius, Augustine\nnearest; two roads, one place = abductive support both ways);\ncaution: not permission"];
   }
 
   subgraph cluster_end {
     label="F  What this book is for"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#cfe2f3"];
-    D5 [label="D5  Part F: the four sides + what this book is for\nONE IDEA, FOUR SIDES stated whole (one move / all wrongdoing /\ncontempt purest / only turning-toward helps); a shared sayable\nname removes deniability (NOT common knowledge); the limit;\nit will be weaponized (gaslighting precedent); epigraph"];
+    D5 [label="D5  Part F: the four sides + what this book is for\nONE IDEA, FOUR SIDES stated whole (one move / all wrongdoing /\ncontempt purest / only turning-toward helps); a shared sayable\nname removes deniability (NOT common knowledge); the limit;\nit will be weaponized (gaslighting precedent); CLOSE: under the bet,\nwhat the bet is for: what stopped you on the street was what was\ndoing the looking; 'I can't take you further than suspecting'; epigraph"];
   }
 
   // recap
@@ -100,5 +101,6 @@ digraph interlude {
   D1 -> D3; R2 -> D3; A2 -> D3; C2 -> D3;
   D3 -> D4; B4 -> D4; B3 -> D4; D1 -> D4;
   D4 -> D6; D1 -> D6; D0 -> D6;
+  D4 -> E7; R3 -> E7; E7 -> D6;
   R4 -> D5; R3 -> D5; D0 -> D5; A3 -> D5; D4 -> D5; D6 -> D5;
 }

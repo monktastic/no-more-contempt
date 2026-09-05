@@ -23,6 +23,8 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## Fable
 
+- **The comparative case for the destination.** Appendix 3 now admits that the road from the gaze experiment to "care is what awareness is" is abductive and that the rivals (evolved empathy, shame, internalized norms, self-concept, aversion to direct aggression) haven't been argued against. §4 of the map already argues the psychological rivals are instances of the one move, not alternatives; run that argument on the experiment itself: for each rival, what would it predict about the mild version (the interlude's smallest unkindness), about the nobody-watching condition, and about the size of the hiding. Where a rival predicts the same, say so. Place in Appendix 1 or a new short appendix; Tier II, not III.
+
 - **The parasite and the Buddhist ego.** appendix 3 now states the correspondence (self-cherishing, Shantideva, the mind-training texts; hides behind your own eyes; Satan's trick and the self's) and marks it as unfinished. Aditya hasn't fully clarified it himself. Needs its own section once he has: what "ego" means here, why the parasite is its defense rather than the thing itself, and whether Madhyamaka's emptiness of self is the same claim as "there's no creature."
 
 - **The missing chapter on false conscience.** The book's practical value rests on telling conscience from its counterfeits, and the counterfeits include trained disgust, trauma responses, inherited prejudice, scrupulosity, paranoia, and the certainty that comes from belonging. The current answer is scattered: clues not rules (§1), "notice how sure you are" (§2), the five checks (§12), the three in-view checks (§10), the bus-seat passage in the interlude. Immediate, wordless, immovable certainty can be badly wrong, and assigning all cultural variation to the reasoning layer is asserted, not shown. This deserves a chapter, and it's the one a hostile reviewer will go for first.
@@ -48,7 +50,6 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 - **Scope sweep** on the whole manuscript. Every "everyone," "always," "never," "cannot," "nobody," "all": about the reader's own case (stays flat) or everyone (grades or moves). Report for manuscript files; apply in working docs.
 - **Run the sadism test.** Candidates against the three in-view checks: documented sadists' own accounts; torturers' testimony (Browning's *Ordinary Men*, Haritos-Fatouros on the Greek junta); the psychopathy literature where cognitive empathy is intact and affective is off. For each: does the objection land, does the hurt register *as bad*, can anything in the victim revise the plan.
-- Regenerate `dags/*.svg` once graphviz is installed.
 
 ## Open questions, no owner yet
 

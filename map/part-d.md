@@ -11,7 +11,7 @@ parent: "Where This Goes"
 
 ## 12. The only lever
 
-You've now seen why you can't trust the sureness: the parasite uses your reasoning, then your perception, and it's most convincing exactly when it's most accurate about the darkness in someone else. So the question the whole book comes down to is the obvious one. If you can't trust your reasoning and you can't trust your seeing, what's left?
+You've now seen why you can't trust the sureness: the parasite uses your reasoning, then your perception, and it's most convincing when it's most accurate about the darkness in someone else. So the question is the obvious one. If you can't trust your reasoning and you can't trust your seeing, what's left?
 
 Only the thing that was demoted. And I have to tell you now what I think that is, because everything after this rests on it.
 
@@ -25,7 +25,7 @@ So don't take it from me. Take the piece of it you already ran. In Chapter 1 I a
 
 That one experiment contains the whole argument, and you ran it on yourself. The reason has to come first, because the care is already there, and it is already strong enough to stop you. Which is also why the first stranger needed his story so badly, and why you needed limbo before you could do the thing in the opening pages. Nobody builds machinery that elaborate to conceal something from a part of themselves that doesn't care.
 
-So the size of the hiding is the measurement. However much you have had to hide from yourself over your life, that is how much of this is in you.
+So the size of the hiding is a measurement of how much is being held down. However much you have had to hide from yourself over your life, that is at least how much of this is in you. Whether what's held down is care, and not only fear of being seen, is what the experiment on the street lets you check: nobody was watching.
 
 It never went anywhere, either. It knew what it knew the whole time, and it still does. You don't build it and you don't earn it. You remember it. That's why the second stranger worked without making a single argument: he didn't put anything into you. He made it safe to remember.
 
@@ -45,13 +45,13 @@ So: you can't fix people. What you can do is turn toward them, and you can only 
 
 One warning before another word about practice. If you take this book and go out to fix people with it, you will produce more of what it warns about, and you'll be certain you're helping. That's not a prediction about other readers. It's a report about me. The trap I fall into most is contempt for people who still have contempt. Watch for it. It's the same thing in new clothes.
 
-What that leaves is your own turning-toward, and it's the only lever there is. Not because it's the noble option. Because it's the only thing in the whole picture that isn't already recruited.
+What that leaves is your own turning-toward, and it's the only lever there is. Not because it's the noble option. Because it's the one thing in the picture that isn't already recruited.
 
 And "turning toward" doesn't mean building something. The faculty is still there. It never left. This is also the thing Chapter 1 promised to come back to: turning away from yourself and turning away from your conscience are one act, because your conscience is the part of you that was doing the seeing. It isn't that you lose some separate part that was keeping watch. You lose the view itself. What the work amounts to is whatever lets you stop drowning it out, which is why the practices that do this are mostly practices of subtraction, and why the second stranger could do it with a look.
 
 Which also settles a question you may have been holding since Chapter 1. If you can't decide to look, is any of this up to you? Yes, but not where you'd expect. The moment of not-seeing isn't chosen; by the time you could choose, the seeing is already gone. What is trainable is how fast you catch it afterward. Days, then hours, then sometimes while it's still happening. That's the core of it, and it's the only part of this that improves with effort.
 
-Which is also where I stand, since I'm asking you to do this. I am not enlightened and I am not reliably turned toward. I feel contempt often—at the news, at people I love, at people who hold this same book badly. What I have is that I usually catch it now, sometimes in the moment and sometimes days later, and that catching it has stopped feeling like an accusation. That's the whole difference, and it's ongoing. If this book sounded like a report from someone finished, I've written it wrong.
+Which is also where I stand, since I'm asking you to do this. I am not enlightened and I am not reliably turned toward. I feel contempt often—at the news, at people I love, at people who hold this same book badly. What I have is that I usually catch it now, sometimes in the moment and sometimes days later, and that catching it has stopped feeling like an accusation. That's the difference, and it's ongoing. If this book sounded like a report from someone finished, I've written it wrong.
 
 ### The practice
 
@@ -59,7 +59,7 @@ A few more things about the practice.
 
 Anger is natural, and often right. But it almost always carries a passenger: malice, contempt, self-righteousness. They feel healthy too. They aren't. Judgment, outrage, punishment: each of those words covers two different things. There's a contemptuous version and a non-contemptuous one. The contemptuous versions are always evil; that's the identification again, not a value judgment. The non-contemptuous versions are context-dependent. At one level the two versions are easy to confuse. At a deeper level the difference is obvious, and it's only the parasite that makes it feel hard.
 
-It keeps them blurred on purpose, and here's the moment you'll see why. Whenever someone is caught doing the contemptuous kind, watch what they say: *"Wait—are you saying I shouldn't correct bad behavior?"* It sounds reasonable. It's the parasite escaping through the door it kept propped open for exactly this moment. Correcting behavior was never what anyone objected to. I want that door closed by the end of this book, for you and for me.
+It keeps them blurred on purpose. When somebody is caught doing the contemptuous kind, the reply is nearly always the same: *wait, are you saying I shouldn't correct bad behavior?* The question is fair, and the answer is no. Correct it, fiercely if you have to. What was on trial was never the correcting. It was the verdict, and the question quietly swaps one for the other. That swap is the door the parasite keeps propped open, and I make it too.
 
 What I check, and what I'll ask you to check: does this need them to be bad? Would I feel *worse* if they got better? Is there anything in it I wouldn't want narrated out loud? Does it have to argue? Is there a hit of pleasure in what it wants to do to them that's separate from any good it would do? Any yes, and something has been turned away from.
 
@@ -71,7 +71,7 @@ And here is the part that makes this a practice rather than a technique. You can
 
 ### Two limits
 
-Now the harder limit, and I've been putting it off. Seeing all the way into somebody who is far gone, seeing the whole of what sits under the damage, may be the work of a lifetime. I don't have it. The people I've met who seem to have it spent decades on exactly this. So if this book asked you to look at the worst person you know of and perceive their light, it would be asking for something neither of us can produce on demand, and you'd be left faking it, which fails.
+Now the harder limit, and I've been putting it off. Seeing all the way into somebody who is far gone, seeing the whole of what sits under the damage, may be the work of a lifetime. I don't have it. The people I've met who seem to have it spent decades on this. So if this book asked you to look at the worst person you know of and perceive their light, it would be asking for something neither of us can produce on demand, and you'd be left faking it, which fails.
 
 It isn't asking that. It asks for the near end of the same skill, and the near end is available today. Catch yourself wanting them to be what you've decided they are. Notice, as the verdict settles, that something in you was after it. You don't have to see into him at all to do that. You only have to look at what happened in you, which is the one thing you're in a position to examine, and the one place where any of this can be reached.
 
@@ -119,9 +119,9 @@ And if it's a costume, you'd expect to recognize it on more than one person. Che
 
 So this is what you have to hold, and it takes both hands. It isn't real, and it has to be fought. Decide it's a real essence and you'll fight the person, which is contempt, and you've read what that does. Decide it's harmless because it's an absence and you'll do nothing while it eats, and you'll call your nothing compassion. Both hand it the win. What's true is stranger than either: a nothing that must be fought like a something, without ever being mistaken for a something.
 
-And there's a payoff for holding it, which is the only reason it's worth the trouble. If it were a real essence, it would be in the person, and the only way to end it would be to end them. Because it isn't, there's another way in. You can go after the absence and leave the person standing. That's not a softer option. It's the only thing that has ever removed any of this from the world, and it's what the rest of the book is about.
+And there's a payoff for holding it, which is the only reason it's worth the trouble. If it were a real essence, it would be in the person, and the only way to end it would be to end them. Because it isn't, there's another way in. You can go after the absence and leave the person standing. That's not a softer option. It's the one thing that has ever removed any of this from the world.
 
-So there are two distinctions, and I'll lean on both. You and not-you: the darkness is not what you are. And real and not-real: the part that cares is the only thing in the whole picture with a light of its own. Everything the darkness seems to be, it is reflecting.
+So there are two distinctions, and I'll lean on both. You and not-you: the darkness is not what you are. And real and not-real: the part that cares is the one thing in the picture with a light of its own. Everything the darkness seems to be, it is reflecting.
 
 Which means there is nothing to be ashamed of at the bottom. And shame was its last line of defense. The moment you can look without your worth being on trial, it has nothing left to work with.
 

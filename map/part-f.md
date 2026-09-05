@@ -37,4 +37,8 @@ I should be honest about the limit. The word "contempt" already exists, and its 
 
 Nothing here asks you to soften what you see or pretend the harm isn't real. If anything you'll see more, and more clearly. The only thing being taken from you is the pleasure of certainty about what someone *is*. And I think, if you check, you'll find that it was never yours to begin with.
 
+And under the bet is the thing the bet is for. The name is a means. Go back to what you found on the street. You couldn't give a stranger that look while you were looking at him, and nothing you'd decided or been taught was stopping you. Something already there was. Everything since has been an account of how much work it takes to hide from that something, and what the hiding does to the world. Take the hiding away, in yourself, and what's left is what stopped you. It was never a quality you had. It was what was doing the looking.
+
+I can't take you further than suspecting that. If you come away suspecting it, from your own case, the book did its work, whatever else it got wrong.
+
 *When it is recognized, it is dissolved.*

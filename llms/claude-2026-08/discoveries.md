@@ -75,6 +75,9 @@
 **The rivals are instances, not alternatives.** Motivated reasoning (my conclusion counts for more than the truth), status defense (I count for more), shame avoidance (my self-image counts for more than accuracy), dominance-reward (I'm above) — every one is the asymmetry at a different level. **The cost:** if everything is the same thing, the word stops working. Paid two ways: keep "contempt" for the hot interpersonal form only, and make the unification predict something — that all of them share one blind spot of the same shape, which fails the same way when the thing looked away from is put back in view. For motivated reasoning that's Kunda's finding: people stop searching when they reach the conclusion they wanted.
 → `manuscript/rest-of-book.md` §4, `archive/cut-from-interlude-one.md` (integration notes)
 
+**Implicit common knowledge (Tier III).** The street is recursive mutual recognition under deniability, not common knowledge; that stands. But under the belief that care is the nature of awareness, that awareness knows its own nature, and that turning away is the one mistake common to every sentient being, the sameness of the two people is common knowledge at the level of awareness, as a fixed point: what's known includes that every awareness knows it, at worst in limbo, so every further depth repeats the same content. It stays unavailable as explicit common knowledge at the level of persons. Contempt is the anti-ritual that keeps it from becoming avowable; the second stranger enacts the sameness so that it can't be disavowed. Needs the awarenesses to be indistinguishable in nature, not numerically one.
+→ `manuscript/appendix-1-recursion.md` Part Three; `argument.md` §8
+
 ---
 
 ## Structure and method
