@@ -3,4 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-.idea/
+.idea
+llms/claude-2026-08/working-manuscript.md

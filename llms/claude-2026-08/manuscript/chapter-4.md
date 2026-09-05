@@ -84,13 +84,11 @@ I'm not waxing spiritual to slip my views past you. As best I can tell, none of 
 
 And the way I've been relating to them—it's only making it *harder* for them to look.
 
-And it's not. By. Accident.
+And it's not by accident.
 
 ---
 
-Here's what I'm trying to say. 
-
-There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants. 
+There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants.
 
 And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
 

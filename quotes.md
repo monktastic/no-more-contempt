@@ -2,7 +2,7 @@
 
 ### General
 
-> *Be kind, for everyone you meet is fighting a great battle.* — [Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
+> *Be kind, for everyone you meet is fighting a great battle.* —[Author unknown](https://quoteinvestigator.com/2010/06/29/be-kind/)
 
 > *Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.* ―Martin Luther King, Jr.
 
@@ -31,7 +31,7 @@
 
 ### Psychedelics
 
-A Q&A from an online web forum (emphasis mine):
+A Q&A from an [online web forum](https://web.archive.org/web/20150628081721/http://duncantrussell.com/forum/discussion/89/a-blessed-curse-psilocybinempathy/p1) (emphasis mine):
 
 > Like many of you (I'm sure), psilocybin has changed the way I see this world, and the people around me. It has torn my heart open on many occasions and revealed to me how my actions effect other people in ways I would've never imagined. In addition (and to the point), **psilocybin has increased my ability to empathize with people to a degree I never thought possible**.
 >

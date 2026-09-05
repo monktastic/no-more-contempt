@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it.* —The Gospel of Philip
 

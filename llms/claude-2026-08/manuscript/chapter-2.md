@@ -1,4 +1,4 @@
-## Chapter II: The Descent
+# Chapter 2: The Descent
 
 Something inside you cares. *Profoundly.* About other people, about other beings, about the world around you.
 
@@ -44,7 +44,7 @@ Here's what it feels like from the inside.
 
 ---
 
-Let me now offer a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
+Now a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
 
 ---
 ## The trip
