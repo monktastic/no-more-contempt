@@ -40,7 +40,7 @@ Where it stops is the *why*. He shows that stigmatising shaming makes people wor
 
 **Murdoch** is the closest of all of them, and the one I found last. For her the moral work is not in choosing. It's in looking, in whether you can see another person as they actually are, rather than through the story your own self-regard is telling. She thought the fantasy comes first and corrupts perception, and that by the time you get to a choice, the important thing has already happened.
 
-That is this book's central claim, arrived at forty years earlier, by a better philosopher.
+That is the ground this book stands on, laid forty years earlier, by a better philosopher. It isn't the book's claim. The claim is what happens when two people are looking, or failing to, at each other.
 
 Where it stops is that her looking is a private discipline. One person, attending. What I keep finding is that the failure to look is *transacted*: it's shown to somebody, received by them, and reproduced in them. Murdoch tells you what seeing is and why it's hard. She doesn't describe two people making each other blind.
 

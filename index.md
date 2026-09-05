@@ -1,10 +1,10 @@
-## Preface
+# Preface
 
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it.* —The Gospel of Philip
 
 ---
 
-Bring to mind the very worst people in the world. The ones who harm innocents without any sign of regret—some of them, apparently, with _glee_. You know the ones I'm talking about.
+Bring to mind the very worst people in the world. The ones who hurt innocents without any sign of regret—some of them, apparently, with _glee_. You know the ones I'm talking about.
 
 How do you feel about them? How do you want *them* to feel?
 
@@ -36,7 +36,11 @@ Let's start with small examples, since that's where this is easiest to see.
 
 ---
 
-## Chapter 1: Limbo
+
+
+<!-- ===== manuscript/chapter-1.md ===== -->
+
+# Chapter 1: Limbo
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even partner).
 
@@ -89,7 +93,7 @@ You'd take that bet at any odds. But on what evidence? You'd never met him. You 
 
 ---
 
-Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. To be clear: **not more gently**. Just that his anger was directed at what you *did*, and not what you *are*.
+Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. **Not more gently.** Just that his anger was directed at what you *did*, and not what you *are*.
 
 Would you have dug in? Vowed revenge?
 
@@ -182,7 +186,7 @@ Let's inhabit his perspective for a moment.
 
 What would it be like to discover that your enemies—the *bad people*—aren't inherently different from you? That they cause harm for essentially the same reason you do—not because they're inherently bad, but because we *all* struggle to do what's right, for different reasons.
 
-It would mean they're fundamentally redeemable—and so your contempt has only been making them worse. All for the "benefit" of proving that you're nothing alike. 
+It would mean they're redeemable after all—and so your contempt has only been making them worse. All for the "benefit" of proving that you're nothing alike. 
 
 And you did it while knowing there was a better way: what the second stranger did. A way that might actually help, but require you to give up the feeling of being *morally superior*.
 
@@ -201,7 +205,7 @@ Look at the bind he's in. He needs you to be bad because at some level he knows 
 
 He can't be openly cruel, because that would make *him* bad. In fact, he can't do anything that will leave a trace, *even within his own mind*. When he looks back on it later, he cannot sense anything amiss. That's a pretty tight constraint.
 
-All he can do is somehow provoke you into a nasty response—crucially, in response to his *objectively good* behavior. Because what kind of person reacts like *that?*
+All he can do is somehow provoke you into a nasty response, and it has to come in answer to his *objectively good* behavior. Because what kind of person reacts like *that?*
 
 And look what he has to work with. His tone; his gaze; his manner. Exactly the things you used to detect it. Anything else could be audited.
 
@@ -220,21 +224,21 @@ But how the hell do you reveal something to someone else that's hidden from you?
 How do you send that in a glance, before a word is said, when you can't even know you're sending it—and moreover, know that they'll receive it?
 
 ---
-## Common Knowledge
+## What He Could Count On
 
-This can only work if it's already **common knowledge**. Something that we all recognize, and we know that everyone *else* recognizes, and we know they know *we* recognize, etc.
+This can only work if he can count on you to recognize it. Nobody has ever said it out loud. Nobody needs to. You know it, and he can count on your recognizing it, and neither of you could prove a word of it, and that last part is what lets it keep going.
 
-And that's only possible because *we've all been there before.*
+He can count on you because *you've been there.*
 
 We know what it is to hide from our own conscience. What it's like to pretend that we're not. And *to pretend that others can't see it, even though part of us **needs** them to.*
 
 Haven't you ever watched an enemy squirm under your "righteous" gaze—half-knowing that they would recognize it for what it is, and how their reaction would convict them, not you?
 
-It's worth pausing to recall an instance of this. Maybe it wasn't even an enemy. Sometimes we do it to loved ones "for their own good." The *sigh* that lets them know what we really think of them in that moment, dressed up to make us seem like the reasonable one. The look on their face that tells us it landed, which we'll pretend not to have seen.
+Pause and recall an instance of this. Maybe it wasn't even an enemy. Sometimes we do it to loved ones "for their own good." The *sigh* that lets them know what we really think of them in that moment, dressed up to make us seem like the reasonable one. The look on their face that tells us it landed, which we'll pretend not to have seen.
 
 You had to be present enough to actually do it, while also absent enough to give yourself *plausible deniability*—so that when you looked back on it later, your hands would be clean.
 
-And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do—because we *all* do.
+And for it to sting the way you needed it to, you had to know they would recognize it for what it was. Which they do, because they've been on the receiving end too.
 
 But still what, exactly, gives it away?
 
@@ -268,7 +272,7 @@ We don't have to reveal that we are hiding. The hiding *is* the revealing.
 ---
 ## The Loop
 
-So that's what he's doing to you. But it creates a problem—because the more he does this, the more part of him realizes that *he's the bad guy.*
+So that's what he's doing to you. But it creates a problem—because the more he does this, the more some part of him realizes that *he's the bad guy.*
 
 Which increases the pressure to prove he's nothing like you. Which he can only do by revealing to you that he *is.* Which makes you increasingly sense the whole thing as a ruse, threatening to expose it. Which forces him to hide it from himself even harder, by overlooking your humanity even more. Which his conscience registers and warns him about.
  
@@ -324,9 +328,9 @@ It communicates something like this:
 >
 > *I know you can see this, but you can't prove it. Good luck.*
 
-Which you know but cannot prove, turning you into what he needs you to be.
+You know all of that and can't prove any of it, and being held there is what turns you into what he needs you to be.
 
-Which is precisely the "what" that he was doing to you in the first place. But good luck proving it.
+Which is exactly what he was doing to you in the first place. Good luck proving that, either.
 
 ---
 
@@ -344,9 +348,7 @@ It feels like this on the receiving end: *if this is the kind of world we live i
 
 That's what teaches you to do it too. To demote that inner knowing—because what is it worth?
 
-Again, you don't tell yourself you'll ignore your conscience. Your justifications—what you can "prove"—simply become more reasonable. More practical. As though they *are* your conscience. The two become just a little harder to tell apart. The very notion of a conscience—that one faculty you have to detect this corruption of your mind—starts to feel naive.
-
-It's the same faculty that let you see him. That sees anyone. Demote it, and you see a little less of everyone.
+In fact, the very notion of a conscience—that one faculty you have to detect this corruption of your mind—starts to feel naive. It's the same faculty that let you see him. That sees anyone. Demote it, and you see a little less of everyone.
 
 Remember how one side had to argue and the other didn't? The arguments weren't there to convince your conscience. That never works. They were there to convince *you* that it was just one more voice among the noise. That's what's happening now.
 
@@ -356,9 +358,9 @@ His darkness has just taught you to embrace your own.
 
 ---
 
-The reason it feels so good to him isn't the harming—he doesn't realize he's caused it. It's being _proven right_, in real time, by you. And from the inside, being proven right and being right are the same experience. The only difference is who produced the evidence, and that's the part he can't see.
+He feels good being proven right, in real time, by you. And from the inside, being proven right and being right are the same experience. The only difference is who produced the evidence, and that's the part he can't see.
 
-And look at what he thinks he's been proven right about. Not that you're careless, or rude. That the thing behind everything wrong with the world just surfaced in front of him—and he's the one who caught it. Which is why it never mattered how small the thing you did was. It only had to be _evidence_.
+And look at what he thinks he's been proven right about. Not that you're careless, or rude. That the thing behind everything wrong with the world just showed itself in front of him—and he's the one who caught it. Which is why it never mattered how small the thing you did was. It only had to be _evidence_.
 
 Which is why he can't see what he's doing. Certainty, urgency, the sense that he must not let this go—those are what facing real evil actually calls for. What's missing is his felt connection to what they were meant to serve. *Life*. The thing he's overlooking in you right now. The thing he's disconnected from in himself.
 
@@ -415,120 +417,198 @@ Just as it is in him.
 I cannot prove any of this to you, but I suspect some part of you already knows it. If you recognized it, that's the evidence.
 
 ---
-# Interlude 1: What You've Found So Far
 
-Before we go any further, I want to go back over some of what you just did. Not to repeat it, but to look at a few parts of it more closely than we could while they were happening.
+
+<!-- ===== manuscript/chapter-1a.md ===== -->
+
+# Interlude One
+
+Before going any further I want to send you back over some of what you just did. Not to repeat it. To look at a few parts more closely than we could while they were happening.
 
 ---
+
 ## Five things worth going back for
 
 **1. What you actually knew.**
 
-Go back to the thing you brought to mind at the start of the chapter—the thing you did while not letting yourself know it. I asked how you knew it was wrong, but I never asked _what_ you knew. [awkward phrasing]
+Go back to the thing you brought to mind at the start of the chapter, the one you did while not letting yourself know it. Earlier I asked how you knew it was wrong. Now I want the other half: what, exactly, was the wrong thing?
 
-Try to say it now, and notice how hard it is. If it was a test you cheated on, nobody was in front of you being hurt. You hadn't worked out any consequences—there wasn't time, and anyway you weren't calculating. So what was the content of it?
+Try to answer, and notice how hard it is. If it was a test you cheated on, nobody was in front of you being hurt. You hadn't worked out any consequences; there wasn't time, and you weren't calculating anyway. So what was in there?
 
-I think it was this: you knew you had made yourself an exception. That the thing applied to everyone and you had quietly stepped outside it. Not _someone will suffer_. Just _I am treating myself as a special case._
+I think it was this. You knew you'd made yourself an exception. That the thing held for everyone and you had quietly stepped outside it. Not *someone will suffer*. Just *this doesn't apply to me*.
 
 Check whether that's the flavor of it.
 
-And yet that's not quite the entirety of it. Making an exception of yourself isn't always wrong. Take the last seat because your back is ruined. Say no to someone who needs you, because you have nothing left today. Feed your own child first. Those are exceptions, and your conscience doesn't make a sound.
+And yet that's not quite the whole of it, because making an exception of yourself isn't always wrong. Take the last seat when your back is ruined. Say no to someone who needs you, on a day when you have nothing left. Feed your own child first. All exceptions, and your conscience doesn't make a sound.
 
-So what's the difference? It isn't the size of the exception, and it isn't a rule about when exceptions are allowed. Look at what the cheating required and the others don't: you had to stop looking at somebody. You can take the last seat with the person still fully in view. You couldn't cheat that way. The exceptions that are fine are the ones you can make while still seeing everyone involved. ["had to stop looking" is, of course, another rule. but we're limited by language. what most strongly evokes the FEELING we're after?]
+So try this instead of a definition. Picture taking that last seat while looking the other person in the eye. You can. It's fine. Now picture cheating that way, with the people it costs standing right there in front of you, watching, while you do it.
 
-Which means the thing your conscience registered wasn't the exception. It was the not-looking that the exception needed.
+You can't get the picture to hold. Something has to be somewhere else.
+
+That's what your conscience registered. Not the exception.
+
+One thing before this turns into a way of torturing yourself. You will not always know. Sometimes you take the seat and genuinely can't tell whether you needed it more, and sometimes there's nothing there at all and you'll go hunting anyway. Not every self-interested act has a turning-away inside it. A book that leaves you interrogating whether you're evil for staying seated on a bus has done you harm, not good.
+
+So here's the honest version. In the cases you're likely to worry about, you won't be squinting. When it's there and you're anywhere near yourself, you know, and you have never once needed help identifying it.
+
+The dangerous cases are the opposite kind. They're the ones where you feel nothing at all and are completely certain. Because the further you drift from that signal, the fainter it seems, and the thing that would notice how faint it's gotten is the same thing you're drifting from. It never actually goes quiet. It only comes to seem absent, more and more, while you take your bearings from something else and never register the swap.
+
+That's most of what the rest of the book is about. For now: if you're anxious about whether you're evil for staying seated on a bus, that anxiety is not the signal. The signal doesn't feel like that.
 
 **2. Where you'd felt that before.**
 
-Now the stranger. You read him in about two seconds, on no evidence, and you'd have bet at any odds.
+Now the stranger. You read him in about two seconds, on no evidence at all, and you'd have bet at any odds.
 
-What did you read? Not that he was angry—you'd have forgiven angry. You read that he was doing the very thing he was condemning you for. He was making himself an exception. You *knew* he wouldn't tolerate contempt, because who does?
+What did you read? Not that he was angry; you'd have forgiven angry. You read that he was doing the very thing he was condemning you for. He was making himself an exception.
 
-Which is the same thing you'd known about yourself an hour earlier, and couldn't put into words. [what hour? do you mean the thing he was angry about?]
+Which is what you'd known about yourself minutes before, in the thing that got you caught, and couldn't have put into words if you'd tried.
 
-So you detected it in him instantly, using the faculty you had spent that hour refusing to point at yourself. Same recognition, aimed outward. _I am more_, and _you are less_, turn out to be one thing seen from two ends. [again, what hour?]
+So you spotted it in him instantly, using the one faculty you had just spent that whole episode refusing to turn on yourself. Same recognition, pointed outward. *This doesn't apply to me* and *you're not really one of us* turn out to be one thing seen from two ends.
 
 **3. The harder version of the experiment.**
 
-Earlier I asked you to go find a stranger and give them a dehumanizing look, and you found you couldn't do it — not while actually looking at them.
+Earlier I asked you to find a stranger and give them a dehumanizing look, and you found you couldn't do it, not while actually looking at them.
 
-Now try the harder version. Don't look for the worst thing you could do to them. Look for the _smallest_. The mildest unkindness you could manage with that person fully in view. A little dismissiveness. A flicker of superiority. Anything at all.
+You might think that's about intensity. That the look was too extreme, and something milder would go through easily. So try the mild version. Not the worst thing you could do to that stranger. The smallest. A flicker of dismissal. A half-second of superiority. The most trivial unkindness you can imagine, with them fully in view.
 
-Notice there isn't one. Whatever you can do to somebody, you can only do once something has moved out of view first. [What is harder about it if it's the smallest? This is confusing.]
+Notice it doesn't go through either.
+
+Which tells you the block was never about size. It was about whether you were looking at them. While you were, nothing was available to you, large or small. Something had to go before anything could.
+
+That's what you found in your own case. I think it's true of everyone, and of every harm there is, and I haven't shown you that. I'll say later what would prove me wrong.
+
+Now the other side of it, because so far this has all been about what you can't do.
+
+Think of a time you actually saw somebody. Not thought about them. Saw them. Maybe someone you love, in a completely ordinary moment, when it suddenly landed that there is a whole person in there, with a childhood, and a private fear, and their own particular way of being tired. Or a stranger, once, for no reason you could name.
+
+Notice what was missing from that moment. Not just that you wouldn't have harmed them. The option wasn't in the room. And it didn't feel like restraint, or like being good. It didn't feel like anything, because there was nothing there to hold back.
+
+Notice what was there instead. If they had objected to something, the objection would have landed on you. You'd have had to answer it, not manage it. If they had been hurt, it would have been bad, in the way your own hurt is bad, and not merely bad for them. And what was going on in them could have changed what you did next.
+
+That doesn't arrive as three separate facts. It arrives as one: somebody is there.
+
+I'm not going to explain that yet. I want you to have touched it, so that when I say *seeing*, or say that somebody is *in view*, you know which thing I mean. Later I'll say what those three amount to, in a form you can hold me to.
 
 **4. Where the verdict had to end up.**
 
-Look again at what the first stranger needed you to be. Notice it couldn't stop at _you did something wrong_. It couldn't even stop at _you're careless_ or _you're a liar_. It had to get all the way to _this is what you are._
+Look again at what the first stranger needed you to be. It couldn't stop at *you did something wrong*. It couldn't even stop at *you're careless* or *you're a liar*. It had to reach *this is what you are*.
 
-Ask why it can't rest anywhere short of that. I think it's because anything short of that leaves you the same kind of creature he is — and the same kind of creature has the same claim on him that he has on himself. Only a different kind of thing is beyond reach. [what is a "claim on him"?!]
+Ask why nothing short of that would do.
+
+I think it's because anything short of that leaves you a person, and he can't do what he's doing to a person. A person's objection would land on him; he'd have to answer it. So the verdict has to keep going until there's nothing left in you that he'd feel obliged to answer.
 
 **5. What it was like from inside his eyes.**
 
-One more, and this one is about you, not him.
+One more, and this one is about you.
 
-Think of someone you once despised and later came to see differently. Go back to when you despised them. Were you _interpreting_ them as rotten? Or were you just seeing it?
+Think of somebody you once despised and later came to see differently. Go back to when you despised them. Were you *interpreting* them as rotten? Or were you just seeing it?
 
-You were just seeing it. That's what makes this so hard to catch from inside: it doesn't arrive as an opinion you're holding. It arrives as what's there.
-
----
-
-## What this adds up to
-
-Nothing in this book is going to be proved. I said that at the start and I'll keep saying it. But things you can't prove can still be reasoned about, and I want to lay out plainly what I think all of this points at — with the ordinary explanation next to each one, so you can judge the fit yourself.
-
-I'm not going to defend these hard yet. Most of them get a chapter later. For now I only want them on the table, so that when they arrive you'll recognize them rather than meet them cold.
-
-**1. Conscience isn't a rulebook, and it isn't a harm detector.** [Needs a line break, along with the rest.] It detects one thing: the claim that some of us [you mean *we*] count more than others — and it detects that claim by registering what you had to stop seeing in order to make it. [second half of sentence is too dense] _The ordinary explanation:_ a fast-firing learned rule about harm. _The problem with it:_ your conscience fired when nobody was being harmed and nothing had been calculated. A detector tuned for harm shouldn't go off when there's none. This one does, reliably.
-
-**Which is why nothing in this book is a rule, and nothing in it ever will be.** I'm not going to tell you that self-interest is wrong, or that anger is wrong, or that punishment is wrong, or that making an exception of yourself is wrong. Every one of those is sometimes exactly right. The moment I give you a rule, two things happen, and you've already watched both. Your conscience gets handed a substitute it can hide behind. And the part of you that argues gets something to satisfy the letter of while betraying every bit of the spirit — which it is extraordinarily good at, and which is most of how the harm in this book gets done. What I can give you are clues: things to check, in yourself, that tend to be there when something has been turned away from. A clue you can be wrong about. A rule you can obey.
-
-[It seems like 4 belongs naturally after 1, doesn't it? And is it "helps or harms" or "good or bad"?]
-
-**2. Contempt and cheating are the same move.** _I am more_ and _you are less_, detected by one faculty in both directions. _The ordinary explanation:_ two different social instincts that happen to overlap. _The problem with it:_ both arrive instantly, without words, without argument, and both are accurate. That's one instrument, not two.
-
-[Does this need to be its own thesis? I thought we were listing only theses here.]
-
-**3. Something is operating in there that isn't him.** It aims. It tracks reactions. It closes exits. It intensifies when noticed, rather than getting embarrassed. And it benefits from being mistaken for the person carrying it. _The ordinary explanation:_ bias. _The problem with it:_ bias does none of those five things. Whatever has that profile is acting like something with its own interests. I'll be calling it an agent, and later something less flattering.
-
-[Crucially: he CANNOT be fully aware of its operation.]
-
-**4. What decides whether an act helps or harms is not anything you could write down.** Two strangers, nearly the same words, opposite results — and the second could have been harsher and still worked. _The ordinary explanation:_ one had a better manner. _The problem with it:_ manner was only the channel. What travelled through it was a verdict about what you are.
-
-**5. The caring is already there, and it's already enough to stop you.** That's why you couldn't manage even the smallest cruelty with the person in view, and why you needed limbo before you could do the thing you did. _The ordinary explanation:_ social inhibition. _The problem with it:_ it holds with nobody watching [it holds with?]. Nobody builds machinery that elaborate to get around a part of themselves that doesn't care.
-
-**6. Something in him preferred you not to improve.** Reform would have been the worst possible outcome for what he needed. [because it immediately destroys his perception that you're a different kind of thing] _The ordinary explanation:_ frustration. _The problem with it:_ frustration wants the problem solved. This wanted it kept.
-
-**7. Everyone has this, and everyone can read it in everyone.** Instantly, untrained, across cultures, accurately. _The ordinary explanation:_ shared culture. _The problem with it:_ nobody taught you, and you weren't wrong.
-
-**8. Contempt for him would feed the thing in him.** [even if it's done for a "good reason." This is the thing I cannot argue you into, but only give you hints for checking in yourself.] This one isn't a separate finding; it falls out of the rest. If it stays hidden by being mistaken for its host, then treating him as what it has made him look like is exactly what keeps it hidden.
+Hold onto that. It's going to matter more than it looks.
 
 ---
 
-And then one more, which is really just the first two put together, and which is where this book gets its title.
+## Where that leaves us
 
-When we call something _evil_, we don't mean very bad. We mean the thing we most want gone from the world—the thing worth destroying at any cost. And what you found is a faculty built to detect exactly one thing: the claim that some of us count more than others [you need to justify why the claim that some of us count more than others = what we most want gone from the world. as it stands, it sounds like leftist philosophy. I think it needs to evoke something more clearly]. Contempt is that claim in its purest form.
+I'm not going to tell you what all that means yet. Most of it needs a chapter, and some of it needs the whole book. But you should know where you stand. So here is an honest accounting, in three piles: what you saw, what I make of it, and what I'm asking you to carry on credit.
 
-So contempt isn't a bad way of responding to evil. It's the thing the faculty exists to catch.
+**What you saw.**
 
-I'm stating that now rather than arguing for it, because it needs everything in the rest of the book to stand up. But hold it while you read, because a lot depends on it — including why "sometimes you have to be a little evil to fight evil" might not be a hard truth about the world at all.
+That you knew a thing was wrong before you'd worked anything out, and that what you knew was that you'd stepped outside something that held for everyone.
+
+That you couldn't give a stranger that look while you were looking at him. Not the worst version of it. Not the smallest.
+
+That one man, in your imagination, made it easier to turn away from what you knew, and another made it harder, and you could feel the difference before either of them finished a sentence.
+
+**What I make of it.**
+
+These are inferences. I think they're good ones, and Chapter 1 argued for each. But you didn't observe them. You observed the things above, and I'm drawing conclusions from them, and you should know which is which.
+
+That the state you read in him matched the one you'd just recalled from inside. He was imagined, so what you actually did was build a man from the inside, and what came out matched what you'd just caught yourself doing. That tells you the faculty knows what the state looks like from outside because it has been inside. Whether the reading would be accurate in a real encounter is a further question, and one I owe you.
+
+That nothing in the words accounts for the difference between the two men.
+
+That his verdict couldn't have stopped short of *this is what you are*.
+
+That whatever was running the first man could not have gone on running if he'd turned and looked straight at it. Not deliberate, because a man can't convict you on evidence he knows he planted. Not blind, because it aimed, it tracked you, and it got stronger when you noticed it instead of embarrassed.
+
+That it does better when you take it for him. He defends it as his own judgment, and you go after the man, because the man is what you can see.
+
+That what you did when you cheated and what he did to you are one move from two ends. *This doesn't apply to me. You're not really one of us.*
+
+**The trap, in one piece.**
+
+Now put the inferences together, because assembled they're more than a list. They form a single mechanism, and once its conditions are in place, each part requires the next.
+
+He couldn't have fully known what he was doing. If he'd admitted his own part in producing the evidence, the evidence would have been worthless to him. And he couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be the third thing, the one you know from inside: available enough to steer and protect itself, unadmitted enough to leave him innocent.
+
+That state can't be concealed. Not because it leaks around the edges. Because the hiding is what you saw. What he had to keep from himself is exactly what reached you.
+
+And it reached you as a provocation. Your reaction wasn't a side effect he'd have preferred to avoid. It was one of the things the whole performance was for, and what it needed above all was that nothing you did be allowed to clear you. Which means the one thing he couldn't afford was for your getting better to count.
+
+Take any link out and the whole thing stops. If he'd admitted his part, no evidence. If it were blind, no tracking. If it could be hidden, no provocation. If your improving could count, no verdict. That's why I call it a trap and not a bad habit. A habit is something you could drop. Given those conditions, this has one working configuration, and it's the one you met.
+
+I think it's the same trap, at a different dose, in every act of contempt there is. Yours and mine included. That's the claim of this book, and it's on credit. Chapter 1 derived the mechanism of one encounter. It didn't show that every encounter has it.
+
+**What people already know, and what I think is new.**
+
+None of the conclusions in this book are new. That we make other people bad so we can feel good. That a person can hide from himself. That shaming somebody makes them worse. People have known all of that for a long time, and some of them have measured it. If it sounds familiar, that's because it is, and I'd rather stand with that company than pretend otherwise.
+
+What I don't think anyone has said is what actually passes between two people in that moment. That the hiding is the message. That what you read in him wasn't a mood but his relation to his own knowing. That it has to be deniable or it doesn't work at all. And that it teaches you something, which is the piece I most want you to keep hold of: that the part of you which knew is not worth listening to. Everything larger in this book comes out of that last one.
+
+**What I'm asking you to hold.**
+
+Four claims I can't earn from one encounter, stated plainly so you know what you're carrying. I'm not going to defend them here. Each gets its own part of the book. Hold them the way you'd hold a friend's account of something you weren't there for: provisionally, and with the right to put it down.
+
+The people we call evil are further along this same road. Not on a different one.
+
+The thing in him and the thing in you are on the same side, and contempt is what they feed each other.
+
+You are not it. And the shame you feel when you catch it is how it keeps you from looking.
+
+The only stance that doesn't feed the trap is the second stranger's. Other things sometimes help. But whatever carries contempt also enacts the very relation it's trying to end, and that one is the only stance that doesn't.
+
+There's a fifth, about what's underneath all of this, and I'm going to hold it until the end, because it isn't something you can check.
+
+**The question that leads forward.**
+
+You can't harm somebody you're looking at, and you can't argue anybody into looking. So what does it? What turns a person back toward what they already know?
+
+You already have the answer, because it was done to you. The second stranger did it without a single argument. The rest of this book is an attempt to say what he did.
 
 ---
 
 ## What I haven't shown you
 
-I want to be exact about the debts, because I'm going to be asking for a lot of credit.
+You're carrying four claims on credit. Here is what I owe on them, and two more besides.
 
-I have not shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more.
+I haven't shown you that the people we call evil are further along this same road. You've seen one route to harm and no counterexample, which is suggestive and nothing more. There's an obvious candidate for a counterexample, too: the one who wants the suffering and stays to watch it. I'll take that case head on when we get to them, and I'll say what would settle it against me.
 
-I have not shown you anything about your own contempt for someone who really hurt you. In this chapter you were the target, not the wronged [wait, what? why is being a target not wrong?], and those are not the same seat.
+But I want to be exact about how much rides on it, because it's less than it looks. Suppose I never make that case. Suppose you finish this book unconvinced that the worst people are made of what you're made of. There is still something you can check without me, and it's the thing I actually care about. Next time you settle it that somebody is beyond reach, watch what happens in you when the verdict lands. Something eases. Something wanted that.
 
-I have not shown you that any of this scales past two people in a parking lot.
+You may not catch it the first time. It's quick, and it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. But it's there, and once you've caught it once you'll catch it again, and you'll notice it has nothing to do with wanting the harm to stop.
 
-And I have not told you what's underneath the caring, beyond the fact that it's there and that it's enough.
+I haven't shown you anything about your own contempt for somebody who really hurt you. In this chapter you got caught doing something you actually did. Being hurt by someone when you'd done nothing at all is a different seat, and it has to be treated differently.
 
-Each of those gets its own chapter, and each is built from something you just checked. If the ordinary explanations fit better — if it really was just a rule, just a manner, just a bias, just culture — then you should stop here, because none of the rest will hold.
+I haven't shown you that any of this survives past two people on a street.
 
-I don't think they fit. And I suspect you noticed they didn't somewhere around the third one.## Chapter II: The Descent
+And I haven't told you what's underneath the caring, beyond the fact that it's there and that it's enough.
+
+Each of those gets its own chapter, and each is built from something you just checked.
+
+And now the thing I owe you most, which is a real way to say no.
+
+You may have gone back to those memories honestly and found something different from what I described. Not a failure to look. A different finding. Maybe the knowing you had was a rule after all, and it fired fast. Maybe the stranger's tell was a manner you'd learned to read, and it didn't feel to you like a verdict. Maybe you can, in fact, picture doing a small unkindness to somebody while looking straight at them, and you'd be telling the truth.
+
+If so, then one of three things is true. The mechanism I've described is narrower than I've been claiming, and applies to some encounters and not others. Or your experience differs from mine in a way that matters, and I've been generalizing from too small a sample. Or I'm wrong.
+
+I don't know which. What I can promise is that none of those makes you the kind of reader who couldn't see. A book about contempt that treated its doubters as turned-away would be doing the thing it's about. So: if you looked and it isn't there, that's a finding, and it counts against me, and you should carry it forward as evidence rather than set it aside.
+
+What I believe is that it's there. That's why I'm writing. But I'm going to try to earn that over the rest of the book rather than assume it now, and if you're reading with the finding that it isn't, you're reading the way I'd want.
+
+
+<!-- ===== manuscript/chapter-2.md ===== -->
+
+# Chapter 2: The Descent
 
 Something inside you cares. *Profoundly.* About other people, about other beings, about the world around you.
 
@@ -574,7 +654,7 @@ Here's what it feels like from the inside.
 
 ---
 
-Let me now offer a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
+Now a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
 
 ---
 ## The trip
@@ -669,7 +749,11 @@ That mistake—what might it be serving?
 
 ---
 ---
-## Chapter 3
+
+
+<!-- ===== manuscript/chapter-3.md ===== -->
+
+# Chapter 3
 
 There is nothing more primally, viscerally satisfying than violently punishing evil.
 
@@ -737,7 +821,7 @@ So I **cannot** risk it.
 
 This is how my darkness hides itself from me. By reminding me that the *real* problem exists "out there," where it's my righteous duty to viciously attack it.
 
-**We all know this is happening, on some level.** It's that **common knowledge** again. Which is also why we must never acknowledge that it is.
+**We all know this is happening, on some level.** It's the same thing he could count on in the street: you know, I know you know, and neither of us will ever say so. Which is also why we must never acknowledge that it is.
 
 So the full message I'm communicating actually goes something like this:
 
@@ -773,7 +857,7 @@ That is the one thing we must never allow.
 
 ---
 
-Here's what's crucial to see. *We absolutely couldn't do this if we clearly saw that we were.*
+Now the part that matters most. *We absolutely couldn't do this if we clearly saw that we were.*
 
 What does that tell you? Why would you not want to do this to others—even to "evil" others?
 
@@ -782,6 +866,10 @@ There. *That's* your humanity. The part that *cannot* want another person to hur
 Because you know that hurt from the inside. It's the thing you want to banish from this world.
 
 And that's what the darkness relies on: our not seeing it for what it is. And it's not just what the darkness *needs*: it's what the darkness *is.*
+
+
+
+<!-- ===== manuscript/chapter-4.md ===== -->
 
 # Chapter 4: The Darkness
 
@@ -869,13 +957,11 @@ I'm not waxing spiritual to slip my views past you. As best I can tell, none of 
 
 And the way I've been relating to them—it's only making it *harder* for them to look.
 
-And it's not. By. Accident.
+And it's not by accident.
 
 ---
 
-Here's what I'm trying to say. 
-
-There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants. 
+There are countless "hidden channels of communication" taking place between all of us, nearly all the time. They account for *far more* of the harm we see in the world than the surface stuff—just as with the two strangers. And it is collectively nudging the world toward a state that none of us actually wants.
 
 And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
 
@@ -890,30 +976,119 @@ That **is** the conspiracy. The "agent" you met in chapter 1—the one operating
 That's what the rest of this book exists to unfold.
 
 ---
-(Note: this was written by Claude, with my extensive guidance.)
-# Where This Goes
 
-_A note for early readers. Everything up to the end of Chapter 4 was built so you could check it against your own memory. This is a map of the rest of the book. It opens by saying the biggest claim at once, then walks it, then hands off to six parts. Some of what follows you'll be able to verify the same way as the first four chapters. Some is inference. Part E is simply how I've come to hold the whole picture, and it says so. This will not be in the finished book.._
+
+<!-- ===== manuscript/chapter-5.md ===== -->
+
+# Chapter 5: The Whole of It
+
+*This chapter says everything the book claims, once, in order, with less evidence than each claim deserves. It's here for two kinds of reader: the one who is nearly there and wants the shape now, and the one who may never get the rest, because I may never finish it. Three stretches, two seams. Up to the first seam, you checked it yourself. Between the seams, I'm inferring. After the second, I'm telling you what I believe.*
 
 ---
 
-Chapter 4 ended on a claim I haven't earned yet: that the agent you met in Chapter 1—the thing that was working through the stranger, and through you—is part of something larger. Here's what I mean, in plain terms. Then I'll go through it piece by piece.
+## What you checked
 
-Your agent is a parasite of sorts: not the "real you," but something that can be evicted from your mind. So for now I'll refer to it as one. Later we'll discover its true nature (or lack thereof).
+You have done wrong while knowing it and not letting yourself know. The knowledge wasn't buried. It was right there, turned away from, and it steered you around anything that might have made you look. Your conscience knew before you'd reasoned, couldn't say how, never argued, and never moved. The reasons came from somewhere else. And what it knew wasn't harm. Nobody was in front of you. It knew you'd made yourself an exception, and that you'd had to stop looking at somebody to do it.
 
-Recall how the stranger's parasite did his "dirty work" for him while he kept his hands clean. He would have been _genuinely surprised_ to learn that he was making you a worse person for his own benefit—even though another part of him knew it _perfectly well_, and was in fact choreographing it. He knew and he didn't. Collapse that paradox to either side and you lose the thread.
+When the Preface asked you to bring the worst people to mind and offered you the choice, vengeance or a pill that would end the threat and change them, something in you reached for the first button. That part wants them to stay what they are.
 
-His parasite was offering yours a secret handshake, and yours accepted. That's why you dug in, and digging in gave his parasite what it needed. If you had been relatively free of yours, you would have recognized the sense in which it wasn't really him—_the sense in which_, not an excuse. Then you could have done for him what the second stranger did for you. His parasite would have gotten nothing from you to feed on. Handshake denied.
+You found you couldn't harm a person while you were looking at them. Not the worst thing, not the smallest. Something had to leave the room first.
 
-Which tells you something. Your parasite doesn't just change what you think. It changes what you see.
+One man who caught you made it easier to turn away from what you knew, and another made it harder, and you felt the difference before either finished a sentence. The second could have been harsher and still worked. What you felt was whether you were, to him, a person who had done something or a thing that was what it did. That verdict, *this is what you are*, is what I mean by contempt, and it made you worse. You dug in. And you read him, in two seconds, as doing the thing he was condemning, from inside the state he was condemning it from, and you'd have bet anything on it.
 
-Every one of us is infected to one degree or another. A person we call "evil" is simply at the far end. His parasite has taken over so completely that, to most of us, it looks like him. The deeper someone's infection, the freer you have to be of your own before you can see the parasite instead of the person. Otherwise you get pulled in, and we already know where that leads. But pretending it isn't him doesn't work either; that just makes you soft. You have to _actually see_ it, and you can only see it in him to the degree you're free of it yourself.
+*Here is the first seam. From this point I'm inferring, from what you checked, and you should hold what follows more loosely.*
 
-Now the strange part. These parasites don't act like billions of separate things. They cooperate, almost seamlessly. With two people, it's a handshake. Put enough of them in a room and they produce something none of the people would produce alone. Put enough of them in a building and they build institutions. Put all of them together, across the whole species, and they behave like a single thing with a single purpose. It's what people have always called the Devil.
+## What I infer
 
-When you hate the corruption in the world, that hatred comes from the "real you": the part that cares. When you hate the people who do it, that hatred comes from the parasite. Which doesn't mean you should go easy on them.
+One word first. Chapter 1 called the thing in him his dark part. From here I'll mostly call it a parasite, because that's how it behaves: it lives off a host and has nothing of its own. Whether it's a creature is a separate question, and I'll answer it below.
 
-That's the biggest claim in the book. It isn't the only one. The book also claims that you can't think your way out of this; that the only thing that works is what the second stranger did; and, set apart at the end, that what you are is something the parasite can't touch. Those come in order. But two pieces of the big claim need slowing down on first, because everything turns on them.
+**The trap.** This is the one thing in this book I'll claim as mine. He couldn't have fully known what he was doing; if he'd admitted his part in producing the evidence, the evidence would have been worthless to him. He couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be limbo: available enough to steer and protect itself, unadmitted enough to leave him innocent.
+
+And limbo can't be hidden, because the hiding is what you saw. It reached you as a provocation, and what it needed above all was that nothing you did be allowed to clear you. Which means the one thing it couldn't afford was for your getting better to count. Given those conditions, each part requires the next. Take any link out and it stops.
+
+It taught you something on the way through: that the part of you which knew, and couldn't prove it, isn't worth listening to. Everything larger in this book comes from that lesson, delivered a billion times a day. Whether every act of contempt carries the whole mechanism is on credit. One encounter can't show that.
+
+**You can't think your way out.** The part of you that senses the good can't define it, so you stop trusting it and run on the part that can make a case. But that part never once tries to sense the good. It produces stories about how you're already good, and it's superb at that. Demote the sense and you've silenced the only alarm that could tell you you've drifted.
+
+That's why every grand plan for doing good, every "I'll gather power now and use it well later," is built by the arguing side, and why the inquiry after the disaster always finds the memo. Rules and moral systems are mostly the same escape: a way to have done the right thing without having been present. Trusting metrics to tell us we're on track is the same belief moved outside the skull. One test for any grand plan: does it need you to hold contempt for what's in front of you, for the sake of a good that comes later? Then it isn't coming from the part that cares.
+
+None of this is against thinking. Thinking is how the caring gets anything done. It just can't stand in for it.
+
+And it goes deeper than thinking. Once the verdict is in, the person in front of you looks like the verdict. It doesn't feel like interpretation. It feels like what's there. You can't decide to look, because deciding is done with the equipment that's already turned. Which is why the second stranger worked without an argument: he made looking survivable. You can only choose the counterfeit by forgetting what the real one feels like, and the further you follow it, the less of the real one you have left to compare it to. One clue you can use today: when you're acting from contempt, notice how *sure* you are. The real thing doesn't have that quality.
+
+**Limbo is the water, not the exception.** The action that helps the world and also happens to help you, where a deeper part knows which half is the point. The small thrill of getting away with something. Seeing all of this in your enemies and none of it in your allies. Being unwilling to hear what someone's experience is like. Most of what we call politics is a look, a slight hardening that everyone in the room reads and nobody names.
+
+**Hot and cold.** The first stranger was turned away while still looking at you. He could hear the protest, which is why he needed you to be bad. That's contempt. But there's a form with no heat, where the other person simply isn't in view: the executive signing off on the part he knows will fail, the planner for whom a village is a number. Cold isn't milder. It's further along, and most of the harm in the world runs on it. I'll keep "contempt" for the hot kind and say "turning away" for what both share.
+
+**It scales, and it cooperates.** Two people make a handshake. My darkness gives yours evidence you're persecuted, yours gives mine evidence you're irredeemable, and both of us leave more certain the problem is out there. Ten make a locker room, which you can feel from the doorway and which stops when the wrong person walks in. A thousand make an institution, which is the need for not-looking made permanent, in policy and procedure and omission.
+
+All of them together behave like one thing with one purpose: keep every person looking outward at the evil in someone else, and never inward at the one place it could be caught. "Bad people" are where we put it: the ones it's agreed you can go completely dark on and still feel clean. Someone has to carry this, and it's you. So when you feel contempt, what you're feeling is the tug to join. Not a sign that you've spotted evil. The feeling of it recruiting you, with your accurate perception of it as the hook.
+
+That's what people have called the Devil. I'm not claiming a creature. I'm claiming that it defends itself when named, recruits at falling cost, and intensifies under attention, and that when two of them go to war, both grow. It doesn't care who you hate. It has never been on only one side of anything. When I say contempt *is* evil, I don't mean it's very bad. I mean it's the thing the word was pointing at. You're in it. So am I.
+
+**The people we call evil are further along the same road.** Evil is the result of turning away, not its cause. Turn away completely, so that no life is perceived in the other at all, and what's left doesn't feel evil. It feels like appetite, like righteousness, like the obvious thing to do. The feeling that some people are *fundamentally* different is accurate about depth and wrong about kind. You're seeing how far the capture goes, not what they're made of.
+
+Which is why "I'll just be a good person" doesn't work. "Good person" is an idea, and the idea needs bad people to define itself against, which keeps a reserve of contempt on hand for the right conditions. At the end of that road is the darkest idea there is: that if we got rid of the bad people, the rest of us would live in peace. The self-deception it takes to hold that thought is the darkness, kept, in a new shape.
+
+**The far end.** The faculty that would notice the drift is the one being drifted from, so access shrinks. But the knowing grows, because there's more harm to register. The deeply lost person knows most and least at once. What horrifies you when you look at him isn't an absence. It's a conscience under crushing load, showing through, and the thing holding it down is *your* contempt. You're not looking at a monster displaying itself. You're looking at a hostage held up to a window. See what a mind goes through to get there and the urge to shove him deeper never again feels like anything but what it is. "They need the most love" is arithmetic, not sentiment.
+
+**The sadist** is the case that tests this. He needs the suffering real, so he sees a subject. What he doesn't count is a creature of the same kind as himself. If someone turns up who counts that and wants the suffering anyway, I'm wrong about the mechanism. I'm not wrong about the part you can check, which is that when *you* settle on someone being beyond reach, something in you is relieved.
+
+**Contempt from below is the same thing.** If the one you're carrying is someone who hurt you, or your child, or your people: your rage is right, force is right, stopping them is right. One thing is on trial, and it's the verdict. Look at who's relieved when you hold it. Not the person. The thing in them, which needed you to see it that way. What frightens it is the other thing, fierce refusal with no verdict in it, which is the most effective force in the history of people facing power they couldn't match. It's why King said hate was too great a burden to bear. And the most common contempt of all is the one turned inward. It feels like accountability. It produces what contempt always produces, which is hiding.
+
+**All evil is innocent, and you're fully responsible.** Nobody chooses to stop seeing while they can still see. There's no moment where a person with a clear view of the harm decides to do it anyway. There's a moment where the view goes, then the reasons come, then it feels like wanting. If you insist they *wanted* to ignore their conscience, you've put an evil chooser back in, one level down, and explained nothing. So: innocent, in that exact sense. Nothing at the bottom to be guilty of.
+
+And responsible, because the one thing that is yours is how fast you catch it afterward. Days, then hours, then sometimes in the moment. That's trainable, it's the only part that improves with effort, and it's graded by what you've had the chance to learn. You're not asked to have chosen differently. You're asked to catch it sooner next time, and to repair what you did while you weren't looking.
+
+**The only lever.** Take a person and remove everything they're hiding from themselves. What's left isn't a blank. It's care, for whoever is in front of them, and it was already strong enough to stop you on the street. You don't build it. You remember it.
+
+So you can't fix people. What you can do is turn toward them, and you can only do that from turned-toward. Things done from turned-away sometimes work; a contemptuous rebuke has shocked people into looking. But whatever carries contempt enacts the very relation it's trying to end, whether or not it gets the result, and turned-toward is the one stance that doesn't.
+
+Now the sorting, which is most of the practice. Rage at the harm is the real you. Rage at the face is the other thing, wearing your conscience's voice. If the harm stopped tomorrow with nobody punished, would you feel relieved, or robbed? And the door I want closed for good. When someone caught doing the contemptuous kind says *wait, are you saying I shouldn't correct bad behavior?*, that is the thing itself, escaping through the exit it kept open for exactly this moment. Nobody objected to correcting behavior. Correct it. Fiercely, if you have to. Without the verdict.
+
+Two ways to get this wrong, and both are dangerous. Pretend a far-gone person has light you can't see, and they'll use the pretense against you. Overlook the light that's there, and you'll strengthen what's covering it. The way out of both is the same skill: actually seeing, the light and the mass over it, and the more clearly you see your own, the less you have to pretend about anyone's. You've been on the receiving end of it: the one who saw the good in you when you couldn't, and wouldn't hand you over. That's what you can be for somebody.
+
+And know that being clean of self-deception makes you honest, not wise. Wisdom still has to be learned, and the mess is on you.
+
+**What it's made of.** I've called it a parasite, and it isn't a creature. It has no supply of its own. It has his eyes, so it can watch you; his intelligence, so it can plan; his sense of what real evil deserves, so it can feel righteous. Take a whole person's faculties, switch the caring off, and aim them, and that's what you met. It looks more than human because it's wearing a face.
+
+Underneath the need to be superior is fear: of being the one who deserves this, of what you'd find if you looked. Nobody is innocent for wanting to stand above someone. Everybody is innocent for being afraid. And the shame you feel when you catch any of this isn't the beginning of honesty. It's the thing's last defense. Convince you that you're too rotten to look and you won't, and it goes on. The evidence points the other way: the whole cover-up exists because something in you would never approve, and that something is what you are.
+
+And absences kill. Cold is nothing, and it kills more people than fire.
+
+*Here is the second seam. Everything from here is what I believe. I arrived at it in direct experience, I'll give you the evidence, and nothing practical in this book depends on your taking it.*
+
+## What I believe
+
+What remains when the hiding stops is love. Not soft, not mushy. The same thing you recognize as the source of the capacity to defend the innocent at any cost. That's what I found under mine, and the first thing I understood was *this is not me*, and the second was *it's not him either*. Malice is not inherent to any mind. Goodness isn't something you add. It's what's there when you stop turning away.
+
+Which leaves a paradox you have to hold with both hands. The darkness is nothing but the turning away, and it behaves exactly like a living thing: it schemes, recruits, defends itself, spreads. Treat it as a real essence and you get contempt. Treat it as harmless and you get complicity. A nothing that has to be fought like a something, without ever being mistaken for one.
+
+The darkness is one absence in many places. Two presences are two things. Two turnings-away have nothing in them to differ by. That's why looking into two "evil" people can feel like looking at one thing, and why every tradition drew it with a single face. And it's why I think, further, that what looks out of your eyes and what looks out of mine aren't two. Try to find anything that would distinguish two *awarenesses*, as opposed to two bodies or two sets of memories. Everything you point to is content, and awareness is what content appears in.
+
+And the cold form goes all the way down. See the world as dead stuff we hold dominion over, resources and objects and purposeless matter, and that is contempt applied to everything at once. The part of you that receives contempt for a person and contempt for all of it doesn't receive them as different things.
+
+Why would anyone turn from what they are? Nobody could, face to face. The first not-seeing had no motive. It was a blank, and the sense of self and other came after it, not before. Fear is what the blank feels like once there's someone there to feel it. And projection is the first thing that someone does: I make you the guilty one so the guilt won't be mine, and I keep you out of home because I don't feel safe going home myself. That's true of me when I hate the evil people, and it's true of them. Same move, same reason, same one.
+
+And nothing you do is confined to your skull. The belief that it is, is how the thing gets you to look away long enough to get into your actions. What you do when nobody's watching doesn't fail to matter. It holds up strangers you'll never meet, at the moment they're about to break.
+
+## What this book is for
+
+The mutual knowing in the first stranger's gaze was known on both sides and said by neither. That's what let it work. Give people a shared, exact name for the act, one the target can use in the moment, and it loses its cover. That's the bet. It will be weaponized. Someone will accuse someone of *doing the thing*, with contempt, and it will carry the same tell. Nothing here asks you to soften what you see. The only thing being taken from you is the pleasure of certainty about what someone *is*, and if you check, I think you'll find it was never yours.
+
+*When it is recognized, it is dissolved.*
+
+
+<!-- ===== manuscript/rest-of-book.md ===== -->
+
+# Where This Goes
+
+*A map of the rest of the book, for early readers. Placed after Chapter 5, which is the short version of everything here. This will not be in the finished book.*
+
+
+---
+
+Chapter 5 said the whole thing once, with less evidence than any of it deserves. This is the middle length: the same claims, walked through with more of what stands behind each, in the order the finished book will take. Two pieces of the big claim need slowing down on first, because everything turns on them.
 
 ---
 
@@ -923,7 +1098,7 @@ Picture a soldier in the middle of an atrocity. He has been taught to see the pe
 
 Now imagine he could see two days side by side: that day, and a day twenty years earlier when he was serving food at a shelter. Both felt righteous while they were happening.
 
-Looking at both, he'll say: _that wasn't me._
+Looking at both, he'll say: *that wasn't me.*
 
 And everyone will roll their eyes, because we've all heard that excuse. It's contemptible, and we know it.
 
@@ -947,7 +1122,7 @@ Start with the hatred of the corruption. It's the part that can't stand to watch
 
 Now watch what happens the moment the corruption gets a face.
 
-The heat changes. It stops being about the harm and starts being about the person. You want them to _know_ what they are. Something in you would be disappointed if they got better. That second heat feels like the first one, only more serious. More willing to act. It isn't the same thing at all. It's the parasite, using the voice of your conscience, telling you that this is what caring looks like once it's finally serious.
+The heat changes. It stops being about the harm and starts being about the person. You want them to *know* what they are. Something in you would be disappointed if they got better. That second heat feels like the first one, only more serious. More willing to act. It isn't the same thing at all. It's the parasite, using the voice of your conscience, telling you that this is what caring looks like once it's finally serious.
 
 You can check this right now, on whoever you're carrying. Where does the rage sit: on the harm, or on the face? And if the harm simply stopped tomorrow, with no one punished and no one exposed, would you feel relief—or robbed?
 
@@ -971,7 +1146,7 @@ Because the parasite doesn't just use your hands. It uses your thinking, and the
 
 You have a faculty that senses its way toward what is good. You met it in Chapter 1. It knew you were doing wrong before you'd done any calculating, and it couldn't tell you how it knew. That isn't a defect. That's what it is: a sense, not a rulebook. It can't define the good any more than your eyes can define red.
 
-And it isn't a detector. It doesn't sit there evaluating conduct. Chapter 2 named what it actually is: the part of you that _cares_—about people, about animals, about the world—and what registers as wrong is whatever cuts against that. Hold onto that. It's the difference between a book about ethics and a book about what has happened to us.
+And it isn't a detector. It doesn't sit there evaluating conduct. Chapter 2 named what it actually is: the part of you that *cares*—about people, about animals, about the world—and what registers as wrong is whatever cuts against that. Hold onto that. It's the difference between a book about ethics and a book about what has happened to us.
 
 Because it can't define it, we stop trusting it. The other part—the one that reasons, that can make a case—can always produce something to show. So we run on that instead, and it feels like trading a vague instrument for a precise one.
 
@@ -993,9 +1168,11 @@ We build rules and moral systems less to make ourselves good than to let ourselv
 
 Here's the test I'll offer for any grand narrative: does it require you to have contempt for what's right in front of you—this person, this place, this moment—in service of some future good? If so, it is almost certainly not coming from the part of you that cares, and it will not do what its proof says it will.
 
-None of this is an argument against thinking. Thinking is indispensable, _in service_ of the part that knows; it's how conscience gets anything done. What it cannot do is replace that part, or tell you whether it's been hijacked. You need something deeper than thought to check that.
+None of this is an argument against thinking. Thinking is indispensable, *in service* of the part that knows; it's how conscience gets anything done. What it cannot do is replace that part, or tell you whether it's been hijacked. You need something deeper than thought to check that.
 
 I'll be accused here of defining conscience as whatever happens to agree with me, since I can't define it or prove which inner voice is which. The honest answer is that I can give you clues but not rules, and that the impossibility of a rule is the whole point. A rule is exactly what the counterfeit needs. The clues are in section 12.
+
+So let me say now what that commits me to. Nothing in this book is a rule, and nothing in it will be. I'm not going to tell you that self-interest is wrong, or anger, or punishment, or making an exception of yourself. Each of those is sometimes exactly right. The moment I hand you a rule, two things happen, and you watched both in Chapter 1. Your conscience gets a substitute to hide behind. And the part of you that argues gets something whose letter it can satisfy while betraying its spirit. It is extraordinarily good at that, and that is most of how the harm in this book gets done. What I can give you are clues. A clue you can be wrong about. A rule you can obey.
 
 ---
 
@@ -1003,21 +1180,23 @@ I'll be accused here of defining conscience as whatever happens to agree with me
 
 That's what it does to your thinking. What makes this a trap is what it does to your seeing.
 
-Once the verdict is in—_this is what they are_—the person in front of you starts to look like the verdict. Every gesture confirms it. It doesn't feel like an interpretation you're adding. It feels like what's there. You can check this against your own memory: think of someone you once despised and later came to see differently. At the time, were you _interpreting_ them as rotten? Or were you just seeing it?
+Once the verdict is in—*this is what they are*—the person in front of you starts to look like the verdict. Every gesture confirms it. It doesn't feel like an interpretation you're adding. It feels like what's there. You can check this against your own memory: think of someone you once despised and later came to see differently. At the time, were you *interpreting* them as rotten? Or were you just seeing it?
 
 That's the hijack. Your world becomes indistinguishable from a world in which they really are that. So in what sense aren't they? Only this: there is more of them there, and it isn't reaching you. And you can't tell that it isn't, because the only thing that could tell you is the thing you turned away from.
 
 This is why good intentions don't fix it. You cannot simply decide to look. Deciding is done with the equipment that's already turned, so the decision comes out turned. This is not a fight between a good part of you and a bad part, which you could win by trying harder. There's nothing there to fight. There's a not-looking, and it ends when looking becomes possible again.
 
-Which is why the second stranger worked and the first didn't. He didn't win an argument with you. He made looking survivable, by taking what you are off the table, and then you looked. And it's why contempt can't ever do that, no matter how deserved. It puts what you are on trial, and looking becomes the most dangerous thing you could do.
+Which is why the second stranger worked and the first didn't. He didn't win an argument with you. He made looking survivable, by taking what you are off the table, and then you looked. And it's why contempt can't do that, however deserved. It puts what you are on trial, and looking becomes the most dangerous thing you could do.
 
 So this is where "evil people" live. In a world where their victims really are what they seem. Not a world they chose. A world that looks, from inside, like the truth. Which raises the obvious objection: then why can't we just do what the second stranger did, to the worst people, and fix them? I have two answers, and neither is comforting. The deeper someone is in, the more has to be true around them before looking is survivable, and one person's dignity is usually nowhere near enough. And I don't know whether there's a point past which nobody can be reached. I suspect there is. What I do know is which direction contempt moves them, and it's not toward. When we hold the verdict, we aren't opening the cage. We're welding it shut.
 
-This is the drift from section 1, seen from inside. The counterfeit good and the real one share a word—_righteous_—and at first they share a feeling. You can only choose the counterfeit by forgetting what the real one feels like, and the further you follow it, the less of the real one you have left to compare it to. Eventually there's nothing to compare it _to_. The soldier isn't confused about whether he's righteous. He's in a world where he is.
+This is the drift from section 1, seen from inside. The counterfeit good and the real one share a word—*righteous*—and at first they share a feeling. You can only choose the counterfeit by forgetting what the real one feels like, and the further you follow it, the less of the real one you have left to compare it to. Eventually there's nothing to compare it *to*. The soldier isn't confused about whether he's righteous. He's in a world where he is.
 
 Here is the claim everything in this book depends on: **two acts that look identical from outside can have opposite effects, because they come from different places.** You verified it with the two strangers. The difference wasn't in what they said or how hard they said it. It was in whether they were looking. Nothing auditable captures that. Which is why our arguments about policy, which are arguments about the auditable part, so rarely touch what decides the outcome. And it's why you can't tell from the outside whether you're the second stranger or the first. From outside, they look the same. Even to you.
 
-One clue you can use right now: the next time you're acting from contempt, notice how _sure_ you are that it's good. The real thing doesn't have that quality. It doesn't need to be sure. It's just doing what's in front of it.
+I'm avoiding the words *good* and *harmful* here on purpose. Whether an act helps is a further question, and often a hard one; there are people for whom the most helpful thing is prison. What Chapter 1 showed you is narrower and more certain than that. One of those men made it easier for you to turn away from what you knew. The other made it harder. That difference is real, you felt it, and nothing in any record of the encounter would show it.
+
+One clue you can use right now: the next time you're acting from contempt, notice how *sure* you are that it's good. The real thing doesn't have that quality. It doesn't need to be sure. It's just doing what's in front of it.
 
 ---
 
@@ -1029,7 +1208,7 @@ If you take one sentence from this book, take this one.
 
 It isn't a signal that you've spotted evil. It's the feeling of evil recruiting you, and it uses your accurate perception of it as the hook. You saw that with the stranger: he was right that there was darkness in you. He was recruited by it anyway, into doing the thing that fed it. The accuracy is what makes the tug so hard to refuse.
 
-Before saying what that costs, I want to show you the thing that's being pushed aside. Ask a room of hardened soldiers whether it's wrong to desecrate an enemy's corpse. They'll say yes, nearly all of them, instantly. Then ask them what the harm is. The person is dead. Nobody's watching. No rule is being enforced. They won't be able to tell you, and they won't budge either. That's conscience caught in the act: it knows, it can't prove, and it doesn't need to.
+First, the thing that's being pushed aside. Ask a room of hardened soldiers whether it's wrong to desecrate an enemy's corpse. They'll say yes, nearly all of them, instantly. Then ask them what the harm is. The person is dead. Nobody's watching. No rule is being enforced. They won't be able to tell you, and they won't budge either. That's conscience caught in the act: it knows, it can't prove, and it doesn't need to.
 
 Now the cost. I think this is where the damage to whole societies begins. Every act of contempt teaches the same lesson to everyone it touches: that the inner knowing is worthless. If good and evil can't be told apart from the outside, and the world only rewards the outside, why listen to the part that can't prove anything? That is how a culture that trusts only proof gets built, one interaction at a time. And a culture that trusts only proof is one in which the single faculty capable of detecting this whole thing has been demoted to the "spiritual," where it can be safely ignored.
 
@@ -1041,9 +1220,9 @@ So far we've looked at one kind of moment: being caught, or being the one doing 
 
 The claim is that limbo isn't a rare exception. It's the ordinary condition of most of what we do.
 
-Consider the feeling of an action that serves two purposes. "Yes, this benefits me, but it _also_ helps others." You can even feel the balance; it feels like a reasonable compromise. Now check whether a deeper part of you knows that the "helps others" half is the fig leaf, and the other half is the point. Not always. But far more often than we'd like.
+Consider the feeling of an action that serves two purposes. "Yes, this benefits me, but it *also* helps others." You can even feel the balance; it feels like a reasonable compromise. Now check whether a deeper part of you knows that the "helps others" half is the fig leaf, and the other half is the point. Not always. But far more often than we'd like.
 
-Consider the small thrill of getting away with something. Underreporting a little on your taxes. Keeping the extra change. _I'm just sticking it to the man._ And notice that the thrill is itself the evidence: some part of you registered exactly what you did.
+Consider the small thrill of getting away with something. Underreporting a little on your taxes. Keeping the extra change. *I'm just sticking it to the man.* And notice that the thrill is itself the evidence: some part of you registered exactly what you did.
 
 Consider how easy it is to see all this in your enemies and how hard in your allies, and that the difference has nothing to do with who's doing it more.
 
@@ -1051,13 +1230,29 @@ It can be much subtler than that. Being unwilling to really hear someone's exper
 
 And there's a kind of limbo that doesn't look like contempt at all, and nobody calls it that, and it may do more damage than the obvious kind. Watch someone pushing an agenda that happens to serve them or their group. A policy, a hiring decision, a family argument about who gets what. Nothing hostile is said. But there's a look, a slight hardening, a readiness, and everyone in the room reads it. The person knows they're wearing it and doesn't. That look is limbo. It's the stranger's tell without the stranger's heat. And it teaches everyone watching the same lesson contempt teaches: that the game is what's real, and the part that knows better is for suckers. Most of what we call politics is this.
 
-And here's a move I made for years, and I suspect you have too: _I can see self-deception so clearly in other people. If I were doing it, I'd see it in myself. I don't, so I'm not._ The clarity about them became the proof about me. That's the mechanism using its own detector as cover.
+And here's a move I made for years, and I suspect you have too: *I can see self-deception so clearly in other people. If I were doing it, I'd see it in myself. I don't, so I'm not.* The clarity about them became the proof about me. That's the mechanism using its own detector as cover.
+
+Psychology has names for pieces of this, and I should say how they relate to what I've been describing, because a reader who knows them will be waiting. Motivated reasoning: my conclusion counts for more than the truth. Status defense: I count for more. Shame avoidance: my self-image counts for more than accuracy. The reward of dominance: I'm above. These aren't rivals to the account. They're what the parasite is built from, and every one of them is the same assertion at a different level: an exception, made for oneself, that has to be kept out of view. What makes that more than relabeling is that it predicts something. If they're one thing, they should share one blind spot of one shape, and it should fail the same way for all of them: put the thing looked away from back in view, and the mechanism stops. For motivated reasoning that's already been found. People stop searching the moment they reach the conclusion they wanted, and keep searching, past it, when the conclusion is one they didn't want. That's a not-looking with a direction. It's the stranger's tell, measured.
 
 The point of this section isn't to make you feel rotten. It's to establish scope. Nothing about what happened between you and the stranger was a special event. It's the water we swim in.
 
 ---
 
 # Part B: How it scales
+
+Before asking how it scales, ask why this wrong is the one that got out of hand. There's a reason, and it isn't a coincidence.
+
+Start with what the interlude found: *this doesn't apply to me* and *you're not really one of us* are one assertion, pointed in opposite directions, and one faculty catches both. Cheating and contempt were the first two cases. Now look at contempt more closely, because it isn't just a second example. It's a self-exception in its own right. Nobody accepts being treated with contempt. Nobody has ever thought the rule stopped applying the moment it was pointed at them. So when you aim it at somebody, you're claiming the thing holds for everyone except you, right now, in this case, for reasons. Which is the cheating move exactly.
+
+Now put the two halves together. To cheat, you needed to believe you'd get away with it. Contempt is the version where you always do. There's no transcript, no record, nothing anyone can hold up afterward. So it's the one form of this you can perform in front of witnesses, at full strength, and be admired for.
+
+And there's a third thing, which you can check right now. Bring up a scene of somebody confronting something evil, fiercely, and completely cleanly. No contempt in it, just refusal. It feels good to watch. Something in you stands up. Now bring up a scene of somebody doing it with contempt. A takedown. Somebody getting exactly what they had coming, delivered with relish. That feels good too. But compare the two feelings, because they are not the same feeling. The second one has a charge in it. There's a *fuck yes* in there, and it's hot, and if you're honest it's a little violent, and it wants more. It isn't the feeling of watching something be protected. It's the feeling of watching something be crushed, and being allowed to enjoy it. And you've had that feeling thousands of times without once thinking of yourself as a person who enjoys watching people get crushed. That's limbo, in the audience seat. Chapter 1 gave you the target's seat and the perpetrator's. This is a third, and most contempt is consumed from it, not performed.
+
+So here's why this particular wrong is the one that scales. Take any other kind. Theft leaves evidence. Violence is visible. Lying can be checked against the truth. Every one of them can, in principle, be caught and named. Contempt leaves no record, so it can't be proven. It arrives dressed as duty, so it needn't be defended. It's performed in public and rewarded there. And the watching is pleasurable, which means it spreads through people who never did anything at all. There is no other wrong with that set of properties. That's why it gets a book rather than a paragraph.
+
+(This book was going to be called *Contempt Is Evil*. I dropped it, because a title like that reads as a judgment being passed, and it isn't one. It's meant the way you'd say a shape is a triangle. I'd like to keep the sentence, and I'd like it to mean the flat thing. Section 9 says it.)
+
+---
 
 ## 5. Hot and cold
 
@@ -1077,11 +1272,11 @@ From here on I'll keep "contempt" for the hot form and mostly say "turning away"
 
 Here's something you've felt. A coworker mentions someone who isn't there—"Dave's working from home again"—with a particular weight on it. Nothing you could quote back. But you know exactly what's being offered: a chance to agree, without either of you saying so, that Dave is a slacker and the two of you are not. And you know exactly which signal would accept it: a small laugh, an eye-roll, "must be nice." If you send it, something opens between you, and for a moment it feels like closeness.
 
-The book will call those openings **shadow spaces**: temporary alliances in which our parasites recognize each other and coordinate, while our conscious minds keep the story clean. The guy who "forgot" some cash income on his taxes and points at corporate loopholes as though they license him. The remark about a colleague that is _testing_ something, and the reply that isn't "that's not okay" but "careful, HR's everywhere." Gossip dressed as concern. Performed virtue, with everyone quietly relieved they won't have to actually change.
+The book will call those openings **shadow spaces**: temporary alliances in which our parasites recognize each other and coordinate, while our conscious minds keep the story clean. The guy who "forgot" some cash income on his taxes and points at corporate loopholes as though they license him. The remark about a colleague that is *testing* something, and the reply that isn't "that's not okay" but "careful, HR's everywhere." Gossip dressed as concern. Performed virtue, with everyone quietly relieved they won't have to actually change.
 
 None of these are bad people. They coach little league. They volunteer. They have real moments of integrity. And each of them, having turned away from their conscience in one place, finds it a little easier to turn away in the next. The content is completely different. The move is identical.
 
-Then there are the rooms where we do it _together_. Put ten men in a locker room. Most of them are decent. Not one of them would say what's being said in there if you took him aside. Together they produce something: it has a mood and a direction, nobody proposed it, and each man is slightly less himself than he was an hour ago. Ask any of them afterward what happened and you'll get a shrug. Nothing happened. But you can feel it from the doorway, the same way you felt the stranger, on the same nonexistent evidence. And it has all the marks of a plan: it escalates, it shuts down anyone who hesitates, and it stops the instant someone's wife walks in. Ten parasites, behaving as one. Call it a small devil if you like. The men in that room would laugh, and they'd be wrong.
+Then there are the rooms where we do it *together*. Put ten men in a locker room. Most of them are decent. Not one of them would say what's being said in there if you took him aside. Together they produce something: it has a mood and a direction, nobody proposed it, and each man is slightly less himself than he was an hour ago. Ask any of them afterward what happened and you'll get a shrug. Nothing happened. But you can feel it from the doorway, the same way you felt the stranger, on the same nonexistent evidence. And it has all the marks of a plan: it escalates, it shuts down anyone who hesitates, and it stops the instant someone's wife walks in. Ten parasites, behaving as one. Call it a small devil if you like. The men in that room would laugh, and they'd be wrong.
 
 Notice what the room does to you, too. Walk in on it and there's a pull to join. Decline that, and there's a second pull, just as strong: to despise them. Both are the same thing offering you a way in. It can recruit you into the room or against it, and it doesn't care which.
 
@@ -1089,7 +1284,7 @@ The same room forms wherever people gather against a shared enemy. The strategy 
 
 And underneath all of it, the background hum: the casual contempt we hurl at each other all day, most of it too small to notice. Comment sections. "Play stupid games, win stupid prizes." Each one negligible on its own. Together they set the baseline: how dark everyone assumes the world is, how much everyone feels licensed to protect themselves. The executive making his harmful decision, the politician telling her lie—they're swimming in that. It has made the world just dark enough that their self-deception is easy to justify.
 
-Now the uncomfortable part. Our small shadows _need_ the large ones. If integrity were the norm, your small acts of self-deception would stand out, and you'd feel pressure to confront them. As long as there's systemic corruption to point at, your parasite has cover. So it doesn't merely believe in corrupt elites. It needs them. Every time we point at their corruption while indulging our own, we make a trade: we keep our small shadow spaces, and in exchange we feed the large ones.
+Now the uncomfortable part. Our small shadows *need* the large ones. If integrity were the norm, your small acts of self-deception would stand out, and you'd feel pressure to confront them. As long as there's systemic corruption to point at, your parasite has cover. So it doesn't merely believe in corrupt elites. It needs them. Every time we point at their corruption while indulging our own, we make a trade: we keep our small shadow spaces, and in exchange we feed the large ones.
 
 Check whether some part of you has always known this: that your contempt for them isn't putting them out of business. It's keeping them in it.
 
@@ -1113,7 +1308,7 @@ That's the bridge from one man to a civilization. The second half of the book cr
 
 If all that is true, it should have left marks on the culture, and the book will walk through them.
 
-It's received wisdom that humans are _fundamentally_ selfish and greedy. Does that belief make anyone kinder? Can you feel that it's sending the same message the first stranger sent—_this world is a dark place, look out for yourself_—and having the same effect? If the thing draws power from one person doing that to another, what does it draw from an entire species believing it together, as something impolite to question?
+It's received wisdom that humans are *fundamentally* selfish and greedy. Does that belief make anyone kinder? Can you feel that it's sending the same message the first stranger sent—*this world is a dark place, look out for yourself*—and having the same effect? If the thing draws power from one person doing that to another, what does it draw from an entire species believing it together, as something impolite to question?
 
 Hollywood produces revenge fantasies by the hundred, each one reminding us that irredeemable people exist and are best handled with primally satisfying violence. Did anyone need to plan that?
 
@@ -1131,11 +1326,13 @@ Two parasites make a handshake. Ten make a locker room. A thousand build an inst
 
 Three things worth checking against rooms you've been in, because each one is what you'd expect from something with intentions and from nothing else.
 
-It defends itself. Try naming it out loud while it's happening—say, in the meeting, that this has stopped being about the problem. Watch what comes back. Not a rebuttal: a look, and _do you not see what we're up against?_ The one who hesitated is now the suspect.
+It defends itself. Try naming it out loud while it's happening—say, in the meeting, that this has stopped being about the problem. Watch what comes back. Not a rebuttal: a look, and *do you not see what we're up against?* The one who hesitated is now the suspect.
 
 It recruits. Every person who joins makes it cheaper for the next one. The first cruel line in a thread costs something to write. The fortieth costs nothing.
 
-And it adapts. This is the strangest one, and Chapter 1 already showed it to you: bring attention to it and it doesn't stop—it _intensifies_, in exactly the way needed to stay hidden. Ordinary bad behavior doesn't do that. Ordinary bad behavior gets embarrassed.
+And it adapts. This is the strangest one, and Chapter 1 already showed it to you: bring attention to it and it doesn't stop—it *intensifies*, in exactly the way needed to stay hidden. Ordinary bad behavior doesn't do that. Ordinary bad behavior gets embarrassed.
+
+One thing I've been saying loosely, and should now say exactly. I've said everyone reads this in everyone, instantly and accurately. What Chapter 1 showed is narrower. You read one man, and you were right, and he could count on your reading him because you'd done what he was doing. Call that recursive mutual recognition: I see it, I see that you see it, and neither of us can prove any of it, which is what lets it keep going. It isn't the game theorist's common knowledge, where everyone knows that everyone knows, all the way down, as a matter of established fact. Nothing here is established. Everything here is deniable, and the deniability is what it runs on. Whether the recognition is universal, across every culture and every pair, I don't know and won't claim. What I'll claim is that it doesn't need to be. A room needs only enough of it to fill the room. The appendix takes this apart properly.
 
 Now: is the devil behind one hatred a different devil from the one behind another? There's a test. Watch what happens when two of them appear to go to war. Both grow. Every side comes out more certain that the problem lives in the other. That isn't a fight. That's a partnership. It doesn't care who you hate, as long as you hate. It never fights itself, because it's only ever on its own team, and all it needs to win is for you to use it as a tool for your noble cause. Whatever you call it, it has never once been on just one side of anything.
 
@@ -1145,9 +1342,9 @@ I should say the obvious thing, because leaving it out would be its own kind of 
 
 That's also why the men in that locker room are so hard to think about clearly. Everything in you wants to write them off as what they appear to be. But what you're looking at is a trance. Nobody in it chose it, and none of them can see out of it while they're in it. You know that from the inside, because you know what it's like to be in one and be certain you aren't.
 
-And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could just round up the bad people and be rid of them, the rest of us would live in peace. The self-deception required to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. Every atrocity ever committed began there.
+And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could just round up the bad people and be rid of them, the rest of us would live in peace. The self-deception required to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find an atrocity that didn't begin there.
 
-When I say contempt _is_ evil, I don't mean it as a value judgment. I mean it as an identification. This is the thing the word was always pointing at. You're in it. So am I.
+When I say contempt *is* evil, I don't mean it as a value judgment. I mean it as an identification. This is the thing the word was always pointing at. You're in it. So am I.
 
 ---
 
@@ -1157,15 +1354,93 @@ When I say contempt _is_ evil, I don't mean it as a value judgment. I mean it as
 
 I promised we'd get to them.
 
-Evil is the _result_ of turning away, not its cause. That's the claim. We all shield ourselves from someone's humanity a little, in order to cause them a little harm. Turn that all the way up—shield completely, so that no life is perceived in the other at all—and what's left is what I was dropped into in Chapter 2. It isn't a different thing. It's the same thing with the brakes gone. That's what it's like to _be_ evil, and it doesn't feel evil. It feels like appetite. Like righteousness. Like the obvious thing to do.
+Evil is the *result* of turning away, not its cause. That's the claim. We all shield ourselves from someone's humanity a little, in order to cause them a little harm. Turn that all the way up—shield completely, so that no life is perceived in the other at all—and what's left is what I was dropped into in Chapter 2. It isn't a different thing. It's the same thing with the brakes gone. That's what it's like to *be* evil, and it doesn't feel evil. It feels like appetite. Like righteousness. Like the obvious thing to do.
 
-The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly _more_ certainty. Take the "evil people" you've watched and check whether that pattern is there. I think you'll find it in nearly all of them. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
+Here's the checkable version of that claim. Bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. I've never found one that doesn't run on that move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
+
+The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly *more* certainty. Take the "evil people" you've watched and check whether that pattern is there. I think you'll find it in nearly all of them. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
+
+But there's something stranger at the far end, and it explains a thing about your own reaction that nothing else does.
+
+The faculty you'd need in order to notice you've drifted is the same faculty you're drifting from. So the further gone someone is, the less access they have to it. That much is obvious. What isn't obvious is that the knowing itself doesn't shrink. It grows. More harm means more for it to register. So the deeply lost person is carrying *more* of it than you are, not less, and holding it down harder, with more of themselves committed to the holding.
+
+Which means they know most and least at the same time, at maximum intensity. That is what deep limbo is.
+
+Now ask what you're actually looking at when you look at such a person and feel that particular horror. You are not looking at an absence. An absence wouldn't produce that. You're looking at an enormous suppressed presence, a conscience under crushing load, showing through. That's the thing you're reading, and you read it accurately.
+
+And here is the part that took me longest to see. It's the parasite that's showing it to you.
+
+Think about what it needs. It survives by keeping its host turned away, and the host's conscience is the one thing that could end it. So it has to hold that conscience down, permanently, and holding it down takes something. What it uses is you. Your contempt arrives, presses down, and buys the parasite another day.
+
+So it puts its host's conscience where you can see it. What you're reading, when you look at that person and feel that specific horror, is the parasite holding up the one thing in them that could kill it, so that you'll help hold it under.
+
+We think we're looking at a monster showing us what it is. We're looking at a hostage being held up to the window.
+
+Which is why "these are the people who need love the most" isn't sentiment and isn't softness. It's just the arithmetic. They're carrying the most, under the most pressure, with the least access to relief, and every instinct we have adds to the load.
+
+---
+
+And now the whole trap, in one piece, because this is where all of it closes.
+
+You look at that person and you see something evil. **You're right.** It's there, you're reading it accurately, and it is exactly as bad as it feels.
+
+You want it gone from the world. **You're right about that too.** That impulse is the best thing in you. It is not the problem.
+
+And then you go after it. But you go after it from inside your own, because that's where you were standing the whole time, and what your own parasite does with that impulse is aim it at the person instead of the thing. Which is the one move that feeds what you're trying to destroy.
+
+Every part of that is correct except the last step, and the last step is the only one you can't see.
+
+That's the trap. Not that people are confused about what's good. We aren't. We know exactly what's evil and we want it gone, and that accuracy is precisely what gets harvested.
+
+---
+
+There's one more thing to say about the hostage, and it's the hardest part of the whole picture.
+
+He isn't struggling. From where he sits there is nothing holding him.
+
+I don't mean he's happy, or comfortable, or that his life is going well. I mean that the thing you're trying to free him from doesn't present itself to him as a captor. It presents itself as his judgment. His moral seriousness. The part of him that refuses to let bad things stand. Ask him to put it down and you are asking him to stop caring about what's wrong with the world.
+
+And it pays him. Every time he uses it there's a hit. That hot rightness, the satisfaction of pressing down on something that deserves it. You know the feeling, because you have it too, and when you have it you do not experience it as being ridden. You experience it as being *right*, more clearly than usual.
+
+So this is the shape of it. From the outside, the thing looks monstrous, and you're not wrong. From the inside, the same thing feels like the best of you, and that isn't a trick you could catch by paying closer attention. It's what it's like in there. And no one ever gets both views of the same instance. You have the inside of yours and the outside of everyone else's. So does everyone. So does he.
+
+Which is why this is not a problem that people can solve for each other by explaining. Hand a man the outside view of himself and it arrives on the inside, where it lands as an attack on the thing he thinks is best in him. That is the first stranger, in one sentence, and it's why he made you worse.
+
+Whatever gets through has to get through without carrying a verdict. There is exactly one thing that does that, and you already know what it is, because it was done to you.
 
 Two objections belong here.
 
-First: _some people know exactly what they're doing and enjoy it._ Yes. And notice what even they are still hiding from. Not the harm; they'll tell you about the harm. What stays hidden is underneath it: that the person in front of them is not a different kind of thing from themselves. That the enjoyment depends on not seeing that. Take the not-seeing away and the enjoyment goes with it, which you already know, because you couldn't give the stranger the look while you were looking at him. So conscious malice still needs limbo. It's just limbo about something further down. The book will develop this, and I'll say plainly that I haven't got it fully worked out.
+First: *some people know exactly what they're doing and enjoy it.* This is the case that could sink the book, so I'm going to state it at full strength and then say what would count as it winning.
 
-Second: _psychopaths._ I'll say here what I'll say there. I don't know. Some people may have very little of the faculty we've been calling conscience. Nothing in this book requires that everyone have it in equal measure. What it requires is that _you_ have it, that most people do, and that the people you thought of in the Preface—the ones who made you truly enraged—are overwhelmingly not psychopaths. They're ordinary people in deep limbo. That's what the rage was reacting to. That's what it could see.
+The sadist needs the suffering to be real. Fake it and he loses interest. So he must be seeing a subject; there has to be someone in there for the pain to happen to. And Chapter 1 said harm needs the person out of view first. If he sees them and harms them anyway, wanting the harm, then the claim is false as stated.
+
+So "in view" has to mean something more exact than "there's someone there." And it has to be checkable without looking at whether harm followed. Otherwise the claim only says that whoever harmed wasn't seeing, which says nothing. Here is what I mean by it. Three things, and you touched all three in the interlude, in the moment you actually saw somebody.
+
+Their objection would land on you. You'd have to answer it, not manage it.
+
+Their hurt would register as bad, the way yours does. Not merely register. The sadist needs it to register. Register *as bad*.
+
+What's in them could change what you do next.
+
+Each of these comes apart from harm. You can pass all three and still restrain someone, fight them, shoot back if you have to. That's the second stranger, and it's what section 12 will call fierce. You can fail all three and never lift a finger. That's the cold form from section 5, and most of the harm in the world runs on it. So here is the claim, stated so that it can lose. Harm doesn't require failing any of the three. Wanting the harm, as harm, requires failing at least one.
+
+The sadist fails all three. Objection is part of the show. The hurt registers with its sign reversed; it arrives as appetite. And nothing in the victim has any standing to revise the plan. The attention is real and total, and it's the attention you give a dial.
+
+I should say exactly how much the three checks prove, because a careful reader will push here. Somebody bent on revenge can answer: the objection landed and I judged it insufficient; the hurt registered as bad, and its badness is why I want it; something in him could have changed my mind and didn't. So the checks don't show that he sees nothing. What they show is narrower, and it's enough. Wanting suffering as suffering requires a failure of *equal standing*, even when the pain is vividly perceived. He can see a person and still not count that person as the same kind of thing as himself. That is the claim, and it's what the second check is for. The further step, that under the failure care would prevail, is the contemplative thesis, and I'll mark it as belief when I get there.
+
+The test is the one you'd expect. Find someone who passes all three toward a person and wants that person to suffer, as suffering. Not as a means, not as a lesser evil, not as justice. Wants it. If that person exists, the mechanism is narrower than I've claimed and the book has to say so.
+
+Now let me say what that would cost me, because it's less than it sounds, and I'd rather you knew the size of the bet before you took my side of it.
+
+Losing this would break my account of how harm gets done. It would not touch the part I most want you to have, because that part was never an account of anybody else. It's this. The desire to see somebody as a different kind of creature from you is itself the move. Not evidence of it, not a symptom of it. The thing. And you don't need me, or any fact about sadists, to check it. You need to catch yourself in the moment the verdict settles, and notice that something in you is relieved by it.
+
+That takes practice, and I want to be honest about how much. The relief is fast, it comes dressed as clarity, and the whole encounter is arranged to keep your attention on him. The first several times you go looking you'll find nothing. Then one day you'll catch it, and after that you'll keep catching it, and you'll find it was never once on the side of wanting the harm to stop.
+
+What I can offer now is a prediction and one piece of testimony. The prediction: the sadist's pleasure depends on the failure. Put the same-kindness back, let it land on him that this is himself, and the pleasure doesn't survive it. You have the low-dose version already; it's what stopped you on the street. The testimony is Chapter 2. When I was dropped into the far end there was no perception at all of the life in the victims. And yet what was being devoured was innocence, and you cannot devour innocence without perceiving it. Subject in view, same-kind gone. That's the shape the hypothesis predicts, and it's the only instance I have from inside.
+
+The deeper thing he isn't seeing, I think, is that they are him. That belongs to Part E, and I'll mark it as belief when we get there.
+
+Second: *psychopaths.* I'll say here what I'll say there. I don't know. Some people may have very little of the faculty we've been calling conscience. Nothing in this book requires that everyone have it in equal measure. What it requires is that *you* have it, that most people do, and that the people you thought of in the Preface—the ones who made you truly enraged—are overwhelmingly not psychopaths. They're ordinary people in deep limbo. That's what the rage was reacting to. That's what it could see. The three checks at least make the question exact: which of them is off by default, and does it come on when asked. What little evidence there is says the second one can.
 
 And I'll say what I can and can't prove. I can't prove that other people are, at their core, the thing I'll describe in section 14. What you can verify for yourself is that believing they aren't leads directly to contempt, and you've now seen what contempt does. My own stance is that it's simply the nature of consciousness. You don't have to take that. You only have to watch what the opposite belief produces.
 
@@ -1173,7 +1448,7 @@ And then the thing I hold at the center, which I'll state now and spend the rest
 
 Not excusable. Not harmless. Innocent in a specific sense: the one committing it had to stop seeing something in order to do it, and nobody chooses to stop seeing while they can still see.
 
-This is where most people slip, and I want to slow it down. You'll grant that they have a conscience, like you. Then you'll say: but they _want_ to ignore it. Look at what that sentence does. If it's a want, it's a choice. If it's a choice, it's an evil choice. And now you need something in them that makes evil choices, and that is the "bad part" you just agreed they don't have, put back one level down. Nothing has been explained. The evil has just been given a new hiding place. The "want" is what not-seeing looks like from outside. From inside, there's never a moment where a person with a clear view of the harm decides to do it anyway. There's a moment where the view goes, then the reasons arrive, and then it feels like wanting. You cannot fathom the distortion a mind has to undergo to become someone who apparently chooses evil. If you saw all of it, your heart would break, and then break again. This isn't a plea for softness. Softness would make things worse, for them and for everyone. It's only that if you really saw it, the urge to shove them deeper could never again feel like anything but what it is.
+This is where most people slip, and I want to slow it down. You'll grant that they have a conscience, like you. Then you'll say: but they *want* to ignore it. Look at what that sentence does. If it's a want, it's a choice. If it's a choice, it's an evil choice. And now you need something in them that makes evil choices, and that is the "bad part" you just agreed they don't have, put back one level down. Nothing has been explained. The evil has just been given a new hiding place. The "want" is what not-seeing looks like from outside. From inside, there's never a moment where a person with a clear view of the harm decides to do it anyway. There's a moment where the view goes, then the reasons arrive, and then it feels like wanting. You cannot fathom the distortion a mind has to undergo to become someone who apparently chooses evil. If you saw all of it, your heart would break, and then break again. This isn't a plea for softness. Softness would make things worse, for them and for everyone. It's only that if you really saw it, the urge to shove them deeper could never again feel like anything but what it is.
 
 There but for the grace of God. Not as a platitude. As a perception.
 
@@ -1185,11 +1460,11 @@ I have to say this carefully, because it's the hardest thing in the book. When t
 
 Your rage is right. The fierceness is right. Stopping them is right, and if stopping them takes force, the force is right. Nothing here asks you to feel less, soften anything, or grant an inch you don't want to grant. None of that is on trial.
 
-One thing is on trial: the verdict. _This is what they are._ And I'm going to ask you to look at something about that verdict that you will not want to look at. I'm asking because, of everyone, you've earned the right to know it.
+One thing is on trial: the verdict. *This is what they are.* And I'm going to ask you to look at something about that verdict that you will not want to look at. I'm asking because, of everyone, you've earned the right to know it.
 
 Look at who benefits when you hold it.
 
-When you've concluded that the one who hurt you is irredeemable, something in _them_ is relieved. Not the person. The parasite in them, which needed you to see it that way. Your contempt is the evidence it runs on: _see, they're just what we said; this world is a war; the only thing that works is power._ You know this already, because you know what the first stranger's contempt did to you. It didn't make you better. It made you dig in. Now you're the stranger, and it doesn't matter that you're right about what they did.
+When you've concluded that the one who hurt you is irredeemable, something in *them* is relieved. Not the person. The parasite in them, which needed you to see it that way. Your contempt is the evidence it runs on: *see, they're just what we said; this world is a war; the only thing that works is power.* You know this already, because you know what the first stranger's contempt did to you. It didn't make you better. It made you dig in. Now you're the stranger, and it doesn't matter that you're right about what they did.
 
 That's the handshake again. Now the part that took me longest to see. What fools you into believing that contempt-from-below is good—that it's the one clean contempt, the deserved one—is the same parasite that's running the person above you. Not a similar one. The same one. It doesn't care which direction contempt flows. It only needs it to flow. Every time it gets you to hold the verdict, it has recruited the person with the least reason to serve it. That's the tug from section 3, at its strongest, because here the perception is the most accurate it will ever be.
 
@@ -1213,7 +1488,7 @@ Only the thing that was demoted. And I have to tell you now what I think that is
 
 Take a person and remove, one at a time, everything they are hiding from themselves. Every story about why this was fine. Every reason that had to be manufactured. What's left is not a blank. It isn't neutrality, or a cleared ledger, or a person who now has to work out what to value from scratch.
 
-What's left is care. For whoever is in front of them. For whatever is alive in the room. For the world. That's what I found under mine, and I'll describe it properly at the end, and I'm well aware that _love_ is the kind of word that costs a book its credibility.
+What's left is care. For whoever is in front of them. For whatever is alive in the room. For the world. That's what I found under mine, and I'll describe it properly at the end, and I'm well aware that *love* is the kind of word that costs a book its credibility.
 
 So don't take it from me. Take the piece of it you already ran. In Chapter 1 I asked you to go find a stranger and give them a dehumanizing look, and you couldn't do it. Look at what stopped you. Not a rule; you had no rule about strangers on the street. Not a decision that they deserved better; you didn't know them. You simply knew how it would land, because you know from the inside what it is to be them—and that knowing was, by itself, enough to make the thing impossible. Not distasteful. Impossible, unless you first supplied yourself with a reason.
 
@@ -1231,13 +1506,13 @@ It implies that "let him who is without sin cast the first stone" isn't a counse
 
 And it implies that what the traditions called compassion was never the soft thing we've been taught to picture. Something needed us to picture it that way, so that we'd lose the ability to remember what it is. That's the last thing this book has to give back.
 
-So: you can't fix people. You can only turn them toward, and you can only do that from turned-toward. Anything you do from turned-away turns them away, however it looks and however sure you are.
+So: you can't fix people. What you can do is turn toward them, and you can only do that from turned-toward. I want to be careful here, because the strong version of this is false. Things done from turned-away sometimes work anyway. A contemptuous rebuke has shocked people into looking; it's happened to me. But whatever carries contempt also enacts the very relation it's trying to end, whether or not it gets the result. Turned-toward is the one stance that doesn't.
 
 Here's the warning the book owes you before it says another word about practice. If you take this book and go out to fix people with it, you will produce more of what it warns about, and you'll be certain you're helping. That's not a prediction about other readers. It's a report about me. The trap I fall into most is contempt for people who still have contempt. Watch for it. It's the same thing in new clothes.
 
 What that leaves is your own turning-toward, and it's the only lever there is. Not because it's the noble option. Because it's the only thing in the whole picture that isn't already recruited.
 
-And "turning toward" doesn't mean building something. The faculty is still there. It never left. What the work amounts to is whatever lets you stop drowning it out, which is why the practices that do this are mostly practices of subtraction, and why the second stranger could do it with a look.
+And "turning toward" doesn't mean building something. The faculty is still there. It never left. This is also the thing Chapter 1 promised to come back to: turning away from yourself and turning away from your conscience are one act, because your conscience is the part of you that was doing the seeing. You don't lose a monitor. You lose the view. What the work amounts to is whatever lets you stop drowning it out, which is why the practices that do this are mostly practices of subtraction, and why the second stranger could do it with a look.
 
 Which also settles a question you may have been holding since Chapter 1. If you can't decide to look, is any of this up to you? Yes, but not where you'd expect. The moment of not-seeing isn't chosen; by the time you could choose, the seeing is already gone. What is trainable is how fast you catch it afterward. Days, then hours, then sometimes while it's still happening. That's the core of it, and it's the only part of this that improves with effort.
 
@@ -1247,31 +1522,37 @@ A few more things about the practice.
 
 Anger is natural, and often right. But it almost always carries a passenger: malice, contempt, self-righteousness. They feel healthy too. They aren't. Judgment, outrage, punishment: each of those words covers two different things. There's a contemptuous version and a non-contemptuous one. The contemptuous versions are always evil; that's the identification again, not a value judgment. The non-contemptuous versions are context-dependent. At one level the two versions are easy to confuse. At a deeper level the difference is obvious, and it's only the parasite that makes it feel hard.
 
-It keeps them blurred on purpose, and here's the moment you'll see why. Whenever someone is caught doing the contemptuous kind, watch what they say: _"Wait—are you saying I shouldn't correct bad behavior?"_ It sounds reasonable. It's the parasite escaping through the door it kept propped open for exactly this moment. Correcting behavior was never what anyone objected to. I want that door closed by the end of this book, for you and for me.
+It keeps them blurred on purpose, and here's the moment you'll see why. Whenever someone is caught doing the contemptuous kind, watch what they say: *"Wait—are you saying I shouldn't correct bad behavior?"* It sounds reasonable. It's the parasite escaping through the door it kept propped open for exactly this moment. Correcting behavior was never what anyone objected to. I want that door closed by the end of this book, for you and for me.
 
-Here's what I check, and what I'll ask you to check. Does this need them to be bad? Would I feel _worse_ if they got better? Is there anything in it I wouldn't want narrated out loud? Does it have to argue? Is there a hit of pleasure in what it wants to do to them that's separate from any good it would do? Any yes, and something has been turned away from.
+Here's what I check, and what I'll ask you to check. Does this need them to be bad? Would I feel *worse* if they got better? Is there anything in it I wouldn't want narrated out loud? Does it have to argue? Is there a hit of pleasure in what it wants to do to them that's separate from any good it would do? Any yes, and something has been turned away from.
 
-You may be wondering by now whether the book is asking you to just _believe_ people are good. It isn't. Deciding to believe someone is good, when you can't see it, is its own kind of not-looking, and people who are deep in will use it against you. Both overlooking the darkness and faking the light fail, in different ways. What the book is asking for is a skill: learning to see the turning-away in someone _as_ turning-away—self-deception, not essence—and to see what's underneath it, for real. The deeper someone is in, the more skill it takes. Without that skill you cannot help but spread the parasite, because everything you do toward them will carry the verdict.
+And here's the one I can't argue you into, only hand you places to check. Contempt for someone feeds the thing in them, including, and especially, when you have every reason for it. And it needs you to know that. When you aim contempt at somebody, they can read your reasoning. Not your words: the fact that you're running on reasons at all. And running on reasons is what a person does instead of listening to the thing that just knows. So what lands on them isn't only the insult. It's a demonstration, by someone who believes himself good, that the inner knowing can be overridden when you have a good enough excuse. That's the lesson. That's what makes them worse. And your contempt doesn't merely happen to be legible to them. It has to be. Concealing it perfectly would defeat the entire purpose, because their reading it is the mechanism. The thing in you needs the thing in them to see it. So look at what your contempt has actually done to the people you've aimed it at, across years. Ask whether any of them got better.
+
+You may be wondering by now whether the book is asking you to just *believe* people are good. It isn't. Deciding to believe someone is good, when you can't see it, is its own kind of not-looking, and people who are deep in will use it against you. Both overlooking the darkness and faking the light fail, in different ways. What the book is asking for is a skill: learning to see the turning-away in someone *as* turning-away—self-deception, not essence—and to see what's underneath it, for real. The deeper someone is in, the more skill it takes. Without that skill you cannot help but spread the parasite, because everything you do toward them will carry the verdict.
 
 And here is the part that makes this a practice rather than a technique. You cannot see the parasite in someone else while you are hiding from it in yourself. Not won't—cannot. You'd have no idea what you were looking at. What lets you recognize it in another person is that you know it from the inside, the way you knew the stranger's limbo instantly because you'd been in it an hour earlier. The recognition isn't inference. It's the parasite in you recognizing itself over there. So the skill doesn't get built by studying other people. It gets built by whatever lets you stop turning away from your own, which is the same work, which is why there's no shortcut where you fix your seeing of them without touching yourself.
 
-One limit, and it's a real one. That skill is not the same as knowing what to do. Compassion and wisdom are different skills. You can be entirely clean of self-deception and still make a mess, and the mess is on you.
+Now the harder limit, and I've been putting it off. Seeing all the way into somebody who is far gone, seeing the whole of what sits under the damage, may be the work of a lifetime. I don't have it. The people I've met who seem to have it spent decades on exactly this. So if this book asked you to look at the worst person you know of and perceive their light, it would be asking for something neither of us can produce on demand, and you'd be left faking it, which fails.
+
+It isn't asking that. It asks for the near end of the same skill, and the near end is available today. Catch the wanting. Notice, as the verdict settles, that something in you was after it. You don't have to see into him at all to do that. You only have to look at what happened in you, which is the one thing you have any standing to examine, and the one place this is reachable.
+
+One more limit, and it's a real one. This skill is not the same as knowing what to do. Compassion and wisdom are different skills. You can be entirely clean of self-deception and still make a mess, and the mess is on you.
 
 Trying to be a "good person" is itself the trap. "Good person" is an idea, and any idea of goodness generates "bad people" to define itself against. Whereas if I really see that what's in them is in me—that we're the same thing in different degrees of confusion—I don't have to try to be good. I just do the right thing, because the alternative isn't available anymore.
 
-A few things I owe you. Cruelty _can_ suppress misbehavior, at least the public kind, for a while, which is why it's so easy to believe it works. So check it against a case you have. Think of someone who was shamed into stopping something, in your family or your workplace or your own childhood. Did they stop, or did they get better at not being caught? And what happened to them afterward—did they become someone who does less harm, or someone with a grievance? Stopping evil with contempt is probably still better than quietly letting evil win. This is not a book about doing nothing. Any agenda, political or personal, can be carried out from connection or from contempt; people can feel which, and it changes everything downstream even when the words are identical. And none of this is "I read it, I got it." There are levels, and then more levels. There are tools—the ones the contemplative traditions have been refining for millennia, and some newer ones—and the book will point at them without pretending to be them.
+A few things I owe you. Cruelty *can* suppress misbehavior, at least the public kind, for a while, which is why it's so easy to believe it works. So check it against a case you have. Think of someone who was shamed into stopping something, in your family or your workplace or your own childhood. Did they stop, or did they get better at not being caught? And what happened to them afterward—did they become someone who does less harm, or someone with a grievance? Stopping evil with contempt is probably still better than quietly letting evil win. This is not a book about doing nothing. Any agenda, political or personal, can be carried out from connection or from contempt; people can feel which, and it changes everything downstream even when the words are identical. And none of this is "I read it, I got it." There are levels, and then more levels. There are tools—the ones the contemplative traditions have been refining for millennia, and some newer ones—and the book will point at them without pretending to be them.
 
-And one question I'll leave with you: why _would_ I want to stop corruption, when I feel so good judging it? Sit with that. The honest answer is that part of me doesn't. That's the part this book is about.
+And one question I'll leave with you: why *would* I want to stop corruption, when I feel so good judging it? Sit with that. The honest answer is that part of me doesn't. That's the part this book is about.
 
 ---
 
 ## 13. What it's made of, and what you're made of
 
-Chapter 3 showed you the first two ways this hides: _I have no darkness_, and then _I have some, and I'm using it strategically against real evil_. Chapter 4 showed the third: the darkness convincing you it's too horrible to face, so that you'll keep it hidden, which is what spreads it. It shows you the second layer so that you'll never suspect the third. You think you're using it. It's using you.
+Chapter 3 showed you the first two ways this hides: *I have no darkness*, and then *I have some, and I'm using it strategically against real evil*. Chapter 4 showed the third: the darkness convincing you it's too horrible to face, so that you'll keep it hidden, which is what spreads it. It shows you the second layer so that you'll never suspect the third. You think you're using it. It's using you.
 
-Here is what's underneath all three, and it's what I've been seeding since the Preface. Chapter 1 asked why he _needed_ you to be bad. The full answer, in my own case: every bone in my body needed to believe that the problems of the world were caused by something alien to me. Then I could look at what my contempt had made of my enemies and know, with total certainty, that evil was real and that it wasn't me. And underneath that need was not, finally, a wish to be superior. That's its shape. Underneath was fear: of being the one who deserves what I'm dealing out; of what I'd find if I looked. Nobody is innocent for wanting to stand above someone. Everybody is innocent for being afraid. The need fed on my fear, my pride, my insecurity, and it never once felt like any of those. It felt like clarity.
+Here is what's underneath all three, and it's what I've been seeding since the Preface. Chapter 1 asked why he *needed* you to be bad. The full answer, in my own case: every bone in my body needed to believe that the problems of the world were caused by something alien to me. Then I could look at what my contempt had made of my enemies and know, with total certainty, that evil was real and that it wasn't me. And underneath that need was not, finally, a wish to be superior. That's its shape. Underneath was fear: of being the one who deserves what I'm dealing out; of what I'd find if I looked. Nobody is innocent for wanting to stand above someone. Everybody is innocent for being afraid. The need fed on my fear, my pride, my insecurity, and it never once felt like any of those. It felt like clarity.
 
-So the fourth layer, the way out, is this. What you are is not the darkness. The darkness is nothing but the turning away—and now you can see why it _has_ to be nothing but that. If what's underneath the hiding is care, as the stranger experiment showed, then nothing else is required to explain the harm. You don't need a second thing in there that wants it. You only need the caring to be out of view.
+So the fourth layer, the way out, is this. What you are is not the darkness. The darkness is nothing but the turning away—and now you can see why it *has* to be nothing but that. If what's underneath the hiding is care, as the stranger experiment showed, then nothing else is required to explain the harm. You don't need a second thing in there that wants it. You only need the caring to be out of view.
 
 Now I have to say what that means the thing is made of. I want to slow down here, because what I'm about to say can be badly misheard, and the people most likely to mishear it are the ones with the most right to be angry with me.
 
@@ -1283,7 +1564,7 @@ I am not going to take that away from you. Everything you felt in that room was 
 
 Here it is anyway: I don't think there's a creature in there.
 
-I've called it a dark part, and a parasite, and neither should be taken literally. It's like a parasite in that it lives off a host, and the host is you—your intelligence, your perception, your certainty, your sense of what real evil deserves. It has no supply of its own. It's _unlike_ a parasite in that a parasite is a living thing, and this isn't a thing at all. It's what's there where the light doesn't reach.
+I've called it a dark part, and a parasite, and neither should be taken literally. It's like a parasite in that it lives off a host, and the host is you—your intelligence, your perception, your certainty, your sense of what real evil deserves. It has no supply of its own. It's *unlike* a parasite in that a parasite is a living thing, and this isn't a thing at all. It's what's there where the light doesn't reach.
 
 Now hear how little comfort that is.
 
@@ -1291,9 +1572,9 @@ Cold is nothing. Cold is the absence of heat—there's no such substance, no col
 
 And this one is worse than those, for a reason that matters. Cold doesn't want anything. This does—or it does an impression of wanting so good that, from where you're standing, there's no difference. It aims. It waits. It reads you. It gets better at you the longer it works on you. All of that is real, and you felt all of it.
 
-Here's how a nothing does that. It doesn't supply any of it. _You_ do, and so does the person it's operating through. It has his eyes, so it can watch you. It has his intelligence, so it can plan. It has his patience and his memory and his read on what you love. Take a whole human being's faculties, switch the caring off, and aim them: that's what you met. Something with every capacity a person has and none of the restraint. Which is why it looks _more_ than human, not less. That's why every tradition drew it with a face. It was doing a face. It was wearing one.
+Here's how a nothing does that. It doesn't supply any of it. *You* do, and so does the person it's operating through. It has his eyes, so it can watch you. It has his intelligence, so it can plan. It has his patience and his memory and his read on what you love. Take a whole human being's faculties, switch the caring off, and aim them: that's what you met. Something with every capacity a person has and none of the restraint. Which is why it looks *more* than human, not less. That's why every tradition drew it with a face. It was doing a face. It was wearing one.
 
-And if it's a costume, you'd expect to recognize it on more than one person. Check whether you do. Two people, years apart, nothing in common—and the same thing looking out. Not a similar personality. The same flavor, the same weight, arriving with a sense of _oh, this again._ People say "he had that look" and nobody asks which look. For some readers that's a mild familiarity; for a few it's the most unsettling thing they've ever experienced. I don't know how common the strong version is. But if what you're recognizing were a property of individuals, there'd be nothing there to recognize twice.
+And if it's a costume, you'd expect to recognize it on more than one person. Check whether you do. Two people, years apart, nothing in common—and the same thing looking out. Not a similar personality. The same flavor, the same weight, arriving with a sense of *oh, this again.* People say "he had that look" and nobody asks which look. For some readers that's a mild familiarity; for a few it's the most unsettling thing they've ever experienced. I don't know how common the strong version is. But if what you're recognizing were a property of individuals, there'd be nothing there to recognize twice.
 
 So this is what you have to hold, and it takes both hands. It isn't real, and it has to be fought. Decide it's a real essence and you'll fight the person, which is contempt, and you've read what that does. Decide it's harmless because it's an absence and you'll do nothing while it eats, and you'll call your nothing compassion. Both hand it the win. What's true is stranger than either: a nothing that must be fought like a something, without ever being mistaken for a something.
 
@@ -1309,7 +1590,7 @@ That's why the medicine could show me what it showed me. It held me in something
 
 # Part E: What I believe
 
-_This part is different in kind from the four before it. It's how I've come to hold all of this. You can't check it the way you checked the earlier parts, and nothing practical in the book depends on it. Part F stands on its own._
+*This part is different in kind from the four before it. It's how I've come to hold all of this. You can't check it the way you checked the earlier parts, and nothing practical in the book depends on it. Part F stands on its own.*
 
 ## 14. What remains
 
@@ -1327,7 +1608,7 @@ And just as the parasite in me handshakes with the parasite in you, so does this
 
 I saw this from both sides in the experience I described in Chapter 2. I was shown myself drifting, further and further from the thing I'm describing, trusting the counterfeit more with every step. And I was shown how the people around me responded: most grew more contemptuous the further I went, exactly as I'd done in their shoes. But a handful never did. They made it completely clear that what I was doing was unacceptable and that they'd stop it, and equally clear that they would not hand me over. They weren't refusing to let me misbehave. They were refusing to let the parasite have me. That's the difference the book is about.
 
-You have already had moments of this yourself. Moments you helped when nobody knew. Moments you confronted someone fiercely while seeing them as confused rather than evil. Moments you knew—not thought, _knew_—that something was right, and it cost you, and you did it anyway. The book will ask you to recall them and to notice that they felt different from everything else. That difference is the only one that matters.
+You have already had moments of this yourself. Moments you helped when nobody knew. Moments you confronted someone fiercely while seeing them as confused rather than evil. Moments you knew—not thought, *knew*—that something was right, and it cost you, and you did it anyway. The book will ask you to recall them and to notice that they felt different from everything else. That difference is the only one that matters.
 
 ---
 
@@ -1343,13 +1624,13 @@ So here is the step past what the opening said. There, I told you that billions 
 
 That's less strange than it sounds. If there really were eight billion separate darknesses, a locker room falling into step would be a small miracle, and you'd expect it to take some doing. It takes none. And there's a plain reason: there's only one thing being turned away from. The same faculty is in every one of us; it's the one that recognized itself in the stranger's eyes. So there's only one way to turn away from it. Every shadow in a valley points away from the same sun. Nobody coordinates the shadows. They're one absence in many places, each cast by the same light, which is why they line up. That's the sense in which "the Devil" is one. And it's the sense in which the parasite is nothing: there is no creature. There's a hole where the light should reach, and it's the same hole everywhere.
 
-Which leads to the other half, about the light. There is one thing, looking at itself through countless eyes, pretending it isn't. When you look at "others," you are looking at yourself. The nondual traditions have said this for a very long time, and their argument is simpler than people expect: try to find anything that would tell two consciousnesses apart. Not two bodies, not two sets of memories—two _awarenesses_. There's nothing there to use. Everything you could point to is content, and awareness is what the content appears in. Two of them would have nothing in them to differ by, which is the same reason two turnings-away have nothing to differ by. I can't show you that this follows from anything above. I can tell you that you've tasted it: when you felt gratitude toward someone who helped strangers you'll never meet, or gave to something that could never benefit you. When a story about being every person who ever lived landed somewhere real.
+Which leads to the other half, about the light. There is one thing, looking at itself through countless eyes, pretending it isn't. When you look at "others," you are looking at yourself. The nondual traditions have said this for a very long time, and their argument is simpler than people expect: try to find anything that would tell two consciousnesses apart. Not two bodies, not two sets of memories—two *awarenesses*. There's nothing there to use. Everything you could point to is content, and awareness is what the content appears in. Two of them would have nothing in them to differ by, which is the same reason two turnings-away have nothing to differ by. I can't show you that this follows from anything above. I can tell you that you've tasted it: when you felt gratitude toward someone who helped strangers you'll never meet, or gave to something that could never benefit you. When a story about being every person who ever lived landed somewhere real.
 
-One piece of evidence, with its objection attached. Roy Baumeister took single incidents and collected two accounts of each: one from the person who did it, one from the person it was done to. The accounts differ in the same directions every time—how long it went on, who provoked whom, how bad it was. In ordinary people, not liars. Both are honestly reporting a world, and the worlds don't match. The objection: Baumeister could only show that because there was a fact of the matter to check against, so there _is_ a shared world, and I won't pretend otherwise. What I think is narrower. There's a shared world and there is no shared _seeing_ of it, and we act as though the second follows from the first—so anyone who reports seeing differently must be lying or defective. That assumption is what turns a difference in seeing into a verdict about a person. Most of what we call irreconcilable is that.
+One piece of evidence, with its objection attached. Roy Baumeister took single incidents and collected two accounts of each: one from the person who did it, one from the person it was done to. The accounts differ in the same directions every time—how long it went on, who provoked whom, how bad it was. In ordinary people, not liars. Both are honestly reporting a world, and the worlds don't match. The objection: Baumeister could only show that because there was a fact of the matter to check against, so there *is* a shared world, and I won't pretend otherwise. What I think is narrower. There's a shared world and there is no shared *seeing* of it, and we act as though the second follows from the first—so anyone who reports seeing differently must be lying or defective. That assumption is what turns a difference in seeing into a verdict about a person. Most of what we call irreconcilable is that.
 
-And I think this is also what conscience is. It's why you know something is wrong without being able to say what's wrong, and why the knowing never budged when you argued with it. The turning-away leaks into the world because you are the world, and it has nowhere else to go. That's why calling it "unconscious"—tucking it away, out of the universe's sight—never quite convinced you. There's nowhere to tuck it. The world can see it because you can see it, because you _are_ it. In the experience from Chapter 2, the idea that I could hide anything at all was seen to be ridiculous. So why bother trying?
+And I think this is also what conscience is. It's why you know something is wrong without being able to say what's wrong, and why the knowing never budged when you argued with it. The turning-away leaks into the world because you are the world, and it has nowhere else to go. That's why calling it "unconscious"—tucking it away, out of the universe's sight—never quite convinced you. There's nowhere to tuck it. The world can see it because you can see it, because you *are* it. In the experience from Chapter 2, the idea that I could hide anything at all was seen to be ridiculous. So why bother trying?
 
-This is where the fear from section 13 comes from. The whole thing begins with a fear that makes no sense: the fear of having left what you are. Of having separated from God, Love, the Source—whatever you want to call it. Having lost apparent contact with absolute goodness, you go looking for it in the relative, which in practice means finding someone worse than you. Contempt is the search for your own goodness in the wrong place. That's why it never satisfies and always needs one more. The clearest statement of this I've found is Kenneth Wapnick's reading of _A Course in Miracles_: the ego is nothing but the belief in separation, and its one strategy is to keep the guilt "out there." I got here by a different road. I'll say where the roads meet.
+This is where the fear from section 13 comes from. The whole thing begins with a fear that makes no sense: the fear of having left what you are. Of having separated from God, Love, the Source—whatever you want to call it. Having lost apparent contact with absolute goodness, you go looking for it in the relative, which in practice means finding someone worse than you. Contempt is the search for your own goodness in the wrong place. That's why it never satisfies and always needs one more. The clearest statement of this I've found is Kenneth Wapnick's reading of *A Course in Miracles*: the ego is nothing but the belief in separation, and its one strategy is to keep the guilt "out there." I got here by a different road. I'll say where the roads meet.
 
 If any of that is true, a few things follow, and they're the things that decide how you live.
 
@@ -1357,9 +1638,9 @@ You cannot pull a fast one over the world, because you are the world. Every act 
 
 Here is the sharpest form of the claim, and the one that makes it metaphysics rather than sociology. Sealed room. Nobody watching, nobody ever told, no consequences of any kind. You crush an insect, not by accident, but for the small pleasure of it. On any account where this spreads by being witnessed and copied, nothing happened.
 
-I don't think nothing happened. I think it propagates anyway—not through a channel I'm failing to name, but because there is nowhere for it to go that isn't already you and already everything. That is unfalsifiable and I'm marking it as mine. What I'll say for it is that you have a reaction to the sealed room, and the reaction isn't neutral. We've all done the version nobody saw. It didn't feel like nothing, and the explanation that it _should_ have felt like nothing has never once convinced the part of you that was there.
+I don't think nothing happened. I think it propagates anyway—not through a channel I'm failing to name, but because there is nowhere for it to go that isn't already you and already everything. That is unfalsifiable and I'm marking it as mine. What I'll say for it is that you have a reaction to the sealed room, and the reaction isn't neutral. We've all done the version nobody saw. It didn't feel like nothing, and the explanation that it *should* have felt like nothing has never once convinced the part of you that was there.
 
-Everything you do makes a difference, through networks of cause your conscious mind can't trace, nudging things toward remembering or toward forgetting. This is why what you do when nobody is watching doesn't fail to matter. Your private integrity bolsters the resolve of strangers you'll never meet, at the moment they're about to break. I can't prove that. I'm reporting it as the thing that, if it's true, makes it worth staying committed to your light at literally any cost. Not to your _idea_ of the light, which is always contaminated. To the thing itself.
+Everything you do makes a difference, through networks of cause your conscious mind can't trace, nudging things toward remembering or toward forgetting. This is why what you do when nobody is watching doesn't fail to matter. Your private integrity bolsters the resolve of strangers you'll never meet, at the moment they're about to break. I can't prove that. I'm reporting it as the thing that, if it's true, makes it worth staying committed to your light at literally any cost. Not to your *idea* of the light, which is always contaminated. To the thing itself.
 
 That's also the definition of good I'll be working with: whatever brings us closer to remembering what we are. Evil is whatever pushes us further from it. Which is why the greatest gift you can give the world is your own seeing. Until then, some part of you is reinforcing what you're fighting. That's not a moral failing. It's just how it works.
 
@@ -1367,46 +1648,67 @@ That's also the definition of good I'll be working with: whatever brings us clos
 
 ## 16. A note for contemplatives
 
-_Skip this if the words below mean nothing to you; nothing later depends on it. I'm including it because some of my early readers practice in these traditions, and because I want to be clear about which parts of this book are borrowed and which are mine._
+*Skip this if the words below mean nothing to you; nothing later depends on it. I'm including it because some of my early readers practice in these traditions, and because I want to be clear about which parts of this book are borrowed and which are mine.*
 
 Anyone who has done Dzogchen or Mahamudra practice will have recognized the architecture several sections ago. I want to name the correspondences, since it costs nothing and since pretending to have invented them would be its own small act of hiding.
 
-What I've been calling the turning-away is _marigpa_, which is not a thing and not an act—the word means non-recognition. What I've called the parasite having no substance of its own is the standard position that afflictions arise as display, with no independent existence. What I've called "it isn't what you are" is the teaching that the obscurations are adventitious: they never touch the nature they obscure. And what I've called "you can't decide to look, but you can train how fast you catch it" is non-fabrication plus familiarization—the recognition can't be manufactured, and the path is repeated recognition rather than repair.
+What I've been calling the turning-away is *marigpa*, which is not a thing and not an act—the word means non-recognition. What I've called the parasite having no substance of its own is the standard position that afflictions arise as display, with no independent existence. What I've called "it isn't what you are" is the teaching that the obscurations are adventitious: they never touch the nature they obscure. And what I've called "you can't decide to look, but you can train how fast you catch it" is non-fabrication plus familiarization—the recognition can't be manufactured, and the path is repeated recognition rather than repair.
 
 Two of these are more than parallels.
 
 The first is that this tradition already answers the question I've been circling: how does a turned mind turn itself? It doesn't. Recognition isn't produced by thinking; it's introduced, by someone who is in it, in a way that isn't an argument. That's called pointing-out instruction. It is also, exactly, what the second stranger did to you. He didn't put anything into you and he didn't win a debate. He made recognition possible and it happened by itself. If that move seemed too slight to be the whole answer, there's a twelve-hundred-year-old body of technique built on the claim that it's the only thing that works.
 
-The second is the Aspiration Prayer of Samantabhadra, which answers the question I flagged as unanswerable. One ground; from it, appearances arise; Samantabhadra recognizes them as his own display and is free in that instant; beings don't recognize, and wander. Same ground, same arising. And the not-recognizing is not a rebellion or a sin or a choice. It's described as a momentary blankness, with no motive given—and, crucially, the sense of self and other arises _after_ it, not before. There was no one there yet to want anything. That is the answer to the regress I got stuck on: the first turning-away doesn't need a cause, because it was never an act.
+The second is the Aspiration Prayer of Samantabhadra, which answers the question I flagged as unanswerable. One ground; from it, appearances arise; Samantabhadra recognizes them as his own display and is free in that instant; beings don't recognize, and wander. Same ground, same arising. And the not-recognizing is not a rebellion or a sin or a choice. It's described as a momentary blankness, with no motive given—and the sense of self and other arises *after* it, not before. There was no one there yet to want anything. That is the answer to the regress I got stuck on: the first turning-away doesn't need a cause, because it was never an act.
 
 You'll have noticed that this sits differently from the fear I described in section 15, where the turning begins with the fear of having left home. I hold both, in this order: the blank comes first, and the fear is what the blank feels like once there's someone there to feel it. Projection—making the other one guilty—is the first thing that someone does. On that reading the fear isn't the cause of the first not-seeing; it's the first content of the self that not-seeing produced. If that's wrong, the mistake is mine and not the traditions'.
 
 Where I go beyond what these traditions say, and you should hold it as mine: they don't claim that non-recognition coordinates across minds. That's the whole middle of this book, and it isn't in them.
 
-And one caution, mostly for me. The easiest way to misread non-fabrication is as _nothing to do_. That reading is available in every one of these correspondences, and it produces the second half of the paradox—the complicity half—in a form that feels like attainment. Whatever else this book is, it isn't permission.
+And one caution, mostly for me. The easiest way to misread non-fabrication is as *nothing to do*. That reading is available in every one of these correspondences, and it produces the second half of the paradox—the complicity half—in a form that feels like attainment. Whatever else this book is, it isn't permission.
 
 ---
 
 # Part F
 
-## 17. What this book is for
+## 17. One idea, four sides
 
-The mutual knowing in the first stranger's gaze was common knowledge that was never said out loud. That's what let it work. Say it aloud, in public, and the pretense fails. Not because anyone learns anything new, but because now everyone can see that everyone sees.
+Everything in this book has been one idea from different sides, and I'd rather say so than have you assemble it yourself. Here it is with the sides named.
+
+**There is one move.** Turning away from what you know, and from the person in front of you. It's a single act, not two: you can't do the second without the first.
+
+**Everything we call wrongdoing is made of it.** Not accompanied by it. Made of it. Take the turning away out and there's nothing left over that was the wrong part.
+
+**Contempt is that move in its purest form.** Which is why this book is named for it.
+
+**So the only thing that doesn't feed the trap is turning toward.** Yours, first. Things done from turned-away sometimes help. What they can't do is stop enacting the relation they're aimed at ending.
+
+The first and third you saw in Chapter 1 and the interlude. The second I've argued through Parts A to C, and the sadist in section 10 is where it could still fail. The fourth is what Part D exists to earn, and whether it earned it is yours to say, not mine.
+
+Hold onto what it does to the vocabulary. If that's right, then turning toward and turning away aren't just related to right and wrong, help and harm, good and evil. They're what those words have been pointing at the whole time. Section 9 made that identification about the hardest word. This is the rest of it.
+
+---
+
+## 18. What this book is for
+
+The mutual knowing in the first stranger's gaze was known on both sides and said by neither. That's what let it work. Say it aloud, in public, and the pretense fails. Not because anyone learns anything new, but because now everyone can see that everyone sees.
 
 That's the bet this book is making. If it becomes ordinary, sayable knowledge that contempt is the thing—that this is what we've been calling evil—then contempt loses its cover. A thing that can be named can't do work that depended on being unnameable.
 
 I should be honest about the limit. The word "contempt" already exists, and its existence hasn't dissolved anything. What's unnameable isn't the word. It's the act itself, in the moment it's happening, named by the person it's happening to, in a way the other person can't wave off. That takes a shared understanding of what the act is, and that's what I'm trying to give you. And I'll predict something else: this idea will be used as a weapon. Someone will accuse someone of "doing the thing," with contempt. When that happens, it will carry the same tell it always has. You'll know.
 
-Nothing here asks you to soften what you see or pretend the harm isn't real. If anything you'll see more, and more clearly. The only thing being taken from you is the pleasure of certainty about what someone _is_. And I think, if you check, you'll find that it was never yours to begin with.
+Nothing here asks you to soften what you see or pretend the harm isn't real. If anything you'll see more, and more clearly. The only thing being taken from you is the pleasure of certainty about what someone *is*. And I think, if you check, you'll find that it was never yours to begin with.
 
-_When it is recognized, it is dissolved._
+*When it is recognized, it is dissolved.*
 
----
 
-NOTE: This appendix was written by Claude, with my guidance.
-# Appendix: The Recursion
+<!-- ===== manuscript/appendix-1-recursion.md ===== -->
 
-_For the reader who wants the machinery. Nothing in the book rests on this—the book rests on what you found when you looked. But if you noticed the shape of the thing and want it stated precisely, here it is. One metaphysical claim is held to the end and marked; nothing before it needs it. Sections are numbered, and I refer back to them as §1, §2, and so on._
+NOTE: This appendix was written by Claude, with my guidance. Redrafted 2026-09-04 after outside review. The common-knowledge machinery and the Gödel comparison are gone. What remains is structure you can check, not formalism.
+# Appendix 1: The Recursion
+
+_For the reader who wants the machinery. Nothing in the book rests on this; the book rests on what you found when you looked. But if you noticed the shape of the thing and want it laid out, here it is. One metaphysical claim is held to the end and marked; nothing before it needs it. I refer to sections as §1, §2, and so on._
+
+_A note on what this is not. An earlier draft presented the mutual knowing in Chapter 1 as common knowledge in the game theorist's sense, and compared the taunt to Gödel's sentence. Both were wrong, and a reader who knew the formal material would have been right to stop trusting the book there. What Chapter 1 shows is not formal common knowledge and not formal undecidability. It's a structure of recognition under deniability. That's what this appendix describes, and I've tried to claim nothing the structure doesn't give._
 
 ---
 
@@ -1416,59 +1718,58 @@ Everything below follows from a single structural fact, and it's one you verifie
 
 There's one faculty at work in everything Chapter 1 described, and it does one thing: it recognizes life. Call it **C**.
 
-That single perception has three faces, and the chapter used all three. It's what tells you something is wrong—because _wrong_, here, cashes out as _I'm harming something alive_, which you can only know by seeing that it is. It's what warns you when you're turning away—not as a separate monitor watching the shield, but because what you can still see is what you haven't managed to stop seeing. And it's what recognizes the same thing in someone else: you read a stranger's state in seconds, on no evidence, and weren't surprised to be read yourself.
+That single perception has three faces, and the chapter used all three. It's what tells you something is wrong, because _wrong_, here, cashes out as _I'm making myself an exception to something that holds for everyone_, which you can only know by seeing the everyone. It's what warns you when you're turning away, not as a separate monitor watching the shield, but because what you can still see is what you haven't managed to stop seeing. And it's what recognizes the same thing in someone else: you read a stranger's state in seconds, on no evidence, and weren't surprised to be read yourself.
 
-Notice what that third face involves. To see that something is alive isn't to observe a property, the way you'd note its weight. It's to recognize a _perceiver_. Which means that when two people see life in each other, each is seeing that the other sees—and seeing that they are seen. Not by inference. That's what the recognition consists of.
+Notice what that third face involves. To see that something is alive isn't to observe a property, the way you'd note its weight. It's to recognize a _perceiver_. Which means that when two people see life in each other, each is seeing that the other sees, and seeing that they are seen. Not by inference. That's what the recognition consists of.
 
 The organ you're looking with is the organ you're looking at.
 
-It's worth being exact about this, because the obvious objection turns on a confusion. C is not a moral rulebook and it doesn't issue verdicts. Someone will say consciences plainly differ: cultures disagree, people disagree, one era's obvious wrong is another's ordinary practice. All of that is true, and none of it is about C. What varies is the reasoning layer—the part that argues, that draws the boundary of who counts, that supplies the _just this once_. That's the other side of the split Chapter 1 opened with. C doesn't participate in it. Put a person in front of someone whose life they can actually see, and ask them to harm that person for pleasure, and you will not find cultural variation. You'll find the machinery of not-seeing, working hard.
+I should be exact here, because the obvious objection turns on a confusion. C is not a moral rulebook and it doesn't issue verdicts. Someone will say consciences plainly differ: cultures disagree, people disagree, one era's obvious wrong is another's ordinary practice. All of that is true, and none of it is about C. What varies is the reasoning layer, the part that argues, that draws the boundary of who counts, that supplies the _just this once_. That's the other side of the split Chapter 1 opened with. C doesn't participate in it. Put a person in front of someone whose life they can actually see, and ask them to harm that person for pleasure, and I don't think you'll find cultural variation. You'll find the machinery of not-seeing, working hard.
 
-Here is the only assumption I need: **C is the same kind of faculty in every person.** In the way your visual system and mine are the same system, so that what one of us can see, the other can see. Same equipment—that's all. Whether it's also literally one thing, appearing in each of us, is the metaphysical question, and I'll get to it last. Whenever I say "because C is shared" below, I mean only same-kind.
+The interlude gave "actually see" three checks, and they carry through here: their objection would land on you; their hurt would register as bad, the way yours does; what's in them could change what you do. Those three are what C's third face consists of when it's working. When any of them is off, C is being turned away from, whatever else is being perceived.
 
-Two words I'll use throughout, because the structure has two different kinds of level and it's easy to confuse them. A **depth** is a level of mutual knowing: I know it; I know you know it; I know you know I know it; and so on. A **rung** is a distinct piece of content that gets known: that we're equal; that he's pretending; that it harms you; and so on. §2 is about depths. §3 is about rungs. §4 brings his denial in at every depth.
+Here is the only assumption I need: **C is the same kind of faculty in every person.** In the way your visual system and mine are the same system, so that what one of us can see, the other can see. Same equipment. Whether it's also literally one thing, appearing in each of us, is the metaphysical question, and I'll get to it last. Whenever I say "because C is shared" below, I mean only same-kind.
+
+And here is what that assumption does not give, because the earlier draft claimed it did. Same equipment does not tell me that your C is operating the same way mine is, right now, on this, at every depth. I can't verify that, and neither can you. So nothing below gets to say "everyone knows that everyone knows." What it gets to say is smaller: that when C recognizes C, it recognizes a recognizer, and that neither party can prove it happened. The smaller claim turns out to be the one that does the work.
+
+Two words I'll use throughout, because the structure has two different kinds of level and it's easy to confuse them. A **depth** is a level of mutual recognition: I see it; I see that you see it; I see that you see that I see it; and so on. A **rung** is a distinct piece of content that gets recognized: that we're equal; that he's pretending; that it harms you; and so on. §2 is about depths. §3 is about rungs. §4 brings his denial in at every depth.
 
 Everything below is that one assumption unpacked, in this order:
 
-- **§2**—why the infinite mutual knowing costs nothing to build, and why the harm can't be located at any depth of it.
-- **§3**—what, specifically, is mutually known: the rungs.
-- **§4**—why his hiding and his showing turn out to be the same act.
-- **§5**—why the harm can't be named, and why naming it wouldn't help.
-- **§6**—why it spreads to you.
-- **§7**—three things that fall out of all this.
+- **§2**: what the mutual recognition is, why it isn't common knowledge, and why the harm can't be located at any depth of it.
+- **§3**: what, specifically, is recognized: the rungs.
+- **§4**: why his hiding and his showing turn out to be the same act.
+- **§5**: why the harm can't be named in the moment, and why the names that exist don't help there.
+- **§6**: why it spreads to you.
+- **§7**: three things that fall out of all this.
 
-If you only want the shape: shared equipment makes an infinite tower free (§2–3), which makes concealment self-defeating (§4), which makes the harm unprovable (§5), which makes it contagious (§6).
+If you only want the shape: shared equipment makes recognition recursive (§2–3), which makes concealment self-defeating (§4), which makes the harm unnameable in the moment (§5), which makes it contagious (§6).
 
-## 2. Why the mutual knowing costs nothing
+## 2. Recursive recognition, and why it isn't common knowledge
 
-Game theorists call something _common knowledge_ when everyone knows it, everyone knows that everyone knows it, and so on without end. Normally that tower has to be built by a public event: a trusted party says the thing aloud where everyone can see everyone hear it. (The child in _The Emperor's New Clothes_ isn't giving anyone information. Everyone already knew. He's making it common knowledge.)
+Game theorists call something _common knowledge_ when everyone knows it, everyone knows that everyone knows it, and so on without end. It normally takes a public event to build: a trusted party says the thing aloud where everyone can see everyone hear it. The child in _The Emperor's New Clothes_ adds no information. Everyone already knew. He makes it common knowledge.
 
-In the contempt encounter nobody says anything and nobody is trusted, and yet the whole tower is present in a glance. How?
+Nothing like that happens in the contempt encounter. Nobody says anything, nobody is trusted, and nothing becomes established. So it isn't common knowledge, and the earlier draft was wrong to call it that. For A to know that B knows something, A would have to know that B's faculty is working, on this, the same way A's is; and that B knows the same of A; and so on. None of that is available to anyone. That isn't a gap in the account. It's the condition the whole thing runs under.
 
-§1 already gave the answer, though it's worth watching it work. Because what C recognizes is a perceiver, recognizing at all _is_ mutual recognition—there's no extra premise needed about C knowing it's shared. So take any fact that C knows about its own operation, and call it φ. Then:
+What happens instead is this. C recognizes a perceiver. So when your C reads his state, what it reads is a faculty of the same kind, turned away. And his, turned away, can still register being read, because what he can still see is what he hasn't managed to stop seeing. So there's a second depth: he registers your registering. And a third, if either of you goes there. Each depth is the same act, C recognizing C, and no depth adds content the first didn't have. Climb as far as the encounter takes you, and no depth is different from the one above it.
 
-- A knows φ. (C knows itself.)
-- A knows that B knows φ. (A knows B has C, and C knows φ.)
-- A knows that B knows that A knows φ. (Same step again.)
-- …and so on, at every depth.
+That's recursion. It isn't a tower of established facts, because none of the depths can be checked from outside, and each of you can deny every one of them. **Recursive mutual recognition under deniability.** That's the exact name for what Chapter 1 showed, and it's the name I'll use from here.
 
-Look at what happens at each depth. It's the same step every time: C recognizing C. Nothing is learned at depth two that wasn't already in depth one. If you know φ, and knowing φ is done by an organ that recognizes its own kind in the other, then you already know that they know φ—and that they know _that_. The first step contains every step. That's what "fixed point" means here: a state of knowledge that already includes knowledge of itself, reached in one move rather than assembled over infinitely many. **Because the organ is the object, the first depth contains the whole tower.**
+That also settles something which otherwise looks like a puzzle: where in this the harm actually is.
 
-That also settles something which otherwise looks like a puzzle: where in this tower the harm actually is.
+Go looking for it. Is the injury in his accusation? The accusation was defensible. In the lie behind the accusation? He doesn't experience himself as lying. In his hiding of the lie? In your seeing him hide it? In his seeing you see it? In his hiding _that_?
 
-Go looking for it. Is the injury in his accusation? The accusation was defensible. In the lie behind the accusation? He doesn't experience himself as lying. In his hiding of the lie? In your seeing him hide it? In his seeing you see it? In his hiding _that_?…
+That reads like a chain of separate events, each one further from the original offense. But check what each link actually contains. His hiding of the lie is: he's turned away from C, and you can see it. Your seeing him hide it is: he's turned away from C, and you can see it. His hiding _that_ is: he's turned away from C, and you can see it. Every depth has the same content, because every depth is the same act. So there is no floor. Ordinary recursion bottoms out; factorial descends to 1 and stops, and the base case is simpler than what sits above it. This one hands you the whole structure again at every depth, which means there is no simple offense down there that the rest is decoration on.
 
-That reads like a chain of separate events, each one further from the original offense. But check what each link actually contains. His hiding of the lie is: he's turned away from C, and you can see it. Your seeing him hide it is: he's turned away from C, and you can see it. His hiding _that_ is: he's turned away from C, and you can see it. Every depth has the same content, because every depth is the same step. So there is no floor. Ordinary recursion bottoms out—factorial descends to 1 and stops, and the base case is simpler than what sits above it. This one hands you the whole structure again at every depth, which means there is no simple offense down there that the rest is decoration on.
+Two things get run together here. There are the _facts about what happened_: he's turned away, you can see it, he can see you seeing it, and so on. Each of those is a candidate you could in principle point at. And there's a second thing, which isn't another item on that list: **that none of them can be verified from outside.** That's not a fact at some particular depth. It's the condition every depth is under.
 
-It's worth separating two things here, because they're easy to run together. There are the _facts about what happened_—he's turned away, you can see it, he can see you seeing it, and so on. Each of those is a candidate you could in principle point at. And there's a second thing, which isn't another item on that list: **that none of them can be verified from outside.** That's not a fact at some particular depth. It's the condition every depth is under.
+Which is why the descent finds no floor. Each new candidate you turn up is another fact about what happened, and inherits the same deniability as the last. There's no depth at which you break through into something checkable, because checkability was never a feature of any depth.
 
-Which is why the descent can't terminate. Each new candidate you turn up is another fact about what happened, and inherits the same status as the last. There's no depth at which you break through into something checkable, because checkability was never a feature of any depth.
+Which is why a mind that goes looking for the offense doesn't come back with anything. Each place you look hands you the next place to look, and none of them is the one. That's the hall of mirrors.
 
-Which is why a mind that goes looking for the offense doesn't come back with anything. That isn't a metaphor for confusion. It's what a search that never terminates feels like from the inside. In a computer it's called a stack overflow. In a person it's the hall of mirrors.
+## 3. What is recognized
 
-## 3. What is mutually known
-
-§2 said that any fact C knows about itself is common knowledge. So what does C know about itself? Here are the rungs this particular encounter runs through, in order:
+§2 said that what C recognizes about itself, it recognizes in the other. So what does C recognize about itself? Here are the rungs this particular encounter runs through, in order:
 
 - **Equality.** There is nothing morally superior about any bearer of C. That falls out of what C sees: a perceiver, of the same kind, looking back.
 - **Pretense.** When a bearer acts superior, C knows it's pretending. You can only turn away from something you have.
@@ -1477,71 +1778,71 @@ Which is why a mind that goes looking for the offense doesn't come back with any
 - **Inexpressibility.** None of this leaves a record. C doesn't testify, and no other faculty saw it.
 - …
 
-The list doesn't close. These are the rungs this encounter happens to climb; another encounter would climb others. What keeps the set open is that anything following from a shared fact is shared too. Everyone runs the same moral logic on it, so nobody has to be told the consequences. The derived facts come free—that the turning away is a lie, that it causes harm, that it can't be proven, that the unprovability can be used against you.
+The list doesn't close. These are the rungs this encounter happens to climb; another encounter would climb others. What keeps the set open is that anyone who has made the move knows what follows from it. You don't need to be told that the turning away is a lie, that it lands as harm, that it can't be proven, that the unprovability can be used against you. You learned all of that the first time you did it. That isn't common knowledge either. It's shared experience, and shared experience is enough.
 
-Lay the two out together and you get a grid: five rungs or more, each one known at three depths—I know it; we both know it; everyone knows everyone knows. That whole grid is what fits in a look. By §2, the three depths of every rung are one step, so the whole grid is present the moment any of it is.
+Lay the two out together and you get a grid: five rungs or more, each recognized at whatever depth the two of you reach. That grid is what fits in a look. By §2, every depth of every rung is the same act, so the whole grid is present the moment any of it is.
 
 ## 4. Why the hiding is the showing
 
 Now bring in his denial.
 
-At the first depth, he hides what he's doing. But you see it—so now there's a second thing to hide: that you're seeing it. Which you also see. So he hides that. Each depth of denial takes the depth below it as its object: his denial at any depth is the hiding of what is mutually known one depth down. (Compressed: with D(n) his denial at depth _n_ and K(n) the mutual knowledge there, D(n+1) = hide(K(n)).)
+At the first depth, he hides what he's doing. But you see it, so now there's a second thing to hide: that you're seeing it. Which you also see. So he hides that. Each depth of denial takes the depth below it as its object: his denial at any depth is the hiding of what was recognized one depth down.
 
-But §2 established that K(n) has the same content at every depth. So although the denials appear to stack, they all have the same object. It isn't a tower of hidings. It's one hiding, performed again and again.
+But §2 established that what's recognized has the same content at every depth. So although the denials appear to stack, they all have the same object. It isn't a tower of hidings. It's one hiding, performed again and again.
 
-Here is why that one hiding is also what you see, spelled out in four steps.
+Here is why that one hiding is also what you see, in four steps.
 
 He turns away from C. That's the hiding.
 
-C notices—that's the second face, and remember it isn't a separate monitor: what he can still see is what he hasn't managed to stop seeing. But that residue is exactly what he's turned away from, so it never reaches him. From inside, nothing has happened.
+C notices. That's the second face, and remember it isn't a separate monitor: what he can still see is what he hasn't managed to stop seeing. But that residue is exactly what he's turned away from, so it never reaches him. From inside, nothing has happened.
 
 Turning away has a look. Chapter 1 called it the tell: someone absent from the part of themselves that would have seen you.
 
-Your C reads that look—the third face. Instantly, because it's reading its own kind in someone else.
+Your C reads that look. That's the third face. Instantly, because it's reading its own kind in someone else.
 
 So the act that keeps it from him is the act that displays it to you. There is no separate leak. He doesn't hide it and then let it slip; the hiding _is_ the slip, because what he's hiding from is the faculty that would have seen it, and that faculty is standing in front of him in another body.
 
 The shortest way to say it: **the signal is the pretense that there is no signal.** It doesn't carry a message and then conceal it. The concealment of the message is the message.
 
-## 5. Why the harm can't be named
+## 5. Why it can't be named in the moment
 
-Gödel built a sentence **G** that says, in effect, "G cannot be proven." It's true—and true _because_ it can't be proven; a proof would make it false. The construction is general: for any property P, there's a sentence saying "I have P." (That's the diagonal lemma.) Self-reference, plus a property that refers to the sentence's own provability.
+Now the taunt. Here it is in longhand, from his side:
 
-The taunt has this shape with P = _unprovable harm_. In longhand, from his side:
+> _I'm teaching you to overlook what you know in favor of what you can prove, by overlooking what I know in favor of what I can prove, which is something you know but cannot prove. Which is what teaches you to overlook it._
 
-> _I'm teaching you to overlook what you know in favor of what you can prove, by overlooking what I know in favor of what I can prove—which is something you know but cannot prove. Which is what teaches you to overlook it._
-
-Four clauses, and none of them is spare. The first is the **lesson**: demote your knowing. The second is the **method**: he demotes his, leaning on the fact that only provable things count—so the demonstration isn't an illustration of the lesson, it _is_ the lesson, performed. The third is the **reception**: it reaches you through the very faculty it devalues, so to receive it at all you have to trust something unprovable. And the fourth is the **effect**—which is not the first clause restated. The first names an intention; the fourth names the mechanism by which the intention succeeds, and it succeeds _because_ of the third. Being held in the position of knowing-without-proof is what does the teaching. The sentence closes on itself, but causally rather than verbally.
+Four clauses, and none of them is spare. The first is the **lesson**: demote your knowing. The second is the **method**: he demotes his, leaning on the fact that only provable things count, so the demonstration isn't an illustration of the lesson, it _is_ the lesson, performed. The third is the **reception**: it reaches you through the very faculty it devalues, so to receive it at all you have to trust something unprovable. And the fourth is the **effect**, which is not the first clause restated. The first names an intention; the fourth names the mechanism by which the intention succeeds, and it succeeds _because_ of the third. Being held in the position of knowing-without-proof is what does the teaching. The sentence closes on itself, but causally rather than verbally.
 
 Compressed to its shape:
 
 > **H** = being made to know, with no recourse and no proof, that H is being done to you.
 
-Circular on purpose. If the harm had any other content—a slur, a shove, a lie you could catch—you'd have something to point to. This is a second, stronger reason for the unlocatability in §2. There, no depth of the tower was privileged. Here, there's no part of the act that isn't about itself.
+An earlier draft compared this to Gödel's sentence, which asserts its own unprovability. The comparison was decorative and I've dropped it. Nothing here is formal undecidability. H is a structure you can feel, not a theorem. What the compression is for is to show that the harm has no content other than its own delivery. If it had any other content, a slur, a shove, a lie you could catch, you'd have something to point to.
 
-But it isn't empty, the way _this sentence is false_ is empty. H has an independent effect. Being held in that state teaches you that clear knowing counts for nothing, so you demote the faculty that knew and promote the one that can prove. That's a real injury with real consequences—it's what the second half of Chapter 1 traces. What the self-reference adds is that the delivery isn't a _report_ of the harm. Being made to know, under these conditions, that you're being harmed in a way you can't prove—that is the unprovable harm. The message is an instance of what it describes.
+So can it be named? Approximately, yes, and I should say so plainly, because the earlier draft implied otherwise. Hostile metacommunication. A double bind. Deniable provocation. Gaslighting. Contemptuous implication. Each of those catches a piece, and a reader who has met the thing will recognize it in every one of them. What can't be done is narrower, and it's the part that matters: the target can't name it in the moment, to the person doing it, in a way that sticks. Every name is auditable, and the act isn't. Say _you're being contemptuous_ and you've made a claim about tone, which he can deny, and now you're the one making things unpleasant. The names exist. What doesn't exist is a name that survives being said to his face.
 
-And it's self-sealing in a way G is not. Your only evidence for H was C's unprovable knowing. H's lesson is that unprovable knowing is worthless. So accepting the lesson erases your evidence that it was taught—you conclude you were being oversensitive, and the trap closes behind you.
+But H isn't empty, the way _this sentence is false_ is empty. It has an independent effect. Being held in that state teaches you that clear knowing counts for nothing, so you demote the faculty that knew and promote the one that can prove. That's a real injury with real consequences; it's what the second half of Chapter 1 traces. What the self-reference adds is that the delivery isn't a _report_ of the harm. Being made to know, under these conditions, that you're being harmed in a way you can't prove: that is the unprovable harm. The message is an instance of what it describes.
 
-§2 and §5 are two fixed points that are really one fact. The knowledge is common because C is shared. The harm is unprovable because C is the only witness, and C doesn't testify. It's the same faculty either way—looked at from the side that knows, and from the side that would have to prove.
+And it's self-sealing. Your only evidence for H was C's unprovable knowing. H's lesson is that unprovable knowing is worthless. So accepting the lesson erases your evidence that it was taught. You conclude you were being oversensitive, and the trap closes behind you.
+
+§2 and §5 are one fact seen from two sides. The recognition is mutual because C is shared. The harm is unprovable because C is the only witness, and C doesn't testify. Same faculty, looked at from the side that knows and from the side that would have to prove.
 
 ## 6. Why it spreads to you
 
-Nothing new here—it's §5 again, watched from outside instead of inside. But it's worth its own section, because it's the part the chapter performs without ever naming.
+Nothing new here; it's §5 again, watched from outside instead of inside. It gets its own section because it's the part the chapter performs without ever naming.
 
-Because everyone has C, treating you as though you don't is false—and known to be false, at every depth. But it does something besides being false. It shows you a move: here is a bearer of C treating a bearer of C as other. And your C recognizes the move, because it's the one C makes itself, in limbo. Recognition makes it available. You now have a reason, and the look is yours to give.
+Because everyone has C, treating you as though you don't is false, and recognized as false at every depth. But it does something besides being false. It shows you a move: here is a bearer of C treating a bearer of C as other. And your C recognizes the move, because it's the one C makes itself, in limbo. Recognition makes it available. You now have a reason, and the look is yours to give.
 
-That reciprocation is not a side effect. It's what he needed. If you reciprocate, you look like what he said you were, and the verdict he needed becomes true on the evidence. His decision to see you as other induces the same seeing in you—and he wants it to, because your otherness is what keeps him other.
+That reciprocation is not a side effect. It's what he needed. If you reciprocate, you look like what he said you were, and the verdict he needed becomes true on the evidence. His decision to see you as other induces the same seeing in you, and he wants it to, because your otherness is what keeps him other.
 
-Notice the shape. The contagion was the point. Part of him knew that. That knowing is what he was showing you. The showing is what spread it. It's H again—a harm whose content is its own transmission—now running between two people instead of inside one.
+Notice the shape. The contagion was the point. Part of him knew that. That knowing is what he was showing you. The showing is what spread it. It's H again, a harm whose content is its own transmission, now running between two people instead of inside one.
 
 ## 7. Three things that fall out
 
-**The verdict has to reach "irredeemable."** What C detects in the target is the _presence_ of a conscience being evaded. What his conscious mind delivers is _absence_. So what he concludes is the exact opposite of what he saw—which tells you the dark part isn't seeing anything itself. It's editing: it keeps C's finding and deletes the half that carries the resemblance. And "bad" won't hold, because any verdict that leaves your C in the picture leaves the resemblance in the picture. So it escalates until there is nothing left to resemble.
+**The verdict has to reach "irredeemable."** What C detects in the target is the _presence_ of a conscience being evaded. What his conscious mind delivers is _absence_. So what he concludes is the exact opposite of what he saw, which tells you the dark part isn't seeing anything itself. It's editing: it keeps C's finding and deletes the half that carries the resemblance. And "bad" won't hold, because any verdict that leaves your C in the picture leaves the resemblance in the picture. So it escalates until there is nothing left to resemble.
 
 **The loop has no interior stopping point.** Each act of suppression is something new for C to register, and each new registering has to be answered. The only answer available is a worse you. So it can only go one direction, and it can't settle anywhere short of a target with no conscience at all. Dehumanization isn't an excess of the process. It is its limit.
 
-**This book is the announcement.** The tower in §2 was built without one, which makes it _implicit_ common knowledge—and that predicts something. Say the thing aloud, in public, and the pretense stops working, because now everyone can see that everyone sees. Nobody learns anything they didn't already know. What changes is only that it's now been said. In plain terms: if it becomes explicit, public common knowledge that contempt is the thing—that this is what we've been calling evil—then contempt loses its cover. It becomes something that can be named. And a thing that can be named can't do its work, because its work was being unnameable. That is what this book is for, and the epigraph is the prediction stated in advance: _when it is recognized, it is dissolved._
+**This book is the announcement.** If the recognition runs on deniability, then what removes its cover is a shared, sayable name for the act. Not the word "contempt," which exists and has dissolved nothing. A shared understanding of the specific move, exact enough that the target can name it in the moment and be understood by everyone in the room. That's a prediction, and it can fail: give a population that understanding and the deniable channel should narrow. The word "gaslighting" is the precedent. It became common currency, it did change what people could name in the moment, and within a few years it was also being used as a contemptuous accusation. This book's concept will be too, and the weaponized version will carry the tell. The epigraph is the prediction stated in advance: _when it is recognized, it is dissolved._ I'd add: recognized by both people, at once, with nowhere left to put it.
 
 ---
 
@@ -1563,9 +1864,9 @@ Notice the shape. The contagion was the point. Part of him knew that. That knowi
 
 Now the claim I held back. Everything above needed only _same kind_. Here's what I actually think: that the kind has one member. That C is not merely the same equipment in each of us but one thing, looking out. That when two bearers of C regard each other, it is one thing looking at itself in another form. That what the traditions call light is what it's made of, and that the darkness is a privation: an absence organized into a function.
 
-**Can I show that this follows? No.** A shared evolved architecture for moral perception and mind-reading explains everything in §§1–7 without remainder. Two documents I've read argue otherwise—that the recursion's perfect connectivity _proves_ a shared field of awareness, since separate minds couldn't reflect each other with such precision. I find it beautiful and I don't think it holds. It mistakes _same kind_ for _same thing_. It may still be true that we are one; I think we are. But this road doesn't get there, and taking it would be exactly the move the book warns about: recognition dressed up as proof.
+**Can I show that this follows? No.** A shared evolved architecture for moral perception and mind-reading explains everything in §§1–7 without remainder. Two documents I've read argue otherwise: that the recursion's perfect connectivity _proves_ a shared field of awareness, since separate minds couldn't reflect each other with such precision. I find it beautiful and I don't think it holds. It mistakes _same kind_ for _same thing_. It may still be true that we are one; I think we are. But this road doesn't get there, and taking it would be exactly the move the book warns about: recognition dressed up as proof.
 
-What I'll say instead is that something odd happened on the way here. The mechanics were worked out with no theology in the room, and they landed on a darkness with no perception of its own—an editor, every one of whose materials is borrowed from the faculty it suppresses; a force whose entire operation is a turning-away, which is to say an absence, maintained. That is the shape the privation tradition has been describing since Augustine. I went looking for a mechanism and found an absence with a job to do.
+What I'll say instead is that something odd happened on the way here. The mechanics were worked out with no theology in the room, and they landed on a darkness with no perception of its own: an editor, every one of whose materials is borrowed from the faculty it suppresses; a force whose entire operation is a turning-away, which is to say an absence, maintained. That is the shape the privation tradition has been describing since Augustine. I went looking for a mechanism and found an absence with a job to do.
 
 Whether the absence in each of us opens onto the same darkness, and the light onto the same light, is the question the rest of this book lives inside. The chapters don't need the answer. And if you felt the recognition, you already have the only evidence I ever claimed to offer.
 
@@ -1573,16 +1874,95 @@ Whether the absence in each of us opens onto the same darkness, and the light on
 
 ## Where else to look
 
-**On the self-reference**—Gödel (1931); Hofstadter's _Gödel, Escher, Bach_ and _I Am a Strange Loop_ for the strange loop as a general form.
+**On what this is not.** Lewis, _Convention_ (1969); Aumann (1976). Formal common knowledge, which requires a public event and yields established fact. The encounter here yields neither. Read them to see the contrast, not the match.
 
-**On the tower**—Lewis, _Convention_ (1969); Aumann (1976); Schelling. Pinker, Nowak & Lee (2008), "The logic of indirect speech," on content conveyed _so as not to_ become common knowledge—the trap is an innuendo whose subject is itself.
+**On what it is.** Bateson et al. (1956) on the double bind: a demand, a contradicting demand at another level, and no way to comment on the contradiction. Pinker, Nowak & Lee (2008), "The logic of indirect speech," on content conveyed _so as not to_ become common knowledge; the trap is an innuendo whose subject is itself. Goffman on face-work, for the auditable surface the act hides behind.
 
-**On limbo**—Fingarette, _Self-Deception_ (1969): self-deception as declining to _spell out_ what you're doing. Sartre's bad faith; Mele as the deflationary rival.
+**On limbo.** Fingarette, _Self-Deception_ (1969): self-deception as declining to _spell out_ what you're doing. Sartre's bad faith; Mele as the deflationary rival. Kunda (1990) on motivated reasoning: the search stops at the wanted conclusion.
 
-**On the leak being functional**—Trivers; von Hippel & Trivers (2011); Kurzban (2010). Adjacent, with one inversion: here the leak is the payload.
+**On the leak being functional.** Trivers; von Hippel & Trivers (2011); Kurzban (2010). Adjacent, with one inversion: here the leak is the payload.
 
-**On the arrangement**—Girard on the scapegoat. Bandura, Haslam, Baumeister's _Evil_ (1997) for the exterior view of the license, the terminus, and the myth of pure evil.
+**On the two strangers, measured.** Tangney & Dearing, _Shame and Guilt_ (2002): "I did a bad thing" repairs, "I am bad" hides and attacks. Braithwaite, _Crime, Shame and Reintegration_ (1989): stigmatizing versus reintegrative shaming, with outcome data. Gilligan, _Violence_ (1996): shame as the universal precursor to violence.
 
-**On the shadow**—Jung.
+**On turning away as a perceptual event.** Harris & Fiske (2006): social-perception regions go quiet for dehumanized groups. Gray & Wegner on moral typecasting: seen as agent, unseen as sufferer. Bandura on moral disengagement, which catalogs limbo's toolkit.
 
-**On privation**—Augustine, _Enchiridion_.
+**On the arrangement.** Girard on the scapegoat. Baumeister, _Evil_ (1997), for the exterior view of the license, the terminus, and the myth of pure evil. Browning, _Ordinary Men_ (1992).
+
+**On the shadow.** Jung.
+
+**On privation.** Augustine, _Enchiridion_.
+
+
+<!-- ===== manuscript/appendix-2-what-others-have-seen.md ===== -->
+
+# Appendix 2: What Others Have Seen
+
+*Place late in the book. This is scholarship, not positioning, and it only reads that way once the reader can judge the comparisons for themselves.*
+
+---
+
+Most of what this book concludes is old. I want to say that plainly, because a reader who knows the territory will otherwise spend the whole book waiting for me to admit it.
+
+Evil as ignorance rather than a substance: Augustine, and the Buddhists, and half of Greek philosophy. Nobody knowingly chooses the bad while seeing it clearly: Socrates. We push what we can't stand about ourselves onto other people: Jung. Groups need their victims guilty: Girard. Attention is where the moral work happens: Murdoch. Terrible things get done by people who aren't monsters: Arendt.
+
+If those are the conclusions, I haven't discovered anything.
+
+What I think is new is smaller and lives underneath them: what actually passes between two people during a single act of contempt, and why that transaction reproduces itself. So the useful thing I can do here is go through the neighbours one at a time, say what each of them saw, and say exactly where each stops. The stopping places turn out to be interesting, because most of them stop in the same spot.
+
+---
+
+**Jung** got the disowning. We refuse a part of ourselves, and then we find it, vividly, in somebody else, and we hate it there with a heat that has nothing to do with them. Nothing in this book improves on that as a description of what's happening inside one person.
+
+Where it stops is on the other side of the exchange. Projection, in Jung, is something that happens in your psyche. It doesn't say what the person on the receiving end is doing, or how they know. And the thing I keep running into is that the person on the receiving end knows. Instantly, and without being told. That's not a fact about your unconscious. It's a fact about what got transmitted.
+
+**Girard** got the arrangement. The crowd needs its victim to be guilty; the violence is contagious; the peace afterward is real and is bought with somebody. He also saw that the participants cannot know what they're doing and have it still work, which is the same structural point I've been making about limbo, at the scale of a mob.
+
+Where it stops is the pair. Girard explains a crowd extremely well and two people in a parking lot hardly at all. And his scapegoat is more or less arbitrary; the crowd's finger could have landed anywhere. In what I'm describing, the target isn't arbitrary and isn't only selected. He's *produced*: provoked into supplying the evidence, so the verdict comes out true.
+
+**Arendt** got the not-looking, and named it better than I have. "Thoughtlessness" is exactly right, and her insistence that this needn't come with monstrous intent is what makes the whole subject approachable.
+
+But she treats thoughtlessness as an absence, a failure to do something. She doesn't ask what's *holding* it in place, or why it shows up precisely where a person would otherwise have to see something unbearable. That's the question this book is built on. Her material is also almost entirely the cold kind: bureaucratic, procedural, at a desk. The hot kind, a man in your face who needs you to be worthless, doesn't appear.
+
+**Baumeister** got the outside view, comprehensively. Perpetrators almost never see themselves as evil. Victims and perpetrators remember the same event differently, in the same directions, every time. Revenge escalates. The "myth of pure evil" is his phrase and it's the right one.
+
+What he's written is a catalogue of how people get there. What I'm after is what happens in the room: what one person shows another, without saying it, and what the other does with it. That's a different question, and I don't think his answers it.
+
+**Bandura** got the machinery, in more detail than anyone: euphemism, displacement, diffusion, minimising, victim-blaming, dehumanisation. If you want the list of moves, it's his.
+
+His moves are described as techniques a person uses. Mine is a single act, not a list: a turning-away that requires and produces all of them. I think his catalogue is the shape that one act makes when you observe it from outside and write down what you see.
+
+**Braithwaite** got the two strangers, with data. Shaming that condemns the act while keeping the person inside the circle produces reform; shaming that converts the act into an identity produces recidivism and criminal subcultures. That is my Chapter 1, tested at scale in the criminal justice system, and I should have found it years earlier than I did.
+
+Where it stops is the *why*. He shows that stigmatising shaming makes people worse. He doesn't say what stigmatising shaming *is*: what passes through it, why it's the one form of harm that leaves no evidence, or why the person delivering it can't see what he's doing. That's most of this book.
+
+**Murdoch** is the closest of all of them, and the one I found last. For her the moral work is not in choosing. It's in looking, in whether you can see another person as they actually are, rather than through the story your own self-regard is telling. She thought the fantasy comes first and corrupts perception, and that by the time you get to a choice, the important thing has already happened.
+
+That is this book's central claim, arrived at forty years earlier, by a better philosopher.
+
+Where it stops is that her looking is a private discipline. One person, attending. What I keep finding is that the failure to look is *transacted*: it's shown to somebody, received by them, and reproduced in them. Murdoch tells you what seeing is and why it's hard. She doesn't describe two people making each other blind.
+
+**Fingarette** got limbo, precisely. Self-deception, in his account, isn't believing a falsehood; it's declining to *spell out* what you're already engaged in. I have not improved on that, and the word "limbo" is my name for his thing.
+
+He, too, keeps it inside one skull.
+
+**Trivers** got the leak. His argument is that self-deception evolved because it makes you a better deceiver of others: you sell it more convincingly when you believe it. And he noticed that the deception leaks: it shows.
+
+For him the leak is a cost. A defect in an otherwise good system. The whole of my argument is that the leak is the *point*: that what leaks is precisely what the thing needs the other person to receive, because their receiving it is what makes them react, and their reaction is what completes the job. If I'm right about anything, it's that inversion.
+
+**Projective identification** is the closest of all, and I should have started here. Klein, and Bion and Ogden after her, describe a person disowning something, locating it in another, and then, without knowing it, behaving so as to make the other feel or enact it, and meeting the result as confirmation. The relational analysts have spent decades inside exactly the two-person transaction I was about to say nobody had entered. So that claim is false, and I withdraw it.
+
+What survives is narrower than I first said. In projective identification the induction runs through pressure, and the not-knowing is a precondition. Here the concealment is itself the message. What the target reads is not a projected feeling but the other man's relation to his own knowing. The deniability is required by the function, not incidental to it. Both parties' dark parts gain from the exchange. And what gets taught is distrust of conscience as such. Those five are what I'm claiming, and no more.
+
+---
+
+Now the thing worth noticing, which I didn't expect when I started making this list.
+
+Most of them stop in the same place, and the one that doesn't stops one step later.
+
+Jung has it inside one psyche. Fingarette has it inside one skull. Murdoch has one person attending. Arendt has one man not thinking. Bandura has an individual's techniques. Baumeister has two accounts of the same event that never meet. Girard jumps to the crowd and skips the pair entirely.
+
+The gap the rest leave is the same gap: **what happens between exactly two people, when each one's not-knowing is required by the other.**
+
+I don't think that's a coincidence, and I don't think it's an oversight by a series of careful thinkers. I think it's what you'd expect, given what the thing is. A transaction whose whole function is to leave no evidence is going to be hardest to see in exactly the place where it happens, and easiest to see in its aftermath: in the psyche it distorted, in the crowd it organised, in the statistics it produced. Every one of these accounts is looking at the wreckage. That's not a criticism. The wreckage is easier to look at, and I only got to the other thing because it was done to me and I had, for once, no way of not noticing.
+
+So: the conclusions in this book are ancient, and I'd rather stand with that company than pretend otherwise. What I'm claiming is one mechanism, in one room, between two people, and five features of it I can't find in the account closest to mine. If it holds, it's the thing all of the above are downstream of. If it doesn't, most of what they said is still true, and I've added nothing.

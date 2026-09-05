@@ -114,7 +114,7 @@ That what you did when you cheated and what he did to you are one move from two 
 
 **The trap, in one piece.**
 
-Now put the inferences together, because assembled they're more than a list. They form a single mechanism, and once its conditions are in place, each part requires the next.
+Now put the inferences together, because assembled they're more than a list. They form a single mechanism, in which each part predicts and reinforces the next, and I haven't found another account that explains the whole of it at once.
 
 He couldn't have fully known what he was doing. If he'd admitted his own part in producing the evidence, the evidence would have been worthless to him. And he couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be the third thing, the one you know from inside: available enough to steer and protect itself, unadmitted enough to leave him innocent.
 
@@ -122,7 +122,7 @@ That state can't be concealed. Not because it leaks around the edges. Because th
 
 And it reached you as a provocation. Your reaction wasn't a side effect he'd have preferred to avoid. It was one of the things the whole performance was for, and what it needed above all was that nothing you did be allowed to clear you. Which means the one thing he couldn't afford was for your getting better to count.
 
-Take any link out and the whole thing stops. If he'd admitted his part, no evidence. If it were blind, no tracking. If it could be hidden, no provocation. If your improving could count, no verdict. That's why I call it a trap and not a bad habit. A habit is something you could drop. Given those conditions, this has one working configuration, and it's the one you met.
+Take any link out and the whole thing stops. If he'd admitted his part, no evidence. If it were blind, no tracking. If it could be hidden, no provocation. If your improving could count, no verdict. That's why I call it a trap and not a bad habit. A habit is something you could drop. This holds itself together, and the shape it holds is the one you met.
 
 I think it's the same trap, at a different dose, in every act of contempt there is. Yours and mine included. That's the claim of this book, and it's on credit. Chapter 1 derived the mechanism of one encounter. It didn't show that every encounter has it.
 
