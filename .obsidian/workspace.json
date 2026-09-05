@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/manuscript/appendix-2-what-others-have-seen.md",
+                "file": "quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appendix-2-what-others-have-seen"
+              "title": "quotes"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"not a value judgement\"",
+                "query": "dilullo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,6 +313,9 @@
   },
   "active": "d9a15ad3aa4ef4f5",
   "lastOpenFiles": [
+    "llms/claude-2026-08/archive/chapter-1-evidence-audit.md",
+    "llms/claude-2026-08/manuscript/appendix-3-the-traditions.md",
+    "llms/claude-2026-08/manuscript/appendix-2-what-others-have-seen.md",
     "index.md",
     "llms/claude-2026-08/working-manuscript.md",
     "scratch/key-points.md",
@@ -321,7 +324,6 @@
     "llms/claude-2026-08/argument.md",
     "llms/claude-2026-08/README.md",
     "llms/claude-2026-08/manuscript/chapter-1.md",
-    "llms/claude-2026-08/manuscript/appendix-2-what-others-have-seen.md",
     "llms/claude-2026-08/manuscript/chapter-1a.md",
     "llms/claude-2026-08/appendix-1-recursion.md",
     "llms/claude-2026-08/fable-queue.md",
@@ -344,8 +346,6 @@
     "llms/claude-2026-08/CLAUDE.md",
     "llms/claude-2026-08/spiral.md",
     "llms/claude-2026-08/discoveries.md",
-    "llms/claude-2026-08/audit.md",
-    "llms/claude-2026-08/roadmap-for-beta-readers.md",
     "llms/claude-2026-08/manuscript",
     "llms/claude-2026-08/untitled folder",
     "llms/claude-2026-08/misc",

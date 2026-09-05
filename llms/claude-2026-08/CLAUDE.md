@@ -25,7 +25,8 @@ medium and Parts A to F the full).
 `manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
 `manuscript/appendix-1-recursion.md` the recursion, stated without formalism.
-`manuscript/appendix-2-what-others-have-seen.md` the neighbouring literature.
+`manuscript/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
+`manuscript/appendix-3-the-traditions.md` the traditions that named the thing.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.
@@ -33,7 +34,7 @@ disagree, one is wrong; say so.
 lives. **Read this first.**
 `correspondence.md` the philosophical problem of why conscience's knowing
 tracks the good.
-`audit.md` what's novel vs. prior art; what Chapter 1 can support.
+`audit.md` what's novel vs. prior art, and where the book has to be careful.
 `todo.md` the one state file: everything open, split by who does it (me, Fable,
 Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
@@ -51,9 +52,8 @@ Tell me when I'm wrong. Disagree in the message rather than complying and
 hedging. If I ask for something that will make the book worse, say so and
 say why before doing it.
 
-No LLM tics: no spaced em-dashes, no "it's worth noting", no invented jargon
-used as though it were standard, no sentences over about forty words, no
-answering objections the reader hasn't formed yet.
+No sentences over about forty words. No answering objections the reader hasn't
+formed yet. The tic list is under Voice.
 
 ## Voice
 
@@ -78,6 +78,11 @@ Banned outright, because I keep finding them:
 - **Invented verbs, nouns pressed into service as verbs, and abbreviations I
   don't use.** No "unpack", "surface" as a verb, "lean into", "double down".
 - **Cutesiness.** No winking at the reader, no jokes that ask to be noticed.
+- **"Kind," "compassion," "care" never mean nice, soft, lenient, or going easy.**
+  The book exists to hold that line, and the second stranger is its proof: he
+  was harsh and it was kindness. If a sentence uses any of those words for
+  softness, it's wrong. That applies in working documents and in messages to
+  me, not only in the book. I have caught the assistant doing it.
 
 Fragments are allowed and are sometimes the point. More than one or two on a
 page and they stop working. Read it aloud before you keep it. If it sounds like
@@ -148,7 +153,9 @@ to something that exists and says what it's cited for.
 
 **vocabulary check** — one name per thing. "Parasite", not "dark part".
 "Contempt" for the hot interpersonal form only; "turning away" for what hot
-and cold share.
+and cold share; "self-righteous contempt" for contempt where the harm is real (never
+"righteous contempt"; righteous keeps its real meaning; and never "when the
+target is evil", which reinstates the verdict); "contempt for the world" for the cold form applied to everything.
 
 **debt check** — every promise made in a draft ("this gets its own chapter")
 has a chapter that pays it, or the promise comes out.

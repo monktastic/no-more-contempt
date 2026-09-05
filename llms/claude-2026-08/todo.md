@@ -20,6 +20,8 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## Fable
 
+- **The parasite and the Buddhist ego.** appendix 3 now states the correspondence (self-cherishing, Shantideva, the mind-training texts; hides behind your own eyes; Satan's trick and the self's) and marks it as unfinished. Aditya hasn't fully clarified it himself. Needs its own section once he has: what "ego" means here, why the parasite is its defense rather than the thing itself, and whether Madhyamaka's emptiness of self is the same claim as "there's no creature."
+
 - **The missing chapter on false conscience.** The book's practical value rests on telling conscience from its counterfeits, and the counterfeits include trained disgust, trauma responses, inherited prejudice, scrupulosity, paranoia, and the certainty that comes from belonging. The current answer is scattered: clues not rules (§1), "notice how sure you are" (§2), the five checks (§12), the three in-view checks (§10), the bus-seat passage in the interlude. Immediate, wordless, immovable certainty can be badly wrong, and assigning all cultural variation to the reasoning layer is asserted, not shown. This deserves a chapter, and it's the one a hostile reviewer will go for first.
 
 - **Chapter 5 by Aditya's rankings, pushback:** the L0 list treats "the signal is the pretense there's no signal," "the hiding is the revealing," and "the tug" as three theses. They're one thesis from three angles, and Chapter 5 states it once. "Reasoning in service of the care" is a corollary, not a thesis. "Contempt is evil, not a value judgment" is L2 on the list and should be L0. Settle the rankings so the condensed chapter has a standard.
@@ -32,7 +34,7 @@ here is a record of what was done; that goes in git, and the lessons go in
 - **Chapter 3 escalates four times with no holding.** The ending helps; the middle runs long without relief. The one-page holding rule from the feedback hasn't been checked across Chapters 3 and 4.
 - **"Evil" needs its definition early.** Defined properly only in §9 and §11: not a rating, the thing you'd destroy at any cost. Everything downstream of "contempt *is* evil" depends on it. Preface or Chapter 1.
 - **The escape hatch has no home.** One of two claims worth arguing at full length. §12 states it; nothing argues it where a reader first reaches for it.
-- **Psychopaths** are answered nowhere before Part C. The three in-view checks make the question exact; Meffert et al. 2013 if a citation is wanted.
+- **Psychopaths** are answered nowhere before Part C. §10 now states the question exactly: the faculty absent, or suppressed with none of suppression's signature. Meffert et al. 2013 if a citation is wanted.
 - **Parts D to F need something practicable** beyond recognition, or the book ends in the recognition-as-superiority failure mode.
 - **The institutional bridge through cases**, not by extending the stranger by analogy. Part B is the map; it needs perpetrators' accounts, institutional case studies, and failures of compassion as well as successes.
 - **The Jung/Girard/Arendt comparison chapter**: write it, place it late. Framed as what each got right and where it stops, never as how I differ.

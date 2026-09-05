@@ -98,6 +98,9 @@ Corollary for the interlude: three piles, not two. What you saw. What I make of 
 | Contempt from below | Part C | Named as a debt | Ch 1a debts | Part C §11 |
 | Institutions | Part B | Named as a debt | Ch 1a debts | Part B |
 | What you are (Tier III) | Part E | Held back | Ch 1a, one line | Part E |
+| Limbo holds the other's sameness, not the misdeed | Ch 1a | Inferred | Ch 1a (trap), §10 | Part C |
+| The arch: the faculty fires on non-minds | Part E | Demonstrated (the check); interpretation held back | §16 | Part E |
+| Self-righteous contempt is malevolence, and spreads what it's aimed at | Part A | Demonstrated (first half); inferred (second) | §3 | Part A, C |
 
 Two argued claims. Four held on credit from the interlude. That's the shape.
 

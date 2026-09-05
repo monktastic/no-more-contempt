@@ -11,7 +11,7 @@ _A note on what this is not. An earlier draft presented the mutual knowing in Ch
 
 Everything below follows from a single structural fact, and it's one you verified rather than one I'm asserting.
 
-There's one faculty at work in everything Chapter 1 described, and it does one thing: it recognizes life. Call it **C**.
+There's one faculty at work in everything Chapter 1 described, and it does one thing: it recognizes life. Call it **C**. Life is its nearest form. Part E says what I think it recognizes at depth, and nothing below needs that.
 
 That single perception has three faces, and the chapter used all three. It's what tells you something is wrong, because _wrong_, here, cashes out as _I'm making myself an exception to something that holds for everyone_, which you can only know by seeing the everyone. It's what warns you when you're turning away, not as a separate monitor watching the shield, but because what you can still see is what you haven't managed to stop seeing. And it's what recognizes the same thing in someone else: you read a stranger's state in seconds, on no evidence, and weren't surprised to be read yourself.
 
@@ -141,21 +141,7 @@ Notice the shape. The contagion was the point. Part of him knew that. That knowi
 
 ---
 
-## Part Two: what's inferred, not verified
-
-**The agent.** Something tracks, adapts, forecloses, and defends itself while staying unavailable to its host. Nothing requires that it _be_ an agent; everything requires that it _function_ as one. What the evidence supports is that something in there is organized. It says nothing about what that something is.
-
-**The teaching.** The encounter reproduces its own preconditions in the target. C gets demoted, and the demotion arrives disguised as maturity. Darkness doesn't just provoke darkness; it trains it.
-
-**The two anchors.** _How else would they recognize my darkness for what it is? Why else would it so reliably empower theirs?_ Those are two things that reliably happen, and I know of only one mechanism that explains both at once. Ordinary hostility produces neither.
-
-**The arrangement.** Everyone knows; naming it is punished; the designated carrier keeps carrying. That arrangement is stable, and it stays stable for a reason the mechanics supply: it needs the carrier not to improve.
-
-**The awareness objection.** _If it requires not-knowing, how was this written?_ Limbo is availability turned away from, not inaccessibility. The confession is the turning-back, done on the page. So the fact that this book exists tells you something. The trap has a handle on the inside.
-
----
-
-## Part Three: what I believe, marked
+## Part Two: what I believe, marked
 
 Now the claim I held back. Everything above needed only _same kind_. Here's what I actually think: that the kind has one member. That C is not merely the same equipment in each of us but one thing, looking out. That when two bearers of C regard each other, it is one thing looking at itself in another form. That what the traditions call light is what it's made of, and that the darkness is a privation: an absence organized into a function.
 

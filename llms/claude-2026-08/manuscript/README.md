@@ -13,6 +13,7 @@ here is edited in place; git is the safety net.
   rest-of-book.md  map of the unwritten rest, for beta readers
   appendix-1-recursion.md
   appendix-2-what-others-have-seen.md
+  appendix-3-the-traditions.md
 
 `../build-manuscript.sh` concatenates these into `../working-manuscript.md`.
 Add a file here and it must be added to that script too.

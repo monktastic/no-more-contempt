@@ -116,7 +116,7 @@ That what you did when you cheated and what he did to you are one move from two 
 
 Now put the inferences together, because assembled they're more than a list. They form a single mechanism, in which each part predicts and reinforces the next, and I haven't found another account that explains the whole of it at once.
 
-He couldn't have fully known what he was doing. If he'd admitted his own part in producing the evidence, the evidence would have been worthless to him. And he couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be the third thing, the one you know from inside: available enough to steer and protect itself, unadmitted enough to leave him innocent.
+He couldn't have fully known what he was doing. If he'd admitted his own part in producing the evidence, the evidence would have been worthless to him. And he couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be the third thing, the one you know from inside: available enough to steer and protect itself, unadmitted enough to leave him innocent. And at the bottom of what he was holding there wasn't the misdeed. It was you: that you're the same kind of thing he is. The misdeed is what holding that down permits.
 
 That state can't be concealed. Not because it leaks around the edges. Because the hiding is what you saw. What he had to keep from himself is exactly what reached you.
 
@@ -132,6 +132,8 @@ None of the conclusions in this book are new. That we make other people bad so w
 
 What I don't think anyone has said is what actually passes between two people in that moment. That the hiding is the message. That what you read in him wasn't a mood but his relation to his own knowing. That it has to be deniable or it doesn't work at all. And that it teaches you something, which is the piece I most want you to keep hold of: that the part of you which knew is not worth listening to. Everything larger in this book comes out of that last one.
 
+And I think this is one reason it's so hard to describe, and why the accounts that come closest stop where they stop. You can only see it while holding that he knew and didn't let himself know. Collapse that to *he simply knew*, full awareness and nothing hidden, and you have a villain, and contempt. Collapse it to *he had no access*, nothing there to admit, and you have an accident, and nothing to do but be nice. Both cut away half the state. It stays in view only while you hold both halves.
+
 **What I'm asking you to hold.**
 
 Four claims I can't earn from one encounter, stated plainly so you know what you're carrying. I'm not going to defend them here. Each gets its own part of the book. Hold them the way you'd hold a friend's account of something you weren't there for: provisionally, and with the right to put it down.
@@ -144,7 +146,7 @@ You are not it. And the shame you feel when you catch it is how it keeps you fro
 
 The only stance that doesn't feed the trap is the second stranger's. Other things sometimes help. But whatever carries contempt also enacts the very relation it's trying to end, and that one is the only stance that doesn't.
 
-There's a fifth, about what's underneath all of this, and I'm going to hold it until the end, because it isn't something you can check.
+There's a fifth, about what's underneath all of this, and I'm going to hold it until the end, because it isn't something you can check from here.
 
 **The question that leads forward.**
 
@@ -164,7 +166,7 @@ But I want to be exact about how much rides on it, because it's less than it loo
 
 You may not catch it the first time. It's quick, and it doesn't announce itself, and the whole encounter is arranged so that you're looking at him. But it's there, and once you've caught it once you'll catch it again, and you'll notice it has nothing to do with wanting the harm to stop.
 
-I haven't shown you anything about your own contempt for somebody who really hurt you. In this chapter you got caught doing something you actually did. Being hurt by someone when you'd done nothing at all is a different seat, and it has to be treated differently.
+I haven't shown you anything about your own contempt for somebody who really hurt you. In this chapter you got caught doing something you actually did. Being hurt by someone when you'd done nothing at all is a different seat. The mechanism is the same. The seat isn't, and it gets its own chapter.
 
 I haven't shown you that any of this survives past two people on a street.
 

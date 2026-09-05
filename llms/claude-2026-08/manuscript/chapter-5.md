@@ -20,7 +20,9 @@ One man who caught you made it easier to turn away from what you knew, and anoth
 
 One word first. Chapter 1 called the thing in him his dark part. From here I'll mostly call it a parasite, because that's how it behaves: it lives off a host and has nothing of its own. Whether it's a creature is a separate question, and I'll answer it below.
 
-**The trap.** This is the one thing in this book I'll claim as mine. He couldn't have fully known what he was doing; if he'd admitted his part in producing the evidence, the evidence would have been worthless to him. He couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be limbo: available enough to steer and protect itself, unadmitted enough to leave him innocent.
+**The trap.** This is the one thing in this book I'll claim as mine. He couldn't have fully known what he was doing; if he'd admitted his part in producing the evidence, the evidence would have been worthless to him. He couldn't have been wholly blind to it either, because it tracked your attempts to expose it and intensified in exactly the direction needed to stay hidden. So it had to be limbo: available enough to steer and protect itself, unadmitted enough to leave him innocent. And at the bottom of what was held there wasn't the misdeed. It was your sameness. **None of this stays in view unless you hold that he knew and didn't let himself know. Collapse it to *he simply knew*, nothing hidden, and you get a villain, and contempt. Collapse it to *he had no access*, nothing there to admit, and you get an accident, and niceness. Both cut away half the state.**
+
+The second stranger is what not collapsing it looks like. He held both, that you knew and that you're better than it, and holding both is the whole of what he did.
 
 And limbo can't be hidden, because the hiding is what you saw. It reached you as a provocation, and what it needed above all was that nothing you did be allowed to clear you. Which means the one thing it couldn't afford was for your getting better to count. Each part predicts and reinforces the next, and I haven't found another account that explains the whole of it at once. Take any link out and it stops.
 
@@ -68,13 +70,13 @@ Two ways to get this wrong, and both are dangerous. Pretend a far-gone person ha
 
 And know that being clean of self-deception makes you honest, not wise. Wisdom still has to be learned, and the mess is on you.
 
-**What it's made of.** I've called it a parasite, and it isn't a creature. It has no supply of its own. It has his eyes, so it can watch you; his intelligence, so it can plan; his sense of what real evil deserves, so it can feel righteous. Take a whole person's faculties, switch the caring off, and aim them, and that's what you met. It looks more than human because it's wearing a face.
+**What it's made of.** I've called it a parasite, and it isn't a creature. Nothing requires that it be an agent. Everything requires that it function as one. It has no supply of its own. It has his eyes, so it can watch you; his intelligence, so it can plan; his sense of what real evil deserves, so it can feel righteous. Take a whole person's faculties, switch the caring off, and aim them, and that's what you met. It looks more than human because it's wearing a face.
 
 Underneath the need to be superior is fear: of being the one who deserves this, of what you'd find if you looked. Nobody is innocent for wanting to stand above someone. Everybody is innocent for being afraid. And the shame you feel when you catch any of this isn't the beginning of honesty. It's the thing's last defense. Convince you that you're too rotten to look and you won't, and it goes on. The evidence points the other way: the whole cover-up exists because something in you would never approve, and that something is what you are.
 
 And absences kill. Cold is nothing, and it kills more people than fire.
 
-*Here is the second seam. Everything from here is what I believe. I arrived at it in direct experience, I'll give you the evidence, and nothing practical in this book depends on your taking it.*
+*Here is the second seam. Everything from here is what I believe. It isn't a different subject. It's the same road, further along. It is a different kind of warrant: the checks run out here, and what's left is practice. The limit is on the book, not on you. Nothing practical in this book depends on your taking any of it.*
 
 ## What I believe
 
@@ -84,7 +86,7 @@ Which leaves a paradox you have to hold with both hands. The darkness is nothing
 
 The darkness is one absence in many places. Two presences are two things. Two turnings-away have nothing in them to differ by. That's why looking into two "evil" people can feel like looking at one thing, and why every tradition drew it with a single face. And it's why I think, further, that what looks out of your eyes and what looks out of mine aren't two. Try to find anything that would distinguish two *awarenesses*, as opposed to two bodies or two sets of memories. Everything you point to is content, and awareness is what content appears in.
 
-And the cold form goes all the way down. See the world as dead stuff we hold dominion over, resources and objects and purposeless matter, and that is contempt applied to everything at once. The part of you that receives contempt for a person and contempt for all of it doesn't receive them as different things.
+And the cold form goes all the way down. See the world as dead stuff we hold dominion over, resources and objects and purposeless matter, and that is contempt applied to everything at once. The part of you that receives contempt for a person and contempt for all of it doesn't receive them as different things. Run it yourself: somebody smashes the Delicate Arch for fun, and you feel it before you have a story. Whether it's the same faculty is the step I can't hand you.
 
 Why would anyone turn from what they are? Nobody could, face to face. The first not-seeing had no motive. It was a blank, and the sense of self and other came after it, not before. Fear is what the blank feels like once there's someone there to feel it. And projection is the first thing that someone does: I make you the guilty one so the guilt won't be mine, and I keep you out of home because I don't feel safe going home myself. That's true of me when I hate the evil people, and it's true of them. Same move, same reason, same one.
 

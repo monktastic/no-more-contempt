@@ -539,3 +539,59 @@ L2- Contempt for a person and contempt for all of life don't register as differe
     
 - **L3** - We think we're rubbing their noses in their darkness, giving them a chance to see it and repent. But we add a particular charge that says "no matter what you do, I'm going to interpret it in light of my existing knowledge that you're beyond redemption."
 
+
+# Added September 2026
+
+*From the sessions of 2–5 September. Rated by Claude; Aditya to re-rate. Two pushbacks on the existing list: "the signal is the pretense," "the hiding is the revealing," and "the tug" are one thesis from three angles, and "Contempt is EVIL, not a value judgment" is L0, not L2.*
+
+## The contribution
+
+- **L0** - The trap, in one piece: he couldn't have fully known (admitting his part would void the evidence); couldn't have been wholly blind (it tracked exposure and intensified in the direction needed to stay hidden); so limbo. Limbo can't be hidden because the hiding is what you saw. It reached you as a provocation; what it needed was that nothing you did be allowed to clear you; so the one thing it couldn't afford was for your getting better to *count*. Each part predicts and reinforces the next. The leak is the payload.
+- **L0** - What limbo hides was never the misdeed. It's the other person's sameness. The misdeed is what holding that down permits.
+- **L0** - Kind is not nice. The whole book is the attempt to say what "kind" means. The second stranger held both halves, you knew *and* you're better than it, at no cost; that's why he was harsh and why it landed as kindness. Niceness is the "he couldn't help it" collapse. Contempt is the "he knew" collapse. Both feed it.
+- **L0** - We call our own "unconscious" and theirs "conscious." Same state, two names, chosen by whose it is. Each collapse serves the one choosing: "unconscious" exonerates me, "conscious" licenses what I do to you.
+- **L0** - Self-righteous contempt (never "righteous"; that word keeps its meaning). Two checks: look at it as the verdict lands and find anything but malevolence; then, if that's what it's made of, it can only spread what it's aimed at. The "self" is the tell. The skill is not hiding it again, not seeing it.
+- **L1** - Why nobody said it: the transaction is visible only while holding that he knew and didn't, at once, and every tradition picks a side at the crucial moment (Jung unconscious, Arendt absence, Bandura technique; Fingarette closest, one head). Readers do the same. Immediate recognition of "limbo" on first reading is the evidence the knowledge was already there.
+- **L1** - Not common knowledge. Recursive mutual recognition under deniability: each can count on the other's recognizing it, neither can prove a word, and the deniability is what it runs on. Gödel is gone.
+- **L1** - Projective identification is the nearest predecessor and the old novelty claim was false. Five things survive: the concealment is the message; what's read is his relation to his own knowing; deniability is required by the function; both dark parts gain; what's taught is distrust of conscience as such.
+
+## What conscience is and detects
+
+- **L0** - Conscience detects the assertion of asymmetry, not harm. It fires with no victim (cheating, the corpse). Cheating and contempt are one move from two ends: *this doesn't apply to me* / *you're not really one of us*.
+- **L0** - Nothing in the book is a rule. A rule hands conscience a substitute and hands the arguer a letter to satisfy. A clue you can be wrong about; a rule you can obey.
+- **L1** - The exception isn't what conscience registers; the not-looking the exception required is. You can take the last seat with the person in view; you can't cheat that way.
+- **L1** - "In view" has three checks, independent of whether harm follows: their objection would land on you; their hurt registers as bad the way yours does; what's in them could change what you do. Pass all three and still fight (the second stranger); fail all three and lift no finger (cold).
+- **L1** - The tree and the arch: the faculty fires on things with no inside (cutting a thousand-year tree for fun; smashing the Delicate Arch). The wrongness arrives before any story about who's deprived. That's the checkable seed of contempt for the world.
+
+## Evil people, and the far end
+
+- **L0** - Evil is the result of turning away, not its cause. The essentialist feeling reads depth of capture, not kind.
+- **L0** - The far end: access shrinks but the knowing grows, so the deeply lost person knows most and least at once. What horrifies you is a conscience under crushing load showing through, and *your* contempt holds it down. A hostage held up to the window, not a monster displaying itself. "They need the most love" is arithmetic.
+- **L1** - The sadist is deep limbo, not absence: sameness suppressed, not gone. Suppression has a signature (deniability, tracking, intensification under exposure, work on the verdict). The falsifier is appetite with none of the signature, which is the psychopath question stated exactly: absent, or suppressed.
+- **L1** - The falsifier costs less than it looks: even if the mechanism fails, the desire to see someone as a different kind of creature is itself the move, and you can catch it by noticing you're relieved when the verdict lands. Takes practice.
+- **L1** - Contempt from below is the same parasite; the verdict is the only thing on trial. Self-contempt is the most common form and produces what contempt produces: hiding.
+- **L1** - The trap assembled: you see evil, you're right; you want it gone, you're right; you go after it from inside your own, which aims it at the person. Every step correct but the last, and the last is the one you can't see. Accuracy is what gets harvested.
+
+## Structure of the thing
+
+- **L0** - Conflation is one requirement with two faces: mistaken for the host by the observer (so the observer attacks the host) and by the host (so he defends it as his convictions). Nobody gets both views of one instance, so we're all accurate about each other and blind about ourselves, by construction. That's why we can't just tell each other.
+- **L1** - Hot and cold are the same parasite. Hot is contested (the protest is audible, so it works); cold is when it has won (the reason on file is the gaze with the fight taken out). Most harm runs on cold.
+- **L1** - Why contempt uniquely scales: self-exception + no record + performed publicly and rewarded + pleasurable to watch. The spectator seat is a transmission channel; most contempt is consumed, not performed.
+- **L1** - The parasite is the Mahayana's self-cherishing, not pop "ego": the exception is the ego, the parasite is the ego defending it, self-righteous contempt is the defense at full volume. It hides behind your own eyes: Satan's trick and the self's are one thing. (Unfinished.)
+- **L1** - The uncharitable reading is the thing in its most respectable clothes: reading your opponent so that he's stupid when the version that isn't was in view. You'd never accept that reading of your own words.
+
+## The way through
+
+- **L0** - Not-seeing isn't chosen (a chooser who saw clearly is the bad part reinstalled); catching it is trainable, and speed is the only measure. Responsibility lives there, graded by capacity.
+- **L0** - Turning toward is the only stance that doesn't feed the trap. Things done from turned-away sometimes help; whatever carries contempt also enacts the relation it's trying to end. (Not "the only thing that helps.")
+- **L1** - The sorting: rage at the harm is the real you; rage at the face is the parasite in your conscience's voice. If the harm stopped tomorrow with nobody punished, relieved or robbed?
+- **L1** - Shame is the parasite's last defense, not the beginning of honesty. The cover-up exists because something in you would never approve, and that something is what you are.
+- **L1** - Full seeing into a far-gone person may take decades; the book asks for the near end: catch the wanting.
+- **L2** - Don't rank contempt against doing nothing; both feed it. This is not a book about doing nothing.
+
+## Method
+
+- **L1** - Function decides placement (does the reader need it to read the next stretch?); evidence decides form (demonstrated, stated-and-owed, argued, held back). Flat and owed isn't overclaiming; defending it early is. Three piles: what you saw, what I make of it, what I'm asking you to hold.
+- **L1** - Explicit and early are different. Say everything; say it where it's paid for.
+- **L1** - Tier III is the same road further along. The mark is a limit on the book, not a difference in kind or a verdict on the reader.
+- **L2** - Two argued claims in the whole book: the escape hatch, and two acts with opposite effects. Everything else is stated, demonstrated, or earned.

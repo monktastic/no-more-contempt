@@ -8,7 +8,8 @@ out=working-manuscript.md
   for f in manuscript/preface.md manuscript/chapter-1.md manuscript/chapter-1a.md \
            manuscript/chapter-2.md manuscript/chapter-3.md manuscript/chapter-4.md \
            manuscript/chapter-5.md manuscript/rest-of-book.md manuscript/appendix-1-recursion.md \
-           manuscript/appendix-2-what-others-have-seen.md; do
+           manuscript/appendix-2-what-others-have-seen.md \
+           manuscript/appendix-3-the-traditions.md; do
     [ -f "$f" ] || { printf 'missing: %s\n' "$f" >&2; exit 1; }
     printf '\n\n<!-- ===== %s ===== -->\n\n' "$f"
     cat "$f"

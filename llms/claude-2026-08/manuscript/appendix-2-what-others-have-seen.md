@@ -12,6 +12,8 @@ If those are the conclusions, I haven't discovered anything.
 
 What I think is new is smaller and lives underneath them: what actually passes between two people during a single act of contempt, and why that transaction reproduces itself. So the useful thing I can do here is go through the neighbours one at a time, say what each of them saw, and say exactly where each stops. The stopping places turn out to be interesting, because most of them stop in the same spot.
 
+One rule binds what follows, and the book's own claim is what binds it. Each of them gets the strongest version of what they saw. An uncharitable reading of a predecessor is the thing this book is about, in its most respectable clothes, and I've caught myself at it in earlier drafts of this very appendix.
+
 ---
 
 **Jung** got the disowning. We refuse a part of ourselves, and then we find it, vividly, in somebody else, and we hate it there with a heat that has nothing to do with them. Nothing in this book improves on that as a description of what's happening inside one person.
@@ -67,5 +69,7 @@ Jung has it inside one psyche. Fingarette has it inside one skull. Murdoch has o
 The gap the rest leave is the same gap: **what happens between exactly two people, when each one's not-knowing is required by the other.**
 
 I don't think that's a coincidence, and I don't think it's an oversight by a series of careful thinkers. I think it's what you'd expect, given what the thing is. A transaction whose whole function is to leave no evidence is going to be hardest to see in exactly the place where it happens, and easiest to see in its aftermath: in the psyche it distorted, in the crowd it organised, in the statistics it produced. Every one of these accounts is looking at the wreckage. That's not a criticism. The wreckage is easier to look at, and I only got to the other thing because it was done to me and I had, for once, no way of not noticing.
+
+There's a second reason, and I think it's the deeper one. The transaction can only be seen by holding that he knew and didn't know at once, and every one of these traditions, at the crucial moment, picks a side. Jung's projection is unconscious. Arendt's thoughtlessness is an absence. Bandura's disengagement is a technique. Fingarette comes closest, with "declining to spell out," and even he keeps it in one head. Pick a side and the two-person transaction disappears, because it lives exactly on the line between them.
 
 So: the conclusions in this book are ancient, and I'd rather stand with that company than pretend otherwise. What I'm claiming is one mechanism, in one room, between two people, and five features of it I can't find in the account closest to mine. If it holds, it's the thing all of the above are downstream of. If it doesn't, most of what they said is still true, and I've added nothing.

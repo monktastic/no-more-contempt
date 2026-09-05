@@ -30,8 +30,8 @@ digraph interlude {
     node [fillcolor="#fde9c9"];
     A1 [label="A1  Hijack of reasoning\ngrand plans built by the arguing side; rules as escape hatch;\nmetrics; the memo in the file; reason in service; clues not rules"];
     A2 [label="A2  Hijack of perception\nthe verdict becomes what you see; world indistinguishable\nfrom one where it's true; YOU CANNOT DECIDE TO LOOK\n(2nd stranger makes looking survivable; why not just fix Hitler);\ntwo righteousnesses / trance; TWO IDENTICAL ACTS, OPPOSITE EFFECTS;\n'notice how sure you are'"];
-    A3 [label="A3  The tug\ncontempt = a tug to be recruited into the thing you hate;\naccuracy is the hook; soldiers/corpse: conscience knows w/o proof; faith-robbing -> proof culture"];
-    A4 [label="A4  Limbo is the water\ndual motives; the thrill; enemies vs allies; subtle forms;\nTHE AGENDA LOOK (self-serving push w/o heat: everyone reads it,\nthey know and don't; still limbo, still teaches the lesson);\n'my clarity proves I'm clean'"];
+    A3 [label="A3  The tug\ncontempt = a tug to be recruited into the thing you hate;\nSELF-RIGHTEOUS CONTEMPT named (the 'self' is the tell): malevolence (check 1), spreads the thing (check 2);\naccuracy is the hook; soldiers/corpse: conscience knows w/o proof; faith-robbing -> proof culture"];
+    A4 [label="A4  Limbo is the water\ndual motives; the thrill; enemies vs allies; subtle forms;\nTHE AGENDA LOOK (self-serving push w/o heat: everyone reads it,\nthey know and don't; still limbo, still teaches the lesson);\n'my clarity proves I'm clean'; UNCONSCIOUS (mine) vs CONSCIOUS (yours):\nsame state, two names, both collapse the paradox"];
   }
 
   subgraph cluster_B {
@@ -47,7 +47,7 @@ digraph interlude {
   subgraph cluster_C {
     label="C  Evil people"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#e6d5f0"];
-    C1 [label="C1  What they are\nevil = result of turning away; gradient (check, not assert);\nTHE FAR END: the knowing GROWS while access shrinks -> knows most\nand least at once; what horrifies you is a suppressed PRESENCE,\nnot an absence; it shows itself so you'll press harder;\n'they need the most love' = flat reading, not sentiment;\nIN VIEW DEFINED (3 checks, independent of harm): objection lands /\nhurt registers AS BAD / what's in them can change you;\nSADISM as hypothesis + falsifier (sees a subject, fails all 3;\nCh2 trip fits: innocence devoured, life not);\npsychopaths 'I don't know' (which check is off?);\nALL EVIL IS INNOCENT + regress trap"];
+    C1 [label="C1  What they are\nevil = result of turning away; gradient (check, not assert);\nTHE FAR END: the knowing GROWS while access shrinks -> knows most\nand least at once; what horrifies you is a suppressed PRESENCE,\nnot an absence; it shows itself so you'll press harder;\n'they need the most love' = flat reading, not sentiment;\nIN VIEW DEFINED (3 checks, independent of harm): objection lands /\nhurt registers AS BAD / what's in them can change you;\nSADISM = deep limbo: sameness suppressed, not absent; signature of\nsuppression is the falsifier; (sees a subject, fails all 3;\nCh2 trip fits: innocence devoured, life not);\npsychopaths 'I don't know' (which check is off?);\nALL EVIL IS INNOCENT + regress trap"];
     C2 [label="C2  Contempt from below\nrage/force are right; only the verdict on trial; who benefits;\nthe SAME thing runs the one above; the tug at its strongest;\nKing; remorse vs shame; self-contempt"];
   }
 
@@ -61,12 +61,12 @@ digraph interlude {
     label="E  What I believe (Tier III)"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#fff2b3"];
     D3 [label="D3  What remains\nhinge gave existence; this gives SIZE (not derivable):\nnot a better me, not a version of me; second stranger revisited;\nfierce not nice; 'compassion is weak' as a lie;\nhandshake of the Light; the ones who wouldn't hand me over;\nyour own clean moments"];
-    D4 [label="D4  What you are\nTHE RECOGNITION (perception, not inference); traditions personify\n(weak evidence); step past the opening: ONE absence in many places\n(shadows / one sun); nondual argument: nothing distinguishes two\nawarenesses; Baumeister + objection (shared world, no shared seeing);\nconscience = the world knowing itself; fear of having left\nGod/Love/Source (Wapnick corroborates); sealed room; matter;\nimpact of integrity; good = what helps remember"];
+    D4 [label="D4  What you are\nTHE RECOGNITION (perception, not inference); traditions personify\n(weak evidence); step past the opening: ONE absence in many places\n(shadows / one sun); nondual argument: nothing distinguishes two\nawarenesses; Baumeister + objection (shared world, no shared seeing);\nconscience = the world knowing itself; THE TREE AND THE ARCH (§16):\nthe faculty fires on non-minds; contempt for the world; fear of having left\nGod/Love/Source (Wapnick corroborates); sealed room; matter;\nimpact of integrity; good = what helps remember"];
   }
   subgraph cluster_contemp {
     label="E (cont.)  A note for contemplatives"; style=dashed; color="#888888"; fontname="Helvetica";
     node [fillcolor="#fff2b3"];
-    D6 [label="D6  For contemplatives (skippable)\nmarigpa = non-recognition; afflictions as display; adventitious;\nnon-fabrication + familiarization; POINTING-OUT = 2nd stranger;\nSAMANTABHADRA: blank first, no motive, self/other AFTER;\nRECONCILED with the fear of §15: blank first, fear = what the\nblank feels like once there's someone to feel it;\nWHAT'S MINE: coordination across minds; caution: not permission"];
+    D6 [label="D6  APPENDIX 3, the traditions (was §17)\nmarigpa = non-recognition; afflictions as display; adventitious;\nnon-fabrication + familiarization; POINTING-OUT = 2nd stranger;\nSAMANTABHADRA: blank first, no motive, self/other AFTER;\nRECONCILED with the fear of §15: blank first, fear = what the\nblank feels like once there's someone to feel it;\nWHAT'S MINE: coordination across minds; caution: not permission"];
   }
 
   subgraph cluster_end {
