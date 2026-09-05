@@ -13,6 +13,14 @@ be better. Do what I asked and say plainly what you touched, so the diff holds
 no surprises. If a fix I asked for turns out to need a change I didn't ask for,
 make the change and tell me, rather than stopping to check.
 
+**Cutting.** A thesis's first statement is never a restatement, even when a
+later passage says the same thing. When I ask you to cut repetition, cut the
+echo, not the seed; if you can't tell which is which, keep both and say so.
+Before cutting any sentence, run `git log -S` on it. If it came in under one of
+my version commits (v4, v6.5, and so on), it's mine: quote it verbatim in your
+report, not by description. If it came in under a "pass with CC" commit, it's
+Claude's, and a description will do.
+
 ## What's here
 
 Everything the book is made of lives in `manuscript/`. The base directory holds

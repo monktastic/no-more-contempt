@@ -11,11 +11,9 @@ parent: "Where This Goes"
 
 ## 10. What they are
 
-I promised we'd get to them.
-
 Evil is the *result* of turning away, not its cause. That's the claim. We all shield ourselves from someone's humanity a little, in order to cause them a little harm. Turn that all the way up—shield completely, so that no life is perceived in the other at all—and what's left is what I was dropped into in Chapter 2. It isn't a different thing. It's the same thing with the brakes gone. That's what it's like to *be* evil, and it doesn't feel evil. It feels like appetite. Like righteousness. Like the obvious thing to do.
 
-Here's the checkable version of that claim. Bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. I've never found one that doesn't run on that move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
+The checkable version: bring up the worst thing you know of; something done to people who couldn't stop it. Now try to build it in your head without the part where whoever did it had stopped counting their victims as the same kind of creature as himself. You can't. Take that away and there's no version of the thing left standing. I've never found one that doesn't run on that move. Whether it can run on anything else is the question the sadist raises below, and I'll meet it there rather than here.
 
 The book will trace that progression, because the gradient is what makes the claim checkable. The further in a person is, the less it feels like they're in anything. More harm, more knowledge of the harm, more shielding, and correspondingly *more* certainty. Take the "evil people" you've watched and check whether that pattern is there. I think you'll find it in nearly all of them. Whether anyone is simply born without the faculty is a separate question, and I'll get to it below.
 
@@ -103,11 +101,9 @@ So the test has to change, and it shouldn't rest on my reading of what's underne
 
 Second, and this is a prediction rather than a proof: holding something down leaves a signature. It needs deniability. It tracks the target. It intensifies when exposed. It works on the verdict. I can't show from outside that nothing is held under, so this can't settle the question alone. But an appetite for suffering with none of that signature is either the place where this account stops, or a person in whom the faculty is missing rather than held down. I don't know which. That's the psychopath question, and it comes below.
 
-Now let me say what that would cost me, because it's less than it sounds, and I'd rather you knew the size of the bet before you took my side of it.
+What losing would cost me is less than it sounds, and you should know the size of the bet before you take my side of it.
 
 Losing this would break my account of how harm gets done. It would not touch the part I most want you to have, because that part was never an account of anybody else. It's this. The desire to see somebody as a different kind of creature from you is not evidence of the move or a symptom of it. It is the move. And you don't need me, or any fact about sadists, to check it. You need to catch yourself in the moment the verdict settles, and notice that something in you is relieved by it.
-
-That takes practice, and I want to be honest about how much. The relief is fast, it comes dressed as clarity, and the whole encounter is arranged to keep your attention on him. The first several times you go looking you'll find nothing. Then one day you'll catch it, and after that you'll keep catching it, and you'll find it was never once on the side of wanting the harm to stop.
 
 What I can offer now is a prediction and one piece of testimony. The prediction: the sadist's pleasure depends on the failure. Put the same-kindness back, let it land on him that this is himself, and the pleasure doesn't survive it. You have the low-dose version already; it's what stopped you on the street. The testimony is Chapter 2. When I was dropped into the far end there was no perception at all of the life in the victims. And yet what was being devoured was innocence, and you cannot devour innocence without perceiving it. Subject in view, same-kind gone. That's the shape the hypothesis predicts, and it's the only instance I have from inside.
 
@@ -141,7 +137,7 @@ Look at who benefits when you hold it.
 
 When you've concluded that the one who hurt you is irredeemable, something in *them* is relieved. Not the person. The parasite in them, which needed you to see it that way. Your contempt is the evidence it runs on: *see, they're just what we said; this world is a war; the only thing that works is power.* You know this already, because you know what the first stranger's contempt did to you. It didn't make you better. It made you dig in. Now you're the stranger, and it doesn't matter that you're right about what they did.
 
-That's the handshake again. Now the part that took me longest to see. What fools you into believing that contempt-from-below is good—that it's the one clean contempt, the deserved one—is the same parasite that's running the person above you. Not a similar one. The same one. It doesn't care which direction contempt flows. It only needs it to flow. Every time it gets you to hold the verdict, it has recruited the person with the least reason to serve it. That's the tug from section 3, at its strongest, because here the perception is the most accurate it will ever be.
+That's the handshake again. Now the part I resisted longest. What fools you into believing that contempt-from-below is good—that it's the one clean contempt, the deserved one—is the same parasite that's running the person above you. Not a similar one. The same one. It doesn't care which direction contempt flows. It only needs it to flow. Every time it gets you to hold the verdict, it has recruited the person with the least reason to serve it. That's the tug from section 3, at its strongest, because here the perception is the most accurate it will ever be.
 
 Of course you don't want to feed that. You, of all people.
 

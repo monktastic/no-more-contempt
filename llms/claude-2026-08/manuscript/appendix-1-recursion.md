@@ -1,9 +1,9 @@
-NOTE: This appendix was written by Claude, with my guidance. Redrafted 2026-09-04 after outside review. The common-knowledge machinery and the Gödel comparison are gone. What remains is structure you can check, not formalism.
+NOTE: This appendix was written by Claude, with my guidance.
 # Appendix 1: The Recursion
 
 _For the reader who wants the machinery. Nothing in the book rests on this; the book rests on what you found when you looked. But if you noticed the shape of the thing and want it laid out, here it is. One metaphysical claim is held to the end and marked; nothing before it needs it. I refer to sections as §1, §2, and so on._
 
-_A note on what this is not. An earlier draft presented the mutual knowing in Chapter 1 as common knowledge in the game theorist's sense, and compared the taunt to Gödel's sentence. Both were wrong, and a reader who knew the formal material would have been right to stop trusting the book there. What Chapter 1 shows is not formal common knowledge and not formal undecidability. It's a structure of recognition under deniability. That's what this appendix describes, and I've tried to claim nothing the structure doesn't give._
+_Two formal comparisons will occur to some readers: common knowledge, and Gödel. Neither is what Chapter 1 shows. §2 says why for the first, Part Three for the second, and Part Three also says what the first one does fit, once a belief I hold is put under it._
 
 ---
 
@@ -44,7 +44,7 @@ If you only want the shape: shared equipment makes recognition recursive (§2–
 
 Game theorists call something _common knowledge_ when everyone knows it, everyone knows that everyone knows it, and so on without end. It normally takes a public event to build: a trusted party says the thing aloud where everyone can see everyone hear it. The child in _The Emperor's New Clothes_ adds no information. Everyone already knew. He makes it common knowledge.
 
-Nothing like that happens in the contempt encounter. Nobody says anything, nobody is trusted, and nothing becomes established. So it isn't common knowledge, and the earlier draft was wrong to call it that. For A to know that B knows something, A would have to know that B's faculty is working, on this, the same way A's is; and that B knows the same of A; and so on. None of that is available to anyone. That isn't a gap in the account. It's the condition the whole thing runs under.
+Nothing like that happens in the contempt encounter. Nobody says anything, nobody is trusted, and nothing becomes established. So it isn't common knowledge. For A to know that B knows something, A would have to know that B's faculty is working, on this, the same way A's is; and that B knows the same of A; and so on. None of that is available to anyone. That isn't a gap in the account. It's the condition the whole thing runs under.
 
 What happens instead is this. C recognizes a perceiver. So when your C reads his state, what it reads is a faculty of the same kind, turned away. And his, turned away, can still register being read, because what he can still see is what he hasn't managed to stop seeing. So there's a second depth: he registers your registering. And a third, if either of you goes there. Each depth is the same act, C recognizing C, and no depth adds content the first didn't have. Climb as far as the encounter takes you, and no depth is different from the one above it.
 
@@ -153,9 +153,27 @@ Whether the absence in each of us opens onto the same darkness, and the light on
 
 ---
 
+## Part Three: implicit common knowledge, marked
+
+_This part rests on Part Two. Nothing before it needs it. It's here because the formal comparison §2 rejected was wrong in a way that pointed at something right._
+
+The game theorist's term has a definition and a usual cause, and they come apart. The definition is a state: everyone knows, everyone knows that everyone knows, and so on without end. The usual cause is a public event. The child says the emperor is naked, and everyone sees everyone hear it. Chwe's book on ritual is about that second thing. Ceremonies exist to manufacture the state by staging the event.
+
+Now put Part Two's belief under the encounter. If C is one thing looking out, then the sameness of the two people on the street isn't something either of them has to learn. It is already known in both, to any depth you care to name, because at every depth it is the same faculty regarding itself. The state is there. What never happened is the event. Nobody said it, in front of anyone, so that everyone saw everyone hear it. I've called this implicit common knowledge for years, before I knew the formal term, and it turns out to be the exact name: the state without the announcement.
+
+On this account, contempt is the anti-ritual. A ritual makes a thing public so that nobody can go on acting as if they didn't know. Contempt keeps the sameness from ever being said, while both people go on knowing it. Every move in Chapter 1 is a move to stop the event from happening. "You're being mean" fails because it tries to stage the event with one voice, and the deniability was built to absorb exactly one voice.
+
+The second stranger's act was public. He said what you did, out loud, in front of people, with nothing hidden in it, and what he said included that you were better than it. The sameness went from implicit to said, on the spot. That's the reason you couldn't win against him and didn't want to. There was no longer anyone in the room, you included, who could act as if the thing weren't known.
+
+So limbo, at the level of a whole people, is the refusal to let the sameness be said. §7 arrived at the same place from the other side: what dissolves the act is a shared, sayable name.
+
+One more comparison, because readers who know it will make it themselves. Limbo contains itself: a mind in it can't certify from inside that it isn't. That has the shape of a system that can't prove its own consistency, and the resemblance ends there. Gödel's result is about what a consistent formal system can prove. Limbo is about motive, a not-looking driven by what would be seen. The shape matches and the mechanism doesn't, and borrowing the theorem would lend the book weight it hasn't earned.
+
+---
+
 ## Where else to look
 
-**On what this is not.** Lewis, _Convention_ (1969); Aumann (1976). Formal common knowledge, which requires a public event and yields established fact. The encounter here yields neither. Read them to see the contrast, not the match.
+**On common knowledge.** Lewis, _Convention_ (1969); Aumann (1976), for the definition. Chwe, _Rational Ritual_ (2001), for the public event that usually produces it. §2 is the contrast; Part Three is the match, under Part Two's belief.
 
 **On what it is.** Bateson et al. (1956) on the double bind: a demand, a contradicting demand at another level, and no way to comment on the contradiction. Pinker, Nowak & Lee (2008), "The logic of indirect speech," on content conveyed _so as not to_ become common knowledge; the trap is an innuendo whose subject is itself. Goffman on face-work, for the auditable surface the act hides behind.
 

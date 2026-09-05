@@ -18,9 +18,9 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 The book exists at three lengths, and you can stop after any of them.
 
-**The short book** is the Preface, Chapter 1, the interlude after it, and Chapters 2 to 5. It runs about 61 pages. Chapter 5 says everything the book claims, once, with less evidence than each claim deserves. If you read nothing else, read to the end of Chapter 5.
+**The short book** is the Preface, Chapter 1, the interlude after it, and Chapters 2 to 5. It runs about 60 pages. Chapter 5 says everything the book claims, once, with less evidence than each claim deserves. If you read nothing else, read to the end of Chapter 5.
 
-**The map**, called *Where This Goes*, is the rest of the book in outline, about 65 pages: the same claims, walked through with more of the reasoning and evidence behind each one, in the order the finished book will follow. It's scaffolding, and it won't be in the final version. It's here so you can see where the argument goes before it's been fully built.
+**The map**, called *Where This Goes*, is the rest of the book in outline, about 64 pages: the same claims, walked through with more of the reasoning and evidence behind each one, in the order the finished book will follow. It's scaffolding, and it won't be in the final version. It's here so you can see where the argument goes before it's been fully built.
 
 **The appendices** are for readers who want the machinery of the argument, the thinkers who came closest to it, and the religious and contemplative traditions that got here first.
 

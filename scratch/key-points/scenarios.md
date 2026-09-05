@@ -1,3 +1,7 @@
+# Scenarios
+
+Exercises the reader runs in their own case. Each one is a recall, a question, and a place the answer is supposed to land. The first three are used in the Preface and Chapter 1. The last one is proposed and not in the book.
+
 
 ## Pill-vs-enlightenment
 
@@ -53,3 +57,20 @@ Right??
 
 ---
 
+---
+
+## The write-off (proposed)
+
+Think of the last time you said something with an edge in it to someone on the other side. A relative at dinner, or a reply under a politician's post. You knew what you were doing, mostly. And they did what they do: called you brainwashed, or deranged, or just laughed.
+
+Now notice what that did to you. Did it sting? Or did something in you light up: *look at that, that's exactly what they're like.* It felt good. More than good. It felt *righteous.* You'd gotten them to show it.
+
+Might that have been the point?
+
+Now hold the other thing you saw in Chapter 1: that what was driving the stranger wasn't him. If you could really see that, right now, looking at this person, could you still want to shove them further in? Not *should* you. *Could* you.
+
+You couldn't. It isn't a discipline. You can't want it while fully looking at them, the same way you couldn't give the stranger that look while fully looking at him.
+
+So the wanting you just found is a reading. It measures how far you are from seeing this person. And that is exactly what you were reading in the first stranger, and the reason you could read it at all: you've been where he is. You're there now, a little.
+
+*Notes.* Chapter 2, "From the delivering end," already runs this loop in the first person, from my side: the target is defiant, so my contempt was justified, so the world is even shittier than I thought. What's missing is the reader's own instance, the invitation to feel how righteous it feels, and the possession move. The Preface plants the flicker with the pill test and Chapter 5 says that part wants them to stay as they are, but nothing closes the loop from the reader's side. The logic of the last step isn't clean and doesn't need to be: it's the same inference Chapter 1 makes (you recognize it because you've been there), run from your own wanting back to his state. See spiral.md for why the circle isn't a problem.

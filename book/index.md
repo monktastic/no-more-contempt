@@ -10,6 +10,6 @@ has_toc: true
 
 # The Book
 
-*Preface through Chapter 5: about 17,153 words, roughly 61 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Preface through Chapter 5: about 16,857 words, roughly 60 pages at 280 words a page. Updated whenever the site is regenerated.*
 
 The short book, complete in itself. Read to the end of Chapter 5 before deciding whether you want the map.

@@ -10,7 +10,7 @@ has_toc: true
 
 # Where This Goes
 
-*Parts A to F: about 18,304 words, roughly 65 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Parts A to F: about 17,974 words, roughly 64 pages at 280 words a page. Updated whenever the site is regenerated.*
 
 NOTE: This map was written by Claude, with my extensive guidance.
 
