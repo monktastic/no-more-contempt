@@ -25,7 +25,7 @@ def page(path, title, order, permalink, body, parent=None, has_children=False):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text('\n'.join(fm) + '\n\n' + GEN + '# ' + title + '\n\n' + body)
 
-for d in ('book', 'map', 'appendix'):
+for d in ('book', 'map', 'appendix', 'condensed'):
     p = ROOT / d
     if p.exists(): shutil.rmtree(p)
 
@@ -42,8 +42,13 @@ body = body.replace('It runs about fifty pages.', f'It runs about {pages(bw)} pa
 body = body.replace('**The map**, called *Where This Goes*, is the rest of the book in outline:', f'**The map**, called *Where This Goes*, is the rest of the book in outline, about {pages(mw)} pages:')
 page(ROOT / 'index.md', 'Start here', 1, '/', body)
 
+# The condensed version
+cw = words('condensed.md')
+t, body = split_title((MAN / 'condensed.md').read_text())
+page(ROOT / 'condensed' / 'index.md', t, 2, '/condensed/', count_line(cw, 'The condensed version') + body)
+
 # The book
-page(ROOT / 'book' / 'index.md', 'The Book', 2, '/book/',
+page(ROOT / 'book' / 'index.md', 'The Book', 3, '/book/',
      count_line(bw, 'Preface through Chapter 5') + 'The short book, complete in itself. Read to the end of Chapter 5 before deciding whether you want the map.\n',
      has_children=True)
 chapters = [('preface.md', None), ('chapter-1.md', None), ('chapter-1a.md', None),
@@ -57,7 +62,7 @@ for i, (f, override) in enumerate(chapters, 1):
 text = (MAN / 'rest-of-book.md').read_text()
 chunks = re.split(r'\n(?=# Part [A-F])', text)
 t, body = split_title(chunks[0])
-page(ROOT / 'map' / 'index.md', 'Where This Goes', 3, '/map/', count_line(mw, 'Parts A to F') + body, has_children=True)
+page(ROOT / 'map' / 'index.md', 'Where This Goes', 4, '/map/', count_line(mw, 'Parts A to F') + body, has_children=True)
 titles = {'F': 'Part F: What this book is for'}
 for i, ch in enumerate(chunks[1:], 1):
     t, body = split_title(ch)
@@ -66,11 +71,11 @@ for i, ch in enumerate(chunks[1:], 1):
     page(ROOT / 'map' / f'part-{letter.lower()}.md', title, i, f'/map/part-{letter.lower()}/', body, parent='Where This Goes')
 
 # Appendices
-page(ROOT / 'appendix' / 'index.md', 'Appendices', 4, '/appendix/',
+page(ROOT / 'appendix' / 'index.md', 'Appendices', 5, '/appendix/',
      'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', has_children=True)
 for i, f in enumerate(['appendix-1-recursion.md', 'appendix-2-what-others-have-seen.md', 'appendix-3-the-traditions.md'], 1):
     t, body = split_title((MAN / f).read_text())
     page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices')
 
-print('published: index.md, book/ (8), map/ (%d), appendix/ (4)' % len(chunks))
+print('published: index.md, condensed/, book/ (8), map/ (%d), appendix/ (4)' % len(chunks))
 PY

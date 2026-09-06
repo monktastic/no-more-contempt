@@ -22,6 +22,8 @@ The book exists at three lengths, and you can stop after any of them.
 
 **The map**, called *Where This Goes*, is the rest of the book in outline, about 64 pages: the same claims, walked through with more of the reasoning and evidence behind each one, in the order the finished book will follow. It's scaffolding, and it won't be in the final version. It's here so you can see where the argument goes before it's been fully built.
 
+**The condensed version** is for the reader who has already noticed most of this and wants the shape of it in a few pages: the theory laid out with pointers, not arguments, and the metaphysics marked off at the end so the rest can be shared with someone who doesn't want it.
+
 **The appendices** are for readers who want the machinery of the argument, the thinkers who came closest to it, and the religious and contemplative traditions that got here first.
 
 ## How to read it
