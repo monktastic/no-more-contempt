@@ -31,6 +31,9 @@ the working documents: what the book claims, what's open, and how to decide.
 Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`, `chapter-5.md` (the whole
 book once, condensed and tiered; the short version, with `rest-of-book.md` the
 medium and Parts A to F the full).
+`manuscript/condensed.md` the theory in a few pages for the reader who has
+already noticed most of it; pointers, not arguments; metaphysics marked off.
+Not in the build; on the site as its own page.
 `manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
 `manuscript/appendix-1-recursion.md` the recursion, stated without formalism.

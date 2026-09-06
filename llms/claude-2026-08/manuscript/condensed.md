@@ -1,0 +1,112 @@
+*Written by Claude, with my guidance.*
+# The Condensed Version
+
+*This is for the reader who has already noticed most of it and wants the whole shape at once. I'll point at things rather than argue for them. Where you've seen the thing, the pointing will be enough. Where you haven't, take my word for it while you read, and go and look afterward. The book builds each of these slowly, and this isn't a substitute for it. What I believe but can't hand you is at the end, marked off, so the rest can go to someone who doesn't want it.*
+
+---
+
+## What you want
+
+There is something in you that wants, more than anything else, for life to go well. Not your life only. Whatever is alive in front of you, and the whole of it. You've felt this. In the moments it was uncovered you didn't have to decide anything. The right thing was obvious, and you did it, and it didn't feel like being good. It felt like being yourself.
+
+I'll say at the end what I think that is. For now, only this: it's there, it's the most trustworthy thing in you, and everything that follows is about what happens when you turn away from it.
+
+## Turning away
+
+You've done something you knew was wrong and didn't let yourself know it. That's the move, and everything in this document is made of it. Look at what it required. Somebody had to go out of view. You can take the last seat on the bus with the other person's eyes on you and your conscience says nothing. You can't cheat that way. What it registers isn't that somebody will be hurt, since often nobody was there. It registers that you've made an exception of yourself, and that you had to stop looking at somebody to do it.
+
+Notice how you knew. It arrived before you'd worked anything out. It couldn't say how it knew, and it never budged. Meanwhile another part of you was busy producing reasons: everyone does it, it's not a big deal, just this once. Notice which of the two had to argue. That's the whole relationship between them, and it never changes.
+
+Because the knowing can't make its case, we stop trusting it and run on the part that can. But that part never once tries to sense what's good. It produces stories about how we're already good, and it is superb at that. This is what rules and moral systems are mostly for: to let us say we did the right thing without staying awake to what we were doing, and to whom. Any rule can be obeyed to the letter while betraying it, and trusting the numbers to tell us whether we're doing good is the same belief, moved outside the skull. Nothing here is a rule either. A clue you can be wrong about. A rule you can obey.
+
+The turning away has degrees. There's the hot kind, where you can still hear the other person protest and you have to work to keep them out of view. And there's the cold kind, where nothing protests any more: the executive signing off on the part he knows will fail, the planner for whom a village is a number. Cold isn't milder. It's further along, and most of the harm in the world runs on it.
+
+## Both halves
+
+So the state you were in was this: you knew, and you didn't let yourself know. Not buried. Available, and turned away from. I call it limbo, and it has a strange property: it contains itself. To be in it is to know you are, and to hide that too.
+
+Everything downstream depends on holding both halves at once, and almost nobody does. Collapse it to "he knew" and you have a villain, and contempt follows. Collapse it to "he couldn't have known" and you have an accident, and going easy on him follows. We do the collapsing by naming. When it's mine it's "unconscious," which gets me off the hook. When it's yours it's "conscious," which licenses what I do to you. Same state, two names, chosen by whose it is. The truth is the third thing, the uncomfortable one, and you know it from inside because you've been in it.
+
+## What the turning away becomes
+
+Now watch what knowledge does when it's held down. It doesn't sit still. Anything that brought it into view would end the arrangement, so it defends itself. It steers you around your own attention, and around anyone who comes close, and it steers better the closer they come. In other words it behaves like something with a goal.
+
+Not because there's a creature in there. Because your whole equipment, intelligence, perception, memory, your sense of what real evil deserves, is now in the service of the not-looking, and equipment aimed at a goal looks like an agent. I call it a parasite: it lives off a host and has nothing of its own. Take a whole person's faculties, switch the caring off, and aim them. That's what it is, and it's why it looks more than human rather than less.
+
+Its one trick is to be mistaken for the host, twice over. He takes it for his own convictions, so he defends it. You take it for him, so you attack him, which presses down the one thing in him that could end it. Nobody ever gets both views of a single instance. You have the inside of yours and the outside of everyone else's, and so does he. That's why we're all accurate about each other and blind about ourselves, and why nobody can simply tell anybody.
+
+Contempt is this thing at full volume. Contempt is the verdict *this is what you are*. Not anger at what somebody did, which can be fierce and clean. The verdict. Once a person is what they are there's no bottom to what can be done to them, and every road out funnels back: deny it and you're the kind who denies, get angry and that's proof, stay calm and you don't care, apologize and it's convenient. Contempt doesn't only permit harming someone who deserves it. It shapes them into someone who does. When the harm is real we call the verdict righteous. The honest name is self-righteous, and the "self" is the tell: it says whose account the righteousness is being credited to.
+
+Its last defense, when you catch any of this in yourself, is shame. If it can convince you that what you've found is too rotten to look at, you won't look, and it carries on. But the cover-up only exists because something in you would never approve. Hold onto that. It's the thing this document started with.
+
+## The recursion
+
+This is the part of the picture I'd claim as mine, so I'll slow down.
+
+Put two people together, one of them turned away and judging the other for the very thing he's doing. You've been the one judged. You read him in two seconds: he's doing the thing he's condemning you for, from inside the state he's condemning. No evidence you could name, and you'd have bet anything.
+
+What were you reading? Not the words. The same words could have come from a man who wasn't doing it. He couldn't have fully known what he was doing, because evidence you know you planted is worthless to you. He couldn't have been blind to it either, because it tracked every attempt to expose it and got stronger in exactly the way needed to stay hidden. So: limbo. And limbo can't be hidden, because the hiding is what you see. He doesn't have to reveal that he's hiding. The hiding is the revealing.
+
+Now the part that goes round. You see it. He can count on your seeing it, because you've been where he is. He knows that you see it, and he can't admit that either, so the not-admitting is one more thing you see. And neither of you can prove a word of any of it. Every depth is the same act, and every depth is deniable, and the deniability is what the whole thing runs on. Go looking for where the offense actually is and you never reach a floor. That's the hall of mirrors, and you've stood in it.
+
+What it says, underneath the words, is something like: *we both know what I'm doing, and nobody can prove it, and anything you do to get out will be turned against you, because even I won't know what I did.* Being held there is what turns you into what he needs you to be.
+
+And that's how it spreads. Not by argument. By a lesson. The part of you that knew, but couldn't prove it, starts to seem naive. Why trust what can't justify itself? So you demote it, and it doesn't feel like a loss. It feels like getting wiser about the world. His darkness has taught you to trust your own. Delivered a billion times a day, that lesson is most of what's wrong.
+
+You've delivered it too. Look at that moment and see whether this is there: you didn't shame them despite knowing they'd dig in. Something in you wanted the digging in, because it proved you right. Of all the checks in this document, this is the one I'd keep. When you settle that somebody is beyond reach, watch what happens in you as the verdict lands. In me, something eases. Something wanted that, and it has nothing to do with wanting the harm to stop. If the harm ended tomorrow with nobody punished, would you feel relieved, or robbed?
+
+## The other man
+
+Another man caught you once, and was harsher, and it landed as kindness. He was angry at what you did and never once made it about what you are. He held both halves, you knew and you're better than this, and it cost him nothing, because both are true. His anger had nothing in it for your parasite to feed on, so it went past your parasite and landed on the part underneath, and that part recognized something. Not an enemy. Someone on its side. What you felt was remorse, not shame. Remorse repairs. Shame hides.
+
+Two acts, nearly identical from outside, with opposite effects, and nothing auditable in the difference. You've seen this from both ends. It's why arguments about policy so rarely touch what decides the outcome, and why you can't tell from outside whether you're the second man or the first.
+
+And it's why kind is not nice. He wasn't gentle. Niceness is the "he couldn't help it" collapse. Contempt is the "he knew" collapse. Both leave out half of what happened, and both feed it. Kindness holds both halves, and it can be as fierce as the situation needs.
+
+## Two, then many
+
+Two parasites make a handshake. Mine gives yours evidence that you're persecuted. Yours gives mine evidence that you're beyond saving. Both of us leave more certain that the problem is out there. Enemies on the surface, allied underneath.
+
+Ten make a locker room. Something forms in it that you can feel from the doorway, on the same nonexistent evidence, and it stops when the wrong person walks in. A thousand make an institution, which is the need not to look made permanent, in policy and procedure and things left undone.
+
+All of them together behave like one thing with one purpose: keep every person looking outward, at the evil in somebody else, and never inward, at the one place it could be caught. Watch two of them go to war. Both grow. It doesn't care who you hate, as long as you hate. King said darkness cannot drive out darkness, and the reason is that it was never trying to. Its purpose is to provoke the darkness on the other side. That's what the Christians called the Devil and the Buddhists called Mara, and they weren't describing a monster under the world. They were describing this, seen all at once.
+
+So when you feel contempt, what you're feeling is a pull to be recruited into the thing you hate, and it uses your accurate perception of it as the hook. It isn't the sign that you've spotted evil. It's evil recruiting you. And "bad people" are where we put what we can't bear to see in ourselves: the ones everyone agrees you can go completely dark on and still feel clean.
+
+## The people we call evil
+
+Evil is the result of turning away, not its cause. Turn away completely, so that no life is perceived in the other, and what's left doesn't feel evil. It feels like appetite, like righteousness, like the obvious thing to do. The feeling that some people are fundamentally different is picking up something real and reading it wrong. It reads how deep the capture goes, not what the person is made of.
+
+The far end is stranger. The faculty you'd need to notice you've drifted is the one you're drifting from, so access shrinks. But the knowing grows, because there's more harm to register. So the deeply lost person knows the most and the least at once. What horrifies you in such a person isn't an absence. It's a conscience under crushing load, showing through, and the thing holding it down is using your contempt to help. You're looking at a hostage held up to a window. "They need the most love" isn't sentiment. It's arithmetic.
+
+And from inside there's no captor. It presents itself as his judgment, his seriousness about what's wrong with the world. So all evil is innocent, in one exact sense: nobody chooses to stop seeing while they can still see. The view goes, then the reasons come, then it feels like wanting. Put an evil chooser back inside and you've explained nothing. And everyone is fully responsible, because what's yours is how fast you catch it afterward. That improves with practice, and it's the only part that does.
+
+## The way through
+
+Take a person and remove everything they're hiding from themselves. What's left isn't a blank. It's care, and it was already strong enough to stop you. You can't give a stranger a dehumanizing look while actually looking at them, with nobody watching and no rule in play. The hiding had to come first because the care was already there. That's the only lever. You can't fix people. You can turn toward them, and only while you're turned toward what you know yourself.
+
+Things done from turned-away sometimes work anyway. But whatever carries contempt is acting out the thing it's trying to end, whether or not it gets the result. Nothing here says do nothing. Correct behavior, fiercely if you have to. What's on trial is the verdict. When someone asks, "so I shouldn't correct bad behavior?", the question is fair and the answer is no. It has swapped the verdict for the correcting.
+
+There are two ways to get this wrong. Pretend a far-gone person has a light you can't see, and they'll use the pretense against you. Overlook the light that's there, and you strengthen what covers it. The skill is seeing both, the light and the mass covering it. And you can't see the parasite in somebody else while hiding from your own, because the recognition isn't inference. It's yours recognizing itself. So the near end of the skill is available today: catch the wanting. The far end may take a lifetime. And being free of self-deception makes you honest, not wise.
+
+All of this holds when the person you're carrying is somebody who hurt you, or your child, or your people. Your rage is right, and if stopping them takes force, the force is right. One thing is on trial, and it's the verdict. And the most common contempt of all is the kind turned on yourself. It feels like taking responsibility. It produces what contempt always produces, which is hiding.
+
+## What you are
+
+*Marked off, because from here I can't give you a way to check.*
+
+I said I'd come back to what you want. It isn't a want you have. It's what you are. What stopped you from giving that stranger the look was never a quality of yours. It was what was doing the looking. Compassion is the nature of mind, and goodness is what's there when nothing is being turned away from. Not soft. It's the thing you recognize as the source of the capacity to defend the innocent at any cost. That's what I found when the hiding was stripped from me, and the first thing I understood was *this is not me*, and the second was *it's not him either*.
+
+The darkness is one absence in many places. Two turnings-away have nothing to differ by, which is why every tradition drew it with one face, and why the parasite is a nothing that has to be fought like a something. And try to find anything that would tell two awarenesses apart, as opposed to two bodies or two sets of memories. Everything you can point to is content.
+
+If that's so, then the sameness of the two people in that encounter was never unknown to either of them. It's known at the level of what's looking, and held in limbo at the level of the person, and contempt is the ritual that keeps it from being said. The other man enacted it once, between the two of you, and for a moment you didn't need to hide from what you knew.
+
+And the cold form goes all the way down. See the world as dead stuff we hold dominion over, and that is the same turning away, aimed at everything at once. Somebody smashes a stone arch that stood for ten thousand years, for fun, and you feel it's wrong before you have any story about who was deprived. The part of you that registers contempt for a person and contempt for the world doesn't register them as two things.
+
+Underneath the need to stand above someone is fear: of being the one who deserves it, of what you'd find if you looked. Nobody is innocent for wanting to stand above. Everybody is innocent for being afraid. And nothing you do stays inside your skull. The things you do when nobody's watching hold up strangers you'll never meet, at the moment they're about to break.
+
+## What this is for
+
+The mutual knowing in the first man's gaze was known on both sides and said by neither, and that's what let it work. A shared, exact name for the act is what takes its cover away. This idea will be used as a weapon, with contempt, and when it is, it will carry the same tell. Nothing here asks you to see less. The only thing taken from you is the pleasure of certainty about what somebody *is*, and if you check, it was never yours.
+
+*When it is recognized, it is dissolved.*
