@@ -9,7 +9,10 @@ out=working-manuscript.md
            manuscript/chapter-2.md manuscript/chapter-3.md manuscript/chapter-4.md \
            manuscript/chapter-5.md manuscript/rest-of-book.md manuscript/appendix-1-recursion.md \
            manuscript/appendix-2-what-others-have-seen.md \
-           manuscript/appendix-3-the-traditions.md; do
+           manuscript/appendix-3-the-traditions.md \
+           manuscript/chapter-6.md manuscript/chapter-7.md manuscript/chapter-8.md manuscript/chapter-9.md \
+           manuscript/chapter-10.md manuscript/chapter-11.md manuscript/chapter-12.md manuscript/chapter-13.md \
+           manuscript/chapter-14.md manuscript/chapter-15.md manuscript/chapter-16.md manuscript/chapter-17.md; do
     [ -f "$f" ] || { printf 'missing: %s\n' "$f" >&2; exit 1; }
     printf '\n\n<!-- ===== %s ===== -->\n\n' "$f"
     cat "$f"
