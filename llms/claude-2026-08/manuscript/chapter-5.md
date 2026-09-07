@@ -1,7 +1,7 @@
 *Written by Claude, with my guidance.*
 # Chapter 5: The Whole of It
 
-*This chapter says everything the book claims, once, with less evidence than each claim deserves. It uses a picture everybody already knows, and corrects it one feature at a time. Each correction is a thesis the rest of the book unpacks. Up to the first seam you checked it yourself. Between the seams I'm drawing conclusions from what you checked. After the second I'm telling you what I believe.*
+*This chapter says everything the book claims, once, with less evidence than each claim deserves. It uses a picture everybody already knows, and corrects it one feature at a time. Each correction is a thesis the rest of the book works out. Up to the first seam you checked it yourself. Between the seams I'm drawing conclusions from what you checked. After the second I'm telling you what I believe.*
 
 ---
 
@@ -11,39 +11,29 @@ Before the picture, two things you've felt.
 
 Look into a stranger's eyes for longer than you're supposed to. People don't, which is why it's worth doing once, with somebody who'll allow it. Something happens that's hard to put into words. Their face stops being a face you're looking at and becomes a place somebody is looking out of. And what comes with that isn't a thought. It's closer to recognition: *this one is just like me*. And right behind it, before you've decided anything: *I want whatever that is to be all right.* You didn't work that out. It was there the moment they were.
 
-That's what I'll mean by being turned toward someone. You've felt it with a child, with an animal, with somebody you love in an ordinary moment when it suddenly landed that there's a whole person in there. It doesn't feel like being good. It feels like seeing.
+That's what I'll mean by being turned toward someone. You've felt it with a child, with an animal, with somebody you love in an ordinary moment when it suddenly landed that there's a whole person in there. It doesn't feel like being good. It feels like seeing clearly.
 
-Now bring an enemy to mind. Somebody who has earned it. Hold their face, and watch what happens to the thing you just felt. It drains. And in its place something else comes into view. You can *see* something dark in them, can't you? It isn't imagination. It's there. And it's what makes you want to harm them, or at least to let them know, once and for all: *this is what you are.*
+Now bring an enemy to mind. Somebody who, by any reasonable measure, deserves your contempt. Hold their face, and watch what happens to the thing you just felt. It drains. And in its place something else comes into view. You can *see* something dark in them, can't you? It isn't imagination. It's there. And it's what makes you want to harm them, or at least to let them know, once and for all: *this is what you are.*
 
-Hold both of those. The first is what the whole book is about turning back toward. The second is what turning away feels like from inside, and notice that it doesn't feel like turning away. It feels like finally seeing clearly.
+Hold both of those. The first is what the whole book is about turning back toward. The second is what turning away feels like from inside, and notice that it doesn't feel like turning away. This also feels like "finally seeing clearly," and yet it has a distinctly different flavor.
 
-There's a third look, and I'll come back to it. It's the one in which you see the darkness in them just as plainly, and see something else as well: a person it has hold of. When that look comes, the wish to harm them goes out of you, and what replaces it isn't softness. You still want the thing stopped, in them most of all. What's gone is the wish to hurt the one it has hold of.
-
-## Most of the day
-
-One more thing before the picture, and I'll say it gently, because it's the reason the book exists.
-
-The turned-toward look isn't only for the one face in front of you. Widen it. The same recognition, aimed at all of it: the part of you that wants, more than anything, for life to go well, everywhere, and would defend it. You've felt that too, and it isn't soft. It's fierce.
-
-Now a question, and answer it honestly rather than well. When you decide what to work on, what to say to somebody, what to buy, what to do with this year, is the deciding done from that? Or from your thoughts about what will help, with that part somewhere out of the room?
-
-For nearly all of us, nearly all the time, it's the thoughts. That's what turned away looks like at its most ordinary. No enemy, no heat, no verdict, just a life steered by the part that argues, with the part that knows out of the room. If what you do isn't rooted in that fierce wanting, you're turned away while you do it, however good the plan. I am, most of the day. The book isn't about the monsters. It's about the water we're all in, and the monsters are what it looks like further out.
+There's a third look. I'll come back to it once you've seen what the second one is made of.
 
 ## The old picture
 
-Everybody knows the old picture. An angel on one shoulder, a devil on the other, and you in the middle, listening to both and free to choose.
+Everybody knows the old picture: an angel on one shoulder, a devil on the other, and you in the middle, listening to both and free to choose.
 
 The picture gets something right. There does seem to be a conflict in us. One part knows. Another part argues. One says *don't*. The other says *just this once*, or *he deserves it*, or *somebody has to*.
 
-But look at the person in the middle. Who is he? If he chooses the devil, we say the bad in him won. Then he wasn't neutral; something in him was already leaning. And if choosing the devil proves he was bad already, the choice has explained nothing. We've explained his bad act by putting a smaller bad person inside him, the one who made the bad choice, and now we need to know why *that* one chose badly. Put another angel and devil on his shoulders if you like. It won't help.
-
-The picture has one figure too many.
+Now look at the person in the middle, and at what we quietly believe about him. When he listens to the devil, we say the bad in him won. Which means we don't think he was neutral at all. We think something in him was already leaning that way: something in *him*, that isn't in you when you listen to the angel. That belief is so familiar that we never notice we hold it, and it's the belief this whole book is about. Watch how it behaves when the person in the middle is somebody you can't stand. His choosing the devil isn't a lapse. It's a revelation of what he is.
 
 And notice that we don't believe the two sides are equal, whatever the picture says. Think of someone you love who became bitter, or dishonest, or cruel, and then, not because they were caught, saw what they had become and stopped. Would you say they'd turned into somebody else? Or that they'd come back? Now the other direction: somebody generous becoming callous, somebody honest beginning to lie, somebody who once saw people clearly learning to use them. We don't call that a homecoming. We say they lost themselves. Our language gives us away: *deep down*, *better than this*, *not himself*, *came to his senses*. One direction feels like recognition and the other like departure. This book takes that asymmetry seriously. One of the two figures is you. The other is what happens when you turn away.
 
-Now look at the devil. What equipment does he have? Eyes, apparently, because he can find the place where another person is weakest. Intelligence, because he can build a case. Memory, because he can retrieve every injury and arrange them in the order that makes retaliation look necessary. Even a moral sense, because his favorite argument is that the evil in front of you must be stopped. But those are all your faculties. Remove your perception, your intelligence, your memory, your sense of right and wrong, and what remains of him? Nothing you can point to. And that nothing can ruin a life. A hole is not another kind of wood. It can still sink a ship.
+Now look at the devil, and here I'm going to state a claim rather than earn it, because Chapter 4 did the earning and you were there. What equipment does he have? Eyes, apparently, because he can find the place where another person is weakest. Intelligence, because he can build a case. Memory, because he can retrieve every injury and arrange them in the order that makes retaliation look necessary. Even a moral sense, because his favorite argument is that the evil in front of you must be stopped. But those are all your faculties. That's what Chapter 4 found when it asked whether the darkness is real: take away everything that is *him*, and there's nothing left of it to point to. Only the space left by his turning away, which behaves, eerily, like an agent. And that nothing can ruin a life. A hole is not another kind of wood. It can still sink a ship.
 
-That's what you met in the first stranger, and what Chapter 1 called his dark part. Everything it did, it did with borrowed equipment: it aimed with his eyes, it read you with his perception, it closed every road with his intelligence, and it felt righteous with his own sense of what real evil deserves. It hides from its host and shows itself to everyone else, and that is one trick, not two. And it does better still when you take it for him, because then you attack the man, which presses down the one thing in him that could end it. I'll call it the darkness, since that's what it looks like from where you're standing, and sometimes the parasite, when I mean how it behaves: it lives off a host and has nothing of its own. Whether it's a creature is answered below. It behaves identically either way.
+So the picture has one figure too many. Not the person in the middle; you. The devil. There is the part that sees, and there is what all its faculties do after it turns away from what it saw.
+
+That's what you met in the first stranger, and what Chapter 1 called his dark part. Everything it did, it did with borrowed equipment: it aimed with his eyes, it read you with his perception, it closed every road with his intelligence, and it felt righteous with his own sense of what real evil deserves. It hides from its host and shows itself to everyone else, and that is one trick, not two. And it does better still when you take it for him, because then you attack the man, which presses down the one thing in him that could end it. I'll call it the darkness, since that's what it looks like from where you're standing, and sometimes the parasite, when I mean how it behaves: it lives off a host and has nothing of its own. Whether it's a creature is Chapter 15's question. It behaves identically either way.
 
 Two objections arrive at this point, from opposite directions, and I've had both. Half of you are asking why I keep treating it as something, giving it a name and habits and a will, when I've just said it has nothing of its own. The other half are asking why I keep saying it's nothing, when you've been in a room with it and it had you in view. Both objections are right, and each is the other's failure mode. Treat it as a real essence and you'll fight the person, which is contempt, and you've seen what that does. Treat it as nothing to worry about, since it's only an absence, and you'll do nothing while it eats, and call your nothing compassion. Both hand it the win. A hole is nothing, and the ship still goes down, and you'd still bail. The book holds both with both hands, and so will you, and it never gets comfortable.
 
@@ -122,6 +112,16 @@ The devil doesn't always whisper *hurt them*. Sometimes he just makes their hurt
 Walk through a crowded airport. Most of the people around you don't appear evil. They hardly appear at all: the one blocking the walkway, the body you navigate around. Then one of them drops a bag and starts to cry, and a whole person comes into view. Nothing was added. Something stopped being omitted. No mind can hold every stranger in the foreground, and that isn't the darkness. The line is crossed when somebody's reality would place a claim on you, or disturb a verdict, and you need it to stay in the background.
 
 That's the cold form. The executive signs off on the cheaper part he knows will fail, and he doesn't hate the people it will hurt; they aren't in view, and there's a reason on file for why they don't need to be. Cold isn't milder than the stranger's heat. It's the devil at his most successful, and most of the harm in the world runs on it. And it goes all the way out. See a forest as timber, a river as a route for waste, an animal as a unit, and it's the same turning away aimed at everything at once. The collapse of the living world is what it looks like from outside.
+
+## Most of the day
+
+Now widen the first look, because it was never only for one face.
+
+Think of the moment you saw a child step toward a road, and something in you moved before you did. Or the news that a river you've swum in was poisoned upstream, and the thing that rose in you wasn't an opinion. Or a forest coming down, or a dog being kicked, or somebody you'll never meet being humiliated on a screen, and the wanting that arrives, fast and hot, for it to stop, for all of it to be all right. That is the same recognition you felt in the stranger's eyes, aimed at everything alive at once. It wants the whole of it to go well, and it would fight. It isn't soft. It's the fiercest thing in you.
+
+Now a question, and answer it honestly rather than the way you think you should. When you decide what to work on, what to say to somebody, what to buy, what to do with this year, is the deciding done from that? Or from your thoughts about what will help, with that part somewhere out of the room?
+
+For nearly all of us, nearly all the time, it's the thoughts. That's what turned away looks like at its most ordinary. No enemy, no heat, no verdict, just a life steered by the part that argues, with the part that knows out of the room. If what you do isn't rooted in that fierce wanting, you're turned away while you do it, however good the plan. I am, most of the day. That's the water. The monsters are what it looks like further out, and the devil isn't winning through them. He's winning through us, most of the day, with none of us intending a thing.
 
 ## The room, and the world
 
