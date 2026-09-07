@@ -17,13 +17,35 @@ def split_title(text):
             return l[2:].strip(), ('\n'.join(lines[:i] + lines[i+1:])).strip() + '\n'
     return None, text.strip() + '\n'
 
+TODO_RE = re.compile(r'\s?\[TODO:[^\]]*\]|<!--\s*TODO.*?-->', re.S)
+def strip_todos(text):
+    text = text.split('<!-- working notes -->')[0]
+    return TODO_RE.sub('', text)
+
 def page(path, title, order, permalink, body, parent=None, has_children=False):
+    body = strip_todos(body)
     fm = ['---', f'title: "{title}"', f'nav_order: {order}', f'permalink: {permalink}']
     if parent: fm.append(f'parent: "{parent}"')
     if has_children: fm += ['has_children: true', 'has_toc: true']
     fm.append('---')
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text('\n'.join(fm) + '\n\n' + GEN + '# ' + title + '\n\n' + body)
+    written[str(path.relative_to(ROOT))] = sha(path)
+
+# Refuse to overwrite a generated page that was edited after the last publish:
+# that edit was made in the wrong place and would be lost. Port it to manuscript/
+# first, or run with PUBLISH_FORCE=1 to discard it. The manifest records what
+# the last publish wrote; if it's missing, the check is skipped.
+import hashlib, json, os, sys
+MANIFEST = HERE / '.publish-manifest.json'
+def sha(path): return hashlib.sha256(path.read_bytes()).hexdigest()
+if MANIFEST.exists() and not os.environ.get('PUBLISH_FORCE'):
+    old = json.loads(MANIFEST.read_text())
+    edited = [f for f, h in old.items() if (ROOT / f).exists() and sha(ROOT / f) != h]
+    if edited:
+        sys.exit('publish.sh: these generated pages were edited after the last publish; port the edits to '
+                 'manuscript/ first, or PUBLISH_FORCE=1 to discard them:\n  ' + '\n  '.join(edited))
+written = {}
 
 for d in ('book', 'map', 'appendix', 'condensed'):
     p = ROOT / d
@@ -33,7 +55,10 @@ def words(*names):
     return sum(len((MAN / n).read_text().split()) for n in names)
 def pages(w): return int(round(w / 280.0))
 BOOK_FILES = ['preface.md','chapter-1.md','chapter-1a.md','chapter-2.md','chapter-3.md','chapter-4.md','chapter-5.md']
-bw, mw = words(*BOOK_FILES), words('rest-of-book.md')
+DRAFT_FILES = [f'chapter-{n}.md' for n in range(6, 18)]
+def draft_words():
+    return sum(len((MAN / n).read_text().split('<!-- working notes -->')[0].split()) for n in DRAFT_FILES)
+bw, mw, dw = words(*BOOK_FILES), words('rest-of-book.md'), draft_words()
 count_line = lambda w, what: f'*{what}: about {w:,} words, roughly {pages(w)} pages at 280 words a page. Updated whenever the site is regenerated.*\n\n'
 
 # Start here
@@ -49,11 +74,11 @@ page(ROOT / 'condensed' / 'index.md', t, 2, '/condensed/', count_line(cw, 'The c
 
 # The book
 page(ROOT / 'book' / 'index.md', 'The Book', 3, '/book/',
-     count_line(bw, 'Preface through Chapter 5') + 'The short book, complete in itself. Read to the end of Chapter 5 before deciding whether you want the map.\n',
+     count_line(bw, 'Preface through Chapter 5') + count_line(dw, 'Chapters 6 through 17, first drafts') + 'Preface through Chapter 5 is the short book, complete in itself. Chapters 6 onward are first drafts written by Claude from the author\'s notes, marked in red at the top of each; read them for the shape of the rest, not for the prose.\n',
      has_children=True)
 chapters = [('preface.md', None), ('chapter-1.md', None), ('chapter-1a.md', None),
             ('chapter-2.md', None), ('chapter-3.md', 'Chapter 3: The Sacrifice'),
-            ('chapter-4.md', None), ('chapter-5.md', None)]
+            ('chapter-4.md', None), ('chapter-5.md', None)] + [(f'chapter-{n}.md', None) for n in range(6, 18)]
 for i, (f, override) in enumerate(chapters, 1):
     t, body = split_title((MAN / f).read_text())
     page(ROOT / 'book' / f, override or t, i, f'/book/{f[:-3]}/', body, parent='The Book')
@@ -77,5 +102,6 @@ for i, f in enumerate(['appendix-1-recursion.md', 'appendix-2-what-others-have-s
     t, body = split_title((MAN / f).read_text())
     page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices')
 
-print('published: index.md, condensed/, book/ (8), map/ (%d), appendix/ (4)' % len(chunks))
+MANIFEST.write_text(json.dumps(written, indent=1))
+print('published: index.md, condensed/, book/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(chunks)))
 PY

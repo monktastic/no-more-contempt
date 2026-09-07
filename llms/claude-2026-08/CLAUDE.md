@@ -60,12 +60,17 @@ by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
 map; `spiral-cycle.dot` is why the circularity is fine.
 `archive/` kept for the reasoning, not for reuse. References in here point at
 files under their old names; that's the historical record and stays as it is.
+Inline notes go in the source as `[TODO: ...]`. `publish.sh` strips them from
+the site; `build-manuscript.sh` keeps them, so the working manuscript shows
+them. HTML comments (`<!-- TODO -->`) are stripped too, but the bracket form
+is easier to type and to grep.
 `build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
 Generated output; never edit it.
 `publish.sh` generates the website from the manuscript files into the repo
-root: `index.md`, `book/`, `map/`, `appendix/`. Those are generated and
-committed (GitHub Pages builds from the repo); never edit them, edit
-`manuscript/` and run the script. The site is Jekyll with the just-the-docs
+root: `index.md`, `book/`, `map/`, `appendix/`, `condensed/`. Those are generated
+and committed (GitHub Pages builds from the repo); never edit them, edit
+`manuscript/` and run the script. The script refuses to run while a generated
+page has uncommitted edits, so an edit made in the wrong place isn't lost. The site is Jekyll with the just-the-docs
 theme; config is `_config.yml` at the repo root, custom style in
 `_sass/custom/custom.scss`. Run `publish.sh` after any manuscript change that
 should go live.
