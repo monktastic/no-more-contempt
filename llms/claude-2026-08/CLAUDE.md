@@ -34,6 +34,9 @@ medium and Parts A to F the full).
 `manuscript/condensed.md` the theory in a few pages for the reader who has
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Not in the build; on the site as its own page.
+`manuscript/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
+seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
+on the site. They will absorb `rest-of-book.md` as they're written.
 `manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
 `manuscript/appendix-1-recursion.md` the recursion, stated without formalism.
@@ -203,6 +206,9 @@ to something that exists and says what it's cited for.
 and cold share; "self-righteous contempt" for contempt where the harm is real (never
 "righteous contempt"; righteous keeps its real meaning; and never "when the
 target is evil", which reinstates the verdict); "contempt for the world" for the cold form applied to everything.
+"Darkness" is the plain name for the thing; "parasite" when the claim is
+about how it behaves (lives off a host, can be evicted); "the devil" only
+when the shoulder cartoon or the traditions are in view. Never a fourth name.
 
 **debt check** — every promise made in a draft ("this gets its own chapter")
 has a chapter that pays it, or the promise comes out.
