@@ -1,4 +1,4 @@
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 # Chapter 11: The Conspiracy
 
 > *We have met the enemy and he is us.* —Walt Kelly

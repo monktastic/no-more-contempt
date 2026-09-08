@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 15: What It's Made Of
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular.* —Carl Jung
 
@@ -28,4 +28,3 @@ And if it's a costume, you'd expect to recognize it on more than one person. Che
 So this is what you have to hold, and it takes both hands. It isn't real, and it has to be fought. Decide it's a real essence and you'll fight the person, which is contempt, and you've read what that does. Decide it's harmless because it's an absence and you'll do nothing while it eats, and you'll call your nothing compassion. Both hand it the win. A nothing that must be fought like a something, without ever being mistaken for a something. And there's a payoff for holding it, which is the only reason it's worth the trouble. If it were a real essence, it would be in the person, and the only way to end it would be to end them. Because it isn't, there's another way in. You can go after the absence and leave the person standing. That's not a softer option. It's the only thing that has ever removed any of this from the world.
 
 Which means there is nothing to be ashamed of at the bottom, and shame was its last line of defense. The moment you can look without your worth being on trial, it has nothing left to work with. That's why the medicine could show me what it showed me. It held me in something while it did. When darkness is exposed without that, we feel threatened and can't look. Held, we can, and what we find is that it was never ours. That's what the second stranger did for you, in miniature. It's what this book is trying to do.
-

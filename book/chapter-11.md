@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 11: The Conspiracy
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *We have met the enemy and he is us.* —Walt Kelly
 
@@ -28,4 +28,3 @@ That's what's sane in the feeling that there's an evil conspiracy running the wo
 Real conspiracies exist. People meet in rooms and plan harm and hide it. What I'm describing is the one underneath, the one that supplies those rooms with people willing to sit in them, and supplies the rest of us with the certainty that we'd never be among them. It has no headquarters. It needs no central conspirators. And here is its recruiting office: the feeling of being the noble one, standing outside it, fighting it. That feeling is how it gets you to hate, and it doesn't care whom.
 
 Two mistakes are waiting, and both hand it the win. Decide there's nothing there, just people being people, and you'll do nothing while it eats and call your nothing compassion. Decide there's a real cabal and you'll go looking for them, with contempt, which is the recruitment working as designed. What's true is stranger than either. It's a nothing that has to be fought like a something, and every tradition that looked at it hard ended up giving it a face. The Christians called it the Devil. The Buddhists called it Mara. I don't think they were describing a monster under the world. I think they were describing this, seen whole. Whether it's a creature, I'll come to. It behaves identically either way.
-

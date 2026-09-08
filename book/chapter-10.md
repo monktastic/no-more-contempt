@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 10: How It Spreads
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness.* —2 Corinthians 11:14–15
 
@@ -32,30 +32,3 @@ Do they know what they're doing? Yes and no. Ask any of them afterward and you'l
 And underneath all of it, the background hum: the casual contempt we hurl at each other all day, most of it too small to notice, which sets how dark everyone assumes the world is and how much everyone feels licensed to protect themselves. Our small shadows need the large ones. If integrity were the norm, your small acts of self-deception would stand out, and you'd feel pressure to confront them. As long as there's systemic corruption to point at, your parasite has cover. Your contempt for the corrupt isn't putting them out of business. It's keeping them in it.
 
 ---
-
-## Original material, to recover
-
-Consider the realm of politics. Suppose we discover that our opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant.
-
-So we decide it's fine to be a little underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and we'll stop at nothing to expose it. It's part of our duty as "good people."
-
-Do we know we're being underhanded?
-
-Yes and no. At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels _more_ justified. Because *we're* doing it for a good reason, and *they're* doing it for a bad one. Totally different things.
-
-And it doesn't stay confined to politics. We stop giving people the benefit of the doubt the moment we know their "kind." We stop being curious about what they might actually think. Entire categories of person become not worth talking to.
-
-The world as a whole appears darker. It feels like something being done to us.
-
-But here's a question: *why* are our enemies increasingly "doing it too?" Might it at least partly be in response to *our* doing it? Of course it is.
-
-And couldn't we have seen that coming? Not afterward. _While we were doing it._
-
-Of course we could have. In fact, *part of us did*. But why on Earth would we do something that we *know* makes our enemies worse?
-
-Because look what it buys us. When they take the bait—get nastier, more paranoid, more willing to cheat—we get to point at it. There it is. That's what they really are. They never had any hope of reforming. And that's a huge relief, because if they did, then maybe what we were doing wasn't so virtuous after all. Maybe we're ultimately no better than them. And that *just can't be.*
-
-But all those fears can be laid to rest now. They've shown themselves for what they really are. Which gives us permission to do whatever we must.
-
-We had a hand in creating the monsters, so that we could be sure they really are monsters.
-

@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 6: Why You Can't Think Your Way Out
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *Ultimately evil is done not so much by evil people, but by good people who do not know themselves and who do not probe deeply.* —Reinhold Niebuhr
 >
@@ -30,24 +30,3 @@ So here is a test for any grand plan for doing good. Does it need you to feel co
 Three cases, and then a fourth.
 
 ---
-
-## Original material, to recover
-
-Sally cares deeply about animals, and chooses to go vegan. Frustrated that her friends won't see the harm they're funding, she gets sharper with them—which feels like honesty, not cruelty. Eventually she alienates them, and comes to resent humanity in general.
-
-Sam Bankman-Fried cares about effective altruism. He builds a trading empire to generate billions he plans to give away, living cheaply while he does it. When customer funds are needed to keep the thing alive, moving them feels responsible—that money will do more good in his hands than anywhere else. He defrauds those customers of billions and goes to prison.
-
-Adolf Hitler sees his country humiliated after a war and sunk into poverty. He sets out to make his people strong and to protect them from what he's certain will otherwise destroy them. To him, none of it is aggression. It's defense. I think you know what happens next.
-
----
-
-Let me be clear: what these specific cases have in common is the shape of the mistake, not the scope of the harm.
-
-In each, there's a kernel of truth in the person's care. That kernel licensed them to overstep moral bounds, in increasingly severe degrees. None of it felt wrong, let alone evil—because it was for a "good cause." And yet look at the result.
-
-In every case, the person set their cause back. Sally wanted people to see what she sees; now they treat her cause with ridicule. Sam wanted to prove that enormous good could be funded at scale; now Effective Altruism is treated with more suspicion. Hitler wanted to save his people; he destroyed them instead. Same with the husband: he wanted less selfishness and got more of it.
-
-But do any of these people blame themselves? Or does the ridicule and contempt they receive just make them *more convinced* that they're right?
-
-Which brings us to the fourth and most instructive example: us.
-

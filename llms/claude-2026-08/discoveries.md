@@ -84,9 +84,27 @@
 **Implicit common knowledge (Tier III).** The street is recursive mutual recognition under deniability, not common knowledge; that stands. But under the belief that care is the nature of awareness, that awareness knows its own nature, and that turning away is the one mistake common to every sentient being, the sameness of the two people is common knowledge at the level of awareness, as a fixed point: what's known includes that every awareness knows it, at worst in limbo, so every further depth repeats the same content. It stays unavailable as explicit common knowledge at the level of persons. Contempt is the anti-ritual that keeps it from becoming avowable; the second stranger enacts the sameness so that it can't be disavowed. Needs the awarenesses to be indistinguishable in nature, not numerically one.
 → `manuscript/appendix-1-recursion.md` Part Three; `argument.md` §8
 
+**The choice is real at one point, and there's no chooser after it.** The cartoon gets the moment right: two pulls, genuinely felt, and you between them. While both can be felt you're still looking, and the choice is whether to keep looking. After that there are only reasons. The second pull is a want the looking would veto plus the accumulated ease of turning (your previous turns, and the turns made at you), which is how the parasite exists before it has you without being a second creature. This honors the phenomenology before the ontology and keeps "all evil is innocent" (once turned) compatible with "you have a choice" (before). The first turn is Tier III. And "why did you stop?" has an answer that isn't "no reason" and isn't a bad chooser: for the want, which is innocent; what wasn't chosen was the description, which arrived under another label. The felt "I chose it, knowing better" is accurate and is limbo showing itself afterward, which is why remorse fits it and shame doesn't.
+→ `manuscript/chapter-5.md` (The old picture), `argument.md` (addendum ▸), `engine.md`
+
+**Turning away and harm imply each other, and everybody already knows it.** No harm without holding the person out of view (Chapter 1); no holding out of view without something the view would stop (Chapter 5). Together: turning away exists for harm or use and nothing else, which is the nearest thing to a universal bad thing, and the reason contempt works at all is that the willingness to turn away is read as the sign of something bad by everyone, untaught. Love is the partner: the first look held toward all of it and not dropped when the people responsible appear. The third look was a mistake; it's the first look with the wish for the harm to stop intact.
+→ `manuscript/chapter-5.md` (All of it), `manuscript/chapter-1.md` (The Mechanism, proposed), `argument.md` (addendum ▸)
+
+**Nothing stays in your skull, at three distances.** The preface's promise is paid in grades. In front of you (Tier I): limbo shows, it teaches, and you know it teaches because that's how you learned it, so you can't be in limbo without knowing you're teaching it. Nobody in front of you (Tier II): the empty room's act is what you'll do to the next person's knowing, and it shows in the next glance. The cave (Tier III): marked. The missing link before this was the second clause of the first distance: the knowledge that it's a lesson.
+→ `manuscript/chapter-5.md` (Three distances), `argument.md` (addendum ▸), `engine.md`
+
+**Every act counts: the crescendo.** The preface's question, "confined to our skulls?", is answered at full volume only in Chapter 16: the insect in the cave, the stranger about to break, nothing lost. Marked as belief; the only check offered is the reader's non-neutral reaction to the sealed room. The chooser problem is held the way the parasite is held, and Dzogchen has held the same pair (no chooser at the origin; conduct as fine as flour). Religions at their best are the method for freedom from self-deception in order to free others, and the corruption is immediate: "I'm free and you're not," and pity.
+→ `manuscript/chapter-16.md`, `manuscript/chapter-5.md` (What I believe), `engine.md`
+
 ---
 
 ## Structure and method
+
+**The narrative engine is two questions braided.** The preface asks whether what's in your skull matters (reach); Chapter 1 asks what the thing is (depth). They're the spiral's two indices, and the book is them converging: it reaches everywhere because of what it is. Each chapter moves one axis a notch and never moves either back; each opens on the previous chapter's question and closes by raising the next one's. Intensity is the open question; breathing room is the check. Drafts read as a list when they open on a topic instead of a question.
+→ `engine.md`
+
+**Chapter 1 has a knowledge ledger, and three frames.** Outside (what the reader saw), inside (what it was like for him), held (what he knew and didn't let himself know). "Whatever it was" about something already stated, and an unmarked "he knew" or "he didn't know," are the regressions. Each section closes one question and opens one.
+→ `chapter-1-ledger.md`
 
 **A spiral is a DAG with a second index.** A node is a (claim, depth) pair, not a claim. X↔Y is impossible; (X,1)→(Y,1)→(X,2)→(Y,2) is acyclic. The cycle only existed because "X" was being treated as one node when it's a column of them.
 → `spiral.md`, `dags/spiral-cycle.dot`

@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 13: Contempt From Below
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *Be kind, for everyone you meet is fighting a great battle.* —Author unknown
 
@@ -28,4 +28,3 @@ What actually frightens it is the other thing: fierce, unyielding refusal that c
 Notice what the second stranger produced in you. It wasn't shame. It was remorse: what you feel about what you did when what you are isn't in question. Remorse repairs. Shame hides. That is the difference between the two men, and it has been measured.
 
 There's one more form of contempt, the most common of all, and nobody talks about it: contempt for yourself. The verdict, turned inward. *You are what you did.* It feels like accountability. It produces what contempt always produces, which is hiding. And it's the darkness's last defense, when you catch any of this in yourself: convince you that what you've found is too rotten to look at, and you won't look, and it carries on. But the cover-up only exists because something in you would never approve. That something is what you are. You will hold their darkness the way you have learned to hold your own, and it's true of you first.
-

@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 14: The Only Lever
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world.* —Carl Jung
 >
@@ -32,10 +32,3 @@ You may be wondering whether the book is asking you to just believe people are g
 A few things I owe you. Cruelty can suppress misbehavior, at least the public kind, for a while, which is why it's easy to believe it works. Check it against a case you have: someone shamed into stopping, in your family or your workplace or your own childhood. Did they stop, or did they get better at not being caught? Outcomes still count. Sometimes stopping grave harm through contaminated means is plainly better than permitting it, and sometimes the contempt brought against a minor wrong is the greater harm. What this book adds is that the contempt is a second harm in the calculation, and we usually count it as nothing, or as a benefit. Nothing in this book is a rule, for the reason you saw in Chapter 6. And if you want to end evil in the world, this is what it comes down to: end the turning away, and the only place you can do that is in yourself. Otherwise some part of you will go on reinforcing it in everyone you meet, while another part is certain you're fighting it. Why *would* I want to stop corruption, when I feel so good judging it? Sit with that. Part of me doesn't. That's the part this book is about.
 
 ---
-
-## Original material, to recover
-
-From `quotes.md`: John Makransky on receiving a love that touches past our flaws to the intrinsic goodness of our being, so that we can offer the same; the MDMA first-timer ("a white screen with some dark spots" instead of "a shit-sandwich with occasional bright moments"); the forum member who forgave a ruthless liar by looking at every situation in which he had lied himself, and could still take legal action. Chapter 8 gets Hesse and Jung's hook.
-
-None new otherwise; map §12 is close to final prose.
-

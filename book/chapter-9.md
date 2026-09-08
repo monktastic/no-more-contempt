@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 9: The Satisfaction
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *Not that these others are wholly without blame, for even the worst projection is at least hung on a hook, perhaps a very small one, but still a hook offered by the other person.* —Carl Jung
 
@@ -28,4 +28,3 @@ Think about how it feels when you've skirted your own conscience and somebody tr
 Of all the checks in this book, this is the one I'd keep. The next time you settle it that somebody is beyond reach, watch what happens in you as the verdict lands. In me, something eases. Something wanted that, and when I look at what wanted it, it has nothing to do with wanting the harm to stop. If the harm ended tomorrow, with nobody punished and nobody exposed, would you feel relieved, or robbed? The relief is fast, and it comes dressed as clarity, and the whole encounter is arranged so that you're looking at him. The first several times you go looking you may find nothing. Then one day you'll catch it.
 
 The darkest idea this thing has ever produced is the one that sounds most like a solution: if we could just round up the bad people and be rid of them, the rest of us would live in peace. The turning away it takes to hold that thought guarantees that the darkness stays behind, in full force, changed only in shape. I can't find an atrocity that didn't begin there. And when I say contempt is evil, I don't mean it's very bad. I mean it's the thing the word was pointing at all along.
-
