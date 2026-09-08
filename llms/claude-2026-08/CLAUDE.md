@@ -54,13 +54,17 @@ tracks the good.
 Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
 `spiral.md` why circular dependencies aren't a problem here.
+`engine.md` what pulls the reader forward: the two questions, the reach ladder,
+the chapter hand-offs. Ordering decisions come from here, not from the dags.
+`chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
+frame (outside, inside, held), and what it leaves open.
 `dags/` dependency graphs. The `.dot` is the source; regenerate with
 `dot -Tsvg f.dot -o f.svg`. `book-map.dot` is the whole book on one page,
 by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
 map; `spiral-cycle.dot` is why the circularity is fine.
 `archive/` kept for the reasoning, not for reuse. References in here point at
 files under their old names; that's the historical record and stays as it is.
-Inline notes go in the source as `[TODO: ...]`. `publish.sh` strips them from
+Inline notes go in the source as `[TODO: ...]` or `[TODO(name): ...]`. `publish.sh` strips them from
 the site; `build-manuscript.sh` keeps them, so the working manuscript shows
 them. HTML comments (`<!-- TODO -->`) are stripped too, but the bracket form
 is easier to type and to grep.
@@ -70,7 +74,9 @@ Generated output; never edit it.
 root: `index.md`, `book/`, `map/`, `appendix/`, `condensed/`. Those are generated
 and committed (GitHub Pages builds from the repo); never edit them, edit
 `manuscript/` and run the script. The script refuses to run while a generated
-page has uncommitted edits, so an edit made in the wrong place isn't lost. The site is Jekyll with the just-the-docs
+page has uncommitted edits, so an edit made in the wrong place isn't lost. It
+writes every generated page read-only, and it cuts the "Original material"
+section and everything after `<!-- working notes -->` from the draft chapters. The site is Jekyll with the just-the-docs
 theme; config is `_config.yml` at the repo root, custom style in
 `_sass/custom/custom.scss`. Run `publish.sh` after any manuscript change that
 should go live.
@@ -142,6 +148,31 @@ The tells, every one of which has turned up in drafts:
 Fragments are allowed and are sometimes the point. More than one or two on a
 page and they stop working. Read it aloud before you keep it. If it sounds like
 a memo, cut it.
+
+## Frames are lenses
+
+The spine of the book is one paragraph at the top of `engine.md`, and every
+frame we have tried is a lens on it. When a new frame arrives, or an old one
+starts to feel like "the most important thesis," check it against the table
+there before doing anything. If it's a lens, it goes into the chapter its row
+names, and nothing upstream is reordered. Only a change to what the spine says
+reopens Chapters 1 to 5. Say which it is before editing.
+
+## What a page is for
+
+The effect a page is after, in the reader's words: *of course. It had to be
+this way, and I've always known it. I must have, or this wouldn't have worked
+on me.* The second half isn't a separate discovery; the way it had to be
+includes that they already knew. So the test of a page is not whether the
+reader agrees. It's whether they find they were already using it.
+
+What produces that: the reader supplies the evidence before the name arrives;
+they predict before they're told; the name, when it comes, compresses what
+they've already found. Two things counterfeit it and both have turned up in
+drafts. "Must" and "cannot," used to hide alternatives rather than to state a
+constraint. And "we all know," said before the reader has caught themselves
+knowing. A page that has earned "of course" can drop about a fifth of its
+explaining, because the reader is doing the inference.
 
 ## Which model is running, and what each may do
 
@@ -219,6 +250,15 @@ when the shoulder cartoon or the traditions are in view. Never a fourth name.
 has a chapter that pays it, or the promise comes out.
 
 **tic sweep** — the list above, mechanically.
+
+**knowledge check** — Chapter 1 against `chapter-1-ledger.md`. Every sentence
+about the first stranger is in one frame (outside, inside, held) and says so;
+no "whatever it was" about something already stated; each section closes one
+question and opens one; the sum-known sentence appears once, at the hinge.
+
+**hand-off check** — every chapter opens on the question the previous one
+closed with, per the table in `engine.md`, and closes by raising the next
+one's. A chapter that opens on a topic fails.
 
 **dag sync** — regenerate graphs after structural edits.
 

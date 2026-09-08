@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 12: The People We Call Evil
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?* —Alexander Solzhenitsyn
 
@@ -28,10 +28,3 @@ And from inside, there's no captor. What's holding him doesn't present itself to
 Here is where I could be wrong, and I'd rather you knew it. The one who wants the suffering, and stays to watch it, looks like a person who sees his victim and harms anyway. If that's what he is, my account fails. What I think is that he sees a subject and not a person of the same kind as himself, and that the sameness is held down, not gone. So there's a test. If, at the moment somebody is inflicting suffering for its own sake, they can be seen looking at the victim with real kindness, not tenderness as coercion, not a flash of it and then the turning away again, then I'm wrong. I have never come across a case that meets those conditions. And psychopaths: I don't know. Some people may have very little ordinary access to the deep part, or very little capacity to turn it into fellow-feeling and restraint. Nothing checkable here needs everyone to have equal access. It needs you to have it, and it needs the people who make you truly enraged to be, overwhelmingly, what I think they are: ordinary people in deep limbo. That's what your rage was reacting to. That's what it could see.
 
 ---
-
-## Original material, to recover
-
-From `quotes.md`: the forum witness (the girl burned alive to clear land; "the same mistakes in value attribution, the same willful ignorance"), already in map §14; the Duncan Trussell line, "it isn't the victim of violence you have to pray for so much. It's the perpetrator"; the near-death life review (reliving your acts from the other person's side, and seeing their self-deceptions too, with the judgment coming from yourself and the comfort from something else). The Makransky passage on receiving love past one's flaws belongs in Chapter 14.
-
-None new otherwise. Chapter 2's trip and the map's Part C are the material; the far-end and hostage passages in the map are close to final prose.
-

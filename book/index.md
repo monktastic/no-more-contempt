@@ -10,8 +10,8 @@ has_toc: true
 
 # The Book
 
-*Preface through Chapter 5: about 18,773 words, roughly 67 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Preface through Chapter 5: about 20,803 words, roughly 74 pages at 280 words a page. Updated whenever the site is regenerated.*
 
-*Chapters 6 through 17, first drafts: about 12,723 words, roughly 45 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Chapters 6 through 17, first drafts: about 11,558 words, roughly 41 pages at 280 words a page. Updated whenever the site is regenerated.*
 
 Preface through Chapter 5 is the short book, complete in itself. Chapters 6 onward are first drafts written by Claude from the author's notes, marked in red at the top of each; read them for the shape of the rest, not for the prose.

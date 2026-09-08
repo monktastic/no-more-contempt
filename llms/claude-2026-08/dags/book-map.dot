@@ -30,6 +30,8 @@ digraph book {
     S2  [label="Two strangers\nnear-identical words, opposite effects", penwidth=2.2, color="#3d3934"];
     T   [label="The tell\nthe hiding is the revealing", penwidth=2.2, color="#3d3934"];
     Ex  [label="The exception\n'this doesn't apply to me' =\n'you're not one of us'"];
+    Both [label="Both directions\nno turning away without harm or use;\nno harm without turning away", penwidth=2.2, color="#3d3934"];
+    Ch  [label="The one choice\nkeep looking, or stop;\nno chooser after"];
   }
 
   subgraph cluster_inferred {
@@ -77,6 +79,7 @@ digraph book {
     Arch [label="The tree and the arch\ncontempt for the world"];
     node [fillcolor="#efe9df"];
     ICK [label="Implicit common knowledge\ncommon at the level of awareness,\nunavowable at the level of persons\n(Appendix 1)", penwidth=2.2, color="#3d3934"];
+    Act [label="Every act counts\nthe insect in the cave;\nthe stranger about to break", penwidth=2.2, color="#3d3934"];
     node [fillcolor="#fbf0c4"];
     Nat [label="Compassion is the nature of mind\nwhat stopped you on the street\nwas what was doing the looking", penwidth=2.6, color="#a8362b", fontcolor="#5a1d16"];
   }
@@ -90,15 +93,15 @@ digraph book {
   }
 
   // ---- rows (keep each band compact and stacked) ----
-  { rank=same; G; Ex; }
-  { rank=same; S2; P; }
+  { rank=same; G; Ex; Both; }
+  { rank=same; S2; P; Ch; }
   { rank=same; Tr; Hj; HC; }
   { rank=same; K; Pc; Sh; Pa; }
   { rank=same; Lev; W; In; Tug; Loop; Ev; }
   { rank=same; Md; Cs; Bel; Far; Inn; }
   { rank=same; Sad; Prac; }
   { rank=same; Rem; One; Arch; Fear; }
-  { rank=same; ICK; Nat; }
+  { rank=same; ICK; Act; Nat; }
 
   // ---- edges: what rests on what ----
   L -> Cn; L -> Tr; Cn -> G; G -> S2; S2 -> T; Cn -> Ex;
@@ -111,6 +114,7 @@ digraph book {
   Md -> One; Md -> Fear; Ex -> Arch;
   One -> ICK; T -> ICK;
   Rem -> Nat; One -> Nat;
+  G -> Both; Both -> HC; Both -> Four; Ch -> Inn; Ch -> Act; One -> Act; Act -> For;
   Lev -> Four; Nat -> For; Four -> For;
 
   // ---- the road in ----

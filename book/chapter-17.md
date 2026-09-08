@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 17: What This Book Is For
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved.* —The Gospel of Philip
 
@@ -30,4 +30,3 @@ And under the bet is the thing the bet is for. The name is a means. Go back to w
 I can't take you further than suspecting that. If you come away suspecting it, from your own case, the book did its work, whatever else it got wrong.
 
 *When it is recognized, it is dissolved.*
-

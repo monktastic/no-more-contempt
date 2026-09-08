@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 8: The Water
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* —Hermann Hesse
 
@@ -30,4 +30,3 @@ There's a version of moral self-licensing that's the reverse of the usual one. T
 I said this chapter is the reason the book exists, and here's why. The devil, if you want to call it that, isn't winning through the monsters. The monsters are rare, and we're watching them. He's winning through the default, through the water, through all of us most of the day, with none of us intending a thing. That's the only reason he doesn't need conspirators.
 
 The point of this isn't to make you feel rotten. It's scope. Nothing about what happened between you and the stranger was a special event. And there is a turning point available in a life, when the whole storehouse of this is unveiled at once, and it's impossibly painful, and after it you don't become a good person. Your own self-deception just becomes painful to you, so that you can't help acknowledging it when it arises, and you clean it up bit by bit. That's what the rest of the book is for.
-

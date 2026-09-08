@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 7: The Hijacked Eye
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *We judge ourselves by our intentions and others by their behavior.* —Stephen Covey
 
@@ -32,48 +32,3 @@ There's a quieter version of the same thing, and you can check it without a figh
 One more thing about the eye, and it's the strangest. The darkness in him doesn't only make her look like the verdict. It makes *him* look like it, to her. She sees his cruelty as what he is, exactly as he sees her selfishness, and the same trick has now run in both directions. Nobody ever gets both views of one instance. You have the inside of yours and the outside of everyone else's. So do they. That's why you can't tell from outside whether you're the second man or the first, and why the only comparison that works is the one you can make from inside: the contemptuous moment set beside a moment when you were most yourself. The two feel worlds apart. But you can't make that comparison while you're in the first one, which is the whole problem, and the subject of the rest of this book.
 
 ---
-
-## Original material, to recover
-
-Imagine a couple fighting.
-
-They're usually on good terms, but one day something happens that causes him to accuse her of being utterly selfish. Not *acting* selfishly. *Being* it. In that moment he's sure he's finally seeing her true colors—the thing that was there all along, while her seeming kindness was just a mask.
-
-Because he feels like that's what she *is*, he lets himself say something cruel. Just slightly. But enough to make sure it lands.
-
-*Maybe this way, she'll learn*, he tells himself.
-
-But does she? Maybe she gets angry and now has even more to hold against him. Maybe she doesn't fight at all—she just feels smaller. Like she's beyond help, just as he says.
-
-Either way, something gets smothered. Not her selfishness—the *life* in her. The part that wants to be better; that can look at itself honestly and change. The only part that could have given him what he actually wanted.
-
-It might even look like it worked. Maybe she's more careful around him now. But think about the last time someone made you feel small. Were you kinder to the next person you dealt with? Or did some part of you feel owed—and feel licensed to collect that debt from *somewhere?*
-
-Part of him knew this would happen. Don't we all? And yet he did it anyway. Why?
-
-Is it just that his temper got the better of him? Or does part of him stand to *gain* something from this?
-
-Look at what happens.
-
-She's worse now. Colder, or angrier, or smaller. And there it is—the proof. Not of what he did, but of what she was all along. Every unkind thing he's ever done to her: he can stop worrying about it. He was only ever doing it to someone defective.
-
-And obviously nothing _he_ did could have contributed. He was just trying to help, and look how she took it. Of _course_ she would. It's what she _is._
-
-None of this will feel like a story he's telling himself. It'll feel like the Truth. It always does.
-
-But how can these two things be true at once? That part of him knew, and yet he's certain he didn't? That he was acting *righteously?*
-
-Because it only works if both are true.
-
-He had to know. You don't make someone feel small by accident. Something in him was tracking her closely, finding the words, making sure they landed.
-
-And he had to not know. Because you can't take comfort in evidence you planted yourself.
-
-Neither half can do the job alone.
-
-And what do you think was going through her mind when she acted selfishly? Didn't part of her know? And yet something in her was justifying it, to make it feel okay—just as he did.
-
-That part of her—the part that justifies—is now stronger in her.
-
-And in him.
-

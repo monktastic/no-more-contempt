@@ -17,10 +17,14 @@ def split_title(text):
             return l[2:].strip(), ('\n'.join(lines[:i] + lines[i+1:])).strip() + '\n'
     return None, text.strip() + '\n'
 
-TODO_RE = re.compile(r'\s?\[TODO:[^\]]*\]|<!--\s*TODO.*?-->', re.S)
+# Strips [TODO: ...] and [TODO(name): ...], HTML TODO comments, everything after
+# the working-notes marker, and the "Original material" section of the draft
+# chapters (Aditya's placed passages, kept in the source for recovery only).
+TODO_RE = re.compile(r'\s?\[TODO(?:\([^)]*\))?:[^\]]*\]|<!--\s*TODO.*?-->', re.S)
 def strip_todos(text):
     text = text.split('<!-- working notes -->')[0]
-    return TODO_RE.sub('', text)
+    text = re.split(r'\n## Original material\b', text)[0]
+    return TODO_RE.sub('', text).rstrip() + '\n'
 
 def page(path, title, order, permalink, body, parent=None, has_children=False):
     body = strip_todos(body)
@@ -29,7 +33,9 @@ def page(path, title, order, permalink, body, parent=None, has_children=False):
     if has_children: fm += ['has_children: true', 'has_toc: true']
     fm.append('---')
     path.parent.mkdir(parents=True, exist_ok=True)
+    if path.exists(): path.chmod(0o644)
     path.write_text('\n'.join(fm) + '\n\n' + GEN + '# ' + title + '\n\n' + body)
+    path.chmod(0o444)  # generated: read-only, so an edit here fails loudly
     written[str(path.relative_to(ROOT))] = sha(path)
 
 # Refuse to overwrite a generated page that was edited after the last publish:
@@ -57,7 +63,7 @@ def pages(w): return int(round(w / 280.0))
 BOOK_FILES = ['preface.md','chapter-1.md','chapter-1a.md','chapter-2.md','chapter-3.md','chapter-4.md','chapter-5.md']
 DRAFT_FILES = [f'chapter-{n}.md' for n in range(6, 18)]
 def draft_words():
-    return sum(len((MAN / n).read_text().split('<!-- working notes -->')[0].split()) for n in DRAFT_FILES)
+    return sum(len(strip_todos((MAN / n).read_text()).split()) for n in DRAFT_FILES)
 bw, mw, dw = words(*BOOK_FILES), words('rest-of-book.md'), draft_words()
 count_line = lambda w, what: f'*{what}: about {w:,} words, roughly {pages(w)} pages at 280 words a page. Updated whenever the site is regenerated.*\n\n'
 

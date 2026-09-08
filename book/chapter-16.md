@@ -9,7 +9,7 @@ parent: "The Book"
 
 # Chapter 16: What I Believe
 
-<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice. If you only want his prose, skip to the section marked "Original material."</em></p>
+<p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
 > *I am the twelve-year-old girl, refugee on a small boat, who throws herself into the ocean after being raped by a sea pirate. And I am the pirate, my heart not yet capable of seeing and loving.* —Thích Nhất Hạnh, *Please Call Me by My True Names*
 
@@ -27,11 +27,18 @@ Why do we keep turning away, once it's begun? Because we're afraid of what turni
 
 And what the deep part recognizes may go deeper than living things. Not an organism, but presence, or reality itself. If so, the cold form goes all the way down. See the world as dead stuff we hold dominion over, and that's the same turning away, aimed at everything at once. Somebody smashes a stone arch that stood for ten thousand years, for the fun of it, and you feel that it's wrong before you have any story about who was deprived. The part of you that registers contempt for a person and contempt for the world doesn't register them as two things.
 
-Nothing you do stays inside your skull. The things you do when nobody's watching hold up strangers you'll never meet, at the moment they're about to break. I can't prove that. I'm reporting it as the thing that, if it's true, makes it worth staying committed to your light at any cost. Not to your idea of the light, which is always contaminated. To the thing itself. That's the definition of good I'll be working with: whatever brings us closer to remembering what we are. Which is why the greatest thing you can give the world is your own seeing. Until then, some part of you is reinforcing what you're fighting. That's not a moral failing. It's just how it works.
+Now the thing I've been holding since the preface, where I said what's in your skull doesn't stay there. Everything before this was about how it gets out: through a glance, through a room, through what we build. Here is what I believe about the case where none of those channels exist.
+
+A man is alone in a cave nobody will ever enter. He finds an insect and kills it, not carelessly but for the small pleasure of it, and then he dies, and no one ever knows. On any account where this spreads by being witnessed, nothing happened. I don't think nothing happened. I think the act is recorded, not in any book, but in what the world is. Nothing is ever lost. And the same is true of the other thing he could have done.
+
+Somewhere, somebody you'll never meet is about to give up on the part of them that knows. The pressure on them is the kind you felt from the stranger, and they're a breath from deciding that the part which knew, and couldn't prove it, isn't worth listening to. Whether they hold is made, in a way I can't trace and won't pretend to, of what the rest of us have done, witnessed or not. What the man did in the cave is in that balance. That's the sense in which every last thing you do matters. It's what makes the world the kind of place where people remember what they are, or forget.
+
+Which sounds as if it needs a chooser, and I've spent a book saying the chooser is one figure too many. Here is how I hold it. The choice is real at one point: whether to keep looking. No self makes it. Awareness recognizes itself or slips, and the slip is nobody's decision. And it counts absolutely. As I understand Dzogchen, it has held this pair for a thousand years: nobody chose the first non-recognition, and there's a line attributed to Padmasambhava that a view as high as the sky goes with attention to conduct as fine as flour. Treat the choice the way you've learned to treat the parasite. There's no creature there, and you lose everything if you act as though there isn't.
+
+If you believe none of this, nothing practical changes. The cave is still a place you have a reaction to, and the reaction isn't neutral. That's all I'm asking you to notice.
+
+This is what the traditions were for, at their best. Not a set of rules, and not a story about who is damned. A method for getting free of every last trace of self-deception, so that you could help somebody else get free of theirs. That's what a saint is doing, and it's what the second stranger did in miniature. It's also the thing that goes wrong fastest. Almost the moment the method is stated it becomes *I'm free and you're not*, or worse, *poor you, still in the grip*, which is contempt with a soft face. The tell is the one you already know. Look at whether some part of you needs them to stay lost. The second stranger didn't, and that's the whole difference between a saint and a scold.
+
+So it's worth staying committed to what you are at any cost. Not to your idea of it, which is always contaminated. To the thing itself. That's the definition of good I'll be working with: whatever brings us closer to remembering what we are. Which is why the greatest thing you can give the world is your own seeing. Until then, some part of you is reinforcing what you're fighting. That's not a moral failing. It's just how it works.
 
 ---
-
-## Original material, to recover
-
-From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again ... I mean it absolutely literally"); Thích Nhất Hạnh in full; the sonder account ("for every cheap T-shirt I purchased ... the poor Asian sweatshop worker sewing that T-shirt"); Graham Hancock's shamans on severing the connection with spirit; both Eckhart lines; DiLullo on the ego speaking in your voice (already in Appendix 3).
-
