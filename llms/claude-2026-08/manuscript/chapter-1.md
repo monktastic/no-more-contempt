@@ -140,7 +140,7 @@ And that creates a bigger problem. Because how does he know that you aren't just
 
 Which means he might be harming a *fundamentally redeemable person*. Driving them further from the one part of them that actually cares about doing right, when he could be helping them toward it instead. He tells himself he's just "serving justice", even though deep down he knows—as we all do—that there's a better way to accomplish that.
 
-*That's* what he's in limbo about: the fact that *you're* only in limbo.
+*That's* what he's in limbo about: the fact that *you're* merely in limbo, too.
 
 Something in him senses that he might be making you a worse person to keep his own dark behavior hidden. And the more he realizes this, the more he's forced to turn away from that recognition; to prove to himself and the world that you're fundamentally *other*. And what's the best way to do that?
 
@@ -232,9 +232,7 @@ So what the heck is it?
 
 It behaves like an agent, so I'll refer to it as one. I'll also call it his "dark" part, or just his "darkness"—both because it's hidden from him, and because of what we're about to see. But don't mistake the grammar for the claim: I am not saying there is a literal thing inside him.
 
-Here is the most I'll claim, and you've seen every piece of it. There's a voice in each of us that produces reasons to overrule what we know; you met it at the start. Follow it, and the turning away opens a gap, and the gap shows. That's what you saw in the dehumanizing gaze, and in him: not something added, something absent. It behaves like a presence, an eerie one, because his faculties are all still running, aimed at a goal the part that cares would never have chosen. And he can't tell, because the only thing that could have warned him is the thing he turned away from.
-
-And we all do it. We don't want to believe that about ourselves, because of what it seems to imply, and not wanting to believe it is what keeps us from looking at what it really is.
+We all do it. We don't want to believe that about ourselves, because of what it seems to imply, and not wanting to believe it is what keeps us from looking at what it really is.
 
 ---
 

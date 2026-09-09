@@ -6,6 +6,8 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## On Aditya
 
+- Put back: "The next time you’re the one sending it, it will look like nothing: a sigh, a perfectly calm tone, a look you’ll pretend you didn’t give. One question to carry into that moment. Is their next response still allowed to show you they’re more than what you’ve decided they are?"
+
 - **Chapter 1, after the condensation.** Read "First, the why" through The Mechanism straight through once. Your both-directions passage at The Mechanism is still a proposal in a `[TODO(Claude)]`; decide, and if it goes in, shrink the matching paragraph in Chapter 5's "All of it." Your own TODO about thoughts shaping perception (the parasite reveal) is still in "First, the why." Cut sentences are quoted in the session report.
 - **Chapter 5, read against your key points:** "The old picture" now honors the two pulls before the rug (the choice is real at one point; the second pull is a want plus the accumulated ease of turning, which is the parasite existing before it has you); "All of it" restores the fierce-love grounding, the curdling, the both-directions check, love as the orientation, and "contempt only works because everybody knows it." The third look is withdrawn everywhere. Chapter 5 is now about 7,000 words.
 - **Chapter 16 holds the crescendo** (the insect in the cave, the stranger about to break, the chooser held like the parasite, the traditions at their best and their usurpation). It's Claude's draft of your trip's most important passage. Write your own or mark what's wrong; the seed in Chapter 5's "What I believe" should follow yours.

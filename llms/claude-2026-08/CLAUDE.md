@@ -113,6 +113,10 @@ Banned outright, because I keep finding them:
 - **Invented verbs, nouns pressed into service as verbs, and abbreviations I
   don't use.** No "unpack", "surface" as a verb, "lean into", "double down".
 - **Cutesiness.** No winking at the reader, no jokes that ask to be noticed.
+- **Writing the instruction into the prose.** If a note says the reader
+  needs to stay with the enemy, the fix is prose that keeps them there, not
+  a sentence that says "stay with that one." The reader never sees the
+  editing note; the page has to do the thing.
 - **"Kind," "compassion," "care" never mean nice, soft, lenient, or going easy.**
   The book exists to hold that line, and the second stranger is its proof: he
   was harsh and it was kindness. If a sentence uses any of those words for
@@ -242,9 +246,19 @@ to something that exists and says what it's cited for.
 and cold share; "self-righteous contempt" for contempt where the harm is real (never
 "righteous contempt"; righteous keeps its real meaning; and never "when the
 target is evil", which reinstates the verdict); "contempt for the world" for the cold form applied to everything.
-"Darkness" is the plain name for the thing; "parasite" when the claim is
-about how it behaves (lives off a host, can be evicted); "the devil" only
-when the shoulder cartoon or the traditions are in view. Never a fourth name.
+"Darkness" is the plain name for the thing and "the light" (lowercase) for
+what it turns away from, both licensed from the preface on by its contract
+(read it as poetry if you like; nothing checkable depends on it). "Parasite"
+when the claim is about how it behaves (lives off a host, can be evicted);
+"the devil" only when the shoulder cartoon or the traditions are in view.
+"The part that knows" and "the part that cares" are descriptions, not names.
+Never a fourth name. Claims about what the light *is* come only after the
+second seam, and so does the capital: "the Light" only from the sentence
+"the kind has one member" onward, where the capital marks the tier and the
+text says so. "Darkness" is never capitalized, because it's an absence and
+a capital would grant it the essence the book denies. Under the contract the thing may be given a goal, and it has
+exactly one: to make us forget there was ever a light to steer by. Never
+"dominion," never a plan.
 
 **debt check** — every promise made in a draft ("this gets its own chapter")
 has a chapter that pays it, or the promise comes out.

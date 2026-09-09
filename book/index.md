@@ -10,7 +10,7 @@ has_toc: true
 
 # The Book
 
-*Preface through Chapter 5: about 20,761 words, roughly 74 pages at 280 words a page. Updated whenever the site is regenerated.*
+*Preface through Chapter 5: about 22,423 words, roughly 80 pages at 280 words a page. Updated whenever the site is regenerated.*
 
 *Chapters 6 through 17, first drafts: about 11,558 words, roughly 41 pages at 280 words a page. Updated whenever the site is regenerated.*
 
