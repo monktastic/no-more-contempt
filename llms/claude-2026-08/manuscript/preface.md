@@ -32,6 +32,8 @@ I can't argue you into this, and you should be wary of anyone who tries. What I 
 
 If you look and recognize what you find, *that's* the evidence.
 
+One thing about the language. I'm going to talk about darkness and light, and I'm going to talk about the darkness as if it were a thing that does things, because that's how it behaves—and later, sometimes, as if it were one thing at work across all of us. If you'd rather read all of that as poetry, do. These are things to feel into, not beliefs to adopt. Nothing I ask you to check depends on taking any of it literally, and when I get to the parts that do, I'll say so.
+
 We'll start with a small example, since that's where this is easiest to see.
 
 ---
