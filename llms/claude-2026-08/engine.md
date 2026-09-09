@@ -4,7 +4,7 @@
 
 ## The spine, in one paragraph
 
-Goodness is what you are, and it was there before anything you did. Darkness is what happens when you turn away from it: not a second thing, but your own faculties run without the part that sees. Turning away hides from the one doing it by showing itself to everyone else, and what it shows recruits them, so it spreads. The message it carries, under every version, is that the goodness was never real. So the whole of the cure is remembering, and the only place that can happen is in you.
+Goodness is what you are, and it was there before anything you did. Darkness is what happens when you turn away from it: not a second thing, but your own faculties run without the part that sees. Turning away hides from the one doing it by showing itself to everyone else, and what it shows recruits them, so it spreads. That is its purpose, not a side effect, and contempt works only because everyone knows it's the real thing. The message it carries, under every version, is not that goodness isn't real but that you get to decide what it means, so there's no North Star to have left. So the whole of the cure is remembering, and the only place that can happen is in you.
 
 Every frame the book has tried is a lens on that paragraph, not a replacement for it.
 
@@ -20,6 +20,7 @@ Every frame the book has tried is a lens on that paragraph, not a replacement fo
 | The one choice | where the turn happens, and why no chooser is needed after | Chapter 5, The old picture |
 | Three distances; every act counts | how far it reaches | Chapter 5; Chapter 16 |
 | Action from turned-away breeds turning away; parasites communicating; the ally, the room | the mechanism of spread | Chapter 5, Two devils; Chapter 10 |
+| The deeper discovery: we do this because we're afraid they're just like us, so we've been making them worse, so we're part of it | the emotional punchline | Chapter 1 carries only its mechanism for him (The Why) and a supposition for the reader (The Deeper Why); it lands in Chapter 5, "The worst person," and Chapter 12. Do not land it in Chapter 1. Chapter 1's gravitas comes from What It Is instead: the morsel carries the whole. |
 | "The Light was never real" | the message the darkness carries | Chapter 1's lesson; Chapter 5, What the devil sounds like; Chapter 16 |
 
 A new frame goes into the row it belongs to and the chapter that row names. It does not reopen the order of Chapters 1 to 5 unless it changes what the spine says.
