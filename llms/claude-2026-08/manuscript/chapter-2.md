@@ -146,4 +146,5 @@ And it's not just a mistake that one particular "side" makes. It's something we'
 That mistake—what might it be serving?
 
 ---
----
+
+[TODO(me): Need to show I sensed the darkness spreading to the far corners, meaning I was complicit in ALL of it.]
