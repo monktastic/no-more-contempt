@@ -130,45 +130,29 @@ So he knew what he was doing, and he didn't. But why did he need limbo in the fi
 
 From his perspective, nothing. Sure, he may recognize that his behavior is a bit provocative, but so what? You're *irredeemable*, after all—and so nothing he's doing could change that. He can't fix you, and he can't make you worse. All he can do is shame or scare you into stopping, which is what he's doing. It's a *good* thing!
 
-And yet something in him still registers it as wrong. But what, exactly?
+And yet something in him still registers it as wrong. Why?
 
-Here's a clue: look at how hard he's working. Why does he so desperately *need* you to be bad—unless *some part of him suspects it isn't true?* 
+Here's a clue: look at how hard he's working. Why does he so desperately *need* you to be bad—unless *some part of him suspects you aren't?* That you don't deserve this.
 
-He doesn't know exactly *why* he suspects it, but that signal keeps coming, and he keeps overriding it. So now look at what he knows: that he's the kind of person who's willing to override his conscience when it benefits him—and on top of that, proclaim it as righteous.
+He doesn't know exactly *why* he suspects it, but that signal keeps coming, and he keeps overriding it. So now look at what he knows: that he's the kind of person who's willing to override his conscience—and to proclaim it as righteous.
 
 And that creates a bigger problem. Because how does he know that you weren't just doing the same thing? That you're not just like him? **He doesn't.** 
 
-Which means he might be harming a *fundamentally redeemable person*. Driving them further from their conscience, when he could be helping them toward it. And it's not like doing so would prevent him from serving justice. All it would do is undermine his claim of being inherently superior—which is the one thing he cannot afford to lose right now.
+Which means he might be harming a *fundamentally redeemable person*. Driving them further from their conscience, when he could be helping them toward it instead. And it's not like doing so would prevent him from serving justice. 
 
-The more he realizes that he's just like you, the more he's forced to turn away from that recognition; to see you as something fundamentally *other*. And what's the best way to make you appear fundamentally other?
+So something in him senses that he might be making you a worse person for his own benefit. And the more he realizes this, the more he's forced to turn away from that recognition; to prove that you're fundamentally *other*. And what's the best way to do that?
 
 *To keep doing exactly what he's doing and ensure that you see it.*
 
 ---
 
-## The Deeper Why
+## The How
 
-That was the shape of it, from outside. Now run it from inside, on your own enemies rather than his, because it's one thing to be told he's afraid you might be like him and another to feel what he's afraid of.
+Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves?
 
-Bring to mind the people you can't stand. The ones whose badness seems obvious. Now suppose you found out, beyond any wriggling, that they aren't fundamentally different from you. That they've been doing what you did at the start of this chapter, at a larger scale, for the same reason. Stay with that for a minute, before you reach for the right answer.
+*That's* what you're seeing in him. He's absent from the part of himself that would have *seen* you, registered you. Being turned away from himself; from his conscience; from the part of him that would have seen you—they're all the same thing. And he can rely on you recognizing it. How can he be so sure?
 
-It would mean your contempt has only been making them worse—when there was a better way the whole time, the second stranger's, and all it would have cost you is the feeling of being morally superior.
-
-Now the harder part. Suppose you were to discover that you had always known this. That some part of you knew **exactly** what you were doing, even as you did it—and was hiding it behind the label "unconscious."
-
-That would be pretty uncomfortable to realize, wouldn't it?
-
-So uncomfortable that you might never allow it into full conscious awareness. And notice what you'd have to do instead. You'd have to keep them *other*. You couldn't help it.
-
-The only thing that could let you stop is something that made it safe enough to look. Something to show you, unequivocally, why even *profoundly malicious* behavior like that wouldn't mean you're a "bad person"—even if it required you to take full responsibility for it.
-
-That safety is what he was robbing you of in that moment. It's what the second stranger was providing. And it's what this book exists to provide you.
-
----
-
-## What He Could Count On
-
-We all know what it is to hide from our own conscience. What it's like to pretend that we're not. And *to tell ourselves that others can't see it, even though part of us **needs** them to.*
+Because **we all know** what it is to hide from our own conscience. What it's like to pretend that we're not. And *to tell ourselves that others can't see it, even though part of us **needs** them to.*
 
 Haven't you ever watched an enemy squirm under your "righteous" gaze—half-knowing that they would recognize it for what it is, and how their reaction would convict them, not you?
 
@@ -186,21 +170,15 @@ And yet look at what it requires: turning away from yourself. Which suggests tha
 
 ---
 
-## The How
-
-So how does he make sure you see it?
-
-Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves?
-
-*That's* what you're seeing in him. He's absent from the part of himself that would have *seen* you, registered you. Being turned away from himself; from his conscience; from the part of him that would have seen you—they're all the same thing. And he can rely on you recognizing it because **we all do**.
-
-We recognize this state as malice. As evil. Not as a judgement, but as the very essence of what "evil" *means*: to turn away from the life in front of us in order to pursue our own ends. Ends that we often convince ourselves are justified; righteous. And we know we're fooling ourselves, even though we cannot *let* ourselves know it.
+We recognize that turned-away state as malice. As evil. Not as a judgement, but as the very essence of what "evil" *means*: to turn away from the life in front of us in order to pursue our own ends. Ends that we often convince ourselves are justified; righteous. And we know we're fooling ourselves, even though we cannot *let* ourselves know it.
 
 Try this: go out in public, find a stranger, and shoot them a dehumanizing gaze. It's hard to do, isn't it?
 
 Notice what stopped you. It wasn't a rule, and it wasn't one voice among others that you weighed and happened to side with. It was that you could see them. That's all your conscience ever was: the part of you that has other people in view. Which is why acting against it was never like overruling an advisor. When you overrule it, you aren't ignoring advice. You're turning away from *life itself*, presented through the eyes of another.
 
 We don't turn away from someone unless we mean to harm them or use them, and we can't harm or use them without turning away. Check both directions in your own case. How that malice *appears* in others may be learned, but what it *is* is something we each know instinctively.
+
+---
 
 So he can rely on your recognizing it for what it is. But that's not quite enough to turn you into someone who appears *fundamentally other* like he needs, for a few reasons.
 
@@ -215,7 +193,6 @@ His righteousness does not merely conceal the malice from him. It helps reveal t
 He doesn't even have to put you through the funnel. All he has to do is genuinely believe you're bad. That way, he can't help but feel contempt—that unique combination of malice and apparent righteousness. That, in turn, makes you see him as a hypocrite, inviting you to return his contempt—which he will then read as "evil", because what kind of person reacts that way to *unmistakable righteousness?* 
 
 That's how he knows you're nothing like him, and that you deserve everything he's giving you and more.
-
 ---
 
 ## The Loop
@@ -238,6 +215,25 @@ And that is what makes him forget there's a better way. That he could do what th
 
 ---
 
+## The Deeper Why
+
+It's one thing to be told what he might be feeling. It's another to feel it from our own perspective. So let's try that for a moment.
+
+Bring to mind the people you can't stand. The ones whose badness seems obvious. Now suppose you found out, beyond any doubt, that they aren't fundamentally different from you. That they've only been doing what you did at the start of this chapter, if at a larger scale. Stay with that for a minute.
+
+It would mean your contempt has only been making them worse—when there was a better way the whole time, the second stranger's. A way you knew existed.
+
+Now the harder part. Suppose you were to discover that you had always known this. That some part of you knew **exactly** what you were doing—pushing them further from the one thing that could have saved them, just so you could keep believing you're different—even as you did it. You were just hiding it from yourself, by calling it "unconscious."
+
+That would be pretty uncomfortable to realize, wouldn't it?
+
+So uncomfortable that you might never allow it into full conscious awareness. And to make sure it never came out, you'd have to keep doing it to them. Making sure they stayed *other*. You couldn't help it.
+
+The only thing that could let you stop is something that made it safe enough to look. Something to show you, unequivocally, why even *profoundly malicious* behavior like that wouldn't mean you're a "bad person"—even if it required you to take full responsibility for it.
+
+That safety is what he was robbing you of in that moment. It's what the second stranger was providing. And it's what this book exists to provide you.
+---
+
 ## The Agent
 
 Now we come to the strangest part: what, exactly, is it in him that's doing all this?
@@ -246,7 +242,7 @@ Whatever it is, it seems intentional; calculating; goal-driven. And it *presents
 
 So it can't exactly be him in the usual sense. He *cannot* be fully aware of its operation, or else the behavior would collapse. At the same time, it's not as though he's unconscious or in a haze. He feels fully lucid, entirely like himself.
 
-It is him—but not all of him, and not in the way he understands himself. His own perception, intelligence, and agency are doing the work. They have simply become organized around a purpose he cannot fully acknowledge, or even see. It is as if, by turning away from himself, another part of him has taken control.
+It is him—but not all of him, and not in the way he understands himself. It is as if, by turning away from himself, another part of him has taken control.
 
 So what the heck is it?
 
