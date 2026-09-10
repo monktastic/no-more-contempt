@@ -20,6 +20,8 @@ The book exists at three lengths, and you can stop after any of them.
 
 **The appendices** are for readers who want the machinery of the argument, the thinkers who came closest to it, and the religious and contemplative traditions that got here first.
 
+**All of it in one file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the whole draft as an EPUB, a PDF, or plain text.
+
 ## How to read it
 
 Read it in order, and stop whenever you like. Chapter 1 does most of the work. Give it your full attention and actually do the things it asks, including the one that sends you out the door. The interlude sorts what you found into what you saw, what I make of it, and what I'm asking you to take on trust for now. Chapter 5 lays the whole argument out in one place, so you can see whether it holds together. After that you'll know whether you want to read the map.

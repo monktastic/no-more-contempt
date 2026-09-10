@@ -1,0 +1,65 @@
+# Builds and publishes the site. Every push to main regenerates the pages from
+# manuscript/ and rebuilds the downloads here, on GitHub's runner, so nothing
+# generated has to live in git. Settings, Pages, Source must be "GitHub Actions"
+# for this to be what the world sees.
+#
+# One job rather than the usual build-then-deploy pair, because a second job
+# means a second runner to start for the sake of a ten-second step.
+name: Build and deploy the site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; let a running one finish rather than cancelling it.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      # pandoc builds the downloads; xelatex is what it makes the PDF with, and
+      # is most of this workflow's minute. If the PDF fails, make-downloads.sh
+      # says so and leaves it off the Downloads page rather than failing here.
+      - name: Install pandoc and a PDF engine
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
+
+      - name: Generate the pages and the downloads
+        run: |
+          ./llms/claude-2026-08/publish.sh
+          ./llms/claude-2026-08/make-downloads.sh
+
+      - uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch/key-points-old.md",
+                "file": "llms/claude-2026-08/short-version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key-points-old"
+              "title": "short-version"
+            }
+          },
+          {
+            "id": "bc4644f354e0c6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/manuscript/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
             }
           },
           {
@@ -146,23 +160,8 @@
               "icon": "lucide-file",
               "title": "working-manuscript"
             }
-          },
-          {
-            "id": "b4732405db9b4ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/claude-2026-08/manuscript/chapter-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-2"
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ebc92fabcc214d1b",
@@ -314,46 +312,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b4732405db9b4ae2",
+  "active": "877512cd2cf4d6c3",
   "lastOpenFiles": [
+    "llms/claude-2026-08/manuscript/chapter-1.md",
+    "llms/claude-2026-08/short-version.md",
+    "scratch/short.md",
+    "llms/claude-2026-08/manuscript/chapter-4.md",
+    "llms/claude-2026-08/working-manuscript.md",
+    "llms/claude-v4/chapter-4.md",
+    "llms/claude-2026-08/manuscript/chapter-2.md",
+    "scratch/video-script.md",
+    "scratch/you-are-everyone.md",
+    "scratch/key-points/scenarios.md",
+    "scratch/key-points/index.md",
+    "scratch/key-points/devil.md",
+    "scratch/key-points/conspiracy.md",
+    "scratch/key-points/angel-devil-samples.md",
+    "scratch/key-points/angel-devil-brief.md",
+    "llms/claude-2026-08/argument.md",
+    "scratch/key-points-old.md",
+    "downloads/no-more-contempt.pdf",
+    "downloads/no-more-contempt.epub",
+    "downloads/index.md",
+    "downloads/no-more-contempt.md",
+    "downloads",
+    "llms/claude-2026-08/make-downloads.sh",
+    "llms/claude-2026-08/publish-old.sh",
+    "llms/claude-2026-08/__pycache__/bookparts.cpython-312.pyc",
+    "llms/claude-2026-08/__pycache__",
+    "llms/claude-2026-08/bookparts.py",
     "llms/claude-2026-08/themes.md",
     "llms/claude-2026-08/archive/misc-TODOs-harvested-2026-09.md",
-    "llms/claude-2026-08/manuscript/chapter-1.md",
     "quotes.md",
     "llms/claude-2026-08/archive/chapter-1-evidence-audit.md",
     "llms/claude-2026-08/manuscript/appendix-3-the-traditions.md",
     "llms/claude-2026-08/manuscript/appendix-2-what-others-have-seen.md",
     "index.md",
-    "llms/claude-2026-08/working-manuscript.md",
-    "scratch/key-points.md",
-    "llms/claude-2026-08/manuscript/chapter-5.md",
-    "llms/claude-2026-08/manuscript/chapter-4.md",
-    "llms/claude-2026-08/argument.md",
-    "llms/claude-2026-08/README.md",
-    "llms/claude-2026-08/manuscript/chapter-1a.md",
-    "llms/claude-2026-08/appendix-1-recursion.md",
-    "llms/claude-2026-08/fable-queue.md",
-    "llms/claude-2026-08/manuscript/rest-of-book.md",
-    "llms/claude-2026-08/archive/feedback-chapters-1-4.md",
     "llms/claude-2026-08/build-manuscript.sh",
-    "llms/claude-2026-08/archive/cut-from-interlude-one.md",
-    "llms/claude-2026-08/manuscript/chapter-2.md",
-    "llms/claude-2026-08/todo.md",
-    "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
-    "llms/claude-2026-08/misc/TODOs.md",
-    "llms/claude-2026-08/correspondence.md",
-    "llms/claude-2026-08/claim-triage.md",
     "llms/claude-2026-08/archive",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
-    "llms/claude-2026-08/dags/spiral-cycle.dot",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
-    "llms/claude-2026-08/dags/roadmap-dag.dot",
-    "llms/claude-2026-08/dags",
-    "llms/claude-2026-08/manuscript",
-    "llms/claude-2026-08/untitled folder",
-    "llms/claude-2026-08/misc",
-    "llms/claude-2026-08",
-    "llms/claude-2026-05",
     "_site/assets/images/bullet.png",
     "_site/assets/images/blacktocat.png",
     "_site/assets/images/bkg.png",

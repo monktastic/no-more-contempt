@@ -5,5 +5,16 @@ _site
 vendor
 .idea
 llms/claude-2026-08/working-manuscript.md
+
+# Generated from manuscript/ by publish.sh and make-downloads.sh. The Actions
+# build makes them fresh on every push, so they don't belong in git; run the
+# scripts locally when you want to preview the site.
+/index.md
+/book/
+/map/
+/appendix/
+/condensed/
+/downloads/
 .DS_Store
-llms/claude-2026-08/.publish-manifest.json\n
+llms/claude-2026-08/.publish-manifest.json
+__pycache__/

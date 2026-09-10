@@ -17,6 +17,11 @@ search:
   previews: 2
   tokenizer_separator: /[\s/]+/
 heading_anchors: true
+
+# The plain-text download is a file to save, not a page: without this, a bare
+# .md with no front matter gets rendered as a stray, unstyled page as well.
+optional_front_matter:
+  enabled: false
 back_to_top: true
 back_to_top_text: "Back to top"
 color_scheme: light
