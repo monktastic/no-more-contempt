@@ -1,8 +1,67 @@
 ---
 ---
-Say you're my political enemy. I see you as a *bad person*, and treat you like one, by mocking, shaming or judging you. I tell myself this will help somehow. Maybe by getting you to reflect on what a bad person you are so that you'll change—or, barring that, then at least by dissuading others from joining you.
+---
 
-But does it make you a better person? Or does it just make you see me as a bad one, so that you feel even more convinced of your own position?
+
+
+---
+
+
+
+### One recognition
+
+> Their innocence as seen by you  
+> = your benevolence toward them  
+> = being turned toward.
+
+### One occlusion
+
+> Their innocence disappearing from your view  
+> = your benevolence ceasing to operate  
+> = being turned away.
+
+
+
+You tried to make them turn back toward the life in others by turning away from theirs.
+
+
+
+
+
+Imagine walking up to [the most evil person]. Looking at them. What is that you're showing them? Is it just anger? Just "I will stop you?" Or is there something *dark* in it? Something that says:
+
+> *You are less than human, and have forfeited the right to be treated like one.*
+
+Something in you wants them to register it as a verdict, right?
+
+And how do they react? By apologizing? Or do they feel licensed to embrace their own darkness in return?
+
+And once they do, what does that give you? It proves you *right.* That this is the kind of person who's not capable of giving up their darkness, because it's just what they **are**.
+
+Isn't that a little strange? You intentionally telegraphed something that would obviously make anyone embrace their darker side, and then used it as a verdict against what they already are.
+
+
+
+
+
+We're showing them that the darkness in them lives in us too, and that we can take it out on them and get away with it, by calling it *righteous.* What does this do? It licenses theirs. Is this an accident? No, if you look closer at your message, a deeper layer is saying:
+
+> *I know how maddening this is, and what it will make you do—embrace your darkness. Which I will use to prove you are what I say you are. Because what kind of person reacts that way to  righteous behavior? I'm only fighting evil, after all.*
+
+They hear that message, too.
+
+
+
+---
+
+Say you're my enemy. I see you as a *bad person*, and treat you like one, by mocking, shaming or judging you. I tell myself this will help somehow. Maybe by realizing what a *bad person* you are, you'll change—or, barring that, then at least I'll dissuade others.
+
+But does it make you a better person? Or does it just make you see *me* as a bad person, so that you feel even more justified in your misbehaviors?
+
+Didn't I already know this before I did it? So why did I still do it?
+
+
+
 
 And when you do dig in, what does that tell me about you? That you're the kind of person who's not even capable of change. Because I did my best, and look what happened. Which means I was right about you. I treated you with contempt because I knew you were beyond help, and you went and proved me right.
 

@@ -73,15 +73,29 @@ is easier to type and to grep.
 `build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
 Generated output; never edit it.
 `publish.sh` generates the website from the manuscript files into the repo
-root: `index.md`, `book/`, `map/`, `appendix/`, `condensed/`. Those are generated
-and committed (GitHub Pages builds from the repo); never edit them, edit
-`manuscript/` and run the script. The script refuses to run while a generated
-page has uncommitted edits, so an edit made in the wrong place isn't lost. It
-writes every generated page read-only, and it cuts the "Original material"
-section and everything after `<!-- working notes -->` from the draft chapters. The site is Jekyll with the just-the-docs
-theme; config is `_config.yml` at the repo root, custom style in
-`_sass/custom/custom.scss`. Run `publish.sh` after any manuscript change that
-should go live.
+root: `index.md`, `book/`, `map/`, `appendix/`, `condensed/`. Nothing generated
+is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
+every push to main and deploys the result, so pushing a change to `manuscript/`
+is all it takes to publish. Run the scripts locally to see the site before you
+push; the output is gitignored. Never edit a generated page, edit `manuscript/`.
+The script writes them read-only and refuses to overwrite one that was edited
+anyway, so an edit made in the wrong place isn't lost (`PUBLISH_FORCE=1`
+discards it); `--out DIR` writes elsewhere and drops both, which is what the
+Actions build wants. It cuts the "Original material" section and everything
+after `<!-- working notes -->` from the draft chapters. The site is Jekyll with
+the just-the-docs theme; config is `_config.yml` at the repo root, custom style
+in `_sass/custom/custom.scss`.
+`make-downloads.sh` builds the whole draft as one file for readers who would
+rather not read a website: `downloads/no-more-contempt.md`, `.epub` and `.pdf`,
+plus the Downloads page that links them. Same sources, same stripping, in the
+order the site's menu follows. Needs pandoc; the PDF needs a LaTeX engine,
+typst, or Calibre's `ebook-convert`, and is skipped with a warning if the
+machine has none, or if the one it has fails; the Downloads page then leaves the
+PDF off rather than linking a file that isn't there. `--out DIR` writes
+somewhere else. Run it after `publish.sh`.
+`bookparts.py` is what both scripts share: how a file is split from its title,
+what gets stripped before a reader sees it, and the order of the book. Change
+the order or the stripping there, not in one script.
 
 ## How I want you to work
 
