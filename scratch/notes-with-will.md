@@ -1,13 +1,13 @@
-- Evil's greatest trick
+- Evil's greatest trick (is to convince us that it doesn't live *in us*)
 - Willful ignorance
 - Self-deception
-- You would think that the more evil an act, the more obvious it is to the person doing
+- You would think that the more evil an act, the more obvious it is to the person doing it
 - Schism
 
 - Caused by parasite
 - Angel and devil (angel is your true nature; devil is the parasite)
 - Doesn't just whisper ideas in your ear; alters your very perception of reality
-- So that the world needs your contempt to fix it
+- Believe that the world needs your contempt to fix it
 - But what you don't see is that the people who deserve your contempt are under the sway of the same parasite
 - If you treat them with contempt, they cannot understand why, and they cannot help but perceive you with contempt in return.
 - This is what the parasite wants: escalation toward a kind of Armageddon.
@@ -17,7 +17,7 @@
 - In fact, they aren't really separate
 - Distributed organism leveraging our collective intelligence to produce outcomes which are inevitable given our collective self-deception
 - If we were to string up all the "evil elites"
-- You know how some people feel that the elites are playing us off each other?
+- You know how some people feel that the elites are playing us off each other? IT is playing ALL of us off each other. They, too, are pawns of this thing.
 
 - Your enemy isn't other people; it's the parasite in their minds.
 - You can only remove their parasite in others to the degree that you are not under the sway of your own.

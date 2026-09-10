@@ -4,25 +4,25 @@
 
 Something inside you cares. Profoundly. About other people, about other beings, about the world around you.
 
-You've felt it when looking into the eyes of a child. Or a stranger's, if you hold it long enough. Their face stops being something you're looking at and becomes a place somebody is looking out of. What you feel then isn't a thought. It's closer to recognition: *this one is like me*. And right behind it, before you've decided anything: *I want that to be all right.*
+You've felt it when looking into the eyes of a child. Or a stranger's, if you hold it long enough. Their face stops being something you're looking at and becomes a place somebody is looking out of: a whole person in there, with a childhood, and a private fear, and their own particular way of being tired. What you feel then isn't a thought. It's closer to recognition: *this one is like me*. And right behind it, before you've decided anything: *I want that to be all right.*
 
 You know how deep it goes. The stranger who dives in after somebody else's child. They're not thinking about what it will do for them. They're in contact with something much deeper inside themselves—something they wouldn't know how to get rid of even if they tried, or wanted to.
 
 And there are times when you've felt it not for just one person, but for **all of it**. When you don't just want your life to go well, or this particular person's life to go well: you want Life to go well. All of it. And it would fight for that. It isn't soft. It's the fiercest thing in you.
 
-Ask whether there's anything you'd give your life for, and notice that the answer arrives before you've thought, and that it's never my idea of what's good.
+Ask whether there's anything you'd give your life for, and notice that the answer arrives before you've thought, and that it's never *my idea of what's good*.
 
-It's related to what we've been calling your "conscience," but it's so much bigger than just telling you right from wrong. It's the part of you that senses its way toward what matters; what's good, even if it can't quite pin it down. It's the only part of you that does this. Some traditions call it basic goodness. I'll mostly call it the light, and I'll say what I mean by that as we go. For now it means only this: the thing that would go into the water.
+It's related to what we've been calling your "conscience," but it's so much bigger than just telling you right from wrong. It's the part of you that senses its way toward what matters; what's good, even if it can't quite pin it down. It's the only part of you that does this. Chapter 1 left you holding a question: what is the thing you and the second stranger were both on the side of, when you might have agreed about nothing else? This is it. It doesn't belong to a religion or a side, because you recognized it in him across every difference you could name. Just as there is something everyone recognizes as evil, there is this, and we all recognize it too. Some traditions call it basic goodness. I'll mostly call it the light, and I'll say what I mean by that as we go. For now it means only this: the thing that would go into the water.
 
 We already believe that the light is more fundamental, and our language gives us away. When someone we love turns bitter or cruel and then, without being caught, sees it and stops, we don't say they turned into somebody else. We say they came back. When a generous person becomes callous, we say they lost themselves. Deep down. Better than this. Not himself. Came to his senses. One direction feels like recognition and the other like departure.
 
-You can check that in your own case. Go back to the thing from the start of Chapter 1 and look at it now, without the reasons. Something says that's not who I want to be. Notice that this isn't an excuse; the excuses were what you told yourself at the time. It's the one report that survives the honesty. Both were you. One was an impostor. Which one you'd call yourself is the asymmetry, and you didn't learn it from me.
+You can check that in your own case. Go back to the thing from the start of Chapter 1 and look at it now, without the reasons. Is there something that says *that's not who I want to be*? If there is, notice that it isn't an excuse; the excuses were what you told yourself at the time. It's the one report that survives the honesty. Both were you. One was an impostor. Which one you'd call yourself is the asymmetry, and you didn't learn it from me.
 
 That's the first thing to hold. Not that you can't do wrong, but that there's an asymmetry. Care is what you're like when nothing is in the way. Wrong is what you're like when something is.
 
 That's what the darkness hijacks, by masquerading as it.
 
-Here's what I'll say about that, and you've seen every piece of it. There's a voice in each of us that produces reasons to overrule what we know; you met it at the start of Chapter 1. Follow it, and the turning away opens a gap, and the gap shows. That's what you saw in the dehumanizing gaze, and in the stranger: not something added, something absent.
+Here's what I'll say about that, and you've seen every piece of it; Chapter 4 makes the case properly. There's a voice in each of us that produces reasons to overrule what we know; you met it at the start of Chapter 1. Follow it, and the turning away opens a gap, and the gap shows. That's what you saw in the dehumanizing gaze, and in the stranger: not something added, something absent.
 
 But it still behaves like a presence—an eerie one—because the person's faculties are all still running, aimed at a goal the part that cares would never have chosen. Something else is steering that isn't quite them.
 
@@ -149,7 +149,7 @@ How did he do it?
 
 Do you think he was running a mental story of what a good person he was? How *virtuous?* If he was, you would have detected it, right? And then would it have had the same effect?
 
-He didn't have to tell himself a story, unlike the first person. And it is the *absence of a story* that you detected. It's how you knew he wasn't running away himself. And he didn't have to *do* anything to convey it—that absence conveyed itself too.
+Look at what he had. He had you dead to rights, and every opening to twist the knife, and he didn't take it—and didn't seem to notice the opening was there. He didn't have to stop himself. And he didn't have to tell himself a story, unlike the first person. And it is the *absence of a story* that you detected. It's how you knew he wasn't running away himself. And he didn't have to *do* anything to convey it—that absence conveyed itself too.
 
 If either of the two people could be said to have "fought evil," it's clearly him. And yet where's the evidence? There isn't any. Nor does he even likely think of it that way, because he wasn't looking at "evil." He knows he was just seeing a form of confusion.
 
@@ -160,6 +160,8 @@ In the case of both strangers, something was *transmitted*—something difficult
 ## The mistake we agreed on
 
 Think about what happens when we try to fight evil. We correctly identify that it requires being fierce—and then, almost without noticing, let it devolve into contempt. *Almost*.
+
+Fierce is where the darkness finds it easiest to get in. From the outside, fierce and dark look alike, and it counts on our not wanting to tell them apart. And we can sense it getting in, from the sending end: that little something extra, added to the fierceness on its way out, that you knew they'd feel.
 
 And it's not just a mistake that one particular "side" makes. It's something we've collectively agreed isn't a mistake at all. It's *righteous.* Necessary.
 

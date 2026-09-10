@@ -2,6 +2,8 @@
 
 *Stateless. What drives the book from the preface to its last page, and the rule for ordering chapters. The dags say what rests on what; this says what pulls the reader forward. A linearization of the DAG that doesn't follow this reads as a list of interesting ideas, which is the failure the drafts of Chapters 6 to 17 currently have.*
 
+The whole book on one page, by kind of claim: [`dags/book-map.svg`](dags/book-map.svg). The chapter-by-chapter state of each claim is in `themes.md`.
+
 ## The spine, in one paragraph
 
 Goodness is what you are, and it was there before anything you did. Darkness is what happens when you turn away from it: not a second thing, but your own faculties run without the part that sees. Turning away hides from the one doing it by showing itself to everyone else, and what it shows recruits them, so it spreads. That is its purpose, not a side effect, and contempt works only because everyone knows it's the real thing. The message it carries, under every version, is not that goodness isn't real but that you get to decide what it means, so there's no North Star to have left. So the whole of the cure is remembering, and the only place that can happen is in you.
@@ -83,7 +85,7 @@ Each of Chapters 6 to 17 was seeded from a section of Chapter 5, so each begins 
 | 10 | it spreads through channels that leave no record | 11 | if it spreads that well, is somebody running it? |
 | 11 | nobody; one thing, no conspirators | 12 | then what about the people who really are evil? |
 | 12 | further along the same road; a hostage at the window | 13 | and when the contempt is aimed at me, or by me at myself? |
-| 13 | same parasite, same verdict on trial | 14 | so what's left to work with? |
+| 13 | same parasite, same verdict on trial | 14 | so what's left to work with? And is contact with goodness enough? (No: compassion is not wisdom.) |
 | 14 | only turning toward; catch the wanting | 15 | what is the thing I'm turning toward, and away from? |
 | 15 | a nothing that must be fought like a something | 16 | what's the something, then? What am I? |
 | 16 | love; every act counts; the stranger about to break | 17 | what is a book for, if it can't argue anyone into this? |

@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 779 words, roughly 3 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *Not that these others are wholly without blame, for even the worst projection is at least hung on a hook, perhaps a very small one, but still a hook offered by the other person.* —Carl Jung
 
 Now the delivering end, and I'll ask you to be honest without being harsh with yourself.

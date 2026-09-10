@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 619 words, roughly 2 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved.* —The Gospel of Philip
 
 Everything in this book has been one idea from different sides, and I'd rather say so than have you assemble it yourself.

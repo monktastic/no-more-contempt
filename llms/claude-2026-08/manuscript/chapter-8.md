@@ -23,6 +23,8 @@ The point of this isn't to make you feel rotten. It's scope. Nothing about what 
 
 <!-- working notes -->
 
+**Source to mine:** The trip's second movement (claude-v1/Part-2-final.md): the clean moments, helping when nobody would know, confronting fiercely without seeing evil as inherent, zero identity boost, "just rightness"; the difference is the source, not the category of act; "something flickered in their eyes."
+
 **What it's for.** The real impetus of the book. Subtly turned away is our default state, most of the day, and the reader has to come to feel that gently and without shame: not "you are bad" but "oh, I'm in the grip of this thing most of the time, and so is everyone, and that's why it's winning." The chapter widens turned-toward from the single face to the fierce wanting for all of it, and then asks the question that exposes the default: when you decide what to do with your day, is it from thought, or from that?
 
 **Seeded in Chapter 5 by:** "Most of the day."

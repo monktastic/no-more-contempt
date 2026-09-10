@@ -21,6 +21,8 @@ The darkest idea this thing has ever produced is the one that sounds most like a
 
 <!-- working notes -->
 
+**Source to mine:** The trip's second movement (claude-v1/Part-2-final.md): environmentalism, social justice, and rationalism each as a vehicle for contempt; the would-you-still-want-it test and the hesitation; "the contempt came first, the ideology provided the justification"; compassion become pity; helping that keeps people dependent.
+
 **What it's for.** Chapter 3 ("The Sacrifice") already carries the wanting from the delivering end in the first person. This chapter is the reader's version: the pleasure of punishing evil, why part of us doesn't want corruption to stop, the strategic-darkness excuse, bad people as the place we put what we can't bear to see, and the relief when the verdict lands. It should be the chapter a reader can't finish without having caught themselves once.
 
 **Seeded in Chapter 5 by:** relieved or robbed; nothing more satisfying than punishing evil; part of me doesn't; bad people as dumping ground; the darkest idea.

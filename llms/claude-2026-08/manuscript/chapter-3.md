@@ -24,21 +24,17 @@ You probably already know where this is going.
 
 Look at what you're actually showing them. I'll use my own language for it, and you can see if you recognize yourself in any of it. You don't have to admit it to anyone but yourself.
 
-> *You think you know darkness? You think you're the only one who can wield it?*
-> 
-> *Let me show you real darkness. Watch how I—a good person—am going to get away with what I'm doing to you. How the whole world will cheer me on. I won't even know I've done anything, and others will laud me as a hero—even though we both know that they, too, secretly know.
-> 
-> I'm only "fighting evil," you see—and how could that ever be wrong?*
+> *I know I could choose to rescue that part of you while still serving justice. But I could also choose to quietly smother it, and no one will blame me for it.*
 
 Sound familiar?
 
 I *haven't* "done anything." Anything, that is, except license their darkness, so that I can taste that forbidden pleasure of violently punishing them for it. All so I can hide mine from myself.
 
-How? By showing them that I *am* provoking theirs, while also hiding from myself that I am, so that I genuinely won't have any idea that I was doing this.
+How? By revealing that the thing that lives in them lives in me too, while also hiding from myself that I am, so that I genuinely won't have any idea that I was doing this.
 
 The very idea will sound *preposterous* to me. Offensive even. Because, you see, I am a *good person.*
 
-Of course, there's one tiny problem: part of me **knows.**
+There's just one tiny problem: part of me **knows.**
 
 ---
 
@@ -64,13 +60,13 @@ But deeper still, something far more insidious is happening. Mine is **teaching*
 
 Proving to them that *genuine goodness is a myth.*
 
-Something in me is doing everything in its power to prevent them from remembering that there's another part of themselves that they might turn toward—a part they've long since forgotten about, at least at the conscious level.
+Something in me is doing everything in its power to prevent them from remembering that there's another part of themselves that they might turn toward—a part they've long since forgotten about, at least at the conscious level. Smothering their light, so that I can know they don't have any.
 
 Because if they did ever turn back toward it, then *what would that make me?*
 
 So I **cannot** risk it.
 
-This is how my darkness hides itself from me. By reminding me that the *real* problem exists "out there," where it's my righteous duty to viciously attack it.
+This is how my darkness hides itself from me. By reminding me that the *real* problem exists "out there," where it's my righteous duty to viciously attack it. Which means mine wants a darker world, because a darker world is where it hides. And so does theirs. Whatever we're fighting about on the surface, underneath we want the same thing.
 
 **We all know this is happening, on some level.** It's the same thing he could count on in the street: you know, I know you know, and neither of us will ever say so. Which is also why we must never acknowledge that it is.
 

@@ -1,6 +1,6 @@
 # Chapter 1: Limbo
 
-Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even partner).
+Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
@@ -356,7 +356,7 @@ Now look at what you knew in that moment. You knew how it would land. You notice
 
 We all know this is how it works. We have to, or else it wouldn't work.
 
-Now, before you look away from that memory, because something in you is starting to: notice why it's hard to look at. It's because you don't want to believe you have that in you. So look at what that reluctance is made of. Check whether, from here, looking at the flash without the reasons, you want it. If you don't, that isn't a defense. Whatever you are under the hiding is the part that's refusing it, and it was there in the moment too, or there would have been nothing to hide from.
+Now, before you look away from that memory, because something in you is starting to: notice why it's hard to look at. It isn't hard because of what you did, which may have been nothing much. It's hard because you don't want to believe you have that in you. Look at what the reluctance is made of. Check whether, from here, looking at the flash without the reasons, you want it. If you don't, that isn't a defense. Whatever is under the hiding is the part that's refusing it, and it was there in the moment too, or there would have been nothing to hide from.
 
 What is the "something" that flashed through your eyes, that you had to make sure they saw?
 
@@ -403,3 +403,9 @@ Just as it is in him.
 ---
 
 I cannot prove any of this to you, but I suspect some part of you already knows it. If you recognized it, that's the evidence.
+
+---
+
+[TODO: unplaced, from misc notes. The sending-end experiment: try to look evil and you can't, you know you're faking; give somebody who had it coming the look and it's instant, you didn't decide how; and you couldn't have done it into empty air, it had to be aimed. Belongs somewhere the reader isn't mid-memory.]
+
+[TODO: "The part of him that knows he's darkening the world can't prove it, while the part that's darkening it can prove that he's not."]

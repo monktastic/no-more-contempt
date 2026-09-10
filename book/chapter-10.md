@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 997 words, roughly 4 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *And no wonder, for even Satan masquerades as an angel of light. So it is not strange that his ministers also masquerade as ministers of righteousness.* —2 Corinthians 11:14–15
 
 You may be thinking: fine, but I don't act on it. I feel the contempt and I keep it to myself.

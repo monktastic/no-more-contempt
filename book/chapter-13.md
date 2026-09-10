@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 655 words, roughly 2 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *Be kind, for everyone you meet is fighting a great battle.* —Author unknown
 
 I have to say this carefully, because it's the hardest thing in the book. When the Preface asked you to bring someone to mind, some of you didn't think of a stranger from the news. You thought of someone who hurt you. Or your child. Or your people.
