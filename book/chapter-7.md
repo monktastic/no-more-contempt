@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 818 words, roughly 3 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *We judge ourselves by our intentions and others by their behavior.* —Stephen Covey
 
 Chapter 1 showed you the mechanism between strangers. This chapter is about where it does most of its damage, which is between people who love each other, and about what it does to your eyes.

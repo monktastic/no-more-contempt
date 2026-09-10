@@ -9,7 +9,9 @@ parent: "The Book"
 
 # Chapter 1: Limbo
 
-Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even partner).
+*This chapter: about 6,120 words, roughly 22 pages at 280 words a page. Updated whenever the site is regenerated.*
+
+Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
@@ -275,7 +277,7 @@ Which is precisely the "what" that he was doing to you in the first place. But g
 
 ---
 
-His darkness is **seducing** you to embrace your own. To listen to the part that can prove over the part that knows. To trust your reasons over your conscience.
+His darkness is **seducing** you to embrace your own. To listen to the part that can prove over the part that knows. To trust your reasons over your conscience. And the contest is rigged: the part of him that knows he's darkening the world can't prove it, while the part that's darkening it can prove that he's not.
 
 And it can all be communicated through his tone, his gaze, his manner. We all know what it means on some level, even if we've never put it into words before. And it only works *because* we all know it, but cannot prove it.
 
@@ -365,7 +367,7 @@ Now look at what you knew in that moment. You knew how it would land. You notice
 
 We all know this is how it works. We have to, or else it wouldn't work.
 
-Now, before you look away from that memory, because something in you is starting to: notice why it's hard to look at. It's because you don't want to believe you have that in you. So look at what that reluctance is made of. Check whether, from here, looking at the flash without the reasons, you want it. If you don't, that isn't a defense. Whatever you are under the hiding is the part that's refusing it, and it was there in the moment too, or there would have been nothing to hide from.
+Now, before you look away from that memory, because something in you is starting to: notice why it's hard to look at. It isn't hard because of what you did, which may have been nothing much. It's hard because you don't want to believe you have that in you. Look at what the reluctance is made of. Check whether, from here, looking at the flash without the reasons, you want it. If you don't, that isn't a defense. Whatever is under the hiding is the part that's refusing it, and it was there in the moment too, or there would have been nothing to hide from.
 
 What is the "something" that flashed through your eyes, that you had to make sure they saw?
 
@@ -377,7 +379,7 @@ Whatever it was you needed them to recognize, it wasn't just harshness. That's j
 
 What you showed them, for a second, was that you'd stopped seeing them. That they'd been moved out of view—and you let them watch you do it. Why does that sting, in a way harshness alone doesn't?
 
-Go back to what contempt licenses. A person who's out of view is a person anything can be done to. There's no bottom. So a flash of it, even for someone you love, is a flash of **the thing with no bottom.** They read it that way because everyone does. And you were counting on them reading it that way.
+Go back to what contempt licenses. A person who's out of view is a person anything can be done to. There's no bottom to what's licensed, and you saw in the loop that there's no point at which it has had enough. So a flash of it, even for someone you love, is a flash of **the thing with the bottomless appetite.** They read it that way because everyone does. And you were counting on them reading it that way.
 
 Now look at what it does to them. Think back to what the first stranger's contempt did to you. It taught you something about the world: that it's the kind of place where people look out for each other only until it costs them, and then all bets are off. And that informed a choice you made later, toward someone else. Holding the life in one person out of view teaches them to hold it out of view *in general*, and some part of us knows this.
 

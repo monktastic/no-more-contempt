@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 861 words, roughly 3 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us.* —Hermann Hesse
 
 This is the chapter the book exists for, and I'll say it gently, because it isn't an accusation.

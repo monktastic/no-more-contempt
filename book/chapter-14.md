@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 1,202 words, roughly 4 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *Such a man knows that whatever is wrong in the world is also in himself, and if he only learns to deal with his own shadow, he has done something real for the world.* —Carl Jung
 >
 > *Wisdom without compassion is ruthlessness; compassion without wisdom is folly.*

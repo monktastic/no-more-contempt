@@ -1,6 +1,6 @@
 #!/bin/sh
 # Generates the website pages from manuscript/. Output goes to the repo root
-# (index.md, book/, map/, appendix/) and is committed, because GitHub Pages
+# (index.md, book/, map/, appendix/, condensed/) and is committed, because GitHub Pages
 # builds from the repo. Those files are generated; edit manuscript/ instead.
 cd "$(dirname "$0")" || exit 1
 python3 - <<'PY'
@@ -26,10 +26,11 @@ def strip_todos(text):
     text = re.split(r'\n## Original material\b', text)[0]
     return TODO_RE.sub('', text).rstrip() + '\n'
 
-def page(path, title, order, permalink, body, parent=None, has_children=False):
+def page(path, title, order, permalink, body, parent=None, has_children=False, grand_parent=None):
     body = strip_todos(body)
     fm = ['---', f'title: "{title}"', f'nav_order: {order}', f'permalink: {permalink}']
     if parent: fm.append(f'parent: "{parent}"')
+    if grand_parent: fm.append(f'grand_parent: "{grand_parent}"')
     if has_children: fm += ['has_children: true', 'has_toc: true']
     fm.append('---')
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -76,10 +77,10 @@ page(ROOT / 'index.md', 'Start here', 1, '/', body)
 # The condensed version
 cw = words('condensed.md')
 t, body = split_title((MAN / 'condensed.md').read_text())
-page(ROOT / 'condensed' / 'index.md', t, 2, '/condensed/', count_line(cw, 'The condensed version') + body)
+page(ROOT / 'condensed' / 'index.md', t, 3, '/condensed/', count_line(cw, 'The condensed version') + body)
 
 # The book
-page(ROOT / 'book' / 'index.md', 'The Book', 3, '/book/',
+page(ROOT / 'book' / 'index.md', 'The Book', 2, '/book/',
      count_line(bw, 'Preface through Chapter 5') + count_line(dw, 'Chapters 6 through 17, first drafts') + 'Preface through Chapter 5 is the short book, complete in itself. Chapters 6 onward are first drafts written by Claude from the author\'s notes, marked in red at the top of each; read them for the shape of the rest, not for the prose.\n',
      has_children=True)
 chapters = [('preface.md', None), ('chapter-1.md', None), ('chapter-1a.md', None),
@@ -87,6 +88,12 @@ chapters = [('preface.md', None), ('chapter-1.md', None), ('chapter-1a.md', None
             ('chapter-4.md', None), ('chapter-5.md', None)] + [(f'chapter-{n}.md', None) for n in range(6, 18)]
 for i, (f, override) in enumerate(chapters, 1):
     t, body = split_title((MAN / f).read_text())
+    line = count_line(len(strip_todos(body).split()), 'This chapter')
+    if body.startswith('<p '):  # the draft banner stays first
+        head, rest = body.split('\n', 1)
+        body = head + '\n\n' + line + rest.lstrip('\n')
+    else:
+        body = line + body
     page(ROOT / 'book' / f, override or t, i, f'/book/{f[:-3]}/', body, parent='The Book')
 
 # The map, split by Part
@@ -101,12 +108,12 @@ for i, ch in enumerate(chunks[1:], 1):
     title = titles.get(letter, t)
     page(ROOT / 'map' / f'part-{letter.lower()}.md', title, i, f'/map/part-{letter.lower()}/', body, parent='Where This Goes')
 
-# Appendices
-page(ROOT / 'appendix' / 'index.md', 'Appendices', 5, '/appendix/',
-     'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', has_children=True)
+# Appendices: part of the book, so nested under it, after the chapters
+page(ROOT / 'appendix' / 'index.md', 'Appendices', len(chapters) + 1, '/appendix/',
+     'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', parent='The Book', has_children=True)
 for i, f in enumerate(['appendix-1-recursion.md', 'appendix-2-what-others-have-seen.md', 'appendix-3-the-traditions.md'], 1):
     t, body = split_title((MAN / f).read_text())
-    page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices')
+    page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices', grand_parent='The Book')
 
 MANIFEST.write_text(json.dumps(written, indent=1))
 print('published: index.md, condensed/, book/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(chunks)))

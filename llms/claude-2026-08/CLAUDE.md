@@ -58,6 +58,8 @@ Opus). Nothing else in the repo holds state.
 the chapter hand-offs. Ordering decisions come from here, not from the dags.
 `chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
 frame (outside, inside, held), and what it leaves open.
+`themes.md` one row per load-bearing claim, one column per chapter, the grade
+each chapter leaves the claim at. The general form of the ledger.
 `dags/` dependency graphs. The `.dot` is the source; regenerate with
 `dot -Tsvg f.dot -o f.svg`. `book-map.dot` is the whole book on one page,
 by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
@@ -273,6 +275,11 @@ question and opens one; the sum-known sentence appears once, at the hinge.
 **hand-off check** — every chapter opens on the question the previous one
 closed with, per the table in `engine.md`, and closes by raising the next
 one's. A chapter that opens on a topic fails.
+
+**theme check** — `themes.md` against the drafts. Every row goes up left to
+right; the same grade twice in a row is an echo (cut the later one unless it's
+a one-sentence callback); "as we've seen" before the row has earned it is a
+fault in that chapter. Report, don't cut.
 
 **dag sync** — regenerate graphs after structural edits.
 

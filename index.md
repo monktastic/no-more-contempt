@@ -18,7 +18,7 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 The book exists at three lengths, and you can stop after any of them.
 
-**The short book** is the Preface, Chapter 1, the interlude after it, and Chapters 2 to 5. It runs about 80 pages. Chapter 5 takes a picture everybody knows, the angel and the devil on your shoulders, and corrects it one feature at a time; each correction is a thesis the rest of the book unpacks. If you read nothing else, read to the end of Chapter 5.
+**The short book** is the Preface, Chapter 1, the interlude after it, and Chapters 2 to 5. It runs about 81 pages. Chapter 5 takes a picture everybody knows, the angel and the devil on your shoulders, and corrects it one feature at a time; each correction is a thesis the rest of the book unpacks. If you read nothing else, read to the end of Chapter 5.
 
 **The rest of the book, in first draft.** Chapters 6 to 17 exist as short drafts, one per section of Chapter 5, written by an AI assistant from my notes and key points and not yet rewritten in my voice. Each is marked in red at the top, and below each draft you'll find the material of mine it was built from. Read them for the shape of the whole. The map below is the same ground in more detail.
 

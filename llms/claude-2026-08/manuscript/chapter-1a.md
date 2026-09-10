@@ -8,13 +8,7 @@ Before going any further I want to send you back over some of what you just did.
 
 **1. What you actually knew.**
 
-Go back to the thing you brought to mind at the start of the chapter, the one you did while not letting yourself know it. Earlier I asked how you knew it was wrong. Now I want the other half: what, exactly, was the wrong thing?
-
-Try to answer, and notice how hard it is. If it was a test you cheated on, nobody was in front of you being hurt. You hadn't worked out any consequences; there wasn't time, and you weren't calculating anyway. So what was in there?
-
-I think it was this. You knew you'd made yourself an exception. That the thing held for everyone and you had quietly stepped outside it. Not *someone will suffer*. Just *this doesn't apply to me*.
-
-Check whether that's the flavor of it.
+Go back to the thing you brought to mind at the start of the chapter, the one you did while not letting yourself know it. Chapter 1 said, in passing, what the wrong thing was: you'd made yourself an exception, and you couldn't have done it while looking at the people it cost. Check whether that's the flavor of it. Not *someone will suffer*. Just *this doesn't apply to me*.
 
 And yet that's not quite the whole of it, because making an exception of yourself isn't always wrong. Take the last seat when your back is ruined. Say no to someone who needs you, on a day when you have nothing left. Feed your own child first. All exceptions, and your conscience doesn't make a sound.
 
@@ -34,13 +28,7 @@ If you're anxious about whether you're evil for staying seated on a bus, that an
 
 **2. Where you'd felt that before.**
 
-Now the stranger. You read him in about two seconds, on no evidence at all, and you'd have bet at any odds.
-
-What did you read? Not that he was angry; you'd have forgiven angry. You read that he was doing the very thing he was condemning you for. He was making himself an exception.
-
-Which is what you'd known about yourself minutes before, in the thing that got you caught, and couldn't have put into words if you'd tried.
-
-So you spotted it in him instantly, using the one faculty you had just spent that whole episode refusing to turn on yourself. Same recognition, pointed outward. *This doesn't apply to me* and *you're not really one of us* turn out to be one thing seen from two ends.
+Now the stranger. You read him in about two seconds, on no evidence at all, and you'd have bet at any odds. What you read was that he was making himself an exception, which is what you'd known about yourself minutes before and couldn't have put into words. So you spotted it in him using the one faculty you had just spent that whole episode refusing to turn on yourself. *This doesn't apply to me* and *you're not really one of us* are one thing seen from two ends.
 
 **3. The harder version of the experiment.**
 
@@ -54,11 +42,7 @@ Which tells you the block was never about size. It was about whether you were lo
 
 That's what you found in your own case. I think it's true of everyone, and of every harm there is, and I haven't shown you that.
 
-Now the other side of it, because so far this has all been about what you can't do.
-
-Think of a time you actually saw somebody. Not thought about them. Saw them. Maybe someone you love, in a completely ordinary moment, when it suddenly landed that there is a whole person in there, with a childhood, and a private fear, and their own particular way of being tired. Or a stranger, once, for no reason you could name.
-
-Notice what was missing from that moment. Not just that you wouldn't have harmed them. The option wasn't in the room. And it didn't feel like restraint, or like being good. It didn't feel like anything, because there was nothing there to hold back.
+Now the other side of it, because so far this has all been about what you can't do. Go back to the moment in the experiment before you tried to give the look, when you were only looking at them. Notice what was missing. Not just that you wouldn't have harmed them. The option wasn't in the room, and it didn't feel like restraint, because there was nothing there to hold back.
 
 Notice what was there instead. If they had objected to something, the objection would have landed on you. You'd have had to answer it, not manage it. If they had been hurt, it would have been bad, in the way your own hurt is bad, and not merely bad for them. And what was going on in them could have changed what you did next.
 
@@ -130,9 +114,9 @@ I think it's the same trap, at a different dose, in every act of contempt there 
 
 None of the conclusions in this book are new: that we make other people out to be bad so that we can feel good, that a person can hide from himself, that shaming somebody makes them worse. People have known all of that for a long time, and some of them have measured it. If it sounds familiar, that's because it is, and I'd rather stand with that company than pretend otherwise.
 
-What I don't think anyone has said is what actually passes between two people in that moment. That the hiding is itself the message. That what you read in him wasn't a mood but the way he was standing in relation to what he knew. That it has to be deniable or it doesn't work at all. And that it teaches you something, which is the piece I most want you to hold onto: that the part of you which knew is not worth listening to. Everything larger in this book comes out of that last one.
+What I don't think anyone has said is what actually passes between two people in that moment. That the hiding is itself the message. That what you read in him wasn't a mood but the way he was standing in relation to what he knew. That it has to be deniable or it doesn't work at all. That it only works because both of you already know what it is, so the story that it was the good kind is refuted by the fact that it worked. And that it teaches you something, which is the piece I most want you to hold onto: that the part of you which knew is not worth listening to. Everything larger in this book comes out of that last one.
 
-And I think this is one reason it's so hard to describe, and why the accounts that come closest stop where they stop. You can only see it while holding on to both halves at once: he knew, and he didn't let himself know. Collapse that to "he simply knew" and you've got a villain, and contempt follows. Collapse it to "he had no way of knowing" and you've got an accident, and going easy on him follows. Both leave out half of what happened. It only stays in view while you hold both halves.
+And I think this is one reason it's so hard to describe, and why the accounts that come closest stop where they stop. The people who came closest, and where each one stopped, are in Appendix 2. You can only see it while holding on to both halves at once: he knew, and he didn't let himself know. Collapse that to "he simply knew" and you've got a villain, and contempt follows. Collapse it to "he had no way of knowing" and you've got an accident, and going easy on him follows. Both leave out half of what happened. It only stays in view while you hold both halves.
 
 **What I'm asking you to hold.**
 
@@ -142,7 +126,7 @@ The people we call evil are further along this same road, not on a different one
 
 The dark part in him and the dark part in you are on the same side, and contempt is what they feed each other.
 
-You are not it. And the shame you feel when you catch it at work is how it keeps you from looking.
+You are not it, and the shame you feel when you catch it at work is how it keeps you from looking. Chapter 1 said that outright, at the end, and gave you the shape of it. It hasn't earned it.
 
 The only stance that doesn't feed the trap is the second stranger's. Other things sometimes help. But anything that carries contempt is acting out the very thing it's trying to end, and his stance is the only one that doesn't.
 
@@ -170,7 +154,7 @@ I haven't shown you anything about your own contempt for somebody who really hur
 
 I haven't shown you that any of this survives past two people on a street.
 
-And I haven't told you what's underneath the caring, beyond the fact that it's there and that it's enough.
+And I haven't told you what's underneath the caring, beyond the fact that it's there and that it's enough. That's next.
 
 And now the thing I owe you most, which is a real way to say no.
 

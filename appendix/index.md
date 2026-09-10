@@ -1,7 +1,8 @@
 ---
 title: "Appendices"
-nav_order: 5
+nav_order: 20
 permalink: /appendix/
+parent: "The Book"
 has_children: true
 has_toc: true
 ---

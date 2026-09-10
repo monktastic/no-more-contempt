@@ -2,13 +2,13 @@
 
 ## Is it you?
 
-Now we must confront a burning question: is your darkness *you?*
+Now we must confront the question Chapter 1 gave you the shape of and asked you to carry. Something was using you, and you're fully responsible. But is it *you?* Watch what the mind does with that.
 
-If it just is you, then it becomes very difficult to avoid shame—especially as you discover the full extent of harm you've caused from within it. That prevents you from seeing it clearly for what it is, and doing what you must to end it. That only gives it more power.
+If it just is you, then it's very hard to avoid shame, especially as you discover the full extent of harm you've caused from within it. That prevents you from seeing it clearly for what it is, and doing what you must to end it. That only gives it more power.
 
-But if it's *not* you—if it's something else, or some unconscious process—then how can you bear full responsibility? That entails feeling the full weight of it. Seeing that *yes, I did this—and I **knew** I was doing it.* And as we've seen, we absolutely *do* know, in the sense that matters.
+But if it's *not* you—if it's something else, or some unconscious process—then how can you bear full responsibility? Bearing it means feeling the full weight of it: *yes, I did this—and I **knew** I was doing it.*
 
-Our mind can't help but collapse the paradox to one side or the other. *That's what keeps the whole thing going*. In a sense, the darkness benefits from our inability to hold this paradox.
+Our mind can't help but collapse the paradox to one side or the other. *That's what keeps the whole thing going*.
 
 And look what happens when we apply it to our enemies.
 
@@ -30,7 +30,11 @@ You saw it from the other side, too. When you tried to give a stranger that gaze
 
 That's its strange status. It isn't a thing. It's the not-looking. Which is why it's not quite our "willingness" to turn away. Willingness makes it sound like a choice, an evil one, and that just pushes the problem one level down, where you'd need a darkness to explain the darkness. Nobody chooses to stop looking while they're still looking. It happens because something isn't being seen clearly. And the moment it is, it stops—as you found when you tried.
 
-So: real enough to sink a ship, and made of nothing but a hole. 
+So: real enough to sink a ship, and made of nothing but a hole.
+
+Here is what we have, assembled, and each piece of it you met in the first two chapters. Something that doesn't feel like you until it takes control, and then feels entirely like you. It works against what you care about while making you feel justified, even righteous. It aims, it reads reactions, it closes every exit, and it leaves no record. It hides from you by showing itself to everyone else, and it does better still when they take it for you. It pursues goals that aren't yours. And afterward it covers the whole thing with shame, so that you never look at what happened.
+
+[TODO: Wasn't the point of this to introduce it as a parasite??]
 
 All of the above is needed to hold what comes next.
 
@@ -102,7 +106,7 @@ There are countless "hidden channels of communication" taking place between all 
 
 And the belief that some *do* want it—that at the very deepest level, there's something broken in them that isn't in us—exists only to create more of that very communication.
 
-Every act of unkindness, every skirting of conscience, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
+Contempt is only one of its forms. The rest is the same turning away with no enemy in view, and there's far more of it. Every act of unkindness, every skirting of conscience, every bit of self-serving behavior that we tell ourselves we'll get away with, or that it's fine because of what *they're* doing: we get away with none of it. It is *feeding* something. Something we all hate but dare not name.
 
 There _is_ a kind of "evil global conspiracy." It just isn't the kind we've trained ourselves to look for.
 

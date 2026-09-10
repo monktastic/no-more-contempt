@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 887 words, roughly 3 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *We have met the enemy and he is us.* —Walt Kelly
 
 Nobody in the locker room planned anything, and yet the room behaved as though it had. Hold on to that, because it's about to get bigger.

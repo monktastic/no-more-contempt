@@ -11,6 +11,8 @@ parent: "The Book"
 
 <p style="color:#b03a2e"><em>This chapter is a first draft written entirely by Claude from Aditya's notes and key points, and he has not yet rewritten it in his own voice.</em></p>
 
+*This chapter: about 1,781 words, roughly 6 pages at 280 words a page. Updated whenever the site is regenerated.*
+
 > *I am the twelve-year-old girl, refugee on a small boat, who throws herself into the ocean after being raped by a sea pirate. And I am the pirate, my heart not yet capable of seeing and loving.* —Thích Nhất Hạnh, *Please Call Me by My True Names*
 
 *I've marked this part off, and I should say what the mark means, because the obvious reading is wrong. It doesn't mark a change of subject. Everything here is on the same road as everything before it, further along, and I got there by looking the way you looked in Chapter 1, for longer and with help. What it marks is that I can no longer give you a way to check what I'm saying. If you look and don't find what I describe, that's a finding, and it counts. Nothing practical in the book depends on this part.*

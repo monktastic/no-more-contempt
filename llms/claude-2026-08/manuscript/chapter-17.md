@@ -23,7 +23,7 @@ I can't take you further than suspecting that. If you come away suspecting it, f
 
 <!-- working notes -->
 
-**What it's for.** Part F. One idea, four sides. The bet: a shared, exact name takes the cover away. The limit (the word "contempt" already exists). The prediction that it will be weaponized. The anti-ritual. The last step: what stopped you on the street was what was doing the looking. The epigraph.
+**What it's for.** Part F. Closing beat from misc notes: the fact that this book can be written at all says the mechanism can be punctured; what begins in limbo need not stay there, and in fact cannot forever, which is the epigraph. One idea, four sides. The bet: a shared, exact name takes the cover away. The limit (the word "contempt" already exists). The prediction that it will be weaponized. The anti-ritual. The last step: what stopped you on the street was what was doing the looking. The epigraph.
 
 ## Outline
 

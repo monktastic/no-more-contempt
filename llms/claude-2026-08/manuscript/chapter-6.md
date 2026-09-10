@@ -43,6 +43,8 @@ Which brings us to the fourth and most instructive example: us.
 
 <!-- working notes -->
 
+**Source to mine:** The trip's second movement (claude-v1/Part-2-final.md) is this chapter's testimony: the spreadsheet, "I wasn't starting from a clean place and then thinking; I was using my intellect to prove it was good," and "when I was disconnected, thinking itself became the weapon."
+
 **What it's for.** The reader has felt, in Chapter 1, which part of them had to argue. This chapter shows what happens once the arguing part is in charge: it can't sense the good, it can only prove you already are, and the devil can obey any rule. The reader should leave feeling in their bones why goodness can't be captured by a rule, a metric, a proof, or a system that infers our values from our behavior, and why the most dangerous plans are the ones with the best proofs.
 
 **Seeded in Chapter 5 by:** the angel never argues; the devil can obey any rule; the devil sounds like the angel; notice how sure you are; the memo.
