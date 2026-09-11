@@ -37,6 +37,7 @@ Limbo exists in degrees. It's not just black or white. And there's one more thin
 To *be* in limbo entails knowing that you *are* in limbo—while also hiding it from yourself. In other words, limbo always contains itself.
 
 ---
+
 ## The Two Strangers
 
 Imagine that while you were in that state—doing wrong, justifying it, half-knowing—a stranger had caught you and publicly chastised you for it. Not just for doing something wrong, but for *being the kind of person who does*.
@@ -80,6 +81,7 @@ We never say "I'm going to ignore my conscience." It just feels like the world i
 Notice what this means. The two strangers could have said nearly identical things, and yet they produced opposite outcomes. One will have left the world a slightly better place, and the other, a worse one. And yet there will be no objective evidence of any difference. In fact, the evidence shows that the second stranger was *harsher*—and so he should have been the one that made it worse.
 
 ---
+
 ## The Cause
 
 So what exactly did the first stranger do to cause this?

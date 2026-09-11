@@ -73,6 +73,7 @@ Here's what it feels like from the inside.
 Now a much more dramatic experience from my own life—the first that showed me the full depth of what lives inside me. You might find that it works best when read at a meditative pace.
 
 ---
+
 ## The trip
 
 *In this experience, I was taken back to a memory where I had ruthlessly mocked someone for having a different political opinion than me—an opinion that I knew was harmful. That's how I knew it was okay to do this to him. My goal was to stop him, and also dissuade others from following. And if it didn't do that, well, at least he'd be made to feel bad for being bad.*

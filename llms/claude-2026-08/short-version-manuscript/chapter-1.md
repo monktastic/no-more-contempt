@@ -53,6 +53,7 @@ But this is a little strange, isn't it? You intentionally telegraphed something 
 What's going on here?
 
 ---
+
 ## Common knowledge
 
 You made their turning-away into an *essence.* What they fundamentally *are.* At some level, you know that's not fair. How? Because you just turned away yourself without concluding that it's *your* essence.
