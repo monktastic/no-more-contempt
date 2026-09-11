@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: Turning Away
 
 Imagine looking into a stranger’s eyes long enough that their face stops being something you’re looking at and becomes a place somebody is looking out of.
 
@@ -53,6 +53,7 @@ But this is a little strange, isn't it? You intentionally telegraphed something 
 What's going on here?
 
 ---
+## Common knowledge
 
 You made their turning-away into an *essence.* What they fundamentally *are.* At some level, you know that's not fair. How? Because you just turned away yourself without concluding that it's *your* essence.
 
@@ -69,8 +70,23 @@ Part of your mind knows exactly what you're doing, while another part is left in
 But how can you so precisely telegraph something to someone else that you don't fully register in yourself?
 
 ---
+## Limbo
 
-[Explanation of limbo]
+Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
+
+Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
+
+We like to call such knowledge "unconscious"—as if we had no way of knowing—but that's not entirely accurate, is it? It was *right there* to see if you had looked; fully available to consciousness. You were just *turned away* from it. The knowledge existed in a strange kind of **limbo**, in which you simultaneously knew and yet somehow didn't.
+
+And it wasn't just sitting there, idle: it affected your behavior. Any time someone came close to exposing the truth, or you started getting close to it yourself, you found a way to deflect, right? And that didn't happen passively. The **behavior** took place in limbo, too.
+
+Looking back, can you see how *some part of you knew exactly what you were doing, even as you did it?*
+
+The same thing is going on with contempt. It takes place from limbo.
+
+*(Note: this section will be fleshed out more later, to connect turning away from knowledge of your wrongdoing to turning away from people. They're essentially the same thing: turning away from ourselves; from our conscience; from the humanity in others; from the implications of our behavior—they're all facets of the same move. For now, notice: when someone gives you a dehumanizing gaze, can you sense how they're absent or "turned away" from themselves? That's what you're looking at.)*
+
+[TODO: flesh out the above. Import the second limbo section about how one side argues and the other doesn't.]
 
 ---
 

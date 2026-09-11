@@ -92,9 +92,10 @@ in `_sass/custom/custom.scss`.
 `make-downloads.sh` builds the whole draft as one file for readers who would
 rather not read a website: `downloads/no-more-contempt.md`, `.epub` and `.pdf`,
 plus the Downloads page that links them. Same sources, same stripping, in the
-order the site's menu follows. Needs pandoc; the PDF needs a LaTeX engine,
-typst, or Calibre's `ebook-convert`, and is skipped with a warning if the
-machine has none, or if the one it has fails; the Downloads page then leaves the
+order the site's menu follows. Needs pandoc and typst, which is what the
+Actions build installs, so a PDF built here looks like the one on the site; a
+LaTeX engine or Calibre's `ebook-convert` will stand in. The PDF is skipped with
+a warning if the machine has none, or if the one it has fails; the Downloads page then leaves the
 PDF off rather than linking a file that isn't there. `--out DIR` writes
 somewhere else. Run it after `publish.sh`.
 `bookparts.py` is what both scripts share: how a file is split from its title,
