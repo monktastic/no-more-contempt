@@ -117,6 +117,20 @@ for i, f in enumerate(short_chapters, 1):
     title = t or f'Chapter {i}'
     page(ROOT / 'short' / f.name, title, i, f'/short/{f.stem}/', body, parent='The Short Version')
 
+# The build stamp the site's footer shows, so a reader can say which version
+# they're reading and a note can be tied back to a commit.
+import subprocess, datetime
+def git(*args):
+    try:
+        return subprocess.run(('git',) + args, capture_output=True, text=True,
+                              cwd=HERE).stdout.strip()
+    except OSError:
+        return ''
+(ROOT / '_data').mkdir(exist_ok=True)
+(ROOT / '_data' / 'build.yml').write_text(
+    'sha: "%s"\ndate: "%s"\n' % (git('rev-parse', '--short', 'HEAD') or 'unknown',
+                                  datetime.date.today().strftime('%-d %B %Y')))
+
 if GUARDED: MANIFEST.write_text(json.dumps(written, indent=1))
 print('published: index.md, book/ (%d), short/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(short_chapters) + 1, len(chunks)))
 PY

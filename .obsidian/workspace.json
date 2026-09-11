@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/misc/interlude-old.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interlude-old"
+              "title": "chapter-1"
             }
           },
           {
@@ -301,19 +301,21 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
-    "llms/claude-2026-08/toPdfViaTempFile86946-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile86946-1.pdf",
-    "llms/claude-2026-08/media-2eb9c621699c2e36",
+    "_site/orphans/index.html",
+    "_site/orphans",
+    "orphans.md",
+    "llms/claude-2026-08/check-orphans.sh",
     "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/toPdfViaTempFile84496-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile84496-1.pdf",
-    "llms/claude-2026-08/media-7d0690aa9d45d1f4",
-    "llms/claude-2026-08/toPdfViaTempFile84386-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile84386-1.pdf",
-    "llms/claude-2026-08/media-8e1b52bb8045aa30",
-    "llms/claude-2026-08/toPdfViaTempFile84338-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile84338-1.pdf",
     "llms/claude-2026-08/manuscript/chapter-1.md",
+    "_includes/head_custom.html",
+    "_site/downloads/no-more-contempt.epub",
+    "_site/downloads/index.html",
+    "_site/downloads/no-more-contempt.pdf",
+    "_site/downloads/no-more-contempt.md",
+    "_site/downloads",
+    "_site/short/index.html",
+    "_site/book/chapter-5/index.html",
+    "_site/book/chapter-5",
     "llms/misc/new-journey.md",
     "short/chapter-1.md",
     "scratch/key-points/index.md",
@@ -335,8 +337,6 @@
     "scratch/you-are-everyone.md",
     "scratch/key-points/scenarios.md",
     "scratch/key-points/devil.md",
-    "scratch/key-points/conspiracy.md",
-    "scratch/key-points/angel-devil-samples.md",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
     "_site/assets/images/bullet.png",

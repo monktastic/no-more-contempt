@@ -1,0 +1,20 @@
+{%- comment -%}
+  Inline commenting, by Hypothesis. A reader selects a passage, writes a note,
+  and it stays anchored to those words; replies thread under it. Notes live at
+  hypothes.is, not here, and reading them needs an account there, as does
+  leaving one. Turn the whole thing off with annotations: false in _config.yml.
+{%- endcomment -%}
+{%- if site.annotations %}
+<script>
+  window.hypothesisConfig = function () {
+    return {
+      // The highlights are the point: a reader should see where others stopped.
+      showHighlights: true,
+      openSidebar: false,
+      theme: 'clean',
+      branding: { appBackgroundColor: '#ffffff' },
+    };
+  };
+</script>
+<script src="https://hypothes.is/embed.js" async></script>
+{%- endif %}

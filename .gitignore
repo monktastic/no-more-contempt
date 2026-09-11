@@ -10,6 +10,7 @@ llms/claude-2026-08/working-manuscript.md
 # build makes them fresh on every push, so they don't belong in git; run the
 # scripts locally when you want to preview the site.
 /index.md
+/orphans.md
 /book/
 /map/
 /appendix/
@@ -19,3 +20,4 @@ llms/claude-2026-08/working-manuscript.md
 .DS_Store
 llms/claude-2026-08/.publish-manifest.json
 __pycache__/
+/_data/build.yml
