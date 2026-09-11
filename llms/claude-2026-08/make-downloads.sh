@@ -104,32 +104,39 @@ for e in typst xelatex lualatex tectonic pdflatex; do
   command -v "$e" >/dev/null 2>&1 && { engine=$e; break; }
 done
 if [ "$engine" = typst ]; then
+  # The most readable face of whatever is installed. Charter was drawn for
+  # low-resolution printers and screens: big x-height, sturdy strokes, and it
+  # reads a size larger than it is. XCharter is the same design under the name
+  # Debian ships it as; PT Serif is the next best; typst's own Libertinus is
+  # the last resort, so there is always something. mainfont is not optional
+  # either way: pandoc leaves the font list empty and typst refuses to start.
+  FONT="Libertinus Serif"
+  for f in Charter XCharter "PT Serif"; do
+    if typst fonts 2>/dev/null | grep -qx "$f"; then FONT=$f; break; fi
+  done
   # Typst spells the page settings its own way, and numbers pages only if asked.
+  # No linkcolor: the template feeds it to rgb(), which wants a hex string and
+  # dies on a colour name. Unset leaves links in the text colour.
   cat > "$PDFMETA" <<'YAML'
 margin:
-  x: 1.25in
+  x: 1.3in
   y: 1.1in
 papersize: us-letter
 page-numbering: "1"
-fontsize: 12pt
-linestretch: 1.15
-mainfont: Libertinus Serif
+fontsize: 13pt
+linestretch: 1.3
 header-includes:
   - |
     ```{=typst}
     #show heading.where(level: 1): it => { pagebreak(weak: true); it }
     ```
 YAML
-  # mainfont is not optional: pandoc's template leaves the font list empty and
-  # typst refuses to start on that. Libertinus Serif is built into the typst
-  # binary, so the runner has it without installing a font.
-  # No linkcolor either: the template feeds it to rgb(), which wants a hex
-  # string and dies on a colour name. Unset leaves links in the text colour.
+  printf 'mainfont: %s\n' "$FONT" >> "$PDFMETA"
 else
   cat > "$PDFMETA" <<'YAML'
-geometry: margin=1.25in
+geometry: margin=1.3in
 papersize: letter
-fontsize: 12pt
+fontsize: 13pt
 linkcolor: black
 YAML
 fi
@@ -191,5 +198,5 @@ printf 'downloads in %s:\n' "$OUT"
 for f in no-more-contempt.md no-more-contempt.epub no-more-contempt.pdf index.md; do
   [ -f "$OUT/$f" ] && printf '  %-24s %s\n' "$f" "$(du -h "$OUT/$f" | cut -f1 | tr -d ' ')"
 done
-[ -n "$engine" ] && printf 'PDF engine: %s\n' "$engine"
+[ -n "$engine" ] && printf 'PDF engine: %s%s\n' "$engine" "${FONT:+, $FONT}"
 exit 0

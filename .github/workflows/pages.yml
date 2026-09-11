@@ -52,8 +52,13 @@ jobs:
           curl -fsSL "https://github.com/typst/typst/releases/download/v$TYPST_VERSION/typst-x86_64-unknown-linux-musl.tar.xz" \
             | sudo tar --extract --xz --strip-components=1 --directory=/usr/local/bin \
               typst-x86_64-unknown-linux-musl/typst
+          # XCharter is Charter, which is what the PDF is set in. Without it
+          # typst falls back to its built-in face and the type reads smaller.
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends fonts-xcharter
           pandoc --version | head -1
           typst --version
+          typst fonts | grep -i charter
 
       - name: Generate the pages and the downloads
         run: |

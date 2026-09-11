@@ -182,7 +182,7 @@ First, open malice might just provoke fear rather than your digging in. Second, 
 
 That's where the second component comes in: the righteous appearance. Malice is frightening. Contempt is malice that believes it's righteous, and that makes it *maddening*.
 
-So he needs to carefully balance both halves—ensuring that the dark signal comes through clearly, and that it's got just enough veneer of righteousness that it remains plausibly deniable. Crucially, neither you nor he must be able to pin it down. It cannot show up in any audit. He won't be able to see it later by merely thinking about it.
+So he needs to carefully balance both halves—ensuring that the dark signal comes through clearly, and that it's got just enough veneer of righteousness that it remains plausibly deniable. Neither you nor he must be able to pin it down. It cannot show up in any audit. He won't be able to see it later by merely thinking about it.
 
 This is also what prevents us (the readers) from interpreting him as a mustache-twirling villain. The plan is, in fact, Machiavellian in design. But there's a crucial sense in which *he's* not the one executing it. He *cannot* be—not merely because he's a "good person," but because the plan requires it.
 
@@ -274,8 +274,6 @@ And it can all be communicated through his tone, his gaze, his manner. We all kn
 
 You may have felt this before, as a kind of "hall of mirrors" effect, where you both know what's happening, and that neither one of you can name it.
 
-This is what is being communicated from inside it.
-
 ---
 
 It feels like this on the receiving end: *if this is the kind of world we live in—where people can be cruel and the world calls it "righteous"; where we all know what's happening but pretend not to—then **fuck it**. Game on.* 
@@ -326,9 +324,7 @@ That's how it keeps itself alive: by convincing him it doesn't exist in him, whi
 
 **This is why none of us ever recognize it operating in ourselves**. It hides itself perfectly from our own minds while revealing itself to others, compelling them to righteously attack us for it, thereby enabling ours to hide itself better from us.
 
-That is its "job"—to keep itself hidden from us so that it can keep operating with impunity. To prevent us from looking in the one place where we could actually end it.
-
-That's its one trick, and it has no other. The only thing it can't survive is being looked at directly. Why that should be, I'll come to.
+That's its one trick, and it has no other: to keep us from looking in the one place where we could actually end it. The only thing it can't survive is being looked at directly. Why that should be, I'll come to.
 
 That's what contempt for people **is**: a way to make our targets feel unsafe, so they can't actually *look* at the thing blocking them from the part that cares. So that they feel they *need* it, keeping them trapped in the dark, so that we never have to confront the same thing blocking *us.*
 
