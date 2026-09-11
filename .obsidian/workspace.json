@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/manuscript/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
@@ -301,6 +301,10 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
+    "llms/claude-2026-08/toPdfViaTempFile86946-0.typ",
+    "llms/claude-2026-08/toPdfViaTempFile86946-1.pdf",
+    "llms/claude-2026-08/media-2eb9c621699c2e36",
+    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "llms/claude-2026-08/toPdfViaTempFile84496-0.typ",
     "llms/claude-2026-08/toPdfViaTempFile84496-1.pdf",
     "llms/claude-2026-08/media-7d0690aa9d45d1f4",
@@ -309,11 +313,7 @@
     "llms/claude-2026-08/media-8e1b52bb8045aa30",
     "llms/claude-2026-08/toPdfViaTempFile84338-0.typ",
     "llms/claude-2026-08/toPdfViaTempFile84338-1.pdf",
-    "llms/claude-2026-08/media-66a96c0e98ead868",
-    "llms/claude-2026-08/toPdfViaTempFile84322-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile84322-1.pdf",
     "llms/claude-2026-08/manuscript/chapter-1.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "llms/misc/new-journey.md",
     "short/chapter-1.md",
     "scratch/key-points/index.md",
