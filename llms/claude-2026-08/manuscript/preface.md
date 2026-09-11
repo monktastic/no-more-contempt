@@ -10,7 +10,7 @@ How do you feel about them? How do you want *them* to feel?
 
 Maybe you ascribe their behavior to a force called _evil_—something they have that we don't. Or maybe you see it as a profound form of confusion. Either way, check if there's a feeling that says: there's something _fundamentally different_ about them. _I_ could never do that. I'm made of _better stuff._
 
-The rage we feel for them comes from something good in us—something that refuses to let them continue. But if we're honest, there's something else mixed in. A part of us that would love nothing more than to see them hurt—*quite independently of any good it might do*. Beyond the justice it would serve. Check and see if that's true.
+The rage we feel for them comes from something good in us—something that refuses to let them continue. But there's something else mixed in. A part of us that would love nothing more than to see them hurt—*quite independently of any good it might do*. Beyond the justice it would serve. Check and see if that's true.
 
 Here's a test. Say you could either deliver the righteous vengeance they so richly deserve, or give them a pill that magically enlightens them—ending the threat, but no punishment at all. Forget the "right" answer. Isn't there a flicker in there just *itching* to mash that first button?
 
@@ -34,6 +34,6 @@ If you look and recognize what you find, *that's* the evidence.
 
 One thing about the language. I'm going to talk about darkness and light, and I'm going to talk about the darkness as if it were a thing that does things, because that's how it behaves—and later, sometimes, as if it were one thing at work across all of us. If you'd rather read all of that as poetry, do. These are things to feel into, not beliefs to adopt. Nothing I ask you to check depends on taking any of it literally, and when I get to the parts that do, I'll say so.
 
-We'll start with a small example, since that's where this is easiest to see.
+We'll start small, since that's where this is easiest to see.
 
 ---
