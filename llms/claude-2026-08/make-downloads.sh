@@ -39,6 +39,8 @@ date: $DATE
 lang: en-GB
 YAML
 
+FROM=markdown-yaml_metadata_block-multiline_tables-simple_tables
+
 OUT="$OUT" BODY="$BODY" SHA="$SHA" DATE="$DATE" TMP="$TMP" python3 - <<'PY' || exit 1
 import os, pathlib, re
 from bookparts import (READING_ORDER, TITLE_OVERRIDES, TITLE, AUTHOR, SITE_URL,
@@ -87,7 +89,7 @@ if pandoc --help | grep -q -- --split-level; then  # renamed in pandoc 3
 else
   split=--epub-chapter-level=1
 fi
-pandoc "$BODY" --from=markdown-yaml_metadata_block --to=epub3 --metadata-file="$META" \
+pandoc "$BODY" --from="$FROM" --to=epub3 --metadata-file="$META" \
   --toc --toc-depth=2 "$split" \
   --output="$OUT/no-more-contempt.epub" || exit 1
 
@@ -105,11 +107,12 @@ if [ "$engine" = typst ]; then
   # Typst spells the page settings its own way, and numbers pages only if asked.
   cat > "$PDFMETA" <<'YAML'
 margin:
-  x: 1.1in
+  x: 1.25in
   y: 1.1in
 papersize: us-letter
 page-numbering: "1"
-fontsize: 11pt
+fontsize: 12pt
+linestretch: 1.15
 mainfont: Libertinus Serif
 header-includes:
   - |
@@ -124,14 +127,14 @@ YAML
   # string and dies on a colour name. Unset leaves links in the text colour.
 else
   cat > "$PDFMETA" <<'YAML'
-geometry: margin=1.1in
+geometry: margin=1.25in
 papersize: letter
-fontsize: 11pt
+fontsize: 12pt
 linkcolor: black
 YAML
 fi
 if [ -n "$engine" ]; then
-  pandoc "$BODY" --from=markdown-yaml_metadata_block --metadata-file="$META" \
+  pandoc "$BODY" --from="$FROM" --metadata-file="$META" \
     --metadata-file="$PDFMETA" --pdf-engine="$engine" --toc --toc-depth=1 \
     --output="$PDF" || engine=
 elif command -v ebook-convert >/dev/null 2>&1; then
