@@ -17,7 +17,7 @@ APPENDIX_FILES = ['appendix-1-recursion.md', 'appendix-2-what-others-have-seen.m
                   'appendix-3-the-traditions.md']
 CONDENSED = ['condensed.md']
 MAP = ['rest-of-book.md']
-READING_ORDER = FRONT + BOOK_FILES + DRAFT_FILES + APPENDIX_FILES + CONDENSED + MAP
+READING_ORDER = FRONT + BOOK_FILES + DRAFT_FILES + APPENDIX_FILES + MAP  # condensed.md is kept but not published
 
 # Titles the source files don't carry themselves.
 TITLE_OVERRIDES = {'chapter-3.md': 'Chapter 3: The Sacrifice',

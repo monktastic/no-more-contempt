@@ -1,3 +1,5 @@
+# Chapter 1
+
 Imagine looking into a stranger’s eyes long enough that their face stops being something you’re looking at and becomes a place somebody is looking out of.
 
 Stay there until you feel what comes with it—not a conclusion, but a recognition:
@@ -54,21 +56,15 @@ What's going on here?
 
 You made their turning-away into an *essence.* What they fundamentally *are.* At some level, you know that's not fair. How? Because you just turned away yourself without concluding that it's *your* essence.
 
-What you're actually revealing to them is your own hypocrisy. That's what makes it uniquely maddening, pressuring them into doubling down. This is a subtle point, so let's trace it.
+What you're actually revealing to them is your own hypocrisy. That's what makes it uniquely maddening, pressuring them to double down. But how do they *recognize* it as hypocrisy? *You* know that your accusation is disingenuous—but for them to register it as hypocrisy, they have to *see* that you know that. And how could they see anything about your private mental state?
 
-*You* know that it's possible to turn away without being fundamentally rotten—but for them to register that as hypocrisy, they have to *see* that you know that. And how could they see anything about your private mental state?
+The answer is that they don't have to. **It is something we all know about each other—that harm requires turning away, and that we only turn away to enable harm**. It is **common knowledge**, even if it's usually not explicit. And look what it means: they see that you know it. You know they see that you know it. They know _that_ too, and so on.
 
-The answer is that they don't have to. **It is something we all know about each other—that harm requires turning away, and turning away exists only to enable harm**. It is common knowledge, even if it's usually not made explicit in our minds. And look what it means: they don't just see that you know it, you know *that* they see it, and they know *that*, and so on.
+There are two parallel channels operating at once: an implicit one saying *we both know what I'm really doing here*, and an explicit one saying *I'm not doing anything wrong.* Put them together and what do you get? An implicit message saying *I'm going to get away with it, unlike you.*
 
-At the same time, it is *explicit* common knowledge that you're treating it as righteous. So it's like there are two parallel channels operating at once: an implicit one, saying *we both know what I'm really doing here* and an explicit one saying *I'm not doing anything wrong.*
+You both know that if they try to name it, you'll use that against them too. It is a recursive, self-sealing trap, and it feels like a hall of mirrors. You've been on the receiving end before, so you know what it's like. This is how it feels from the delivering end.
 
-Pause on that. Contempt does not create this common knowledge. It exploits it. The verdict is meant to be recognized, and the shared knowledge ensures that more is recognized than the verdict itself. **The explicit claim of righteousness works only because the implicit message has already landed.**
-
-And there's more. If you both know all this (and know that the _other_ knows it, etc.) then what you're conveying isn't just hypocrisy—it is the fact that you'll get away with it. Which adds an extra layer of maddening quality. And if they try to name that, you'll use that against them, too. Etc. It just keeps going.
-
-It begins to feel like a hall of mirrors: every time they identify one layer, the fact that both of you know they identified it becomes another layer—and another thing you can use against them. You've been on the receiving end before, so you know what it's like. This is what it's like from the delivering end.
-
-Part of your mind _knows_ they will register the whole trap: how you will use their reaction against them, how their knowledge of that is part of what provokes the reaction, and how you will use _that_, too. At the same time, the only way you can hold it against them is if you _don't_ register what it really is. It must feel **genuinely righteous** to you.
+Part of your mind knows exactly what you're doing, while another part is left in the dark so that you can unironically hold it against them. It must feel **genuinely righteous** to you.
 
 But how can you so precisely telegraph something to someone else that you don't fully register in yourself?
 
@@ -86,23 +82,23 @@ It's not just hidden from you *and* revealed to them. What's revealed to them *i
 
 That is what limbo provides. It lets you be present enough to execute it, while being absent enough to genuinely believe that you're not.
 
-Notice that a blind spot or "unconscious behavior" wouldn't account for it. A blind spot should disappear when someone points directly at it. This one does things, and protects itself. It aims the verdict. It reads reactions. It anticipates exposure, closes every exit, and turns each attempt to escape into further proof. And it leaves behind no record that you can see.
+Calling it a blind spot or "unconscious behavior" doesn't account for the precision. This state does things, and protects itself. It aims the verdict. It reads reactions. It anticipates exposure, closes every exit, and turns each attempt to escape into further proof. And when someone points directly at it, it doesn't merely persist; it uses the exposure to protect itself. And it leaves behind no record that you can see.
 
-It behaves like an agent, so I'll refer to it as one. I'll call it your "dark" part, your "darkness," both because it's hidden and because of what we're about to see. But don't mistake the grammar for the claim: I am not saying there is a literal thing inside you.
+It behaves like an agent, so I'll refer to it as one. I'll call it your "dark" part, or simply your "darkness"—both because it's hidden and because of what we're about to see. But don't mistake the grammar for the claim: I am not saying there is a literal thing inside you.
 
 You've been on the receiving end before. You know how another person's contempt recruits your own—how it makes you colder, more cynical, more likely to pass the injury onward. And if you look closely enough, you'll find that that knowledge was present on the delivering end—that it would spread beyond this person. This knowledge is just deeper in limbo.
 
-You do not *want* a darker world, but in this state you can't help but create one.
+You do not _want_ a darker world. Yet in this state, you are working to create one.
 
 There is something in you creating a world you hate—and while it's in control of you, it feels completely like you. But if you were ever to look back on this with full awareness—puncturing the limbo—you would see, with utter certainty, that you *do not want it.*
 
 It is a parasite of sorts, and it was revealing itself to them in this interaction. It was showing them *the thing with no bottom*—knowing they would recognize it for what it was, because it was the same thing operating in them.
 
-It was whispering to them that *genuine goodness is a myth. Just look at how easily I've taken over this "good person."*
+If it had a voice, it would be saying: *genuine goodness is a myth. Just look at how easily I've taken over this "good person."* It powerfully invites them to cozy up to their own.
 
-It is the cynicism at the heart of all evil, it is extinguishing light from the world, and it lives in every one of us.
+It is the cynicism at the heart of all evil. It is extinguishing light from the world. And it lives in every one of us.
 
-That is why you felt that extinguishing the light in others could ever be a good thing.
+Being under its control is the only way you could ever believe that extinguishing the light in others could produce good.
 
 ---
 
@@ -112,3 +108,6 @@ Both of you hand over even more control to your parasites, confident that they'r
 
 And not a trace of evidence gets left behind.
 
+---
+
+So what could you have done instead? Hold them fully accountable while remaining fully turned-toward. This doesn't have to be remotely nice. It can be as fierce as the situation warrants. But this is the only way to end the evil in a way that doesn't reproduce it.

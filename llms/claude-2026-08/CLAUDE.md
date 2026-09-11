@@ -33,7 +33,11 @@ book once, condensed and tiered; the short version, with `rest-of-book.md` the
 medium and Parts A to F the full).
 `manuscript/condensed.md` the theory in a few pages for the reader who has
 already noticed most of it; pointers, not arguments; metaphysics marked off.
-Not in the build; on the site as its own page.
+Kept for its material; not in the build and no longer on the site (Chapter 5
+and the short version cover its two jobs).
+`short-version-manuscript/` the short version, for practitioners: a preface
+and chapters, published as its own section of the site. It assumes what the
+book earns, so it can be brief. Not in the working manuscript.
 `manuscript/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
 seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
@@ -73,7 +77,7 @@ is easier to type and to grep.
 `build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
 Generated output; never edit it.
 `publish.sh` generates the website from the manuscript files into the repo
-root: `index.md`, `book/`, `map/`, `appendix/`, `condensed/`. Nothing generated
+root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
 every push to main and deploys the result, so pushing a change to `manuscript/`
 is all it takes to publish. Run the scripts locally to see the site before you

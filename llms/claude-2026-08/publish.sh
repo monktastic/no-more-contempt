@@ -1,6 +1,6 @@
 #!/bin/sh
 # Generates the website pages from manuscript/: index.md, book/, map/, appendix/,
-# condensed/. They go to the repo root, where Jekyll finds them, and are not in
+# short/. They go to the repo root, where Jekyll finds them, and are not in
 # git; the Actions build regenerates them on every push. Edit manuscript/ instead.
 # --out DIR writes them somewhere else and leaves the guard and the read-only
 # bits off, since nothing there is worth protecting from a stray edit.
@@ -53,7 +53,7 @@ if GUARDED and MANIFEST.exists() and not os.environ.get('PUBLISH_FORCE'):
                  'manuscript/ first, or PUBLISH_FORCE=1 to discard them:\n  ' + '\n  '.join(edited))
 written = {}
 
-for d in ('book', 'map', 'appendix', 'condensed'):
+for d in ('book', 'map', 'appendix', 'condensed', 'short'):
     p = ROOT / d
     if p.exists(): shutil.rmtree(p)
 
@@ -69,10 +69,6 @@ _, body = split_title((MAN / 'start-here.md').read_text())
 body = start_here_counts(body, bw, mw)
 page(ROOT / 'index.md', 'Start here', 1, '/', body)
 
-# The condensed version
-cw = words('condensed.md')
-t, body = split_title((MAN / 'condensed.md').read_text())
-page(ROOT / 'condensed' / 'index.md', t, 3, '/condensed/', count_line(cw, 'The condensed version') + body)
 
 # The book
 page(ROOT / 'book' / 'index.md', 'The Book', 2, '/book/',
@@ -108,6 +104,19 @@ for i, f in enumerate(APPENDIX_FILES, 1):
     t, body = split_title((MAN / f).read_text())
     page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices', grand_parent='The Book')
 
+# The short version, for practitioners: its own manuscript directory. The
+# preface is the section page; the chapters are its children.
+SHORT = HERE / 'short-version-manuscript'
+short_chapters = sorted(f for f in SHORT.glob('chapter-*.md'))
+sw = sum(len(strip_todos(f.read_text()).split()) for f in short_chapters)
+t, body = split_title((SHORT / 'preface.md').read_text())
+page(ROOT / 'short' / 'index.md', t, 3, '/short/',
+     count_line(sw, 'The short version') + body, has_children=True)
+for i, f in enumerate(short_chapters, 1):
+    t, body = split_title(f.read_text())
+    title = t or f'Chapter {i}'
+    page(ROOT / 'short' / f.name, title, i, f'/short/{f.stem}/', body, parent='The Short Version')
+
 if GUARDED: MANIFEST.write_text(json.dumps(written, indent=1))
-print('published: index.md, condensed/, book/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(chunks)))
+print('published: index.md, book/ (%d), short/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(short_chapters) + 1, len(chunks)))
 PY
