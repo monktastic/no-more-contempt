@@ -110,10 +110,18 @@ margin:
 papersize: us-letter
 page-numbering: "1"
 fontsize: 11pt
+mainfont: Libertinus Serif
+header-includes:
+  - |
+    ```{=typst}
+    #show heading.where(level: 1): it => { pagebreak(weak: true); it }
+    ```
 YAML
-  # No linkcolor: typst's template feeds it to rgb(), which wants a hex string
-  # and dies on a colour name. Unset leaves links in the text colour, which is
-  # what we wanted anyway.
+  # mainfont is not optional: pandoc's template leaves the font list empty and
+  # typst refuses to start on that. Libertinus Serif is built into the typst
+  # binary, so the runner has it without installing a font.
+  # No linkcolor either: the template feeds it to rgb(), which wants a hex
+  # string and dies on a colour name. Unset leaves links in the text colour.
 else
   cat > "$PDFMETA" <<'YAML'
 geometry: margin=1.1in
