@@ -1,0 +1,18 @@
+{%- comment -%}
+  The build stamp and the ways to say where a page failed. _data/build.yml is
+  written by llms/claude-2026-08/publish.sh on every build; the theme renders
+  this include inside the page footer.
+{%- endcomment -%}
+{%- assign build = site.data.build -%}
+{%- assign repo = "https://github.com/monktastic/no-more-contempt" -%}
+{%- assign what = page.title | default: "the site" -%}
+{%- capture subject -%}No More Contempt: {{ what }}{% if build %} ({{ build.sha }}){% endif %}{%- endcapture -%}
+<p class="text-small text-grey-dk-000 mb-0">
+  Tell me where this page fails:
+  <a href="mailto:{{ site.email }}?subject={{ subject | url_encode }}">email</a>
+  or <a href="{{ repo }}/issues/new?title={{ subject | url_encode }}">open an issue</a>.
+  {%- if build %}
+  Draft of {{ build.date }}, build
+  <a href="{{ repo }}/commit/{{ build.sha }}">{{ build.sha }}</a>.
+  {%- endif %}
+</p>

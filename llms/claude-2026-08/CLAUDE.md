@@ -98,6 +98,21 @@ LaTeX engine or Calibre's `ebook-convert` will stand in. The PDF is skipped with
 a warning if the machine has none, or if the one it has fails; the Downloads page then leaves the
 PDF off rather than linking a file that isn't there. `--out DIR` writes
 somewhere else. Run it after `publish.sh`.
+`_includes/footer_custom.html` and `_includes/head_custom.html` are what the
+site adds to the theme: the footer line (the build it was made from, and two
+ways to say where a page failed) and Hypothesis, which lets a reader select a
+passage and leave a note anchored to those words. `annotations: false` in
+`_config.yml` takes the commenting off every page at once. `publish.sh` writes
+the build's short SHA and date to `_data/build.yml` for the footer to read;
+that file is generated, like the pages.
+`check-orphans.sh` finds the comments that lost their place. A note is anchored
+to the words it was written on; edit those away, or rename the page, and it
+becomes an orphan, still held at hypothes.is but shown nowhere in the text. No
+one stores that status, so it's recomputed at build time, against the pages as
+they now are. It writes `orphans.md` at the repo root, which becomes the
+Orphaned comments page, and puts the count in the nav when there are any. Runs
+after `publish.sh`; `ORPHANS_FIXTURE=file.json` feeds it made-up annotations for
+testing, and `HYPOTHESIS_TOKEN` with `HYPOTHESIS_GROUP` reaches a private group.
 `bookparts.py` is what both scripts share: how a file is split from its title,
 what gets stripped before a reader sees it, and the order of the book. Change
 the order or the stripping there, not in one script.

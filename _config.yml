@@ -22,6 +22,10 @@ heading_anchors: true
 # .md with no front matter gets rendered as a stray, unstyled page as well.
 optional_front_matter:
   enabled: false
+
+# Inline commenting: readers select a passage and leave a note on it. Set to
+# false to take it off every page at once. See _includes/head_custom.html.
+annotations: true
 back_to_top: true
 back_to_top_text: "Back to top"
 color_scheme: light

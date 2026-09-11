@@ -56,7 +56,7 @@ You'd take that bet at any odds. But on what evidence? You'd never met him. You 
 
 ---
 
-Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. To be clear: not more gently. Just that his anger was directed at what you *did*, and not what you *are*.
+Now imagine a different stranger had caught you—but instead of treating you with contempt, he treated you with dignity. Not more gently. Just that his anger was directed at what you *did*, and not what you *are*.
 
 Would you have dug in? Vowed revenge?
 
@@ -182,7 +182,7 @@ Remember, his (unacknowledged) goal is to make you appear bad. And making himsel
 
 First, open malice might provoke fear rather than digging in. Second, it's difficult for him to do without making *him* feel like the bad guy. Third, even if he's okay with being the bad guy, your angry reaction wouldn't implicate you; it would implicate *him*, which is the opposite of what he needs.
 
-That's where the second component comes in: the righteous appearance. Malice is frightening. Contempt is malice that believes it's righteous, and that's what makes it **maddening**. Hypocritical. If he can evoke that reaction in you, then he'll see you digging in in response to what he's sure is righteous behavior. So that's what he does.
+That's where the second component comes in: the righteous appearance. Malice is frightening. Contempt is malice that believes it's righteous, and that's what makes it **maddening**. Hypocritical. If he can evoke that reaction in you, then he'll see you digging in, in response to what he's sure is righteous behavior. So that's what he does.
 
 He needs to carefully balance both halves—ensuring that the dark signal comes through clearly, and that it's got enough veneer of righteousness that he can't see the darkness himself. Neither you nor he must be able to pin it down, either now or when he looks back on it later.
 
