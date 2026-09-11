@@ -110,8 +110,10 @@ margin:
 papersize: us-letter
 page-numbering: "1"
 fontsize: 11pt
-linkcolor: black
 YAML
+  # No linkcolor: typst's template feeds it to rgb(), which wants a hex string
+  # and dies on a colour name. Unset leaves links in the text colour, which is
+  # what we wanted anyway.
 else
   cat > "$PDFMETA" <<'YAML'
 geometry: margin=1.1in
@@ -137,6 +139,9 @@ if [ -z "$engine" ]; then
   rm -f "$PDF"
   echo 'make-downloads.sh: no PDF built. Install a PDF engine:' >&2
   echo '  brew install typst   (what the Actions build uses; or calibre, or basictex)' >&2
+  # Say it where the run summary shows it, so a missing PDF isn't only visible
+  # to whoever opens the log.
+  [ -z "$GITHUB_ACTIONS" ] || echo '::warning::no PDF in the downloads: the engine failed or is missing'
 fi
 
 # The Downloads page is written last, so it offers only what got built.
