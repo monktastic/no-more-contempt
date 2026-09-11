@@ -97,9 +97,9 @@ Clearly it was you in the conventional sense, and you're fully responsible for i
 
 It's not just hidden from you *and* revealed to them. What's revealed to them *is that* it's hidden from you. It reveals itself to them *by* hiding itself from you.
 
-That is what limbo provides. It lets you be present enough to execute it, while being absent enough to genuinely believe that you're not.
+That is what limbo provides. It lets you be present enough to execute it, while being absent enough to genuinely believe that you're not. It has to be that way: you can't hold evidence against someone that you know you planted, so the planting can't be fully aware.
 
-Calling it a blind spot or "unconscious behavior" doesn't account for the precision. This state does things, and protects itself. It aims the verdict. It reads reactions. It anticipates exposure, closes every exit, and turns each attempt to escape into further proof. And when someone points directly at it, it doesn't merely persist; it uses the exposure to protect itself. And it leaves behind no record that you can see.
+Calling it a blind spot or "unconscious behavior" doesn't account for the precision. This state does things, and protects itself. It aims the verdict. It reads reactions. It anticipates exposure, closes every exit, and turns each attempt to escape into further proof. And it leaves behind no record that you can see. (A genuine apology might break it, and sometimes does. But the state works to make one hard to give, and hard to hear as real when it comes.)
 
 It behaves like an agent, so I'll refer to it as one. I'll call it your "dark" part, or simply your "darkness"—both because it's hidden and because of what we're about to see. But don't mistake the grammar for the claim: I am not saying there is a literal thing inside you.
 
@@ -128,3 +128,5 @@ And not a trace of evidence gets left behind.
 ---
 
 So what could you have done instead? Hold them fully accountable while remaining fully turned-toward. This doesn't have to be remotely nice. It can be as fierce as the situation warrants. But this is the only way to end the evil in a way that doesn't reproduce it.
+
+You've been on the other end of that, too. Recall a time somebody caught you at something and was hard on you, and it didn't make you dig in. They may have been harsher than the ones who did. But they were angry at what you'd done, and not what you are. They were turned toward you the whole time. That's the look you started this piece with, held when it's hardest to hold.
