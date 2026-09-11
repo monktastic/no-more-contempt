@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/manuscript/preface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "preface"
             }
           },
           {
@@ -301,12 +301,14 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-version-manuscript/preface.md",
+    "llms/claude-2026-08/manuscript/preface.md",
+    "llms/claude-2026-08/manuscript/chapter-1.md",
     "_site/orphans/index.html",
     "_site/orphans",
     "orphans.md",
     "llms/claude-2026-08/check-orphans.sh",
     "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/manuscript/chapter-1.md",
     "_includes/head_custom.html",
     "_site/downloads/no-more-contempt.epub",
     "_site/downloads/index.html",
@@ -315,7 +317,6 @@
     "_site/downloads",
     "_site/short/index.html",
     "_site/book/chapter-5/index.html",
-    "_site/book/chapter-5",
     "llms/misc/new-journey.md",
     "short/chapter-1.md",
     "scratch/key-points/index.md",
@@ -326,7 +327,6 @@
     "llms/claude-2026-08/engine.md",
     "scratch/key-points/spine.md",
     "short/index.md",
-    "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/short-version-manuscript.md",
     "scratch/short.md",
     "llms/claude-2026-08/manuscript/chapter-4.md",

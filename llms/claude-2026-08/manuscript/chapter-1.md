@@ -16,7 +16,7 @@ Again, we normally call it "unconscious." Do you see what incentive we might hav
 
 Now try to recall how you knew it was wrong in the first place.
 
-Whatever it was, did it arrive before you'd done any calculations, or after? The part of you that knew: it couldn't say exactly how it knew, because it wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
+Whatever it was, did it arrive before or after you'd reasoned through it? The part of you that knew: it couldn't say exactly how it knew, because it wasn't working from a rule. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
 Why did one side have to argue, and the other not? And which side did you listen to—the part that "just knew" or the part that could prove?
 
@@ -50,9 +50,9 @@ Every road funnels into the same conclusion.
 
 Think of how that affects you. Does it make it *easier* or *harder* to confront what you already know?
 
-Harder, almost certainly. But why? Because he's obviously up to no good. And you can tell he's the kind of person who does this too—things he knows are wrong, while pretending they're not.
+Harder, almost certainly. But why? Because *who the hell is he to judge*? You could tell he's the kind of person who does this too—things he knows are wrong, while pretending they're not.
 
-You'd take that bet at any odds. But on what evidence? You'd never met him. You knew nothing about him. All he's doing is correcting bad behavior—and what could be wrong with that?
+You'd take that bet at any odds. But on what evidence? You'd never met him. You knew nothing about him. All you have to go on is that he's standing there, doing what he's doing.
 
 ---
 
@@ -134,7 +134,7 @@ From his perspective, nothing. Sure, he may recognize that his behavior is a bit
 
 That's the story he's telling himself. And yet something in him still registers it as wrong. Why?
 
-Here's a clue: look at how hard he's working. Why does he so desperately need you to be bad—unless *some part of him suspects you're not?* That you don't deserve this?
+Here's a clue: look at how hard he's working. Why does he so desperately need you to be bad—unless *some part of him suspects you're not?* That he might be harming someone who doesn't deserve it?
 
 He doesn't know exactly *why* he suspects it, but that signal keeps coming, and he keeps overriding it. Which means he now knows another thing: that he's the kind of person who's willing to override his conscience—and on top of that, proclaim it as righteous. Remember, limbo always contains knowledge of itself.
 
@@ -151,6 +151,8 @@ Something in him senses that he might be making you a worse person to keep his o
 ---
 
 ## The How
+
+So what is it that he made you see, and what did it do to you?
 
 Have you ever been on the receiving end of a dehumanizing gaze? Doesn't it feel like the person is somehow absent or "turned away" from themselves?
 
@@ -178,11 +180,9 @@ That is what contempt exploits.
 
 ## The Righteous Appearance
 
-Remember, his (unacknowledged) goal is to make you appear bad. And making himself appear malicious is one part of that. But it's not quite enough, for a few reasons.
+Remember, his (unacknowledged) goal is to make you appear bad. And making *himself* appear malicious is half of that. But that alone is not enough. When someone is openly cruel to you and you fire back, does it make *you* the bad guy, or them?
 
-First, open malice might provoke fear rather than digging in. Second, it's difficult for him to do without making *him* feel like the bad guy. Third, even if he's okay with being the bad guy, your angry reaction wouldn't implicate you; it would implicate *him*, which is the opposite of what he needs.
-
-That's where the second component comes in: the righteous appearance. Malice is frightening. Contempt is malice that believes it's righteous, and that's what makes it **maddening**. Hypocritical. If he can evoke that reaction in you, then he'll see you digging in, in response to what he's sure is righteous behavior. So that's what he does.
+So he needs the other half: the righteous appearance. Malice is frightening. Contempt is malice that believes it's righteous, and that's what makes it **maddening**. Hypocritical. If he can evoke that reaction in you, then he'll see you digging in, in response to what he's sure is righteous behavior. So that's what he does.
 
 He needs to carefully balance both halves—ensuring that the dark signal comes through clearly, and that it's got enough veneer of righteousness that he can't see the darkness himself. Neither you nor he must be able to pin it down, either now or when he looks back on it later.
 
@@ -192,7 +192,7 @@ All of that is inherent to the state he's in, and is not something he needs to c
 
 In other words, the particular limbo we call contempt functions simply by **telegraphing itself to its target**.
 
-Notice that he does not have to (in fact, cannot) willfully enter it. All he has to do is genuinely believe you're bad. Once that's done, he can't help but feel contempt. You will then perceive it as willful, making you feel an almost irresistible urge to return the favor. Which his conscious mind will register as "evil" for the same reason you do in him. He can *see* the darkness in you, and it's in response to behavior he can be 100% sure is righteous. Any doubt he had about you is then erased.
+Notice that he does not have to (in fact, cannot) willfully enter it. All he has to do is genuinely believe you're bad. Once that's done, he can't help but feel contempt. You will then perceive it as willful, making you feel an almost irresistible urge to return the favor. Which his conscious mind will register as "evil" for the same reason you do in him. He can *see* the darkness in you, and it's in response to behavior he can be 100% sure is righteous. So any doubt he had about you is erased.
 
 ---
 
@@ -204,9 +204,11 @@ Which increases the pressure to prove he's nothing like you. Which he can only d
 
 Which increases the pressure to prove he's nothing like you...
 
-There is no natural stopping point—because as much as he tries, he never stops hearing his conscience. And the more he suppresses it, the more he realizes what he's doing, forcing him to see his plan all the way through. To push you all the way to the end, where (he believes) his conscience will finally bend itself to his perception.
+Is there any natural stopping point? A point at which you're so dug in that he relents?
 
-Some part of him knows this cannot work. But it doesn't stop him from trying.
+As much as he tries, he never stops hearing his conscience. And the more he suppresses it, the more he realizes what he's doing, forcing him to see his plan all the way through. To push you all the way to the end, where (he believes) his conscience will finally bend itself to his perception.
+
+Deep down, he knows this cannot work. But it doesn't stop him from trying.
 
 ---
 
@@ -297,6 +299,8 @@ Here's another way of looking at it. He overlooked the part that knew in favor o
 It is an **infection**, and it just spread itself to you.
 
 ---
+
+So that's what it did to you. What did it do to him?
 
 He feels good being proven right, in real time, by you. And from the inside, being proven right and being right are the same experience. The only difference is who produced the evidence, and that's the part he can't see.
 
