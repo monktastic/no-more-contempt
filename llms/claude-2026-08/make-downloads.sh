@@ -106,12 +106,13 @@ done
 if [ "$engine" = typst ]; then
   # The most readable face of whatever is installed. Charter was drawn for
   # low-resolution printers and screens: big x-height, sturdy strokes, and it
-  # reads a size larger than it is. XCharter is the same design under the name
-  # Debian ships it as; PT Serif is the next best; typst's own Libertinus is
-  # the last resort, so there is always something. mainfont is not optional
-  # either way: pandoc leaves the font list empty and typst refuses to start.
+  # reads a size larger than it is. Charis SIL is its descendant and what the
+  # Actions build installs, since Ubuntu has no Charter; PT Serif is the next
+  # best; typst's own Libertinus is the last resort, so there is always
+  # something. mainfont is not optional either way: pandoc leaves the font list
+  # empty and typst refuses to start on that.
   FONT="Libertinus Serif"
-  for f in Charter XCharter "PT Serif"; do
+  for f in "Charis SIL" Charter "PT Serif"; do
     if typst fonts 2>/dev/null | grep -qx "$f"; then FONT=$f; break; fi
   done
   # Typst spells the page settings its own way, and numbers pages only if asked.
