@@ -25,7 +25,7 @@ here is a record of what was done; that goes in git, and the lessons go in
 - Interlude length. It's about 2,600 words after the re-cut. ChatGPT expects 1,200 to 1,500 in the finished book. Hold until beta readers weigh in.
 - The repo root still holds loose files from earlier drafts (`alt.md`, `faq.md`, `short.md`, `chapters/`, the `history_part_*.txt` files). Excluded from the site; clutter. Move to `old/` or delete. `misc/` has three more (notes.md, stuff-not-to-lose.md, preface-alt.md, interlude-old.md) not yet harvested.
 
-- **Switch Pages to Actions before the next push.** Settings, Pages, Build and deployment, Source: "GitHub Actions". The generated pages and the downloads are out of git now and `.github/workflows/pages.yml` builds them on every push; if you push while Source still says "Deploy from a branch," the site serves a 404 until you flip it. Then check the run under the Actions tab and load the site.
+- **Does the one-file download include the short version?** It has Start here, the Preface through Chapter 17, the appendices and the map, in the site's menu order; the short version is its own reading path and sits outside it, and `condensed.md` came out when it left the site. Your call, and Fable's if it changes what the download is.
 
 ## Fable
 

@@ -94,14 +94,36 @@ pandoc "$BODY" --from=markdown-yaml_metadata_block --to=epub3 --metadata-file="$
 # PDF. Whatever engine the machine has: pandoc's own if there's a LaTeX or typst
 # installation, otherwise Calibre, converting the EPUB we just made.
 PDF="$OUT/no-more-contempt.pdf"
+PDFMETA=$TMP/pdf.yaml
 engine=
-for e in xelatex lualatex tectonic typst pdflatex; do
+# typst first: it's what the Actions build installs, so a PDF made here looks
+# like the one on the site. Calibre is the fallback for a machine with none.
+for e in typst xelatex lualatex tectonic pdflatex; do
   command -v "$e" >/dev/null 2>&1 && { engine=$e; break; }
 done
+if [ "$engine" = typst ]; then
+  # Typst spells the page settings its own way, and numbers pages only if asked.
+  cat > "$PDFMETA" <<'YAML'
+margin:
+  x: 1.1in
+  y: 1.1in
+papersize: us-letter
+page-numbering: "1"
+fontsize: 11pt
+linkcolor: black
+YAML
+else
+  cat > "$PDFMETA" <<'YAML'
+geometry: margin=1.1in
+papersize: letter
+fontsize: 11pt
+linkcolor: black
+YAML
+fi
 if [ -n "$engine" ]; then
-  pandoc "$BODY" --from=markdown-yaml_metadata_block --metadata-file="$META" --pdf-engine="$engine" \
-    --toc --toc-depth=1 -V geometry:margin=1.1in -V fontsize=11pt \
-    -V linkcolor:black --output="$PDF" || engine=
+  pandoc "$BODY" --from=markdown-yaml_metadata_block --metadata-file="$META" \
+    --metadata-file="$PDFMETA" --pdf-engine="$engine" --toc --toc-depth=1 \
+    --output="$PDF" || engine=
 elif command -v ebook-convert >/dev/null 2>&1; then
   ebook-convert "$OUT/no-more-contempt.epub" "$PDF" \
     --paper-size letter --pdf-page-margin-top 54 --pdf-page-margin-bottom 54 \
@@ -114,7 +136,7 @@ if [ -z "$engine" ]; then
   # rather than offering a link to a file that isn't there.
   rm -f "$PDF"
   echo 'make-downloads.sh: no PDF built. Install a PDF engine:' >&2
-  echo '  brew install --cask basictex   (or mactex-no-gui, or calibre)' >&2
+  echo '  brew install typst   (what the Actions build uses; or calibre, or basictex)' >&2
 fi
 
 # The Downloads page is written last, so it offers only what got built.
@@ -137,7 +159,7 @@ permalink: /downloads/
 # Downloads
 
 The whole draft in one file: Start here, the Preface through Chapter 17, the
-appendices, the condensed version, and the map. About {words:,} words, roughly
+appendices, and the map. About {words:,} words, roughly
 {pages(words)} pages. Built from commit {os.environ["SHA"]} on {os.environ["DATE"]};
 the site is always the current version.
 

@@ -36,14 +36,24 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
-      # pandoc builds the downloads; xelatex is what it makes the PDF with, and
-      # is most of this workflow's minute. If the PDF fails, make-downloads.sh
-      # says so and leaves it off the Downloads page rather than failing here.
-      - name: Install pandoc and a PDF engine
+      # pandoc builds the downloads, typst makes the PDF. Both are single pinned
+      # binaries: seconds, where a TeX installation is a quarter of a gigabyte
+      # and a minute or two. Same versions every run, so the PDF doesn't change
+      # under you. If the PDF fails anyway, make-downloads.sh says so and leaves
+      # it off the Downloads page rather than failing the build.
+      - name: Install pandoc and typst
+        env:
+          PANDOC_VERSION: 3.8.2.1
+          TYPST_VERSION: 0.15.1
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends \
-            pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
+          curl -fsSL -o /tmp/pandoc.deb \
+            "https://github.com/jgm/pandoc/releases/download/$PANDOC_VERSION/pandoc-$PANDOC_VERSION-1-amd64.deb"
+          sudo dpkg --install /tmp/pandoc.deb
+          curl -fsSL "https://github.com/typst/typst/releases/download/v$TYPST_VERSION/typst-x86_64-unknown-linux-musl.tar.xz" \
+            | sudo tar --extract --xz --strip-components=1 --directory=/usr/local/bin \
+              typst-x86_64-unknown-linux-musl/typst
+          pandoc --version | head -1
+          typst --version
 
       - name: Generate the pages and the downloads
         run: |
