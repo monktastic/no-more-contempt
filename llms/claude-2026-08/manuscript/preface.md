@@ -26,6 +26,8 @@ You may have heard versions of this before and dismissed it. *Where's the eviden
 
 I want to show you exactly how it works. How a hidden impulse inside us inevitably expresses itself in our behavior and systems, and what we can do to end it.
 
+And it's not just about what it does for the world. It does something for us. That rage we feel inside: it's pointing us back to something remarkable that we've always known about ourselves, but may have forgotten.
+
 Nothing here will ask you to soften what you see, forgive what shouldn't be forgiven, or pretend the harm isn't real. If anything, you'll end up seeing more clearly what's wrong—how our individual blind spots work together to create broken systems we can't seem to fix.
 
 I can't argue you into this, and you should be wary of anyone who tries. What I can do is take you to the places where you can see it for yourself—in your own memory, where you have evidence I couldn't have planted.
