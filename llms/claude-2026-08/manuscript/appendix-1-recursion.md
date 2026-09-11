@@ -3,7 +3,7 @@
 
 _For the reader who wants the machinery. Nothing in the book rests on this; the book rests on what you found when you looked. But if you noticed the shape of the thing and want it laid out, here it is. One metaphysical claim is held to the end and marked; nothing before it needs it. I refer to sections as §1, §2, and so on._
 
-_One formal comparison will occur to some readers: common knowledge. §2 says why it isn't what Chapter 1 shows, and Part Three says what it does fit, once a belief I hold is put under it._
+_One formal comparison will occur to some readers: common knowledge. Chapter 1 uses the term for the general rule, that turning away is for harm, and that use is fair in Lewis's sense: nobody had to be told it, and everyone has been on both ends. §2 says why the encounter itself, one man doing it to another, isn't common knowledge, and Part Three says what the sameness of the two people does fit, once a belief I hold is put under it._
 
 ---
 
