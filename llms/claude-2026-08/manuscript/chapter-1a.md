@@ -1,6 +1,6 @@
 # Interlude One
 
-Before going any further I want to send you back over some of what you just did. Not to repeat it. To look at a few parts more closely than we could while they were happening.
+Before going any further I want to send you back over some of what you just did. Not to repeat it, but to look at a few parts more closely than we could while they were happening.
 
 ---
 

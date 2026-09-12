@@ -1,10 +1,19 @@
 ---
 ---
+
+
+
+
+
+
+
+
+This is the pattern I want to make visible: two people speaking in one register while something else passes between them through performance alone. The real antagonist is not either person, but a state that moves between them—using each person’s goodness as its disguise and each person’s reaction as its proof.
+
+ 
 ---
 
 
-
----
 
 
 
@@ -23,9 +32,6 @@
 
 
 You tried to make them turn back toward the life in others by turning away from theirs.
-
-
-
 
 
 Imagine walking up to [the most evil person]. Looking at them. What is that you're showing them? Is it just anger? Just "I will stop you?" Or is there something *dark* in it? Something that says:
