@@ -29,8 +29,6 @@ annotations: true
 back_to_top: true
 back_to_top_text: "Back to top"
 color_scheme: light
-aux_links:
-  "Source": "https://github.com/monktastic/no-more-contempt"
 footer_content: "A draft, changing often. Tell me where it fails."
 
 # Only the generated site pages are published. Everything else in the repo is

@@ -99,8 +99,8 @@ a warning if the machine has none, or if the one it has fails; the Downloads pag
 PDF off rather than linking a file that isn't there. `--out DIR` writes
 somewhere else. Run it after `publish.sh`.
 `_includes/footer_custom.html` and `_includes/head_custom.html` are what the
-site adds to the theme: the footer line (the build it was made from, and two
-ways to say where a page failed) and Hypothesis, which lets a reader select a
+site adds to the theme: the footer line (the build it was made from, and an
+email link to say where a page failed) and Hypothesis, which lets a reader select a
 passage and leave a note anchored to those words. `annotations: false` in
 `_config.yml` takes the commenting off every page at once. `publish.sh` writes
 the build's short SHA and date to `_data/build.yml` for the footer to read;

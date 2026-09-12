@@ -1,6 +1,6 @@
 # Chapter 1: Turning Away
 
-Imagine looking into a stranger’s eyes long enough that their face stops being something you’re looking at and becomes a place somebody is looking out of.
+Imagine looking into a stranger's eyes long enough that their face stops being something you're looking at and becomes a place somebody is looking out of.
 
 Stay there until you feel what comes with it—not a conclusion, but a recognition:
 
@@ -8,125 +8,105 @@ Stay there until you feel what comes with it—not a conclusion, but a recogniti
 
 Call this being _turned toward_ them. With it comes a sense of their innocence. Not that they're incapable of causing harm—but the sense of something innocent *underneath* it.
 
-Sometimes, if the looking deepens, something stranger happens: it can feel almost as though you are looking back at *yourself* through their eyes.
-
-Now erase that meeting. Run it again—but imagine that this time, the person you're meeting had just done something atrocious. Something deliberate, perhaps to someone innocent—maybe even to someone you love. 
+Now erase that meeting. Run it again—but this time, the person you're meeting has just done something atrocious. Something deliberate, to someone innocent—maybe even to someone you love.
 
 Keep looking into the same eyes. Can you still find that same recognition?
 
 It's much harder, isn't it? Where before there was someone whose wellbeing mattered, now there is only something rotten. Not merely something they did. Something they **are**.
 
-In that state, we don't just feel anger. Not just "I will stop you." There's something darker in it, and it feels like:
+What is it that you're showing them? Is it just anger? Just *I will stop you?* Or is there something darker in it? Something that says:
 
-> *You are less than human, and have forfeited the right to be treated like one.*
+> *You are less than human, and have forfeited all right to be treated like one.*
 
-Test that in your own experience. And when we believe that about someone, how does it license us to treat them? Is there any bottom to it? When we feel "this is all you are" about someone, harming them no longer registers as harm.
+Something in you wants this verdict to *land*; to register deep inside. Can you feel that?
 
-Something in you wants this verdict to *land* on them; to register deep inside. Can you feel that?
+This overlooking of humanity is what I'll call being _turned away_. And the need to make the verdict land is what I'll call _contempt_: turning-away made into a message, with the sense that sending it is righteous.
 
-This overlooking of humanity is what I’ll call being _turned away_. It is not two departures: one from perceiving their innocence, and another from the benevolence in you that could see it. They are one event seen from opposite sides: their innocence disappears from your view as your benevolence ceases to meet them.
+And how do they react? Does it make remorse easier—or help them feel even more justified?
 
-The need to make this verdict land is what I’ll call _contempt_. It is turning-away made into a message, accompanied by the sense that sending it is righteous.
+Some part of you knew this would be the likely outcome—and that you could use it against them, because *what kind of person reacts that way to righteous behavior?*
 
-What does that message do to them? Does it make it easier for them to turn back toward the people they harmed? Or does it make their own turning-away feel more necessary; more justified?
+Now look at what was actually sent. I think it was closer to this:
 
-Now for a difficult question: couldn’t some part of you have predicted it would do that?
+> *The darkness inside you? It lives inside me, too. I will wield mine against you while calling it "righteous," and get away with it. Because I'm only "fighting evil"—and how could that ever be wrong?*
 
-And if so, why did it still need to land?
+Check if that resonates somewhere deep inside.
 
----
-
-Here's the idea. They could only have done whatever they did by being *turned away* from the people they harmed—by overlooking their humanity. Check and see if that feels true to you. And they have the capacity to be turned-toward, too. That's the innocence you originally saw.
-
-What you're doing is trying to make them turn back toward the life in others by turning away from theirs. What they receive is:
-
-> *When you turn away, it proves that you're rotten. When I turn away, it proves that I'm good—because I'm doing it to a rotten person.*
-
-This pressures them toward rage, defiance, retaliation—whatever will make them feel less exposed and powerless. It makes goodness itself look like a sham: just the name “good people” give their own turning-away when they have the power to get away with it. So why shouldn't they do the same?
-
-It doesn't merely provoke their tendency to turn away. It licenses it. And what does that reaction give you?
-
-Proof. *There. See? Even when confronted with goodness, they embrace their darkness. It’s simply what they are.*
-
-But this is a little strange, isn't it? You intentionally telegraphed something that you knew would pressure them to embrace their dark side, and then used it as a verdict of what they already are.
-
-What's going on here?
+Do you know you're sending this message? This is where things get interesting.
 
 ---
-
-## Common knowledge
-
-You made their turning-away into an *essence.* What they fundamentally *are.* At some level, you know that's not fair. How? Because you just turned away yourself without concluding that it's *your* essence.
-
-What you're actually revealing to them is your own hypocrisy. That's what makes it uniquely maddening, pressuring them to double down. But how do they *recognize* it as hypocrisy? *You* know that your accusation is disingenuous—but for them to register it as hypocrisy, they have to *see* that you know that. And how could they see anything about your private mental state?
-
-The answer is that they don't have to. **It is something we all know about each other—that harm requires turning away, and that we only turn away to enable harm**. It is **common knowledge**, even if it's usually not explicit. And look what it means: they see that you know it. You know they see that you know it. They know _that_ too, and so on.
-
-There are two parallel channels operating at once: an implicit one saying *we both know what I'm really doing here*, and an explicit one saying *I'm not doing anything wrong.* Put them together and what do you get? An implicit message saying *I'm going to get away with it, unlike you.*
-
-You both know that if they try to name it, you'll use that against them too. It is a recursive, self-sealing trap, and it feels like a hall of mirrors. You've been on the receiving end before, so you know what it's like. This is how it feels from the delivering end.
-
-Part of your mind knows exactly what you're doing, while another part is left in the dark so that you can unironically hold it against them. It must feel **genuinely righteous** to you.
-
-But how can you so precisely telegraph something to someone else that you don't fully register in yourself?
-
----
-## Limbo
 
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
-We like to call such knowledge "unconscious"—as if we had no way of knowing—but that's not entirely accurate, is it? It was *right there* to see if you had looked; fully available to consciousness. You were just *turned away* from it. The knowledge existed in a strange kind of **limbo**, in which you simultaneously knew and yet somehow didn't.
+We like to call such knowledge "unconscious"—as if we had no way of knowing—but that's not entirely accurate. It was *right there* to see if you had looked; fully available to consciousness. You were just *turned away* from it. The knowledge existed in a strange kind of **limbo**, in which you simultaneously knew and yet somehow didn't.
 
-And it wasn't just sitting there, idle: it affected your behavior. Any time someone came close to exposing the truth, or you started getting close to it yourself, you found a way to deflect, right? And that didn't happen passively. The **behavior** took place in limbo, too.
+And it wasn't just sitting there idle, either: it affected your behavior. Any time someone came close to exposing it, or you started getting close to it yourself, you found a way to deflect. Did that happen passively?
 
-Looking back, can you see how *some part of you knew exactly what you were doing, even as you did it?*
-
-The same thing is going on with contempt. It takes place from limbo.
-
-*(Note: this section will be fleshed out more later, to connect turning away from knowledge of your wrongdoing to turning away from people. They're essentially the same thing: turning away from ourselves; from our conscience; from the humanity in others; from the implications of our behavior—they're all facets of the same move. For now, notice: when someone gives you a dehumanizing gaze, can you sense how they're absent or "turned away" from themselves? That's what you're looking at.)*
-
-[TODO: flesh out the above. Import the second limbo section about how one side argues and the other doesn't.]
+Looking back, can you see how *some part of you knew exactly what you were doing, even as you did it?* The **behavior** took place in limbo, too.
 
 ---
 
-But was it really "you" doing this? This is where things get hard to describe.
+Now try to recall how you knew it was wrong in the first place.
 
-Clearly it was you in the conventional sense, and you're fully responsible for it. At the same time, if you'd been fully aware of it, you couldn't have done it. Not just because you're a good person, but because the structure of the trap depends on it—on the very thing revealed to them being hidden from you. And they must receive it *as* hidden from you, so that they know there's no part of you that's accessible to be appealed to or accused in return.
+Whatever it was, did it arrive before or after you'd reasoned through it? The part of you that knew: it couldn't say exactly how it knew. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
-It's not just hidden from you *and* revealed to them. What's revealed to them *is that* it's hidden from you. It reveals itself to them *by* hiding itself from you.
-
-That is what limbo provides. It lets you be present enough to execute it, while being absent enough to genuinely believe that you're not. It has to be that way: you can't hold evidence against someone that you know you planted, so the planting can't be fully aware.
-
-Calling it a blind spot or "unconscious behavior" doesn't account for the precision. This state does things, and protects itself. It aims the verdict. It reads reactions. It anticipates exposure, closes every exit, and turns each attempt to escape into further proof. And it leaves behind no record that you can see. (A genuine apology might break it, and sometimes does. But the state works to make one hard to give, and hard to hear as real when it comes.)
-
-It behaves like an agent, so I'll refer to it as one. I'll call it your "dark" part, or simply your "darkness"—both because it's hidden and because of what we're about to see. But don't mistake the grammar for the claim: I am not saying there is a literal thing inside you.
-
-You've been on the receiving end before. You know how another person's contempt recruits your own—how it makes you colder, more cynical, more likely to pass the injury onward. And if you look closely enough, you'll find that that knowledge was present on the delivering end—that it would spread beyond this person. This knowledge is just deeper in limbo.
-
-You do not _want_ a darker world. Yet in this state, you are working to create one.
-
-There is something in you creating a world you hate—and while it's in control of you, it feels completely like you. But if you were ever to look back on this with full awareness—puncturing the limbo—you would see, with utter certainty, that you *do not want it.*
-
-It is a parasite of sorts, and it was revealing itself to them in this interaction. It was showing them *the thing with no bottom*—knowing they would recognize it for what it was, because it was the same thing operating in them.
-
-If it had a voice, it would be saying: *genuine goodness is a myth. Just look at how easily I've taken over this "good person."* It powerfully invites them to cozy up to their own.
-
-It is the cynicism at the heart of all evil. It is extinguishing light from the world. And it lives in every one of us.
-
-Being under its control is the only way you could ever believe that extinguishing the light in others could produce good.
+Why did one side have to argue, and the other not? And which side did you listen to—the part that "just knew" or the part that could prove?
 
 ---
 
-And look what happens when they dig in: you feel vindicated in your perception. Here's someone who reacts to your goodness with darkness. The world is even shittier than you thought.
+That dark message—you know you're sending it, and you don't. It must be sent from limbo.
 
-Both of you hand over even more control to your parasites, confident that they're your goodness.
+If you were fully unaware, you couldn’t aim it so precisely—making sure the verdict lands, anticipating their likely reaction, and preparing to use it against them. But if you were fully aware, you couldn’t sincerely mistake their reaction for evidence. You have to be present enough to plant the evidence, while absent enough not to recognize it as planted.
 
-And not a trace of evidence gets left behind.
+They can see this division in you. The intention is unmistakable, yet the person carrying it out is nowhere to be reached. That combination—_someone is doing this to me, and no one is home to answer for it_—is uniquely maddening.
+
+And they recognize the state because they know it from within. It is the same turning-away that enabled their own harm.
+
+But you're not just displaying your darkness *from* limbo. Limbo *is* the darkness.
+
+Think of what it's like to be on the receiving end of a dehumanizing gaze. Doesn't the other person feel somehow absent or "turned away" from themselves? That's what you're looking at.
+
+Turning away from yourself; from your conscience; from your profound commonality with others—it's all a single move. It is a state that enables harm, and it is the *only* state that does this. Indifference and negligence aren't exceptions. They're the same move without the heat.
+
+This isn't new information. We know it about ourselves and about one another, and each knows the other knows. It is **common knowledge**, at an implicit level: you could not aim that message without counting on it, and they could not receive it. That is what permits a second conversation beneath the spoken one:
+
+> *We both know what I'm really doing here—and that you can't prove it. Which means that any attempt to name it will only be used against you. Go ahead and try.*
+
+It is a parallel channel of communication taking place *beneath* the words, and gaze and tone are enough to carry it.
+
+And look what happens when they dig in: you feel vindicated. Here's someone who reacts to your goodness with darkness. The world is even shittier than you thought. Both of you hand over more control to whatever just did this, confident that it's your goodness. And not a trace of evidence gets left behind.
+
+There's another way of looking at that message: you are trusting the part that can prove over the part that knows. You know they know it, and cannot prove it. Which is why they learn to do the same. 
+
+All the darkness has to do to win is convince us to follow the part that proves, and demote the other to superstition. Nothing has to be argued. Conscience just becomes one more voice among the noise. That's the trap I think we're in as a culture.
 
 ---
 
-So what could you have done instead? Hold them fully accountable while remaining fully turned-toward. This doesn't have to be remotely nice. It can be as fierce as the situation warrants. But this is the only way to end the evil in a way that doesn't reproduce it.
+But who, exactly, is sending that message? We already saw why full awareness would collapse it, but it's also just too Machiavellian for any of us to send, let alone design. We're not cartoon villains. It's not really *us* behind the wheel, in a certain sense.
 
-You've been on the other end of that, too. Recall a time somebody caught you at something and was hard on you, and it didn't make you dig in. They may have been harsher than the ones who did. But they were angry at what you'd done, and not what you are. They were turned toward you the whole time. That's the look you started this piece with, held when it's hardest to hold.
+That's a major thesis of this work: that the darkness acts *through* each of us, and it can only do so by convincing us that it's not—that we're the ones in control, and what we're doing is okay or even righteous. It uses each person's psychology to find a way in, and the way it commandeers your mind and an "evil person's" differ only in the details. Of course, when a mind has turned far enough away, turning it back may be a different kind of work, and it's fair to name that. What it doesn't change is what the person is made of.
+
+At the same time, we're fully responsible for the harm we cause while under its sway. We want to write it off as "unconscious," but that's not true. Call it purely conscious and you're a monster. Call it unconscious and there's no one to hold responsible. Both are incomplete, and our inability to hold this paradox enables it to continue.
+
+And look what it was doing while in control. When you make "bad people" feel more justified, does the harm end with them? Or are they liable to spread it? It ripples out, with no clean boundary, and some part of us knows that too. That knowledge sits in the same limbo, only deeper: the place we dare not look, because of what it would imply about us.
+
+Again, this cannot be something new I'm teaching you. You have always known that even the worst people aren't identical with their darkness, and that making that equivalence only enables shoving them deeper into its grip while believing you aren't. You had to know this, for that dark message to function or even be coherent.
+
+If that's the case, why do we still do it?
+
+---
+
+Imagine what it would be like to know, with complete certainty, that even the worst people aren't fundamentally different from you. That the way you've been treating them has been making the world a darker place—and that you knew it even as you were doing it, but convinced yourself you didn't.
+
+It would mean that the atrocities you read about aren't completely disconnected from your own behavior. You are somehow a part of it.
+
+That knowledge would be so horrifying that you couldn't allow it into full conscious awareness. You would need to know that no, some people really are just fundamentally different. And that would drive you to behave in ways that confirmed it. That kept people trapped in darkness so that you could know, with certainty, that it's all they're capable of.
+
+*That* is the message we're actually sending to "evil people" through our cruelty:
+
+> *You will be humanity's sacrifice. The dumping ground for our collective shadow. That way, we never have to face what is inside us. Good luck.*
+
+If this is horrifying, notice why: because you don’t actually want to be doing it. The horror is evidence that the darkness is not your nature. And through the common knowledge we’ve just traced, some part of you already knows that it cannot be anyone else’s nature either.
+
