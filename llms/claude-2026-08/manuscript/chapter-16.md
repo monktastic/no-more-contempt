@@ -49,7 +49,7 @@ From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again .
 
 ## Outline
 
-Follow map §14–§16 and Appendix 1 Part Three. The seam sentence to open on: "Everything before this needed only that the angel is the same kind of thing in each of us. Here is what I believe: nothing tells them apart." The Dzogchen and ACIM reconciliation (the lapse before a chooser; the disaster is taking it seriously as sin) goes here, held loosely.
+Follow map §14–§16 and Appendix 1, the marked part. The seam sentence to open on: "Everything before this needed only that the angel is the same kind of thing in each of us. Here is what I believe: nothing tells them apart." The Dzogchen and ACIM reconciliation (the lapse before a chooser; the disaster is taking it seriously as sin) goes here, held loosely.
 
 ## Key points to carry (L0/L1; [5] = seeded in Chapter 5)
 
@@ -68,6 +68,6 @@ Follow map §14–§16 and Appendix 1 Part Three. The seam sentence to open on: 
 
 ## Sources
 
-Map, Part E; Appendix 1 Part Three; Appendix 3; angel-devil brief §3; Chapter 2's trip; the forum witness.
+Map, Part E; Appendix 1, the marked part; Appendix 3; angel-devil brief §3; Chapter 2's trip; the forum witness.
 
 **Does it deserve a chapter?** Yes, marked, and it's the destination.
