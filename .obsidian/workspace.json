@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/preface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "preface"
             }
           },
           {
@@ -202,8 +202,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,6 +300,7 @@
   },
   "active": "877512cd2cf4d6c3",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "short/chapter-1.md",
     "llms/claude-2026-08/manuscript/chapter-1.md",
     "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
@@ -310,7 +310,6 @@
     "llms/claude-2026-08/archive/what-contempt-presupposes-draft-2026-09.md",
     "llms/claude-2026-08/archive/appendix-1-before-three-sides-2026-09.md",
     "short/chapter-2.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "_site/short/chapter-3/index.html",
     "_site/short/chapter-3",
     "_site/short/chapter-2/index.html",
