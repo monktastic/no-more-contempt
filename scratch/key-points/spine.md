@@ -82,7 +82,7 @@ Not as bullets: 38 nodes with the dependencies below is `dags/book-map.dot` alre
 
 **Chapter 16**
 36a. Contempt for the world: the same turning away aimed at everything; the tree and the arch as the checkable seed; the rest is belief. (§11)
-37. Compassion is the nature of mind; goodness is what remains when the hiding stops; the kind has one member. (§12)
+37. Compassion is the nature of mind; goodness is what remains when the hiding stops; nothing tells two awarenesses apart. (§12)
 38. Every act counts, witnessed or not: the sealed room; the stranger about to break; held like the parasite, no chooser and treat it as if there were. (§12 impact)
 
 **Chapter 17** owns no thesis. It says the one idea from four sides and makes the bet.

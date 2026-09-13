@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/misc/what-contempt-presupposes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "what-contempt-presupposes"
             }
           },
           {
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"came back\"",
+                "query": "\"nearly called\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -301,17 +302,18 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
+    "short/chapter-2.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+    "llms/claude-2026-08/misc/what-contempt-presupposes.md",
     "_site/short/chapter-3/index.html",
     "_site/short/chapter-3",
     "_site/short/chapter-2/index.html",
     "_site/short/chapter-2",
     "llms/claude-2026-08/publish-head.sh",
     "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "llms/claude-2026-08/misc/email.md",
     "short/chapter-3.md",
-    "short/chapter-2.md",
     "llms/claude-2026-08/archive/short-version-chapter-1-first-draft.md",
     "llms/claude-2026-08/manuscript/chapter-1.md",
     "scratch/short.md",
@@ -329,7 +331,6 @@
     "llms/claude-2026-08/check-orphans.sh",
     "_includes/head_custom.html",
     "_site/downloads/no-more-contempt.epub",
-    "_site/downloads/index.html",
     "_site/downloads/no-more-contempt.md",
     "llms/misc/new-journey.md",
     "short/chapter-1.md",

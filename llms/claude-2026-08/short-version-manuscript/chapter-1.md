@@ -106,7 +106,7 @@ Now: who, exactly, is sending that message? We already saw why full awareness wo
 
 For the rest of this work, I'll call it *the darkness.* It's not a literal metaphysical entity, but in many ways behaves like one. It is the thing you were revealing to them (or that was revealing itself through you) in your message.
 
-That's a major thesis of this work: the darkness acts *through* each of us, and it can only do so by convincing us that it's not—that we're the ones in control, and what we're doing is okay or even righteous. It uses each person's unique  psychology to find a way in, and the way it commandeers your mind and an "evil person's" differ only in the details. (Of course, when a mind has turned far enough away, turning it back may be a different kind of work, and it's fair to name that. But it doesn't change what the person is made of.)
+That's a major thesis of this work: the darkness acts *through* each of us, and it can only do so by convincing us that it's not—that we're the ones in control, and what we're doing is okay or even righteous. It uses each person's unique psychology to find a way in, and the way it commandeers your mind and an "evil person's" differ only in the details. (Of course, when a mind has turned far enough away, turning it back may be a different kind of work, and it's fair to name that. But it doesn't change what the person is made of.)
 
 At the same time, we're fully responsible for the harm we cause while under its sway. We want to write it off as "unconscious," but that's not true. Call it purely conscious and you're a monster. Call it unconscious and there's no one to hold responsible. Both are incomplete, and our inability to hold this paradox enables it to continue.
 

@@ -263,7 +263,7 @@ And the most common contempt of all is the kind turned on yourself. It feels lik
 
 *Marked off, because from here I can't give you a way to check.*
 
-Everything so far has needed only that the deep part is the same kind of thing in each of us. Here is what I believe: the kind has one member.
+Everything so far has needed only that the deep part is the same kind of thing in each of us. Here is what I believe: nothing tells them apart.
 
 I should tell you where that came from, since I keep referring to it. Some years ago, in an experience I'd rather not dress up, I was taken back to a memory of mocking a man for a political opinion I knew was harmful. I was shown what my contempt had done to him: it had fed the cynicism that produced the opinion in the first place. I hadn't made him better. I'd made him worse. And then I was shown that I couldn't stop, because if I let up and he turned out to be decent, what would that say about how I'd been treating him? So I had to do it more. None of this had been conscious, exactly. It had sat in limbo, where I'd called it "unconscious" and forgiven myself in advance. Then the hiding was stripped from me, not by force, but by the removal of everything that had been doing the hiding, the pride and the shame and the fear, and what remained I can only call love. Not for anything in particular. For all of it. And the first thing I understood was *this is not me*. The second was *it's not him either*.
 

@@ -5,7 +5,7 @@
 
 *I've marked this part off, and I should say what the mark means, because the obvious reading is wrong. It doesn't mark a change of subject. Everything here is on the same road as everything before it, further along, and I got there by looking the way you looked in Chapter 1, for longer and with help. What it marks is that I can no longer give you a way to check what I'm saying. If you look and don't find what I describe, that's a finding, and it counts. Nothing practical in the book depends on this part.*
 
-Everything so far has needed only that the deep part is the same kind of thing in each of us. Here is what I believe: the kind has one member.
+Everything so far has needed only that the deep part is the same kind of thing in each of us. Here is what I believe: nothing tells them apart.
 
 I should tell you where that came from. Some years ago, in an experience I'd rather not dress up, I was taken back to a memory of mocking a man for a political opinion I knew was harmful. I was shown what my contempt had done to him: it had fed the cynicism that produced the opinion in the first place. I hadn't made him better. I'd made him worse. And then I was shown that I couldn't stop, because if I let up and he turned out to be decent, what would that say about how I'd been treating him? So I had to do it more. None of this had been conscious, exactly. It had sat in limbo, where I'd called it unconscious and forgiven myself in advance. Then the hiding was stripped from me, not by force, but by the removal of everything that had been doing the hiding, the pride and the shame and the fear, and what remained I can only call love. Not for anything in particular. For all of it. And the first thing I understood was *this is not me*. The second was *it's not him either*.
 
@@ -49,12 +49,12 @@ From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again .
 
 ## Outline
 
-Follow map §14–§16 and Appendix 1 Part Three. The seam sentence to open on: "Everything before this needed only that the angel is the same kind of thing in each of us. Here is what I believe: the kind has one member." The Dzogchen and ACIM reconciliation (the lapse before a chooser; the disaster is taking it seriously as sin) goes here, held loosely.
+Follow map §14–§16 and Appendix 1 Part Three. The seam sentence to open on: "Everything before this needed only that the angel is the same kind of thing in each of us. Here is what I believe: nothing tells them apart." The Dzogchen and ACIM reconciliation (the lapse before a chooser; the disaster is taking it seriously as sin) goes here, held loosely.
 
 ## Key points to carry (L0/L1; [5] = seeded in Chapter 5)
 
 - What remains is love; not soft; this is not me, it's not him either. [5]
-- Same kind / one member. [5]
+- Same kind; nothing tells them apart. [5]
 - Compassion is the nature of mind; goodness needs nothing added. [5]
 - One absence; one light; nothing tells two awarenesses apart. [5]
 - Implicit common knowledge, nontechnically. [5]
