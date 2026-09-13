@@ -293,7 +293,7 @@ when the claim is about how it behaves (lives off a host, can be evicted);
 "The part that knows" and "the part that cares" are descriptions, not names.
 Never a fourth name. Claims about what the light *is* come only after the
 second seam, and so does the capital: "the Light" only from the sentence
-"the kind has one member" onward, where the capital marks the tier and the
+"nothing tells them apart" onward, where the capital marks the tier and the
 text says so. "Darkness" is never capitalized, because it's an absence and
 a capital would grant it the essence the book denies. Under the contract the thing may be given a goal, and it has
 exactly one: to make us forget there was ever a light to steer by. Never
