@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
@@ -147,8 +147,7 @@
               "title": "working-manuscript"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"relying on it\"",
+                "query": "\"so: how\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -300,10 +299,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "542f1a8bcae3e2b2",
+  "active": "877512cd2cf4d6c3",
   "lastOpenFiles": [
-    "appendix/1.md",
+    "short/chapter-1.md",
+    "llms/claude-2026-08/manuscript/chapter-1.md",
     "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
+    "appendix/1.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
     "llms/claude-2026-08/misc/what-contempt-presupposes.md",
     "llms/claude-2026-08/archive/what-contempt-presupposes-draft-2026-09.md",
@@ -319,7 +320,6 @@
     "llms/claude-2026-08/misc/email.md",
     "short/chapter-3.md",
     "llms/claude-2026-08/archive/short-version-chapter-1-first-draft.md",
-    "llms/claude-2026-08/manuscript/chapter-1.md",
     "scratch/short.md",
     "llms/claude-2026-08/misc/chapter-2-alt.md",
     "short-2.md",
@@ -337,7 +337,6 @@
     "_site/downloads/no-more-contempt.epub",
     "_site/downloads/no-more-contempt.md",
     "llms/misc/new-journey.md",
-    "short/chapter-1.md",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
     "_site/assets/images/bullet.png",
