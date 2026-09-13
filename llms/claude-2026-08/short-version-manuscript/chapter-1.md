@@ -54,6 +54,8 @@ So: how?
 
 ---
 
+## Limbo
+
 Have you ever done something you knew was wrong at the time, but couldn't fully admit to yourself until later? Maybe you made a cruel comment, took credit for someone else's work, or cheated on a test (or even a partner).
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
@@ -71,6 +73,10 @@ Now try to recall how you knew it was wrong in the first place.
 Whatever it was, did it arrive before or after you'd reasoned through it? The part of you that knew: it couldn't say exactly how it knew. Meanwhile, another part of you was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
 Why did one side have to argue, and the other not? And which side did you listen to—the part that "just knew" or the part that could prove?
+
+Limbo exists in degrees. It's not just black or white. The worse the behavior, the harder we must hide it.
+
+And notice that when you are in limbo, part of you *knows* you are—even as you hide it from yourself. In other words, limbo always contains knowledge of itself.
 
 ---
 

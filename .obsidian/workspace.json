@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/misc/what-contempt-presupposes.md",
+                "file": "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what-contempt-presupposes"
+              "title": "appendix-1-recursion"
             }
           },
           {
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"nearly called\"",
+                "query": "\"relying on it\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,10 +302,14 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
+    "appendix/1.md",
+    "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
+    "llms/claude-2026-08/misc/what-contempt-presupposes.md",
+    "llms/claude-2026-08/archive/what-contempt-presupposes-draft-2026-09.md",
+    "llms/claude-2026-08/archive/appendix-1-before-three-sides-2026-09.md",
     "short/chapter-2.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/misc/what-contempt-presupposes.md",
     "_site/short/chapter-3/index.html",
     "_site/short/chapter-3",
     "_site/short/chapter-2/index.html",
@@ -334,10 +338,6 @@
     "_site/downloads/no-more-contempt.md",
     "llms/misc/new-journey.md",
     "short/chapter-1.md",
-    "scratch/key-points/index.md",
-    "old/faq.md",
-    "old/alt.md",
-    "llms/claude-2026-08/archive/condensed-version-working-notes.md",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
     "_site/assets/images/bullet.png",

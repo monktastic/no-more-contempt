@@ -43,7 +43,9 @@ seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
 `manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
-`manuscript/appendix-1-recursion.md` the recursion, stated without formalism.
+`manuscript/appendix-1-recursion.md` what contempt presupposes: the skeleton on
+one screen, the deduction (tiered), the fixed point written down, the title, a
+prediction, the finale with its seams, then what I believe, marked.
 `manuscript/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
 `manuscript/appendix-3-the-traditions.md` the traditions that named the thing.
 
