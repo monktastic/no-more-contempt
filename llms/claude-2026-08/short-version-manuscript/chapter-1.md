@@ -46,7 +46,7 @@ To make the *how* more intuitive, imagine if you could somehow send them a messa
 
 That would certainly pressure them into embracing it, wouldn't it? **But only if it were sent on a private channel**; something that nobody could ever prove you sent—*least of all yourself.* That way, they'd already know what would happen if they tried to call you out: you wouldn't just feign innocence, you would actually believe it yourself. And you'd continue to believe it, even as you continued to apply that pressure.
 
-It would be *maddening as hell.* So that's what you do.
+It would be *maddening as hell*: hypocrisy you can feel and can't name. So that's what you do.
 
 Here's how it works.
 
@@ -58,7 +58,7 @@ You also know that the only reason people turn away (in this sense) is to avoid 
 
 That's the state you're directing at them now. How are they to receive it, other than as malicious? And what happens when you add a veneer of righteousness on top? The message you're sending them is:
 
-> *We are now free to harm you, and we will sleep soundly at night—because we only did it to a "bad person."*
+> *We (the good people) are now free to harm you, and we will sleep soundly at night—because we only did it to a "bad person."*
 
 It is *primally threatening.* Not only are they receiving malice, but there's "nobody home" in your mind to answer for it.
 

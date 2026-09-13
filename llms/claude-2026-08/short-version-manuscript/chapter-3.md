@@ -1,38 +1,50 @@
 # Chapter 3: How It Spreads
 
-When we forget our true nature, something tragic happens. Fearing loss of contact with our *absolute goodness* (which we could never actually lose...), we go out seeking it in the *relative* goodness. That is, at the expense of others.
+This chapter is a radically condensed collection of other points / theses of the book.
 
-That is the origin of the darkness (although the original forgetting / ignorance is causeless).
+---
 
-We are all trying to find our way home, not realizing that this cannot be done at another's expense (by keeping them from it). The pattern is kept alive by the subtle fear that we don't deserve home, because we secretly know what we've done, and thus what we must *be*. 
+Before we recognize evil as a turning away, we can't help but feel contempt for "evil people." But even after we recognize it for what it is, the question remains: why do they turn away in the first place? 
 
-This is why the only solution is to recognize (and actualize) our innate goodness. Everything else just leads to more harm (while we're flawlessly convinced we're *helping*). Trying to simply be a "good person" often recreates the idea of "bad people," ensuring the dynamic continues.
+If we again ascribe a *bad essence*—that some people are just the kind of people who *would*, whereas we're the kind of people who wouldn't—then we end up in contempt again, just pushed one layer down.
+
+Evil is the *result* of turning away, not its cause.
+
+---
+
+I cannot give an account of why the first turn happens, but once it does, it becomes a self-perpetuating loop.
+
+When we forget our true nature, something tragic happens: fearing loss of our *absolute goodness* (which we could never actually lose), we go out seeking it in the *relative*. That is, at the expense of others. At this point, some form of contempt is nearly inevitable.
+
+We are all trying to find our way home, not realizing that this cannot be done at another's expense (by keeping them from it). The pattern is kept alive by the subtle fear that we don't deserve home, because we secretly fear what we've done, and thus what we must *be*. 
+
+This is why the only solution is to recognize (and actualize) our innate goodness. Everything else just leads to more harm, while we're flawlessly convinced we're *helping*. Trying to simply be a "good person" often recreates the idea of "bad people," ensuring the dynamic continues.
 
 ---
 
 Your darkness behaves like a parasite: it lives off its host and hides from it. I'll call it one.
 
-When you send that message to the "bad person," your parasites are collaborating—reinforcing each other under your conscious awareness. The result is that each gets strengthened, while hiding themselves better from each of you.
+When you send that message to the "bad person," it's as though your parasites are collaborating—reinforcing each other under your conscious awareness. You attacked them in the first place because theirs resonated with yours. The result is that each gets strengthened, while hiding themselves better from each of you.
 
-In a sense, they all want the same thing: a darker world, in which they have more control.
+So in a sense, they all want the same thing: a darker world, in which they become increasingly well hidden from their hosts, and thus have more control.
 
-Why should separate parasites want the same thing? Because they aren't separate the way presences are. The darkness has no substance of its own. It is a turning away, and two turnings-away have nothing in them to differ by. That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing, and why every tradition that looked hard ended up naming one adversary. They were seeing something real. Their one error was granting it substance. So there's a paradox to hold with both hands: it isn't real, and it must be fought. Treat it as an essence and you get contempt. Treat it as harmless and you get complicity.
+Why should separate parasites want the same thing? Because the darkness has no substance of its own. It is a turning away, and two turnings-away have nothing in them to differ by. That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing, and why every tradition that looked hard ended up naming one adversary. They were seeing something real. Their one error was granting it substance. So there's a paradox to hold with both hands: it isn't real, and it must be fought. Treat it as an essence and you get contempt. Treat it as harmless and you get complicity.
 
-When we gather with allies to foster contempt for our shared enemy, the same thing happens. Our parasites are in control.
+When we gather with allies to foster contempt for our shared enemy, the same thing happens. Our parasites are in control. When we speak it into a crowd, our parasite is seeking others to resonate with.
 
-Now imagine a locker room. Ten men, gathered around. One makes an off-color joke, testing the water. If nobody opposes it, a "shadow space" opens up, where all the parasites come out and play. Each man is a little bolder than they might otherwise have been. The moment the "wrong person" enters the room, the space shuts down. Nobody retains a record of what just happened—the parasites empowering themselves.
+Now imagine a locker room. Ten men, gathered around. One makes an off-color joke, testing the water. If nobody opposes it, a "shadow space" opens up, where all their parasites come out and play. Each man is a little bolder than they might have otherwise been. The moment the "wrong person" enters the room, the space shuts down. Nobody retains a record of what just happened—the parasites empowering themselves.
 
-Even if someone *had* opposed it, but with contempt ("you're evil people!"), that too would have reinforced everyone's (including the person's who opposed it).
+If someone had opposed it with contempt ("you're all evil!"), that too would have reinforced everyone's (including the person's who opposed it).
 
-Notice how the parasite operates: one part of you doing your "dirty work" for you, while another part keeps its hands clean. Remind you of anything? *Plausible deniability.*
+Notice how the parasite operates: one part of you doing your "dirty work" for you, while another part keeps its hands clean. This is the origin of *plausible deniability.*
 
-This is how the pattern scales. By treating people as identical with their darkness, we help produce and harden the very people we will later call “bad.” Everyone who remains caught in the same ignorance imports it into the structures they participate in: one part does the dirty work while another keeps its hands clean. The difference is one of degree, not kind.
+It's how the pattern scales. By treating people as identical with their darkness, we help produce and harden the very people we will later call “bad.” Everyone who remains caught in the same ignorance (all of us) imports that plausible deniability into the structures they participate in.
 
-These institutions then meet a hidden need in all of us. Their visible evil lets us establish our own relative goodness by contrast, while providing cover for our smaller betrayals: _At least I’m not like them. I’m just sticking it to the man._ At some level, we need them to remain—not because we consciously approve of them, but because they keep our own darkness located somewhere else.
+These institutions then meet a hidden need in all of us. Their visible evil lets us establish our own relative goodness by contrast, while providing cover for our smaller betrayals: _At least I’m not like them. I’m just sticking it to the man!_ At some level, we need them to remain—not because we consciously approve of them, but because they keep our own darkness located somewhere outside ourselves.
 
 So we help produce the “bad people” whose actions justify our contempt; all of us build that same division into institutions; and those institutions provide new objects against which our contempt can feel righteous. Everyone experiences themselves as fighting the darkness while the darkness reproduces itself through everyone.
 
-This is the truth inside the “evil global conspiracy” archetype. No enlightened central conspiracy is required. What looks like coordination from above emerges from the same hidden state operating through everyone, while each conscious person experiences himself as opposing it.
+This is the truth inside the “evil global conspiracy” archetype. No explicit central conspiracy is required. What looks like coordination from above emerges from the same hidden state operating through everyone. (This does not deny the existence of actual conspiracies. The claim is that they depend on our collective contempt to survive, and part of us knows it, and thus we're each complicit in a larger "conspiracy" that underlies them.)
 
 ---
 
@@ -70,10 +82,12 @@ This is closely connected to the meaning crisis. We have nothing to orient us by
 
 Turning toward / away isn't binary. Every act of unkindness, every skirting of conscience, every self-serving behavior lives somewhere along the spectrum, and creates more turning away in the world.
 
-Look behind any of the tragedies (toward people, animals, nature itself) and you will find turning away.
+Look behind any of the tragedies (toward people, animals, nature itself) and you will find turning away. Animals being abused in factory farms. Prison inmates subjected to dehumanizing conditions. Rainforests being cut down for profit. Each requires the same *turning away*.
 
 And the turning was never a choice. By the time you could choose, the seeing is already gone, and the deciding is done with equipment that has already turned. What is yours is how fast you catch it afterward: days, then hours, then sometimes in the moment. That is trainable, and it is the only part of this that improves with effort.
 
 The only way to end it is by turning people back toward, and the only way to do that is by turning toward yourself.
 
-And every act of integrity, every choice of care when nobody is watching, leaks out into the world, just as your flash did. Nothing is confined to your skull—and part of you already knows it.
+Every act of integrity, every choice to care when nobody is watching, leaks out into the world, just as your flash of darkness did. Nothing is confined to your skull—and part of you already knows it.
+
+This is the real battle between Good and Evil, and it is fought in your every thought and action.
