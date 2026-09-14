@@ -100,7 +100,7 @@ for i, (f, override) in enumerate(chapters, 1):
 text = (MAN / 'rest-of-book.md').read_text()
 chunks = re.split(r'\n(?=# Part [A-F])', text)
 t, body = split_title(chunks[0])
-page(ROOT / 'map' / 'index.md', 'Where This Goes', 4, '/map/', count_line(mw, 'Parts A to F') + body, has_children=True, seq='map')
+page(ROOT / 'map' / 'index.md', 'Where This Goes', 5, '/map/', count_line(mw, 'Parts A to F') + body, has_children=True, seq='map')
 titles = {'F': 'Part F: What this book is for'}
 for i, ch in enumerate(chunks[1:], 1):
     t, body = split_title(ch)
@@ -108,12 +108,13 @@ for i, ch in enumerate(chunks[1:], 1):
     title = titles.get(letter, t)
     page(ROOT / 'map' / f'part-{letter.lower()}.md', title, i, f'/map/part-{letter.lower()}/', body, parent='Where This Goes', seq='map')
 
-# Appendices: part of the book, so nested under it, after the chapters
-page(ROOT / 'appendix' / 'index.md', 'Appendices', len(chapters) + 1, '/appendix/',
-     'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', parent='The Book', has_children=True)
+# Appendices: their own section, not the book's, since the short version sends
+# readers to them too. Same URLs as when they sat under the book.
+page(ROOT / 'appendix' / 'index.md', 'Appendices', 4, '/appendix/',
+     'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', has_children=True)
 for i, f in enumerate(APPENDIX_FILES, 1):
     t, body = split_title((MAN / f).read_text())
-    page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices', grand_parent='The Book', seq='book')
+    page(ROOT / 'appendix' / f'{i}.md', t, i, f'/appendix/{i}/', body, parent='Appendices', seq='appendix')
 
 # The short version, for practitioners: its own manuscript directory. The
 # preface is the section page; the chapters are its children.
@@ -126,6 +127,7 @@ page(ROOT / 'short' / 'index.md', t, 3, '/short/',
 for i, f in enumerate(short_chapters, 1):
     t, body = split_title(f.read_text())
     title = t or f'Chapter {i}'
+    body = count_line(len(strip_todos(body).split()), 'This chapter') + body
     page(ROOT / 'short' / f.name, title, i, f'/short/{f.stem}/', body, parent='The Short Version', seq='short')
 
 # The build stamp the site's footer shows, so a reader can say which version
@@ -142,12 +144,17 @@ def git(*args):
     'sha: "%s"\ndate: "%s"\n' % (git('rev-parse', '--short', 'HEAD') or 'unknown',
                                   datetime.date.today().strftime('%-d %B %Y')))
 
-for i, spec in enumerate(pending):
+for spec in pending:
     if spec['seq']:
         same = [s for s in pending if s['seq'] == spec['seq']]
         k = same.index(spec)
         spec['prev'] = same[k - 1] if k > 0 else None
         spec['next'] = same[k + 1] if k + 1 < len(same) else None
+short_seq = [s for s in pending if s['seq'] == 'short']
+appendix_seq = [s for s in pending if s['seq'] == 'appendix']
+if short_seq and appendix_seq:
+    short_seq[-1]['next'] = appendix_seq[0]
+for spec in pending:
     write(**spec)
 
 if GUARDED: MANIFEST.write_text(json.dumps(written, indent=1))
