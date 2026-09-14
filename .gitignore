@@ -21,3 +21,4 @@ llms/claude-2026-08/working-manuscript.md
 llms/claude-2026-08/.publish-manifest.json
 __pycache__/
 /_data/build.yml
+llms/claude-2026-08/short-manuscript.md

@@ -174,7 +174,7 @@ words = int(pathlib.Path(os.environ['TMP'] + '/words').read_text())
 pdf_line = '- [PDF](no-more-contempt.pdf), for printing\n' if os.environ['PDF_OK'] else ''
 (OUT / 'index.md').write_text(f'''---
 title: "Downloads"
-nav_order: 5
+nav_order: 6
 permalink: /downloads/
 ---
 
