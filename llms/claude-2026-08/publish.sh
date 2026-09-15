@@ -120,13 +120,15 @@ for i, f in enumerate(APPENDIX_FILES, 1):
 # preface is the section page; the chapters are its children.
 SHORT = HERE / 'short-version-manuscript'
 short_chapters = sorted(f for f in SHORT.glob('chapter-*.md'))
-sw = sum(len(strip_todos(f.read_text()).split()) for f in short_chapters)
+sw = sum(len(strip_todos(f.read_text()).split()) for f in [SHORT / 'intro.md'] + short_chapters)
 t, body = split_title((SHORT / 'preface.md').read_text())
 page(ROOT / 'short' / 'index.md', t, 3, '/short/',
      count_line(sw, 'The short version') + body, has_children=True, seq='short')
-for i, f in enumerate(short_chapters, 1):
+t, body = split_title((SHORT / 'intro.md').read_text())
+page(ROOT / 'short' / 'intro.md', t or 'Introduction', 1, '/short/intro/', body, parent='The Short Version', seq='short')
+for i, f in enumerate(short_chapters, 2):
     t, body = split_title(f.read_text())
-    title = t or f'Chapter {i}'
+    title = t or f'Chapter {i - 1}'
     body = count_line(len(strip_todos(body).split()), 'This chapter') + body
     page(ROOT / 'short' / f.name, title, i, f'/short/{f.stem}/', body, parent='The Short Version', seq='short')
 
