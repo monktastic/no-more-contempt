@@ -18,6 +18,6 @@ The main engine of this book is a familiar thing: *moral contempt*, the way we t
 
 Now for the strange part, which this book exists to show. Contempt for our enemies is only coherent if both sender and receiver already know the things this introduction opened with: that the nature of mind is compassion, that darkness is nothing but being *turned away*, and—strangest of all—that these are both already *common knowledge*[^ck]. Contempt says the opposite, but it can only operate by denying exactly what it presupposes.
 
-[^ck]: To my analytical readers: yes, common knowledge in the game-theoretic sense—but with a wrinkle, as we'll see.
+[^ck]: For my analytical readers: yes, common knowledge in the game-theoretic sense—but with a wrinkle, as we'll see.
 
 I realize these are all very lofty ideas. Let me now pull them into the realm of our everyday experience.

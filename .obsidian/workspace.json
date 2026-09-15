@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/intro.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "chapter-1"
             }
           },
           {
@@ -255,8 +255,9 @@
   },
   "active": "edd84a5cbbcb0af3",
   "lastOpenFiles": [
-    "llms/claude-2026-08/short-version-manuscript/preface.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
     "llms/claude-2026-08/short-version-manuscript/intro.md",
+    "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "book/chapter-10.md",
     "short/intro.md",
@@ -283,7 +284,6 @@
     "book/chapter-17.md",
     "book/chapter-16.md",
     "book/chapter-15.md",
-    "book/chapter-14.md",
     "book",
     "_site/short/chapter-4/index.html",
     "_site/short/chapter-4",
