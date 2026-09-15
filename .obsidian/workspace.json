@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/misc/preface-alt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "preface-alt"
             }
           },
           {
@@ -272,7 +272,12 @@
   },
   "active": "542f1a8bcae3e2b2",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-version-manuscript/intro.md",
+    "llms/claude-2026-08/misc/preface-alt.md",
+    "llms/claude-2026-08/misc/stuff-not-to-lose.md",
+    "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-4.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
     "llms/claude-2026-08/short-manuscript.md",
     "llms/claude-2026-08/working-manuscript.md",
     "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
@@ -284,8 +289,6 @@
     "llms/claude-2026-08/toPdfViaTempFile65829-0.typ",
     "llms/claude-2026-08/toPdfViaTempFile65829-1.pdf",
     "llms/claude-2026-08/media-adfe7107304c5e42",
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
     "short/chapter-1.md",
     "short/index.md",
@@ -303,10 +306,7 @@
     "map/part-c.md",
     "map/part-b.md",
     "map/part-a.md",
-    "map/index.md",
     "map",
-    "book/preface.md",
-    "book/index.md",
     "book",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
