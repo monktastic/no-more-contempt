@@ -4,19 +4,7 @@
 
 This work is my attempt to convey an insight about the nature of good and evil that arose from my practice (as well as plant medicines) many years ago. Alas, it is not one that I can claim to be fully living myself, by any stretch.
 
-The basic idea is this. The nature of the mind is compassion—absolute goodness. But, failing to recognize this, we wander the world in search of *relative* goodness. That is, goodness at the expense of others. In particular, we make others bad to prove ourselves good.
-
-This unrecognized confusion sits at the heart of nearly all the horror we see around us today, from political polarization and the breakdown of social cohesion, all the way to the impending collapse of the biosphere.
-
-It is an idea many of us have heard before. What I saw was how I, specifically, was contributing to the horror—even while being *flawlessly confident* that I wasn't; that I was one of the precious few "good guys." At the same time, I saw how an aspect of my mind had always been watching, knowing *exactly* what I was doing. It was always there, patiently waiting to be remembered.
-
-The bigger part of the insight is harder to convey. Although we are responsible for all the harm we cause while under this confusion, there is a curious sense in which it is *not us.* (Not that there is a real "us" to be found; *anatta* stands.) But a mind turned away from its own nature behaves as if something were driving it. A kind of parasite.
-
-And these "parasites" do not act independently. They collaborate across minds, at a level we might call "unconscious" (though, as we'll see, that isn't quite right). Not just between allies, but between enemies too. Seen together, their behavior closely matches what one would expect if Mara, or Satan, were real.
-
-This book works by examining one familiar thing: *moral contempt*, the way we treat our enemies as though they were *inherently defective.* Traced carefully, it turns out to be the purest expression of evil: how the darkness spreads between us while masquerading as *righteousness*.
-
-And contempt turns out to be coherent only if we already know three things: that the nature of mind is compassion, that this is common knowledge, and that we have strayed from it ourselves. That is the opposite of what contempt claims, and it is what I hope to show.
+What I saw was how I, specifically, was contributing to the horrors of the world—even while being flawlessly confident that I was one of the "good guys," valiantly fighting it. *Because* I was convinced of that. At the same time, I saw how an aspect of my mind had always known *exactly* how I was lying to myself. It was always there, patiently waiting to be remembered.
 
 ---
 
@@ -26,6 +14,6 @@ So this leaves out a great deal. The finer distinctions, the objections and the 
 
 For those of us with bodhicitta aspirations, it matters to see the mechanism by which straying from recognition creates samsara. This is one way to see it. Like any text, it isn't enough on its own; it's meant to be used alongside practice.
 
-This work is *far* from finished. Part of my hope for this version is to find practitioners with deeper insight and better communication skills than mine. If it transmits what I hope it does, finding them should be easy.
+This work is *far* from finished. Part of my hope for this version is to find practitioners with deeper insight and better communication skills than mine, who wish to collaborate. If it transmits what I hope it does, finding them should be easy.
 
 May all beings be free of suffering and its causes. 🙏🏽
