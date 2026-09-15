@@ -1,27 +1,16 @@
-> *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it.* —The Gospel of Philip
+## Attempt 2
 
----
+Most of us are trying to orient toward the *good*—but what, exactly, is it? No matter how carefully we try to define it, an aspect of our mind finds clever ways to subvert it: to obey the letter of the law while violating its spirit, to benefit ourselves. We know that other people do this (think of the corrupt politician), but we never notice it in ourselves. We *cannot* notice it, because its whole trick is to convince us that we're not doing it.
 
-Something inside you cares. *Profoundly.* About other people, about the world around you. So it's painful to look around and see people who seem not to. Who put their own interests ahead of everyone else's. Who knowingly cause harm. You know the people I'm talking about.
+If you've followed this far, it means you already have the intuition that there is such a thing as the spirit of the good, and that trying to pin it down (to cover all the good, and only it) is folly. Here's the first thing I want to show you: the subversive aspect of our mind has tricked us (as a culture) into believing that we *can* pin it down, and that the idea of an indefinable good is "woo," so that it can operate unimpeded.
 
-How does it make you feel about them? How does it make you want to treat them?
+For the same reason, it's impossible to define evil—and yet we know it when we see it, at least in its most extreme forms. Here's the next thing I want to show you: all evil ultimately is, is a mind so turned away from the spirit, and so thoroughly following a "letter," that it appears to be of a fundamentally different nature from our own. It has (apparently) forgotten there *is* a spirit. 
 
-Your profound care: does it dissolve in their presence? I know mine does. Something in me wants to *hurt* them—quite independently of any good it might do. It's painful to admit, but there it is.
+Now for a bit of recursion: this sense that an "evil mind" is essentially different from ours is itself produced by the subversive aspect of our minds. The reason we hate "evil people," and treat them with contempt, is that it lets us follow a socially-accepted "letter" (that hating bad people is good) while profoundly violating its spirit. In other words, contempt for "bad people" is **evil**, and we hold it only to benefit ourselves while believing we're doing good.
 
-Here's the conundrum. Fighting for what matters—it requires force. Sometimes even violence. How do we know when we've crossed the line? When we've stopped serving what *matters*, and started serving something else?
+How does it benefit us? By licensing the subversive (evil) aspect in others, which in turn makes our own subversion harder to notice.
 
-However we may try to answer that question—whatever rules we may try to pin down—it never quite captures the full essence, does it? For any definition you might propose about what "good" behavior looks like, there's *always* a way to exploit it. To follow the letter of the law while violating its spirit.
+The hardest part to communicate is this: the "evil" in each of us is collaborating across us.
 
-We know this is something the "bad people" do. It's why we hate them. But the truth is, something in **every one of us** is constantly searching for a way to do it. To bend those rules for our own benefit. That's the part of us we unleash on the "bad people"—to hurt them—telling ourselves it's different when we do it. *And that's the license we hand them to do it more.*
+The mythological battle between good and evil is, in a certain sense, real. This book is an attempt to make it more concrete. Not by giving you definitions (which would contradict my own thesis), but by giving pointers you can recognize from your own life. The battle operates, at all times, in every one of our minds. And unless we learn to recognize it in ourselves, we cannot help but fight for the wrong "team"—even as we're convinced we're fighting for the right one.
 
-Here's the challenge: I want to describe exactly how that mistake functions. But any way I might try to pin it down, it just turns into another rule—something the "dark" part of us can exploit or poke holes in. So all I can do is point at it and ask you to look honestly.
-
-The part of you that cares: it will recognize what I'm pointing at. But it won't be able to *define* it. Defining it *is* the trap. It's why most projects, ideologies, and systems we design to solve the problem only make it worse. We've designed them to follow definitions while exploiting the gap those definitions create. The mistake doesn't lie in anything we can pin down—*and that's by design*.
-
-So here's what I'll do. I'll gesture at the part that cares. I'll try to evoke what it's saying, beneath the words. Because it already knows what I'm about to tell you. If I pretended to be morally superior to you, or to know something you don't, I'd be doing to you exactly the thing I'm claiming to warn you about.
-
-If you look and recognize what you find, that's the evidence, and I couldn't have planted it. If you don't, it's better that you don't believe me than simply nod along.
-
-It's easiest to see in small things, so that's where we'll start.
-
----
