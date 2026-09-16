@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/preface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "preface"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"stamp out\"",
+                "query": "\"and contempt is maddening\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,21 +227,24 @@
   },
   "active": "776b06fc2285f3c3",
   "lastOpenFiles": [
+    "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
+    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/misc/parked-claude-passages-2026-09-16.md",
+    "book/chapter-7.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-4.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
     "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/short-version-manuscript/intro.md",
     "llms/claude-2026-08/misc/general-audience-abductive-argument.md",
-    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
     "llms/claude-2026-08/misc/general-audience-cold-reads-2026-09-16.md",
     "llms/claude-2026-08/misc/general-audience-abductive-argument-scaffold.md",
     "scratch/short.md",
     "scratch/scratch.md",
     "llms/claude-2026-08/short-manuscript.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
     "short/chapter-3.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-4.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
     "short/chapter-1.md",
     "short/intro.md",
     "appendix/3.md",
@@ -250,10 +253,7 @@
     "short/index.md",
     "short/chapter-4.md",
     "short/chapter-2a.md",
-    "short/chapter-2.md",
     "short",
-    "appendix/2.md",
-    "appendix/index.md",
     "appendix",
     "map",
     "book",
