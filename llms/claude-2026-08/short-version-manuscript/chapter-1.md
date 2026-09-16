@@ -33,55 +33,49 @@ Didn't some part of you know this would happen? And yet you did it anyway. Why?
 
 Part of it is that you wanted justice—and making them feel the full weight of your judgement feels righteous; like the least you could do as a good person.
 
-It feels like you've finally caught hold of a sliver of *what's wrong with the world*, and you're not going to let it escape so easily. See if you can locate that sense. And notice how good it feels when they dig in. Like relief. *There it is. Exactly what I'd expect from a rotten person.*
+It feels like you've finally caught hold of a sliver of *what's wrong with the world*, and you're not going to let it escape so easily. See if you can locate that sense. And notice how **good** it feels when they dig in. Like relief. *There it is. Exactly what I'd expect from a rotten person.*
 
-Now ask yourself: what's it like to be on the receiving end of that dark message you sent? Who *wouldn't* dig in? Wouldn't you? So how can you then turn around and use it as proof that they're beyond help?
+But ask yourself: what's it like to be on the receiving end of the dark message you sent? Who *wouldn't* dig in? Wouldn't you? So how can you then turn around and use it as proof that they're beyond help?
 
 Something fishy is going on here.
 
 I'll go ahead and name it: one part of your mind is provoking them—sending them a dark message that you *know* will make them dig in—while another part is blocked from realizing what you're actually doing, so that you can hold their reaction against them in all sincerity.
 
-Why? Because it feels like *revenge.* They've made their bed, and now they're going to sleep in it. They're the ones who chose the darkness—you're only making sure they can't wriggle out. Sure, it's a bit underhanded, but there's a difference: their darkness is *real* darkness, and yours is the good kind, only there to defeat the real kind. You can't be soft on evil. *That's how it wins!*
+Why? Because it feels like *revenge.* They've made their bed, and now they're going to sleep in it. They're the ones who chose the darkness—you're only making sure they can't wriggle out. Sure, it's a bit underhanded, but there's a difference: their darkness is *real* darkness, and yours is the good kind, only meant to defeat the real kind. You can't be soft on evil. *That's how it wins!*
 
 There's actually a deeper answer for why you do it, which we'll come to later. The question for now is *how* you provoke them.
 
 To make this intuitive, imagine if you could somehow send them a message that said: 
 
-> *I'm going to provoke you into embracing your darkness, to make sure you can't escape—and I'm going to get away with it, because I'm only "fighting evil."*
+> *I'm going to provoke you into embracing your darkness, and then I'm going to use it against you—but I'm going to get away with it, because even I won't know what I've really done.*
 
-That would certainly do the trick, wouldn't it? But only if it were sent on a **private channel**; something that nobody could ever prove you sent—*least of all yourself.* Because if others can't prove you sent it, then you can't be held accountable. And if you show them that *you yourself* don't know, then they're **really** trapped: they know they can't appeal to your better nature, because you believe this *is* your better nature. They'll already know how you'll turn their accusations against them: *How **dare** you? You're just projecting!*
+That would certainly do the trick, wouldn't it? But only if it were sent on a **private channel**; something that nobody could prove you sent—*least of all yourself.* Because if others can't prove you sent it, then you can't be held accountable. And if you show them that *you yourself* don't know, then they're **really** trapped: they know they can't appeal to your better nature, because you believe this *is* your better nature. And they know how you'll turn their accusations against them: *How **dare** you? You're just projecting!*
 
-Don't we already know this is how it works? Of course we do.
+That would *really* be maddening, wouldn't it?
 
 But how do you send a message that even you, by definition, can't know you're sending? And even stranger: how can you show them *that* you don't know it, in a way that's sure to reach them?
 
 ---
 
-First, notice that whatever they did wrong, they could only have done it by being *turned away* from their victims. Check if that's true—and if part of you already knew it intuitively, even before I told you. You also know that the *only* reason people turn away is to harm (or use) others without having to feel compunction. Check if some part of you already knew that, too.
+All you have to do is reveal **genuine darkness** to them, while believing it's righteous, or the "good kind." And as we'll soon see, there aren't even two separate steps there: the only way we *can* be dark is by convincing ourselves it is "good" in some twisted sense.
 
-Now, how could I, a stranger, know that you knew these things? The answer is that they are **common knowledge**—something we each know about each other, and that we know others know about us, etc.
+So how do we do that? Easy: turning away from a person **is** the darkness. Nobody turns away except to enable harm, and we can't enable harm without turning away. Can you imagine even the worst person doing wrong while *turned toward* their victim in the way you were turned toward the stranger? See if you can get that image to hold. We all know this instinctively.
 
-By being turned away from your target, you already know how they're going to receive it: as **malice**. And they *know* you know it, even though you won't admit it. And you know that, too, etc. That's how you can have a communication *beneath* the words, using tone and gaze alone. What you're actually communicating is:
+And your target knows it too. It is **common knowledge**—something we know about others, and know they know about us, etc.—but beneath our usual threshold of awareness. Implicitly. Which means you both know exactly what's happening here, but also that nothing will come of them naming it. What are they going to say, exactly? *He's being mean?*
 
-> *We both know I'm only doing the same thing you were—turning away to enable harm—but this time **you** are the victim, and nobody's going to feel sorry for you.*
+You're holding them in the very state that all harm comes from, showing them that you're doing it, and relishing their reaction. Which means you now know how a fundamentally decent person (you) can act in **profoundly dark** ways: not through some rotten essence, but simply by hiding from yourself that you are. And notice what your holding gives away. You wouldn't need to keep someone trapped there unless they could leave. So you know they're redeemable, and you're blocking their way back.
 
-Which means you know one more thing: how a fundamentally decent person—yourself—can act in *profoundly dark* ways. How you can keep a fellow being trapped in the place where harm originates, show them that you're doing it, how you'll get away with it, and how you'll sleep like a baby for it. 
+If that's not dark, what is? And that's exactly what makes it work. Your simple glance is revealing a bottomless pit of darkness, but in such a small dose that nobody can accuse you of it without sounding ridiculous. If it sounds ridiculous to you, just reflect on how effective our contempt is at making our enemies dig in. It wouldn't work unless both parties knew exactly what it implied.
 
-I won't mince my words: it is **evil** (insofar as there is such a thing—more on that soon). We normally reserve that word for wrongdoing of extreme size, but even the tiniest morsel of it carries the flavor of the whole thing. There is no "good kind." It is the thing we all hate, and the source of all hatred, and expressing it (even for a "good reason") only spreads it. It is what you saw in their eyes, and what you are revealing to them now.
+This is what we mean by **evil**, insofar as there is such a thing (more on that soon): the thing we all hate, and the source of all hatred, and expressing it (no matter how "good" the reason) only spreads it. There **is** no "good kind."
 
-You know full well that they will recognize it for what it is, and you're *counting on* them knowing it, because otherwise it wouldn't work.
+This is the great irony of contempt: we only treat people as irredeemable because part of us knows they're not. We're addressing the part of them we claim doesn't exist, because that's the only part of them that can recognize the horror of what we're doing to them, which is how we turn them into what we need them to be to justify our confused perception.
 
 This is getting heavy, so let's pause before continuing. When I say "you know" this, I mean that *part* of you does. The reason you must hide it from yourself is that you *couldn't do it if you saw it clearly for what it was.* Check that. It's a big hint about your true nature. You're not a bad person. 
 
 Okay, let's continue.
 
-Notice what else it means. You know how a decent person (you) can wield evil while feeling eminently righteous, so *you don't actually know they're irredeemable*. As far as you know, this person is just like you—meaning that with the right help, they could actually reform. And *we know how to do this*—how to serve justice without making people feel that "this is all you are." Which means you're *actively cutting off their hope of redemption*, knowing there's a better way.
-
-Before, you might have been able to tell yourself that sure, maybe they were "turned away" too or whatever, but that's just who they are; or that they chose to turn away due to some rotten essence that you lack. What you're seeing now is how that "choice" *doesn't require a rotten essence*. It just requires the right (wrong) circumstances.
-
-I'm presenting this as a sequence of deepening realizations, but that's only because prose requires linear unfolding. In truth, this is all part of that same common knowledge. What makes it "evil"—and thus what allows it to work—is that you both know **all** of it. It is an **open secret** that the purpose of contempt is to keep people trapped in the dark and get away with it. Otherwise it wouldn't work.
-
-So that's how the message reaches them. But remember, there's another half to the question. You need to show them the part of yourself that *doesn't know it's doing this.* Because if it read as open malice, it wouldn't be nearly as maddening (and thus wouldn't keep them trapped).
+We know what the message is, and how it reaches them. But there's another half to the question. You need to show them the part of yourself that *doesn't know it's doing this.* Because if it read as open malice, it wouldn't be nearly as maddening.
 
 How do you show them that you don't know?
 
@@ -133,13 +127,15 @@ Check it against the cases you'd already call evil, because the word has to cove
 
 **That** is what you're revealing through your eyes, and you know they'll recognize it *because* it is universal. That's the common knowledge from before, and it exists at an implicit level, which is why you might never have verbalized it.
 
-That is what permits the second conversation beneath the spoken one, and it is why gaze and tone are enough to carry it.
+That is what permits the second conversation beneath the spoken one, and it is why gaze and tone are enough to carry it. It says:
 
-The thing you're turned away from (your conscience) is also the thing that warns you when you *are* turned away from it. That's why we so rarely recognize when we're in it. Seeing it clearly would destroy it.
+> *We both know what's really going on here, and that neither one of us will be able to prove it—meaning you'll have no recourse, and I'll have nothing to feel guilty about.* 
 
 Your target can see the state you're in even though you don't. Because you don't. What they're seeing is *that* you don't.
 
-There's another way of looking at that message: you are trusting the part of you that can *prove* (that your behavior is good) over the part that *knows* (that it's wrong). You know *they* know you know it's wrong, and that they cannot prove it. And this pressures them to demote the part of themselves that knows—their conscience—in favor of the part that can prove. It feels like this:
+That's because the thing you're turned away *from* is also the thing that warns you when you *are* turned away from it. That's why we so rarely recognize when we're in it. Seeing it clearly would destroy it.
+
+There's another way of looking at that message: you're trusting the part of you that can *prove* (that your behavior is good) over the part that *knows* (that it's wrong). You know *they* know you know it, and that they cannot prove it. And this pressures them to demote the part of them that knows—their conscience—in favor of the part that can prove. It feels like this:
 
 > *If even the so-called "good people" will so easily embrace the darkness when they can get away with it, then why the fuck shouldn't I?*
 
@@ -199,5 +195,7 @@ This was all there to see if you had looked. That you were doing something under
 
 By turning away from your better nature, you turned away from theirs, and with it from everything your behavior would create. It's *all a single move.* The darkening of the world was implicit in it.
 
-Again, if this is horrifying, notice why: because **you don’t actually want to be doing it.** The horror is evidence that the darkness is not your nature. And through the common knowledge we’ve just traced, some part of you already knows that it cannot be anyone else’s, either.
+If this is horrifying, notice why: because **you don’t actually want to be doing it.** The horror is evidence that the darkness is not your nature. And through the common knowledge we’ve just traced, some part of you already knows that it cannot be anyone else’s, either.
+
+None of it was a choice you could have made differently. As long as you aren't fully aware of your own nature, you have to locate the darkness in someone else, and your eyes will show it, and the rest follows. It rarely feels like suspecting you might be evil; it feels like being sure about them. So this isn't a verdict on you. It's the not-knowing that must go.
 

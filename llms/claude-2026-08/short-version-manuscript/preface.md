@@ -4,7 +4,7 @@
 
 This work is my attempt to convey an insight about the nature of good and evil that arose from my practice (as well as plant medicines) many years ago. Alas, it is not one that I can claim to be fully living myself, by any stretch.
 
-What I saw was how I, specifically, was contributing to the horrors of the world—even while being flawlessly confident that I was one of the "good guys," valiantly fighting it. *Because* I was convinced of that. At the same time, I saw how an aspect of my mind had always known *exactly* how I was lying to myself. It was always there, patiently waiting to be remembered.
+What I saw was how I, specifically, was contributing to the horrors of the world—even while being flawlessly confident that I was one of the "good guys," valiantly fighting evil. *Because* I was convinced of that. At the same time, I saw how an aspect of my mind had always known exactly how I was lying to myself. It was always there, just patiently waiting to be remembered.
 
 ---
 
