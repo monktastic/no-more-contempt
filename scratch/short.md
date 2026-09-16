@@ -1,15 +1,6 @@
 ---
 ---
 
-
-
-
-
-
-
-
-This is the pattern I want to make visible: two people speaking in one register while something else passes between them through performance alone. The real antagonist is not either person, but a state that moves between them—using each person’s goodness as its disguise and each person’s reaction as its proof.
-
  
 ---
 

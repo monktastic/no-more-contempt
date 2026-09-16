@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/intro.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "chapter-1"
             }
           },
           {
@@ -228,6 +228,13 @@
   "active": "776b06fc2285f3c3",
   "lastOpenFiles": [
     "llms/claude-2026-08/short-version-manuscript/preface.md",
+    "llms/claude-2026-08/short-version-manuscript/intro.md",
+    "llms/claude-2026-08/misc/general-audience-abductive-argument.md",
+    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/misc/general-audience-cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/misc/general-audience-abductive-argument-scaffold.md",
+    "scratch/short.md",
+    "scratch/scratch.md",
     "llms/claude-2026-08/short-manuscript.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
     "short/chapter-3.md",
@@ -236,7 +243,6 @@
     "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
     "short/chapter-1.md",
-    "llms/claude-2026-08/short-version-manuscript/intro.md",
     "short/intro.md",
     "appendix/3.md",
     "quotes.md",
@@ -248,13 +254,7 @@
     "short",
     "appendix/2.md",
     "appendix/index.md",
-    "appendix/1.md",
     "appendix",
-    "map/part-f.md",
-    "map/part-e.md",
-    "map/part-d.md",
-    "map/index.md",
-    "map/part-c.md",
     "map",
     "book",
     "_site/short/chapter-4/index.html",
