@@ -1,4 +1,4 @@
-*Written by Claude, with my guidance.*
+*Written with Claude's help.*
 # Appendix 2: What Others Have Seen
 
 *Place late in the book. This is scholarship, not positioning, and it only reads that way once the reader can judge the comparisons for themselves.*
@@ -37,7 +37,7 @@ What he's written is a catalogue of how people get there. What I'm after is what
 
 His moves are described as techniques a person uses. Mine is a single act, not a list: a turning-away that requires and produces all of them. I think his catalogue is the shape that one act makes when you observe it from outside and write down what you see.
 
-**Braithwaite** got the two strangers, with data. Shaming that condemns the act while keeping the person inside the circle produces reform; shaming that converts the act into an identity produces recidivism and criminal subcultures. That is my Chapter 1, tested at scale in the criminal justice system, and I should have found it years earlier than I did.
+**Braithwaite** got the two people who caught you, with data. Shaming that condemns the act while keeping the person inside the circle produces reform; shaming that converts the act into an identity produces recidivism and criminal subcultures. That is the two catchers, tested at scale in the criminal justice system, and I should have found it years earlier than I did.
 
 Where it stops is the *why*. He shows that stigmatising shaming makes people worse. He doesn't say what stigmatising shaming *is*: what passes through it, why it's the one form of harm that leaves no evidence, or why the person delivering it can't see what he's doing. That's most of this book.
 
