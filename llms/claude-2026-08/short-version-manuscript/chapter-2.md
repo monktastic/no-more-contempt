@@ -1,6 +1,7 @@
 # Chapter 2: Common Ground
 
 Chapter 1 ended on a hint: you couldn't have done it if you'd seen it clearly. That suggests something larger. If awareness were neutral between care and harm, why would harming someone require turning away from it? Why couldn’t cruelty proceed in full, undivided awareness? The simplest explanation is that care belongs to awareness itself. That care is what this book has been calling the light, and it's all the word will mean.
+[TODO(readers): Half-seer: 'it didn't do anything to me… I noticed I was nodding without anything having happened.' The chapter is explanation with no check in it. Consider giving it one thing to try.]
 
 Familiar explanations for wrongdoing (motivated reasoning, a self-image to protect, the avoidance of shame) don't compete with this. Each presupposes that turning away: motivated reasoning is what the part that proves does once the view has already gone. And each inherits the blind spot. From inside, none of them can be seen operating. So darkness is not an equal and opposite force. It is simply what remains when awareness turns away from its own nature.
 
@@ -24,5 +25,8 @@ This is not a call to be nice. Harm still has to be stopped, sometimes fiercely.
 
 Turned away, othering, evil: these are names for one thing, seen from three sides. And it never stays confined to your skull. It goes out through your eyes and your tone whether you meant to send it or not, and it lands, making it easier for the next person to do. The same goes for the other side. Being turned toward, seeing yourself in others, love, goodness: all one thing. 
 
-And since what you turn toward in yourself is what looks out of everyone, turning toward yourself and turning toward everyone are the same act. It's only the real thing when it includes everyone, because love with an exception is love for you and yours. So there is no neutral. Whenever you're not fully turned toward, you're leaking, and what leaks is what the sigh carried.
+And since what you turn toward in yourself is what looks out of everyone, turning toward yourself and turning toward everyone are the same act. It's only the whole thing when it includes everyone. Not because partial love is fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love. It's the darkness borrowing love's equipment. So there is no neutral. Whenever you're not fully turned toward, you're leaking, and what leaks is what the sigh carried.
+[TODO(readers): Wise reader: nobody is fully turned toward except in moments; told there's no neutral, a beginner hears that they poison the world between moments, which produces hiding. The softening sentence after this helps; consider whether the claim itself needs 'mostly'.]
+
+That isn't a reason to be afraid of yourself between moments; being frightened of the leak is the same move, aimed inward.
 

@@ -16,7 +16,7 @@ Look at what you watched it do in Chapter 1. It aimed the verdict, anticipated t
 
 A parasite. 
 
-I'll call it that from here, because the word fits the behavior, and for no other reason. In the Mahayana's terms it isn't "ego" in the everyday sense, a big personality. It's closer to self-cherishing: the mind that counts itself as the one exception. The exception is the ego. The parasite is the ego defending it, and contempt is the defense at full volume.
+I'll call it that from here, because the word fits the behavior, and for no other reason. If the word makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. A habit that lives by going unseen will push back when seen. That's all a habit is, and it doesn't need a tenant. In the Mahayana's terms it isn't "ego" in the everyday sense, a big personality. It's closer to self-cherishing: the mind that counts itself as the one exception. The exception is the ego. The parasite is the ego defending it, and contempt is the defense at full volume.
 
 When you send that message to the "bad person," it's as though your parasites are collaborating—reinforcing each other under your conscious awareness. You attacked them in the first place because theirs resonated with yours. The result is that each gets strengthened, while hiding themselves better from each of you.
 
@@ -25,6 +25,7 @@ So in a sense, they all want the same thing: a darker world, in which they becom
 Why should separate parasites want the same thing? Because the darkness has no substance of its own. It is a turning away, and two turnings-away have nothing in them to differ by. That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing, and why more than one tradition that looked hard ended up naming an adversary. Mara. The Devil. I'll borrow that name too when it helps, since it's the one everybody knows. They were seeing something real. Their one error was granting it substance. So there's a paradox to hold with both hands: it isn't real, and it must be fought. Treat it as an essence and you get contempt. Treat it as harmless and you get complicity.
 
 It doesn't care who you hate, as long as you hate. Watch two of them go to war. Both grow. Every side comes out more certain the problem lives in the other. King said darkness cannot drive out darkness, and the reason is that it was never trying to. Its purpose is to provoke the darkness on the other side.
+[TODO(readers): Fighter put the book down for a day here: 'the sentence every centrist uses to make the man building the camp and the woman trying to shut it equivalent.' He then granted that you say the darkness is the same, not the sides. Consider saying that in so many words: the sides are not equal; what leaks from the eyes is.]
 
 Which also says what you're feeling when you feel contempt. Not the sign that you've spotted evil, though you have. A tug, to be recruited into the thing you're looking at, and it uses your accurate perception of it as the hook.
 
@@ -38,9 +39,9 @@ Say it the other way around, because this is what was under the answer at the en
 
 We are all trying to find our way home, not realizing that this cannot be done at another's expense (by keeping them from it). The pattern is kept alive by the subtle fear that we don't deserve home, because we secretly fear what we've done, and thus what we must *be*. And what we've done, mostly, is keep others out. That closes the loop. The suspicion makes us turn away; turning away is the one thing that would confirm the suspicion, if we looked; so we don't look, and we go on needing bad people.
 
-That's the second answer to why, under the horror at the end of Chapter 1. There's a third, under both. Fear. Fear of what you might be. That's the one thing you can't afford to look at, so the fear keeps you from looking, and not looking gives you more to fear. Pride is the fear's public face: the certainty that you're one of the good ones, gripped so hard that it shows how little you trust it. Shame is its last defense. The moment you glimpse your own darkness, shame says *you are it*, and you go straight back into hiding, which is where the parasite lives. Nobody who felt safe in their own nature would need any of the three. (And if the traditions are right, there's one more layer under the fear, with nobody in it to be afraid; Appendix 3 says how.)
+Under both of those is fear: fear of what you might be. Pride is the fear's public face, and shame is its last defense, the thing that says *you are it* the moment you glimpse your own darkness and sends you back into hiding. (The traditions put something with no motive before the fear; Appendix 3 says what.)
 
-And that's what makes it possible to stay turned toward someone at their worst. Under the contempt there is no pure malice. There's someone afraid of what they are, calling it certainty, and defending it with everything they have. You've been in that state. Chapter 1 was a taste of it.
+That's what makes it possible to stay turned toward someone at their worst: under the contempt there is someone afraid, and you know that state.
 
 This is why the only solution is to recognize (and actualize) our innate goodness. Everything else just leads to more harm, even as we're flawlessly convinced we're *helping*. Trying to simply be a "good person" often recreates the idea of "bad people," ensuring the dynamic continues.
 
@@ -54,11 +55,12 @@ Watch what your verdict does to them once it lands. They've just watched someone
 
 > *Look how easily I can take over even the "good people." Genuine goodness is a myth—a name that "good people" use to cover what they really want.*
 
-So their conscience, which knew better and couldn't prove it, now looks a little more naive to them. Next time they harm someone, the excuses come a little faster and they stop seeing the victim a little sooner, and the conscience, which is still there, is held down a little harder. Nobody notices one step. But the murderer, the abuser, the man in the news you can't look at: each of them is this one step, taken thousands of times, and every step was pushed by somebody sure they were fighting evil. You think your contempt is punishing what they became. It's building it.
+So their conscience looks a little more naive to them, and next time the excuses come a little faster. Nobody notices one step. The murderer, the abuser, the man in the news: each is this one step, taken thousands of times. You think your contempt is punishing what they became. It's building it.
 
 (You may be wondering about the people who seem to be born this way, or who get there for no reason anyone can find. There are answers on offer, from genetics to karma, and none of them is needed here. However they got there, what you're looking at is the same turned-away state, and it reads the same from outside. It doesn't change the state they're in *now*, or how to treat them.)
 
 Here is what's strange about being at the far end. The part of us that would notice we've drifted is the part we've drifted from, so the further gone we are, the less of it we can hear. That much is obvious. What isn't obvious, and what I can only report, is that the knowing doesn't shrink. It grows, because there's more harm for it to register. So the most lost person is carrying *more* of that knowledge than you are, not less, and holding it down harder, with more of themselves committed to the holding. They know the most and the least at once.
+[TODO(readers): Three readers: the unverifiable report carries 'they need the most love.' The scientist: the closest evidence (psychopathy) points the other way. Consider marking this whole passage, through the hostage, as what you believe, the way Appendix 1 does at its door.]
 
 Ask what you're looking at when you look at such a person and feel that particular horror. It isn't a hole where a person should be, whatever the verdict says. What produces that horror is something under pressure, pressing to get out: a conscience under crushing load, showing through. And the parasite holding it down is using your contempt to help. Every time your verdict arrives, it presses on the one part of them that could end this. You think you're looking at a monster showing you what it is. You're looking at a hostage, held up to a window.
 
@@ -74,6 +76,10 @@ If the person you're carrying is somebody who hurt you, or your child, or your p
 
 Look at who is relieved when you hold it. Not the person. The parasite in them, which needed you to see them that way, because your contempt is the evidence it runs on: *see, this world is a war, and the only thing that works is power.* Now you're doing what you did in Chapter 1, and it doesn't matter that you're right about what they did.
 
+I want to say this part carefully, because if you were hurt, you have every reason to hear it as one more person telling you how to feel. You have earned things. Your rage, your refusal, your distance, and whatever it takes to make sure it never happens again: all of that is yours. But that license, the one that says you've also earned a little darkness of your own: look at where it comes from. It doesn't come from the hurt. It comes from the same darkness that hurt you. That darkness wants you to take the license, because nothing proves its case better than a good person who was wronged and turned dark. Look at what it gets if you do: the person with the least reason to serve it, serving it. And the pull to do so is strongest here, because here you can see the darkness more clearly than anywhere else, and it uses that clear sight as the hook. You, of all people, deserve to know that.
+
+And what actually frightens it is the other thing: fierce, unyielding refusal that carries no verdict. That isn't a nice idea from a book. It's among the most effective forces in the history of people facing power they couldn't match, and it works for the reason the second person worked on you: it gives the thing nothing to eat. It is also much harder than contempt, which is why contempt gets sold to you as the strong option.
+
 And the most common contempt of all is the one you aim at yourself: *you are what you did.* It feels like accountability. It produces what contempt always produces, which is hiding. The way you hold your own darkness is the way you'll end up holding theirs, and it's true of you first.
 
 ---
@@ -86,7 +92,8 @@ If someone had opposed it with contempt ("you're all evil!"), that too would hav
 
 And most contempt isn't performed at all. It's consumed. Bring up a scene of somebody getting exactly what they had coming, delivered with relish. It feels good, and it wants more. That's the parasite, watching. It's why this wrong, of all wrongs, spreads: it leaves no record, it arrives dressed as duty, it's rewarded in public, and it's pleasant to watch. Comment sections, the shared post, the outrage we pass around: each one negligible, and together they set how dark everyone assumes the world is. The background hum of the Devil, if you like the name.
 
-There's a historical reason this one matters most now. Most of what we now call evil was once respectable. Slavery had its defenders in most pulpits, and the people who kept slaves thought of themselves as decent. One by one, those evils got recognized and disavowed, at least in principle. Contempt may be the last one we still praise as a virtue. That, together with the fact that nobody can prove it, is what makes it the evil of our moment. And it's why the others are so hard to stamp out: we fight every one of them *using* it.
+Most of what we now call evil was once respectable. Contempt may be the last one we still praise as a virtue, and it's why the others are so hard to stamp out: we fight every one of them with it.
+[TODO(readers): Fighter: 'Not in our sangha. In our sangha the vice we praise as a virtue is patience.' The book is aimed at one failure and some communities are drowning in the other.]
 
 Notice how the parasite operates: one part of you doing your "dirty work" for you, while another part keeps its hands clean. Remind you of anything? *Plausible deniability.* This is where it finds its origin, in each of our minds.
 
@@ -102,11 +109,12 @@ This is the truth behind the "evil global conspiracy." No explicit central consp
 
 Turning toward / away isn't binary, and most of it has no enemy in view at all. It's the water: the ordinary day, the small self-serving move with nobody in front of you and nothing you'd call a wrong. Every act of unkindness, every skirting of conscience, every self-serving behavior lives somewhere along the spectrum, and encourages more turning away in the world. Each such action carries it, the way the stranger's did through nothing but a look.
 
-This is what the draw in the interlude was measuring. Not whether you've done anything terrible, but how much contempt you're still capable of, toward anyone, for any reason. To the degree it's there, the road to the worst is open, and what's left is time and conditions. The murderer and the abuser didn't start there. They started where you are, and nothing about you guarantees you'd have turned out differently.
+This is what the draw in the interlude was measuring. Not whether you've done anything terrible, but how much contempt you're still capable of, toward anyone, for any reason. To the degree it's there, the road to the worst is open, and what's left is time and conditions. The murderer and the abuser didn't start there. They started where you are, and nothing about you guarantees you'd have turned out differently. That isn't said to frighten you. The road is open in both directions, and the way back is the same looking.
 
 Hiding takes effort; it isn't our natural state. But the better someone gets at it, the less it looks like darkness. The smartest hide it behind agendas that look shiny from outside and are rotten inside, eating away at the world in ways that are hard to detect until it's too late.
 
 Look behind any of the tragedies (toward people, animals, nature itself) and you will find turning away. Animals being abused in factory farms. Prison inmates subjected to dehumanizing conditions. Rainforests being cut down for profit. Each requires the same *turning away*.
+[TODO(readers): Fighter and scientist: most large harm is the cold form (nobody in view, a spreadsheet), and the hot mechanism doesn't cover it. Consider a paragraph here on how the two connect.]
 
 And it goes further than living things. We think of contempt as something we feel toward people. But simply by perceiving reality as a lifeless collection of stuff over which we hold dominion, we've already turned away from it, and every system of extraction and destruction on Earth rests on that. Here's a check that needs no metaphysics. Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody takes a hammer to a stone arch that took ten thousand years to form, for the pleasure of watching it fall. Notice what you feel, and whether it arrives before any story about who was deprived. The tree has no conscience and the arch has no inside. Whatever you're registering, see whether it lands in the place where the violation of a person lands. Contempt for the world is the same act as contempt for a person, albeit in a subtler form.
 
