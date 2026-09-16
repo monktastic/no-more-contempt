@@ -165,6 +165,7 @@ He can't hide that he's hiding. The hiding is the revealing. You both know it, n
 - **T1** - The devil is in the details. Nearly any agenda (e.g., political) can be implemented with compassion or contempt. People can sense what the intention of the originator is, and it influences their implementation; thus it can create great harm or great good. But people are too busy arguing about the outward, overt goals (the provable stuff).
 
 - ▹ **T1** - Why contempt uniquely scales: self-exception + no record + performed publicly and rewarded + pleasurable to watch. The spectator seat is a transmission channel; most contempt is consumed, not performed.
+  - **T1** - Historically, most of what we now call evil was once respectable (slavery). Contempt may be the last evil still praised as a virtue. That, plus its unprovability, makes it the evil of our moment, and it's why the other evils are so hard to stamp out: we fight each of them with it. (Short book, Chapter 3, after the consumed-contempt paragraph.)
 
 ## 6. The wanting
 
