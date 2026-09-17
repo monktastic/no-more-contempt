@@ -41,7 +41,7 @@ There are two kinds of judgment. One sees that a behavior is harmful and moves t
 
 "The ends justify the means" is the same kind of phrase. It has a benevolent reading, and a dark one: what matters is the outcome, not what I intended. Holding that thought takes not looking at what you intended, and not looking is exactly what lets the intention leak out and become an outcome of its own.
 
-Fierce is where the darkness finds it easiest to get in. From outside, fierce and dark look alike, and it counts on our not wanting to tell them apart. But we can tell, from the sending end, if we're willing to look: that little something extra, added to the fierceness on its way out, that you knew they'd feel.
+Fierce is where the darkness finds it easiest to get in. It is the one place where contempt has a perfect alibi. From outside, fierce and dark look alike, and it counts on our not wanting to tell them apart. But we can tell, from the sending end, if we're willing to look: that little something extra, added to the fierceness on its way out, that you knew they'd feel. Beware: we almost always believe we're doing the clean one, even when we're not.
 
 Here is what it sounds like. *That was out of line, and it stops now.* And the same words with the extra: *That was out of line, and it stops now*, followed by the half-second pause to watch it land. *I don't think you understood what that did to her.* With the extra: *I don't think you're capable of understanding what that did to her.* *You lied to me.* With the extra: *Of course you lied to me.* Each time the difference is one word or one pause, and each time you know, on the way out, which one you sent.
 
@@ -51,7 +51,7 @@ But merely *believing* they're possessed fails too, in the other direction. You'
 
 Check it. Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing. And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. The innocence you can see in others is a measure of your own freedom, not of their goodness. That's why seeing all the way into somebody far gone may be the work of a lifetime, and I don't have it, and why the near end is available now: catch yourself wanting them to be what you've decided they are, and notice, as the verdict settles, that something in you was after it.
 
-You cannot see the parasite in someone else while you're hiding from it in yourself. Not won't; cannot. What lets you recognize it in another person is that you know it from the inside, the way you could read the state of the person you sent that message to, because you'd been in it yourself. So the skill doesn't get built by studying other people. It gets built by whatever lets you stop turning away from your own, and the freer you get, the better you see it in others, and the less you fall for the trap. Which is also its own trap, and the one I fall into most: contempt for the people who still have contempt.
+I don't think you can see the parasite in someone else while you're hiding from it in yourself. What lets you recognize it in another person is that you know it from the inside, the way you could read the state of the person you sent that message to, because you'd been in it yourself. So the skill doesn't get built by studying other people. It gets built by whatever lets you stop turning away from your own, and the freer you get, the better you see it in others, and the less you fall for the trap. Which is also its own trap, and the one I fall into most: contempt for the people who still have contempt.
 
 ---
 
@@ -71,7 +71,7 @@ It's also why the book opened with one person and not with everything. Turning t
 
 What is yours is how fast you catch it afterward: days, then hours, then sometimes in the moment. That is trainable, and it is the only part of this that improves with effort.
 
-And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight.
+And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight. It comes back, and you look again; the first several times you may find only a tight chest and the story. The traditions also have practices built for the person you can't stand; Appendix 3 names them, and they're worth taking to a teacher.
 [TODO(readers): The fuller instruction is parked. Both the wise reader and the half-seer said this is the page the book was missing; it should be yours. The wise reader adds: 'it doesn't feel like wisdom, only ordinary, and the verdict still forms on bad days.']
 
 The only way to end it is by turning people back toward, and the only way to do that is by turning toward yourself.
