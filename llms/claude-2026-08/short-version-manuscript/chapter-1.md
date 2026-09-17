@@ -57,9 +57,9 @@ I'll just go ahead and name what's happening. A dark part of my mind—a part th
 
 How could it know how they'll receive it?
 
-Because we **all** do. Go ahead and check that in yourself—not only that you know that contempt is dark, but that you can rely on your target to know it, and for them to know you know it, etc. It feels something like a *hall of mirrors.* It is, in a sense, **common knowledge** that we turn away from one another to license harm that we otherwise could not.
+Because we **all** do. Go ahead and check that in yourself—not only that you know that contempt is dark, but that you can rely on your target to know it, and for them to know you know it, etc. It feels something like a *hall of mirrors.* It is, in a sense, *common knowledge* that we turn away from one another to license harm that we otherwise could not.
 
-That's what makes it so provocative: it's not just that they feel what it means; it's that we know they feel it, and they *know* we know they feel it (so it comes across as intentional), and we know they know that, too (which is why we can rely on it working), etc.
+That's what makes it so provocative: it's not just that they feel what it means; it's that we know they feel it, and they *know* we know they feel it (so it comes across as intentional), and we know they know that, too (which is why we can rely on it working), etc. (Why it should exist as common knowledge is, I think, a hint about the nature of awareness itself. I say more about that in Chapter 2 and Appendix 1.)
 
 When I say it hides itself from me, I don't mean it keeps me from sensing something dark—that's impossible, and I did sense it. It just convinces me it's the *good kind* of darkness: the kind all good people must harbor to keep *real* evil in check. See if you've had that feeling before, too.
 
