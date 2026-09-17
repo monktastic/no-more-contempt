@@ -1,8 +1,8 @@
 # Email to Jake Orthwein
 
-Hi Jake,  
+Hi Jake,
 
-I recently watched a podcast you did and some of your other work. I was struck by how clearly you communicate profound ideas, especially Buddhist ones.
+I recently watched the Seeing Clearly podcast you did and some of your other work. I was struck by how clearly you communicate profound ideas, especially Buddhist ones.
 
 That made me think a collaboration might be interesting. I’ll start with a claim I think you’ll either recognize immediately or want to argue with.
 
@@ -12,7 +12,9 @@ My claim is that this can work only because each of you already knows, at some l
 
 That's the short version of a book I've been writing about contempt: what it is, how it passes between people, and why contemplative traditions so often converge on the image of a single adversary. The Buddhist account of ignorance is in it, and is given an interpersonal form. It also makes a claim I suspect you may want to push on: reason can serve goodness, but it cannot generate the orientation by which goodness is known. The belief that it can is not merely a mistake; it is the adversary’s modern disguise.
 
-I put a ~4000-word version [here](https://www.nomorecontempt.org/short/). The first chapter is the mechanism, the second is what it suggests, the third is where it goes.
+You could say my book is an attempt to provoke an encounter with what "all of your cognition is organized around avoiding" :)
+
+I put a short ~4000-word version [here](https://www.nomorecontempt.org/short/). The first chapter is the mechanism, the second is what it suggests, the third is where it goes.
 
 I think this may come across more directly in speech and film than in writing. The part that spreads through contempt travels through tone, gaze, timing, and performance: a second channel operating while the words deny that anything is happening. Film can make that channel perceptible in a way argument alone can't.
 

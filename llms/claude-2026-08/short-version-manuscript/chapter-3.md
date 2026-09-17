@@ -24,7 +24,7 @@ So in a sense, they all want the same thing: a darker world, in which they becom
 
 Why should separate parasites want the same thing? Because the darkness has no substance of its own. It is a turning away, and two turnings-away have nothing in them to differ by. That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing, and why more than one tradition that looked hard ended up naming an adversary. Mara. The Devil. I'll borrow that name too when it helps, since it's the one everybody knows. They were seeing something real. Their one error was granting it substance. So there's a paradox to hold with both hands: it isn't real, and it must be fought. Treat it as an essence and you get contempt. Treat it as harmless and you get complicity.
 
-It doesn't care who you hate, as long as you hate. Watch two of them go to war. Both grow. Every side comes out more certain the problem lives in the other. King said darkness cannot drive out darkness, and the reason is that it was never trying to. Its purpose is to provoke the darkness on the other side.
+It doesn't care who you hate, as long as you hate. Watch two of them go to war. Both grow. Every side comes out more certain the problem lives in the other. King's line from Chapter 2, that darkness cannot drive out darkness, has a reason behind it: it was never trying to. Its purpose is to provoke the darkness on the other side.
 
 This is not the claim that the two sides are the same, or equally right, or equally dangerous. They usually aren't, and you may well be on the side that's right. The claim is only about what goes out through the eyes. That part is the same on both sides, and it's the one part of your fight that feeds what you're fighting.
 
@@ -91,7 +91,7 @@ Now imagine a locker room. Ten men, gathered around. One makes an off-color joke
 
 If someone had opposed it with contempt ("you're all evil!"), that too would have reinforced everyone's (including the person's who opposed it).
 
-And most contempt isn't performed at all. It's consumed. Bring up a scene of somebody getting exactly what they had coming, delivered with relish. It feels good, and it wants more. That's the parasite, watching. It's why this wrong, of all wrongs, spreads: it leaves no record, it arrives dressed as duty, it's rewarded in public, and it's pleasant to watch. Comment sections, the shared post, the outrage we pass around: each one negligible, and together they set how dark everyone assumes the world is. The background hum of the Devil, if you like the name.
+And most contempt isn't performed at all. It's consumed. Bring up a scene of somebody getting exactly what they had coming, delivered with relish. It feels good, and it wants more: the *fuck yeah* from the interlude. That's the parasite, watching. It's why this wrong, of all wrongs, spreads: it leaves no record, it arrives dressed as duty, it's rewarded in public, and it's pleasant to watch. Comment sections, the shared post, the outrage we pass around: each one negligible, and together they set how dark everyone assumes the world is. The background hum of the Devil, if you like the name.
 
 Most of what we now call evil was once respectable. Contempt may be the last one we still praise as a virtue, and it's why the others are so hard to stamp out: we fight every one of them with it.
 [TODO(readers): Fighter: 'Not in our sangha. In our sangha the vice we praise as a virtue is patience.' The book is aimed at one failure and some communities are drowning in the other.]
