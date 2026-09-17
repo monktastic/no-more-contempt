@@ -20,7 +20,7 @@ Try and feel what you're showing them through your gaze. Is it just anger? Just 
 
 > *This is all you are.*
 
-Something in you wants this verdict to *land*; to register deep inside. Can you feel that? When we think this way about someone, it's very hard to avoid telegraphing it.
+Something in you wants this verdict to *land*; to register deep inside. Can you feel that? When we think this way about someone, it's very hard not to deliver it.
 
 This overlooking of their humanity is what I'll call being _turned away_: you cannot see yourself in them. The everyday word for it is *othering*. And the need to make the verdict land is _contempt_: turning-away made into a message, with the sense that sending it is righteous.
 
@@ -28,13 +28,12 @@ Now, how do they react? Does it make remorse easier—or do they double down, fe
 
 Usually the latter.
 
-Didn't some part of you already know this would happen? And yet you did it anyway. Why?
-[TODO(readers): Flagged in all three rounds as answering before the reader looks. One reader: 'sometimes, honestly, no; sometimes the person folds and gets better.' Consider asking it open: 'Did some part of you know?']
+Couldn't we have predicted this would happen? So why do we do it anyway? Is it just because we believe it will still be a net positive—or might something else be going on in there?
+
 
 ---
 
 I'll describe what it's like when I'm in your shoes, and you can check if you recognize yourself in any of it.
-[TODO(readers): Fighter: the monologue assumes the target of my contempt is its audience; in a real fight the audience is the room (the thirty undecided on the list). Consider one line on third parties: who else receives the look.]
 
 Part of me senses something *dark* about the message I'm conveying, but I can't quite place it. Yet if I were on the receiving end, I would recognize it **instantly**. The message *this is all you are* carries an implicit threat: *... and therefore your wellbeing has ceased to matter.*
 
@@ -58,10 +57,9 @@ I'll just go ahead and name what's happening. A dark part of my mind—a part th
 
 How could it know how they'll receive it?
 
-Because we **all** do. Go ahead and check that in yourself—not only that you know how your contempt lands on others, but that some part of you knows that we *all* know it. It is **common knowledge**—something that we not only know, but know that others know, and that they know *we* know, etc. That's true of the rule, that turning away is for harm. The particular encounter needs only the first few levels of it, and it has them.
-[TODO(readers): Half-seer: 'I checked. I found that I know how my contempt lands. I did not find that I know that everybody knows that everybody knows. I found that I was being told I had found it.' Wise reader: what the receiver knows is one thing, instantly; it doesn't feel like a stack. Consider letting the hall of mirrors be something the reader may recognize rather than the step the argument needs.]
+Because we **all** do. Go ahead and check that in yourself—not only that you know that contempt is dark, but that you can rely on your target to know it, and for them to know you know it, etc. It feels something like a *hall of mirrors.* It is, in a sense, **common knowledge** that we turn away from one another to license harm that we otherwise could not.
 
-That's what makes it so provocative: it's not just that they feel what it means; it's that we know they feel it, and they *know* we know they feel it (so it comes across as intentional), and we know they know that, too (which is why we can rely on it working), etc. It can feel like a hall of mirrors. Check if you've felt that before, perhaps on the receiving end.
+That's what makes it so provocative: it's not just that they feel what it means; it's that we know they feel it, and they *know* we know they feel it (so it comes across as intentional), and we know they know that, too (which is why we can rely on it working), etc.
 
 When I say it hides itself from me, I don't mean it keeps me from sensing something dark—that's impossible, and I did sense it. It just convinces me it's the *good kind* of darkness: the kind all good people must harbor to keep *real* evil in check. See if you've had that feeling before, too.
 
@@ -125,6 +123,7 @@ Turning away from yourself; from your conscience; from your profound commonality
 Check it against the cases you'd already use that word for. The murderer: he had to be turned away from his victim. The executive who signs off on the part he knows will fail. The official whose decision will cost lives but get him re-elected. It's one thing in all of them: real people, kept out of view, so that the harm doesn't register as harm. 
 
 Malice, indifference, negligence, and contempt are different forms of the same move. Malice is the one that presents itself as dark. Contempt is the one that's also aimed, and shows, and *needs to know it's received* (while also pretending not to).
+
 
 We all know what it is, while pretending not to, and that is why it works. That's the common knowledge from before, and it exists at an implicit level, which is why you might never have verbalized it.
 
@@ -192,7 +191,8 @@ Notice, too, that you never get both views of one instance. Your own turning awa
 And look what "it" was doing while in control. When you make your enemies dig in, does the harm end with them? No. It ripples out, with no clean boundary—and some part of you knew that too. 
 
 Our contempt makes the **world as a whole** darker. Every time it's shown to someone and lands, it's easier for them to do, and for everyone they do it to, whatever unique form theirs might take. That's how the thing behind the atrocities is fed by a sigh.
-[TODO(readers): Fighter: 'the camps are fed by a budget line, a legal memo, and a party that needs a scapegoat.' The scaling from a sigh to atrocity is asserted; the cold form is conceded in Appendix 1. Consider one sentence on how contempt feeds a cold machine (it builds the categories and the cover) rather than powering it.]
+
+All of this was the simplest case: two people, and a look. Most contempt also has an audience (the room, the feed, the people on the email thread), and they receive it too; Chapter 3 takes that up. And it holds even when nobody's face is involved. Take the executive from before, who never sees the people his decision hurts. Your contempt reaches him, if it reaches him at all, as *these people are unhinged*, or *hypocrites*, and he goes back to his spreadsheet a little more sure that nobody shouting at him is worth hearing. And part of us *needs* that reaction, because it makes our judgement of him feel more justified. That need is the only part to drop. The outrage at the harm stays, and so does the fight to stop it. And the only way to drop it is to stop seeing the coldness as what he *is*, which requires seeing that it isn't what we are, either.
 
 Again, none of this should be new to you, if the message ever worked. For it to work at all, you had to already know that your enemies aren't identical with their darkness, and that treating them as if they were only shoves them deeper into its grip, even as you believe you're doing the opposite. You *had* to know this, for that dark message to function or even be coherent.
 
@@ -208,8 +208,7 @@ For me, that knowledge was too horrifying to let into full awareness, and I don'
 
 *That* is the message we're actually sending to "evil people" through our cruelty:
 
-> *You will be humanity's sacrifice. The dumping ground for our collective shadow. That way, we never have to face what is inside us. Good luck.*
-[TODO(readers): Two readers hear the author enjoying this sentence ('Jung with the volume up'). The wise reader: horror at your own darkness is a stage, and the prose spends its heat there with a paragraph on what comes after. Consider whether this block needs its volume.]
+> *You will be humanity's sacrifice. The dumping ground for our collective shadow. That way, we never have to face what is inside us.*
 
 This was all there to see if you had looked. That it wasn't the "good kind" of darkness, because there's no such thing. That it would raise the net animosity in the world. And that this would give your own darkness more cover.
 

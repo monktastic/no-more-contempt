@@ -24,7 +24,7 @@ Where it stops is on the other side of the exchange. Projection, in Jung, is som
 
 **Girard** got the arrangement. The crowd needs its victim to be guilty; the violence is contagious; the peace afterward is real and is bought with somebody. He also saw that the participants cannot know what they're doing and have it still work, which is the same structural point I've been making about limbo, at the scale of a mob.
 
-Where it stops is the pair. Girard explains a crowd extremely well and two people in a parking lot hardly at all. And his scapegoat is more or less arbitrary; the crowd's finger could have landed anywhere. In what I'm describing, the target isn't arbitrary and isn't only selected. He's *produced*: provoked into supplying the evidence, so the verdict comes out true.
+Where it stops is the pair. Girard explains a crowd extremely well and two people face to face hardly at all. And his scapegoat is more or less arbitrary; the crowd's finger could have landed anywhere. In what I'm describing, the target isn't arbitrary and isn't only selected. He's *produced*: provoked into supplying the evidence, so the verdict comes out true.
 
 **Arendt** got the not-looking, and named it better than I have. "Thoughtlessness" is exactly right, and her insistence that this needn't come with monstrous intent is what makes the whole subject approachable.
 

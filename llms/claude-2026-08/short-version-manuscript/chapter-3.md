@@ -25,7 +25,8 @@ So in a sense, they all want the same thing: a darker world, in which they becom
 Why should separate parasites want the same thing? Because the darkness has no substance of its own. It is a turning away, and two turnings-away have nothing in them to differ by. That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing, and why more than one tradition that looked hard ended up naming an adversary. Mara. The Devil. I'll borrow that name too when it helps, since it's the one everybody knows. They were seeing something real. Their one error was granting it substance. So there's a paradox to hold with both hands: it isn't real, and it must be fought. Treat it as an essence and you get contempt. Treat it as harmless and you get complicity.
 
 It doesn't care who you hate, as long as you hate. Watch two of them go to war. Both grow. Every side comes out more certain the problem lives in the other. King said darkness cannot drive out darkness, and the reason is that it was never trying to. Its purpose is to provoke the darkness on the other side.
-[TODO(readers): Fighter put the book down for a day here: 'the sentence every centrist uses to make the man building the camp and the woman trying to shut it equivalent.' He then granted that you say the darkness is the same, not the sides. Consider saying that in so many words: the sides are not equal; what leaks from the eyes is.]
+
+This is not the claim that the two sides are the same, or equally right, or equally dangerous. They usually aren't, and you may well be on the side that's right. The claim is only about what goes out through the eyes. That part is the same on both sides, and it's the one part of your fight that feeds what you're fighting.
 
 Which also says what you're feeling when you feel contempt. Not the sign that you've spotted evil, though you have. A tug, to be recruited into the thing you're looking at, and it uses your accurate perception of it as the hook.
 
@@ -66,7 +67,7 @@ Ask what you're looking at when you look at such a person and feel that particul
 
 And the hostage isn't struggling. From inside, the thing holding him doesn't present itself as a captor. It presents itself as his judgment, his seriousness about what's wrong with the world. The captor has become his best friend; that's Stockholm syndrome, and it's why the people who appear to want their darkness are the ones most fully taken. Being unkind to him is allying with his captor, because the urge to do it comes from yours.
 
-That's why "they need the most love" isn't sentiment. It's what follows. They're carrying the most, under the most pressure, with the least access to relief, and every instinct we have adds to the load.
+That's why "they need the most love" isn't sentiment, and it doesn't mean anything soft. They're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who see it most. What they need is what the second person gave you: someone fierce who won't add the verdict.
 
 And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could round up the bad people and be rid of them, the rest of us would live in peace. The turning away it takes to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find a hot atrocity that didn't begin there. The cold ones begin with nobody in view at all.
 
@@ -113,8 +114,7 @@ This is what the draw in the interlude was measuring. Not whether you've done an
 
 Hiding takes effort; it isn't our natural state. But the better someone gets at it, the less it looks like darkness. The smartest hide it behind agendas that look shiny from outside and are rotten inside, eating away at the world in ways that are hard to detect until it's too late.
 
-Look behind any of the tragedies (toward people, animals, nature itself) and you will find turning away. Animals being abused in factory farms. Prison inmates subjected to dehumanizing conditions. Rainforests being cut down for profit. Each requires the same *turning away*.
-[TODO(readers): Fighter and scientist: most large harm is the cold form (nobody in view, a spreadsheet), and the hot mechanism doesn't cover it. Consider a paragraph here on how the two connect.]
+Look behind any of the tragedies (toward people, animals, nature itself) and you will find turning away. Animals being abused in factory farms. Prison inmates subjected to dehumanizing conditions. Rainforests being cut down for profit. Each requires the same *turning away*. This is the executive from Chapter 1 again: nobody in view, and a wall that our contempt for him only thickens.
 
 And it goes further than living things. We think of contempt as something we feel toward people. But simply by perceiving reality as a lifeless collection of stuff over which we hold dominion, we've already turned away from it, and every system of extraction and destruction on Earth rests on that. Here's a check that needs no metaphysics. Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody takes a hammer to a stone arch that took ten thousand years to form, for the pleasure of watching it fall. Notice what you feel, and whether it arrives before any story about who was deprived. The tree has no conscience and the arch has no inside. Whatever you're registering, see whether it lands in the place where the violation of a person lands. Contempt for the world is the same act as contempt for a person, albeit in a subtler form.
 

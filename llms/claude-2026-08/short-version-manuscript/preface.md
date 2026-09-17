@@ -5,14 +5,14 @@
 > *For so long as the root of wickedness is hidden, it is strong. But when it is recognized, it is dissolved. When it is revealed, it perishes. ... It is powerful because we have not recognized it.* —The Gospel of Philip
 
 This work is my attempt to convey an insight about the nature of good and evil that arose from my practice (as well as plant medicines) many years ago. Alas, it is not one that I can claim to be fully living myself, by any stretch.
-[TODO(readers): One reader nearly stopped at 'plant medicines' + the closing emoji, before anything had been shown. Your call; noting the cost.]
 
 What I saw was how I, specifically, was contributing to the horrors of the world—even while being flawlessly confident that I was one of the "good guys," valiantly fighting evil. *Because* I was convinced of that. At the same time, I saw how an aspect of my mind had always known exactly how I was lying to myself. It was always there, just patiently waiting to be remembered.
 
 ---
 
-This version is for friends who sit, and it assumes things a general reader might not grant: that the mind has a nature, that the confusion covering it is not the same thing as it, and that recognition is available on the spot rather than at the end of an argument. The full book earns each of those slowly, from the reader's own memory, and never asks for them up front. Here I lean on them, which is what lets me be brief. It also assumes the reader has done enough inner work to look at deeply uncomfortable truths about themselves without flinching. And it's meant to be read alongside practice, from a settled seat; Chapter 1 especially.
-[TODO(readers): Two readers: this sentence plus 'finding them should be easy' below tells the reader in advance that if it doesn't land, they flinched or the transmission failed. Consider dropping the shadow-work gate or the 'should be easy' line.]
+This version is for friends who sit, and it assumes things a general reader might not grant: that the mind has a nature, that the confusion covering it is not the same thing as it, and that recognition is available on the spot rather than at the end of an argument. The full book earns each of those slowly, from the reader's own memory, and never asks for them up front. Here I lean on them, which is what lets me be brief. It's meant to be read alongside practice, from a settled seat; Chapter 1 especially.
+
+A warning. Parts of this are hard to read, because they ask you to look at things in yourself that nobody enjoys looking at. Go slowly, and stop when you need to. Nothing here is a verdict on you.
 
 So this leaves out a great deal. The finer distinctions, the objections and the cases where the account could fail, the evidence for the claims about people you'll never meet: all of that belongs in the full book and isn't here. What's here is only the broad shape, quickly, and one or two places to look. And it works by telling you what the full book makes you find for yourself, in your own memory, before it's named; so don't take this as how the full book is written. It's what the book is about, said to someone who can hear it said. If it provokes the recognition, the rest is detail. If it doesn't, the full book is where to go next (though only chapter one feels finished for now).
 
