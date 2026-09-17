@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "short-book-cold-reads-2026-09-16"
+              "title": "chapter-2a"
             }
           },
           {
@@ -65,16 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/working-manuscript.md",
+                "file": "llms/claude-2026-08/short-version-manuscript/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "working-manuscript"
+              "title": "intro"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"and contempt is maddening\"",
+                "query": "\"also runs cold\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,18 +225,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "776b06fc2285f3c3",
+  "active": "65ec53952f722da8",
   "lastOpenFiles": [
     "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/misc/short-book-cold-reads-round4-2026-09-17.md",
+    "llms/claude-2026-08/working-manuscript.md",
+    "short/chapter-1.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
+    "short/chapter-2a.md",
+    "llms/claude-2026-08/short-version-manuscript/intro.md",
+    "llms/claude-2026-08/short-version-manuscript/preface.md",
+    "llms/claude-2026-08/misc/stuff-not-to-lose.md",
     "llms/claude-2026-08/misc/parked-claude-passages-2026-09-16.md",
+    "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
+    "short/chapter-3.md",
+    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/argument.md",
     "llms/claude-2026-08/misc/general-audience-cold-reads-2026-09-16.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
     "llms/claude-2026-08/short-version-manuscript/chapter-4.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
-    "llms/claude-2026-08/short-version-manuscript/intro.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
-    "llms/claude-2026-08/short-version-manuscript/preface.md",
     "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
     "book/chapter-7.md",
     "llms/claude-2026-08/misc/general-audience-abductive-argument.md",
@@ -244,15 +251,8 @@
     "scratch/short.md",
     "scratch/scratch.md",
     "llms/claude-2026-08/short-manuscript.md",
-    "short/chapter-3.md",
-    "short/chapter-1.md",
     "short/intro.md",
     "appendix/3.md",
-    "quotes.md",
-    "book/chapter-10.md",
-    "short/index.md",
-    "short/chapter-4.md",
-    "short/chapter-2a.md",
     "short",
     "appendix",
     "map",

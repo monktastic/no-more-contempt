@@ -111,3 +111,11 @@ There's a historical reason this one matters most now. Most of what we now call 
 **Full text:**
 
 That isn't a reason to be afraid of yourself between moments. Nobody is fully turned toward except in moments; the leak is small, and looking at it is the whole practice. Being frightened of it is the same thing, aimed inward.
+
+
+## intro.md: two of Aditya's paragraphs moved out of the introduction, 17 Sept 2026 (every round of readers named the intro as doing too much; Chapter 3 carries the first, Chapters 2 and 4 the second)
+
+One piece of this is stranger than the rest. It's how the darkness in our minds doesn't only operate *through* us, but acts as though it collaborates *across* us. The corrupt structures we see around us are its outward form. This is the origin of the archetype of the "evil global conspiracy," or what might also be called the Devil. That claim comes last, in Chapter 3, after you'll have watched it happen between two people.
+
+Our attempts to define *goodness* are folly. No matter how carefully we try to define it, the dark aspect of our mind finds clever ways to subvert it: to obey the letter of the law while violating its spirit. We recognize this error in others easily, but in ourselves we can't, because following definitions has been made to feel exactly like being turned toward our true nature. Thus, the folly of trying to pin down *goodness* is not an accident. Getting us to believe our thoughts and definitions—as though they could substitute for staying *turned toward*—is precisely what the darkness *is*.
+

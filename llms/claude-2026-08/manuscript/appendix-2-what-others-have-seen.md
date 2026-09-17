@@ -2,7 +2,6 @@
 [TODO(readers): Teacher's corrections: Girard's mimetic rivalry is a two-person theory before it is a crowd theory ('explains two people in a parking lot hardly at all' is wrong). Braithwaite: RISE trial results were mixed; 'with data' overstates. Augustine's privation isn't ignorance; avidya is. Jung: the analytic tradition (von Franz) does have the hook.]
 # Appendix 2: What Others Have Seen
 
-*Place late in the book. This is scholarship, not positioning, and it only reads that way once the reader can judge the comparisons for themselves.*
 
 ---
 
