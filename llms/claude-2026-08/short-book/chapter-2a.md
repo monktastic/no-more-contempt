@@ -20,6 +20,9 @@ The same draw comes in smaller sizes, and those are the ones you'll meet today. 
 
 And there's one you don't even have to do yourself. You hear that someone on your side has humiliated someone on theirs: the perfect comeback, the clip where he finally gets put in his place. What happens in you? In me it's a hot little surge, something like *fuck yeah.* A fist closing. I want to watch it again, and send it to someone. Notice that nothing got better. No harm was stopped, and nobody changed their mind. The pleasure is in the landing itself, and I got it for free, without even having to be the one who sent it.
 
+And it doesn't need a wrongdoer at all. Someone asks a question that was answered five minutes ago. Someone ahead of you can't work the ticket machine. Someone says, in all sincerity, a thing you find absurd. Watch what rises: the sigh, the look you trade with whoever's standing next to you, the *how do these people get through the day?* Nobody did anything wrong, so there's nothing to punish. In me the flavor is the same anyway: a small, pleasant lift. *I'm not that.*
+[TODO(Aditya): Claude's draft, added for the stupid/crazy gap. Rewrite in your words or cut.]
+
 One more, and it's the one I trust most in myself. When I ask whether my contempt for someone leaves the world darker, the first answer that arrives is something like *well, who can really say?* It sounds reasonable. It took me years to see it as the shrug I hide behind, the same shrug I'd never accept from the person I'm despising. See what arrives for you. If it's *yes, and he's earned it*, that's a different thing, and honest, and the next chapter is about it.
 
 If you find none of this, good; I have no way to argue with that and won't try. If you find some of it, don't file it as a verdict on yourself; that would be the same move, aimed inward. It's a reading.

@@ -1,6 +1,6 @@
-# The book
+# The long book
 
-These are the chapters, in reading order, plus the two appendices. Everything
+These are the chapters, in reading order, plus the three appendices, which the short book shares. Everything
 here is edited in place; git is the safety net.
 
   start-here.md    orientation for early readers; the site's front page
@@ -18,5 +18,5 @@ here is edited in place; git is the safety net.
 
 `../build-manuscript.sh` concatenates these into `../working-manuscript.md`.
 `../publish.sh` generates the website pages from them into the repo root
-(`index.md`, `book/`, `map/`, `appendix/`). Add a file here and it must be
+(`index.md`, `book/`, `short/`, `map/`, `appendix/`). Add a file here and it must be
 added to both scripts.

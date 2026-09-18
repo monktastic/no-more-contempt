@@ -4,7 +4,7 @@
 # Downloads page that links them. Output goes to <repo root>/downloads by
 # default, or to DIR with --out DIR (which is how CI will call it).
 #
-# Sources are manuscript/, in the order the site's menu follows, with TODOs and
+# Sources are long-book/, in the order the site's menu follows, with TODOs and
 # working notes stripped exactly as publish.sh strips them (same code, in
 # bookparts.py). Needs pandoc; the PDF also needs a LaTeX engine, typst, or
 # Calibre's ebook-convert, and is skipped with a warning if none is installed.
@@ -47,7 +47,7 @@ from bookparts import (READING_ORDER, TITLE_OVERRIDES, TITLE, AUTHOR, SITE_URL,
                        BOOK_FILES, MAP, split_title, strip_todos,
                        banner_to_markdown, pages, start_here_counts)
 
-MAN = pathlib.Path('manuscript')
+MAN = pathlib.Path('long-book')
 OUT = pathlib.Path(os.environ['OUT'])
 stamp = (f'*Working draft of {os.environ["DATE"]}, built from commit '
          f'{os.environ["SHA"]}. The current version is always at {SITE_URL}.*')

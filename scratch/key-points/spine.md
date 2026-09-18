@@ -1,10 +1,12 @@
-# The spine: the L0 theses, deduplicated and in book order
+# The spine: the L0 theses, deduplicated and in book order, and the coverage list
 
 *Stateless. `index.md` holds every claim (T) and every way of saying one (F); this lists the T0 theses once each, in the order the book earns them, with the chapter that owns each. It's what a condensed book has to say and nothing it may leave out. As of September 10, index.md has 51 T0 and 54 T1 claims; the T0s reduce to the 38 below. The index keeps a thesis as separate bullets when each is a separate move in a chapter ("contempt is evil," "the cover is self-refuting," and "size doesn't matter" are three bullets there and one thesis here), and it keeps a thesis in two sections when it's seen from two sides (the handshake in §5 and §7). This list merges both, so it's the count and the index is the working file. The mapping: index T0s 2 and 7 are thesis 20 here; 4 and 5 are 22; 8 and 10 are 5; 9, 11, 13 are 24; 14, 15, 16 are 8; 20 and 22 are 6 and 9; 21, 30, 31, 32 are 19 and 33; 23, 25, 26 are 15 and 16; 27 and 29 are 26; 33 and 35 are 34 and 35; 38 and 40 are 25; 47, 48, 50, 51 are 36; 49 (being held while you look) is a framing of 36 and 37, not a thesis. The T1s are consequences and refinements; none adds a thesis that isn't here.*
 
 ## Is T0/T1 necessary and sufficient?
 
 **Sufficient: yes.** Every row of `themes.md` and every sentence of the spine paragraph in `engine.md` is covered by a T0 or T1. Nothing at T2 or T3 is needed to get from the preface to the crescendo. (T2 holds the cultural marks, the psychology, the tools, and the Oneness elaborations. A condensed book can drop all of it.)
+
+**The hole that rating left.** The levels were given by how central a claim is to the argument, and the argument runs on the hardest case, the wrongdoer. So nothing rated how much of the reader's day a claim covers, and the commonest contempt of all (for the stupid, the crazy, the weak, the unpracticed) sat at F2 and never reached this list. A thesis check can't catch that; the coverage list at the end of this file can. Run both on any rewrite.
 
 **Necessary: yes, as the 38 below.** Some T0s in `index.md` still overlap each other across sections (the shame paradox is in §1 as the layers and in §4 as the two collapses; the parasite's one trick is in §7 twice). That's tolerable in a working file. This list is the deduplicated count.
 
@@ -86,3 +88,28 @@ Not as bullets: 38 nodes with the dependencies below is `dags/book-map.dot` alre
 38. Every act counts, witnessed or not: the sealed room; the stranger about to break; held like the parasite, no chooser and treat it as if there were. (§12 impact)
 
 **Chapter 17** owns no thesis. It says the one idea from four sides and makes the bet.
+
+## Added after the 38
+
+Numbered on from 38 so the older numbers, which other files cite, stay put. The position each belongs at is given.
+
+39. Contempt doesn't need a wrongdoer: most of it goes to the stupid, the crazy, the weak, the slow. Same verdict, better cover ("I'm only being accurate"), same root (goodness sought in the relative), same leak. (§3. Belongs after 8 as a check and after 30 as the explanation.)
+40. Contempt for those who haven't seen through contempt; for the unpracticed; pity. The form this book makes available to its own readers. (§9. Belongs with 36.)
+41. Turning away takes upkeep and turning toward doesn't; dropping a grudge feels like setting something down. Evidence for 37 that doesn't lean on the gaze. (§1. Belongs just before 37.)
+
+## Coverage: whose contempt, at whom
+
+The theses say what contempt is. This says where a reader will meet it. A version of the book that leaves one of these out will be true and will miss most of somebody's contempt. Check every rewrite against it.
+
+- Hot, at a wrongdoer, face to face (the two strangers; Chapter 1).
+- Hot, at a wrongdoer, from a distance: the politician, the news, the other side.
+- Cold: the executive, the memo, the filing-away; nobody raised their voice.
+- At someone who did nothing wrong: stupid, crazy, weak, slow, tasteless, poor. (39)
+- At the unpracticed, the asleep, the still-contemptuous; pity. (40)
+- From below: at the boss, the rich, the powerful. Same parasite.
+- At yourself. The commonest, and it produces what contempt produces: hiding.
+- At someone you love: the sigh, the "of course you did."
+- On behalf of someone you love: your sister's ex.
+- Consumed, not performed: the clip, the pile-on, the comment thread.
+- In a group: the locker room, the outrage party, two people contemptuous together.
+- At the world: the tree, the arch, the animal; reality as inert.

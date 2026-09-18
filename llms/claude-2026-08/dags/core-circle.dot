@@ -1,0 +1,45 @@
+// The circle at the core of the book: "I'm showing you that I'm no better than you."
+// Four claims at the corners, read clockwise from the top left; each arrow reads "and so".
+// Inside each claim: the scenarios that support that claim directly.
+// On each side, in the pale red box the arrow passes through: the scenarios that support that step.
+// Designators are the IDs in scratch/key-points/scenarios.md.
+digraph core {
+  layout=neato; splines=line; bgcolor="white";
+  node [fontname="Helvetica", shape=plain];
+  edge [color="#aa3333", penwidth=1.8, arrowsize=0.9];
+
+  SAME [pos="-4.3,2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#b0663a" BGCOLOR="#fcebdd">
+    <TR><TD BGCOLOR="#f6c9a8"><B>1. My contempt is the same move they made</B><BR/><FONT POINT-SIZE="10">turning away from someone, to license harming them</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">3.3 (the verdict wants to land)<BR/>3.4 (hot and cold)<BR/>3.10 (the sigh at someone you love)<BR/>2.6 (looking at you, or at a target?)</FONT></TD></TR></TABLE>>];
+
+  NOB [pos="4.3,2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#9a8530" BGCOLOR="#fbf4d6">
+    <TR><TD BGCOLOR="#f3e2a0"><B>2. So I'm no better than them in kind</B><BR/><FONT POINT-SIZE="10">and I know I'm not rotten</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">1.1 (the wrong you couldn't admit)<BR/>1.7 (how you held yourself)<BR/>3.6 (mine is the good kind)</FONT></TD></TR></TABLE>>];
+
+  RED [pos="4.3,-2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#4f8a4c" BGCOLOR="#e4f2e3">
+    <TR><TD BGCOLOR="#bfe0bd"><B>3. So they're no worse than me in kind</B><BR/><FONT POINT-SIZE="10">redeemable</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">2.5 (where contempt reaches)<BR/>4.25 (no contempt for a shark)<BR/>2.2 (what was the second one serving?)</FONT></TD></TR></TABLE>>];
+
+  EVIL [pos="-4.3,-2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#4a6da3" BGCOLOR="#e3ebf7">
+    <TR><TD BGCOLOR="#c3d4ee"><B>4. So contempt is evil</B><BR/><FONT POINT-SIZE="10">it keeps a redeemable person down, and half knows it</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">3.7 (the pill)  ·  3.8 (relief, or robbed?)<BR/>4.3 (the clip)  ·  4.2 (the smaller sizes)<BR/>3.11 (the write-off)</FONT></TD></TR></TABLE>>];
+
+  // the steps, each with the scenarios that support it
+  E1 [pos="0,2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#aa3333" BGCOLOR="#fff6f6">
+    <TR><TD><FONT COLOR="#7a2222"><B>and so:</B> the move is made by hiding,<BR/>not by essence</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">1.2 (did the deflecting happen passively?)<BR/>1.3 (the part that knew never argued)</FONT></TD></TR></TABLE>>];
+  E2 [pos="4.3,0!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#aa3333" BGCOLOR="#fff6f6">
+    <TR><TD><FONT COLOR="#7a2222"><B>and so:</B> what's true of my case<BR/>is true of theirs</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">4.10 (someone you once despised)<BR/>1.4b (the biggest wrong took longest)</FONT></TD></TR></TABLE>>];
+  E3 [pos="0,-2.3!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#aa3333" BGCOLOR="#fff6f6">
+    <TR><TD><FONT COLOR="#7a2222"><B>and so:</B> contempt keeps them down,<BR/>and I know it</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">2.1 (the two who caught you: you dug in)<BR/>3.9 (why hold them unless they could leave?)</FONT></TD></TR></TABLE>>];
+  E4 [pos="-4.3,0!", label=<<TABLE BORDER="1" CELLBORDER="0" CELLSPACING="0" CELLPADDING="5" COLOR="#aa3333" BGCOLOR="#fff6f6">
+    <TR><TD><FONT COLOR="#7a2222"><B>which is what makes it the same move:</B><BR/>harm takes turning away</FONT></TD></TR>
+    <TR><TD ALIGN="LEFT" BALIGN="LEFT"><FONT POINT-SIZE="9">3.13 (the same thing, turned toward)<BR/>1.5 (in view)  ·  1.5b (caught mid-cruelty)<BR/>1.5c (the public record)</FONT></TD></TR></TABLE>>];
+
+  SAME -> E1 [arrowhead=none]; E1 -> NOB;
+  NOB  -> E2 [arrowhead=none]; E2 -> RED;
+  RED  -> E3 [arrowhead=none]; E3 -> EVIL;
+  EVIL -> E4 [arrowhead=none]; E4 -> SAME;
+}
