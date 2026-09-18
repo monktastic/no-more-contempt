@@ -6,7 +6,7 @@ vendor
 .idea
 llms/claude-2026-08/working-manuscript.md
 
-# Generated from manuscript/ by publish.sh and make-downloads.sh. The Actions
+# Generated from long-book/ by publish.sh and make-downloads.sh. The Actions
 # build makes them fresh on every push, so they don't belong in git; run the
 # scripts locally when you want to preview the site.
 /index.md
@@ -22,3 +22,4 @@ llms/claude-2026-08/.publish-manifest.json
 __pycache__/
 /_data/build.yml
 llms/claude-2026-08/short-manuscript.md
+llms/claude-2026-08/short-manuscript-clean.md

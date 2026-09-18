@@ -86,6 +86,18 @@ And notice what falls out for free: this predicts that nobody gets out alone and
 
 ---
 
+## 5b. The circle at the core
+
+The cycle above is the lived form of a circle that is also the book's central argument, and it's the one Aditya's original formulation states outright: *in my contempt I'm showing you that I'm no better than you.* As claims:
+
+- My contempt is the move they made: turning away to license harm. *(SAME MOVE)*
+- So I'm no better than them in kind. *(NO BETTER)*
+- So they're no worse in kind: redeemable. *(REDEEMABLE)*
+- So contempt, which blocks a redeemable person and knows it, is the thing itself. *(EVIL)*
+- And SAME MOVE needs contempt to be a harm and harm to take turning away, which is what EVIL was for.
+
+Treated as four nodes it can't be entered. Split by depth it can. At depth 1, from scenarios alone: the draw, the effect, the rigged test, limbo, and that contempt is addressed to what it denies. Those give *contempt is bad in the plain sense* and a first *redeemable*, with no sameness and no claim about turning away. "Harm takes turning away" then gets its own evidence. Only after that do SAME MOVE, NO BETTER, the second REDEEMABLE and the identification follow, and the circle survives only inside the explanation, where mutual support is allowed. Drawn in `dags/core-circle.dot`. The order is spelled out in `general-book/plan.md`.
+
 ## 6. Do you need a DAG for the whole book?
 
 Not yet, and possibly not ever in full.

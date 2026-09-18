@@ -26,7 +26,7 @@ Knowledge that was right there to see, and turned away from. Knowing and not let
 
 - **T0** - If you can only do wrong from the turned-away state, then you cannot *choose* to turn away, because choosing it would be a wrong done while still looking. This solves the infinite regress (an evil chooser one level down) if worded properly. In the book as "nobody chooses to stop seeing while they can still see" (Ch4, map §10, Ch5); the derivation belongs where "all evil is innocent" is argued.
 
-- **T2** - Shielding takes effort to maintain. It's not our natural state.
+- **T1** - Shielding takes effort to maintain. It's not our natural state. (Raised from T2: it's one of the few pieces of evidence for the nature claim that doesn't lean on the gaze. A grudge needs feeding; dropping one feels like setting something down. Caveat the book must keep: practiced hiding stops feeling like effort.)
 
 - **T2** - This capacity for self-deception exists in everyone, but along a continuum. The further along it they are (and the smarter they are), the better they are able to hide it behind agendas that look exciting and helpful and shiny from the outside, but are secretly rotten from the inside—eating away at the world in ways that can be hard to detect until it's too late.
 
@@ -89,6 +89,13 @@ Something in you knew before the reasons arrived. It never argued, and it never 
 Not anger at what you did. The verdict that this is all you are. It licenses anything, it shapes its target into what it needs, and it is evil.
 
 - **T0** - Contempt is EVIL. That's not a value judgment.
+
+- ▹ **T0** - Contempt doesn't need a wrongdoer, and most of it isn't spent on one. It goes to the stupid, the crazy, the weak, the slow, the unpracticed: people who've harmed nobody. Same verdict (*this is all you are*), better cover: not "I'm fighting evil" but "I'm only being accurate," and the assessment may even be right. What the assessment never needed is the eye-roll and the need to be above them. Same root: goodness sought in the relative becomes smart relative to stupid, sane relative to crazy, awake relative to asleep. (Short book: interlude, Chapter 3 after the loop, Chapter 4 for the practitioner's forms.)
+  - ▹ **F1** - Check: no contempt for the toddler who can't add or the grandparent losing words. It arrives with "they should know better." Even this contempt is a moral charge underneath: guilty of being what they are.
+  - ▹ **F1** - It leaks the same way. Treated as stupid, a person stops asking questions; treated as crazy, they stop trying to be understood, and we take that as proof. (The write-off in §6 is this from the receiving side.)
+  - ▹ **F1** - They're the safe targets: part of me is always sensing who it's okay to look down on (see §8, the dumping ground), and nobody defends the man at the ticket machine.
+  - ▹ **F1** - Pity is contempt with a soft face: it needs them to stay below me. Test: would I be glad if they got there before I did?
+  - See also, under "How subtle contempt can be" below: the NPC look, the uncharitable reading, "that person is stupid for feeling that way"; and §10's background hum ("Darwin award," "play stupid games").
 
 - **T1** - Notice what contempt licenses. Once he believes that *this is all you are*, is there any bottom to how he can treat you?
 
@@ -344,7 +351,7 @@ Real righteousness is service to Life. The counterfeit is an *idea* of serving L
 
 - ▹ **T1** - The trap assembled: you see evil, you're right; you want it gone, you're right; you go after it from inside your own, which aims it at the person. Every step correct but the last, and the last is the one you can't see. Accuracy is what gets harvested.
 
-- **T2** - An ironic trap I fall into a lot: contempt for people who still express contempt / haven't seen through it.
+- **T1** - An ironic trap I fall into a lot: contempt for people who still express contempt / haven't seen through it. For readers of this book it's the form the book itself makes available; the practitioner's version is contempt for the unpracticed, and pity. (Raised from T2: a cold reader asked for it, and it belongs to the no-wrongdoer thesis in §3.)
 
 - **T3** - In this shadowy state, we license ourselves to get away with things that we otherwise could not—and that we would never tolerate in our enemies.
 
@@ -497,7 +504,7 @@ Turning toward is the only stance that doesn't feed it. Not seeing wasn't chosen
 
 - **T0** - Cruelty *can* suppress other people's misbehavior—at least, their *public* misbehavior, and for a time. Thus, we easily convince ourselves that it "works." But another part of you secretly knows that it will only *increase* the net darkness in the world.
   - **F2** - While it is surely true that "evil wins when good people do nothing," even worse would be to secretly join forces with it.
-  - **F2** - Admission that stopping evil with contempt can probably be better than quietly letting evil win.
+  - **F1** - Admission that stopping evil with contempt can probably be better than quietly letting evil win. (Raised from F2: without it the book reads as a case for doing nothing.)
   - ▹ **F1** - Contempt against doing nothing can't be ranked in the abstract; outcomes count, and contempt is a second harm that has to be counted too. This is not a book about doing nothing.
 
 ## 14. What the book is for, and how it's built

@@ -1,4 +1,4 @@
-# Cold reads of general-audience-abductive-argument.md (16 Sept 2026)
+# Cold reads of general-audience-abductive-argument.md (essay-draft.md) (16 Sept 2026)
 
 Three readers with no context beyond the file, each with an adversarial brief. Saved verbatim.
 

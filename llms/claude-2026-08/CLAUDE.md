@@ -4,7 +4,7 @@ This is the working repo for *No More Contempt*, a nonfiction book.
 
 ## Editing
 
-**Edit files in place, including everything in `manuscript/`.** Never make a
+**Edit files in place, including everything in `long-book/`.** Never make a
 second copy of a file to draft against, and never leave two live versions of
 anything. Git is the safety net; I read diffs and revert what I don't want.
 
@@ -23,31 +23,35 @@ Claude's, and a description will do.
 
 ## What's here
 
-Everything the book is made of lives in `manuscript/`. The base directory holds
+Everything the book is made of lives in `long-book/`. The base directory holds
 the working documents: what the book claims, what's open, and how to decide.
 
-`manuscript/start-here.md` orientation for early readers; the site's front page.
-`manuscript/preface.md`, `chapter-1.md`, `chapter-1a.md` (the interlude after
+`long-book/start-here.md` orientation for early readers; the site's front page.
+`long-book/preface.md`, `chapter-1.md`, `chapter-1a.md` (the interlude after
 Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`, `chapter-5.md` (the whole
 book once, condensed and tiered; the short version, with `rest-of-book.md` the
 medium and Parts A to F the full).
-`manuscript/condensed.md` the theory in a few pages for the reader who has
+`long-book/condensed.md` the theory in a few pages for the reader who has
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
-`short-version-manuscript/` the short version, for practitioners: a preface
-and chapters, published as its own section of the site. It assumes what the
-book earns, so it can be brief. Not in the working manuscript.
-`manuscript/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
+`short-book/` the short book, for practitioners: preface, intro, four
+chapters, and an interlude after Chapter 2 (`chapter-2a.md`), published as its
+own section of the site. It assumes what the long book earns, so it can be
+brief. Not in the working manuscript. `short-book/readers/` holds the cold
+readers' letters on it and `parked-passages.md`, Claude-drafted passages taken
+out of the chapters until Aditya rewrites them; none of it is built or published.
+`long-book/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
 seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
-`manuscript/rest-of-book.md` the map of the unwritten rest, for beta readers.
+`long-book/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
-`manuscript/appendix-1-recursion.md` what contempt presupposes: the skeleton on
-one screen, the deduction (tiered), the fixed point written down, the title, a
-prediction, the finale with its seams, then what I believe, marked.
-`manuscript/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
-`manuscript/appendix-3-the-traditions.md` the traditions that named the thing.
+`long-book/appendix-1-recursion.md` what contempt presupposes: the trap built up
+from one sentence, the punchline, what I believe is really happening (marked),
+the formal version for the lawyers, and where else to look. The appendices
+serve both books, so they cite neither by chapter.
+`long-book/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
+`long-book/appendix-3-the-traditions.md` the traditions that named the thing.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.
@@ -59,31 +63,48 @@ tracks the good.
 `todo.md` the one state file: everything open, split by who does it (me, Fable,
 Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
+`facts.md` the argument as a chain of thirteen facts, each with how it's
+established and what it can't carry. Read it when the implications get hard
+to track; change a line's status there when a check changes it.
 `spiral.md` why circular dependencies aren't a problem here.
 `engine.md` what pulls the reader forward: the two questions, the reach ladder,
 the chapter hand-offs. Ordering decisions come from here, not from the dags.
 `chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
 frame (outside, inside, held), and what it leaves open.
+`../../scratch/key-points/scenarios.md` Aditya's full-text scenarios, then every scenario and
+reader check in the short book by ID, with how each fared with cold readers
+and the question it leaves open.
 `themes.md` one row per load-bearing claim, one column per chapter, the grade
 each chapter leaves the claim at. The general form of the ledger.
 `dags/` dependency graphs. The `.dot` is the source; regenerate with
 `dot -Tsvg f.dot -o f.svg`. `book-map.dot` is the whole book on one page,
 by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
-map; `spiral-cycle.dot` is why the circularity is fine.
+map; `spiral-cycle.dot` is why the circularity is fine; `core-circle.dot` is the
+circle at the centre of the argument and the order that keeps it out of the spine.
+`general-book/` the book for readers who don't hold Buddhist views.
+`chapter-1.md` is its first chapter, drafted on the nine-beat route in
+`facts.md`; not built or published yet. `plan.md` is how it would be built: thesis-to-scenario
+map, order, forward pull. `draft.md` is the 6,000-word general-audience essay
+(parked), `scaffold.md` its outline, and the cold reads and the two
+author-readers' letters sit beside them.
+`misc/` Aditya's loose notes and alternate drafts. Leave them alone.
 `archive/` kept for the reasoning, not for reuse. References in here point at
 files under their old names; that's the historical record and stays as it is.
 Inline notes go in the source as `[TODO: ...]` or `[TODO(name): ...]`. `publish.sh` strips them from
 the site; `build-manuscript.sh` keeps them, so the working manuscript shows
 them. HTML comments (`<!-- TODO -->`) are stripped too, but the bracket form
 is easier to type and to grep.
-`build-manuscript.sh` builds `working-manuscript.md` from the manuscript files.
+`build-manuscript.sh` builds `working-manuscript.md` from `long-book/`.
 Generated output; never edit it.
+`build-short-manuscript.sh` builds the short book plus the appendices twice:
+`short-manuscript.md` with the TODO notes kept, for auditing, and
+`short-manuscript-clean.md` with them stripped. Send readers the clean one.
 `publish.sh` generates the website from the manuscript files into the repo
 root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
-every push to main and deploys the result, so pushing a change to `manuscript/`
+every push to main and deploys the result, so pushing a change to `long-book/`
 is all it takes to publish. Run the scripts locally to see the site before you
-push; the output is gitignored. Never edit a generated page, edit `manuscript/`.
+push; the output is gitignored. Never edit a generated page, edit `long-book/`.
 The script writes them read-only and refuses to overwrite one that was edited
 anyway, so an edit made in the wrong place isn't lost (`PUBLISH_FORCE=1`
 discards it); `--out DIR` writes elsewhere and drops both, which is what the

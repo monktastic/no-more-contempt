@@ -39,42 +39,32 @@
             "id": "7b592ac5b9e85da5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f1cece7352116eed",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/misc/interlude-old.md",
+                "file": "llms/claude-2026-08/general-book/author-letters-2026-09-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interlude-old"
+              "title": "author-letters-2026-09-17"
             }
           },
           {
-            "id": "65ec53952f722da8",
+            "id": "20ed396f78cf8cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-version-manuscript/intro.md",
+                "file": "llms/claude-2026-08/general-book/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "plan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"also runs cold\"",
+                "query": "\"two strangers\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,44 +215,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65ec53952f722da8",
+  "active": "20ed396f78cf8cf9",
   "lastOpenFiles": [
-    "llms/claude-2026-08/short-version-manuscript/chapter-1.md",
-    "llms/claude-2026-08/misc/short-book-cold-reads-round4-2026-09-17.md",
-    "llms/claude-2026-08/working-manuscript.md",
+    "llms/claude-2026-08/general-book/chapter-1.md",
+    "llms/claude-2026-08/general-book/scaffold.md",
+    "llms/claude-2026-08/general-book/cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/general-book/essay-draft.md",
+    "llms/claude-2026-08/general-book/author-letters-2026-09-17.md",
+    "llms/claude-2026-08/general-book/plan.md",
+    "llms/claude-2026-08/short-book/chapter-1.md",
+    "llms/claude-2026-08/facts.md",
     "short/chapter-1.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-2a.md",
-    "short/chapter-2a.md",
-    "llms/claude-2026-08/short-version-manuscript/intro.md",
-    "llms/claude-2026-08/short-version-manuscript/preface.md",
-    "llms/claude-2026-08/misc/stuff-not-to-lose.md",
-    "llms/claude-2026-08/misc/parked-claude-passages-2026-09-16.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-3.md",
-    "short/chapter-3.md",
-    "llms/claude-2026-08/misc/short-book-cold-reads-2026-09-16.md",
-    "llms/claude-2026-08/argument.md",
-    "llms/claude-2026-08/misc/general-audience-cold-reads-2026-09-16.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-2.md",
-    "llms/claude-2026-08/short-version-manuscript/chapter-4.md",
-    "llms/claude-2026-08/manuscript/appendix-1-recursion.md",
-    "book/chapter-7.md",
-    "llms/claude-2026-08/misc/general-audience-abductive-argument.md",
-    "llms/claude-2026-08/misc/general-audience-abductive-argument-scaffold.md",
-    "scratch/short.md",
-    "scratch/scratch.md",
-    "llms/claude-2026-08/short-manuscript.md",
-    "short/intro.md",
-    "appendix/3.md",
+    "scratch/key-points/scenarios.md",
+    "llms/claude-2026-08/short-book/readers/parked-passages.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round4-2026-09-17.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-2026-09-16.md",
+    "llms/claude-2026-08/short-book/readers",
+    "llms/claude-2026-08/toPdfViaTempFile50707-0.typ",
+    "llms/claude-2026-08/toPdfViaTempFile50707-1.pdf",
+    "llms/claude-2026-08/media-8ab74ef25524472c",
+    "llms/claude-2026-08/manuscript/chapter-1.md",
+    "llms/claude-2026-08/general-book",
+    "llms/claude-2026-08/short-book/preface.md",
+    "llms/claude-2026-08/short-book/intro.md",
+    "llms/claude-2026-08/short-book/chapter-4.md",
+    "llms/claude-2026-08/short-book/chapter-3.md",
+    "llms/claude-2026-08/short-book/chapter-2a.md",
+    "llms/claude-2026-08/short-book/chapter-2.md",
+    "llms/claude-2026-08/short-book",
+    "llms/claude-2026-08/long-book/start-here.md",
+    "llms/claude-2026-08/long-book/rest-of-book.md",
+    "llms/claude-2026-08/long-book/preface.md",
+    "llms/claude-2026-08/long-book/condensed.md",
+    "llms/claude-2026-08/long-book/chapter-9.md",
+    "llms/claude-2026-08/long-book/chapter-8.md",
+    "llms/claude-2026-08/long-book",
+    "llms/claude-2026-08/general-reader",
+    "llms/claude-2026-08/dags/core-circle.png",
+    "llms/claude-2026-08/dags/core-circle.svg",
+    "llms/claude-2026-08/dags/core-circle.dot",
     "short",
-    "appendix",
-    "map",
-    "book",
-    "_site/short/chapter-4/index.html",
-    "_site/short/chapter-4",
-    "llms/claude-2026-08/publish-head.sh",
-    "llms/claude-2026-08/toPdfViaTempFile65829-0.typ",
-    "llms/claude-2026-08/toPdfViaTempFile65829-1.pdf",
-    "llms/claude-2026-08/media-adfe7107304c5e42",
     "llms/claude-2026-08/dags/spiral-cycle.svg",
     "llms/claude-2026-08/dags/roadmap-dag.svg",
     "_site/assets/images/bullet.png",
@@ -270,8 +262,6 @@
     "_site/assets/images/bkg.png",
     "_site/img/tribe.png",
     "_site/img/shared-devil.png",
-    "_site/img/parasite.png",
-    "_site/img/no-contempt.png",
-    "_site/img/no-contempt-black.png"
+    "_site/img/parasite.png"
   ]
 }

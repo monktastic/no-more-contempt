@@ -1,5 +1,5 @@
 # Builds and publishes the site. Every push to main regenerates the pages from
-# manuscript/ and rebuilds the downloads here, on GitHub's runner, so nothing
+# long-book/ and rebuilds the downloads here, on GitHub's runner, so nothing
 # generated has to live in git. Settings, Pages, Source must be "GitHub Actions"
 # for this to be what the world sees.
 #
