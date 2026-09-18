@@ -35,8 +35,8 @@ medium and Parts A to F the full).
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
-`short-book/` the short book, for practitioners: preface, intro, four
-chapters, and an interlude after Chapter 2 (`chapter-2a.md`), published as its
+`short-book/` the short book, for practitioners: preface, intro, five
+chapters, and an interlude after Chapter 1 (`chapter-1a.md`), published as its
 own section of the site. It assumes what the long book earns, so it can be
 brief. Not in the working manuscript. `short-book/readers/` holds the cold
 readers' letters on it and `parked-passages.md`, Claude-drafted passages taken
