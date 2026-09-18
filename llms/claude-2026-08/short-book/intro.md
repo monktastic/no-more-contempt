@@ -1,7 +1,7 @@
 # Introduction
 
 The mind is intrinsically compassionate. Evil is nothing but a mind turned away from itself. 
-[TODO(readers): The reader who has the recognition: what's found when the hiding stops isn't warm, it's open; warmth is what openness does when a being walks into it. A reader who goes looking for a feeling of care will manufacture one. Consider whether 'intrinsically compassionate' needs one clause to that effect, here or in Chapter 2.]
+[TODO(readers): The reader who has the recognition: what's found when the hiding stops isn't warm, it's open; warmth is what openness does when a being walks into it. A reader who goes looking for a feeling of care will manufacture one. Consider whether 'intrinsically compassionate' needs one clause to that effect, here or in Chapter 3.]
 
 We've heard these ideas before (and maybe even have some personal familiarity with them), but what relevance do they have to our actual lives?
 

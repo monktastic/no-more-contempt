@@ -1,6 +1,6 @@
 # Interlude: Two Tests
 
-You may have come through the last two chapters thinking that a hypothetical stranger proves nothing about you. So here is something that isn't hypothetical.
+So far it's been my case. Here are two tests you can run on one of yours.
 
 Bring to mind someone whose harm was real. Not the stranger who was rude to you; someone who actually qualifies, from your life or from the news.
 
