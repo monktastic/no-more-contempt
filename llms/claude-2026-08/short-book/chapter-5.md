@@ -4,6 +4,9 @@ Chapter 3 claimed there is one guide, and that the reasoning mind can serve it b
 
 This is why all the darkness must do to "win" is to convince us to follow the part that proves. To try and pin down what goodness is; to formalize it. We can then obey the letter of the law while ignoring its spirit, and never suspect what's happening. That's what an ideology is, and I don't mean a bad one. Every ideology began as care, written down so it could be carried. But anything written down can be obeyed while disconnected from the source of care, and you can't tell, because the ideology feels exactly like the care. The problem was never following it blindly; nobody thinks they do. It's that it can be followed without looking. The test is simple: does it tell you what to do to the person in front of you before you've looked at them? 
 
+None of this is against rules. Rules can express goodness and serve it, and we need them: a contract, a precept, a grievance procedure exist because people who were sure they had us fully in view didn't. What a rule can't do is contain goodness, or certify that the person following it is still turned toward anyone.
+[TODO(Aditya): Claude's draft. ChatGPT and Joel (the union rep: "Rules have earned a paragraph") both said the chapter slides from "can't be replaced by rules" into "formalizing is the problem."]
+
 This is the move you watched in Chapter 2, done to everyone at once: the part that knows made to look naive, until our own nature can be filed under superstition.
 
 Fighting someone with contempt and fighting them with integrity can both "work" if you only take into account first-order effects: stopping them or shutting them up. A deeper part of you knows that in one case you've left the world a better place, and in the other, a worse one. But that knowing cannot be admitted into evidence.

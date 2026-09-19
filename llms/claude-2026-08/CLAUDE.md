@@ -36,7 +36,9 @@ already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
 `short-book/` the short book, for practitioners: preface, intro, five
-chapters, and an interlude after Chapter 1 (`chapter-1a.md`), published as its
+chapters, an interlude after Chapter 1 (`chapter-1a.md`), and after Chapter 4
+"The Picture I Use" (`chapter-4a.md`: the collaboration, the Devil, the
+institutions and the conspiracy, marked as a picture with no check), published as its
 own section of the site. It assumes what the long book earns, so it can be
 brief. Not in the working manuscript. `short-book/readers/` holds the cold
 readers' letters on it, `reader-brief.md` (how a cold read is set up and
