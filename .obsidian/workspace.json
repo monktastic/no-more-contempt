@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,9 +211,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7b0ab11d50f2a67",
+  "active": "7b592ac5b9e85da5",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-book/chapter-3.md",
     "llms/claude-2026-08/short-book/chapter-1.md",
+    "llms/claude-2026-08/short-manuscript-clean.md",
+    "short/chapter-4a.md",
+    "llms/claude-2026-08/short-book/chapter-4a.md",
     "short/chapter-2.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round6-2026-09-18.md",
     "llms/claude-2026-08/short-book/readers/reader-brief.md",
@@ -238,10 +241,6 @@
     "llms/claude-2026-08/general-book/essay-draft.md",
     "llms/claude-2026-08/facts.md",
     "short/chapter-1.md",
-    "scratch/key-points/scenarios.md",
-    "llms/claude-2026-08/short-book/readers/parked-passages.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round4-2026-09-17.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-2026-09-16.md",
     "llms/claude-2026-08/short-book/readers",
     "llms/claude-2026-08/toPdfViaTempFile50707-0.typ",
     "llms/claude-2026-08/toPdfViaTempFile50707-1.pdf",

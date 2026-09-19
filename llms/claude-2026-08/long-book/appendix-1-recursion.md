@@ -1,6 +1,8 @@
 [TODO(readers): Also from the scientist: (1) the punchline lists 'the mind's nature is care' as something contempt presupposes, before the belief door, and the belief section then says the argument doesn't reach it; one has to move. (2) The belief section is marked at its threshold and then argues ('the two accounts predict opposite things, and only one fits'; the psychopath exclusion). (3) 'A verdict can only sting someone who could have' is false as stated: verdicts about fixed traits sting most; sting needs the target to care about the sender's regard. (4) 'A rock doesn't need provoking': you can provoke a dog; provoking shows a reactive nervous system, not a capacity for moral return.]
 # Appendix 1: What Contempt Presupposes
 
+*The three appendices were written with Claude's help.*
+
 *For the reader who wants the mechanism taken apart. Nothing in the book rests on this; the book rests on what you found when you looked. Section 1 builds the trap up from one sentence, ends on what it turns out to presuppose, and then says what I think is really going on. Section 2 sorts all of it into what you checked, what's derived, and what's objection, for whoever wants that.*
 
 ---
@@ -22,7 +24,7 @@ A look is enough to cause harm, because both of you already know what a turned-a
 
 The injury is that they know you mean harm, and that you mean them to know it, and that you're not leaving any evidence of this intent behind, which is the harm you mean. The act's purpose is its own reception; take away either half and there's nothing left of the other.
 
-Notice how this differs from every other harm. In ordinary harm, the message and the injury are two things. You turn away, that lets you do the deed, and the deed does the damage. **In contempt there is no deed.** The look is the deed, and there is nothing else.
+Notice how this differs from every other harm. In ordinary harm, the message and the injury are two things. You turn away, that lets you do the deed, and the deed does the damage. **In contempt there is no separate deed.** The look is the deed, and there is nothing else.
 
 And the fact that there's nothing else—no harm to point to—is itself part of what's communicated, making it part of the harm, without there being anything to point to, which itself is communicated, and so on. The last two pieces, your denial and their protest turning into your evidence, aren't added on. They follow from there being nothing to point to, and they know that in advance, which is part of what lands.
 

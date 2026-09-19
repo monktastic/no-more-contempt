@@ -6,15 +6,15 @@ Stay there until you feel what comes with it—not a conclusion, but a recogniti
 
 > _This one is like me. I want them to be all right._
 
-Call this being _turned toward_ them. With it comes a sense of their innocence. Not that they're incapable of causing harm—but the sense of something innocent *underneath* it.
+Call this being _turned toward_ them. With it comes a sense of their innocence. Not that they're incapable of causing harm—but the sense of something innocent underneath it.
 
 Now erase that meeting. Run it again—but this time, they've just done something atrocious. Something deliberate, to someone innocent—maybe even to someone you love—and they are unrepentant.
 
 Keep looking into the same eyes. Can you still find that same recognition?
 
-It's harder, for me by a lot. If it isn't for you, make the case real: someone from your own life, or from the news, whose harm you can't wave off.
+It's harder, isn't it? If it isn't, make the case real: someone from your own life, or from the news, whose harm you can't wave off.
 
-When I do this, where there was someone whose wellbeing matters, now there is only something rotten. It's not merely something they did. It appears to be what they **are**.
+When I do this, here's what I find: where before there was someone whose wellbeing matters, now there is only something rotten. It's not merely something they did. It appears to be what they **are**.
 
 Try and feel what you're showing them through your gaze. Is it just anger? Just *I will stop you?* Or is there something darker in it? Something that says:
 
@@ -32,27 +32,27 @@ Couldn't we have predicted this would happen? So why do we do it anyway? Is it j
 
 ---
 
-I'll describe what it's like when I'm in your shoes, and you can check if you recognize yourself in any of it. I'll use an example from my real life. I'm arguing with a political opponent. I'm sure his ideas are harmful, and I may even be right. Somewhere in the argument I stop answering what he's saying, and start looking at him the way you looked at the stranger. If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension.
+I'll describe what it's like when I'm in your shoes, using an example from my real life. I'm arguing with a political opponent. I'm sure his ideas are harmful, and I may even be right. Somewhere in the argument I stop answering what he's saying, and start looking at him the way you looked at the stranger. If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension. Check if you recognize yourself in any of it.
 
 Part of me senses something *dark* about the message I'm conveying, but I can't quite place it. Yet if I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter. What I do to you now no longer qualifies as harm.* Check if you sense how contempt carries that.
 
 Who *wouldn't* violently defy a message like that? I certainly would.
 
-So I push that knowledge out of mind. Because if I knew this is what I was conveying, it would undermine the verdict I feel strangely attached to: he's **bad**, dammit, and this proves it. My message is *righteous*, and his unhinged reaction only proves my point!
+So I push that knowledge out of mind. Because if I knew this is what I was conveying, it would undermine the verdict I feel strangely attached to: he's **bad**, dammit, and this proves it. My message is *righteous*, and his reaction only proves my point!
 
 I'm not *threatening* him. I'm just hinting at what will happen if he doesn't stop. When you look at it that way, it's really more like an *invitation*—for him to give up his darkness and come back to the realm of those who matter.
 
 But there is **nothing** inviting about my tone or gaze. Nothing that signals he'd be welcome back. If there were, why would I be trying to convince him that *this is all he is*?
 
-Is this a bit disingenuous? Maybe a little. But he's *actually bad*. I can *see* it in him. And I'm not going to go easy on evil. That's how it wins! Sometimes we have to get our hands dirty.
+Is this a bit disingenuous? Maybe a little. But he's *actually bad*. I can *see* it in him. And I'm not going to go easy on evil. That's how it wins!
 
 And anyway, I have a solid case: sure, some part of *me* might recognize my approach is a bit underhanded, but so what? It's not like he's a mind reader—so if he accuses me of it, it can only mean one thing: he's projecting.
 
-But wouldn't you know it: there he is, accusing me of exactly that. Not with his words, mind you, but I can see it in his eyes:
+And wouldn't you know it: there he is, accusing me of exactly that. Not with his words, mind you, but I can see it in his eyes:
 
 > *Don't pretend you're doing something noble here. We both know what you're actually doing.*
 
-And truth be told, something deep inside knows he's right. But I absolutely cannot afford to admit it, least of all here. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm right about them.
+Truth be told, something deep inside knows he's right. But I absolutely cannot afford to admit it, least of all here. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm right about them.
 
 The good news is, maybe I don't, because here's the thing: fighting evil genuinely requires being fierce. Isn't that all I'm doing? Surely that's all I'm doing.
 
@@ -60,8 +60,7 @@ Look, I know I'm not a saint, but being a little sharp with a *bad person* is a 
 
 And yet he just won't let it go. He thinks *I'm* the bad guy. *Ha!* Like I said: projecting. Classic.
 
-Any doubt I had is now erased. *This really **is** what you are—and I'm going to prove it at any cost, as a favor to the world.* Everyone ought to see it, too. Not that I'd take any pleasure in that.
-[TODO(Aditya): the last two sentences are Claude's try at the "everyone sees it" beat in a register Maren would believe: the audience stays, and the enjoyment shows only as a denial. Your original, "I'm going to enjoy making sure everyone sees it," is in `scratch/round5-as-sent-to-readers/`; Joel called it the most honest sentence in the chapter.]
+Any doubt I had is now erased. *This really **is** what you are—and I'm going to make sure everyone sees it.*
 
 Yet for some reason, this only makes him even *more* defiant...
 
@@ -73,7 +72,7 @@ If not, I have no argument to offer here. Read on, and see whether anything else
 
 ---
 
-I'll just go ahead and name what's happening. The darkness I saw in him—it lives in me, too. It is revealing itself to him, knowing how he'll receive it. But at the same time, it is hiding itself from me, so that I can (in all sincerity) hold his reaction against him, fulfilling that need. 
+I'll just go ahead and name what's happening. The darkness I saw in him—it lives in me, too. [TODO: But I'm not ready to admit it.] It is revealing itself to him, knowing how he'll receive it. But at the same time, it is hiding itself from me, so that I can (in all sincerity) hold his reaction against him, fulfilling that need. 
 
 This part of me—it needs him to be bad. I don't mean that as a standing fact about me, or about you. It's true while I'm in it, and close to invisible when I'm not, which is why looking back rarely finds it. If you can find even one memory where it's plainly true, that's the one to look at.
 
