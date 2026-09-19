@@ -32,9 +32,11 @@ Couldn't we have predicted this would happen? So why do we do it anyway? Is it j
 
 ---
 
-I'll describe what it's like when I'm in your shoes, using an example from my real life. I'm arguing with a political opponent. I'm sure his ideas are harmful, and I may even be right. Somewhere in the argument I stop answering what he's saying, and start looking at him the way you looked at the stranger. If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension. Check if you recognize yourself in any of it.
+I'll describe what it's like when I'm in your shoes, using an example from my real life. I'm arguing with a political opponent. I'm sure his ideas are harmful, and I may even be right. Somewhere in the argument I start seeing him the way you looked at the stranger. 
 
-Part of me senses something *dark* about the message I'm conveying, but I can't quite place it. Yet if I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter. What I do to you now no longer qualifies as harm.* Check if you sense how contempt carries that.
+If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension. Check if you recognize yourself in any of it.
+
+Part of me senses something *dark* about how I'm treating him, but I can't quite place it. Yet if I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.* Check if you sense how contempt carries that.
 
 Who *wouldn't* violently defy a message like that? I certainly would.
 

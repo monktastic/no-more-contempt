@@ -63,6 +63,8 @@ lives. **Read this first.**
 `correspondence.md` the philosophical problem of why conscience's knowing
 tracks the good.
 `audit.md` what's novel vs. prior art, and where the book has to be careful.
+Opens with the contributions in brief (what's mine, tested against cold
+readers); this is the file for "what is my unique contribution?"
 `todo.md` the one state file: everything open, split by who does it (me, Fable,
 Opus). Nothing else in the repo holds state.
 `claim-triage.md` how much to establish a claim, and when.
@@ -74,6 +76,8 @@ to track; change a line's status there when a check changes it.
 the chapter hand-offs. Ordering decisions come from here, not from the dags.
 `chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
 frame (outside, inside, held), and what it leaves open.
+`../../scratch/key-points/index.md` Aditya's points: every claim and every way of saying one. That is its one job.
+`reader-lessons.md` what cold readers taught us: the sentences they vouched for (a rewrite must not lose them, and says so if it cuts one) and the patterns that work on readers or lose them. Run any new draft against it.
 `../../scratch/key-points/scenarios.md` Aditya's full-text scenarios, then every scenario and
 reader check in the short book by ID, with how each fared with cold readers
 and the question it leaves open.
@@ -85,10 +89,11 @@ by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
 map; `spiral-cycle.dot` is why the circularity is fine; `core-circle.dot` is the
 circle at the centre of the argument and the order that keeps it out of the spine.
 `general-book/` the book for readers who don't hold Buddhist views.
-`chapter-1.md` is its first chapter, drafted on the nine-beat route in
-`facts.md`; not built or published yet. `plan.md` is how it would be built: thesis-to-scenario
-map, order, forward pull. `draft.md` is the 6,000-word general-audience essay
-(parked), `scaffold.md` its outline, and the cold reads and the two
+`chapter-1.md` is its first chapter: a political fight, one claim, and the
+narrow route from the reader's own case to it; not built or published yet. `plan.md` is how it would be built: thesis-to-scenario
+map, order, forward pull, the book's outline, why Chapter 1 stays narrow,
+and the checks to run on any new opening. `essay-draft.md` is the 6,000-word general-audience
+essay (parked; its outline is in `archive/`), and the cold reads and the two
 author-readers' letters sit beside them.
 `misc/` Aditya's loose notes and alternate drafts. Leave them alone.
 `../../scratch/round5-as-sent-to-readers/` short Chapters 1 and 2 as the
