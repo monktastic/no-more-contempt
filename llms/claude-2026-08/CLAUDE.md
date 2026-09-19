@@ -39,7 +39,8 @@ and the short version cover its two jobs).
 chapters, and an interlude after Chapter 1 (`chapter-1a.md`), published as its
 own section of the site. It assumes what the long book earns, so it can be
 brief. Not in the working manuscript. `short-book/readers/` holds the cold
-readers' letters on it and `parked-passages.md`, Claude-drafted passages taken
+readers' letters on it, `reader-brief.md` (how a cold read is set up and
+what to ask; read it before running one), and `parked-passages.md`, Claude-drafted passages taken
 out of the chapters until Aditya rewrites them; none of it is built or published.
 `long-book/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
 seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
@@ -88,6 +89,10 @@ map, order, forward pull. `draft.md` is the 6,000-word general-audience essay
 (parked), `scaffold.md` its outline, and the cold reads and the two
 author-readers' letters sit beside them.
 `misc/` Aditya's loose notes and alternate drafts. Leave them alone.
+`../../scratch/round5-as-sent-to-readers/` short Chapters 1 and 2 as the
+round-5 readers saw them (September 18), kept because they hold everything
+cut since; `later-chapters.diff` beside them is that day's real changes to the
+renumbered chapters.
 `archive/` kept for the reasoning, not for reuse. References in here point at
 files under their old names; that's the historical record and stays as it is.
 Inline notes go in the source as `[TODO: ...]` or `[TODO(name): ...]`. `publish.sh` strips them from
