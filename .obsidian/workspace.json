@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/short-book/chapter-1.md",
+                "file": "llms/claude-2026-08/audit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter-1"
+              "title": "audit"
             }
           },
           {
@@ -58,9 +58,51 @@
               "icon": "lucide-file",
               "title": "short-manuscript-clean"
             }
+          },
+          {
+            "id": "ae4b2cec02f25dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/short-book/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
+            }
+          },
+          {
+            "id": "3e71c52951bb0132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/general-book/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
+            }
+          },
+          {
+            "id": "6efbe8388d3e7afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/long-book/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,10 +253,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b592ac5b9e85da5",
+  "active": "3e71c52951bb0132",
   "lastOpenFiles": [
-    "llms/claude-2026-08/short-book/chapter-3.md",
+    "llms/claude-2026-08/reader-lessons.md",
+    "llms/claude-2026-08/long-book/chapter-1.md",
+    "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/short-book/chapter-1.md",
+    "llms/claude-2026-08/audit.md",
+    "llms/claude-2026-08/general-book/chapter-1-ledger.md",
+    "llms/claude-2026-08/archive/general-essay-scaffold.md",
+    "llms/claude-2026-08/short-book/chapter-3.md",
     "llms/claude-2026-08/short-manuscript-clean.md",
     "short/chapter-4a.md",
     "llms/claude-2026-08/short-book/chapter-4a.md",
@@ -235,12 +283,6 @@
     "llms/claude-2026-08/general-book/author-letters-2026-09-17.md",
     "llms/claude-2026-08/CLAUDE.md",
     "llms/claude-2026-08/general-book/plan.md",
-    "llms/claude-2026-08/general-book/chapter-1.md",
-    "llms/claude-2026-08/general-book/scaffold.md",
-    "llms/claude-2026-08/general-book/cold-reads-2026-09-16.md",
-    "llms/claude-2026-08/general-book/essay-draft.md",
-    "llms/claude-2026-08/facts.md",
-    "short/chapter-1.md",
     "llms/claude-2026-08/short-book/readers",
     "llms/claude-2026-08/toPdfViaTempFile50707-0.typ",
     "llms/claude-2026-08/toPdfViaTempFile50707-1.pdf",

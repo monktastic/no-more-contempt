@@ -1,6 +1,6 @@
 # Plan for the general-reader book
 
-*Stateless. How the book for open-minded readers who don't hold Buddhist views would be built: which thesis each scenario supports, the order that keeps the core circle out of the argument, and whether each section pulls the reader forward. Scenario IDs refer to `scratch/key-points/scenarios.md`. The circle is drawn in `dags/core-circle.svg`. Reader evidence sits beside this file (`author-letters-2026-09-17.md`, `cold-reads-2026-09-16.md`) and in `short-book/readers/`. `draft.md` is the 6,000-word general-audience draft this plan grew out of; `scaffold.md` is the outline it was built from.*
+*Stateless. How the book for open-minded readers who don't hold Buddhist views would be built: which thesis each scenario supports, the order that keeps the core circle out of the argument, and whether each section pulls the reader forward. Scenario IDs refer to `scratch/key-points/scenarios.md`. The circle is drawn in `dags/core-circle.svg`. Reader evidence sits beside this file (`author-letters-2026-09-17.md`, `cold-reads-2026-09-16.md`) and in `short-book/readers/`. `essay-draft.md` is the 6,000-word general-audience draft this plan grew out of.*
 
 ## Theses and the checks that support them
 
@@ -40,6 +40,39 @@
 
 **What is left as understanding rather than finding:** the old names for it (Mara, the Devil), and the traditions' claim that what they named was real; what the far end is like from inside (4.22 is a lens; 4.24 is an exercise "for those who dare"); and that care is what awareness *is*. None of the book's moral or practical claims needs the last one. They need only that turning away and evil go together in both directions, in the scoped form above. Every round of readers, practitioner and not, sorted these into a different kind from the rest. Note what is *not* on this list: that contempt is shared and amplified between people (4.21b, 4.3, 2.8) is checkable, and belongs with the findings. It's the agent-frame laid over it that belongs with the understanding.
 
+
+## The book's outline (from the "tour" draft of Chapter 1)
+
+A draft of Chapter 1 once tried to make every major thesis plausible in one chapter. As a chapter it read as a man laying out his view of reality. As an outline of the book it's sound, one check per part:
+
+1. **Limbo.** The memory; "did it feel like new information?"; the grace paragraph.
+2. **What you knew.** The cheating case run backwards ("So what exactly did you know?… you had made yourself an exception"); could you do it looking them in the eye? Turning from them, from conscience and from consequences is one move. "Why did one side have to argue, and the other not?"
+3. **How much of the day.** In "I": the expense rounded up, the email left unanswered, the tone taken with someone who couldn't answer back. "Count yours for one day."
+4. **Aimed at a person.** The political scene. "*This doesn't apply to me* becomes *you're not really one of us.*" Where did it reach: not your pride. Addressed to the part I say isn't there.
+5. **What it's for.** The pull to do it back; the one-sentence loop; relieved or robbed. Collaboration, hinted with something everyone has seen: "Each side's loudest contempt is the other side's best recruiter… nobody designed it… notice who benefits from a feud."
+6. **The same thing, further along.** Kindness in the eyes; the hood, the number, the word for vermin; why the word "evil."
+7. **What it isn't.** The two people who caught you; "the outrage at the harm stays, and so does the fight to stop it."
+8. **What was covered.** The upkeep check; "setting something down."
+
+## Why Chapter 1 is narrow, and stays narrow
+
+Written for the day the grand version looks tempting again, which it will, because the insight is whole and any narrow door into it feels like underselling it.
+
+- **The form has failed every time it was tested.** The general essay stated its claims and argued them, and two rounds of cold readers left. The short book's list of claims read to a practitioner as "a creed." Chapter 4's stacked claims were where three readers and ChatGPT said the book "spends its credibility." The tour chapter is the same form.
+- **No reader has taken a recognition from a claim.** All of them came from something small, close and checkable: the sigh at someone they love, the politeness with nothing behind it, "relieved or robbed," the ticket machine.
+- **Scope costs one sentence.** "If I'm right, it has implications far beyond the political sphere, touching most of what we do." The reader needs a reason to turn the page, not the map. The map is for the author, and it's the outline above.
+- **The toggling has a cause.** Read as the author, a narrow opening undersells the insight; read as a reader, a wide one is a stranger's cosmology. Both readings are right, and no text satisfies both. Rereading your own paragraph two hours later carries no signal. The opening gets settled by cold readers, after there are chapters for it to open.
+
+## Checks for any new opening or approach
+
+Run these on a proposal before building it. Each is here because a draft failed it.
+
+- **Does it signal scope?** By the end of the first chapter the reader should know the book is about their marriage, their ward, their politics and their ordinary day, not only about how to feel toward monsters. (The political-enemies opening alone didn't; the atrocity opening alone didn't.)
+- **Does the reader supply the evidence before the name arrives?** A list of claims up front is a creed unless each comes with something they can check in ten seconds.
+- **Do the claims run ahead of the evidence?** Plausibility buys goodwill; assertion spends it. One check per thesis is enough to make it plausible, and a picture with no check gets marked as a picture.
+- **Whose case is it?** The reader works harder on a real case of their own than on a hypothetical, and harder as the target than as the sender. The author's findings are said as the author's.
+- **Is the recursion carrying the recognition?** No cold reader has taken one from the know-they-know logic; they take it from its consequences (where the sting reaches; who the message was for).
+- **Has a cold reader seen it?** Claude's and ChatGPT's "this lands" have both been wrong. `short-book/readers/reader-brief.md` is how.
 
 ## Does each scenario pull the reader forward, and in what order?
 

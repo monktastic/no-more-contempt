@@ -2,6 +2,25 @@
 
 *This is not a statement of the book's argument — `argument.md` does that, and does it better, in the book's own voice. This document answers three different questions: what in the book is actually new, how much weight each claim carries, and where the book is at risk of overclaiming. Read that one to know what the book says. Read this one to know what to defend.*
 
+## What's mine, in brief
+
+Three claims, each with a predecessor on its own. The contribution is what they say together.
+
+1. **It's meant to leak.** Projective identification already has an unconscious communication aimed at inducing a state in the other, so "meant" alone isn't new. What is: what leaks is *the hiding itself* (the concealment is the message); the sender needs the target's defiance as evidence, so deniability is required by the function rather than incidental; and what it teaches is that the part of you that knew, and couldn't prove it, isn't worth listening to.
+2. **What we're leaking is evil.** Jung, Solzhenitsyn, King and Girard stand nearby. What is mine is the identification all the way down: the smallest flash is the same stuff as the atrocity and carries the whole of it; the target reads it accurately; so the righteous response to evil is evil's main way of spreading, because it's the one form still praised as goodness.
+3. **It's not unconscious.** Fingarette and Sartre describe knowing-and-not-knowing, in one head. What is mine: limbo is *legible to other people, and we count on that*. We call the same state "unconscious" when it's ours and "conscious" when it's theirs.
+
+Together: a state that is neither conscious nor unconscious shows itself on purpose, in order to be read, by someone in the same state. Ignorance is interpersonal; it transmits, and the transmission is aimed. A practitioner reading cold put it better than this file had: "Nobody told me that my ma-rigpa goes out through my face and enlists my daughter's. That is his, and it is worth a book."
+
+**The loop in one sentence, from the sender's side:** By othering you, I'm trying to draw you into othering me, because when I see that in you, I'll recognize it as evil, which I'll then be licensed to destroy, because I won't know I caused it. (It carries claims 1 to 3 at once: the leak is aimed, what it grows in you is the real thing, and the licence depends on my not knowing. What it leaves out is the receiving side: that you can read all of it, and that it's addressed to the part of you I say isn't there.)
+
+Two more that belong on the list:
+
+4. **Contempt presupposes what it denies.** It is addressed to the part of the person it claims isn't there, by the same part in the sender. Nobody in Appendix 2 takes that step from contempt, and it is the step from the mechanism to the nature of mind. Readers given no theory reach it in their own words ("You don't perform for furniture"; "You don't send messages to a stump").
+5. **The checks.** Relieved or robbed; the ticket machine's *I'm not that*; the same sentence with and without "the extra"; "would I be glad if they got there before I did?" These are what readers carry out of the room, and they're a contribution in their own right: a way to catch it that doesn't need the theory.
+
+**The centre, and its status.** Everything above is possible only if awareness is caring and has nothing to differ by between one person and another: that is what lets contempt and love be addressed to the same place, what makes the knowledge common rather than merely shared, and what makes the turning-away evil rather than rude. That is the most remarkable claim in the book and the recursion is its shape. It is also the one thing no cold reader has taken a recognition from as logic; every one of them left at the know-they-know paragraphs. They take it from its consequences, where they can check it: where the sting reaches ("not your pride"), and "Contempt and love are addressed to the same place," which the readers who got that far called the clearest thing in the book. So it belongs at the centre of the short book's Chapter 3, stated as mine and arriving after the reader's own recognitions, with the formal version in Appendix 1. It should not open the book, and it should not be demoted to the appendix either.
+
 ## The one sentence
 
 **Contempt is not a response to evil. It is evil, and it spreads by recruiting the person who feels it.**
@@ -77,9 +96,9 @@ None of these is the book. The book's contribution is the *mechanism* that conne
 
 ---
 
-## Where the upload and the current draft conflicted (now resolved in the master)
+## Three places the argument could go wrong, and how they're held
 
-Three places. All three are corrected in `argument.md` and marked ▸. Kept here so the reasoning is on record.
+All three are as below in `argument.md`.
 
 **1. Willingness / choice.** `argument.md` §5 says ignoring conscience is *"a choice, made freshly each time"* and *"we choose to follow the justifications."* §11 says the darkness is *"nothing but our willingness to turn away."*
 
@@ -111,9 +130,5 @@ And two things beyond corroboration:
 **2. Limb language.** The upload's §11 says darknesses are *"limbs of a single organism."* The draft doesn't say this, because a limb implies a body that has parts, which reintroduces the presence you're trying to dissolve. The draft's version: one absence appearing in many places, like shadows in a valley pointing away from one sun. Same claim, no organism.
 
 **3. Where unity is claimed.** The upload puts *"they are the same one thing"* in Thesis 3, whose stated evidence is observable coordination. Coordination is observable; identity isn't. The draft splits them: cooperation-so-seamless-it-behaves-as-one is checkable and goes early; one-absence-in-many-places is Tier III and waits.
-
-## What the upload has that this document was missing
-
-Both now folded in above (items 13 and 14): the escape hatch, and the dark preference. Also worth flagging as strong and not in my list because they're consequences rather than claims: *goodness is what remains in the absence of self-deception* (the punchline), and *the only people with any right to contempt are the ones it has rendered incapable of it.*
 
 ---
