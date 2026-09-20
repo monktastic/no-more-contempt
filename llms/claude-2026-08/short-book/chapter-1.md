@@ -32,11 +32,11 @@ Couldn't we have predicted this would happen? So why do we do it anyway? Is it j
 
 ---
 
-I'll describe what it's like when I'm in your shoes, using an example from my real life. I'm arguing with a political opponent. I'm sure his ideas are harmful, and I may even be right. Somewhere in the argument I start seeing him the way you looked at the stranger. 
+I'll describe what it's like when I'm the one doing this. Someone has just been cruel to a person who didn't deserve it. The threat is over, and now I'm confronting him.
 
 If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension. Check if you recognize yourself in any of it.
 
-Part of me senses something *dark* about how I'm treating him, but I can't quite place it. Yet if I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.* Check if you sense how contempt carries that.
+Part of me senses something *dark* about how I'm treating him, but I can't quite place it. Yet if I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter. What I do to you no longer qualifies as harm.* Check if you sense how contempt carries that.
 
 Who *wouldn't* violently defy a message like that? I certainly would.
 
@@ -50,15 +50,13 @@ Is this a bit disingenuous? Maybe a little. But he's *actually bad*. I can *see*
 
 And anyway, I have a solid case: sure, some part of *me* might recognize my approach is a bit underhanded, but so what? It's not like he's a mind reader—so if he accuses me of it, it can only mean one thing: he's projecting.
 
-And wouldn't you know it: there he is, accusing me of exactly that. Not with his words, mind you, but I can see it in his eyes:
+But wouldn't you know it: there he is, accusing me of exactly that. Not with his words, mind you, but I can see it in his eyes:
 
 > *Don't pretend you're doing something noble here. We both know what you're actually doing.*
 
 Truth be told, something deep inside knows he's right. But I absolutely cannot afford to admit it, least of all here. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm right about them.
 
-The good news is, maybe I don't, because here's the thing: fighting evil genuinely requires being fierce. Isn't that all I'm doing? Surely that's all I'm doing.
-
-Look, I know I'm not a saint, but being a little sharp with a *bad person* is a pretty silly thing to quibble about.
+The good news is, maybe I don't have it in me, because here's the thing: fighting evil genuinely requires being fierce. Isn't that all I'm doing? Surely that's all I'm doing. Look, I know I'm not a saint, but being a little extra sharp with a *bad person* is a pretty silly thing to quibble about.
 
 And yet he just won't let it go. He thinks *I'm* the bad guy. *Ha!* Like I said: projecting. Classic.
 
@@ -80,7 +78,7 @@ This part of me—it needs him to be bad. I don't mean that as a standing fact a
 
 When I say it hides itself from me, I don't mean it keeps me from sensing it as dark. I did sense it. It just convinces me it's the *good kind* of darkness: the kind all good people must harbor to keep *real* evil in check. See if you've had that feeling before, too.
 
-It's the same quality I recognized in him. He had to "turn away" from (or to *other*) the people his ideas would hurt, in exactly the same way, to hold them. That's genuine darkness, and I really did assess it accurately. And that comes from a good place: my desire to see the world free of it.
+It's the same quality I recognized in him. He had to "turn away" from (or to *other*) the people he was harming. That's genuine darkness, and I really did assess it accurately. And that comes from a good place: my desire to see the world free of it.
 
 But the need to identify it with him? That doesn't come from a good place, even though it says it does. We'll see later where it actually comes from.
 
