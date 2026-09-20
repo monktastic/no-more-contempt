@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3e71c52951bb0132",
+  "active": "269c1fbe6f9fb8d9",
   "lastOpenFiles": [
-    "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/short-book/chapter-1.md",
+    "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/long-book/chapter-1.md",
     "llms/claude-2026-08/reader-lessons.md",
     "llms/claude-2026-08/audit.md",

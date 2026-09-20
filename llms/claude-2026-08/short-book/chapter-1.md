@@ -66,7 +66,7 @@ Yet for some reason, this only makes him even *more* defiant...
 
 ---
 
-This is the "hot" form of contempt. It can also run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, *this is all you are*, delivered by withdrawal, and they feel it just the same. If the hot version didn't sound like you, check this one. And if neither does—maybe because your enemies are rarely in the room with you—check if the people who *are* might sense something "dark" about your behavior.
+This is the "hot" form of contempt. It can also run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, *this is all you are*, delivered by withdrawal, and they feel it just the same. If the hot version didn't sound like you, check this one. And if neither does—maybe because your enemies are rarely in the room with you—check if the people who *are* in the room might sense something "dark" about your behavior.
 
 If not, I have no argument to offer here. Read on, and see whether anything else fits.
 
