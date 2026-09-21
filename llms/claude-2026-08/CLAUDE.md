@@ -90,7 +90,8 @@ map; `spiral-cycle.dot` is why the circularity is fine; `core-circle.dot` is the
 circle at the centre of the argument and the order that keeps it out of the spine.
 `general-book/` the book for readers who don't hold Buddhist views.
 `chapter-1.md` is its first chapter: a political fight, one claim, and the
-narrow route from the reader's own case to it; not built or published yet. `plan.md` is how it would be built: thesis-to-scenario
+narrow route from the reader's own case to it. `chapter-2.md` is a stub that
+opens on how the darkness behaves like an agent. Neither is built or published. `plan.md` is how it would be built: thesis-to-scenario
 map, order, forward pull, the book's outline, why Chapter 1 stays narrow,
 and the checks to run on any new opening. `essay-draft.md` is the 6,000-word general-audience
 essay (parked; its outline is in `archive/`), and the cold reads and the two

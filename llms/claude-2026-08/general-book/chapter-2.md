@@ -1,0 +1,9 @@
+# Chapter 2
+
+[TODO(Aditya): opened September 20 with the agent section, moved here from the end of Chapter 1 because it starts a new question (not "what is the darkness?" but "why does something that isn't a thing behave like an agent?"). The pill, the clip and the smaller sizes from the short book's interlude are the natural next material. "In this chapter" in the first paragraph now means Chapter 1 and needs rewording.]
+
+I've been saying "my darkness" as if it were a thing that does things. Look at what it has done in this chapter. It aimed the verdict, anticipated his reaction, and prepared to use it. It hid from me while showing itself to him. When he saw through one story it had another ready: an invitation, then fierceness, then projection. The stories kept changing; what they were for never did. It got stronger, not weaker, when I came close to catching it. And it pursued a goal I would never choose with my eyes open, a darker world, while feeling entirely like me.
+
+None of that is something I do by accident. A reflex doesn't improvise. This pursues a goal, changes tactics when it's blocked, and hides when it's looked for, all while I sincerely don't know it's happening. You have your own version, from the Limbo memory: whenever someone came close to exposing it, you found a way to deflect. Did you plan those deflections? I didn't plan mine. Try it now with something small you'd rather not look at, and watch a reason arrive by itself.
+
+So it behaves like an agent, and yet it isn't "me" in any sense I'd recognize. When I turn away, it's as though *something else* takes control. "I" (in the usual sense) literally cannot be the one showing you something that is hidden from me. It is in that sense that I refer to my darkness as an "it"—without absolving me of my responsibility while "it" is in control.

@@ -54,6 +54,25 @@ A draft of Chapter 1 once tried to make every major thesis plausible in one chap
 7. **What it isn't.** The two people who caught you; "the outrage at the harm stays, and so does the fight to stop it."
 8. **What was covered.** The upkeep check; "setting something down."
 
+## Chapter 1: the sequence of reveals
+
+The cluster that's hard to put in a line is *me / not me / takes me over / takes others over*. What untangles it: the me-or-not-me question is asked **once**, after the reader holds both halves of the evidence; it's half-answered there and the rest is promised; everything after is that fork turned on the enemy; and the promise is paid at the end. Each reveal answers the question the one before it raises.
+
+1. **The scene and the claim.** I'm addressing the part of you I say isn't there. *Raises:* what is the hypocrisy, exactly?
+2. **My case, from inside** (the monologue). *Raises:* he dug in; why did I do it?
+3. **The contrast.** Fierce without the verdict works, so it's the verdict, not the harshness. (Scope: this was hot; it also runs cold.)
+4. **What's happening.** I need him bad. Two jobs that pull against each other; two messages in the open at once, one avowed and one deniable. *Raises:* how can I know and not know?
+5. **Limbo**, from the reader's own memory, answers it.
+6. **How it behaves.** A fixed end pursued by varying means (my three stories; their deflections; "watch a reason arrive"). Not "look how precise": precision shows function, and a reflex is precise; improvising toward a goal is what marks purpose. That's the evidence for calling it "it," and the "it" paragraph sits here.
+7. **The fork, once.** Not me ("I" can't send what's hidden from me) and me (part of me knew). What each collapse costs, in me and then in him: "purely conscious" gives shame and contempt; "purely unconscious" gives no accountability and niceness. We never get both views of one instance. The sense in which it's genuinely not me is promised, not given.
+8. **The turn.** The same is true of him. *This is all you are* is the claim that he IS his "it."
+9. **What my verdict does to him.** "Why the fuck shouldn't I?" The world where looking out for yourself is realism. Deeper into limbo.
+10. **Who it was addressed to.** Only the part that isn't "it" could be hurt by it. The opening claim, paid.
+11. **The same stuff as evil, and the promise paid.** Kindness in the eyes; the dehumanizing gaze from the receiving end (limbo, aimed at you); a single move; the harm doesn't end with him. Why would anyone have to turn away to do harm? What I turned away *from* has the better claim to being me.
+12. **Covered, not gone.** The upkeep check; the hand-off.
+
+Scope paragraphs (the cold form, the people we love) go where they don't interrupt a question: after 3, or as the way into 7.
+
 ## Why Chapter 1 is narrow, and stays narrow
 
 Written for the day the grand version looks tempting again, which it will, because the insight is whole and any narrow door into it feels like underselling it.
