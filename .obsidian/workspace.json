@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llms/claude-2026-08/general-book/cold-reads-round8-2026-09-21.md",
+                "file": "llms/claude-2026-08/short-book/chapter-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cold-reads-round8-2026-09-21"
+              "title": "chapter-3"
             }
           }
         ],
@@ -241,19 +241,19 @@
   },
   "active": "3e71c52951bb0132",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-book/chapter-3.md",
+    "llms/claude-2026-08/general-book/cold-reads-round8-2026-09-21.md",
+    "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/short-book/chapter-1.md",
     "llms/claude-2026-08/general-book/cold-reads-round9-2026-09-22.md",
-    "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/general-book/chapter-2.md",
     "llms/claude-2026-08/long-book/chapter-1.md",
-    "llms/claude-2026-08/general-book/cold-reads-round8-2026-09-21.md",
     "llms/claude-2026-08/short-manuscript-clean.md",
     "llms/claude-2026-08/general-book/cold-reads-round7-2026-09-20.md",
     "llms/claude-2026-08/reader-lessons.md",
     "llms/claude-2026-08/audit.md",
     "llms/claude-2026-08/general-book/chapter-1-ledger.md",
     "llms/claude-2026-08/archive/general-essay-scaffold.md",
-    "llms/claude-2026-08/short-book/chapter-3.md",
     "short/chapter-4a.md",
     "llms/claude-2026-08/short-book/chapter-4a.md",
     "short/chapter-2.md",
