@@ -260,24 +260,25 @@ explaining, because the reader is doing the inference.
 The system prompt's model name goes stale when I switch models mid-session. The
 reliable tell is the git attribution line in the harness instructions: it names
 the current model and updates on every switch. Check it before deciding what
-you're allowed to do. If you genuinely can't tell, assume Opus.
+you're allowed to do. If you genuinely can't tell, assume an older Opus.
 
-**Opus may do:** tic sweeps, cross-reference checks, vocabulary checks, debt
-checks, scope sweeps reported but not applied, dag regeneration, file moves,
-pointer and link repair, applying a decision I have already made, building the
-working manuscript, grading feedback against the drafts.
+**Fable 5.1 and Opus 5.5 may do everything.** That includes the work that
+used to be Fable's alone: anything structural; anything that changes what the
+book claims or what it says it has earned; deciding what a chapter is allowed
+to assert; new prose that goes in the book; judging whether something has been
+shown; resolving a conflict between `argument.md` and a draft. The Fable
+section of `todo.md` is open to both.
 
-**Fable only:** anything structural; anything that changes what the book claims
-or what it says it has earned; deciding what a chapter is allowed to assert;
-new prose that goes in the book; judging whether something has been shown;
-resolving a conflict between `argument.md` and a draft.
+**An older Opus may do:** tic sweeps, cross-reference checks, vocabulary
+checks, debt checks, scope sweeps reported but not applied, dag regeneration,
+file moves, pointer and link repair, applying a decision I have already made,
+building the working manuscript, grading feedback against the drafts. If the
+task is structural or new prose, it does not do it: it adds it to the Fable
+section of `todo.md` with enough context to act on later, tells me it's
+queued, and finishes whatever mechanical part it legitimately can.
 
-If you're Opus and the task is Fable's, do not do it. Add it to the Fable
-section of `todo.md` with enough context to act on later, tell me you've queued
-it, and finish whatever mechanical part you legitimately can.
-
-If you're Fable, read the Fable section of `todo.md` at the start of the session
-and tell me what's in it before starting new work.
+If you're Fable 5.1 or Opus 5.5, read the Fable section of `todo.md` at the
+start of the session and tell me what's in it before starting new work.
 
 When you change a claim in a draft, check `argument.md` and update it too,
 marking the revision.

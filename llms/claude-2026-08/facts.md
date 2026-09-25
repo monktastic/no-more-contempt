@@ -16,7 +16,7 @@ Read the chain as Aditya put it: I'm turned away from you, which is a milder for
    Status: the receiving end (2.5, 3.9): you knew what the look was before you could have said. Not a claim about a theory of expression; a claim about what every reader has done.
 
 4. **So when I show you contempt, I show you the thing harm comes from, in me, and we both know what it is.** (from 1–3)
-   Status: inference. "Both know" here is approximately common knowledge: an announcement with the record removed. The out-loud test carries it for a reader: if he had said it in words, what would you have learned? Nothing; only that now you could quote him. Exact common knowledge needs line 11 and is not needed for anything before it.
+   Status: inference. "Both know" here is common knowledge in Lewis's sense, held tacitly: the look and each of us seeing it land are the public event, and what's missing is the record. The out-loud test carries it for a reader: if he had said it in words, what would you have learned? Nothing; only that now you could quote him. Line 11 is not needed for this; the belief-tier sameness of awarenesses explains why the basis is shared, and nothing before it waits on that.
 
 5. **I'm calling it righteous. Contempt is malice that needs to be seen and needs to deny itself.**
    Status: definition, and the reader's check (2.7, the taunt; 4.5 the extra). Malice alone doesn't need the mask. Deniability faces third parties and my own account of myself, not you: the mockery is on the record; the whiff isn't.
