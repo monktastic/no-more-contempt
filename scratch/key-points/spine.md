@@ -29,7 +29,7 @@ Not as bullets: 38 nodes with the dependencies below is `dags/book-map.dot` alre
 6. The hiding is the revealing: it has to be deniable and it must not be hidden; the provocation is aimed; nothing you do may be allowed to clear you. (§5)
 7. It behaves like an agent and isn't one; borrowed equipment; not a literal thing. (§7)
 8. Contempt is evil, as identification, not as a judgment; the cover ("mine is the good kind") is refuted by the sting; the smallest morsel carries the whole. (§3)
-9. It teaches: the part of you that knew, and couldn't prove it, isn't worth listening to; that's how it spreads. (§5)
+9. It teaches: the part of you that knew, and couldn't prove it, isn't worth listening to; that's how it spreads. Two taunts carry it, in every version: the human one (*why the fuck shouldn't I?*) and the parasite's (*look how easily I can commandeer the "good people"; there is no light, only what you decide to call good*). (§5, §7)
 10. The paradox, seeded: something was using you, and you're fully responsible. (§1 layers)
 
 **Interlude**
@@ -37,7 +37,7 @@ Not as bullets: 38 nodes with the dependencies below is `dags/book-map.dot` alre
 
 **Chapter 2**
 12. The light: the part that cares, fierce, for all of it; the asymmetry (one direction is recognition, the other departure); love as orientation. (§12)
-13. The darkness's message is not that good isn't real but that you get to decide what it means; its one goal is to make us forget there was a light to steer by. (§12)
+13. The darkness's message is not that good isn't real but that you get to decide what it means; its one goal is to make us forget there was a light to steer by. It can't get there head-on (with someone in view you can't even wish them harm), so it nudges us off true North and hands the compass to the part that argues. It uses reason; it isn't reason, and the part that knows is the one thing it can't borrow. (§12, §7)
 14. Fierce is where the darkness gets in, and you can sense it from the sending end. (§4)
 
 **Chapter 3**
@@ -64,7 +64,7 @@ Not as bullets: 38 nodes with the dependencies below is `dags/book-map.dot` alre
 27. Nobody gets both views of one instance; conflation has two faces. (§7)
 
 **Chapter 8**
-28. Limbo is the water: most of what we do, most of the day, with no enemy in view. (§10)
+28. Limbo is the water: most of what we do, most of the day, with no enemy in view. Most of our mental activity is self-serving at the world's expense (self-cherishing): evil at a low dose, though the book doesn't lean on the word; easy to see in others' nominally good projects, known by the one doing it and missed because they follow the part that proves; its damage runs through invisible causality. (§10)
 
 **Chapter 9**
 29. Why would I want to stop corruption when I feel so good judging it? Part of me doesn't; relieved or robbed. (§6)
