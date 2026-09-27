@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"a pill\"and the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,7 +268,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1486470ee295d96f",
+  "active": "328f62f7318c5680",
   "lastOpenFiles": [
     "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/parasite-reveal.md",
