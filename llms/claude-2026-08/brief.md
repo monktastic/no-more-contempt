@@ -15,7 +15,7 @@ Depending on the background of the reader, some claims here will be obvious, som
 ---
 ## Turning away
 
-When we're doing something wrong, part of us knows it, but we hide that knowledge from ourselves. The knowledge is consciously accessible; we're just *turned away* from it. It's conscious, but we're not aware of it. I call this state *limbo*. It's not just one bit of knowledge that lives in limbo, but our whole behavior while in it, and its implications.
+When we're doing something wrong, part of us knows it, but we hide that knowledge from ourselves. The knowledge is consciously accessible; we're just *turned away* from it. It's conscious, but unaware. I call this state *limbo*. It's not just one bit of knowledge that lives in limbo, but our whole behavior while in it, and its implications.
 
 We call this state "unconscious" in ourselves and "conscious" in our enemies. We "had no way of knowing" whereas they "do it on purpose"—because they have some kind of *bad essence* we don't have. Thus we deserve understanding and they deserve contempt.
 
@@ -42,9 +42,9 @@ So I bluster on, now knowing that I'm only revealing my own hypocrisy. Normally,
 
 Which makes him feel more justified in his self-deception, and drives him further from his better nature. And that proves me right about him, because what kind of person reacts in such an unhinged manner to righteous behavior?
 
-And I've done nothing to him but deliver those two messages. There's no separate deed, so there's nothing to point to. And that there's nothing to point to is part of what he receives, which makes it more maddening, which I knew, which...
+My fear is alleviated: I have nothing in common with this "bad person" after all. The problem is, part of me will always know what I've done.
 
-After this interaction, my fear is alleviated: I have nothing in common with this "bad person" after all. The problem is, part of me will always know what I've done.
+All it required was delivering those two messages. There's no separate deed, so there's nothing to point to. And that there's nothing to point to is part of what he receives, which makes it more maddening, which I knew, which...
 
 (Two checks I give readers here. First, notice if there's something uniquely satisfying about violently punishing evil. Second, if you could either deliver your enemy the righteous vengeance they richly deserve, or a pill that would instantly enlighten them—is some part of you itching to mash that first button?)
 
@@ -78,22 +78,26 @@ In the reader's own terms: you wouldn't feel contempt for your enemies unless pa
 ---
 ## How quiet it usually is
 
-The enemy in front of me is the easy case. Most contempt is quieter than that: a vague sense of *well, I could never do that*, or *I'm just a better kind of thing than them*. It isn't always moral. Maybe I'm smarter, or better-looking, or more disciplined; in any case, more deserving. The stupid, the slow and the weak get the same verdict, with better cover: *I'm only being accurate.* It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing.
+That's the hot version. Contempt often runs cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and they feel it just the same.
 
-It can run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and they feel it just the same.
+Most is even quieter: a vague sense of *well, I could never do that*, or *I'm just a better kind of thing than them*. It isn't always moral. The stupid, the slow and the weak get the same verdict, with better cover: *I'm only being accurate.* It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing.
 
 I send it to people I love. The *what's wrong with you?* that needs them to know they're broken. The sigh that tells them what I really think of them, dressed up to make me seem like the reasonable one. The look on their face that tells me it landed, which I pretend not to have seen, leaving them nothing to accuse me of. It has the same flavor as what we call evil. Part of me knows it will spread the same way, too, and that's part of why I send it.
 
-I don't only send it *to* people; I send it *about* them, to my allies, with nobody's face in view. That spreads it too. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it.
+I don't only send it *to* people; I send it *about* them, to my allies, with nobody's face in view. Or online, on social media. That spreads it too. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it.
 
-The subtlest form of all is aimed at everything: a flatness toward the world itself, where trees and animals and weather are just so much inert stuff. Most of us have it even when we're kind to most people. Part of us can already see that the world isn't inert; that seeing lives in limbo too. When it's uncovered, it doesn't feel like a new perception, or like something I've been trained to see. It feels like something that was there all along.
+The subtlest form of all is aimed at everything: a flatness toward the world itself, where trees and animals and nature itself are just so much inert stuff. Calling it "contempt" sounds ridiculous, but it has the same essence, and originates from the same place.
+
+The truth is, something in us can sense that we're not as separate and independent as we'd like to believe. I hate the people who don't see this—the ones who enjoy watching our world burn. But I'm starting to wonder whether my hatred is serving the world, or only myself.
+
+Part of us can already see that the world isn't inert; that seeing lives in limbo too. When it's uncovered, it doesn't feel like a new perception, or like something I've been trained to see. It feels like something that was there all along.
 
 ---
 ## Self-serving
 
 Most turning away doesn't feel like contempt at all. It's quieter: the mind angling, all day, for small advantages at the world's expense, and never letting us know it's doing so. The Mahayana calls it self-cherishing; I'll call it self-serving. It's the same turning away, at a low dose.
 
-We see it easily in others: the private equity firm that buys nursing homes and calls the staff cuts efficiency, the politician who votes for the donor's bill to protect jobs. Each would sincerely say they're doing good, and each knows. That's limbo. I think it degrades the world through a causality no accounting shows, and yet one that part of us always knows.
+We see it easily in others: the private equity firm that buys nursing homes and calls the staff cuts efficiency, the politician who votes for the donor's bill to protect jobs. Each would sincerely say they're doing good, and each knows. That's limbo. It degrades the world through a causality no accounting shows, and yet one that part of us always knows.
 
 And when my contempt is aimed at those people, and not just at what they did, my mind is doing the same thing: making the world darker for my own benefit, while telling itself a very convincing story of how what it's doing is good. This is why, if I want to end theirs, I have to see how to end mine.
 

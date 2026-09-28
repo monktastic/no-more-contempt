@@ -187,6 +187,8 @@ Banned outright, because I keep finding them:
   interlude." The reader is reading a book, not a ledger. Say the thing.
 - **"It's worth noting", "it's worth being exact", "here's the thing",
   "crucially", "fundamentally", "ultimately", "to be clear", "that said".**
+  These are fine inside a monologue, where they're the narrated mind's voice,
+  not mine.
 - **Invented verbs, nouns pressed into service as verbs, and abbreviations I
   don't use.** No "unpack", "surface" as a verb, "lean into", "double down".
 - **Cutesiness.** No winking at the reader, no jokes that ask to be noticed.

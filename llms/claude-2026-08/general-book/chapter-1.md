@@ -72,13 +72,13 @@ If it sounds like I'm contradicting myself in places, it's because two parts of 
 
 I've decided he's a *bad person*—not just holds bad ideas or does bad things, but *is* bad. And I want him to feel the full weight of it, almost as a kind of punishment. My eyes are showing him something like: *I'm a better kind of thing than you. I could never be like **that**.* I tell myself that maybe this will get through to him. That if he finally sees how bad he is, maybe he'll change.
 
-But part of me senses something dark about my message, even though I can't quite place it. If I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.*
+But part of me senses something dark about my message, though I can't quite place it. If I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.*
 
 I would defy a message like that too, and violently.
 
 If I knew this is what I was conveying, it would undermine the verdict I feel strangely attached to: he's **bad**, dammit. Irredeemable. So I push that knowledge out of mind. I'm only being fierce, and if he reacts poorly, well, it only proves my point.
 
-And it's not like I'm *actually* threatening him. I'm just hinting at what will happen if he doesn't stop. When you look at it that way, it's really more like an *invitation*—to give up his darkness and return to the realm of those who matter.
+It's not like I'm *actually* threatening him. I'm just hinting at what will happen if he doesn't stop. When you look at it that way, it's really more like an *invitation*—to give up his darkness and return to the realm of those who matter.
 
 But the truth is, there's nothing inviting about my tone or gaze. Nothing that signals he'd be welcome back. How could there be, when I'm trying to convince him that *this is all he is*?
 
