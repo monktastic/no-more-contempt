@@ -192,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "philip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -311,6 +312,8 @@
   },
   "active": "9f617938f92e0f9f",
   "lastOpenFiles": [
+    "llms/claude-2026-08/short-book/readers/cold-reads-round12-2026-09-29.md",
+    "llms/claude-2026-08/short-book/readers/audit-round12-2026-09-29.md",
     "llms/claude-2026-08/short-book/intro.md",
     "llms/claude-2026-08/general-book/chapter-1.md",
     "llms/claude-2026-08/short-book/preface.md",
@@ -335,8 +338,6 @@
     "llms/claude-2026-08/long-book/chapter-1.md",
     "llms/claude-2026-08/short-manuscript-clean.md",
     "llms/claude-2026-08/general-book/cold-reads-round7-2026-09-20.md",
-    "llms/claude-2026-08/reader-lessons.md",
-    "llms/claude-2026-08/audit.md",
     "scratch/round5-as-sent-to-readers/later-chapters.diff",
     "scratch/round5-as-sent-to-readers",
     "llms/claude-2026-08/short-book/readers",
