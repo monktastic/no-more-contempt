@@ -117,21 +117,27 @@ He is denied the ability to prove I've done anything. It's carried entirely by m
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient. The stories keep changing; the conclusion never does.
 
-He sees that he cannot appeal to my better nature, because I think this *is* my better nature: harm that's sure it's good. I'm overriding the part that knows (that I'm causing harm) in favor of the one that can prove (I'm doing good). And that's what teaches him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this? It is like a corruption that's passing from my mind to his—and it's not an accident: it was the goal.
+He sees that he cannot appeal to my better nature, because I think this *is* my better nature: harm that's sure it's good. I'm overriding the part that knows (that I'm causing harm) in favor of the one that can prove (I'm doing good). And that's what teaches him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this? It is like a corruption that's passing from my mind to his.
 
 We never tell ourselves "I'm going to ignore my conscience." We just notice that we live in a world where others don't follow theirs. And if it's just an advisor that can be vetoed; one more voice in a sea of competing rationalizations, then why would I follow my own? I'd be the chump.
 
 ---
 
-For me to do this, I must be present enough to plant the evidence—track his reactions, counter them, steer around obstacles, etc.—while being absent enough not to recognize it as planted. He sees it as intentional because, in an important sense, it is. And yet I can't be fully aware of it. I can't sincerely hold against him evidence that I know I planted.
+For me to do this, I must be present enough to plant the evidence—track his reactions, counter them, steer around obstacles, etc.—while being absent enough not to recognize it as planted. He sees it as intentional because, in an important sense, it is: it's conscious and goal-oriented. And yet I can't be fully *aware* of it. I can't sincerely hold against him evidence that I know I planted. Conscious yet unaware: that's the limbo state.
 
-In that sense, it cannot be "my" intention. But whose intention is it, exactly? 
+In the moment, it felt like me: like clear sight, even like righteousness. But if I could see that I was entrenching my enemy, could I really want it? No. In that sense, it is not "my" intention. But then whose intention is it, exactly?
 
-There is a part of me that helps me get away with self-serving behavior, and that needs to know I'm nothing like the "bad people" who do exactly that. It acts as if it has goals of its own, and it pursues them *intentionally.* It is the part that craves punishing them—and this is *how* it punishes them: by keeping them trapped in the corrupted state that enables harm. It reveals itself to them through my eyes, knowing they will recognize it for what it is, but without recourse.
+There is a part of me that helps me get away with self-serving behavior, and that needs to know I'm nothing like the "bad people" who do exactly that. It acts as if it has goals of its own, and it pursues them *intentionally.*
 
 Don't mistake the grammar for the claim: I'm not saying there's a separate thing living in me. I'm saying that, while I'm turned away, my own mind behaves as if there were. None of this lets me off the hook, though. It's my mind, and I answer for what it does.
 
+It is the part that craves punishing them, and here's how it does it: by keeping them trapped in the corrupted state that enables harm. It reveals itself to them through my eyes while condemning the same thing in them, knowing they will recognize what I'm doing, but without recourse.
+
 I desperately want to call this part of myself *unconscious* (if I can admit I have it at all), because otherwise what would it make me? Conscious harm is the kind of thing only *bad people* cause. In me it's always an accident; something I had "no idea" I was doing. In them, it's done with "full awareness." That's why I deserve understanding and they deserve contempt.
+
+It runs on the fear I started with, that I might be like them. Every enemy it helps me make gives that fear somewhere to point other than at me.
+
+It's doing the same thing in him, and each of us is sure we're free of it.
 
 ---
 
@@ -176,37 +182,37 @@ Can you remember a time when you corrected someone in a nasty way, but then late
 ---
 ## Common knowledge
 
-I said that the signal is the pretense that there is no signal. But a wordless, seemingly-contentless signal only works if both parties already know what it means. And it only reads *as* a signal (and not a slip) if each knows that the other knows that the other knows, etc.
+Notice what this trap relies on. His eyes accused me of being a hypocrite: *don't pretend you're doing something noble here*. And part of me knew he was right. But why? Hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
-So what is it that we both know? Here is the unspoken content, unrolled:
+Except there is one we share. At some level, we all recognize *turning away* as the state that licenses harm by not facing what we're doing. He knew it, I knew it, he knew I knew it, etc. And that only makes sense if we each recognize that there's something there in the other to turn away *from*—what I've been calling our "better nature."
 
-> *I am turned away from my better nature. I know you know what this means, because it's the same trick that enables your own wrongdoing. I want you to know that I know this about you, so that you can feel the maddening hypocrisy of what I'm doing to you.*
+Part of me doesn't want to believe there's a shared standard. Because again, if there is, then maybe we're not as different as I think. That's why, on the surface of my mind, I rejected his claim of hypocrisy. I tried to reason my way out of it—and he saw that, too.
 
-You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, but it can't be named without sounding crazy.
+You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, but it can't be named without sounding crazy. I told myself I was a better kind of thing than him. But I couldn't believe that without lying to myself, and without him knowing that I was, and me knowing that, etc.
 
-Think about what my enemy's eyes accused me of: *Don't pretend you're doing something noble here.* That's hypocrisy: doing to him the very thing I condemn him for. And hypocrisy only means something between two people who answer to the same thing.
-
-It works because it is something we each already know about one another. That's why it works even on strangers. In the opening, were you surprised that I knew you needed limbo to cause harm? If not, why not?
-
-I said I was in limbo about provoking him, but that wasn't the first thing I hid from myself. The first thing was the lie that I'm a better kind of thing than him. I cannot believe that without lying to myself, and without him knowing that I am, and me knowing that, etc. 
-
-And where does that signal land? Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
+And where does my signal land? Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
 Think of the last time you sent that look yourself. Did you know they'd read it? Did you mean them to know you meant it, while giving yourself an "out"? Did you count on their seeing that too, so they couldn't call it a slip, or name it without sounding crazy?
 
 Love and contempt are addressed to the same place. One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
-I must speak directly to the part of him that I claim doesn't exist. In my desperate need to prove myself right (and righteous), I am attempting to bury it under another layer of confusion. Of *course* that's painful to confront. No wonder I must hide it so carefully from myself, and call it "unconscious." What I'm hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am.
+I was speaking directly to the part of him that I claimed didn't exist. And, in my desperate need to prove myself right (and righteous), I was attempting to bury it under another layer of confusion. He sensed that, which is where his accusation came from. And I felt the truth in it, which is why I couldn't stand to face it.
 
-His accusation—*we both know what you're up to*—is pointing at exactly this. At some level, we all know how we use one another to hide our own darkness from ourselves. We can even get away with it, for a while. But I'm not sure we get away with it forever.
+No wonder I must hide it so carefully from myself, and call it "unconscious." What I'm hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am.
+
+It's hard to describe the excruciating pain I experienced the first time I saw this—that I had been smothering the "innocent" part of my enemies, and that I had always known it but carefully hidden it from myself.
+
+~~His accusation—*we both know what you're up to*—is pointing at exactly this. At some level, we all know how we use one another to hide our own darkness from ourselves. We can even get away with it, for a while. But I'm not sure we get away with it forever.~~
+
+Maybe I'm wrong, and this isn't how it works in others. But this is how things appear to me.
 
 ---
 
-How is it possible that we all know this about each other? It's because my better nature *is* what sees yours. What looks out of me is the same kind of thing I'm looking at in you. Like two sets of eyes gazing into one another, each already sees that the other sees that the other sees, etc. Nothing has to be calculated.
+~~How is it possible that we all know this about each other? It's because my better nature *is* what sees yours. What looks out of me is the same kind of thing I'm looking at in you. Like two sets of eyes gazing into one another, each already sees that the other sees that the other sees, etc. Nothing has to be calculated.~~
 
-My inability to see this about you isn't due to something I lack. It's because of something I've *added*. Some belief about what you are, often as a result of something I believe about myself, whether or not I realize it. Underneath it, usually, is fear, pain, or pride: something I'm not ready to face in myself.
+When I'm unable to see your better nature, it isn't due to something I lack. It's because of something I've *added*. Some belief about what you are, often as a result of something I believe about myself, whether or not I realize it. Underneath it, usually, is fear, pain, or pride: something I'm not ready to face in myself.
 
-Here's something you can check: in moments where you're feeling fully whole—not a trace of either shame or egoic pride: is it easier to forgive others? To see the part of them that doesn't want to cause harm, and to help correct their behavior in a way that actually works?
+Here's something you can check: in moments where you're feeling fully whole—not a trace of either shame or pride: is it easier to forgive others? To see the part of them that doesn't want to cause harm, and to help correct their behavior in a way that actually works?
 
 As best I can tell, even the worst person must turn away from a deep part of themselves to cause harm, just as I must. Their better nature can be out of reach, but I don't think it's ever inverted. There's no "bad essence" underneath, driving it. Here's a brief exercise that might help elicit that recognition.
 
@@ -227,7 +233,6 @@ Here's what I've found in myself. The more responsibility I take for the harm ca
 And fewer people look inherently defective, or less than me. Whether that number ever goes to zero is something you can discover for yourself.
 
 ---
-## Other kinds of contempt
 
 Most contempt is quiet: a vague sense of *well, I could never do that*, or *I'm just a better kind of thing than them*. It isn't always moral, but it's always a sense of being more deserving. The stupid, the slow and the weak get the same verdict, with better cover: *I'm only being accurate.* It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing.
 
@@ -245,24 +250,18 @@ If seeing this makes you want to hide, notice that's the same verdict ("you're *
 
 <!--
 
+
+
 HOLDING PEN. Not in the chapter. Grouped by where each might go.
 
 ---
 Chapter 2: Parasite, plausible deniability, turning away creates a gap.
 
-Nor could I actually want him to become more entrenched.
- 
-[And in the moment, it felt like me: like clear sight, even like righteousness.
-
-This part of me is working to widen that seeming difference between us. And how does it do that? By *revealing* itself to them. Showing them:
+[This part of me is working to widen that seeming difference between us. And how does it do that? By *revealing* itself to them. Showing them:
 
 > *Yeah, I can see it in you. And look, I have it too—and I can use mine against you and get away with it, because I'm a "good person."*
 
-Here's how it feels to me. Turning away from my *better nature* produces a gap in my awareness—one that, by definition, I don't notice. In that gap, this aspect of my mind takes control. It produces conditions that I hate, but that help it hide itself better from me, and which convince me to give it more control.
-
-It runs on the fear I started with, that I might be like them. Every enemy it helps me make gives that fear somewhere to point other than at me.
-
-It's doing the same thing in him, and each of us is sure we're free of it.]
+Here's how it feels to me. Turning away from my *better nature* produces a gap in my awareness—one that, by definition, I don't notice. In that gap, this aspect of my mind takes control. It produces conditions that I hate, but that help it hide itself better from me, and which convince me to give it more control.]
 
 ---
 
