@@ -101,13 +101,13 @@ Here are two checks you can try on yourself. Forget about the "right" or "decent
 
 Is there something primally, viscerally satisfying about seeing evil violently punished?
 
-Bring to mind your worst enemy. Say you had the choice between delivering them the vengeance they so richly deserve, or a pill that would instantly give them a change of heart. Imagine no one will ever know you were given this choice, let alone what you chose. Is some part of you itching to mash that first button? I'll be honest: there is in me.
+Bring to mind your worst enemy. Say you had the choice between delivering them the vengeance they so richly deserve, or a pill that would instantly give them a change of heart. Imagine no one will ever know you were given this choice, let alone what you chose. Is some part of you itching to choose the first? I'll be honest: there is in me.
 
 Something in me craves punishment, independently of any good it might do; over and above any justice it might serve. I tell myself it's innocuous as long as I don't act on it. Confined to my skull. And that lie is exactly how it escapes my skull, causing harm.
 
 ---
 
-I'll go ahead and name what's happening. One part of my mind is provoking him into the reaction I need, while another part is kept in the dark, so that I can absolve myself of blame. This part is worth slowing down for, since it's a bit of a brain-bender.
+I'll go ahead and name what's happening. One part of my mind is provoking him into the reaction I need, while another part is kept in the dark, so that I can absolve myself of blame.
 
 He can see both halves: that I'm provoking him, and that it's hidden from me. He feels it as a maddening combination of messages—*I know exactly what I'm doing* and *I'll never own up to it*—and that's enough to make him dig in. And neither half alone would get me what I need: his reaction, and my innocence. If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation of malice would have somewhere to land, making *me* the bad guy.
 
@@ -182,6 +182,10 @@ Can you remember a time when you corrected someone in a nasty way, but then late
 ---
 ## Common knowledge
 
+But this all raises a curious question: how could the part of me that was provoking him be so sure of his reaction?
+
+I said that the signal is the pretense that there is no signal. But a wordless, seemingly-contentless signal only works if both parties already know what it means. And it only reads *as* a signal (and not a slip) if each knows that the other knows that the other knows.
+
 Notice what this trap relies on. His eyes accused me of being a hypocrite: *don't pretend you're doing something noble here*. And part of me knew he was right. But why? Hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
 Except there is one we share. At some level, we all recognize *turning away* as the state that licenses harm by not facing what we're doing. He knew it, I knew it, he knew I knew it, etc. And that only makes sense if we each recognize that there's something there in the other to turn away *from*—what I've been calling our "better nature."
@@ -193,6 +197,12 @@ You may have felt this before, as a kind of hall of mirrors: you both know exact
 And where does my signal land? Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
 Think of the last time you sent that look yourself. Did you know they'd read it? Did you mean them to know you meant it, while giving yourself an "out"? Did you count on their seeing that too, so they couldn't call it a slip, or name it without sounding crazy?
+
+So what is it that we both know? Here is the unspoken content, unrolled:
+
+> *I am turned away from my better nature. I know you know what this means, because it's the same trick that enables your own wrongdoing. I want you to know that I know this about you, so that you can feel the maddening hypocrisy of what I'm doing to you.*
+
+It works because it is something we each already know about one another. That's why it works even on strangers. In the opening, were you surprised that I knew you needed limbo to cause harm? If not, why not?
 
 Love and contempt are addressed to the same place. One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
@@ -222,7 +232,7 @@ I'm not saying you're as bad as him. But ask yourself where that similarity migh
 
 My justifications are believable only to me and my allies; my enemy's, only to his. We'd disagree on the details of what's good on almost any subject you could name. But neither of us has to be told what turning away means, and so neither of us has to be told what turning toward means, either. That's a good we both recognize, and each of us knows the other recognizes it, or neither of us could have read the other's look. Part of me knows the difference between the "good" I've invented to excuse myself and that one. I just tell myself I don't.
 
-Whatever "good" turns out to mean, there's only one thing in us that is trying to sense its way toward it—and it isn't just a part of us. It *is* us. That's why the best thing I can do for anyone, and through them for the world, is help put them back in touch with it. And the worst thing I can do is what I did to my enemy: push them further away.
+Whatever "good" turns out to mean, there's only one thing in us that is trying to sense its way toward it: our better nature. That's why the best thing I can do for anyone, and through them for the world, is help put them back in touch with theirs. And the worst thing I can do is what I did to my enemy: push them further away.
 
 ---
 
@@ -233,6 +243,7 @@ Here's what I've found in myself. The more responsibility I take for the harm ca
 And fewer people look inherently defective, or less than me. Whether that number ever goes to zero is something you can discover for yourself.
 
 ---
+## Other kinds of contempt
 
 Most contempt is quiet: a vague sense of *well, I could never do that*, or *I'm just a better kind of thing than them*. It isn't always moral, but it's always a sense of being more deserving. The stupid, the slow and the weak get the same verdict, with better cover: *I'm only being accurate.* It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing.
 
