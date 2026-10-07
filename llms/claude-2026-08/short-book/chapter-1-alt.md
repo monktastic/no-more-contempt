@@ -95,7 +95,7 @@ He can see both halves: that I'm provoking him, and that I can't admit it. He fe
 
 In brief: I am in limbo about provoking him, and showing him that I'm in limbo is itself the provocation. Normally, having my enemy see my self-deception would be horrible. In this case, it's the only thing that works.
 
-The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for: getting away with it.
+The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for: doing harm while feeling righteous about it.
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
@@ -229,9 +229,9 @@ Recall what my enemy's gaze was accusing me of: *we both know what you're really
 
 **Contempt only works because we already know we're the same kind of thing.** I have to know that he has a better nature to be pushed from, that he can read that I'm turned away from mine, that he knows *I* know he can read it (so that it reads as a signal and not a slip), and so on.
 
-In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you'd had to turn away to do it. Try to imagine the same act without turning away, looking squarely at what you knew the whole time. Could you have done it? Does it surprise you that I could count on that about you? If not, why not?
+In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you'd had to turn away to do it. Try to imagine the same act without turning away, looking squarely at what you knew the whole time. Could you have done it?
 
-You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows, without end. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
+You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
 
 He charged me with hypocrisy, and I knew his charge was valid. But hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
@@ -247,7 +247,7 @@ I was speaking directly to the part of my enemy that I claimed didn't exist—hi
 
 It's difficult to describe the excruciating pain I felt the first time I saw this—that I'd been smothering the innocent part of others, and that I'd always known it but carefully hidden it from myself. I don't mean this as an inference. I mean it in the same way you found that the knowledge of your own wrongdoing didn't feel like new information—because it wasn't. Of *course* that would make him rebel. Remember the threat my look carried: *your wellbeing has ceased to matter.* I was revealing my capacity for *cruelty for its own sake*—the thing I hate most in this world. And when it worked, and I got away with it, I felt a flash of *satisfaction*.
 
-Maybe this isn't how it works in others, but it's what I found in myself. It's why I don't think sadism is a different kind of thing, but the same thing at full strength.
+Maybe this isn't how it works in others. But it's what I found in myself. It's why I don't think what we call "pure evil" is a different kind of thing, but the same thing at full strength.
 
 What I've been hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am. In fact, "bad people" is just the name I use to describe people I feel okay doing this to.
 
