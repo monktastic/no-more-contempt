@@ -33,7 +33,7 @@ As best I can tell, most of us don't want to harm each other, and usually won't 
 
 Here's a quick check. Picture someone who's done nothing to you, like the last cashier you spoke to, and see their face clearly. Imagine giving them a small kindness first: a real smile, a thank-you. Then a small cruelty: a sneer, a cutting remark. Did either one need a reason before it would go?
 
-I know this is true of myself, and I suspect it's true of others. When I can really see that they're ultimately just like me, harming them is difficult. The part of me that sees that, and that I must turn away from to cause harm: call it my *better nature*.
+I know this is true of myself, and I suspect it's true of others. When I can really see that they're ultimately just like me, harming them is difficult. The part of me that sees that, and that I must turn away from to cause harm: call it my *better nature*. Turning away from it isn't a matter of where my eyes are. I can do it staring straight at someone.
 
 Notice an asymmetry: I've felt remorse for harm I've done, but never for having been decent. Regret that it cost me, sure—anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish. But never remorse: that sickening sense of having gone against myself. Have you?
 
@@ -52,7 +52,7 @@ I'll narrate what happens in my mind when I confront a "bad person." My target h
 
 I've decided he's a *bad person*—not just someone who does bad things, but who *is* bad. My eyes are communicating something like: *I'm a better kind of thing than you.* And I want him to feel the full weight of it, almost as a kind of punishment. 
 
-Part of me senses something dark about my message, though I can't quite place it. If I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.*
+Part of me senses something dark about my message, though I can't quite place it. If I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter.* There's no bottom to what can be done to such a person.
 
 I would defy a message like that too, and violently.
 
@@ -89,7 +89,7 @@ If the hot version didn't sound like you, read what follows with the cold one in
 ---
 ## The Corruption
 
-I'll just go ahead and name what's happening. I see *genuine darkness* in him, and my fierce desire to stop him comes from a good place. But my verdict that it's *what he is*? That doesn't. It's a provocation. One part of me knows that, but another part is kept in the dark, so that I can proceed while absolving myself of responsibility for the outcome.
+I'll just go ahead and name what's happening. I see *genuine darkness* in him, and my fierce desire to stop him comes from a good place; so do the certainty and urgency, the sense that I must not let this go. But my verdict that it's *what he is*? That doesn't. It's a provocation. One part of me knows that, but another part is kept in the dark, so that I can proceed while absolving myself of responsibility for the outcome.
 
 He can see both halves: that I'm provoking him, and that I can't admit it. He feels it as a maddening combination of messages—*I know exactly what I'm doing* and *I'll never own up to it*—and together they're enough to make him dig in. Neither half alone would be enough to get me what I need: both his reaction and my innocence. If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation would have somewhere to land, making *me* the bad guy.
 
@@ -117,6 +117,8 @@ That's what's happening in my enemy. I sense his hardening, and feel a brief fli
 
 Any doubt I had about him is now erased. Which means I don't have to worry about being like the *bad people.* And that's a much bigger deal than I might notice in the moment. It means I don't have to introspect on my own motives and behaviors. If anything, it's my duty to be more cruel to the *bad people*.
 
+From the inside, being proven right and being right are the same experience. The only difference is who produced the evidence.
+
 If I'd looked carefully, I'd have seen my role in causing it. So I didn't—and that *was* my role in causing it.
 
 ---
@@ -135,7 +137,7 @@ And that lie is exactly what lets me act on it, in ways I rarely recognize until
 
 ## Whose intention
 
-The trap I described requires considerable precision.
+Was any of that on purpose?
 
 For me to do it, I must be present enough to plant the evidence—track his reactions, counter them, steer around obstacles, etc.—while being absent enough to sincerely believe I didn't. And I must show him both halves while not knowing that I am.
 
@@ -159,7 +161,7 @@ I desperately want to call this behavior *unconscious* (if I can admit I do it a
 
 When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me. What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. And sometimes I'm simply wrong: what they did wasn't harm at all. Sometimes I only view it that way because it serves me somehow.
 
-The "genuine darkness" I saw in my enemy: it is the very thing I'm showing him now. Part of me *knows* it's the same thing, and relies on him recognizing it as such, or else the trap wouldn't work. But if I admitted that to myself, I would be forced to stop—and that is why I never do.
+The "genuine darkness" I saw in my enemy: it is the very thing I'm showing him now. I'm judging him *from* the very state I'm judging him *for*. Part of me *knows* it's the same thing, and relies on him recognizing it as such, or else the trap wouldn't work. But if I admitted that to myself, I would be forced to stop—and that is why I never do.
 
 I want to ascribe all this to some kind of "bad essence," which is a convenient way to stop further investigation, both in myself and others. I think badness is the result of turning away, not its cause. If I try to make it a cause—whether consciously or not—I'm just recreating the problem one level deeper. I feel shame in myself and contempt for others, and the cycle continues.
 
@@ -202,7 +204,7 @@ Think of a time when someone corrected you with integrity, without the slightest
 
 They might have been *more* fierce than I just was with my enemy. But did it make you dig in? Vow revenge?
 
-For me, it has a very different effect. Even if they have different politics, religion, creed: something about their behavior feels deeply aligned. It feels like a reminder—*you're better than this*. This robs me of any right to feel self-righteous indignation, forcing me to confront myself. It's the exact opposite of what I did to my enemy.
+For me, it has a very different effect. They might have different politics, religion, creed, and it doesn't matter. Whatever they're standing up for isn't theirs. It isn't a rule, or a side. It's something I'm already on the side of, and they're only reminding me: *you're better than this*. This robs me of any right to feel self-righteous indignation, forcing me to confront myself. It's the exact opposite of what I did to my enemy.
 
 It's true that contempt can sometimes stop people's misbehavior (at least, their public misbehavior, and temporarily). But at a deeper level, it teaches them the world is as cruel as they feared, so the harm goes somewhere I can't see. That's what lets me wash my hands of it.
 
@@ -210,11 +212,11 @@ Contempt isn't what does the stopping. It's a little darkness I inject into othe
 
 Can you remember a time when you corrected someone in a nasty way, but then later, with more years of wisdom, took an entirely different approach to the same problem? One that worked better?
 
-Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass off my contempt as just the price of having righteous anger. I might fool people watching from afar. But the person on the receiving end knows the difference in their marrow—and so do I. And the allies of both parties feel justified in harboring more of their own contempt. This, I've found, is how evil spreads while staying "off the record." 
+Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass off my contempt as a natural byproduct of righteous anger. I might fool people watching from afar. But the person on the receiving end knows the difference in their marrow—and so do I. The allies of both parties will feel justified in harboring more of their own contempt, too. Later, everyone will argue about the things that can be measured—who said or did what—obscuring the actual cause. This, I've found, is how evil spreads while staying "off the record."
 
 It's said that integrity is what you do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. But someone always is: me. Not the part of me busy with reasons—the part I'd turned away from, so I wouldn't feel it watching. And I knew it was there the whole time.
 
-What would happen if only I stopped trying to get away with stuff?
+What would happen if only I stopped trying to pretend I don't already know this?
 
 ---
 ## Common knowledge
@@ -237,7 +239,9 @@ And notice where my signal lands. Recall the last time someone's contempt really
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
-Think of the last time you sent that look yourself. Did you know they'd read it? Did you mean them to know you meant it, while giving yourself an "out"? Did you count on their seeing that too, so they couldn't call it a slip, or name it without sounding crazy?
+Think of the last time you sent that look yourself. Did it feel like justice, just a little sweeter than justice needs to be? Did you know they'd read it? Did you mean them to know you meant it, while giving yourself an "out"? Did you count on their seeing that too, so they couldn't call it a slip, or name it without sounding crazy?
+
+Now look at that moment without the reasons. Do you still endorse it? If you don't, that isn't a defense. But notice what's doing the refusing: the part you were hiding from.
 
 I was speaking directly to the part of my enemy that I claimed didn't exist—his better nature. And, in my desperate need to prove myself right (and righteous), I was trying to extinguish it.
 
@@ -267,9 +271,9 @@ Listening to my better nature doesn't necessarily give me answers. I can stay tu
 
 The harm I caused my enemy doesn't stop at him. It subtly affects his future choices, and through them, other people: the next stranger he won't give the benefit of the doubt, the kid who watches him do it. What gets passed along isn't my look, or anything that resembles it. It's the turning away itself, and the permission it gives: *if that's how the world works, why shouldn't I?* By the time it has passed through enough hands, it can take any shape at all.
 
-And I send it *about* people, to my allies, with nobody's face in view. Or online, on social media. That spreads it too. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it. Part of me knows it will spread, and that's part of why I send it.
+I can't trace that chain. But when I look carefully enough at the moment itself, I can already see it: I'm not only hardening one man. I'm making the world a little darker, and I can feel it even as I do it.
 
-When my contempt is aimed at what they are, and not just at what they did, my mind is doing the same thing: making the world darker for my own benefit, while telling itself a very convincing story of how what it's doing is good. Then I judge that darkness from afar, as if I'd had no part in it, and that lets me get away with more. This is why, if I want to end theirs, I have to see how to end mine.
+And I send it *about* people, to my allies, with nobody's face in view. Or online, on social media. That spreads it too. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it. Part of me knows it will spread, and that's part of why I send it.
 
 Most contempt is quiet: a vague sense of *well, I could never do that*, or *I'm just a better kind of thing than them*. It isn't always moral, but it's always a sense of being more deserving. The stupid, the slow and the weak get the same verdict, with better cover: *I'm only being accurate.* It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing.
 
@@ -290,6 +294,18 @@ If seeing this makes you want to hide, notice that's the same verdict ("you're *
 <!--
 
 HOLDING PEN. Not in the chapter. Grouped by where each might go.
+
+Out of The spread after round 31 (Eleanor, Tom, Rachel, Crystal, Harpreet: it restates the Corruption):
+
+When my contempt is aimed at what they are, and not just at what they did, my mind is doing the same thing: making the world darker for my own benefit, while telling itself a very convincing story of how what it's doing is good. Then I judge that darkness from afar, as if I'd had no part in it, and that lets me get away with more. This is why, if I want to end theirs, I have to see how to end mine.
+
+"It never matters how small the thing they did was. It only has to be *evidence*. "
+
+The fully-whole exercise, cut after round 31 (ten or more readers across rounds skipped it or called it therapy-speak):
+
+Two quick exercises to give you a sense of what I mean.
+
+In moments where you're feeling fully whole—not a trace of either shame or unhealthy pride: is it easier to forgive others? To see the part of them that doesn't want to cause harm, and to help correct their behavior in a way that actually works?
 
 The advisor passage, cut parts. The rest is in Common knowledge after "bad people" (round 28: the authority sentence slides from "not entitled" to "not able"; Wen, Leah, Meera):
 
