@@ -19,6 +19,8 @@ Was that knowledge just sitting there idle? Any time someone came close to expos
 
 Looking back, did some part of you know you were doing that, even as you did it?
 
+Limbo comes in degrees. Would the worse things be easier to remember in this way, or harder?
+
 If seeing that makes you want to call yourself names, hold off. That's not owning up; it's another way to hide.
 
 Now try to recall how you knew it was wrong in the first place. Did that knowledge arrive before or after you'd reasoned it through? The part that knew might not have been able to say how it knew. Meanwhile, another part was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.* 
@@ -80,7 +82,7 @@ Yet for some reason, this only makes him *more* defiant...
 
 ---
 
-That's the hot version. Contempt can also run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and they feel it just the same. 
+That's the hot version. Contempt can also run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and it's meant to be felt: by them, or by whoever's watching. 
 
 If the hot version didn't sound like you, read what follows with the cold one in mind; all of it applies.
 
@@ -93,7 +95,7 @@ He can see both halves: that I'm provoking him, and that I can't admit it. He fe
 
 In brief: I am in limbo about provoking him, and showing him that I'm in limbo is itself the provocation. Normally, having my enemy see my self-deception would be horrible. In this case, it's the only thing that works.
 
-The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for: doing harm while feeling righteous about it.
+The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for: getting away with it.
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
@@ -139,7 +141,7 @@ For me to do it, I must be present enough to plant the evidence—track his reac
 
 He sees it as intentional because it is—just like your deflection was, in the opening. It's conscious and goal-oriented. If it weren't, I'd have been embarrassed or confused when he called me on it. Instead I doubled down, in exactly the way needed to keep both conclusions standing: that he was bad, and that I was only seeing it.
 
-And yet I can't be fully aware of it. I can't sincerely hold against him evidence that I know I planted. Conscious yet unaware: that's the limbo state.
+And yet I can't be fully aware of it. I can't sincerely hold against him evidence that I know I planted. It's conscious, because it happens in plain view of my own mind. But I'm unaware of it, because I won't let myself look. Conscious yet unaware: that's the limbo state.
 
 In the moment, it felt like me: like clear sight, even like righteousness. But if I could see that I was entrenching my enemy, could I really want it? No. Nor did I design the setup: I couldn't have masterminded a plan in which two aspects of my mind coordinate so precisely to get me what I need. In that sense, it is not "my" intention. But then whose intention is it, exactly?
 
@@ -165,7 +167,9 @@ Here's what makes it especially difficult: when it's operating, it looks and beh
 
 I don't do it because I'm a bad person. I do it because I believe there *are* "bad people"—people who are fundamentally defective. And I only do that because, at a level I cannot let myself see, I fear I might be one of them. Every enemy this part of myself helps me make gives that fear somewhere to point other than at me.
 
-I don't think this part of myself is ultimately there to help me get away with stuff. I think that's just a byproduct of that same fear.
+Underneath that is a deeper fear: that there may be no such thing as real goodness, in me or in anyone, so I'd better protect myself at any cost. I don't think this part of me is ultimately trying to help me get away with stuff. I think it's trying to protect me, and the getting away is a side effect.
+
+And that fear is exactly what I taught my enemy: *real goodness is a myth. All that matters is what we tell ourselves; what we can get away with. Only a chump believes otherwise.*
 
 The same thing is happening in my enemy, and each of us is sure we're free of it.
 
@@ -225,11 +229,13 @@ Recall what my enemy's gaze was accusing me of: *we both know what you're really
 
 **Contempt only works because we already know we're the same kind of thing.** I have to know that he has a better nature to be pushed from, that he can read that I'm turned away from mine, that he knows *I* know he can read it (so that it reads as a signal and not a slip), and so on.
 
+In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you'd had to turn away to do it. Try to imagine the same act without turning away, looking squarely at what you knew the whole time. Could you have done it? Does it surprise you that I could count on that about you? If not, why not?
+
 You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows, without end. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
 
 He charged me with hypocrisy, and I knew his charge was valid. But hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
-Except there is one we share, or his charge couldn't have landed. Whatever else divides us, we answer to the same thing.
+Except there is one we share. His charge landed because I hold that standard; his outrage in making it showed that he does too. Whatever else divides us, we answer to the same thing.
 
 And notice where my signal lands. Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
@@ -239,9 +245,9 @@ Think of the last time you sent that look yourself. Did you know they'd read it?
 
 I was speaking directly to the part of my enemy that I claimed didn't exist—his better nature. And, in my desperate need to prove myself right (and righteous), I was trying to extinguish it.
 
-It's difficult to describe the excruciating pain I felt the first time I saw this—that I'd been smothering the innocence in others, and that I'd always known it but carefully hidden it from myself. I don't mean this as an inference. I mean it in the same way you found that the knowledge of your own wrongdoing didn't feel like new information—because it wasn't. Of *course* that would make him rebel. What I was displaying through my eyes was the very essence of cruelty—the thing I hate most in this world. And when it worked, part of me felt *satisfied*.
+It's difficult to describe the excruciating pain I felt the first time I saw this—that I'd been smothering the innocent part of others, and that I'd always known it but carefully hidden it from myself. I don't mean this as an inference. I mean it in the same way you found that the knowledge of your own wrongdoing didn't feel like new information—because it wasn't. Of *course* that would make him rebel. Remember the threat my look carried: *your wellbeing has ceased to matter.* I was revealing my capacity for *cruelty for its own sake*—the thing I hate most in this world. And when it worked, and I got away with it, I felt a flash of *satisfaction*.
 
-Maybe this isn't how it works in others. But it's what I found in myself. It's why I don't think sadism is a different kind of thing, but the same thing at full strength.
+Maybe this isn't how it works in others, but it's what I found in myself. It's why I don't think sadism is a different kind of thing, but the same thing at full strength.
 
 What I've been hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am. In fact, "bad people" is just the name I use to describe people I feel okay doing this to.
 
