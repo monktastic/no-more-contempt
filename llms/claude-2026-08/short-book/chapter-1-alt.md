@@ -33,7 +33,7 @@ Here's a quick check. Picture someone who's done nothing to you, like the last c
 
 I know this is true of myself, and I suspect it's true of others. When I can really see that they're ultimately just like me, harming them is difficult. The part of me that sees that, and that I must turn away from to cause harm: call it my *better nature*.
 
-Notice an asymmetry: I've felt remorse for harm I've done, but never for having been decent. Regret that it cost me, sure—anger at being taken advantage of, or feeling foolish. But never remorse: that sickening sense of having gone against myself. Have you?
+Notice an asymmetry: I've felt remorse for harm I've done, but never for having been decent. Regret that it cost me, sure—anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish. But never remorse: that sickening sense of having gone against myself. Have you?
 
 Can you imagine anyone feeling it in reverse? A bad person who does secret acts of kindness, and then lies awake at night wracked with guilt for having gone against his evil nature?
 
@@ -225,7 +225,7 @@ Recall what my enemy's gaze was accusing me of: *we both know what you're really
 
 **Contempt only works because we already know we're the same kind of thing.** I have to know that he has a better nature to be pushed from, that he can read that I'm turned away from mine, that he knows *I* know he can read it (so that it reads as a signal and not a slip), and so on.
 
-You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and that it can't be named without sounding crazy. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
+You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows, without end. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
 
 He charged me with hypocrisy, and I knew his charge was valid. But hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
@@ -247,7 +247,7 @@ What I've been hiding isn't that I *could* do what the "bad people" do, it's tha
 
 ---
 
-Part of me doesn't want to believe we answer to the same thing. The story I tell myself is that I am the one in charge, sitting between my better nature and my self-interest, deciding which one gets to win today. I treat it like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right.
+Part of me doesn't want to believe we answer to the same thing, because then I was never entitled to override it. The story I tell myself is that I am the one in charge, sitting between my better nature and my self-interest, deciding which one gets to win today. I treat it like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right.
 
 But it's not an advisor. To treat it like one is already to turn away—and to teach others to do the same.
 
