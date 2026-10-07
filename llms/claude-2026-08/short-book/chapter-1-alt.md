@@ -93,7 +93,7 @@ He can see both halves: that I'm provoking him, and that I can't admit it. He fe
 
 In brief: I am in limbo about provoking him, and showing him that I'm in limbo is itself the provocation. Normally, having my enemy see my self-deception would be horrible. In this case, it's the only thing that works.
 
-The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for.
+The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I've convinced myself this *is* my better nature. And at some level, we both know what that state is for: doing harm while feeling righteous about it.
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
@@ -159,11 +159,13 @@ When I'm sure someone was fully aware of what they were doing, I've made them a 
 
 The "genuine darkness" I saw in my enemy: it is the very thing I'm showing him now. Part of me *knows* it's the same thing, and relies on him recognizing it as such, or else the trap wouldn't work. But if I admitted that to myself, I would be forced to stop—and that is why I never do.
 
-I want to ascribe all this to some kind of "bad essence," which is a convenient way to stop further investigation, both in myself and others. I think badness is the result of turning away, not its cause. If I try to make it a cause—whether consciously or not—I'm just recreating the problem one level deeper.
+I want to ascribe all this to some kind of "bad essence," which is a convenient way to stop further investigation, both in myself and others. I think badness is the result of turning away, not its cause. If I try to make it a cause—whether consciously or not—I'm just recreating the problem one level deeper. I feel shame in myself and contempt for others, and the cycle continues.
 
 Here's what makes it especially difficult: when it's operating, it looks and behaves exactly like you'd expect a "bad essence" to look. Like the *presence* of something evil, rather than what I think it actually is: someone turned away from their own better nature.
 
-I don't do it because I'm a bad person. I do it because I believe there *are* "bad people"—people who are fundamentally defective. And I only do that because, at a level I cannot let myself see, I fear I might be one of them.
+I don't do it because I'm a bad person. I do it because I believe there *are* "bad people"—people who are fundamentally defective. And I only do that because, at a level I cannot let myself see, I fear I might be one of them. Every enemy this part of myself helps me make gives that fear somewhere to point other than at me.
+
+I don't think this part of myself is ultimately there to help me get away with stuff. I think that's just a byproduct of that same fear.
 
 The same thing is happening in my enemy, and each of us is sure we're free of it.
 
@@ -179,7 +181,7 @@ And when you finally owned up to what you'd done, did it feel like *losing* some
 
 Here's what I think: our better nature isn't one part among others. It's a description of what we *are* in the absence of all self-deception. It's still our choice, in a sense, whether to stay turned toward it. The more I realize this about myself—not as some grandiose idea, but as a direct experience—the less I feel a need to push others deeper into the dark; the more I want to help them *out* of it. The more I forget, the more this inverts.
 
-If that's true, think how someone who has completely forgotten it might behave.
+If that's true, think how someone who has completely forgotten it might behave—and how most of us would feel compelled to treat him.
 
 Two quick exercises to give you a sense of what I mean.
 
@@ -208,7 +210,7 @@ Contempt isn't what does the stopping. It's a little darkness I inject into othe
 
 Can you remember a time when you corrected someone in a nasty way, but then later, with more years of wisdom, took an entirely different approach to the same problem? One that worked better?
 
-Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass off my contempt as just the price of having righteous anger. I might fool people watching from afar. But between the two people facing each other, it's obvious. And the allies of both parties feel justified in harboring more of their own contempt. This, I've found, is how evil spreads while staying "off the record." 
+Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass off my contempt as just the price of having righteous anger. I might fool people watching from afar. But the person on the receiving end knows the difference in their marrow—and so do I. And the allies of both parties feel justified in harboring more of their own contempt. This, I've found, is how evil spreads while staying "off the record." 
 
 It's said that integrity is what you do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. But someone always is: me. Not the part of me busy with reasons—the part I'd turned away from, so I wouldn't feel it watching. And I knew it was there the whole time.
 
@@ -223,11 +225,11 @@ Recall what my enemy's gaze was accusing me of: *we both know what you're really
 
 **Contempt only works because we already know we're the same kind of thing.** I have to know that he has a better nature to be pushed from, that he can read that I'm turned away from mine, that he knows *I* know he can read it (so that it reads as a signal and not a slip), and so on.
 
-In the opening, were you surprised that I knew you needed limbo to cause harm? If not, why not?
-
 You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and that it can't be named without sounding crazy. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
 
-He charged me with hypocrisy, and I knew his charge was valid. That only makes sense between two people who answer to the same thing.
+He charged me with hypocrisy, and I knew his charge was valid. But hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
+
+Except there is one we share, or his charge couldn't have landed. Whatever else divides us, we answer to the same thing.
 
 And notice where my signal lands. Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
@@ -244,6 +246,14 @@ Maybe this isn't how it works in others. But it's what I found in myself. It's w
 What I've been hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am. In fact, "bad people" is just the name I use to describe people I feel okay doing this to.
 
 ---
+
+Part of me doesn't want to believe we answer to the same thing. The story I tell myself is that I am the one in charge, sitting between my better nature and my self-interest, deciding which one gets to win today. I treat it like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right.
+
+But it's not an advisor. To treat it like one is already to turn away—and to teach others to do the same.
+
+The moment I pretend that listening is optional—that I have the right to look at what is right and say not today—I've already committed to the harm. I'm just looking for reasons to make it feel like a considered choice.
+
+If my enemy and I answer to the same thing, then I don't get to look down on him from above. I'm just another person who knew what was right, decided it was negotiable, and then looked for someone worse than me to prove I wasn't so bad after all.
 
 My justifications are believable only to me and my allies; my enemy's, only to his. We'd disagree on the details of what's good on almost any subject you could name. But neither of us has to be told what turning away means, and so neither of us has to be told what turning toward means, either. Part of me knows the difference between the "good" I've invented to excuse myself and the good we each recognize. I just tell myself I don't.
 
@@ -279,17 +289,11 @@ If seeing this makes you want to hide, notice that's the same verdict ("you're *
 
 HOLDING PEN. Not in the chapter. Grouped by where each might go.
 
-The advisor and binding authority, out of Common knowledge after round 27 (all six readers: a sermon):
+The advisor passage, cut parts. The rest is in Common knowledge after "bad people" (round 28: the authority sentence slides from "not entitled" to "not able"; Wen, Leah, Meera):
 
-Part of me doesn't want to believe we answer to the same thing. It would shatter my whole worldview. Because if we answer to the same thing, then it has binding authority. And if it has authority, then I was never free to override it in the first place.
+It would shatter my whole worldview. Because if we answer to the same thing, then it has binding authority. And if it has authority, then I was never free to override it in the first place.
 
-The story I tell myself is that I am the one in charge, sitting between my better nature and my self-interest, deciding which one gets to win today. I treat my conscience like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right.
-
-But it's not an advisor. To treat it like one is already to turn away—and to teach others to do the same.
-
-The moment I pretend that listening is optional—that I have the right to look at what is right and say not today—I've already committed to the harm. I'm just looking for reasons to make it feel like a considered choice instead of what it actually is: a betrayal of the only thing in me that knows better.
-
-If my enemy and I answer to the same thing, then I don't get to look down on him from above. I'm just another person who knew what was right, decided it was negotiable, and then looked for someone worse than me to prove I wasn't so bad after all.
+...instead of what it actually is: a betrayal of the only thing in me that knows better.
 
 The regress: the "worse reasons" escape hatch, if a reader raises it:
 
