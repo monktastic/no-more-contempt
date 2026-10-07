@@ -91,7 +91,7 @@ If the hot version didn't sound like you, read what follows with the cold one in
 
 I'll just go ahead and name what's happening. I see *genuine darkness* in him, and my fierce desire to stop him comes from a good place. But my verdict that it's *what he is*? That doesn't. It's a provocation. One part of me knows that, but another part is kept in the dark, so that I can proceed while absolving myself of responsibility for the outcome.
 
-He can see both halves: that I'm provoking him, and that I can't admit it. He feels it as a maddening combination of messages—*I know exactly what I'm doing* and *I'll never own up to it*—and that combo is enough to make him dig in. Neither half alone would be enough to get me what I need: both his reaction and my innocence. If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation would have somewhere to land, making *me* the bad guy.
+He can see both halves: that I'm provoking him, and that I can't admit it. He feels it as a maddening combination of messages—*I know exactly what I'm doing* and *I'll never own up to it*—and together they're enough to make him dig in. Neither half alone would be enough to get me what I need: both his reaction and my innocence. If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation would have somewhere to land, making *me* the bad guy.
 
 In brief: I am in limbo about provoking him, and showing him that I'm in limbo is itself the provocation. Normally, having my enemy see my self-deception would be horrible. In this case, it's the only thing that works.
 
@@ -129,7 +129,7 @@ Bring to mind your worst enemy. Say you had two buttons in front of you. One del
 
 Something in me craves punishment, quite independently of any good it might do; over and above the justice it might serve. I tell myself it doesn't matter. That's just part of being human. It's not like I would ever act on it.
 
-And that lie is exactly what lets me act on it, in ways I almost never recognize.
+And that lie is exactly what lets me act on it, in ways I rarely recognize until later.
 
 ---
 
@@ -187,11 +187,7 @@ Here's what I think: our better nature isn't one part among others. It's a descr
 
 If that's true, think how someone who has completely forgotten it might behave—and how most of us would feel compelled to treat him.
 
-Two quick exercises to give you a sense of what I mean.
-
 Have you ever been on the receiving end of a dehumanizing gaze? He may have been looking straight at you. Can you feel the sense in which he was nonetheless absent, or somehow "turned away" from himself? What do you think he's turned away *from*? Why would he have to turn away at all, if what he is, is essentially bad? Is it possible that you look a tiny bit like this when treating him with contempt? I've discovered I do, and I don't think it's a coincidence.
-
-In moments where you're feeling fully whole—not a trace of either shame or unhealthy pride: is it easier to forgive others? To see the part of them that doesn't want to cause harm, and to help correct their behavior in a way that actually works?
 
 When I still feel a fundamental difference between me and my worst enemy, I ask which part of me needs it to be there. It's usually the one that wants to excuse my contempt.
 
@@ -229,9 +225,9 @@ Recall what my enemy's gaze was accusing me of: *we both know what you're really
 
 **Contempt only works because we already know we're the same kind of thing.** I have to know that he has a better nature to be pushed from, that he can read that I'm turned away from mine, that he knows *I* know he can read it (so that it reads as a signal and not a slip), and so on.
 
-In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you'd had to turn away to do it. Try to imagine the same act without turning away, looking squarely at what you knew the whole time. Could you have done it?
+In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you couldn't have done it while looking squarely at what you knew. Try it now: imagine the same act without turning away. Could you have done it? Does it surprise you that a stranger could count on that about you?
 
-You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
+You may have felt this before, as a kind of hall of mirrors: you both know exactly what's happening, and each knows the other knows, without end. Yet it can't be named without sounding crazy, because to everyone else it's deniable. In this case, what I'm doing is publicly denying knowledge that we privately hold in common, and showing him that I am.
 
 He charged me with hypocrisy, and I knew his charge was valid. But hypocrisy only means something between people who share a standard—and since we're enemies, we might share none.
 
@@ -245,7 +241,7 @@ Think of the last time you sent that look yourself. Did you know they'd read it?
 
 I was speaking directly to the part of my enemy that I claimed didn't exist—his better nature. And, in my desperate need to prove myself right (and righteous), I was trying to extinguish it.
 
-It's difficult to describe the excruciating pain I felt the first time I saw this—that I'd been smothering the innocent part of others, and that I'd always known it but carefully hidden it from myself. I don't mean this as an inference. I mean it in the same way you found that the knowledge of your own wrongdoing didn't feel like new information—because it wasn't. Of *course* that would make him rebel. Remember the threat my look carried: *your wellbeing has ceased to matter.* I was revealing my capacity for *cruelty for its own sake*—the thing I hate most in this world. And when it worked, and I got away with it, I felt a flash of *satisfaction*.
+It's difficult to describe the horror I felt the first time I saw this—that I'd been smothering the innocent part of others, and that I'd always known it but carefully hidden it from myself. I don't mean this as an inference. I mean it in the same way you found that the knowledge of your own wrongdoing didn't feel like new information—because it wasn't. Of *course* that would make him rebel. Remember the threat my look carried: *your wellbeing has ceased to matter.* I was revealing my capacity for *cruelty for its own sake*—the thing I hate most in this world. And when it worked, and I got away with it, I felt a flash of *satisfaction*.
 
 Maybe this isn't how it works in others. But it's what I found in myself. It's why I don't think what we call "pure evil" is a different kind of thing, but the same thing at full strength.
 
