@@ -54,33 +54,30 @@ A draft of Chapter 1 once tried to make every major thesis plausible in one chap
 7. **What it isn't.** The two people who caught you; "the outrage at the harm stays, and so does the fight to stop it."
 8. **What was covered.** The upkeep check; "setting something down."
 
-## Chapter 1: the sequence of reveals
+## Chapter 1: the sequence
 
-The cluster that's hard to put in a line is *me / not me / takes me over / takes others over*. What untangles it: the me-or-not-me question is asked **once**, after the reader holds both halves of the evidence; it's half-answered there and the rest is promised; everything after is that fork turned on the enemy; and the promise is paid at the end. Each reveal answers the question the one before it raises.
+Its cold reads are in `short-book/readers/` (rounds 12 to 42, where it was the short book's alternate Chapter 1). It is wide, and it works because every claim in it comes with a check the reader runs on their own life, and the author goes first. Each section closes one question and opens the next.
 
-1. **The scene and the claim.** I'm addressing the part of you I say isn't there. *Raises:* what is the hypocrisy, exactly?
-2. **My case, from inside** (the monologue). *Raises:* he dug in; why did I do it?
-3. **The contrast.** Fierce without the verdict works, so it's the verdict, not the harshness. (Scope: this was hot; it also runs cold.)
-4. **What's happening.** I need him bad. Two jobs that pull against each other; two messages in the open at once, one avowed and one deniable. *Raises:* how can I know and not know?
-5. **Limbo**, from the reader's own memory, answers it.
-6. **How it behaves.** A fixed end pursued by varying means (my three stories; their deflections; "watch a reason arrive"). Not "look how precise": precision shows function, and a reflex is precise; improvising toward a goal is what marks purpose. That's the evidence for calling it "it," and the "it" paragraph sits here.
-7. **The fork, once.** Not me ("I" can't send what's hidden from me) and me (part of me knew). What each collapse costs, in me and then in him: "purely conscious" gives shame and contempt; "purely unconscious" gives no accountability and niceness. We never get both views of one instance. The sense in which it's genuinely not me is promised, not given.
-8. **The turn.** The same is true of him. *This is all you are* is the claim that he IS his "it."
-9. **What my verdict does to him.** "Why the fuck shouldn't I?" The world where looking out for yourself is realism. Deeper into limbo.
-10. **Who it was addressed to.** Only the part that isn't "it" could be hurt by it. The opening claim, paid.
-11. **The same stuff as evil, and the promise paid.** Kindness in the eyes; the dehumanizing gaze from the receiving end (limbo, aimed at you); a single move; the harm doesn't end with him. Why would anyone have to turn away to do harm? What I turned away *from* has the better claim to being me.
-12. **Covered, not gone.** The upkeep check; the hand-off.
+1. **Limbo.** The reader's own wrong: not new information; the deflection wasn't passive; the side that knew didn't argue and never budged; nothing decent ever needed hiding. *Raises:* what does that need do to how I treat others?
+2. **The Encounter.** The author's own confrontation, narrated from inside, hot and then cold. *Raises:* so what am I supposed to do, be nice to evil?
+3. **Integrity.** The reader's own corrector; the teacher. Fierce without the verdict. *Raises:* what can two people on opposite sides both be serving?
+4. **The Corruption.** Back to the enemy: the signal that pretends there's no signal; what it teaches him ("I'd be a chump"; "deserved something"); proven right vs. right; the two buttons. *Raises:* whose intention is this?
+5. **Whose intention.** Intent, but not "mine"; the grammar is not the claim; villain or machine; the fear of being one of them; "only a chump." *Raises:* is there a way out?
+6. **The way out.** What "yourself" means; losing or getting back; the month alone; better nature as what's home, and what rides on it; the gaze; absence that behaves like a presence; the integrity saying. *Raises:* how could the part of me provoking him count on his reaction?
+7. **Common knowledge.** Go missing; the reader's own look ("How did you know?"); try it now; the same kind of thing; the taunt; the ground ("said out loud"); love and contempt; evil; fighting evil as cover; the record; the advisor; forget and remember.
+8. **The spread.** Allies, quiet contempt, the people we love, "that wasn't the real me," the subtlest contempt, seen as more than what I do.
+9. **The stranger's face**, then the enemy's: the story arrives before the face.
 
-Scope paragraphs (the cold form, the people we love) go where they don't interrupt a question: after 3, or as the way into 7.
+Chapter 2 opens on the question Chapter 1 closes with.
 
-## Why Chapter 1 is narrow, and stays narrow
+## What a first chapter can carry
 
-Written for the day the grand version looks tempting again, which it will, because the insight is whole and any narrow door into it feels like underselling it.
+A first chapter can be wide if it keeps these rules. Each is here because a draft broke it.
 
-- **The form has failed every time it was tested.** The general essay stated its claims and argued them, and two rounds of cold readers left. The short book's list of claims read to a practitioner as "a creed." Chapter 4's stacked claims were where three readers and ChatGPT said the book "spends its credibility." The tour chapter is the same form.
-- **No reader has taken a recognition from a claim.** All of them came from something small, close and checkable: the sigh at someone they love, the politeness with nothing behind it, "relieved or robbed," the ticket machine.
-- **Scope costs one sentence.** "If I'm right, it has implications far beyond the political sphere, touching most of what we do." The reader needs a reason to turn the page, not the map. The map is for the author, and it's the outline above.
-- **The toggling has a cause.** Read as the author, a narrow opening undersells the insight; read as a reader, a wide one is a stranger's cosmology. Both readings are right, and no text satisfies both. Rereading your own paragraph two hours later carries no signal. The opening gets settled by cold readers, after there are chapters for it to open.
+- **Claims stated and argued fail.** The general essay, the short book's list of claims ("a creed"), Chapter 4's stacked claims, and the tour chapter all spent credibility. A wide chapter survives only when each claim is something the reader checks, not something they're told.
+- **No reader has taken a recognition from a claim.** All of them came from something small, close and checkable: the sigh at someone they love, the politeness with nothing behind it, "How did you know?", the two buttons.
+- **The author goes first.** A confession earns what an accusation can't. Readers who were put in the victim's chair first sat there righteously for pages.
+- **The toggling has a cause.** Read as the author, a narrow opening undersells the insight; read as a reader, a wide one is a stranger's cosmology. Rereading your own paragraph carries no signal. Cold readers settle it.
 
 ## Checks for any new opening or approach
 
