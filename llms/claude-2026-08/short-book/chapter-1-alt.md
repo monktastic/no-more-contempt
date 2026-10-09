@@ -23,7 +23,9 @@ Limbo comes in degrees. Would the worse things be easier to remember in this way
 
 If seeing that makes you want to call yourself names, hold off. That's not owning up; it's another way to hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
 
-Now try to recall how you knew it was wrong in the first place. Did that knowledge arrive before or after you'd reasoned it through? The part that knew might not have been able to say how it knew. Meanwhile, another part was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.* 
+Now try to recall how you knew it was wrong in the first place. Did that knowledge arrive before or after you'd reasoned it through? The part that knew might not have been able to say how it knew. Meanwhile, another part was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
+
+The part that knew never won that argument, but it never budged, either. It kept on quietly knowing what it knew.
 
 Why did one side have to argue, and the other not?
 
@@ -35,7 +37,9 @@ Here's a quick check. Picture someone who's done nothing to you, like the last c
 
 I know this is true of myself, and I suspect it's true of others. When I can really see that they're ultimately just like me, harming them is difficult. The part of me that sees that, and that I must turn away from to cause harm: call it my *better nature*. Turning away from it isn't a matter of where my eyes are. I can do it staring straight at someone.
 
-Notice an asymmetry: I've felt remorse for harm I've done, but never for having been decent. Regret that it cost me, sure—anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish. But never remorse: that sickening sense of having gone against myself. Have you?
+Notice an asymmetry: I've felt remorse—that sickening sense of having gone against myself—for harm I've done, but never for having been decent. Have you?
+
+When I've thought I had, it turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish.
 
 Can you imagine anyone feeling it in reverse? A bad person who does secret acts of kindness, and then lies awake at night wracked with remorse for having gone against his evil nature?
 
@@ -122,7 +126,7 @@ My stories kept changing; my conclusion never did.
 
 ---
 
-To do this, I must override the part of myself that knows (I'm causing harm) in favor of the one that can prove (I'm doing good). And it teaches him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this? It won't feel like a loss to him. It will feel like he's gotten a bit wiser, a little more realistic about how the world works. It is like a corruption passing from my mind to his.
+To do this, I must override the part of myself that knows (I'm causing harm) in favor of the one that can prove (I'm doing good). And it teaches him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this? It won't feel like a loss to him. It will feel like he's gotten a bit wiser, a little more realistic about how the world works. But it's the same faculty that let him see through me. That sees anyone. Demote it, and you see a little less of everyone. It is like a corruption passing from my mind to his.
 
 I've been in his shoes before. When I am, it feels something like this:
 
@@ -247,17 +251,15 @@ And notice where my message lands. Recall the last time someone's contempt reall
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
-I am speaking directly to the part of my enemy that I claim doesn't exist—his better nature—and, in my desperate need to prove myself right (and righteous), showing him that I can extinguish it.
+I am speaking directly to the part of my enemy that I claim doesn't exist—his better nature—and, in my desperate need to prove myself right (and righteous), attempting to extinguish it.
 
-It's difficult to describe the horror I felt the first time I saw this—that I could always see the innocent part of my enemies; that I was smothering it, by showing them that it was my right, as a "good person"; and that I was hiding it from myself in exactly the way they do. And when I got away with it, I always felt that flash of satisfaction.
+It's difficult to describe the horror I felt the first time I saw this—that I could always see the innocent part of my enemies; that I was smothering it, by showing them that it was my right as a "good person"; and that I was hiding it from myself in exactly the way they do. And when I got away with it, I always felt that flash of satisfaction.
 
 I've laid this out as an argument, but that isn't how I came to it. I found it the way I found my own old wrongdoing: it didn't feel like new information, because it wasn't.
 
 Remember the threat my look carried, and how there was no bottom to it. It is the thing I know as "evil"—cruelty for its own sake; the very thing I hate most in the world—which is why it produced the reaction it did. Even when the look was only a flicker, I had my out ready, and I don't prepare a defense for something inconsequential.
 
-Maybe this isn't how it works in others, but it's what I found in myself. I couldn't have done it while still "turned toward"—not because I'm some special "good person," but because what it is *is* turning away. It's why I don't think "pure evil" is a different kind of thing, but the same thing at full strength.
-
-I couldn't have been argued into this: I had to taste that quality in myself.
+Maybe this isn't how it works in others, but it's what I found in myself. I couldn't have done it while still "turned toward"—not because I'm some special "good person," but because what it is *is* turning away. It's why I don't think "pure evil" is a different kind of thing, but the same thing at full strength: I tasted that quality myself.
 
 ---
 
@@ -265,17 +267,17 @@ What I've been hiding isn't that I *could* do what the "bad people" do, it's tha
 
 Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass it off as righteous anger.
 
-Of course, contempt can sometimes stop people's misbehavior—at least, their public misbehavior, and temporarily. But at a deeper level, it teaches them the world is as cruel as they feared, so the harm goes somewhere I can't see. That's what lets me wash my hands of it, even though I know it's still there.
+Of course, contempt can sometimes stop people's misbehavior—at least, their public misbehavior, and temporarily. So can the corrector with integrity, and both of us will leave confident that what we did "worked." But at a deeper level, contempt teaches them the world is as cruel as they feared, so the harm goes somewhere I can't see. This lets me wash my hands of it, even though I know it's still there.
 
-Contempt isn't what does the stopping. It's a little darkness I inject into otherwise-good behavior, poisoning it: it turns a correction he could take into an attack he has to resist. It's possible for the fierceness to stay while the poison goes. What's left is fierce kindness.
+Contempt is a little darkness I inject into otherwise-good behavior, poisoning it: it turns a correction he could take into an attack he has to resist. It's possible for the fierceness to stay while the poison goes. What's left is a fierce form of kindness.
 
 Can you remember a time when you corrected someone in a nasty way, and then later took an entirely different approach to the same problem? What was different the second time?
 
 When someone treats others with contempt in front of you, do you trust them more, or less? Would you tell them something you were ashamed of?
 
-My contempt might fool people watching from afar. But the person on the receiving end knows the difference in their marrow—and so do I. Our allies might, too. Later, everyone will argue about the things that can be measured—who said or did what—obscuring the actual cause.
+My contempt might fool people watching from afar. But the person on the receiving end knows the difference in their marrow—and so do I. Our allies usually do, too. What passes between us can't be recorded on any ledger or in any transcript, and yet it's louder than what can. The record will show that the corrector with integrity was *harsher*—so they should have been the one who made it worse. Later, everyone will argue about the things that can be measured—who said or did what—obscuring the actual cause.
 
-This, I've found, is how evil spreads while staying "off the record." And I think goodness spreads the same way—not primarily through the visible acts, but through what they're seen to serve, whether or not we can prove it.
+This, I've found, is how evil spreads while staying "off the record." And I think goodness spreads the same way—not primarily through the visible acts, but through what they're serving, whether or not we can prove it.
 
 ---
 
@@ -285,7 +287,7 @@ But it's not an advisor. The moment I pretend that listening is optional—that 
 
 In that case, I don't get to look down on my enemy from above. I'm just another person who knew what was right, decided it was negotiable, and then looked for someone worse than me to prove I wasn't so bad after all.
 
-We may never agree on a definition of "good." But we already agree on how to orient toward it, and part of us knows it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it. And the best thing I can do, for them and through them for the world, is remember it myself.
+We may never agree on a definition of "good," but we already agree on how to orient toward it, and part of us knows it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it. And the best thing I can do, for them and through them for the world, is remember it myself.
 
 Sometimes this reminds them to do the same—especially when they see I've been given every reason to abandon it—and yet I can't take credit when it does.
 
@@ -351,8 +353,6 @@ It began with me turning away from *myself* to avoid seeing his better nature, a
 Cut after round 36 (four of four readers):
 
 So part of me already knows the difference between the "good" I've invented to excuse myself and the kind we all recognize. I just tell myself I don't.
-
-If it does end up reminding them, I can't take credit for it.
 
 Cut after round 35 ("No one watching" dissolved):
 
