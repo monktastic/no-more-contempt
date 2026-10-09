@@ -214,7 +214,7 @@ If darkness were an essence, I would be right to be afraid of it, and ashamed, a
 
 Here's what makes it difficult: when profound self-deception is operating, it looks and behaves exactly like you'd expect a "bad essence" to look. Like the *presence* of something, rather than the absence it actually is. That's what I looked like to my enemy.
 
-If that doesn't match what you've seen, keep the question open. When I feel a fundamental difference between me and my worst enemy, I ask which part of me needs there to be one.
+When I feel a fundamental difference between me and my worst enemy, I ask which part of me needs there to be one.
 
 They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. But someone always is: me. Not the part of me busy with reasons—the part I'd turned away from, so I wouldn't feel it watching. And I knew it was there the whole time.
 
@@ -223,29 +223,27 @@ They say integrity is what we do when no one is watching. Whenever I've broken m
 
 How could the part of me that was provoking my enemy count on his reaction?
 
-Recall what his gaze accused me of: *we both know what you're really up to.* It was a charge of hypocrisy. It's as if he was saying: *you're doing the thing we all do to enable harm—turning away from yourself*.
+Recall what his gaze accused me of: *we both know what you're really up to.* It was a charge of hypocrisy. I knew he was right, but I hid that—which he saw, so I hid that too, which he saw...
 
-I knew he was right, and I hid it—which he saw, so I hid that too, which he saw...
+You may have felt this before, as a maddening hall of mirrors. You both know what's happening, and it can't be named without sounding crazy: naming it only gives the other person something else to deny.
 
-You may have felt this before, as a maddening hall of mirrors. You both know what's happening, and trying to name it only gives the other person something else to deny, which makes the message clearer.
+It wasn't an accident. Part of me counted on him seeing me go missing and knowing what it meant—which I knew he would, because I knew it's how *he* does wrong, even if I couldn't admit it. I was showing him that I was judging him *from* the very state I was judging him *for*, and that I knew he knew this.
 
-It wasn't an accident. The part of my mind that was provoking him was revealing it to him as a message. It needed him to recognize it *as* hypocrisy.
-
-Think of the last time you sent that look yourself. Did you know they'd read it? How did you know? Did you mean them to know you meant it, while giving yourself an "out"? Did it feel like justice, just a little sweeter than justice needs to be?
+Think of the last time you sent that look yourself. Did you know they'd read it? How did you know? Did you mean them to know you meant it, while giving yourself an "out"? Did it feel like justice, a little sweeter than justice needs to be?
 
 In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you couldn't have done whatever you did while looking squarely at what you knew. Try it now: imagine the same act without turning away. Could you have done it? Does it surprise you that a stranger could count on that about you?
 
 Contempt only works because we already know we're the same kind of thing: beings who must *turn away* to cause harm.
 
-I described it as a series of unfolding layers, but the actual experience is much simpler. We each know, from the inside, what turning away is, and what it implies—and recognize that same knowing looking back at us. From that mutual recognition, the rest follows naturally. Nothing has to be computed.
+We each know, from the inside, what turning away is, and what it implies—and recognize that same knowing looking back at us. From that mutual recognition, the rest follows naturally. Nothing has to be computed.
 
-Our shared understanding wasn't just the background to my message. It was also the medium I used to communicate its very violation, to produce the reaction I would then hold against him. It's why my message functioned as a taunt.
+I was publicly denying (even to myself) knowledge that we privately hold in common, and showing him that I was. That's what made it a taunt.
 
-I told myself his charge of hypocrisy was baseless: I share no standards with someone like *that*. But it landed precisely because I hold the one he accused me of breaking, and his outrage in making it showed that he holds it too. Neither of us had to be told what my look meant, or what turning away is.
+I told myself his charge of hypocrisy was baseless: I share no standards with someone like *that*. But it landed precisely because I hold the one he accused me of breaking, and his outrage showed that he holds it too. Neither of us had to be told what my look meant, or what turning away is.
 
 It isn't a rule we could argue over. Whatever else divides us, we answer to the same thing—and we both know it. We were never disagreeing about what the ground was. We were fighting over which of us still stood on it.
 
-And notice where my message lands. Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. It reaches past your pride, to the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
+And notice where my message lands. Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
@@ -253,11 +251,11 @@ I am speaking directly to the part of my enemy that I claim doesn't exist—his 
 
 It's difficult to describe the horror I felt the first time I saw this—that I could always see the innocent part of my enemies; that I was smothering it, by showing them that it was my right, as a "good person"; and that I was hiding it from myself in exactly the way they do. And when I got away with it, I always felt that flash of satisfaction.
 
-I found this the way I found my own old wrongdoing: it didn't feel like new information, or like an inference, because it wasn't.
+I've laid this out as an argument, but that isn't how I came to it. I found it the way I found my own old wrongdoing: it didn't feel like new information, because it wasn't.
 
 Remember the threat my look carried, and how there was no bottom to it. It is the thing I know as "evil"—cruelty for its own sake; the very thing I hate most in the world—which is why it produced the reaction it did. Even when the look was only a flicker, I had my out ready, and I don't prepare a defense for something inconsequential.
 
-Maybe this isn't how it works in others, but it's what I found in myself. I couldn't have done it while still "turned toward"—not because I'm some special "good person," but because what it is *is* turning away. It's why I don't think "pure evil" is a different kind of thing, but the same thing at full strength. Of *course* I don't want to believe that.
+Maybe this isn't how it works in others, but it's what I found in myself. I couldn't have done it while still "turned toward"—not because I'm some special "good person," but because what it is *is* turning away. It's why I don't think "pure evil" is a different kind of thing, but the same thing at full strength.
 
 I couldn't have been argued into this: I had to taste that quality in myself.
 
@@ -267,7 +265,7 @@ What I've been hiding isn't that I *could* do what the "bad people" do, it's tha
 
 Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass it off as righteous anger.
 
-Of course, contempt can sometimes stop people's misbehavior—at least, their public misbehavior, and temporarily. But it also introduces something uglier, both in them and in all who witness it. And I don't think that "something" just disappears.
+Of course, contempt can sometimes stop people's misbehavior—at least, their public misbehavior, and temporarily. But at a deeper level, it teaches them the world is as cruel as they feared, so the harm goes somewhere I can't see. That's what lets me wash my hands of it, even though I know it's still there.
 
 Contempt isn't what does the stopping. It's a little darkness I inject into otherwise-good behavior, poisoning it: it turns a correction he could take into an attack he has to resist. It's possible for the fierceness to stay while the poison goes. What's left is fierce kindness.
 
