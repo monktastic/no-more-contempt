@@ -29,6 +29,8 @@ The part that knew never won that argument, but it never budged, either. It kept
 
 Why did one side have to argue, and the other not?
 
+Have you ever had to hide from yourself something you did out of decency? I can't think of a time. Why would we only ever need limbo when we're causing harm?
+
 ---
 
 As best I can tell, most of us don't want to harm each other, and usually won't without a reason. But the reasons themselves aren't what allow the harm. What they do is distract us from the fact that we've turned away from the part of ourselves that wouldn't allow it.
@@ -78,7 +80,7 @@ His eyes are saying something like:
 
 *Shit.* He's onto me. But I absolutely cannot afford to admit it. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm nothing like him, and then cover it up to boot.
 
-Surely that's not what I'm doing. I'm just being fierce with evil, right? Right. 
+Surely that's not what I'm doing. True, it may be dark, but it's the *good* kind of darkness—the kind that fights *real* darkness.
 
 So I double down. *This really **is** what you are—and I'm going to make damn sure everyone knows it.*
 
@@ -120,6 +122,8 @@ In brief: I am in limbo about provoking him, and showing him that I'm in limbo i
 
 The signal is the pretense that there is no signal. It's carried entirely by my tone, my gaze, my manner—all of which are plausibly deniable, *even to myself*. We both know that if he tries to name it, it will just be used against him. He sees that he cannot appeal to my better nature, because I'm convinced this *is* my better nature. And at some level, we both know what that state is for: doing harm while feeling righteous about it.
 
+Malice is turning away from a life in order to harm or use it. Contempt is that same turning-away, experienced as righteous.
+
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 
 My stories kept changing; my conclusion never did.
@@ -132,7 +136,9 @@ I've been in his shoes before. When I am, it feels something like this:
 
 > *What a hypocrite. If this is the kind of world I live in—one where people can ignore their better nature and call it "righteous"—then why the hell shouldn't I? I'd be a chump.*
 
-Of course, I don't actually tell myself I'm going to ignore it. My justifications simply feel more convincing, more *righteous* even—as if they *are* my better nature. The two get just a little harder to tell apart.
+Think back to the wrong you remembered at the start. Did some part of you feel you *deserved* something? Or that everyone does it, and only a fool plays it straight?
+
+Of course, I don't actually tell myself I'm going to ignore my better nature. My justifications simply feel more convincing, more *righteous* even—as if they *are* my better nature. The two get just a little harder to tell apart.
 
 That's what's happening in my enemy. I sense his hardening, and feel a brief flicker of satisfaction, vindication, even relief at being proven right about him—just before I conveniently relabel it disgust or dismay.
 
@@ -200,9 +206,13 @@ Go back to the memory at the start, to the knowledge you hadn't *let yourself* k
 
 Why would you have to hide something from *yourself* in order to keep it from your better nature? And now the reverse: recall how I only feel remorse—like I've gone against *myself*—when I go against my better nature. Why should those two be so closely related?
 
-And when you finally owned up to what you'd done, did it feel like *losing* something of yourself, or like getting something back?
+When you finally owned up to what you'd done, did it feel like *losing* something of yourself, or like getting something back?
+
+Now picture someone going off alone for a month to reflect, and coming back having looked hard at themselves. Can you picture them saying that underneath everything, what they'd found was that they wished they could harm others more?
 
 Here's what I think: our better nature isn't one part among others. It's a description of what we *are* in the absence of all self-deception. That's why I call my better nature *myself*. Not because it's nicer. Because it's the one that's home. Yet it's still our choice, in a sense, whether to stay turned toward it. And sometimes, even when it feels like I *am* turned fully toward it, there's still some self-deception I'm not seeing.
+
+This matters more than it looks. If darkness were as much a part of what I am as care is, then it's in him the same way: my verdict would just be seeing clearly, and contempt would be the honest response. Everything I've said about contempt turns on which of the two is home.
 
 The more I come into contact with my better nature, the less I feel a need to push others deeper into the dark; the more I want to help them out of it, because I see how they're *just like me* in a sense I find hard to describe. I feel like I can see *myself* in them. The more I lose touch with this, the more that behavior inverts.
 
@@ -216,7 +226,7 @@ It's convenient to ascribe the worst behavior to some kind of "bad essence." But
 
 If darkness were an essence, I would be right to be afraid of it, and ashamed, and I'd have to keep proving it's in others and not in me. But if it's something I *do*, then I can stop.
 
-Here's what makes it difficult: when profound self-deception is operating, it looks and behaves exactly like you'd expect a "bad essence" to look. Like the *presence* of something, rather than the absence it actually is. That's what I looked like to my enemy.
+But that doesn't make it nothing. Call it nothing, and I'll underestimate it: I'll stop looking at exactly the moment it's crucial to look more closely. It's an absence that behaves like a presence. It has no substance of its own; everything it uses—my attention, my reasons, my eyes—is borrowed from me. When it's operating, it looks and behaves exactly like you'd expect a "bad essence" to look. That's what I looked like to my enemy.
 
 When I feel a fundamental difference between me and my worst enemy, I ask which part of me needs there to be one.
 
@@ -245,13 +255,13 @@ I was publicly denying (even to myself) knowledge that we privately hold in comm
 
 I told myself his charge of hypocrisy was baseless: I share no standards with someone like *that*. But it landed precisely because I hold the one he accused me of breaking, and his outrage showed that he holds it too. Neither of us had to be told what my look meant, or what turning away is.
 
-It isn't a rule we could argue over. Whatever else divides us, we answer to the same thing—and we both know it. We were never disagreeing about what the ground was. We were fighting over which of us still stood on it.
+It isn't a rule we could argue over. Whatever else divides us, we answer to the same thing—and we both know it. We were never disagreeing about what the ground was. We were fighting over which of us still stood on it. Said out loud, we'd both hear that we were standing on the same ground.
 
 And notice where my message lands. Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the corrector with integrity was speaking to.
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
-I am speaking directly to the part of my enemy that I claim doesn't exist—his better nature—and, in my desperate need to prove myself right (and righteous), attempting to extinguish it.
+I am speaking directly to the part of my enemy that I claim doesn't exist—his better nature—and, in my desperate need to prove myself right (and righteous), attempting to extinguish it. If darkness were truly all he was, there would be nothing left in him for my contempt to corrupt.
 
 It's difficult to describe the horror I felt the first time I saw this—that I could always see the innocent part of my enemies; that I was smothering it, by showing them that it was my right as a "good person"; and that I was hiding it from myself in exactly the way they do. And when I got away with it, I always felt that flash of satisfaction.
 
@@ -263,11 +273,13 @@ Maybe this isn't how it works in others, but it's what I found in myself. I coul
 
 ---
 
-What I've been hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am. In fact, "bad people" is just the name I use for those whom I feel okay doing this to, either alone or with my allies. And sometimes—when someone is accused of a heinous crime on the news, and social media erupts over it—my allies are the entire rest of society.
+What I've been hiding isn't that I *could* do what the "bad people" do, it's that I'm *already doing it*, and using them as a place to hide the fact that I am. In fact, "bad people" is a name I use mostly for those whom I feel okay doing this to, either alone or with my allies. And sometimes—when someone is accused of a heinous crime on the news, and social media erupts over it—my allies are the entire rest of society.
 
 Fighting evil is the place where my own darkness is most likely to come out, because it has the best cover: I get to pass it off as righteous anger.
 
 Of course, contempt can sometimes stop people's misbehavior—at least, their public misbehavior, and temporarily. So can the corrector with integrity, and both of us will leave confident that what we did "worked." But at a deeper level, contempt teaches them the world is as cruel as they feared, so the harm goes somewhere I can't see. This lets me wash my hands of it, even though I know it's still there.
+
+Part of me still fears that dropping the contempt would mean going easy on them. My teacher didn't go easy on me, and I don't think we have to, either.
 
 Contempt is a little darkness I inject into otherwise-good behavior, poisoning it: it turns a correction he could take into an attack he has to resist. It's possible for the fierceness to stay while the poison goes. What's left is a fierce form of kindness.
 

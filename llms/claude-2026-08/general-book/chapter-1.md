@@ -182,7 +182,7 @@ A lot rides on this, so here are three more checks. Go back to the moment you fi
 
 Now take a time you sent the verdict to someone you love: the sigh, the look, the *what's wrong with you?* While you were sending it, did it feel like you? For me it did. It felt like the most reasonable version of me in the room. Now look back at it with their face in view. Does it still?
 
-Last, picture someone going off alone for a month to reflect, and coming back honest. Can you picture them saying that underneath everything, what they'd found was that they didn't care about anyone, or wished they could harm others more?
+Last, picture someone going off alone for a month to reflect, and coming back honest. Can you picture them saying that underneath everything, what they'd found was that they wished they could harm others more?
 
 Here's what I make of that. The part of me that knew without arguing, back at the start, is the part that looked into the stranger's face and found the same thing looking out. The part that argues is the one busy proving he's a different kind of thing. If I could keep only one of them, I wouldn't have to think about which.
 
