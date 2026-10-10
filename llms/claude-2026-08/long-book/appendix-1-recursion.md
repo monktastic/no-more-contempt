@@ -1,4 +1,4 @@
-[TODO(readers): Also from the scientist: (1) the punchline lists 'the mind's nature is care' as something contempt presupposes, before the belief door, and the belief section then says the argument doesn't reach it; one has to move. (2) The belief section is marked at its threshold and then argues ('the two accounts predict opposite things, and only one fits'; the psychopath exclusion). (3) 'A verdict can only sting someone who could have' is false as stated: verdicts about fixed traits sting most; sting needs the target to care about the sender's regard. (4) 'A rock doesn't need provoking': you can provoke a dog; provoking shows a reactive nervous system, not a capacity for moral return.]
+[TODO: from the scientist's read (September 16), one sentence since cut from this appendix but still in `general-book/essay-draft.md` (parked): 'a rock can't be insulted' proves a reactive nervous system, not a capacity for moral return (you can provoke a dog). If the essay is ever revived, fix it there.]
 # Appendix 1: What Contempt Presupposes
 
 *The three appendices were written with Claude's help.*
@@ -9,28 +9,35 @@
 
 ## 1. The trap
 
-The particular limbo called contempt is hiding something (X) from yourself while revealing it to them. And what is X? The fact that you're hiding X from yourself while revealing it to them. It is self-referential, with no base case. So how does it converge on anything meaningful?
+The particular limbo called contempt is hiding something (X) from yourself while revealing it to your target. And what is X? The fact that you're hiding X from yourself while revealing it to them. It is recursive, with no base case. So how does it converge on anything meaningful?
 
-Because hiding-while-revealing is the universal signature of being up to no good while pretending (in fact, believing) it's righteous. You depend on this fact being common knowledge,[^ck] because look at what happens when it is.
+Because X is the act itself, and the act is its own content. What you hide from yourself is that you're hiding-while-showing; what you show them is the same thing. Unroll it as far as you like and every level returns the same act. That's a fixed point, and it's all the recursion ever contains.
 
-A look is enough to cause harm, because both of you already know what a turned-away face aimed at someone is for. Here is what that one look delivers to them, in the order the pieces land:
+Everything else the look carries is not inside X. It's what X *means* to two people who both know what a turned-away look is for, and it can be generated from one sentence: *I know what I'm doing to you; I won't admit it, even to myself; and you can see all of this.* Whatever two people can work out from that is also in the look, and so is the fact that they can work it out. That is the whole structure. It unfolds the same way in both heads, as far as either cares to follow it.
+
+And look at what it stands on: that both of you know what a turned-away look is for. Nobody knows that from outside. You know it because you've had to turn away to do harm, and so has he. A being with nothing to turn from could see that you're a fraud, but he wouldn't feel it as a betrayal, and the betrayal is what the look needs. Hold on to that. The verdict says he's a different kind of thing. The look only works on someone who isn't. I'll come back to what that costs the verdict, once the pieces are on the table.
+
+One implication falls straight out of the fixed point, and it's the one the trap depends on: there's nothing to point to. A secret whose only content is the hiding-and-showing of it leaves no evidence except the showing. And the look needs no words, because hiding-while-revealing is the universal signature of being up to no good while pretending (in fact, believing) it's righteous. You depend on this fact being common knowledge,[^ck] because look at what one look can then deliver.
+
+Here is what the look delivers to them, in the order the pieces land:
 
 - **The turn.** You've turned away from them, and they read it.
 - **The intent.** They know what an aimed turn is for. You mean harm.
 - **The wanting.** You want them to recognize the intent. If you didn't, this would be a leak, not a message.
-- **The injury.** Their recognizing it is already the harm; no separate deed has to follow. But the recognition is also meant to produce a reaction, and the reaction is going to become your proof.
-- **The disavowal.** You'll deny the intention if they name it, and you'll believe the denial.
+- **The injury.** Their recognizing it is already an injury; no separate deed has to follow. But the recognition is also meant to produce a reaction, and the reaction is going to become your proof.
+- **The disavowal.** You'll deny the intention if they name it, and you'll believe the denial, in the limbo way: knowing, and not letting yourself know.
 - **The proof.** So their protest becomes evidence of the verdict that provoked it, and they know that in advance.
+- **The license.** They've watched someone posing as righteous cheat on what both of you serve, and get away with it. That licenses them to do the same: *why the hell shouldn't I?*
 
-The injury is that they know you mean harm, and that you mean them to know it, and that you're not leaving any evidence of this intent behind, which is the harm you mean. The act's purpose is its own reception; take away either half and there's nothing left of the other.
+The injury is that they know you mean harm, and that you mean them to know it, and that you're not leaving any evidence of this intent behind, which is the harm you mean. The act's purpose is its own reception and its own concealment: to be read by them and denied by you. Take away either half and there's nothing left of the other.
 
 Notice how this differs from every other harm. In ordinary harm, the message and the injury are two things. You turn away, that lets you do the deed, and the deed does the damage. **In contempt there is no separate deed.** The look is the deed, and there is nothing else.
 
-And the fact that there's nothing else—no harm to point to—is itself part of what's communicated, making it part of the harm, without there being anything to point to, which itself is communicated, and so on. The last two pieces, your denial and their protest turning into your evidence, aren't added on. They follow from there being nothing to point to, and they know that in advance, which is part of what lands.
+That list isn't closed, and can't be. Any true statement about what the look contains is something both of you can know about the look, so it joins the contents the moment it's made. A reader who tries to list everything the look carries will find that writing down an item creates the next one, since both parties can now know that too, and the list never closes. That isn't a gap in the account. It's the hall of mirrors, described from outside, and the account is finished once it says so.
 
-Notice how it differs from pure malice. All malice hides one thing from the one doing it: the sameness of the target. This is true even in the sadist. But malice as such needs neither of two things contempt needs. It need not be received (the target can be asleep while the deed is done), and where it does demand reception (a threat, a sadist's display) it needn't disavow itself as righteous; the honest villain says *yes, I mean you harm, and no, you're not my kind.* Contempt needs both. The target must receive the harmful intention, and the sender must sincerely deny that it's harmful. The trap is made by that conjunction and by nothing less. It's why malice is frightening and contempt is maddening.
+Notice how it differs from pure malice. All malice hides one thing from the one doing it: the sameness of the target. This is true even in the sadist. But malice as such needs neither of two things contempt needs. It need not be received (the target can be asleep while the deed is done), and where it does demand reception (a threat, a sadist's display) it needn't disavow itself as righteous; the honest villain says *yes, I mean you harm, and no, you're not my kind.* Contempt needs both. The target must receive the harmful intention, and the sender must deny that it's harmful and believe the denial, in the limbo way. The trap is made by that conjunction and by nothing less. It's why malice is frightening and contempt is maddening.
 
-This is what makes contempt uniquely powerful at spreading evil: it causes harm, but the harm is invisible and cannot be attributed to the aggressor.
+This is what makes contempt uniquely powerful at spreading evil. The injury is invisible and can't be attributed to the sender. And the reaction it provokes isn't only evidence for the sender's verdict: it's the target turning away in turn, licensed by the betrayal, and carrying it to whoever they meet next. Reception is the injury; corruption is the harm the injury licenses, and it's how the thing reproduces.
 
 ### The punchline
 
@@ -47,7 +54,7 @@ Each of those is the opposite of what the verdict says. The verdict says *this i
 And look at what those five amount to, stated without the labels. 
 
 - What's looking out of them is no different in nature from what's looking out of you. 
-- The mind's nature is care. 
+- Care is the baseline: what you're like when nothing is in the way. 
 - The confusion covering it is not the same thing as it, and doesn't touch it. 
 - The covering is a turning away, not a substance. 
 - Recognition is available, and is the way back. 
@@ -56,9 +63,19 @@ Anyone who practices will have heard all five before, as the view. Here they arr
 
 One more thing while the word is in front of you. Evil, in this book, names the turning: your own caring held out of view so that theirs can be. Contempt is that turning made into a message. Two things the word usually carries, and both are wrong, and you already know they're wrong. The first is size. We reserve "evil" for the extreme, but watch what cutting in line does to you. The cost is thirty seconds. The heat is out of all proportion to thirty seconds, because what you're reacting to isn't the cost. It's the exception: somebody put you out of view to get ahead, and let you see it. You can find the same thing from inside: even a small flash of contempt is shameful to admit, out of all proportion to its size. The smallest morsel carries the whole. The second is outcomes. We think "bad" is about damage done, but the friend who forgot your birthday did more damage by any accounting than the friend who made one small cutting remark, and the remark is the one you're still thinking about a week later. Desecrating an enemy's corpse does no damage at all, and everyone knows it's wrong (Appendix 3 comes back to this). Two acts identical from outside can have opposite effects. What you're tracking, in every one of those, is the turning, and you were tracking it before this book named it.
 
+### Why it had to be this way
+
+Take two things you checked. Harm needs the turn: with the person fully in view, it won't go. And the turn is only ever needed for harm: nobody hides from himself what he did out of decency, and remorse never runs backward. Put those together and what you turn from is the baseline, and the turning is a departure from it, not a second baseline. That's all "absence" means here. Not that nothing is happening; that the thing happening has no ground of its own.
+
+Now let two such beings meet, and let one knowingly harm the other. It can only be done in limbo, since seeing fully would stop it. It can't be hidden from the target, who reads turning-away with the faculty he's had to turn from himself. So the hiding is visible; and since there's no deed apart from the look, the hiding is what's shown, and the act is its own content. Both can read it, and neither can say it without ending it: common knowledge, as far up as either cares to go. And it lands only on the capacity in him it denies.
+
+None of that is a further discovery. Given the two premises, knowing harm between two such beings has exactly one shape, and this is it. An absence can act only through the presence it is the absence of: it borrows the eyes and the reasons, it has to hide from what would stop it, and its hiding shows to whoever shares what it's hiding from. That is what "an absence that behaves like a presence" means, and why it isn't a metaphor. If evil had a nature of its own, none of this would follow. It could work with the eyes open; it wouldn't need to hide; it wouldn't need the other's better nature to land; and somewhere there would be a conscience that runs the other way. Nobody has found one.
+
+Where this stops. The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back, and it's the baseline that turning away departs from. It does not get you that care is what awareness *is*. But notice how little room that leaves. "Missing in some" is out, because even the psychopath appears turned away. Try to picture one doing what they do with the kind eyes you held at the start of Chapter 1, the ones with the recognition in them. You can't, and nobody has reported the case. If the care were simply missing in someone, harm from that person would need no turning away, and would look like nothing in particular. It never does. "One drive among others" is out too: a drive gets outweighed while you're still looking, and this one can't be; you have to stop looking first, and it takes work to keep from looking. What's left to a naturalist is a universal human faculty that can't be outweighed and happens to have an evolutionary history. That differs from my reading only about origin, and about whether it belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 3 lays out the correspondences, the evidence for my reading, and the test that would count against it.
+
 ### What I think is really happening
 
-*From here on I'm telling you what I believe. The argument stops at this door; nothing practical depends on walking through it.*
+*From here on I'm telling you what I believe, and the one test I know of for it. Nothing practical depends on walking through this door.*
 
 Here's my read. The care isn't something awareness has. It's what awareness is. If that's right, then evil is just awareness turned away from its own nature, and the only way to do it to someone else is to forget it in yourself first. Limbo, turning away, the parasite: three names for that one move, depending on where you're standing.
 
@@ -70,9 +87,7 @@ And that's what waking up is, on this reading. Nothing gets added. What the two 
 
 Here's one way to check whether I'm right, and it runs opposite to what you'd expect. If contempt were an accurate perception of badness, then the clearer someone sees, the more contempt they'd feel toward the worst people. If instead the verdict is your own turning away showing itself, then clarity should keep the perception of the harm and dissolve the verdict. Which do we see? The people we call evil hold the most contempt, not the least. And the people we'd call wise can look at the worst person, see everything you see, and no verdict forms. Not because they're soft. Because nothing in them needs it. 
 
-That's not proof, but the two accounts predict opposite things, and only one of them fits. It also tells you what *now I finally see what they really are* is: the darkness is real, and the *really are* is your own turning away, reading itself as insight, and you can only see it that way once you've lost touch with the thing that would have recognized them. And the further gone someone is, the more of their own darkness they're afraid of, so the more of it they have to see in other people. That's why the most lost need the most enemies.
-
-Where this stops. The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back, and it's the baseline that turning away departs from. It does not get you that care is what awareness *is*. But notice how little room that leaves. "Missing in some" is out, because even the psychopath appears turned away. Try to picture one doing what they do with the kind eyes you held at the start of Chapter 1, the ones with the recognition in them. You can't, and nobody has reported the case. If the care were simply missing in someone, harm from that person would need no turning away, and would look like nothing in particular. It never does. "One drive among others" is out too: a drive gets outweighed while you're still looking, and this one can't be; you have to stop looking first, and it takes work to keep from looking. What's left to a naturalist is a universal human faculty that can't be outweighed and happens to have an evolutionary history. That differs from my reading only about origin, and about whether it belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 3 lays out the correspondences, the evidence for my reading, and the test that would count against it.
+That's a test, not a proof: the two accounts predict opposite things, and what I've seen fits the second. It also tells you what *now I finally see what they really are* is: the darkness is real, and the *really are* is your own turning away, reading itself as insight, and you can only see it that way once you've lost touch with the thing that would have recognized them. And the further gone someone is, the more of their own darkness they're afraid of, so the more of it they have to see in other people. That's why the most lost need the most enemies.
 
 ## 2. For the lawyers among you
 

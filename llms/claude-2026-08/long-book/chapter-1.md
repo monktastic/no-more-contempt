@@ -42,7 +42,7 @@ And notice that when you are in limbo, part of you *knows* you are—even as you
 
 Imagine that while you were in that state—doing wrong, justifying it, half-knowing—a stranger had caught you and publicly chastised you for it. Not just for doing something wrong, but for *being the kind of person who does*.
 
-You've been in similar situations before. Really visualize it, and imagine it playing out. When you try to exonerate yourself—not your behavior, necessarily, but what kind of person you are—what happens? Does he just let you go?
+Really visualize that situation, and imagine it playing out. When you try to exonerate yourself—not your behavior, necessarily, but what kind of person you are—what happens? Does he just let you go?
 
 Of course not. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient.
 

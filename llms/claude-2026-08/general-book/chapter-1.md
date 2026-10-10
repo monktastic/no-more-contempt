@@ -56,7 +56,7 @@ I'm usually not aware of this need. Watch how it affects my behavior anyway.
 
 I'll narrate what happens in my mind when I confront a "bad person." My target has just been cruel to someone who didn't deserve it. The threat is over, and now I'm calling him out. If it sounds like I'm contradicting myself in places, it's because two parts of my mind are in tension. See if you recognize yourself in any of it.
 
-I've decided he's a *bad person*—not just someone who does bad things, but who *is* bad. My eyes are communicating something like: *I'm a better kind of thing than you.* And I want him to feel the full weight of it, almost as a kind of punishment. 
+I've decided he's a *bad person*—not just someone who does bad things, but who *is* bad. My eyes are communicating something like: *I'm a better kind of thing than you.* And I want him to feel the full weight of my judgement, almost as a kind of punishment. 
 
 Part of me senses something dark about my message, though I can't quite place it. If I were on the receiving end, I would recognize it instantly. The message *this is all you are* carries a subtle but primal threat: *... and therefore your wellbeing has ceased to matter. What I do to you no longer qualifies as harm.* There's no bottom to what can be done to such a person.
 
@@ -70,7 +70,7 @@ But the truth is, there's nothing inviting about my tone or gaze. Nothing that s
 
 I sense something underhanded about this, but here's the thing: he's actually bad, so what does it matter? He would have reacted poorly no matter what I did. Who cares if I give him a little nudge to help him reveal what he truly is?
 
-Plus, he can't prove I'm doing this, can he? No. And crucially, *neither can I*. So I know it's not on purpose—and if he accuses me of it, well, he can only be projecting.
+And he can't prove I'm doing this, can he? No. And crucially, *neither can I*. So I know it's not on purpose—and if he accuses me of it, well, he can only be projecting.
 
 And wouldn't you know it, there he goes, accusing me of it anyway. He thinks *I'm* the bad one. *Ha!* Classic.
 
@@ -78,9 +78,9 @@ His eyes are saying something like:
 
 > *Don't pretend you're doing something noble here. We both know what you're really up to.*
 
-*Shit.* He's onto me. But I absolutely cannot afford to admit it. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm nothing like him, and then cover it up to boot.
+*Shit.* He's onto me. But I cannot afford to admit it. I don't even want to believe I have that kind of darkness in me—the kind that would forsake a fellow being just to prove I'm nothing like him, and then cover it up.
 
-Surely that's not what I'm doing. True, it may be dark, but it's the *good* kind of darkness—the kind that fights *real* darkness.
+Surely that's not what I'm doing. It may be dark, but it's the *good* kind of darkness—the kind that fights *real* darkness.
 
 So I double down. *This really **is** what you are—and I'm going to make damn sure everyone knows it.*
 
@@ -140,11 +140,11 @@ Think back to the wrong you remembered at the start. Did some part of you feel y
 
 Of course, I don't actually tell myself I'm going to ignore my better nature. My justifications simply feel more convincing, more *righteous* even—as if they *are* my better nature. The two get just a little harder to tell apart.
 
-That's what's happening in my enemy. I sense his hardening, and feel a brief flicker of satisfaction, vindication, even relief at being proven right about him—just before I conveniently relabel it disgust or dismay.
+That's what's happening in my enemy. I sense his hardening, and feel a brief flicker of satisfaction, vindication, even relief at being proven right about him—just before I  relabel it disgust or dismay.
 
 > *Ugh, I knew it. Other people are the problem.*
 
-Any doubt I had about him is now erased. Which means I don't have to worry about being like the *bad people.* It lets me stop introspecting on my own motives and behaviors, which is a huge relief. If anything, it's my duty to be more cruel to the *bad people*.
+Any doubt I had about him is now erased. Which means I don't have to worry about being like the *bad people.* I can stop introspecting on my own motives and behaviors, which is a huge relief. If anything, it's my duty to be more cruel to the *bad people*.
 
 From the inside, being proven right and being right are the same experience. The only difference is who produced the evidence.
 

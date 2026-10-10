@@ -135,6 +135,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "llms/claude-2026-08/general-book/chapter-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter-1"
+            }
+          },
+          {
+            "id": "a1f444a838cbf60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms/claude-2026-08/long-book/appendix-1-recursion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "appendix-1-recursion"
+            }
+          },
+          {
+            "id": "48d57e82cdfcef42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "llms/claude-2026-08/short-book/chapter-1-alt.md",
                 "mode": "source",
                 "source": false
@@ -142,23 +170,9 @@
               "icon": "lucide-file",
               "title": "chapter-1-alt"
             }
-          },
-          {
-            "id": "82dc15c1476aeac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms/claude-v4/chapter-0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-0"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -213,8 +227,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -310,8 +323,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9f617938f92e0f9f",
+  "active": "48d57e82cdfcef42",
   "lastOpenFiles": [
+    "llms/claude-2026-08/general-book/chapter-1.md",
+    "llms/claude-2026-08/short-book/chapter-1-alt.md",
+    "llms/claude-2026-08/long-book/appendix-1-recursion.md",
+    "llms/claude-v4/chapter-0.md",
+    "llms/claude-2026-08/long-book/chapter-1.md",
+    "old/alt.md",
+    "llms/claude-2026-08/archive/general-chapter-1-ledger.md",
+    "llms/claude-2026-08/archive/general-chapter-1-before-the-alt.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round42-2026-10-09.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round41-2026-10-09.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round40-2026-10-09.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round39-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round38-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round37-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round36-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round35-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round34-2026-10-08.md",
+    "llms/claude-2026-08/short-book/readers/cold-reads-round33-2026-10-07.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round32-2026-10-07.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round31-2026-10-06.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round30-2026-10-06.md",
@@ -320,24 +351,6 @@
     "llms/claude-2026-08/short-book/readers/cold-reads-round27-2026-10-06.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round26-2026-10-04.md",
     "llms/claude-2026-08/short-book/readers/cold-reads-round25-2026-10-03.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round24-2026-10-02.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round23-2026-10-02.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round22-2026-10-02.md",
-    "llms/claude-v4/chapter-0.md",
-    "llms/claude-2026-08/long-book/appendix-1-recursion.md",
-    "llms/claude-2026-08/short-book/chapter-1-alt.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round21-2026-10-01.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round20-2026-10-01.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round14-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round19-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round18-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round17-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round16-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round15-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round13-2026-09-30.md",
-    "llms/claude-2026-08/short-book/readers/cold-reads-round12-2026-09-29.md",
-    "llms/claude-2026-08/short-book/readers/audit-round12-2026-09-29.md",
-    "llms/claude-2026-08/short-book/intro.md",
     "scratch/round5-as-sent-to-readers/later-chapters.diff",
     "scratch/round5-as-sent-to-readers",
     "llms/claude-2026-08/short-book/readers",
