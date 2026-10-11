@@ -49,9 +49,11 @@ seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
 `long-book/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
-`long-book/appendix-1-recursion.md` what contempt presupposes: the trap built up
-from one sentence, the punchline, what I believe is really happening (marked),
-the formal version for the lawyers, and where else to look. The appendices
+`long-book/appendix-1-recursion.md` what contempt presupposes, run as an
+abductive argument: assumptions the reader needn't hold, the look built from
+them, the need it serves, what it costs the verdict, why only an absence fits
+the shape without slack, what I believe is really happening (marked), the
+formal version for the lawyers, and where else to look. The appendices
 serve both books, so they cite neither by chapter.
 `long-book/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
 `long-book/appendix-3-the-traditions.md` the traditions that named the thing.
