@@ -162,7 +162,11 @@ You may have felt this before, as a maddening hall of mirrors. You both know wha
 
 Ask yourself: how could this trap work unless we both know we're the same kind of thing—beings who *turn away* to cause harm—and know that the other knows it, and that they know that, and so on? My claim that I'm a *better kind of thing* is maddening precisely because we both know it's false; that the only reason someone makes it is to do that thing we do, where we lie to ourselves to get away with self-serving behavior. Even "it's the good kind of darkness" refutes itself. The good kind would have landed like the second stranger's correction. That mine stung is proof we both read it as the real thing.
 
-That’s why my signal needs no words. It can be carried entirely by gaze and tone—which have the added benefit of being unquotable, thus sealing the trap. The signal is the pretense that there is no signal.
+That’s why my signal needs no words. It can be carried entirely by gaze and tone—which have the added benefit of being unquotable, thus sealing the trap.
+
+Normally, having my enemy read my self-deception would be embarrassing. In this case, it's the whole point. By turning away, I was communicating both *I know exactly what I'm doing to you* and *I'll never own up to it.* That unique combination is what makes it so maddening. Neither half alone would be enough to get me what I need: both his reaction and my innocence. If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation would have somewhere to land, making *me* the bad guy.
+
+In brief: I am in limbo about provoking him, and showing him that I am in limbo is itself the provocation. The signal is the pretense that there is no signal.
 
 This is how *turning away* propagates itself.
 
@@ -223,27 +227,5 @@ If seeing this makes you want to hide, notice that's the same verdict pointed in
 ---
 
 So what is it that two people who agree on nothing can both be serving? We may never agree on a definition of "good," but we already agree on how to orient toward it, and part of us knows it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it. And the best thing I can do, for them and through them for the world, is remember it myself.
-
----
----
-
-
-
-
-
-
-
-
-
-
-I've gone missing—and he knows from the inside what that implies. This part of me *relies* on him knowing it, because how else would it elicit the charge of hypocrisy? It needs to know that he will recognize me as *turned away*, and that it's not an accident, because the intentional quality is what makes him dig in. It's what licenses his own turning away, which I'll hold against him—because what have I done wrong?
-
-If it felt accidental, he might forgive or pity me instead. If it looked self-aware, then his accusation would have somewhere to land, making *me* the bad guy. It must look intentional, but without there being anyone there to claim responsibility—the limbo state. Recall being on the receiving end, and see if that's how it felt.
-
-He cannot appeal to my conscience, because I'm convinced this *is* my conscience. 
-
-And that's the whole trick. By turning away from my better nature, I see a world full of people I'm entitled to treat this way. They recognize what I'm doing even though I don't—*because* I don't—and feel compelled to return the favor, which increasingly shows me that I'm right.
-
-I cannot convince you that evil isn't a different thing. I can only invite you to reflect on how you look when treating people with contempt, and on how hard it is to avoid feeling contempt when you're convinced that someone is "evil."
 
 ---
