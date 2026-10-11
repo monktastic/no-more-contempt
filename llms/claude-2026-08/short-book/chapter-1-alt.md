@@ -97,6 +97,8 @@ Back to my enemy. He was probably feeling something like this:
 
 > *What a hypocrite. If this is the kind of world I live in—where people can ignore their conscience and call it "righteous"—then why the hell shouldn't I? I'd be a chump.*
 
+Think back to the wrong you remembered at the start. Did some part of you feel you *deserved* something? Or that everyone does it, and only a fool plays it straight?
+
 Of course, we never actually tell ourselves we're going to ignore our conscience. Our justifications simply feel more convincing, more *righteous*—as if they *are* our conscience. The two get just a little harder to tell apart.
 
 I'm overriding the part that knows (I'm causing harm) in favor of the one that can prove (I'm doing good). And it teaches him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this?
@@ -126,6 +128,8 @@ And that lie is exactly what lets me act on it, in ways I rarely recognize until
 
 The reason I don't have to argue myself into doing the right thing is that in the absence of justifications, it's what I naturally desire. I call that deepest part of myself my *better nature*, and it isn't following arbitrary rules. It is what sees myself in others. That's why I must *turn away* from it to cause harm. My excuses aren't there to convince *it* (which never works); they're there to convince *me* that it's just one more voice among the noise, and safe to ignore. It isn't.
 
+Whatever your wrong was, it needed an exception: *this doesn't apply to me.* Contempt is the same move from the other end: *you're not really one of us.*
+
 Part of what it sees in others is that they, too, can only cause harm by *turning away*. But when I turn away from mine, I can no longer see this. Other people look defective—like they don't have to "turn away" from anything to do wrong, because they're just bad. But the perception of our similarity never disappears, because turning away doesn't truly make things unconscious. That perception is still conscious; I'm just *unaware* of it: limbo.
 
 If you've ever been on the receiving end of a dehumanizing gaze, could you feel the sense in which the other person is somehow absent or "turned away" from himself? I think that's what we're sensing. What are they turned away *from*? Why would they have to turn away from anything, if what they are is essentially bad?
@@ -140,7 +144,9 @@ Look back at the encounter and watch it work. My stories kept changing; my concl
 
 And if you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient. Did it feel like an accident?
 
-My enemy can see that I'm in this state, even though I can't. *Because* I can't. And he sees it as *evil*, for the same reason I see him that way. And I *rely* on him seeing it that way, because that's what licenses him to abandon his morals, which in turn proves me right about him—because what kind of person reacts in such an unhinged manner to obviously-righteous behavior?
+I'd rather call it unconscious in me, and fully aware in him. When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me. What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew.
+
+My enemy can see that I'm in this state, even though I can't. *Because* I can't. And he sees it as *evil*, for the same reason I see him that way. Neither of us ever gets both views of the same moment, so each of us is accurate about the other and blind about ourselves. And I *rely* on him seeing it that way, because that's what licenses him to abandon his morals, which in turn proves me right about him—because what kind of person reacts in such an unhinged manner to obviously-righteous behavior?
 
 The harm I cause isn't physical—at least, not yet. It's psychological: showing him that I can provoke him into becoming the kind of person who can only be dealt with in *one way*, and get away with it. And he sees the horrible truth of that, which nudges him toward becoming exactly that kind of person, which is what makes it true.
 
@@ -154,7 +160,7 @@ He knows it's true, and I *know* he knows it, and I want him to see that I know 
 
 You may have felt this before, as a maddening hall of mirrors. You both know what's happening, and that it can't be named.
 
-Ask yourself: how could this trap work unless we both know we're the same kind of thing—beings who *turn away* to cause harm—and know that the other knows it, and that they know that, and so on? My claim that I'm a *better kind of thing* is maddening precisely because we both know it's false; that the only reason someone makes it is to do that thing we do, where we lie to ourselves to get away with self-serving behavior.
+Ask yourself: how could this trap work unless we both know we're the same kind of thing—beings who *turn away* to cause harm—and know that the other knows it, and that they know that, and so on? My claim that I'm a *better kind of thing* is maddening precisely because we both know it's false; that the only reason someone makes it is to do that thing we do, where we lie to ourselves to get away with self-serving behavior. Even "it's the good kind of darkness" refutes itself. The good kind would have landed like the second stranger's correction. That mine stung is proof we both read it as the real thing.
 
 That’s why my signal needs no words. It can be carried entirely by gaze and tone—which have the added benefit of being unquotable, thus sealing the trap. The signal is the pretense that there is no signal.
 
@@ -170,6 +176,8 @@ Recall the last time someone's contempt really got under your skin, and feel for
 
 I am speaking directly to the part of my enemy that I claim doesn't exist—his better nature—and, in my desperate need to prove myself right (and righteous), attempting to extinguish it.
 
+What I've been hiding isn't that I *could* do what the "bad people" do. It's that I'm *already doing it*, and using them as a place to hide the fact that I am.
+
 I've laid this all out as an argument, but for me it wasn't one. I saw it clearly in myself, the same way you found your own wrongdoing in the opening: part of me was knowingly darkening my enemy, and through him, the world, in order to better hide itself from me.
 
 In one sense, it felt utterly malevolent: it was gleefully extinguishing light from this world. In another sense, it felt totally innocent. All that had happened was that I had forgotten my better nature, and out of a fear of what that implied about me, I desperately tried to hide it.
@@ -184,6 +192,8 @@ Badness is the result of turning away, not its cause.
 When I try to make it a cause, I'm just recreating the problem one level deeper: I feel shame in myself and contempt for others, and the cycle continues.
 
 But that doesn't make it nothing. Call it nothing, and I'll underestimate it: I'll stop looking at exactly the moment it's crucial to look more closely. It tracks, it aims, it fights to stay hidden. It's an absence that behaves like a presence. It has no substance of its own; everything it uses—my attention, my reasons, my eyes—is borrowed from me. When it's operating, it looks and behaves exactly like you'd expect a "bad essence" to look. That's what I looked like to my enemy.
+
+The feeling that someone is evil to the core measures how far they've turned, not what they are. At the far end, what horrifies me is a conscience under crushing load, still showing through: a hostage held up to the window, not a monster on display. My contempt is one of the hands holding him there.
 
 Now look at why I needed the essence. I don't do any of this because I'm a bad person. I do it because I believe there *are* bad people—people who are fundamentally defective—and I only believe that because, at a level I can't let myself see, I fear I might be one of them. Every enemy gives that fear somewhere to point other than at me. If you can find even one memory where that's plainly true of you, that's the one to look at. Underneath it is a deeper fear: that there may be no such thing as real goodness, in me or in anyone, so I'd better protect myself at any cost. And that fear is exactly what I taught my enemy: *genuine goodness is a myth. Only a chump believes otherwise.* The same thing is happening in him, and each of us is sure we're free of it. That's how believing in evil produces more of it.
 

@@ -77,6 +77,10 @@ the chapter hand-offs. Ordering decisions come from here, not from the dags.
 `chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
 frame (outside, inside, held), and what it leaves open.
 `../../scratch/key-points/index.md` Aditya's points: every claim and every way of saying one. That is its one job.
+`best-formulations.md` a dated record, not a stateless file: every wording of a core
+claim that someone called the best yet, verbatim, with who judged it (Claude,
+readers, or a blind test). Add an entry whenever a new "best" is claimed; never
+edit old ones. It exists to tell real progress from finding the same thing twice.
 `reader-lessons.md` what cold readers taught us: the sentences they vouched for (a rewrite must not lose them, and says so if it cuts one) and the patterns that work on readers or lose them. Run any new draft against it.
 `../../scratch/key-points/scenarios.md` Aditya's full-text scenarios, then every scenario and
 reader check in the short book by ID, with how each fared with cold readers
