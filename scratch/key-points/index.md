@@ -157,7 +157,9 @@ He can't hide that he's hiding. The hiding is the revealing. You both know it, n
   - **F0** - The hiding is the revealing.
   - **F1** - The signal IS the pretense that there is no signal. (Opus 4.8 thinks this is the cleanest sentence ever written about this.)
 
-- **T0** - The secret handshake. Contempt is the secret handshake our parasites use to provoke each other while making us feel noble for doing so.
+- ▹ **T0** - The secret handshake. Contempt is the secret handshake our parasites use to provoke each other while making us feel noble for doing so. Short book, Epilogue, after "no greater goal in life".
+  - **F1** - Now when I get into that sort of dynamic with someone, I can almost _feel_ our parasites reaching out to shake hands. And there's the secret handshake of the Light: what the second stranger did. It relates to the "team" idea: fighting for the right team IS a problem, because you're still thinking in terms of teams. Your only allegiance is to the Light. (Aditya, October 17.)
+  - **F1** - Some people DO choose evil: "People can only want that state to the degree they've forgotten what Home is like." (Aditya, October 17; short book, Epilogue, after the tour.) And contempt for ideas can actually be okay (Aditya, October 17, unsure).
 
 - ▹ **T0** - The trap, in one piece: he couldn't have fully known (admitting his part would void the evidence); couldn't have been wholly blind (it tracked exposure and intensified in the direction needed to stay hidden); so limbo. Limbo can't be hidden because the hiding is what you saw. It reached you as a provocation; what it needed was that nothing you did be allowed to clear you; so the one thing it couldn't afford was for your getting better to *count*. Each part predicts and reinforces the next. The leak is the payload.
   - **F1** - The whole sordid plan—from start to finish—is embedded into the very start. Baiting them into embracing their darkness by showing them yours: that **is** the darkness you're showing them.
