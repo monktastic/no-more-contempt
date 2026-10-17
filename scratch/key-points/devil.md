@@ -13,7 +13,6 @@ What each of the tradition's names for it catches, and where the book uses it. A
 - **The tempter.** The seduction: his darkness seducing you to embrace yours. Chapter 1.
 - ***Mysterium iniquitatis.*** *The mystery of lawlessness is already at work* (2 Thessalonians 2:7). The hidden, ongoing operation; the root conspiracy. Map §9.
 - **The devil's one trick.** Convincing you he doesn't exist. The parasite hiding behind your own eyes. Appendix 3.
-- **Eckhart.** *The devil is none other than the will turned away from God.* Map, Part E epigraph; Appendix 3.
 - **Mara.** The Buddhist name. Map §9.
 
 ## Reference notes

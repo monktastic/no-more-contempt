@@ -99,6 +99,7 @@ The SBF passage there adds one thing the version above doesn't: the contempt was
 - The memo on file. [5]
 - Culture fetishizes rationality because it can't detect the infection until it's physical; religion outsources to authority for the same reason; both make the blind spot.
 - Clever calculations can go arbitrarily far off the rails.
+- AI and modernism: "The Tao that can be named is not the eternal Tao" (Tao Te Ching, chapter 1). Coherent extrapolated volition cannot work if it's trying to formalize the good. Which isn't to say we shouldn't try, because the trying itself has value. (Aditya, October 17; author musing, not yet placed.)
 
 ## Sources
 

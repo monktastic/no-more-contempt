@@ -35,11 +35,24 @@ medium and Parts A to F the full).
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
-`short-book/` the short book, for practitioners: preface, intro, five
-chapters, an interlude after Chapter 1 (`chapter-1a.md`), and after Chapter 4
-"The Picture I Use" (`chapter-4a.md`: the collaboration, the Devil, the
-institutions and the conspiracy, marked as a picture with no check), published as its
-own section of the site. It assumes what the long book earns, so it can be
+`short-book/` the short book, for practitioners: preface, intro, four
+chapters, and after Chapter 4 "The Picture I Use" (`chapter-4a.md`: the
+collaboration, the Devil, the institutions and the conspiracy, marked as a
+picture with no check) and "An Exercise for the Far End" (`chapter-4b.md`:
+the maximal-turning exercise, moved out of Chapter 3's footnote behind a
+marker saying who should skip it), and "Epilogue: What I Saw" (`chapter-4c.md`: what the
+author saw on the medicine, the story he holds the way the traditions hold
+theirs, and the closing promise; the most belief and the least check in the
+book, and the place the appendix's fuller story now lives), published as its own section of the site.
+Files after a chapter take its number and a letter (`4a`, `4b`, `4c`), the way the
+interlude after Chapter 1 was `1a`, so the builds' sorted order is the
+reading order. Chapter 1
+("Limbo") makes the whole opening case at once: the reader's own wrong, the
+two strangers, the author's contempt, common knowledge, the way out, the
+spread. It replaced the old Chapters 1 and 2 and the interlude between them
+(whole, in `archive/`); every passage of theirs not yet placed is in
+`short-book/kept-from-old-chapters.md`, verbatim, by destination. Chapter 2
+("Common Ground") opens on the face exercise that Appendix 1 leans on. It assumes what the long book earns, so it can be
 brief. Not in the working manuscript. `short-book/readers/` holds the cold
 readers' letters on it, `reader-brief.md` (how a cold read is set up and
 what to ask; read it before running one), and `parked-passages.md`, Claude-drafted passages taken
@@ -230,7 +243,10 @@ The tells, every one of which has turned up in drafts:
 - **Volume knobs.** "Exactly," "precisely," "the whole," "the only," "the
   most," "never once," "every single." One is precision. Ten a page is
   insistence.
-- **The book naming itself.** "That's what this book is about." Say the thing.
+- **The book naming itself, by reflex.** "That's what this book is about." Say the
+  thing. Once in a while, said on purpose (the old title, a promise about where
+  something is argued), it's fine and readers have liked it. Three times a
+  chapter and it's bookkeeping.
 - **Questions that presume their answer.** "Right?", "isn't it?". Chapter 1's
   method is questions. The ones that leave room are the method; the ones that
   close it are the tell.

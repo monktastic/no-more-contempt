@@ -39,6 +39,14 @@
 - Getting stronger, better at hiding, more entrenched
 - **Using us as vehicles while convincing each of us we were free of it**
 
+**5. It benefits by being seen as me**
+
+- Taken for me, it gets defended the way I defend myself
+- Looking at it becomes looking at myself as evil: shame, and shame is hiding
+- Run on him, the same trick is my contempt: taken for him, it gets the verdict, and he stops looking
+- So evil benefits from being seen as a presence, in either direction
+- **The parasite name isn't a comfort; it's what makes looking possible**
+
 ### The Recognition
 
 - Oh fuck
@@ -49,3 +57,4 @@
 - That used my terror to make me create evil people
 - So it would have somewhere to feed
 - **I started calling it a parasite**
+- Not "it wasn't me": it's still a part of me, and what it does through me is mine to answer for. But it's extraneous to my true nature. That's the sense in which it isn't me.

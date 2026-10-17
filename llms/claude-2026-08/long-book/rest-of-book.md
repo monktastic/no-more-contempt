@@ -546,8 +546,6 @@ That's why the medicine could show me what it showed me. It held me in something
 
 # Part E: What I believe
 
-> *The devil is none other than the will turned away from God. When the will turns from the One, it becomes its own devil.* —Meister Eckhart
-
 *I've marked this part off, and I should say what the mark means, because the obvious reading is wrong. It doesn't mark a change of subject. Everything here is on the same road as everything before it, further along, and I got there by looking the way you looked in Chapter 1, for longer and with help. What it marks is that I can no longer give you a way to check what I'm saying. I can't take you there from here. Up to now every claim came with a way to check it, in your memory or on the street. From here the checks run out, and what's left is the road itself, which is practice, not pages. So the limit is on the book, not on you. If you look and don't find what I describe, that's a finding, the same as in the interlude, and it counts. Nothing practical in the book depends on this part, and Part F stands on its own.*
 
 ## 14. What remains

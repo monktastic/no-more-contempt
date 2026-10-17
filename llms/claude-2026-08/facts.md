@@ -37,7 +37,7 @@ Read the chain as Aditya put it: I'm turned away from you, which is a milder for
     Status: the receiving-end check (2.5: it reaches further in than pride; an insult to pride stings differently). The weakest link in the chain, and the hinge: it identifies "the part that reads the message" with "the part that cares." The rival reading is that you read the threat with fear, not care. The check that separates them is the sting's address: fear would make you want to get away; this makes you want them to have been better.
 
 11. **So contempt presupposes, in you, the thing it denies; and in me, because I had to find it in you to aim.** (from 10)
-    Status: inference, and the sentence readers liked in short Chapter 2. The fixed point in Appendix 1 is this written out.
+    Status: inference, and the sentence readers liked in the old short Chapter 2 ("we only treat people as irredeemable because part of us knows they're not", now in `short-book/kept-from-old-chapters.md`); short Chapter 1 carries it as "Love and contempt are addressed to the same place." The fixed point in Appendix 1 is this written out.
 
 12. **The caring was not reduced. It was covered.**
     Status: the reader's own check: after the encounter, did you find you no longer cared about them, or that you had to keep not caring (the case kept open, the reasons rehearsed)? If it had gone there'd be nothing to maintain. Turning away takes upkeep (index §1); turning toward doesn't. Caveat the book keeps: practiced hiding stops feeling like effort.
@@ -48,4 +48,4 @@ Read the chain as Aditya put it: I'm turned away from you, which is a milder for
 
 - **Contempt with no wrongdoer** (the stupid, the crazy; spine 39). Lines 1–12 hold with "harm" read as the verdict itself; the cover changes from "fighting evil" to "being accurate."
 - **Cold contempt.** Line 5 changes: cold doesn't need to be seen, so lines 7–9 don't apply, and the leak is the ordinary one. The far end of line 1 is cold.
-- **Collaboration, the parasite, the one goodness.** Downstream of 13, and marked as such in the short book's "What I'm claiming."
+- **Collaboration, the parasite, the one goodness.** Downstream of 13; in the short book, Chapter 2 states the one goodness and Chapter 3 and The Picture I Use mark the collaboration as the picture at scale.

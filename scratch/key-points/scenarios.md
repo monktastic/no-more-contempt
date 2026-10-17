@@ -109,7 +109,7 @@ So the wanting you just found is a reading. It measures how far you are from see
 
 ### 2. Two strangers
 
-**2.1 The two people who caught you.** (Fuller version in Part 1, "Contempt and Integrity," which has all four quadrants: contempt received, integrity received, contempt sent, integrity sent. The short book uses only the first two.) "Think of two times you were caught doing something you shouldn't have… The first person catches you and lets you know what you are. Not what you did; what you are… What did you do?" / "The second person catches you and is, if anything, harsher… And it lands as… a reminder that *you're better than this.*" (Interlude.) Evidence for: the act/verdict distinction; kind is not nice; the difference is carried by something other than the words. Worked on nearly everyone, and both author-readers wanted it as page one. One reader remembered only the first kind and did *not* dig in: ashamed for a year, and stopped.
+**2.1 The two people who caught you.** (Fuller version in Part 1, "Contempt and Integrity," which has all four quadrants: contempt received, integrity received, contempt sent, integrity sent. The short book uses only the first two.) "Think of two times you were caught doing something you shouldn't have… The first person catches you and lets you know what you are. Not what you did; what you are… What did you do?" / "The second person catches you and is, if anything, harsher… And it lands as… a reminder that *you're better than this.*" (Ch 1, The Two Strangers.) Evidence for: the act/verdict distinction; kind is not nice; the difference is carried by something other than the words. Worked on nearly everyone, and both author-readers wanted it as page one. One reader remembered only the first kind and did *not* dig in: ashamed for a year, and stopped.
 
 **2.2 What were they serving?** "The second person may have had different politics, a different religion… What were they serving? Not you, exactly… Could you have defined it?" Evidence for: the light is recognized, not defined, and across creed. Worked as a question; the novice couldn't get from "I recognized it in her" to "I am it."
 
@@ -117,7 +117,7 @@ So the wanting you just found is a reading. It measures how far you are from see
 
 **2.4 Being shamed when you're already in the wrong.** "Think of how it feels when you've skirted your own conscience and somebody tries to shame you for it… We think it's somehow different when we do it." (Ch 4.) Evidence for: the privilege we grant ourselves. Not singled out by readers.
 
-**2.5 Where it reaches.** "Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride…" (Ch 2.) Evidence for: contempt and love are addressed to the same place. Worked on all of round 4 and both authors; one author felt it as a status injury and wasn't sure.
+**2.5 Where it reaches.** "Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not your pride…" (Ch 1.) Evidence for: contempt and love are addressed to the same place. Worked on all of round 4 and both authors; one author felt it as a status injury and wasn't sure.
 
 **2.7 Correcting someone with integrity yourself.** (Part 1.) "Perhaps you had to do it with more ferocity… and yet something in you knew it would ultimately bring *more* peace. *How* did you know?" Not in the short book. The sending end of the second catcher.
 

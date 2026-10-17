@@ -37,11 +37,11 @@
 **The cold kind, and close to home**
 - "A politeness with nothing behind it, and a small satisfaction at being done with them." (Chapter 1. All four readers; for two it is the kind they live in.)
 - "The look on their face that tells us it landed, which we'll pretend not to have seen… and then you went back to loving them as if nothing had happened." (Chapter 2. Three of four readers named it as what they'd carry out.)
-- "A small, pleasant lift. *I'm not that.*" (The interlude. Paul: "worth the whole read.")
+- "A small, pleasant lift. *I'm not that.*" (The old interlude, now in `short-book/kept-from-old-chapters.md`. Paul: "worth the whole read.")
 - "I've found them guilty of being what they are." (Chapter 4, contempt with no wrongdoer.)
 
 **The checks**
-- "If the harm simply stopped tomorrow, with nobody punished and nobody exposed, would you feel relief, or robbed?" (Chapter 5; the interlude's pill is its long form. Three readers found "robbed.")
+- "If the harm simply stopped tomorrow, with nobody punished and nobody exposed, would you feel relief, or robbed?" (Chapter 4; Chapter 1's buttons are its long form. Three readers found "robbed.")
 - "*You lied to me.* With the extra: *Of course you lied to me.*" (Chapter 5.)
 - "Would I be glad if they got there before I did?" (Chapter 5, for practitioners.)
 
