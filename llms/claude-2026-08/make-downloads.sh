@@ -53,7 +53,7 @@ stamp = (f'*Working draft of {os.environ["DATE"]}, built from commit '
          f'{os.environ["SHA"]}. The current version is always at {SITE_URL}.*')
 
 def source_words(names):
-    return sum(len((MAN / n).read_text().split()) for n in names)
+    return sum(len(strip_todos((MAN / n).read_text()).split()) for n in names)
 
 sections = []
 for name in READING_ORDER:

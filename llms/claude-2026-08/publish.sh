@@ -69,7 +69,7 @@ for d in ('book', 'map', 'appendix', 'condensed', 'short'):
     if p.exists(): shutil.rmtree(p)
 
 def words(*names):
-    return sum(len((MAN / n).read_text().split()) for n in names)
+    return sum(len(strip_todos((MAN / n).read_text()).split()) for n in names)
 def draft_words():
     return sum(len(strip_todos((MAN / n).read_text()).split()) for n in DRAFT_FILES)
 bw, mw, dw = words(*BOOK_FILES), words('rest-of-book.md'), draft_words()
@@ -120,7 +120,7 @@ for i, f in enumerate(APPENDIX_FILES, 1):
 # preface is the section page; the chapters are its children.
 SHORT = HERE / 'short-book'
 short_chapters = sorted(f for f in SHORT.glob('chapter-*.md'))
-sw = sum(len(strip_todos(f.read_text()).split()) for f in [SHORT / 'intro.md'] + short_chapters)
+sw = sum(len(strip_todos(split_title(f.read_text())[1]).split()) for f in [SHORT / 'preface.md', SHORT / 'intro.md'] + short_chapters)
 t, body = split_title((SHORT / 'preface.md').read_text())
 page(ROOT / 'short' / 'index.md', t, 3, '/short/',
      count_line(sw, 'The short version') + body, has_children=True, seq='short')

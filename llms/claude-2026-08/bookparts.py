@@ -43,7 +43,11 @@ TODO_RE = re.compile(r'\s?\[TODO(?:\([^)]*\))?:[^\]]*\]|<!--\s*TODO.*?-->', re.S
 def strip_todos(text):
     text = text.split('<!-- working notes -->')[0]
     text = re.split(r'\n## Original material\b', text)[0]
-    return TODO_RE.sub('', text).rstrip() + '\n'
+    text = TODO_RE.sub('', text)
+    # Holding pens and any other HTML comment: invisible on the page, but they'd
+    # sit in the page source and the downloads, and they'd inflate the counts.
+    text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
+    return text.rstrip() + '\n'
 
 
 # The draft chapters carry their disclosure as a red HTML paragraph, which every

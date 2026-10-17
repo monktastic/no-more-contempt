@@ -10,7 +10,7 @@ What I saw was how I, specifically, was contributing to the horrors of the world
 
 ---
 
-This version is for friends who sit, and it assumes things a general reader might not grant: that the mind has a nature, that the confusion covering it is not the same thing as it, and that recognition is available on the spot rather than at the end of an argument. The full book earns each of those slowly, from the reader's own memory; here I lean on them, which is what lets me be brief. It's meant to be read alongside practice, from a settled seat; Chapter 1 especially, since it still asks before it tells. After it, this version tells you what the full book makes you find for yourself. If it provokes the recognition, the rest is detail.
+This version is for friends who sit, and it assumes things a general reader might not grant: that the mind has a nature, that the confusion covering it is not the same thing as it, and that recognition is available on the spot rather than at the end of an argument. The full book earns each of those slowly, from the reader's own memory; here I lean on them, which is what lets me be brief. It's meant to be read alongside practice, from a settled seat; Chapter 1 especially, since it still asks before it tells. If it provokes the recognition, the rest is detail.
 
 For those of us with bodhicitta aspirations, it matters to see the mechanism by which straying from recognition creates samsara. This is one way to see part of it. Dzogchen and Mahamudra already say what the darkness is: awareness failing to recognize its own nature, with no substance of its own. What I think I can add is how that not-recognizing passes between people: through gaze and tone, from one mind into another, into groups, with everyone in it convinced they were fighting it. Like any text, it isn't enough on its own.
 
@@ -22,6 +22,8 @@ May all beings be free of suffering and its causes.
 
 <!--
 Holding pen.
+
+Cut October 17 (the sangha won't see the full book; the earlier mention stays), Aditya's: "After it, this version tells you what the full book makes you find for yourself."
 
 Cut October 13 (ten readers over rounds 49 and 50: the preface talks about another book; "the full book" four times), Aditya's lines verbatim: "and never asks for them up front." "So this leaves out a great deal. The finer distinctions, the objections and the cases where the account could fail, the evidence for the claims about people you'll never meet: all of that belongs in the full book and isn't here. What's here is only the broad shape, quickly, and one or two places to look." ", in your own memory, before it's named; so don't take the rest as how the full book is written."
 -->

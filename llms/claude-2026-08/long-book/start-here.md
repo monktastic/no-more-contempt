@@ -12,7 +12,7 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 **Chapters 6 to 17** are first drafts, one per section of Chapter 5, written by an AI assistant from my notes and not yet rewritten in my voice. Each is marked in red at the top, with my own material below it. Read them for the shape of the whole.
 
-**The short version** is the whole argument in three chapters, for friends who practice. It assumes things the book proper never asks you to grant: that the mind has a nature, that the confusion covering it isn't the same thing as it, and that recognition is available on the spot. That's what lets it be brief. It leaves out the finer distinctions and the cases where the account could fail.
+**The short version** is the whole argument in four chapters, for friends who practice, followed by the picture I use, an exercise for the far end, and an epilogue about what I saw. It assumes things the book proper never asks you to grant: that the mind has a nature, that the confusion covering it isn't the same thing as it, and that recognition is available on the spot. That's what lets it be brief. It leaves out the finer distinctions and the cases where the account could fail.
 
 **The map**, *Where This Goes*, is the rest of the book in outline, with more of the reasoning behind each claim, in the order the finished book will follow. It's scaffolding and won't be in the final version.
 

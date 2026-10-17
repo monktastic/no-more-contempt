@@ -23,3 +23,6 @@ __pycache__/
 /_data/build.yml
 llms/claude-2026-08/short-manuscript.md
 llms/claude-2026-08/short-manuscript-clean.md
+
+# Obsidian rewrites this on every pane change; it is local layout, not settings.
+.obsidian/workspace.json
