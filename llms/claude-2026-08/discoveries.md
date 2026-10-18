@@ -49,7 +49,7 @@
 → `long-book/rest-of-book.md` §4, `argument.md` §4
 
 **Why the great thinkers stopped where they did: they picked a side.** The transaction is visible only while holding that he knew and didn't, at once. Jung picks unconscious; Arendt picks absence; Bandura picks technique; Fingarette comes closest and keeps it in one head. Readers do the same, and the two collapses are the book's two failure modes, contempt and niceness. Western thought is poor at holding apparent paradox; Madhyamaka isn't. The immediate recognition of "limbo" on first reading is the evidence that the knowledge was already there.
-→ `long-book/appendix-2-what-others-have-seen.md` (closing), `long-book/chapter-1a.md` ("what I think is new"), `long-book/chapter-5.md` (the trap)
+→ `long-book/appendix-3-what-others-have-seen.md` (closing), `long-book/chapter-1a.md` ("what I think is new"), `long-book/chapter-5.md` (the trap)
 
 **Self-righteous contempt is the name, and it has two checks.** Not "righteous": that word keeps its real meaning, because the second stranger was righteous. And "where the harm is real," never "where the target is evil," which reinstates the verdict. The "self" is the tell and points at the ego as the essence: the exception is the ego, the parasite is the ego defending it, and this is the defense at full volume. Contempt aimed at someone who really is evil. First check, easy: look at it as the verdict lands and find anything in it but malevolence. Second, harder, reached the same way: if that's what it's made of, it's made of the thing it's aimed at, and can only spread that thing. The skill isn't seeing this; it's not hiding it again by the end of the sentence.
 → `long-book/rest-of-book.md` §3
@@ -58,7 +58,7 @@
 → `long-book/rest-of-book.md` §16, `long-book/chapter-5.md` (what I believe), `argument.md` §9
 
 **Tier III is the same road, further along. The mark is a limit on the book, not a difference in kind.** Everything is on a continuum; a defended reader can't get Chapter 1 either. Saying "different in kind, my personal view" is the kind-sounding framing, and it's the niceness collapse applied to the book's own structure. The honest framing without contempt: the checks run out here and the road from here is practice, so the book can't carry you, and if you look and don't find it, that counts. Also: the parasite is behind cold as well as hot; cold is the parasite when it has won, and the reason on file is the gaze with the fight taken out. And the parasite is the Mahayana's self-cherishing, not pop "ego": the exception is the ego, the parasite is the ego defending it, hiding behind your own eyes, which is Satan's trick and the self's.
-→ `long-book/rest-of-book.md` Part E lead, §5; `long-book/appendix-3-the-traditions.md`; `long-book/chapter-5.md` (second seam); `long-book/chapter-1a.md`
+→ `long-book/rest-of-book.md` Part E lead, §5; `long-book/appendix-2-the-traditions.md`; `long-book/chapter-5.md` (second seam); `long-book/chapter-1a.md`
 
 **Conflation is one requirement with two faces.** The parasite needs to be mistaken for the host by the observer (so the observer attacks the host, pressing down the conscience that could end it) *and* by the host (so he defends it as his own convictions). Chapter 1 has both, scattered; they were never stated as one thing.
 → `long-book/rest-of-book.md` Part C
@@ -173,6 +173,6 @@ Does *not* support: coordination across minds (that's the author's), and no moti
 → `long-book/rest-of-book.md` §15
 
 **Murdoch is the closest philosophical neighbour and was missed entirely** until outside review. "Just and loving attention" versus egoistic fantasy corrupting perception before choice.
-→ `long-book/appendix-2-what-others-have-seen.md`
+→ `long-book/appendix-3-what-others-have-seen.md`
 
 ---

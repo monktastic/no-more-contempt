@@ -104,9 +104,9 @@ And the three are enough for the act. Given them, and a look aimed to be read an
 
 Not one of those is a separate fact. Each is the turn, seen from a different position: mine, his, an onlooker's, the next day's. That's what I mean by the simplest explanation: not the shortest, but the one where one fact predicts the rest. And the turn is an absence, the facing gone missing. An absence can act only through the presence it's the absence of: it borrows the eyes and the reasons, it has to hide from what would stop it, and its hiding shows to whoever shares what it's hiding from. That is what "an absence that behaves like a presence" means.
 
-Evil, in this book, names the turning: your own caring held out of view so that someone else can be. Contempt is that turning made into a message and dressed as righteous. The word *evil* usually carries two more things, and both are wrong. The first is size: think of the heat when someone cuts in line, and how shameful even a small flash of contempt is to admit, out of all proportion to its size. The second is outcomes: think of the forgotten birthday against the cutting remark, and of this: desecrating an enemy's corpse does the dead man no damage, and everyone knows it's wrong (Appendix 3 comes back to this). The worse outcome can come from the lesser wrong. What I find I'm tracking, in every one of those, is the turning, and I was tracking it long before I had a name for it.
+Evil, in this book, names the turning: your own caring held out of view so that someone else can be. Contempt is that turning made into a message and dressed as righteous. The word *evil* usually carries two more things, and both are wrong. The first is size: think of the heat when someone cuts in line, and how shameful even a small flash of contempt is to admit, out of all proportion to its size. The second is outcomes: think of the forgotten birthday against the cutting remark, and of this: desecrating an enemy's corpse does the dead man no damage, and everyone knows it's wrong (Appendix 2 comes back to this). The worse outcome can come from the lesser wrong. What I find I'm tracking, in every one of those, is the turning, and I was tracking it long before I had a name for it.
 
-Where this stops. The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back to, and it's the baseline that turning away departs from. It does not get you that care is what awareness *is*. The nearest rival reading is a universal human faculty with an evolutionary history, which nothing outweighs while it's in view. It differs from mine only about origin, and about whether the care belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 3 lays out the correspondences, the evidence for my reading, and the test that would count against it.
+Where this stops. The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back to, and it's the baseline that turning away departs from. It does not get you that care is what awareness *is*. The nearest rival reading is a universal human faculty with an evolutionary history, which nothing outweighs while it's in view. It differs from mine only about origin, and about whether the care belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 2 lays out the correspondences, the evidence for my reading, and the test that would count against it.
 
 ---
 
@@ -124,7 +124,7 @@ So nothing in the encounter belongs to a separate thing called the darkness. Eve
 
 And that's what waking up is, on this reading. Nothing gets added. What the two of you were already counting on, silently, becomes something one of you can say. Contempt is the act that keeps it from being said while both of you go on knowing it.
 
-The rest of what I believe is a story, and I hold it the way the traditions hold theirs: a first turning with no motive behind it and no one at fault, from the Aspiration of Samantabhadra, the Dzogchen prayer; then the fear that it was real, the guilt put outward onto others, and forgiveness as the way back, from *A Course in Miracles* as Kenneth Wapnick reads it. I got there by a different road from both; Appendix 3 says where the roads meet.
+The rest of what I believe is a story, and I hold it the way the traditions hold theirs: a first turning with no motive behind it and no one at fault, from the Aspiration of Samantabhadra, the Dzogchen prayer; then the fear that it was real, the guilt put outward onto others, and forgiveness as the way back, from *A Course in Miracles* as Kenneth Wapnick reads it. I got there by a different road from both; Appendix 2 says where the roads meet.
 
 ## 2. For the lawyers among you
 
@@ -175,7 +175,7 @@ Past the point the argument reaches, two readings remain: the care could be miss
 
 **On privation.** Augustine, _Enchiridion_.
 
-**On the story in "What I think is really happening."** Wapnick, _A Vast Illusion_ (1990) and _The Message of A Course in Miracles_ (1997), for the reading of the Course in which the ego is the belief in separation and its one strategy is to keep the guilt out there. Appendix 3 has the correspondences.
+**On the story in "What I think is really happening."** Wapnick, _A Vast Illusion_ (1990) and _The Message of A Course in Miracles_ (1997), for the reading of the Course in which the ego is the belief in separation and its one strategy is to keep the guilt out there. Appendix 2 has the correspondences.
 
 [^converse]: Holding him out of view and permitting myself the act are one event seen from two sides.
 

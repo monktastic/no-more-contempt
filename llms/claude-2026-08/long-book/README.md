@@ -13,8 +13,8 @@ here is edited in place; git is the safety net.
   chapter-5.md     the whole book once, in 2,500 words, tiered
   rest-of-book.md  map of the unwritten rest, for beta readers
   appendix-1-recursion.md
-  appendix-2-what-others-have-seen.md
-  appendix-3-the-traditions.md
+  appendix-2-the-traditions.md
+  appendix-3-what-others-have-seen.md
 
 `../build-manuscript.sh` concatenates these into `../working-manuscript.md`.
 `../publish.sh` generates the website pages from them into the repo root

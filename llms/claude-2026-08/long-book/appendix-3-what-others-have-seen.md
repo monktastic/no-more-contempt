@@ -1,9 +1,11 @@
-# Appendix 2: What Others Have Seen
+# Appendix 3: What Others Have Seen
+
+*This appendix was written mostly by Claude, an AI.*
 
 
 ---
 
-Most of what this book concludes is old. I want to say that plainly, because a reader who knows the territory will otherwise spend the whole book waiting for me to admit it.
+Most of what this book concludes is old. I want to say that plainly, because a reader who knows the territory will have spent the whole book waiting for me to admit it.
 
 Evil as an absence of good rather than a substance: Augustine. Ignorance as its root: the Buddhists, and half of Greek philosophy. Nobody knowingly chooses the bad while seeing it clearly: Socrates. We push what we can't stand about ourselves onto other people: Jung. Groups need their victims guilty: Girard. Attention is where the moral work happens: Murdoch. Terrible things get done by people who aren't monsters: Arendt.
 

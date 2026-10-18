@@ -68,8 +68,8 @@ them, the need it serves, what it costs the verdict, why only an absence fits
 the shape without slack, what I believe is really happening (marked), the
 formal version for the lawyers, and where else to look. The appendices
 serve both books, so they cite neither by chapter.
-`long-book/appendix-2-what-others-have-seen.md` the thinkers who saw the mechanism.
-`long-book/appendix-3-the-traditions.md` the traditions that named the thing.
+`long-book/appendix-2-the-traditions.md` the traditions that named the thing.
+`long-book/appendix-3-what-others-have-seen.md` the thinkers who saw the mechanism, written mostly by Claude and marked so.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.

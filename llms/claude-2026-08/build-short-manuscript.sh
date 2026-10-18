@@ -12,8 +12,8 @@ clean=short-manuscript-clean.md
   printf '<!-- Built %s by build-short-manuscript.sh. Generated file; edit the sources. -->\n' "$(date +%F)"
   for f in short-book/preface.md short-book/intro.md $(ls short-book/chapter-*.md | sort -V) \
            long-book/appendix-1-recursion.md \
-           long-book/appendix-2-what-others-have-seen.md \
-           long-book/appendix-3-the-traditions.md; do
+           long-book/appendix-2-the-traditions.md \
+           long-book/appendix-3-what-others-have-seen.md; do
     [ -f "$f" ] || { printf 'missing: %s\n' "$f" >&2; exit 1; }
     printf '\n\n<!-- ===== %s ===== -->\n\n' "$f"
     cat "$f"

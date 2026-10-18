@@ -16,7 +16,7 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 **The map**, *Where This Goes*, is the rest of the book in outline, with more of the reasoning behind each claim, in the order the finished book will follow. It's scaffolding and won't be in the final version.
 
-**The appendices** are the machinery of the argument, the thinkers who came closest to it, and the religious and contemplative traditions that got here first.
+**The appendices** are the machinery of the argument, the religious and contemplative traditions that got here first, and the thinkers who came closest to it.
 
 **One file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the draft as an EPUB, a PDF, or plain text.
 

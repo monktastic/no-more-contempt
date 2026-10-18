@@ -35,7 +35,7 @@ So it's worth staying committed to what you are at any cost. Not to your idea of
 
 ## Original material, to recover
 
-From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again ... I mean it absolutely literally"); Thích Nhất Hạnh in full; the sonder account ("for every cheap T-shirt I purchased ... the poor Asian sweatshop worker sewing that T-shirt"); Graham Hancock's shamans on severing the connection with spirit; both Eckhart lines; DiLullo on the ego speaking in your voice (already in Appendix 3).
+From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again ... I mean it absolutely literally"); Thích Nhất Hạnh in full; the sonder account ("for every cheap T-shirt I purchased ... the poor Asian sweatshop worker sewing that T-shirt"); Graham Hancock's shamans on severing the connection with spirit; both Eckhart lines; DiLullo on the ego speaking in your voice (already in Appendix 2).
 
 <!-- working notes -->
 
@@ -45,7 +45,7 @@ From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again .
 
 ## Placed material
 
-From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again ... I mean it absolutely literally"); Thích Nhất Hạnh in full; the sonder account ("for every cheap T-shirt I purchased ... the poor Asian sweatshop worker sewing that T-shirt"); Graham Hancock's shamans on severing the connection with spirit; both Eckhart lines; DiLullo on the ego speaking in your voice (already in Appendix 3).
+From `quotes.md`: Brad Warner ("the people that died in the collapse. Me again ... I mean it absolutely literally"); Thích Nhất Hạnh in full; the sonder account ("for every cheap T-shirt I purchased ... the poor Asian sweatshop worker sewing that T-shirt"); Graham Hancock's shamans on severing the connection with spirit; both Eckhart lines; DiLullo on the ego speaking in your voice (already in Appendix 2).
 
 ## Outline
 

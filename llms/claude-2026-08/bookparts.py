@@ -13,8 +13,8 @@ FRONT = ['start-here.md']
 BOOK_FILES = ['preface.md', 'chapter-1.md', 'chapter-1a.md', 'chapter-2.md',
               'chapter-3.md', 'chapter-4.md', 'chapter-5.md']
 DRAFT_FILES = [f'chapter-{n}.md' for n in range(6, 18)]
-APPENDIX_FILES = ['appendix-1-recursion.md', 'appendix-2-what-others-have-seen.md',
-                  'appendix-3-the-traditions.md']
+APPENDIX_FILES = ['appendix-1-recursion.md', 'appendix-2-the-traditions.md',
+                  'appendix-3-what-others-have-seen.md']
 CONDENSED = ['condensed.md']
 MAP = ['rest-of-book.md']
 READING_ORDER = FRONT + BOOK_FILES + DRAFT_FILES + APPENDIX_FILES + MAP  # condensed.md is kept but not published
