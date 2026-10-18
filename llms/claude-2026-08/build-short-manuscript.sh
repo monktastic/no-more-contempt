@@ -1,8 +1,8 @@
 #!/bin/sh
 # Concatenates the short book (short-book/) plus the appendices.
 # Writes two generated files; edit the sources, never these:
-#   short-manuscript.md        for auditing: inline [TODO] notes kept, like the
-#                              working manuscript.
+#   short-manuscript.md        for auditing: inline [TODO] notes and file markers
+#                              kept; holding pens stripped.
 #   short-manuscript-clean.md  for sending to readers: TODO notes and build
 #                              comments stripped.
 cd "$(dirname "$0")" || exit 1
@@ -23,6 +23,12 @@ python3 -c "
 import re, pathlib
 from bookparts import TODO_RE
 t = pathlib.Path('$out').read_text()
+# The audit copy keeps the TODO notes and the file markers, but not the holding
+# pens or any other comment: they're kept in the sources for recovery, not review.
+keep = lambda m: m.group(0) if re.match(r'<!-- (=====|Built )', m.group(0)) else ''
+t = re.sub(r'<!--.*?-->', keep, t, flags=re.S)
+t = re.sub(r'\n{3,}', '\n\n', t)
+pathlib.Path('$out').write_text(t)
 t = re.sub(r'<!--.*?-->', '', t, flags=re.S)
 t = TODO_RE.sub('', t)
 t = re.sub(r'\n{3,}', '\n\n', t).strip() + '\n'
