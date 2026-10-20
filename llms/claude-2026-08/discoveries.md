@@ -113,7 +113,7 @@
 → `engine.md`
 
 **Chapter 1 has a knowledge ledger, and three frames.** Outside (what the reader saw), inside (what it was like for him), held (what he knew and didn't let himself know). "Whatever it was" about something already stated, and an unmarked "he knew" or "he didn't know," are the regressions. Each section closes one question and opens one.
-→ `chapter-1-ledger.md`
+→ `archive/general-chapter-1-ledger.md` (archived with the chapter it was written for; no live chapter has one)
 
 **A spiral is a DAG with a second index.** A node is a (claim, depth) pair, not a claim. X↔Y is impossible; (X,1)→(Y,1)→(X,2)→(Y,2) is acyclic. The cycle only existed because "X" was being treated as one node when it's a column of them.
 → `spiral.md`, `dags/spiral-cycle.dot`

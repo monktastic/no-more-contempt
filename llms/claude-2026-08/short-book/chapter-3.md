@@ -2,7 +2,7 @@
 
 Before we recognize evil as a turning away, we can't help but feel contempt for "evil people." But even after we recognize it, the question remains: why do they turn away in the first place?
 
-My mind keeps reaching for a reason the contempt would be right, and a bad essence is the reason it keeps finding. It can't hold, because the turning comes first. And the turning can't have been chosen under the name "bad." Look at what that would require. If harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* would itself be a wrong done while still looking, which is the one thing Chapter 2's face showed can't happen. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want. Most people doing evil believe that what they're doing is "good" or "right."
+My mind keeps reaching for a reason the contempt would be right, and a bad essence is the reason it keeps finding. It can't hold, because the turning comes first. And the turning can't have been chosen under the name "bad." Look at what that would require. If harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* would itself be a wrong done while still looking, which is the one thing Chapter 2's face showed can't happen. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
 
 There is one choice, and it's real; it just never comes under that name. While you can still feel both pulls—the recognition, and the want the recognition would veto—you're still looking, and you can keep looking or stop. That's the choice. After it, there's no chooser in the middle, only reasons, and they feel like your own judgment. And what you chose wasn't described to you as *stop seeing him*. It came labeled *I've had a long day*, or *he had it coming*. The want the recognition would have vetoed was innocent; the label came from the story. That's why, looking back, it feels like you chose it knowing better, and you did, and that isn't shame's shape, *I am it*. It's remorse's, *I did it*.
 
@@ -22,9 +22,9 @@ For all these reasons, I started calling it a parasite.
 
 I'll keep the word, because it fits the behavior, and for no other reason. If the word makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. A habit that lives by going unseen will push back when seen. That's all a habit is, and it doesn't need a tenant.
 
-And here is what it gains by feeling like me. Taken for me, it gets defended the way I defend myself. Looking at it becomes looking at myself as evil, which is shame, and shame sends me back into hiding, which is all it ever needed. Run on him, the same trick is my contempt: taken for him, it gets the verdict, and he stops looking too. And taken for a real thing called evil, looking out of his eyes, it gets one thing more: a license. When I see that in someone, the kid gloves come off. Not just to stop him, which I could do fully turned toward him, but to do whatever I need to. It took a deeper layer of limbo to find that I'd always known whose license it was: the evil I felt over there was my permission to make more of it. That's why evil benefits from being seen as a presence, in either direction, and why calling it a parasite isn't a comfort. It's what makes looking possible.
+And here is what it gains by feeling like me. Taken for me, it gets defended the way I defend myself. Looking at it becomes looking at myself as evil, which is shame, and shame sends me back into hiding, which is all it ever needed. Run on him, the same trick is my contempt: taken for him, it gets the verdict, and he stops looking too. And taken for a real thing called evil, looking out of his eyes, it gets one thing more: a license. When I see that in someone, the kid gloves come off. Not just to stop him, which I could do fully turned toward him, but to do whatever I need to. *He hurt my people; I've earned this.* In that moment I don't care if the world gets a little darker for it. It took a deeper layer of limbo to find that I'd always known whose license it was: the evil I felt over there was my permission to make more of it. That's why evil benefits from being seen as a presence, in either direction, and why calling it a parasite isn't a comfort. It's what makes looking possible.
 
-The old picture for this is an angel and a devil on your shoulders, and it gets it wrong. It draws them as equals, two voices each making a case. In Chapter 1, only one side had to argue. The angel is just your better nature; the devil is what lures you away from it. [TODO(Aditya): Claude's draft (your note on the angel/devil picture), moved here from Chapter 1. Rewrite in your words or cut.]
+If the old cartoon of an angel and a devil on your shoulders comes to mind, it gets this wrong in the way that matters: it draws them as equals, two voices each making a case. In Chapter 1, only one side had to argue. The angel is just your better nature; the devil is what lures you away from it. [TODO(Aditya): Claude's draft (your note on the angel/devil picture), moved here from Chapter 1. Rewrite in your words or cut.]
 
 I'll also grant it a goal, in the one sense I've earned. When I can predict a thing only by assuming it wants something, I'll say it wants it. What it wants is what Chapter 1 found: to stay hidden from the one it lives in. It does that by keeping someone else to point at, and every time it acts, it makes more of them. And it only nudges one way. Nothing in it says *far enough*; follow the nudge to its end and you arrive at someone who doesn't count. So it's headed somewhere: toward a world in which everyone is fundamentally *other*, because that's the only world in which it's safe.
 
@@ -55,12 +55,6 @@ I think we're all trying to find our way home, not realizing that this cannot be
 
 That's what makes it possible to stay turned toward someone at their worst: under the contempt there is someone afraid, and you know that state from the inside.
 
-Little of my contempt is for the "bad people" at all. It goes to people I've decided are stupid, or crazy, or weak, or slow: the coworker who doesn't get it the third time, the relative who believes something ridiculous. They've harmed nobody. The verdict is the same one, *this is all you are*, and the cover is better. With a wrongdoer I tell myself I'm fighting evil. Here I tell myself I'm only being accurate, and I may be: they may really be wrong, or slow. But being right about what someone can't do doesn't call for the eye-roll, or the sigh, or the need to be above them. My parasite is constantly sensing who it's safe to treat this way.
-
-Here's a check. Think of someone who can't do a thing through no fault of theirs: a toddler who can't add, a grandparent losing their words. Is the contempt there? For me it isn't. It arrives once I've decided they *should* know better; that they could, and won't. So even this contempt seems to carry a moral charge underneath. I've found them guilty of being what they are.
-
-And it leaks the same way. A person treated as stupid stops asking questions. A person treated as crazy stops trying to make themselves understood, and I take that as proof.
-
 Nobody chooses evil under that name, and everyone is fully responsible, because responsibility never lived in a lucid instant of choosing evil. It lives in the choice to keep looking while you still can, in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time.
 
 ---
@@ -77,7 +71,7 @@ The only thing to notice is this, and it's only an offer. That license, the one 
 
 And what actually frightens it is the other thing: fierce, unyielding refusal that carries no verdict. That isn't a nice idea from a book. As far as I can tell, it has a long record against power that needs consent, and none against power that doesn't; there, force is right. Where it works, my reading of why is that it does to power what the second stranger did to you: it gives the thing nothing to eat. It is also much harder than contempt, which is why contempt gets sold to you as the strong option.
 
-And there is the contempt you aim at yourself: *you are what you did.* It feels like accountability. It produces what contempt always produces, which is hiding. The way you hold your own darkness is the way you'll end up holding theirs, and you hold your own first.
+And then there's the contempt you aim at yourself, which Chapter 1 asked you to set down. The way you hold your own darkness is the way you'll end up holding theirs, and you hold your own first.
 
 ---
 
@@ -91,8 +85,7 @@ So their conscience looks a little more naive to them, and next time the excuses
 
 (You may be wondering about the people who seem to be born this way, or who get there for no reason anyone can find. There are answers on offer, from genetics to karma, and I don't know which is right; it's the hardest case for what follows. However they got there, what you're looking at is the same turned-away state, and it reads the same from outside. It doesn't change the state they're in *now*, or how to treat them.)
 
-There's a thought that comes up here, and I've had it: *Oh, boo hoo, he was abused as a child. That's no excuse. I was hurt too, and it made me a better person.* Maybe it did. People who were hurt do turn out differently, and the differences are real, and they matter. But look at what the thought is doing. Look for where you're taking credit: for the people who held you, the help you had, the day it could have gone the other way. And look at whether it's a way to keep a little contempt with a clear conscience.
-[TODO(Aditya): Claude's draft from your note ("look for where you're taking credit"; "whether it's an excuse to feel subtle contempt"). Rewrite in your words or cut.]
+There's a thought that often comes up here, and I've had it myself: *Oh, boo hoo, he was abused as a child. That's no excuse. I was hurt too, and I didn't turn evil.* Maybe so. People who were hurt do turn out differently, and the differences are real, and they matter. But look at what the thought is doing. Look for where you're taking credit: for the people who held you, the help you had, the day it could have gone the other way. And look at whether it's a way to keep a little contempt with a "clear conscience."
 
 Here is what's strange about being at the far end. Our better nature is the thing that warns us when we've drifted from it, so the further gone we are, the less of it we can hear. What isn't obvious is that the knowing doesn't shrink, and you can check this in your own case. Think of the smallest wrong you've had to admit to yourself, and the biggest. Which took longer? Was that because you knew the big one *less*? For me it was the reverse. I knew it more, and had to hide it correspondingly harder. Limbo comes in degrees, and this is what the degrees are made of. It can look like the opposite, because people who do harm every day say they feel it less over time. But getting used to turning away isn't the same as turning away less.
 
@@ -107,27 +100,6 @@ And the hostage isn't struggling. From inside, the thing holding him presents it
 That's why I'd say they need the most love, and it isn't sentiment. They're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who carry it most. What they need is what the second stranger gave you: someone fierce who won't add the verdict.
 
 And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could round up the bad people and be rid of them, the rest of us would live in peace. The turning away it takes to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find a hot atrocity that didn't need it. The cold ones begin with nobody in view at all.
-
----
-
-When I speak contempt to my allies, or into a crowd, my parasite is looking for others to resonate with. Now imagine a locker room. Ten men, gathered around. One makes an off-color joke, testing the water. If nobody opposes it, a "shadow space" opens up, where all their parasites come out and play. Each man is a little bolder than he would have been alone. The moment the "wrong person" enters the room, the space shuts down. Nobody speaks of what just happened.
-
-If someone had opposed it with contempt ("you're all evil!"), that too would have fed everyone's parasite, including the objector's.
-
-One more check, on the scenes in this chapter. Which of them made you feel contempt, not *that's wrong* but contempt for the person? Those are the shadows you can judge safely, because they aren't yours. The ones that made you wince are closer to home.
-
-And much contempt isn't performed at all. It's consumed. Bring up a scene of somebody getting exactly what they had coming, delivered with relish. It feels good, and it wants more: a hot little *fuck yeah*. That's the parasite, watching. It's why this wrong, of all wrongs, spreads: it leaves no record, it comes dressed as duty, and it's rewarded in public. Comment sections, the shared post, the outrage we pass around: each one negligible, and together they set how dark everyone assumes the world is.
-
-Most of what we now recognize as evil was once respectable. Plenty of it still gets a pass: greed gets praised as ambition, and indifference as realism. But contempt is the one we still praise as *goodness itself*, as what a good person is supposed to feel toward bad people. And that's why the others are so hard to stamp out: we fight every one of them with it.
-
----
-
-Turning away isn't binary, and most of it has no enemy in it at all. It's the water we swim in: the ordinary day, the small self-serving move with nobody in front of you and nothing you'd call a wrong.
-
-That's where I live most of the time. I'm not holding anyone in contempt right now, and I'm nowhere near free of it either. Most of what I do is quietly self-serving, with justifications I never notice: the choice that helps me *and*, I tell myself, the world; the corner I cut with a company because it would do worse to me. I'm a hypocrite in small ways all day. I give the finger to the driver who cuts me off, and ten minutes later I cut someone off myself and don't even register it, because I had somewhere to be. Call it a low-grade infection: no fever, nothing anyone would notice, and running the whole time.
-[TODO(Aditya): Claude's draft from your note and your key-points (the "dual purpose" fig leaf; cheating the company because it's shitty). Rewrite in your words or cut. The Picture calls back to it at the anti-life paragraph.]
-
-This is what the buttons in Chapter 1 were measuring. Not whether you've done anything terrible, but how much contempt you're still capable of, toward anyone, for any reason. To the degree it's there, the road to the worst is open, and what's left is time and conditions. The murderer didn't start there, and nothing about you guarantees you'd have turned out differently. That isn't said to frighten you. The road is open in both directions, and the way back is the same looking.
 
 <!--
 Holding pen.

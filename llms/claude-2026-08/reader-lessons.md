@@ -41,7 +41,7 @@
 - "I've found them guilty of being what they are." (Chapter 4, contempt with no wrongdoer.)
 
 **The checks**
-- "If the harm simply stopped tomorrow, with nobody punished and nobody exposed, would you feel relief, or robbed?" (Chapter 4; Chapter 1's buttons are its long form. Three readers found "robbed.")
+- "If the harm simply stopped tomorrow, with nobody punished and nobody exposed, would you feel relief, or robbed?" (Chapter 5; Chapter 1's buttons are its long form. Three readers found "robbed.")
 - "*You lied to me.* With the extra: *Of course you lied to me.*" (Chapter 5.)
 - "Would I be glad if they got there before I did?" (Chapter 5, for practitioners.)
 

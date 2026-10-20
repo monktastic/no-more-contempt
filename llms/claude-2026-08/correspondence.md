@@ -80,23 +80,6 @@ Under nondualism there is no correspondence to explain, because there is no gap.
 
 That's not proof, and it must not be presented as proof. It's the same standard you hold elsewhere: a hypothesis that dissolves a problem rather than solving it is worth noticing, and noticing is all you're entitled to.
 
-## 7. Suggested placement
-
-**Tier I/II** (probably Chapter 2, where conscience gets characterized): the perceptual reframing. *What conscience knows isn't "this is wrong." It's "there's someone there." The wrongness isn't a second thing it has to detect — it comes with the someone.* That's one paragraph and it strengthens everything downstream.
-
-**Tier II** (near compassion/wisdom): the three-way split in §4, and the sincere-monster case as the reason perception rather than sincerity has to be the criterion.
-
-**Tier III** (Part E, near the nondual argument): the dissolution, plus the meta-observation that the problem's insolubility is what the hypothesis predicts. Two paragraphs, clearly marked.
-
-## 8. Key point, for scratch/key-points/index.md
-
-**L1 — What conscience actually detects.** Conscience is not a moral rulebook or a detector of wrongness. It is the perception of another's reality — that there is someone there, to whom things happen. The wrongness of harming them isn't a second fact requiring a second faculty; it follows from the first. This is why conscience can't define the good (a sense isn't a definition), why it never argues (perception doesn't argue), why seeing clearly is *sufficient* to stop you, and why every harm requires a turning-away first. It also blocks the sincere-monster objection: the atrocity-committer isn't reaching toward the good and failing on competence, he is factually wrong about what's in front of him.
-
-**L3 — Why there's any correspondence at all.** That another's reality makes a claim on me is not entailed by the bare fact that they exist. Nothing in Tier II closes that gap. Under non-separation there is no gap to close: conscience recognizing life in another is one awareness recognizing itself. The correspondence problem is what the assumption of separation generates, and its persistence is evidence of nothing except where to look.
-
-
----
-
 # Addendum: the asymmetry revision
 
 *Written after Aditya found two holes in §3 and §4. Both were real. The repair changes what conscience is taken to detect, and unifies two cases the earlier version handled separately.*
@@ -173,15 +156,3 @@ Then the turn, which is what the chapter should be built toward:
 > That's the same thing you detected in the stranger. He was making himself an exception too — judging you for what he was doing. You read him in two seconds, using the faculty you'd spent the previous hour refusing to point at yourself.
 
 Same detector, both directions, no metaphysics required. It converts Chapter 1's two halves into a single mechanism.
-
-## G. Revised key points
-
-**L0 — What conscience detects.** Conscience does not detect harm. It detects the assertion of asymmetry between self and other. Harm is what asymmetry produces. This is why it fires with no victim present (cheating, a desecrated corpse), before any calculation, without being able to say why, and identically in oneself and in others.
-
-**L0 — Cheating and contempt are one move.** *I am more* and *you are less* are the same assertion from opposite ends, detected by the same faculty. Contempt is that assertion in its pure and maximal form — which is why "contempt is evil" is an identification rather than a rating.
-
-**L1 — Contempt attacks the premise, not the feeling.** The badness of another's suffering follows from their being the same kind of thing you are. Contempt asserts a difference in kind. It doesn't suppress compassion; it removes what compassion follows from. Hence the necessary escalation to *irredeemable*.
-
-**L1 — The test for genuine reaching.** Reaching toward the good is genuine when it doesn't require hiding. The monster's isn't fake by stipulation; it's fake because it cannot survive being looked at.
-
-**L3 — What the faculty is.** A cooperation module would track consequences. This one fires where there are none. Best explanation: it is the perception that there is no privileged locus — non-separation, showing up in the only form a separated mind can receive it.

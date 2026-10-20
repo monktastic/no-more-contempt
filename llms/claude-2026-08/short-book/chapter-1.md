@@ -25,7 +25,9 @@ Now imagine doing the same thing without any justifications. Could you have? If 
 
 And the reverse. You know the feeling of remorse: that sickening sense of having gone against yourself. Have you ever felt it over something you did out of decency? Can you imagine anyone feeling it in reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature? If you think you have, look at what it was made of. Mine turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish.
 
-If what you've found makes you want to call yourself names, hold off. That's another way to hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
+One more thing about that memory. When you finally admitted it to yourself, how did you hold yourself? The most common contempt of all is the one we aim at ourselves: *you are what you did.* It feels like accountability. It isn't. It's a verdict, *this is all you are*, pointed inward, and it does what that verdict always does: it makes the part of you that did wrong dig in and hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
+
+So if, in what follows, you catch yourself thinking *I'm a terrible person*, treat that as one more instance of the thing we're studying. It's no truer of you than of anyone else, and no more useful. [TODO(Aditya): your passage from kept-from-old-chapters, restored on Fable's suggestion (eight readers asked for it); "the same verdict" became "a verdict" and "your enemy" became "anyone else", since neither has been introduced yet here; its last sentence is dropped because The Spread says it.]
 
 ---
 ## The Two Strangers
@@ -47,6 +49,8 @@ Would you have dug in?
 The problem wasn't being caught. In fact, he could have been *harsher* than the first person—said things that stung more, in front of more people, left you less room to wriggle out—and it still wouldn't have triggered the digging-in response.
 
 It's like he was reminding you of something: that *you're better than this*. The opposite of what the first stranger was doing: claiming that *this is all you are*.
+
+I had one once. The person who corrected me best was a teacher who caught me stealing. His look was fierce, and I braced for the verdict, and it never came. He was searching my face for some sign that I knew, and that made me look for it in myself. [TODO(Aditya): your words from brief.md, placed here on Fable's suggestion; "I had one once" is the join.]
 
 You might have disagreed with him on nearly everything—politics, religion, creed—and it wouldn't have mattered. Whatever he was standing up for wasn't *his*. It wasn't a rule, or a side. It was something you were already on the side of, and he was only reminding you.
 
@@ -139,13 +143,13 @@ I desperately want to call this behavior _unconscious_ (if I can admit I do it a
 ---
 ## The Mechanism
 
-This trap wouldn't work unless some part of me recognized our similarity—that he has a better nature to be turned away from, and that he would recognize my tone and gaze as signs of me being turned away myself. It's as if I'm saying to him:
+This trap wouldn't work unless some part of me recognized our similarity—that he has a better nature to be turned away from, and that he would recognize my tone and gaze as signs of me being turned away from mine. It's as if I'm saying to him:
 
-> *I know exactly how you cause harm, because I'm doing it to you **right now**. But I'll get away with it—because I'm only "fighting evil," and how could that ever be wrong?*
+> *I know exactly how you cause harm, and I'm making you watch me do it to you **right now**. But I'll get away with it—because I'm only "fighting evil," and how could that ever be wrong?*
 
 He knows it's true, and I *know* he knows it, and he knows that too. That was his accusation: *we both know what you're really up to.* But we both also know he can't say so without sounding unhinged, because it's all plausibly deniable, *even to myself.* That's not an accident; it's part of the trap.
 
-There is no specific wrong to point at. The look is the deed. And because what it means is already known to both of us, it needs no words. It can be carried entirely by gaze and tone, which have the added benefit of being unquotable. A wordless signal only works if both parties already know what it means. And it only reads *as* a signal, and not a slip, if each knows that the other knows that the other knows, and so on.
+There is no specific wrong to point at. The look is the deed. And because what it means is already known to both of us, it needs no words. It can be carried entirely by gaze and tone, which have the benefit of being unquotable.
 
 I am in limbo about provoking him, and revealing that I am in limbo is itself the provocation. The signal is the pretense that there is no signal. (Appendix 1 lays out the formal structure.)
 
@@ -194,7 +198,9 @@ Go back to the memory at the start, to the knowledge you hadn't *let yourself* k
 
 What you hid it from is what you call "I" when nothing is being hidden. I've called my better nature a part until now, but it isn't one part among others; it's what's left when the hiding stops. I'm not claiming there's a thing in there you could point to. Only that this is what the hiding was from, and what my contempt was aimed at in him. I never had to produce the care. It was there until I turned from it, and the turning was all I did.
 
-When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me. What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. 
+When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me.[^clancy] What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. 
+
+[^clancy]: The case of Lindsay Clancy, the Massachusetts mother charged in the deaths of her three young children in 2023, split people along this line almost overnight. Much of what I read said monster, feed her to the woodchipper; much of the rest said illness, with nothing of her in it. I don't know what happened in her, and this isn't a verdict on it. The point is how fast each side knew, and how each needed the other's answer to be the only alternative.
 
 If darkness were an essence, I'd be right to be afraid of it, and ashamed, and I'd have to keep proving it's in others and not in me. But if it's something I *do*, then I can stop.
 
@@ -220,11 +226,26 @@ Even this book can carry it: sometimes I'm writing it *at* people, instead of *f
 What I need in order to look at this is what my enemy needed from me, and what the second stranger gave: to be seen as more than what I do.
 
 ---
+## The Other Look
+
+Have you ever been the second stranger? Think of a time you had to stop someone: a child about to hurt another child, a colleague cutting a corner, a friend being cruel about someone who wasn't there. Look for one where you had to be a little fierce.
+
+While you did it, were you focused on what they'd done, or what they were? Was the wish to stop them at full strength? Was anything riding on it, any need for them to come away smaller?
+
+Now think of a time you felt the extra coming, the sigh loaded or the *of course you did* on its way out, and you didn't send it. What did you do instead, and what happened in them?
+
+What you said went to the same place my look went in my enemy, and it said the opposite: *I know you're in there.* Maybe it worked, maybe it didn't. But what it probably didn't do is give them license to embrace their darkness.
+
+Contempt passes on something dark, and it doesn't stop at them. Try and get a feel for what this passes on, and whether that's likely to stop with them either.
+
+---
 ## The Orientation
 
-So what is it that two people who agree on nothing can both be serving? Not a definition of good. We may never agree on one, and we don't need to. The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, in limbo, the badness underneath it. That recognition didn't come from either side. It's an orientation. The part that knew without arguing was pointed in it, and so was the second stranger when he pointed you back. Meanwhile, the part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove that it isn't.
+So what is it that two people who agree on nothing can both be serving? Not a definition of good. We may never agree on one, and we don't need to. The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, in limbo, the badness woven into it. Which suggests there's something we serve that transcends sides. It's an orientation. The part that knew without arguing was pointed in it, and so was the second stranger when he pointed you back. Meanwhile, the part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove that it isn't.
 
-If I had to name the orientation, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Serving life is good. This man is not. So hating him is good.* That's what I would have said I was doing to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving. That it can't be defined is also why I can't prove to you that such an orientation even exists. All I can do is invite you to remember that you already know it.
+If I had to name the orientation, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. So hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
+
+This inability to define goodness isn't a flaw. On the contrary, every attempt to define it opens up a trap like this. That's why I can't prove to you that such an orientation even exists. All I can do is invite you to remember the part of you that already knows it.
 
 Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it.
 
@@ -233,6 +254,9 @@ Underneath the argument, my enemy and I were never fighting over whether a share
 <!--
 
 Holding pen.
+
+Replaced October 18 by the fuller self-contempt passage from kept-from-old-chapters, Aditya's short form from October 11:
+"If what you've found makes you want to call yourself names, hold off. That's another way to hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it."
 
  The darkness leaks out of me and empowers his, because its meaning is universal. My justifications are believable only to me and my allies.
 

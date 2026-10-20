@@ -21,6 +21,14 @@ my version commits (v4, v6.5, and so on), it's mine: quote it verbatim in your
 report, not by description. If it came in under a "pass with CC" commit, it's
 Claude's, and a description will do.
 
+**Never cut a top-tier point because readers disliked it.** A T0 or T1 point (L0/L1
+in older notes), or any formulation under one, in
+`../../scratch/key-points/index.md` stays in the book. When readers
+object, find what they objected to (usually the form: a wink, an uncheckable
+flourish, the placement, a sentence doing too much) and fix that. If a top-tier
+point truly can't be placed yet, it goes into `todo.md` with the objection
+quoted, never only into a holding pen.
+
 ## What's here
 
 Everything the book is made of lives in `long-book/`. The base directory holds
@@ -35,16 +43,19 @@ medium and Parts A to F the full).
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
-`short-book/` the short book, for practitioners: preface, intro, four
-chapters, and after Chapter 4 "The Picture I Use" (`chapter-4a.md`: the
+`short-book/` the short book, for practitioners: preface, intro, five
+chapters (Chapter 3, "The Darkness," says what it is; Chapter 4, "The Water,"
+where you'll meet it), and after Chapter 5 "The Picture I Use" (`chapter-5a.md`: the
 collaboration, the Devil, the institutions and the conspiracy, marked as a
-picture with no check) and "An Exercise for the Far End" (`chapter-4b.md`:
+picture with no check) and "An Exercise for the Far End" (`chapter-5b.md`:
 the maximal-turning exercise, moved out of Chapter 3's footnote behind a
-marker saying who should skip it), and "Epilogue: What I Saw" (`chapter-4c.md`: what the
+marker saying who should skip it), and "Epilogue: What I Saw" (`chapter-5c.md`: what the
 author saw on the medicine, the story he holds the way the traditions hold
 theirs, and the closing promise; the most belief and the least check in the
 book, and the place the appendix's fuller story now lives), published as its own section of the site.
-Files after a chapter take its number and a letter (`4a`, `4b`, `4c`), the way the
+`short-book/engine.md` is its spine, agreed October 20, 2026: nine steps to one
+recognition, which chapter carries each, and how to tell the main line from the rest.
+Files after a chapter take its number and a letter (`5a`, `5b`, `5c`), the way the
 interlude after Chapter 1 was `1a`, so the builds' sorted order is the
 reading order. Chapter 1
 ("Limbo") makes the whole opening case at once: the reader's own wrong, the
@@ -73,6 +84,8 @@ serve both books, so they cite neither by chapter.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.
+`brief.md` the same argument in my own words, about four thousand words; the
+plain statement, where `argument.md` is the map.
 `discoveries.md` index of everything worked out so far and where each thing
 lives. **Read this first.**
 `correspondence.md` the philosophical problem of why conscience's knowing
@@ -89,8 +102,9 @@ to track; change a line's status there when a check changes it.
 `spiral.md` why circular dependencies aren't a problem here.
 `engine.md` what pulls the reader forward: the two questions, the reach ladder,
 the chapter hand-offs. Ordering decisions come from here, not from the dags.
-`chapter-1-ledger.md` what each section of Chapter 1 establishes, in which
-frame (outside, inside, held), and what it leaves open.
+`archive/general-chapter-1-ledger.md` what each section of a Chapter 1
+establishes, in which frame (outside, inside, held), and what it leaves open;
+archived October 9 with the chapter it was written for. No live chapter has one.
 `../../scratch/key-points/index.md` Aditya's points: every claim and every way of saying one. That is its one job.
 `best-formulations.md` a dated record, not a stateless file: every wording of a core
 claim that someone called the best yet, verbatim, with who judged it (Claude,
@@ -370,7 +384,8 @@ has a chapter that pays it, or the promise comes out.
 
 **tic sweep** — the list above, mechanically.
 
-**knowledge check** — Chapter 1 against `chapter-1-ledger.md`. Every sentence
+**knowledge check** — Chapter 1 against its ledger (the last one is
+`archive/general-chapter-1-ledger.md`; write one for the live chapter first). Every sentence
 about the first stranger is in one frame (outside, inside, held) and says so;
 no "whatever it was" about something already stated; each section closes one
 question and opens one; the sum-known sentence appears once, at the hinge.

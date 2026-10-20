@@ -5,8 +5,8 @@ rules and the map of what's here, and is read at the start of every session.
 
 The long book is in `long-book/`; the short book, for practitioners, is in
 `short-book/`; the plan for a general reader's book is in `general-book/`. `discoveries.md` indexes what's been worked out;
-`engine.md` is the plan; `themes.md` and `chapter-1-ledger.md` are the
-regression checks. `todo.md` is the one file that holds open work. The key
+`argument.md` is what the book claims and `brief.md` the same in Aditya's words;
+`engine.md` is the plan; `themes.md` is the regression check. `todo.md` is the one file that holds open work. The key
 points the chapters are written from are in `../../scratch/key-points/`
 (`index.md` for everything, `spine.md` for the theses in book order).
 
