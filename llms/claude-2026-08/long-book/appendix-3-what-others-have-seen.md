@@ -2,7 +2,6 @@
 
 *This appendix was written mostly by Claude, an AI.*
 
-
 ---
 
 Most of what this book concludes is old. I want to say that plainly, because a reader who knows the territory will have spent the whole book waiting for me to admit it.

@@ -121,9 +121,11 @@ for i, f in enumerate(APPENDIX_FILES, 1):
 SHORT = HERE / 'short-book'
 short_chapters = sorted(f for f in SHORT.glob('chapter-*.md'))
 sw = sum(len(strip_todos(split_title(f.read_text())[1]).split()) for f in [SHORT / 'preface.md', SHORT / 'intro.md'] + short_chapters)
+aw = sum(len(strip_todos(split_title((MAN / f).read_text())[1]).split()) for f in APPENDIX_FILES)
 t, body = split_title((SHORT / 'preface.md').read_text())
 page(ROOT / 'short' / 'index.md', t, 3, '/short/',
-     count_line(sw, 'The short version') + body, has_children=True, seq='short')
+     count_line(sw, 'The short version, without the appendices') + count_line(sw + aw, 'With the appendices')
+     + body, has_children=True, seq='short')
 t, body = split_title((SHORT / 'intro.md').read_text())
 page(ROOT / 'short' / 'intro.md', t or 'Introduction', 1, '/short/intro/', body, parent='The Short Version', seq='short')
 for i, f in enumerate(short_chapters, 2):
