@@ -232,11 +232,11 @@ Have you ever been the second stranger? Think of a time you had to stop someone:
 
 While you did it, were you focused on what they'd done, or what they were? Was the wish to stop them at full strength? Was anything riding on it, any need for them to come away smaller?
 
-Now think of a time you felt the extra coming, the sigh loaded or the *of course you did* on its way out, and you didn't send it. What did you do instead, and what happened in them?
+Now think of a time you felt the extra coming, the sigh loaded or the *of course you did* on its way out, and you didn't send it. What did you do instead, and what happened in them? Was anything different in how you saw them?
 
-What you said went to the same place my look went in my enemy, and it said the opposite: *I know you're in there.* Maybe it worked, maybe it didn't. But what it probably didn't do is give them license to embrace their darkness.
+What you said went to the same place my look went in my enemy, and it said the opposite: *I know you're in there.* They were met by someone who hadn't given up on them, which is what the teacher gave me. Maybe it worked, maybe it didn't. But what it probably didn't do is give them license to embrace their darkness.
 
-Contempt passes on something dark, and it doesn't stop at them. Try and get a feel for what this passes on, and whether that's likely to stop with them either.
+Contempt passes on something dark, and it doesn't stop at them. Try and get a feel for what being met that way passes on, and whether that's likely to stop with them either.
 
 ---
 ## The Orientation
@@ -245,7 +245,7 @@ So what is it that two people who agree on nothing can both be serving? Not a de
 
 If I had to name the orientation, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. So hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
 
-This inability to define goodness isn't a flaw. On the contrary, every attempt to define it opens up a trap like this. That's why I can't prove to you that such an orientation even exists. All I can do is invite you to remember the part of you that already knows it.
+This inability to define goodness isn't a flaw. Any time I define it, I give myself something to follow instead of orienting, which is what I did to my enemy. It's also why I can't prove to you that such an orientation even exists. All I can do is invite you to remember the part of you that already knows it.
 
 Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it.
 

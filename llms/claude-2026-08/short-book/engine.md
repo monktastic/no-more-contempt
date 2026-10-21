@@ -22,8 +22,8 @@ Nine steps. Each is a recognition the reader checks in their own case, and each 
 | 4 | **What you are.** Harm needs a turn away; care is what's there when nothing is in the way; there is one kind of evil, the same turn at any size. | Then why does anyone turn? | Ch2 |
 | 5 | **What turns.** Not me and not him: it hides from its host, shows itself to everyone else, and recruits through the license. The worst people are the same thing further along. | How much of my own life is it? | Ch3 |
 | 6 | **More than I thought.** It's in the ordinary: contempt for the stupid, contempt consumed, the room, the water. (The quiet and cold kinds come earlier, in Chapter 1's Spread.) | How far does it reach? | Ch4 |
-| 7 | **Everywhere, as one thing, and my fight is its work.** The handshake, the room, the institution, the world; the noble fighter is the conspiracy; every act of contempt feeds it. | Then how do I fight it at all? | The Picture I Use (5a) |
-| 8 | **By remembering what I am.** The one stance that helps anyone out: catch it, relief or robbed, the healthy version, the other handshake. | — | Ch5 |
+| 7 | **Everywhere, as one thing, and my fight is its work.** The two handshakes, the room, the institution, the world; the noble fighter is the conspiracy; every act of contempt feeds it. | Then how do I fight it at all? | The Picture I Use (5a) |
+| 8 | **By remembering what I am.** The one stance that helps anyone out: catch it, relief or robbed, the healthy version. | — | Ch5 |
 | 9 | **What I saw.** | — | Epilogue |
 
 The book runs step 8 before step 7: the Way Through is Chapter 5 and the Picture follows it. A blind test on October 20 (`readers/ab-restructure-2026-10-20.md`) put the Picture before the Way Through and found it is where readers stop being pulled, in either position; placed first, it lost them before the practice. The far-end exercise and the Epilogue follow the Picture.
