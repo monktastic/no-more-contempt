@@ -8,23 +8,15 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 ## What's here
 
-**The short book** is the Preface, Chapter 1, the interlude after it, and Chapters 2 to 5. It runs about fifty pages. Chapter 5 takes a picture everybody knows, the angel and the devil on your shoulders, and corrects it one feature at a time; each correction is a thesis the rest of the book works out. If you read nothing else, read to the end of Chapter 5.
-
-**Chapters 6 to 17** are first drafts, one per section of Chapter 5, written by an AI assistant from my notes and not yet rewritten in my voice. Each is marked in red at the top, with my own material below it. Read them for the shape of the whole.
-
-**The short version** is the whole argument in five chapters, for friends who practice, followed by the picture I use, an exercise for the far end, and an epilogue about what I saw. It assumes things the book proper never asks you to grant: that the mind has a nature, that the confusion covering it isn't the same thing as it, and that recognition is available on the spot. That's what lets it be brief. It leaves out the finer distinctions and the cases where the account could fail.
-
-**The map**, *Where This Goes*, is the rest of the book in outline, with more of the reasoning behind each claim, in the order the finished book will follow. It's scaffolding and won't be in the final version.
+**The condensed book** is the whole argument in five chapters, followed by the picture I use, an exercise for the far end, and an epilogue about what I saw. It runs about seventy pages. The full book, which I'm still writing, will be longer: it takes each step more slowly, with more cases, the finer distinctions, and the places where the account could fail.
 
 **The appendices** are the machinery of the argument, the religious and contemplative traditions that got here first, and the thinkers who came closest to it.
 
-**One file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the draft as an EPUB, a PDF, or plain text.
+**One file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the condensed book and the appendices as an EPUB, a PDF, or plain text.
 
 ## How to read it
 
-Read the book in order and stop whenever you like. Chapter 1 does most of the work. Give it your full attention and do the things it asks, including the one that sends you out the door. The interlude sorts what you found into what you saw, what I make of it, and what I'm asking you to take on trust for now. Chapter 5 lays the whole argument out in one place, so you can see whether it holds together. After that you'll know whether you want the map.
-
-If you practice and want the shape first, read the short version, then come back for the book.
+Read it in order and stop whenever you like. Chapter 1 does most of the work: give it your full attention, and do the things it asks. The picture I use and the epilogue go past what you can check, and they say so.
 
 The menu on the left follows this order.
 

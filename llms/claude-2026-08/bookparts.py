@@ -8,7 +8,8 @@ SITE_URL = 'https://www.nomorecontempt.org'
 TITLE = 'No More Contempt'
 AUTHOR = 'Aditya Prasad'
 
-# Reading order, the same order the site's menu follows.
+# The long book's reading order. The site keeps these pages but hides them from
+# its menu; the condensed book (short-book/) is what the menu and downloads follow.
 FRONT = ['start-here.md']
 BOOK_FILES = ['preface.md', 'chapter-1.md', 'chapter-1a.md', 'chapter-2.md',
               'chapter-3.md', 'chapter-4.md', 'chapter-5.md']
@@ -66,11 +67,14 @@ def pages(words):
     return int(round(words / float(WORDS_PER_PAGE)))
 
 
-def start_here_counts(body, book_words, map_words):
-    """Start here quotes its own lengths; keep them true wherever it's published."""
-    body = body.replace('It runs about fifty pages.',
-                        f'It runs about {pages(book_words)} pages.')
-    return body.replace(
-        '**The map**, called *Where This Goes*, is the rest of the book in outline:',
-        '**The map**, called *Where This Goes*, is the rest of the book in outline, '
-        f'about {pages(map_words)} pages:')
+def condensed_files(here):
+    """The condensed book's sources in reading order: its preface, then its
+    chapters. A letter after a number sorts after it, so 5a follows 5."""
+    short = here / 'short-book'
+    return [short / 'preface.md'] + sorted(short.glob('chapter-*.md'))
+
+
+def start_here_counts(body, condensed_words):
+    """Start here quotes the condensed book's length; keep it true wherever it's published."""
+    return body.replace('It runs about seventy pages.',
+                        f'It runs about {pages(condensed_words)} pages.')

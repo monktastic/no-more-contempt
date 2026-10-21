@@ -43,7 +43,8 @@ medium and Parts A to F the full).
 already noticed most of it; pointers, not arguments; metaphysics marked off.
 Kept for its material; not in the build and no longer on the site (Chapter 5
 and the short version cover its two jobs).
-`short-book/` the short book, for practitioners: preface, intro, five
+`short-book/` the short book, written first for practitioners and published on
+the site as *The Condensed Book*: preface, five
 chapters (Chapter 3, "The Darkness," says what it is; Chapter 4, "The Water,"
 where you'll meet it), and after Chapter 5 "The Picture I Use" (`chapter-5a.md`: the
 collaboration, the Devil, the institutions and the conspiracy, marked as a
@@ -149,7 +150,10 @@ Generated output; never edit it.
 `short-manuscript.md` with the TODO notes kept, for auditing, and
 `short-manuscript-clean.md` with them stripped. Send readers the clean one.
 `publish.sh` generates the website from the manuscript files into the repo
-root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. Nothing generated
+root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. The long book
+(`book/`) and its map (`map/`) are published but kept out of the menu and the
+search, so old links still work; the menu is Start here, the condensed book
+(`short/`), the appendices and the downloads. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
 every push to main and deploys the result, so pushing a change to `long-book/`
 is all it takes to publish. Run the scripts locally to see the site before you
@@ -161,7 +165,7 @@ Actions build wants. It cuts the "Original material" section and everything
 after `<!-- working notes -->` from the draft chapters. The site is Jekyll with
 the just-the-docs theme; config is `_config.yml` at the repo root, custom style
 in `_sass/custom/custom.scss`.
-`make-downloads.sh` builds the whole draft as one file for readers who would
+`make-downloads.sh` builds the condensed book and the appendices as one file for readers who would
 rather not read a website: `downloads/no-more-contempt.md`, `.epub` and `.pdf`,
 plus the Downloads page that links them. Same sources, same stripping, in the
 order the site's menu follows. Needs pandoc and typst, which is what the
@@ -178,9 +182,9 @@ passage and leave a note anchored to those words. `annotations: false` in
 the build's short SHA and date to `_data/build.yml` for the footer to read;
 that file is generated, like the pages. The previous and next links come from
 the pages' front matter, which `publish.sh` writes from the reading order: one
-chain for the book (Start here, Preface through Chapter 17), one for the short
-version, one for the appendices, one for the map. The short version's last
-chapter goes on to Appendix 1. Hub pages are in none. The appendices are their
+chain for the condensed book (Start here, then its preface and chapters), one
+for the hidden long book (Preface through Chapter 17), one for the appendices,
+one for the hidden map. The condensed book's last chapter goes on to Appendix 1. Hub pages are in none. The appendices are their
 own section of the site, not the book's, because both books send readers there.
 `check-orphans.sh` finds the comments that lost their place. A note is anchored
 to the words it was written on; edit those away, or rename the page, and it
