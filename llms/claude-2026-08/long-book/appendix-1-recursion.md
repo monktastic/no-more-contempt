@@ -11,97 +11,108 @@ Assume a few things. We'll see how they naturally lead to the dynamic so common 
 
 1. **I have a better nature.** It's the part of me that only wants to do right by the world.
 2. **I cannot turn it off; I can only turn away from it.**
-3. **I *must* turn away to cause harm, and I *only* turn away to cause harm.** (Caveats in section 2.)
-	a. This is because **it naturally sees *your* better nature.**
-	This turn is generally visible from the outside. It's what you see in a dehumanizing gaze.
+3. **It naturally sees *your* better nature, so I *must* turn away to cause harm—and I *only* turn away to cause harm** (Caveats in section 2.) 
 4. **When I do turn away, I never stop knowing what it knows / seeing what it sees.** That knowledge goes into limbo, a state where it is conscious but unaware (i.e., unacknowledged).
 
-Assuming my enemy has a better nature too, I can see all the above is true of him. And he can see the same of me, and see that I see it of him, and so on. So the points above are **common knowledge**[^ck] between us, even if that knowledge only exists in limbo.
+This turn is generally visible from the outside. It's what you see in a dehumanizing gaze.
 
-Seeing myself as a *better kind of thing* requires me to turn away, so it's already malicious. Denying that fact requires a further turn, from that very knowledge (which is the *same* turn again, since my better nature is what’s doing the knowing). That turns it into a recursive trap, where we privately share knowledge of what's happening, even as I publicly violate it.
+Assuming my enemy has a better nature, I can see all the above is true of him, too. What my better nature sees is *his* better nature, and his sees mine. So, like two eyes gazing into each other, each sees that the other sees that the other sees etc. This means that all the above is **common knowledge**[^ck] between us (though that knowledge / perception may only exist in limbo).
+
+Seeing myself as a *better kind of thing* requires me to turn away (because I can see I'm the *same* kind of thing), which he feels as malice. Denying its malicious nature requires a further turn, from that very knowledge. That turns it into a recursive trap, where I'm publicly violating knowledge that we privately share. He feels me saying: *I'm being evil and calling it righteous.*
 
 Watch as the recursion unfolds. At bottom is the mere intent to harm, which is hidden from me but revealed to him. Each level above similarly hides the previous level from me while showing it to him.
 
-1. **Harm.** I turn from him. He sees it automatically, because a turn shows. He knows what a turn is for: I mean him harm. I don't try to hide it, because part of me knows the stack this is building.
+1. **Harm.** I turn from him. He sees it automatically, because a turn shows. He knows what a turn is for: I mean him harm. I know it and I don't.
 2. **Hypocrisy.** I won't let myself see that I'm being malicious, so to me it's righteous. That turn shows too. He watches me claim the standard I'm breaking, and deny what we both know.
-3. **The trap.** I turn from that too: I hide that I'm hiding it. That shows as well, so he sees the blindness is kept up on purpose. It's a ruse, and we both know it. But it's sincere too, so whatever he names (the harm or the self-deception) I take it as proof of what *he* is. Every move he makes works against him, and he knows it before he speaks.
+3. **The trap.** I turn from that too: I hide that I'm hiding it. That shows as well, so he sees the blindness is kept up on purpose. It's a ruse, and we both know it. But it's sincere too, so whatever he names (the harm or the hypocrisy), I take it as proof of what *he* is. Every move he makes works against him, and he knows it before he speaks.
 4. **The seal.** I turn from that, and he sees me count on it: I know he sees the ruse, and that he can't say so without sounding unhinged, because it's deniable even to me. Now nobody can open it. My denial is never a lie he might catch; it's a lie we're both standing inside. He has nothing to quote, and I can't confess what I won't let myself see.
 5. ...
 
-Now look again at the first level: I mean him harm. But I don't merely want him hurt. I want him to watch me cheat on what we both serve, sincerely insist that I am serving it, and get away with it. The invitation he feels is: _then why the hell shouldn't I?_ The aim is to undermine his trust in the part of himself that recognizes what I'm doing.
+Now look again at the first level: I mean him harm. What harm? I don't merely want him hurt. I want him to watch me cheat on what we both serve, sincerely insist that I am serving it, and get away with it. The invitation he feels is: _then why the hell shouldn't I?_ The aim is to undermine his trust in the part of himself that recognizes what I'm doing.
 
-That invitation comes from the whole arrangement: he recognizes my malice, sees me sincerely disown it, and sees that I can use his protest as further evidence against him. The intent at the base of the recursion is already aimed at what this whole arrangement will do to him.
+That invitation is only delivered by the full recursion: he recognizes my malice, sees me sincerely disown it, and sees that I can use his protest as further evidence against him. 
+
+The intent at the base is already aimed at what its full unfolding will do to him.
 
 I need him to see through me while I sincerely disown what he sees. If he missed my intent, he couldn't receive the invitation. If I acknowledged it, I couldn't keep treating his reaction as though I had done nothing to provoke it. Holding my intention in limbo is how I sustain both sides of the trap.
 
 **My self-deception isn't just how I send it. It's what I'm sending.**
 
-He receives the hiding-yet-revealing of the hiding-yet-revealing of the (...) of my intent to harm—which is itself nothing but a hiding (from my better nature) that is revealed to him. The look is about itself. The descriptions keep unfolding, but nothing new has to be added: each level is the same turn, hidden from me and shown to him.
+He receives the hiding-yet-revealing of the hiding-yet-revealing of the (...) of my intent to harm—which is itself nothing but a hiding that is revealed. The descriptions keep unfolding, but nothing new has to be added: each level is the same turn, hidden from me and shown to him.
 
-With a blow, the deed can injure him whether or not he recognizes my intent. Here the look is the deed. The act is nothing but its own reception and its own concealment: read by him, denied by me. And because its content is this hiding-and-showing, the evidence is the showing itself: gaze, tone, timing. He has everything he needs to recognize it, and nothing he can quote that would settle the dispute.
+With a blow, the deed can injure him whether or not he recognizes my intent. Here the look is the deed. The act is nothing but its own reception and its own concealment. And because its content is this hiding-and-showing, there's no evidence except the tone, gaze, timing, etc. that were used to deliver it. He has everything he needs to recognize it, and nothing he can quote to prove I did anything wrong.
 
-None of this could work without the ground we already share. He must recognize the turn as a violation of something I could still serve, and I must count on him recognizing it. That common knowledge gives the look its meaning and lets the whole structure be known at once.
+None of this could work without the ground we already share. He must recognize the turn as a violation of something we both serve, and I must count on him recognizing it. That common knowledge both gives the look its meaning and also lets the whole structure be known at once.
 
 **I am using our recognition of the same good to make him distrust it.**
 
-If he takes the invitation, the turning away passes into him. He still knows what we both serve, but now he has a reason to turn from that knowledge himself. Neither of us has to acknowledge the bargain. Limbo reproduces through the very recognition it keeps in limbo.
+If he takes the invitation, the turning away passes onto him. He never tells himself "I will ignore my better nature," just as I didn't. His justifications simply feel more believable; easier to confuse with his better nature. And it doesn't limit itself to his interactions with me; it is a generic corruption of his felt sense of what is right.
 
-The trap can also be refused: if he saw clearly that I was simply confused, he would take no license from it. And his holding his ground, as the second stranger did, might snap me out of it, too. This, I've found, is a powerful way to stop the infection.
+Limbo reproduces through the very recognition it keeps in limbo.
+
+The trap can also be refused: if he saw clearly that I was simply confused, he would take no license from it. And holding his ground, as the second stranger did, might snap me out of it, too—thus halting the spread of this infection.
 
 ---
 ### What makes it contempt
 
-Contempt needs me to be present and absent at once:
-- From my side: I have to be present enough to plant the evidence, and absent enough not to recognize it as planted. Fully absent, I can't track him so precisely. Fully present, either I'm looking at him, and I can't go through with it, or it's malice, owned.
-- From his side: the presence is what makes it read as intentional, and the absence is what lets it go unowned. Without both at once, there's no trap.
+Contempt needs me to be present and absent at once.
+
+- From my side: I have to be present enough to plant the evidence, and absent enough not to recognize it as planted. Fully absent, I can't track him so precisely. Fully present, I'm turned toward my better nature, see his, and can't do it.
+- From his side: the presence is what makes it read as intentional, and the absence is what lets it go unowned. Purely intentional, it reads as only malice. Purely absent, it reads as a slip. The combination is what makes it uniquely maddening.
 
 So being present-yet-absent isn't just what lets me plant; it is the planting itself.
 
 And it needs his better nature too. Without it, there's nothing shared to betray. He could work out that I'm a fraud, but he wouldn't feel it as a betrayal, and the betrayal is what the look needs. The verdict says he's a different kind of thing. The look only works on someone who isn't.
 
-All malice hides one thing from the one doing it: the sameness of the target. But malice as such needs neither of two things contempt needs. It need not be received (the target can be asleep while the deed is done), and where it does demand reception (a threat, a sadist's display) it needn't disavow itself as righteous; the honest villain says *yes, I mean you harm, and no, you're not my kind.* Aimed contempt needs both, and it has to believe its own denial, which it can only do in limbo. So contempt holds two things in limbo where malice holds one: his sameness and my own intent. The trap needs the two together. It's why malice is frightening and contempt is maddening.
+All malice hides one thing from the one doing it: the sameness of the target. But malice as such needs neither of two things contempt needs. It need not be received (the target can be asleep while the deed is done), and where it does demand reception (a threat, a sadist's display) it needn't disavow itself as righteous. Aimed contempt needs both, and it has to believe its own denial, which it can only do in limbo. So contempt holds two things in limbo where malice holds one: his sameness and my own intent. The trap needs the two together. It's why malice is frightening and contempt is maddening.
 
 Honest malice spreads too, but in the open, where it can be seen for what it is and fought as what it is.
 
 Contempt is evil's way of spreading in secret, through people who sincerely believe they're fighting it.
 
+---
 ### What the need was looking for
 
 Part of me needs to be a different kind of thing from the people I despise. Nothing true can satisfy it, since there is no such difference. So if it's going to be satisfied, something false will have to be made to look true, and contempt is the instrument built for the job. Look at how well it fits.
 
 It manufactures the evidence. When the look works, it pushes him further from his better nature, and how far he turns depends on what's done to him, the way it does for me. His hardening is the difference I needed to see, produced on demand. And I can't see my part in producing it, because the absence is part of the planting. Nothing is left to quote, for him or for me, so his reaction arrives looking like his nature. The bad essence I perceive is my own act, unseen as mine.
 
-And it reproduces. The reaction it provokes isn't only evidence: it's him turning away in turn, and carrying it to whoever he meets next. Turned toward, I can be as harsh as I like; it may hurt, but it hands him no license. The license travels only through the turn. Nothing had to plan the spread. My wanting did the aiming, and the spread came with it. When I finally saw all of it, I found I'd known that part too.
+And it reproduces. The reaction it provokes isn't only evidence: it's him turning away in turn, and carrying it to whoever he meets next. Turned toward, I can be as harsh as I like; it may hurt, but it hands him no license. The license travels only through the turn. Nothing had to plan the spread. My wanting did the aiming, and the spread came with it. 
+
+When I finally saw all of it, I found I'd known that part too: that I was spreading evil. But it helped satisfy that part of me that needs to know it's different from all the "bad people" out there.
 
 Do this enough times, with enough people, and the world fills with the kind of person the need requires. Then the need looks like perception. I'm not making anyone bad; look at them.
 
+---
 ### What the look needed
 
-The verdict says *this is all you are*: no better nature, nothing shared, nothing left to reach, nothing to turn back. Now count what the look needed, under five general conditions:
+The verdict says *this is all you are*: no better nature, nothing shared, nothing left to reach, nothing to turn back. The look needed the opposite of each, and counted on it. Put generally, that's four things:
 
-- **What's looking out of him is no different in nature from what's looking out of me.** He had to read the move as I would have. What he felt had to be hypocrisy, which needs a standard we share and my departure from it.
-- **Care is the baseline, what I'm like when nothing is in the way.** The standard was care, by the first point.
-- **The confusion covering it is not the same thing as it, and doesn't touch it.** The care in him had to be there, obscured and not gone, or the look would have nothing to land on and nothing to corrupt.
-- **The covering is a turning away, not a substance.** The departure was the turn, by the third point.
-- **Recognition is available, and is the way back.** He had to be able to turn back. Hypocrisy needs a standard I could meet, so we both know I could turn back to him now, and what's true of me is true of him.
+1. **What's looking out of him is the same kind of thing as what's looking out of me.**
+2. **Care is the baseline, what we're like when nothing is in the way.**
+3. **The darkness in him isn't him.** It covers his better nature; it doesn't replace it.
+4. **The darkness is a turning away, not a substance.** Turning back is possible.
 
-Every one of those is the opposite of the verdict, and every one rests on what was common knowledge between us before the encounter began. The encounter taught neither of us any of it, and saying it aloud wouldn't either. It would only put it on the record, and the verdict can't survive my acknowledging it.
+Contempt is aimed directly at the part of my enemy that I claim doesn't exist.
 
-Two of them go further than the look needed. It needed the care in him obscured, not untouched. And it needed his better nature to point where mine does, not to be indistinguishable from it. Anyone who practices in a tradition that teaches a nature of mind will have heard all five before, as the view. Here they arrive as the conditions my own contempt was counting on, in the weaker form the look needs, in the one act that denies them loudest. I didn't have to believe them. I had to have been using them, and I was. [TODO(Aditya): Claude's draft of the first three sentences, compressed from yours of October 17, cut October 20, which "the weaker form" still pointed back to.]
+My contempt counted on all four in the one act that denies them loudest. I didn't have to believe them. I had to have been using them, and I was.
 
-### Why it had to be this way
+---
+### Why evil isn't a second nature
 
-Everything above points to evil being an absence: every piece of the trap runs on the very thing it turns from, and as far as I can tell, only an absence works that way.
+Most of us picture evil as something people have: a drive toward harm, a dark side with wants of its own, stronger in some people than in others. But I think it's fully explained by the turn.
 
-For him to read my turned look as meaning harm, and my claim to be in the right as a lie, we both have to know that harm needs the turn and decency never does. If turning away could be decent too, the look would be ambiguous, and there'd be no hypocrisy to see. That asymmetry is what it means for care to be the baseline: what needs no turn and no story is where I am when I'm not doing anything, and turning away is a departure from it, not a second baseline of its own.
+The further I'm turned from you, the more acceptable (or even righteous) it feels to harm you. Think of what it's like to be on the receiving end of a dehumanizing gaze. Doesn't it feel like the other person is somehow absent or *turned away* from themselves?
 
-Not one piece of the trap is a separate fact. Each is the turn, seen from a different position: mine, his, an onlooker's, the next day's. That's what I mean by the simplest explanation: not the shortest, but the one where one fact predicts the rest. And the turn is an absence, the facing gone missing. An absence can act only through the presence it's the absence of: it borrows the eyes and the reasons, it has to hide from what would stop it, and its hiding shows to whoever shares what it's hiding from. That is what "an absence that behaves like a presence" means.
+A drive wouldn't need the turn. Hunger doesn't have to look away from the bread. Harm has to look away from the person: I can't do it with him fully in view, it needs a story. Decency needs none of that. That asymmetry is what it means for care to be the baseline: what needs no turn and no story is where I am when I'm not doing anything, and turning away is a departure from it, not a second baseline of its own.
 
-Evil, in this book, names the turning: your own caring held out of view so that someone else can be. Contempt is that turning made into a message and dressed as righteous. The word *evil* usually carries two more things, and both are wrong. The first is size: think of the heat when someone cuts in line, and how shameful even a small flash of contempt is to admit, out of all proportion to its size. The second is outcomes: think of the forgotten birthday against the cutting remark, or of this: desecrating an enemy's corpse does the dead man no damage, and everyone knows it's wrong (Appendix 2 comes back to this). The worse outcome can come from the lesser wrong. What I find I'm tracking, in every one of those, is the turning, and I was tracking it long before I had a name for it.
+It holds at the far end too. Try to picture the worst person you know of doing their worst while seeing their victim the way the second stranger saw you. I can't make the picture hold. Whatever drove them had to get the person out of view first.
 
-Why does turning from my better nature split me, when turning my attention from a noise doesn't? The noise just drops out of mind; nothing in me goes on attending to it. This turn is different: it's a turn from the seeing itself, not from something seen. My better nature is what's doing the seeing. Turning from it can't stop it, by the second point; it only stops me from looking at what it sees. So I know, because it's still seeing, and I don't, because I've turned from my own seeing. That's the split. The bank statement I won't open splits me the same way, because it's the same turn.
+So evil is the turn: my own caring held out of view so that someone else can be. It's an absence, not of the faculties, which are all still at work, but of the facing. His life is no longer allowed to count the way I still know it does. Contempt is that turning made into a message and dressed as righteous. 
 
-And in harm, the split guards care: harm needs the turn and decency never does, and remorse runs only one way. So what I turn from is a seeing that cares. When I look at the split, I find more than that: my better nature isn't one part of me among others. It's what I am, and the turn is me, turned away from myself. And the trap only works on someone who knows the split from inside, so the same is true of him. [TODO(Aditya): Claude's draft. The split now contrasts turning my attention (the noise) with turning from the seeing itself (the unopened bank statement is the same turn), leans on the asymmetry, which motivated reasoning can't explain, and extends to him, as you argued in chat. "It's what I am" is now offered as what I find in the split, not as what the argument proves; ChatGPT and I agree the bank statement can't carry it.]
+The word *evil* usually carries two things, and both are wrong. The first is size. But think of the heat when someone cuts in line, and how shameful even a small flash of contempt is to admit, out of all proportion to its size. The second is outcomes. Think of the forgotten birthday against the cutting remark, or of this: desecrating an enemy's corpse does the dead man no damage, and everyone knows it's wrong (Appendix 2 comes back to this). The worse outcome can come from the lesser wrong. What I find I'm tracking, in every one of those, is the turning, and I was tracking it long before I had a name for it.
+
+And yet it doesn't look like an absence. My contempt aimed. It tracked his exits, got stronger when he named it, and turned his protest into proof. That looks like a will with wants of its own, and it's why we picture evil as a drive. There is a will at work, but it's mine. The turn doesn't take my intelligence away; it sets it to keeping him out of view, and that takes work, because the facing it's hiding from keeps pressing back. Everything it uses is borrowed: my eyes, my reasons, my sense of right and wrong. An absence can act only through the presence it's the absence of, and its hiding shows to whoever shares what it's hiding from. That is what "an absence that behaves like a presence" means, and it's why we keep mistaking it for one.
 
 ---
 
@@ -111,9 +122,19 @@ And in harm, the split guards care: harm needs the turn and decency never does, 
 
 I didn't reason my way to any of this. I saw it first, years ago, in an altered state, and since then in moments like the ones in this book. The argument above is what I've built afterward, trying to describe what I saw in terms you could check. It surely has holes. If you find them, they're holes in my description. What I'd ask you to test is the seeing, in your own case.
 
-Here's my read, one step past the argument.[^story] The care isn't something awareness has. It's what awareness is. If that's right, then evil is just awareness turned away from its own nature, and the only way to do it to someone else is to forget it in yourself first. Limbo, turning away, the absence that behaves like a presence: three names for that one move, depending on where you're standing.
+What I experience as myself, my awareness, and my better nature are one thing. What makes me think so:
 
-It also explains why the knowledge is common. Nothing tells what's looking out of you apart from what's looking out of them. Not that there's one awareness. Only that there's nothing to tell them apart, which is all the mutual recognition needs. To know this in yourself is already to know it in them, and to know they know it in you, and so on.
+- **Turning from my better nature splits me.** Looking away from a noise doesn't need me to hide from myself that I hear it. Turning from my better nature does, because it's the seeing itself, and it can't be switched off: it goes on seeing, and I've turned from my own seeing. So I know, and I don't, at once. The bank statement I won't open has the same shape on a small scale: my not opening it is steered by the very recognition I'm avoiding.
+- **The care and the seeing come and go together.** I can't harm someone while I'm seeing them, and when I look at a stranger long enough, the care arrives with the looking.
+- **Care is where I am at rest.** Decency needs no story. A grudge takes upkeep, and when it drops, it feels like setting something down.
+- **The turned-away moments don't feel like me afterward.** The clean ones, with nothing to hide, feel most like myself, and remorse is what turning back feels like.
+- **The dehumanizing gaze lands on me.** It denies that anyone is in here, and what it hurts is exactly the one who sees and cares. If that weren't me, the look would miss.
+
+The trap only works on someone who knows the split from inside, so the same is true of him.
+
+Here's my read, one step further than that evidence can go: the care isn't something awareness has. It's what awareness is. If that's right, then evil is just awareness turned away from its own nature, and the only way to do it to someone else is to forget it in yourself first. Limbo, turning away, the absence that behaves like a presence: three names for that one move, depending on where you're standing[^story] .
+
+It also explains why the knowledge is common. Nothing tells what's looking out of you apart from what's looking out of them. To know this in yourself is already to know it in them, and to know they know it in you, and so on. Anyone who practices in a tradition that teaches a nature of mind will have heard this before, as the view. The four conditions the look needed are the same view, in the weaker form the argument reaches. And the view says one thing more: the confusion never touches the nature.
 
 So nothing in the encounter belongs to a separate thing called the darkness. Everything doing anything, the sending, the hiding, the reading, the answering, is the Light: one faculty, in two bodies, turned against itself in one of them. The message that denies the sameness is made of the sameness, and nothing else could receive it.
 
@@ -121,7 +142,7 @@ And that's what waking up is, on this reading. Nothing gets added. What the two 
 
 ## 2. For the lawyers among you
 
-*What Section 1 set aside: the checks behind each point, the caveats, the formal shape, the rivals, and what isn't claimed.*
+*What Section 1 set aside: the checks behind each point, the caveats, the formal shape, the rivals, and what isn't claimed. **This section written mostly by Claude.***
 
 **What you checked, and one to check now.**
 - O1: with someone fully in view, you couldn't bring yourself to use them; harm requires holding the person out of view. And the other way round: when I hold someone out of view, it's so that I can do something their being in view would stop.[^converse]
@@ -152,7 +173,7 @@ Two things in the five conditions go further than the look needed. One is that t
 
 And the four are enough for the act. Given them, and a look aimed to be read and dressed as righteous, harm done knowingly between two such beings has the shape Section 1 lists, each piece resting on the one before, and I haven't found another. The proof and the license are what it hands him; what he does with them is his.
 
-**Where this stops.** The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back to, and it's the baseline that turning away departs from. With the split, it gets you further: in you, and in everyone the trap works on, the care and the awareness are one. That it's what each of you is, the argument doesn't prove. It's what I find when I look at the split, and you can look at yours. The nearest rival reading is a universal human faculty with an evolutionary history, which nothing outweighs while it's in view. Within human minds it says what I say. It differs from mine only about origin, and about whether the care belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 2 lays out the correspondences, the evidence for my reading, and the test that would count against it.
+**Where this stops.** The argument gets you this far: the care is present, it's obscured rather than gone, it can be turned back to, and it's the baseline that turning away departs from. With the split, it gets you further: in you, and in everyone the trap works on, the care and the awareness are one. That they're also what each of you is, I hold as belief, with its evidence under "What I think is really happening." The nearest rival reading is a universal human faculty with an evolutionary history, which nothing outweighs while it's in view. Within human minds it says what I say. It differs from mine only about origin, and about whether the care belongs to awareness as such or only to minds like ours, which is a question no human experiment touches. What decides between those isn't the argument. It's what you find under your own hiding when the hiding stops.[^godel] Appendix 2 lays out the correspondences, the evidence for my reading, and the test that would count against it.
 
 **The rivals.** Say evil is a nature: a bad essence some people have, that wants harm the way hunger wants food. Its best evidence is the perception itself, *now I see what they really are*. Section 1 gives that perception another source: the essence I perceive is my own act, unseen as mine. And it shows where that source says it should: the gaze that sees a bad essence looks, from outside, like a turned-away face. That's a hint, not a proof. The nature account also allows harm done with the eyes open, and a look that injures without the target's better nature. Give that nature a standard of its own, and remorse would sometimes run backward too: someone, somewhere, would feel the sickening sense of having gone against himself over an act of decency. Regret over what a decency cost, I've found, and so have you. That sense of having betrayed myself, I haven't, and I'd want to hear of a conscience that runs the other way. None of those happens, in any case I've found. Each is something the nature account has to arrange separately not to happen, and something the absence account can't produce in the first place.
 
@@ -200,6 +221,44 @@ Past the point the argument reaches, two readings remain: the care could be miss
 
 <!--
 Holding pen. Aditya's lines with no other home yet, verbatim, newest first. Anything that has found a home in the text comes out.
+
+Changed October 23: the paragraph on what *evil* means (size, outcomes) moved back from Section 2 to follow "So evil is the turn" in "Why evil isn't a second nature"; its first sentence, which that line now says, was dropped: "Evil, in this book, names the turning: your own caring held out of view so that someone else can be."
+
+Changed October 23, "Why evil isn't a second nature" rebuilt around the view readers hold (evil as a drive); the split moved into "What I think is really happening" as evidence. The section as it stood, verbatim:
+
+(Heading: Why evil isn't a second nature)
+
+Everything above points to evil being an absence: every piece of the trap runs on the very thing it turns from. Nothing in the encounter needs a second nature opposed to care. The seeing, the intention, the intelligence, even the standard I claim to serve, are already there. What makes them serve this act is the turning, and calling the turning a separate thing adds nothing to the explanation.
+
+For him to read my turned look as meaning harm, and my claim to be in the right as a lie, we both have to know that harm needs the turn and decency never does. If turning away could be decent too, the look would be ambiguous, and there'd be no hypocrisy to see. That asymmetry is what it means for care to be the baseline: what needs no turn and no story is where I am when I'm not doing anything, and turning away is a departure from it, not a second baseline of its own.
+
+Not one piece of the trap is a separate fact. Each is the turn, seen from a different position: mine, his, an onlooker's, the next day's. That's what I mean by the simplest explanation: not the shortest, but the one where one fact predicts the rest. And the turn is an absence: not of the faculties, which are all still at work, but of the facing. His life is no longer allowed to count the way I still know it does. An absence can act only through the presence it's the absence of: it borrows the eyes and the reasons, it has to hide from what would stop it, and its hiding shows to whoever shares what it's hiding from. That is what "an absence that behaves like a presence" means.
+
+Why does turning from my better nature split me, when turning my attention from a noise doesn't? Looking away from a noise doesn't need me to hide from myself that I hear it. This turn does: it's a turn from the seeing itself, not from something seen. My better nature is what's doing the seeing. Turning from it can't stop it, by the second point; it only stops me from looking at what it sees. So I know, because it's still seeing, and I don't, because I've turned from my own seeing. That's the split. The bank statement I won't open has the same shape on a small scale: I don't know what's in it, but my not opening it is steered by the very recognition I'm avoiding.
+
+And in harm, the split guards care: harm needs the turn and decency never does, and remorse runs only one way. So what I turn from is a seeing that cares. When I look at the split, I find more than that: my better nature isn't one part of me among others. It's what I am, and the turn is me, turned away from myself. And the trap only works on someone who knows the split from inside, so the same is true of him.
+
+And from "Where this stops": "That it's what each of you is, the argument doesn't prove. It's what I find when I look at the split, and you can look at yours." From the belief section: "Here's my read, one step past the argument.[^story] The care isn't something awareness has. It's what awareness is."
+
+Changed October 23, "Why it had to be this way" (ChatGPT and Claude: the opening claimed more than it showed; the definition of evil moved to Section 2's "What the words mean"; the noise and the bank statement corrected), as they stood:
+- "And because it is an instrument of seeing, I can see that he sees it of me seeing it of him and so on." (Section 1, the common-knowledge paragraph; now the two eyes, from brief.md)
+- "Everything above points to evil being an absence: every piece of the trap runs on the very thing it turns from, and as far as I can tell, only an absence works that way."
+- "And the turn is an absence, the facing gone missing."
+- "The noise just drops out of mind; nothing in me goes on attending to it. This turn is different:" and "The bank statement I won't open splits me the same way, because it's the same turn." (Claude's)
+
+Cut October 23, from "What the look needed" (the trap passage and "What makes it contempt" already say what these said; the list now says only what the look needed, and the view says the two stronger forms), verbatim:
+- "Anyone who practices in a tradition that teaches a nature of mind will have heard these before, as the view. The view says two of them more strongly: the confusion never touches the nature, and nothing tells what looks out of him apart from what looks out of me. My contempt needed only the five as I've put them here, and it counted on them in the one act that denies them loudest. I didn't have to believe them. I had to have been using them, and I was." (the view half moved to "What I think is really happening"; the finding kept here)
+- "Here they arrive as the conditions my own contempt was counting on, in the one act that denies them loudest." (changed October 23: "they" read as the two stronger forms)
+- "**The confusion covering it is not the same thing as it.** It's covered, not gone." (changed October 23 to say it against the verdict)
+- "Now count what the look needed, under five general conditions:"
+- "- **What's looking out of him is no different in nature from what's looking out of me.** He had to read the move as I would have. What he felt had to be hypocrisy, which needs a standard we share and my departure from it."
+- "- **Care is the baseline, what I'm like when nothing is in the way.** The standard was care, by the first point."
+- "- **The confusion covering it is not the same thing as it, and doesn't touch it.** The care in him had to be there, obscured and not gone, or the look would have nothing to land on and nothing to corrupt."
+- "- **The covering is a turning away, not a substance.** The departure was the turn, by the third point."
+- "- **Recognition is available, and is the way back.** He had to be able to turn back. Hypocrisy needs a standard I could meet, so we both know I could turn back to him now, and what's true of me is true of him."
+- "Every one of those is the opposite of the verdict, and every one rests on what was common knowledge between us before the encounter began."
+- "Two of them go further than the look needed. It needed the care in him obscured, not untouched. And it needed his better nature to point where mine does, not to be indistinguishable from it."
+- "Here they arrive as the conditions my own contempt was counting on, in the weaker form the look needs, in the one act that denies them loudest."
 
 Cut October 21, from Section 1 (the rewritten trap passage and "What makes it contempt" now carry what these said):
 - From "Take one away": "Without the second, I could switch the caring off and keep the seeing on, and harm him with nothing to turn from. Then there'd be no turn for him to read, and no limbo for the trap to stand on."

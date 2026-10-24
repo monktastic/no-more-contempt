@@ -4,7 +4,7 @@ Working repo for the book. Open it with Claude Code; `CLAUDE.md` carries the
 rules and the map of what's here, and is read at the start of every session.
 
 The long book is in `long-book/`; the short book, for practitioners, is in
-`short-book/`; the plan for a general reader's book is in `general-book/`. `discoveries.md` indexes what's been worked out;
+`short-book/`; the general reader's book was deleted, and what only it held now lives in key-points, `scenarios.md` and `engine.md`. `discoveries.md` indexes what's been worked out;
 `argument.md` is what the book claims and `brief.md` the same in Aditya's words;
 `engine.md` is the plan; `themes.md` is the regression check. `todo.md` is the one file that holds open work. The key
 points the chapters are written from are in `../../scratch/key-points/`

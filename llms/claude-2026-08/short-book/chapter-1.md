@@ -11,7 +11,7 @@ Have you ever done something you knew was wrong at the time, but couldn't fully 
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
-We like to call such knowledge "unconscious," but what you just recalled wasn't. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a strange kind of limbo, in which you simultaneously knew and yet somehow didn't.
+If it felt like something you'd always known, "unconscious" is the wrong word for it, though it's the one we like to use. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a strange kind of limbo, in which you simultaneously knew and yet somehow didn't.
 
 Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? If so, notice how intentional behavior can take place in limbo, too. You know you're in limbo, and you don't.
 
@@ -23,11 +23,11 @@ Why did one side have to argue, and the other not?
 
 Now imagine doing the same thing without any justifications. Could you have? If it's too far back to tell, try it in imagination with something small: picture someone in front of you, fully in view, and see whether you can bring yourself to use them.
 
-And the reverse. You know the feeling of remorse: that sickening sense of having gone against yourself. Have you ever felt it over something you did out of decency? Can you imagine anyone feeling it in reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature? If you think you have, look at what it was made of. Mine turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish.
+And the reverse. You know the feeling of remorse: that sickening sense of having gone against yourself. Have you ever felt it over something you did out of decency? Can you imagine anyone feeling it in reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature? When I thought I'd found one, it turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish. If yours held up, I'd like to hear it.
 
-One more thing about that memory. When you finally admitted it to yourself, how did you hold yourself? The most common contempt of all is the one we aim at ourselves: *you are what you did.* It feels like accountability. It isn't. It's a verdict, *this is all you are*, pointed inward, and it does what that verdict always does: it makes the part of you that did wrong dig in and hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
+One more thing about that memory. When you finally admitted it to yourself, how did you hold yourself? The most common contempt of all is the one we aim at ourselves: *you are what you did.* It feels like accountability, but it's a verdict, *this is all you are*, pointed inward, and it does what that verdict always does: it makes the part of you that did wrong dig in and hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
 
-So if, in what follows, you catch yourself thinking *I'm a terrible person*, treat that as one more instance of the thing we're studying. It's no truer of you than of anyone else, and no more useful. [TODO(Aditya): your passage from kept-from-old-chapters, restored on Fable's suggestion (eight readers asked for it); "the same verdict" became "a verdict" and "your enemy" became "anyone else", since neither has been introduced yet here; its last sentence is dropped because The Spread says it.]
+So if, in what follows, you catch yourself thinking *I'm a terrible person*, treat that as one more instance of the thing we're studying. It's no truer of you than of anyone else, and no more useful.
 
 ---
 ## The Two Strangers
@@ -120,13 +120,13 @@ And that lie is exactly what lets it leak out my eyes, provoking my enemies into
 ---
 ## The How
 
-The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. I call that deepest part of myself my *better nature*. It isn't following rules; it is what sees myself in others, and that's why I must *turn away* from it to cause harm. My excuses aren't there to convince *it*; they're there to convince *me* that it's one more voice among the noise, and safe to ignore.
+The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. I call that deepest part of myself my *better nature*. It follows no rules; it's the part of me that sees myself in others, and that's why I must *turn away* from it to cause harm. My excuses aren't there to convince *it*; they're there to convince *me* that it's one more voice among the noise, and safe to ignore.
 
 Part of what it sees in others is that they, too, can only cause harm by *turning away*. When I turn away from my better nature, other people look defective, as if they were just bad. But the perception of our similarity never truly disappears. It just goes into limbo.
 
 If you've ever been on the receiving end of a dehumanizing gaze, could you feel the sense in which the other person is somehow absent or "turned away" from himself? What were they turned away *from*? Why would they have to turn away from anything, if what they are is essentially bad? Might that be what I looked like to my enemy?
 
-But part of me refuses to believe I'm anything like the *bad people*. I need their behavior to come from something I don't have: some alien quality called "evil" that I could never hope to understand, only valiantly fight. But it doesn't feel like a need. It just feels like truth: I can literally *see* the darkness in their eyes, and I believe it's what they *are*. What I don't see is that I can only believe this while turned away myself. In this state, that need is in control, though I don't realize it.
+But part of me refuses to believe I'm anything like the *bad people*. I need their behavior to come from something I don't have: some alien quality called "evil" that I could never hope to understand, only valiantly fight. But to me it just feels like truth: I can literally *see* the darkness in their eyes, and I believe it's what they *are*. What I don't see is that I can only believe this while turned away myself. In this state, that need is in control, though I don't realize it.
 
 Watch how it accomplishes its goal.
 
@@ -143,11 +143,11 @@ I desperately want to call this behavior _unconscious_ (if I can admit I do it a
 ---
 ## The Mechanism
 
-This trap wouldn't work unless some part of me recognized our similarity—that he has a better nature to be turned away from, and that he would recognize my tone and gaze as signs of me being turned away from mine. It's as if I'm saying to him:
+The steering was how I did it. But this trap wouldn't work unless some part of me also recognized our similarity: that he has a better nature I could push him away from, and that he would recognize my tone and gaze as signs of me being turned away from mine. It's as if I'm saying to him:
 
 > *I know exactly how you cause harm, and I'm making you watch me do it to you **right now**. But I'll get away with it—because I'm only "fighting evil," and how could that ever be wrong?*
 
-He knows it's true, and I *know* he knows it, and he knows that too. That was his accusation: *we both know what you're really up to.* But we both also know he can't say so without sounding unhinged, because it's all plausibly deniable, *even to myself.* That's not an accident; it's part of the trap.
+He knows it's true, and I *know* he knows it, and he knows that too. That was his accusation: *we both know what you're really up to.* But we both also know he can't say so without sounding unhinged, because it's all plausibly deniable, *even to myself.* That's part of the trap.
 
 There is no specific wrong to point at. The look is the deed. And because what it means is already known to both of us, it needs no words. It can be carried entirely by gaze and tone, which have the benefit of being unquotable.
 
@@ -163,7 +163,7 @@ I never think, *he turned from his better nature, good.* Whatever he does while 
 
 Now notice where my signal lands. 
 
-Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not just your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the second stranger was speaking to.
+Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. For me it was never just my pride; an insult to my pride is easier to shrug off. It reached further in, for the *me* that knows I count: the same one I'd have to turn away from to harm someone, and the same one the second stranger was speaking to.
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
@@ -196,7 +196,7 @@ The problem is, it's never truly undetected. The great lie we tell ourselves is 
 
 Go back to the memory at the start, to the knowledge you hadn't *let yourself* know. Look at the grammar: you hid it from *yourself*, not from some part of you. So what was it hidden from? When you finally owned up, did it feel like losing something of yourself, or like getting something back? And if you could keep only one of the two parts—the one that knew without arguing, or the one that justified—which would you keep?
 
-What you hid it from is what you call "I" when nothing is being hidden. I've called my better nature a part until now, but it isn't one part among others; it's what's left when the hiding stops. I'm not claiming there's a thing in there you could point to. Only that this is what the hiding was from, and what my contempt was aimed at in him. I never had to produce the care. It was there until I turned from it, and the turning was all I did.
+What you hid it from is what you call "I" when nothing is being hidden. I've called my better nature a part until now, but it's what's left when the hiding stops. I'm not claiming there's a thing in there you could point to. Only that this is what the hiding was from, and what my contempt was aimed at in him. I never had to produce the care. It was there until I turned from it, and the turning was all I did.
 
 When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me.[^clancy] What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. 
 
@@ -213,7 +213,7 @@ When I feel a fundamental difference between me and my worst enemy, I ask which 
 ---
 ## The Spread
 
-The harm doesn't stop at him. It passes to the next stranger he won't give the benefit of the doubt, and to the kid who watches him do it. What gets passed along isn't my look; it's the turning away, and the permission it gives. And I send it *about* people, to my allies, with nobody's face in view. Most of all, I do it on social media. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it.
+The harm doesn't stop at him. It passes to the next stranger he won't give the benefit of the doubt, and to the kid who watches him do it. What gets passed along is the turning away behind my look, and the permission it gives. And I send it *about* people, to my allies, with nobody's face in view. Most of all, I do it on social media. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it.
 
 What I narrated was the hot kind of contempt. It can also run cold. I just write the person off: a quiet filing-away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and it's meant to be felt: by them, or by whoever's watching.
 

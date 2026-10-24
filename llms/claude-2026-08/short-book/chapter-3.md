@@ -12,7 +12,7 @@ Go back to the turns you've watched: mine in Chapter 1, and yours when your enem
 
 Did it feel like you, afterward? For me it didn't. While it had you it felt entirely like you. But the clean moments, the ones with no story and nothing to hide, were the ones that felt most like yourself, and the moment with the verdict in it was the one you'd rather not own.
 
-You didn't want what it made. Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
+Did you want what it made? Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
 
 It hid itself. It aimed the verdict, anticipated the reaction, and prepared to use it, and it did all of that out of my sight while showing itself to him. When I did glimpse it, it told me it was a weapon I could turn on him. It got stronger when I came close to catching it. Hiding was its whole job.
 
@@ -22,7 +22,7 @@ For all these reasons, I started calling it a parasite.
 
 I'll keep the word, because it fits the behavior, and for no other reason. If the word makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. A habit that lives by going unseen will push back when seen. That's all a habit is, and it doesn't need a tenant.
 
-And here is what it gains by feeling like me. Taken for me, it gets defended the way I defend myself. Looking at it becomes looking at myself as evil, which is shame, and shame sends me back into hiding, which is all it ever needed. Run on him, the same trick is my contempt: taken for him, it gets the verdict, and he stops looking too. And taken for a real thing called evil, looking out of his eyes, it gets one thing more: a license. When I see that in someone, the kid gloves come off. Not just to stop him, which I could do fully turned toward him, but to do whatever I need to. *He hurt my people; I've earned this.* In that moment I don't care if the world gets a little darker for it. It took a deeper layer of limbo to find that I'd always known whose license it was: the evil I felt over there was my permission to make more of it. That's why evil benefits from being seen as a presence, in either direction, and why calling it a parasite isn't a comfort. It's what makes looking possible.
+And here is what it gains by feeling like me. Taken for me, it gets defended the way I defend myself. Looking at it becomes looking at myself as evil, which is shame, and shame sends me back into hiding, which is all it ever needed. Run on him, the same trick is my contempt: taken for him, it gets the verdict, and he stops looking too. And taken for a real thing called evil, looking out of his eyes, it gets one thing more: a license. When I see that in someone, the kid gloves come off. Not just to stop him, which I could do fully turned toward him, but to do whatever I need to. *He hurt my people; I've earned this.* In that moment I don't care if the world gets a little darker for it. It took a deeper layer of limbo to find that I'd always known whose license it was: the evil I felt over there was my permission to make more of it. That's why evil benefits from being seen as a presence, in either direction. Calling it a parasite, something in me that isn't me, is what makes looking possible.
 
 If the old cartoon of an angel and a devil on your shoulders comes to mind, it gets this wrong in the way that matters: it draws them as equals, two voices each making a case. In Chapter 1, only one side had to argue. The angel is just your better nature; the devil is what lures you away from it. [TODO(Aditya): Claude's draft (your note on the angel/devil picture), moved here from Chapter 1. Rewrite in your words or cut.]
 
@@ -43,7 +43,7 @@ Were my darkness and his on the same side all along? Watch any two sides go to w
 
 This is not the claim that the two sides are the same, or equally right, or equally dangerous. They usually aren't, and you may well be on the side that's right. The claim is only about what goes out through the eyes. That part is the same on both sides, and it's the one part of your fight that feeds what you're fighting.
 
-Which also says what you're feeling when you feel contempt for someone who did wrong. You have spotted evil, but the feeling isn't the spotting. It's a tug to be recruited into the thing you're looking at, and it uses your accurate perception to do it.
+Which also says what you're feeling when you feel contempt for someone who did wrong. You have spotted evil, but the feeling is something else: a tug to be recruited into the thing you're looking at, and it uses your accurate perception to do it.
 
 ---
 
@@ -97,7 +97,7 @@ Ask what you're looking at when you look at such a person and feel that particul
 
 And the hostage isn't struggling. From inside, the thing holding him presents itself as his judgment, his seriousness about what's wrong with the world. The captor has become his best friend, and that's why the people who appear to want their darkness are the ones most fully taken. Adding the verdict is allying with his captor, because the urge to do it comes from yours.
 
-That's why I'd say they need the most love, and it isn't sentiment. They're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who carry it most. What they need is what the second stranger gave you: someone fierce who won't add the verdict.
+That's why I'd say they need the most love: they're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who carry it most. What they need is what the second stranger gave you: someone fierce who won't add the verdict.
 
 And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could round up the bad people and be rid of them, the rest of us would live in peace. The turning away it takes to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find a hot atrocity that didn't need it. The cold ones begin with nobody in view at all.
 

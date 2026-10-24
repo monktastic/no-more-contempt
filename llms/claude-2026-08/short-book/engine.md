@@ -28,6 +28,28 @@ Nine steps. Each is a recognition the reader checks in their own case, and each 
 
 The book runs step 8 before step 7: the Way Through is Chapter 5 and the Picture follows it. A blind test on October 20 (`readers/ab-restructure-2026-10-20.md`) put the Picture before the Way Through and found it is where readers stop being pulled, in either position; placed first, it lost them before the practice. The far-end exercise and the Epilogue follow the Picture.
 
+## The claims, and where each one peaks
+
+The book is trying to reach thirteen claims, the sections of `../../../scratch/key-points/index.md`, numbered K1 to K13 in that file's order. Each has one apex: the place where a reader gets it whole. Everything else about a claim is build-up before its apex or a callback after it. A main-line passage that is neither belongs in another chapter. `paragraph-map.md` reads every paragraph against this table.
+
+| | Claim | Apex | There the reader |
+|---|---|---|---|
+| K1 | Limbo | Ch1, Limbo: "Or like something you had always known, but somehow hadn't *let* yourself know?" | checks |
+| K2 | Conscience | Ch1, Limbo: "Why did one side have to argue, and the other not?" | checks |
+| K5 | The tell | Ch1, The How: "I had to be present enough to plant it, and absent enough not to recognize it as planted." | hears my finding |
+| K3 | Contempt | Ch1, The Mechanism: "Love and contempt are addressed to the same place." Named in Ch2: "Contempt is evil. That's not a value judgment." | checks, then hears the name |
+| K6 | The wanting | Ch1, The Mechanism: "I needed others to carry the darkness I was hiding from myself" | hears my confession |
+| K9 | Counterfeit righteousness | Ch1, The Orientation: "*So hating him is good.*" | watches my move |
+| K12 | The light | Ch2: "When I look most deeply into what I am, I find life." The capital waits for the Epilogue. | checks, then hears my report |
+| K4 | Kind is not nice | Ch2's last paragraph: "That is kindness, and it can be the harshest thing in the room." Felt first in Ch1's Two Strangers. | gets the name for what they felt |
+| K7 | The parasite | Ch3: "Run on him, the same trick is my contempt". Its other half, that our parasites collaborate, is felt in Ch4 between allies and pictured in the Picture. | checks; between allies the collaboration is a check too (Ch4), and only its scale is a picture |
+| K8 | "Bad people" | Ch3: "a hostage held up to the window, not a monster on display." | is given a lens |
+| K10 | Self-serving agendas | Ch4: "Most of what I do is quietly self-serving, with justifications I never notice" | checks |
+| K13 | The way through | Ch5: "would you feel relief, or robbed?" | checks |
+| K11 | Contempt for the world | The Picture: "a forest as nothing but lumber" | is shown a picture; nothing checked carries it yet |
+
+So the claims peak in this order. Chapter 1: K1, K2, K5, K3, K6, K9. Chapter 2: K12, K3's name, K4. Chapter 3: K7, K8. Chapter 4: K10, and K7's collaboration felt. Chapter 5: K13. The Picture: K7's collaboration and K11. The Epilogue: K12 as the Light. Where that differs from key-points' order (K9 in Chapter 1, K12 before K4, K11 last), the spine's order wins.
+
 ## Main line and the rest
 
 Every passage is one of four kinds. The test for the first: would the reader still take the next step if this passage weren't here?

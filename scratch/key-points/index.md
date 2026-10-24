@@ -10,6 +10,8 @@ Knowledge that was right there to see, and turned away from. Knowing and not let
 
 - **T0** - I cannot knowingly cause harm without turning away.
   - **F1** - Limbo state / self-deception is the secret mechanism behind all evil.
+  - ▹ **F1** - The status rival, answered: "And the serious one: *we're social animals, and this is status.*" / "This explains a great deal, and I don't think it's wrong. I think it describes how the looking-away gets done. Where it fails, in my own case, is the confession. When I finally owned what I'd done, it didn't feel like forming a belief for the first time. It felt like something I'd been stepping around." (General book, essay §5; placed October 23.)
+  - ▹ **F1** - "You already know the source of all wrongdoing. / Pretending you don't **is** the source of all wrongdoing. / And you already knew that, too." (General book, essay, introduction; placed October 23.)
 
 - ▹ **T0** - The choice is real at one point: while both pulls are felt you're still looking, and can keep looking or stop. After that there's no chooser, only reasons. The second pull is a want the looking would veto, plus the accumulated ease of turning, laid down by your previous turns and by turns made at you. That ease is the parasite existing before it has you; it's what tempts. The cartoon gets the moment right and what follows wrong.
   - ▹ **F0** - "But why did you stop looking?" Not for no reason: for the want, which is innocent. What you didn't choose was the description (it came labeled "long day," never "stop looking at him"). The felt "I chose it, knowing better" is accurate and is limbo showing itself; remorse's shape, not shame's. No bad chooser anywhere in it.
@@ -24,10 +26,12 @@ Knowledge that was right there to see, and turned away from. Knowing and not let
   - **F1** - Thus what I had wasn't real darkness, but only the strategic kind—the kind that all good people must harbor to keep real evil in check.
   - **F1** - When we see darkness in the world, we use it to justify our own ("I've been hurt, so I'm licensed"). Then we feel guilty, so we never look closely enough to see it's not us. The darkness wants to stay in limbo.
   - ▹ **F1** - The license is the felt presence of evil. Taken for a real thing called evil, looking out of his eyes, the parasite gets one thing more than the verdict: a license. "The kid gloves come off. Not just to stop him, which I could do fully turned toward him, but to do whatever I need to." The evil I felt over there was my permission to make more of it. That's why evil benefits from being seen as a presence, in either direction. Short book, Chapter 3, beside "Run on him." At the scale of a team: I feel the presence of evil in a whole group, my side takes the license, and when we use it we become the coordination I was sensing in them ("The Picture I Use," Claude's draft).
+  - ▹ **F1** - "The source of wrongdoing keeps itself hidden by doing, one level up, exactly what it is." (General book, essay, introduction; placed October 23.)
 
 - **T0** - If you can only do wrong from the turned-away state, then you cannot *choose* to turn away, because choosing it would be a wrong done while still looking. This solves the infinite regress (an evil chooser one level down) if worded properly. In the book as "nobody chooses to stop seeing while they can still see" (Ch4, map §10, Ch5); the derivation belongs where "all evil is innocent" is argued.
 
 - **T1** - Shielding takes effort to maintain. It's not our natural state. (Raised from T2: it's one of the few pieces of evidence for the nature claim that doesn't lean on the gaze. A grudge needs feeding; dropping one feels like setting something down. Caveat the book must keep: practiced hiding stops feeling like effort.)
+  - ▹ **F1** - "Think of someone you've written off. Is not caring about him effortless, the way it is with a stranger on the far side of the world? Or does it take work… It takes upkeep, and real indifference doesn't: there's nothing to keep up." (General book, Chapter 1's holding pen; placed October 23.)
 
 - **T2** - This capacity for self-deception exists in everyone, but along a continuum. The further along it they are (and the smarter they are), the better they are able to hide it behind agendas that look exciting and helpful and shiny from the outside, but are secretly rotten from the inside—eating away at the world in ways that can be hard to detect until it's too late.
 
@@ -47,6 +51,8 @@ Something in you knew before the reasons arrived. It never argued, and it never 
 
 - **T0** - Your conscience doesn't try to justify itself. The thing producing justifications isn't there to convince it; it's there to convince you that you can't hear it; that it's just one more voice among the noise.
   - **F2** - There is an aspect of your mind that always knows, in each moment, whether your behavior is brightening the world or darkening it for your own supposed benefit.
+  - ▹ **F1** - "It won't feel like a loss to him. It will feel like he's gotten a bit wiser, a little more realistic about how the world works. But it's the same faculty that let him see through me. That sees anyone. Demote it, and you see a little less of everyone." From the sender's side: "each time it goes out, the part of you that knows the enemy is a person gets overruled once more, and it's the same part you use on everyone." (General book, Chapter 1, The Corruption; essay §4; placed October 23.)
+  - ▹ **F1** - "I treat it like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right." / "But it's not an advisor. The moment I pretend that listening is optional… I've already committed to the harm." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 - **T0** - Reasoning must be in service to the care, not disconnected from it.
 
@@ -54,6 +60,7 @@ Something in you knew before the reasons arrived. It never argued, and it never 
   - ▹ **F0** - The exception isn't what conscience registers; the not-looking the exception required is. You can take the last seat with the person in view; you can't cheat that way.
 
 - ▹ **T1** - "In view" has three checks, independent of whether harm follows: their objection would land on you; their hurt registers as bad the way yours does; what's in them could change what you do. Pass all three and still fight (the second stranger); fail all three and lift no finger (cold).
+  - ▹ **F1** - "It's why 'he looked me in the eye and did it anyway' is the most chilling thing you can say about someone. He saw you. My claim is that even then the seeing was partial, that something in him had to not see you or he couldn't have done it, and I can't show that from the phrase." (General book, essay §3; placed October 23.)
 
 - **T2** - Doesn't it feel like wise people aren't hiding anything from themselves?
 
@@ -83,11 +90,13 @@ Something in you knew before the reasons arrived. It never argued, and it never 
 - **T1** - If you have some grand narrative about how to save the world, it's crucial to check whether it's causing (or even requiring!) you to have contempt for what's right here, right now. If so, it probably isn't rooted in authentic goodness, and probably won't have the effect you think (or can even prove!) it will. A common example is "I'll hoard as much wealth and resources as possible so that I can one day deploy it in service of good" (see: FTX). Or eugenics projects. Maybe give other examples.
 
 - **T1** - Two behaviors that look nearly identical from the outside can have *profoundly* different results—and it is exactly this difficulty in telling them apart that our darkness uses to trick us into following it.
+  - ▹ **F1** - "The record will show that the corrector with integrity was *harsher*—so they should have been the one who made it worse. Later, everyone will argue about the things that can be measured—who said or did what—obscuring the actual cause." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 ### Rules, and the escape hatch
 
 - **T0** - If I see I'm everyone, I'll just do the right thing. If I try to be a "good person," then that dualistic concept will make me believe in "bad people" and I'll cause harm.
   - **F1** - "I'll just try to be a better person" doesn't work, because "good person" is an idea. See the escape hatch. Also, the parasite lies dormant.
+  - ▹ **F1** - "I'm just another person who knew what was right, decided it was negotiable, and then looked for someone worse than me to prove I wasn't so bad after all." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 - ▹ **T0** - An ideology is care written down so it can be carried, and anything written down can be obeyed with the person in front of you out of view. Followed instead of looked from, it leaves the care behind and feels exactly like it. The fault was never following it blindly (nobody thinks they do); it's that it can be followed at all without looking. Test: does it tell you what to do to the person in front of you before you've looked at them? Short version Chapter 4.
 - ▹ **T0** - Nothing in the book is a rule. A rule hands conscience a substitute and hands the arguer a letter to satisfy. A clue you can be wrong about; a rule you can obey. Short book: Chapter 4, end of "None of this is against rules".
@@ -107,15 +116,18 @@ Not anger at what you did. The verdict that this is all you are. It licenses any
   - ▹ **F1** - They're the safe targets: part of me is always sensing who it's okay to look down on (see §8, the dumping ground), and nobody defends the man at the ticket machine.
   - ▹ **F1** - Pity is contempt with a soft face: it needs them to stay below me. Test: would I be glad if they got there before I did?
   - See also, under "How subtle contempt can be" below: the NPC look, the uncharitable reading, "that person is stupid for feeling that way"; and §10's background hum ("Darwin award," "play stupid games").
+  - ▹ **F1** - "And sometimes I'm simply wrong: what they did wasn't harm at all, and I'm only viewing it that way because it serves me somehow." (General book, Chapter 1, Whose intention; placed October 23.)
 
 - **T1** - Notice what contempt licenses. Once he believes that *this is all you are*, is there any bottom to how he can treat you?
 
 - ▹ **T0** - Size doesn't matter. If the size of the flicker mattered, a small one wouldn't be shameful to admit, and it is; the smallest morsel carries the whole thing, and everyone already knows it. That's why it's hard to see in yourself: not the missing record, but not wanting to believe you have it in you. The holding: from here, looking without the reasons, you don't want it, and that isn't a defense, it's the finding; the part refusing it was there in the moment too, or there'd have been nothing to hide from. Chapter 1, When You Send It.
 
 - ▹ **T0** - The cover is self-refuting. Contempt stings only if read as the real thing (out of view, no bottom); the good kind would land like the second stranger's. So the sender relies on the target recognizing evil, and that reliance is proof of what the sender knew. "I meant it as the good kind" is refuted by the sting. What makes it evil: holding one life out of view teaches them to hold every life out of view, and the sender counts on it landing. Contempt's purpose is to spread turning away. The flash isn't recorded because it passes only with a reason attached ("it's good"; "the good kind of evil"). Refound September 2026; lost at least three times before. Short book: Chapter 2, after "not as harshness".
+  - ▹ **F1** - "Cruelty wants the hurt. It doesn't need the hurt to feel like justice." (General book, essay §5; placed October 23.)
 
 - ▹ **T0** - Both directions: no turning away without intent to harm or use; no harm or use without turning away. The universal bad thing, checked in the reader's own case both ways. Contempt only works because everyone already knows it: willingness to turn away reads as the sign of something bad before a word is said, and nobody had to be taught that. (The airport crowd is out of the foreground, not turned away from.)
   - **F1** - When on the receiving end of contempt, you can tell they're not coming from a good place. How?
+  - ▹ **F1** - "Malice is turning away from a life in order to harm or use it. Contempt is that same turning-away, experienced as righteous." (General book, Chapter 1, The Corruption; placed October 23.)
 
 - **T1** - How subtle contempt can be.
   - **F1** - Three looks: the look of compassion, the look of malevolence, and looking at others like NPCs (which is actually a mild contempt).
@@ -125,8 +137,10 @@ Not anger at what you did. The verdict that this is all you are. It licenses any
   - **F2** - We spread contempt even without direct contact: outrage parties, sharing contemptuous posts. Each raises the background contempt level in the collective field.
 
 - **T1** - "Contempt is an *unloving* way of exposing the truth. It feels like coercion, not invitation. To preserve dignity, they run into denial, which means deeper darkness."
+  - ▹ **F1** - "I wanted to coerce my enemy into caring—or, failing that, to punish him for being unable. But to do that, I had to abandon my own better nature; to see him as a different kind of thing. Why? Because *I* cannot be coerced into caring. It's something I have to remember on my own (though possibly with help)." (General book, Chapter 1's holding pen; placed October 23.)
 
 - **T1** - When we contemptuously judge our enemies, it may feel like we're rubbing their noses in their *badness* so that they will be forced to confront it (and then when they don't, we assume it's because they're bad), but we're actually trying to make it harder to confront. We add a particular charge that says "no matter what you do, I'm going to interpret it in light of my existing knowledge that you're beyond redemption." [TODO]
+  - ▹ **F1** - "Contempt can produce compliance (he stops, while there's a chance of getting caught) but not remorse; part of me takes the one for the other, so the harm that follows… stays out of view." (General book, Chapter 2's notes; placed October 23.)
 
 - **T1** - Anger is a completely natural, and even healthy, response to such misbehavior. But it is almost always accompanied by malice, contempt, or self-righteousness. These may feel healthy, too, but they are only manifestations of our parasite. Contempt for beliefs and behaviors.
   - **F1** - If judgment means wise discernment, it's helpful. It's contemptuous judgment that's the problem. Same with outrage. At one level these are easy to confuse, but at a deeper level the distinction is obvious. It's only our darkness that makes it feel hard.
@@ -147,6 +161,9 @@ The second stranger was harsher, and it landed as kindness. He held both halves:
   - **F1** - When someone corrected you with integrity, you could feel they were serving something larger than themselves, and that you wanted to serve it too. Not because you calculated it would be good, but because it was just... obvious.
   - **F1** - Integrity feels clean from both the inside and outside. There's no hiding, no maneuvering. You can sense when someone isn't turned away from anything.
   - **F1** - If, instead, you had held fast to your integrity and *not* devolved into contempt, your accusation might have actually landed somewhere helpful. It would force them to self-reflect, if only imperceptibly. Their darkness would not find a trace of the "hook" it needs in your mind to prove to itself that you are just like them. Instead, it is confronted with a blinding light. This *necessarily* weakens their self-deception: it *reduces* the evil in the world.
+  - ▹ **F1** - The teacher, in full: "I was mortified, and frightened, because I knew what it made me, and he was about to say so." / "What came instead is hard to describe; *responsive* is the closest word." / "I realized I only felt so bad because I didn't want to be doing this. It was against my deepest principles, not just his. There was nothing to rebel against, because there was no accusation about what I *am*. He wasn't being a hypocrite, and hypocrisy was what I'd always used to counter-accuse the people who tried to shame me for what I was." (General book, Chapter 1, Integrity; placed October 23.)
+  - ▹ **F1** - "Nice is what you get from someone who needs you to like them; kind is what you get from someone who needs you to be all right." (General book, essay §8; placed October 23.)
+  - ▹ **F1** - "Contempt is a little darkness I inject into otherwise-good behavior, poisoning it: it turns a correction he could take into an attack he has to resist." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 - ▹ **T0** - Compassion is not wisdom. Contact with the light is not enough; it gives you the one stance that doesn't feed the thing, and what to do from it is skill, unevenly distributed, sometimes the work of a lifetime. The reader's second fear after "be nice"; raise it after the conspiracy is shown, before the lever (Chapter 14). Seed: Chapter 5, "being free of self-deception makes you honest, not wise."
 
@@ -172,6 +189,7 @@ He can't hide that he's hiding. The hiding is the revealing. You both know it, n
   - **F1** - It telegraphs our dark intent in some small, almost imperceptible way—perhaps with a simple dehumanizing glare. This gives us plausible deniability, but their darkness immediately recognizes the telltale sign of malevolence. As a cherry on top, we are pretending that this behavior is noble, making us appear hypocritical as well. This is like a gift-wrapped present to their darkness: it puts their mind at ease knowing that the people they're harming so richly deserve it.
   - **F2** - "But how can something as simple as *contempt* have such a profound effect? After all, it's only conveying: *I am inherently superior to you.* But somehow, what comes across is closer to: *See? Even the so-called "good people" are ultimately frauds, and their supposed "Light" a naive myth. When push comes to shove, even they must rely on the real source of power in this world—the darkness. Give up the struggle and join us.*"
   - **F2** - If even the so-called "good people" can't tell darkness from light in their own minds, what hope do *they* have? That's what your contempt tells them.
+  - ▹ **F1** - "Even when the look was only a flicker, I had my out ready, and I don't prepare a defense for something inconsequential." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 - **T1** - When I am shoving another person into the dark while trying to look righteous, part of them knows what I'm doing, and I know that, and they know I know that, ad infinitum. That's what makes it so effective. This mutual knowing operates beneath words, yet lands with perfect precision. (The old label for this, "common knowledge" from game theory, is withdrawn; see the next item.)
   - ▹ **F0** - Two pieces of common knowledge, both in Lewis's sense (reason to believe at every level, attended to at none), both unacknowledged. Standing, needing no look: there's no essential difference between us, no better nature missing in them and nothing in them we don't have that turns them from it. We tell ourselves otherwise; contempt relies on both being false (it's aimed at the better nature it says they lack, and it works by pushing them from it). Made in the moment: I'm turned away from you now, on purpose; the aimed look, its landing and each seeing the other see it land are the silent public event. Unsaid isn't the same as not common knowledge: saying it would add no information, only a record, and the verdict couldn't survive being heard. Appendix 1, The punchline and its footnote; brief.md.
@@ -185,19 +203,23 @@ He can't hide that he's hiding. The hiding is the revealing. You both know it, n
   - ▹ **F0** - The look is about itself: it hurts him by making him know that it's meant to hurt him, and that it's deniable, to him and to me. A fixed point, not a regress: J = G(J), where G(X) is "make him know, with nothing he can quote, that I intend X, while not letting myself know it." Appendix 1.
   - ▹ **F0** - The look is an attempt to split something that can't be split. Common knowledge comes in one piece: if he knows, I know he knows, so I know. All I can withhold is the acknowledgment, from the record and from myself. Appendix 1.
   - ▹ **F0** - Contempt holds two things in limbo where malice holds one: his sameness, which every harm hides, and my own intent. Malice need not be received, and needn't disavow itself ("yes, I mean you harm, and no, you're not my kind"). It's why malice is frightening and contempt is maddening. Appendix 1, "Take one away."
-  - ▹ **F0** - The baseline is an asymmetry: harm needs the turn and decency never does. Without it the look would be ambiguous and there'd be no hypocrisy to see. Appendix 1, "Why it had to be this way."
+  - ▹ **F0** - The baseline is an asymmetry: harm needs the turn and decency never does. Without it the look would be ambiguous and there'd be no hypocrisy to see. Appendix 1, "Why evil isn't a second nature."
   - **F2** - Three strikes, from the target's side. One: they sense your malevolent intent (accessing Oneness despite your attempt to hide it from yourself). Two: they become defensive or accusatory (responding to the real harm you're enacting). Three: you perceive this as projection (because you're refusing to see what the Oneness mind knows you're doing). The third strike is the one worth keeping: their accurate read of you gets filed as projection, which is "unconscious for me, conscious for you" in action.
+  - ▹ **F1** - "You knew the truth well enough to violate it precisely. You knew equal standing well enough to know how its withdrawal would wound. You knew the goodness in the other person well enough to know how to drive it into hiding." (General book, essay §8; placed October 23.)
+  - ▹ **F1** - "I was showing him that I was judging him *from* the very state I was judging him *for*, and that I knew he knew this." (General book, Chapter 1, Common knowledge; placed October 23.)
 
 - **T1** - Both being in bad faith and accusing others of being in bad faith.
 
 - **T1** - We like to believe that our innermost intentions have no effect on the world; that the things we do when nobody is watching don't matter; that our intentions remain confined to our skulls, and only our actions have consequences. But this belief is precisely how our darkness gets us to look away for long enough to infuse itself *into* those very actions, thereby escaping our skulls and weaving itself into the fabric of our reality. A deep part of us knows when our actions are not fully aligned with the Light, but with our own self-interest instead. This knowledge subtly taints those actions, so that even the most noble-sounding project only induces more self-serving behavior in everyone it touches, even as they're convinced that they're doing good.
   - **F2** - How much harm we're able to inject into the world via subtle channels.
+  - ▹ **F1** - "They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. But someone always is: me. Not the part of me busy with reasons—the part I'd turned away from, so I wouldn't feel it watching." (General book, Chapter 1, The way out; placed October 23.)
 
 - **T1** - The devil is in the details. Nearly any agenda (e.g., political) can be implemented with compassion or contempt. People can sense what the intention of the originator is, and it influences their implementation; thus it can create great harm or great good. But people are too busy arguing about the outward, overt goals (the provable stuff).
 
 - ▹ **T1** - Why contempt uniquely scales: self-exception + no record + performed publicly and rewarded + pleasurable to watch. The spectator seat is a transmission channel; most contempt is consumed, not performed.
   - **F0** - The *fuck yeah.* You hear that an ally has one-upped your enemy or put them in their place, and there's a hot little surge of triumph, a fist closing; you want to watch it again and send it to someone. Nothing got better: no harm stopped, nobody's mind changed. The pleasure is in the landing itself, and you got it without having to send it. That's THE THING, at the size everyone has felt. (Short book, interlude; called back in Chapter 3's consumed-contempt paragraph.)
   - **T1** - Historically, most of what we now call evil was once respectable (slavery). Contempt may be the last evil still praised as a virtue. That, plus its unprovability, makes it the evil of our moment, and it's why the other evils are so hard to stamp out: we fight each of them with it. (Short book, Chapter 3, after the consumed-contempt paragraph.)
+  - ▹ **F1** - "contempt shown to a third party lowers our trust in the contemner, even when we agree with the verdict. Yet when it's our side's politician doing it, we cheer." The bystander's check is in scenarios.md. (General book, Chapter 2's notes; placed October 23.)
 
 ## 6. The wanting
 
@@ -213,6 +235,8 @@ We don't shame our enemies despite it making them dig in, but because of it. Som
   - **F1** - It's so that we can continue to believe that all the problems of the world are caused by something fundamentally alien to us—the result of *inherently defective* people whom we could never hope to understand, let alone help. Sure, we may sometimes commit little misdeeds here or there, but they're of a fundamentally different nature than the *real* darkness that plagues our world, and so cleaning up our own behavior ranks way down in the list of problems to solve.
   - **F1** - To put it bluntly: we subtly but continually reinforce the evil "out there" to hide our own from ourselves. That is why we fail to defeat the evil in the world. Part of our minds is actively working against this goal—and these parts of our minds are not working independently, but somehow collaborating to keep this whole ruse hidden from us.
   - **F1** - The purpose of conveying "I am nothing like you" is to increase that perception in the Whole, which we do because it is too painful to confront that what lives in you does, indeed, live in me.
+  - ▹ **F1** - "*You were honestly correcting bad behavior.* Then why does their getting worse feel like being proven right, instead of like failure?" (General book, essay §5; placed October 23.)
+  - ▹ **F1** - "Contempt doesn't just describe a dark world. It builds one, and then cites the world it built as proof." (General book, essay §7; placed October 23.)
 
 - **T0** - Why would I want to stop corruption when I feel so good judging it?
   - **F0** - There is **nothing** more primally, viscerally satisfying than violently punishing evil. Pause and feel that.
@@ -224,6 +248,7 @@ We don't shame our enemies despite it making them dig in, but because of it. Som
   - **F1** - Our desperate need to look like "good people" is what produces the perverse incentive to create *bad* people.
   - **F1** - You are creating *new* evil in the world, just so that you may have the dark pleasure of violently punishing it in the future.
   - **F1** - Since we've convinced ourselves that even *we* don't know about our malevolent intent, we reason that *they* couldn't possibly know—and so if they see us as evil, it can only be proof that we were *right* about them. The deniability gets used as evidence.
+  - ▹ **F1** - "you're talking the good in someone into hiding" / "finding the good in a person and smothering it, while it looks at you." (General book, essay §4; placed October 23.)
 
 - **T0** - If you could really see that they were "possessed," would you *want* to shove them deeper in? Of course not. You simply couldn't do it. And there's a cyclic dependency: if you find you *could*, that shows *you* were possessed, and that is how you know *they* are. Not clean logic; it's close to how the revelation went, and Chapter 1 hints at it with the stranger. Not stated as a check anywhere in the book yet. Draft in `scenarios.md`, "The write-off."
 
@@ -268,8 +293,10 @@ What's doing this behaves like an agent. It hides from its host and shows itself
 
 - ▹ **T0** - "When another person's darkness looks intrinsic, your own has entered the seeing." You correctly perceive the darkness and mislocate it, and the mislocation helps it grow. Safeguard: certainty doesn't prove capture; it's the moment most worth examining, because captured seeing feels like clear sight. Check with relieved-or-robbed. Short book, Chapter 5's opening (moved from Chapter 3 October 17), with why the knowing is the only guide: it's the one thing the parasite can't borrow.
   - **F0** - No amount of thinking harder will reveal that you've been hijacked by the parasite, because it's the thing controlling your thoughts and even perceptions. You don't just THINK your enemy is evil, you can SEE it. This is how people get trapped in "evil" worldviews, and it's impossible to pop them out by making them think more clearly. (Aditya, October 17.)
+  - ▹ **F1** - "From the inside, being proven right and being right are the same experience. The only difference is who produced the evidence." (General book, Chapter 1, The Corruption; placed October 23.)
 
 - **T1** - Fear maintains the turning away: the first lapse gets read as evidence of a bad essence, so looking back threatens to expose what you are, so you look away again, and the feared essence is projected onto enemies. Reconciles Dzogchen's primordial non-recognition (the lapse before a chooser) with Wapnick's ACIM (the disaster is taking the tiny mad idea seriously as sin). "Interpreting the lapse as evidence of bad essence creates the fear that maintains it."
+  - ▹ **F1** - "I don't think this part of me is ultimately trying to help me get away with stuff. I think it's trying to protect me, and the getting away is a side effect." (General book, Chapter 1, Whose intention; placed October 23.)
 
 - ▹ **T0** - Acting from limbo spreads it, the one acting knows it will, and that knowledge is part of why they act. The *what's wrong with you?* shot at a loved one has the same flavor as evil (size doesn't matter, §3) and the same knowledge in it: part of me knows it will pass the turning away on, and that's part of what I'm sending. Scattered until now: the trip's "part of me knew even as I was doing it that this would only further darken the world" (§13), "we *know* it will subtly darken the world further, which we want" (§10, F2), the general Chapter 1's "fostering darkness in them. Part of me knows that, too," and "in that state you can only spread it" below. brief.md, Evil.
 
@@ -286,6 +313,7 @@ What's doing this behaves like an agent. It hides from its host and shows itself
   - ▹ **F0** - Shame is the parasite's last defense, not the beginning of honesty. The cover-up exists because something in you would never approve, and that something is what you are.
 
 - ▹ **T1** - Hot and cold are the same parasite. Hot is contested (the protest is audible, so it works); cold is when it has won (the reason on file is the gaze with the fight taken out). Most harm runs on cold.
+  - ▹ **F1** - "This is also the cold form's exchange: the audience is who the cold contemner assembles it with, since the enemy isn't in the room." A reader's check on it (Owen, round 10): "I'm still going to tell the Pruitt story. But I noticed, writing this, that I told it to you at the top of this letter, and enjoyed it." (General book, Chapter 2's notes; placed October 23.)
 
 - ▹ **T1** - The parasite is the Mahayana's self-cherishing, not pop "ego": the exception is the ego, the parasite is the ego defending it, self-righteous contempt is the defense at full volume. It hides behind your own eyes: Satan's trick and the self's are one thing. (Unfinished.)
 
@@ -294,6 +322,7 @@ What's doing this behaves like an agent. It hides from its host and shows itself
 - ▹ **T0** - The two distinctions hold for the Devil as for the parasite, and have to be stated before the book can say "the Devil is trying to…" without raising eyebrows. Real: make it a being with an essence and a plan and the essence lands in people (in them, licensing contempt; in me, licensing shame). Not real: make it just a pattern and you stop watching it when it's working hardest. Between: no substance, everything borrowed, and it behaves exactly as though it had one aim; recognized as the same thing looking out of two people with nothing in common. Me: I defend it as my convictions. Not me: I disown what I did. Between: it runs only on my faculties and I answer for all of it, and it isn't what I am, because it only runs while I'm turned away from what I am. For Buddhist readers, the two truths: Mara, conventionally real and empty.
   - **F0** - A nothing that has to be fought like a something, without ever being mistaken for a something. (rest-of-book.md)
   - ▹ **F0** - When I say the Devil is trying to do something, I mean it literally about its behavior and not at all about its substance. brief.md, Collaboration.
+  - ▹ **F1** - "Don't mistake the grammar for the claim: I'm not saying there's a separate thing living in me. I'm saying that, while I'm turned away, my own mind behaves as if there were." (General book, Chapter 1, Whose intention; placed October 23.)
 
 ### Our parasites collaborate
 
@@ -308,6 +337,8 @@ What's doing this behaves like an agent. It hides from its host and shows itself
   - **F1** - It is a Faustian bargain: our agendas get furthered while the darkness gets a tighter grip on the world.
   - **F1** - The darkness doesn't care who you hate, as long as you hate. It is said that "the elites" are playing us regular folks against each other to take our attention off of them, but the darkness is playing a much bigger game. The effect is always the same: to foment a constant atmosphere of contempt, providing exactly the cover it needs to remain hidden in the shadows.
   - **F1** - MLK: "darkness cannot drive out darkness." The reason is that darkness was never *meant* to drive out darkness. Its sole purpose is to *provoke* that of our enemies. (Now placed in the map, after the devil test.)
+  - ▹ **F1** - "'Benefit' is the right word where 'want' isn't, and it's checkable: watch two people in a feud and see whether either comes out less sure" / "a pattern that looks coordinated from above, with nobody coordinating it, is an inference from what's been seen and not a further article of faith." (General book, plan.md; placed October 23.)
+  - ▹ **F1** - "Each side's loudest contempt is the other side's best recruiter… nobody designed it… notice who benefits from a feud" (General book, plan.md, the outline; placed October 23.)
 
 - **T0** - The feeling of being the noble one fighting the evil conspiracy IS the conspiracy. When you are *actually* fighting it, it doesn't feel like fighting; it feels like profound love; like rescuing people from the darkness that they unwittingly harbor—even when it is entirely "witting."
   - **F1** - You could say that the real conspiracy is the belief that the conspiracy lives *outside* of ourselves—for only by believing that can it trick us into doing its evil bidding.
@@ -347,6 +378,7 @@ Evil is the result of turning away, not its cause. "Bad people" are the ones we'
   - **F1** - In this dark place, our own judgement has become King; usurping the throne—but it doesn't feel *dark* at all. On the contrary, it feels impossibly *right*. Our captor has become our best friend. How could anyone rescue us from *that*—and why would we *want* to be rescued?
 
 - ▹ **T0** - The far end: access shrinks but the knowing grows, so the deeply lost person knows most and least at once. What horrifies you is a conscience under crushing load showing through, and *your* contempt holds it down. A hostage held up to the window, not a monster displaying itself. "They need the most love" is arithmetic.
+  - ▹ **F1** - "If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. It rises." The check is in scenarios.md, "The shark". (General book, plan.md; placed October 23.)
 
 - **T1** - "Bad people" are just those on whom we feel righteous unleashing our darkness.
   - **F2** - Part of me is constantly SENSING who it's "okay" to push how hard. The "evil" line is when I realize I can go completely dark on them myself. This makes "evil people" humanity's collective dumping ground—where we can all unleash without guilt. We actually deliver this message to them when hating them: "sorry, someone has to be the fall guy here. And if I trap you in the abyss, I will know that my darkness is safe."
@@ -489,6 +521,10 @@ Not something you have. What you most fundamentally are, and what everyone else 
   - **F1** - You were not looking at an enemy. The Light was only ever looking at the Light. It can never actually forget itself, only pretend to. That's why part of you knows it's phony when you claim others are nothing like you. The message contains seeds of its own failure.
   - ▹ **F1** - Seeing myself in others, literally: "Look for what would tell the two apart: not the faces, the histories, the stories, but what's doing the looking. I can't find anything." (Short book, Chapter 2.) Not one and not two: not one, because you aren't something I'm imagining; not two, because nothing tells what's looking out of you apart from what's looking out of me (Epilogue).
   - ▹ **F1** - Our better nature is what's always there, even when it's obscured. The turning away comes and goes; it's something we do. What's always there is what we are. So turning away from our better nature is turning away from ourselves. brief.md, Limbo (the short argument for calling the better nature "myself").
+  - ▹ **F1** - "Remorse is what turning back feels like: you turn toward someone you've harmed and see them properly. There's nothing to turn back from when you were already seeing them." (General book, Chapter 1, Limbo; placed October 23.)
+  - ▹ **F1** - "If darkness were as much a part of what I am as care is, then it's in him the same way: my verdict would just be seeing clearly, and contempt would be the honest response. Everything I've said about contempt turns on which of the two is home." (General book, Chapter 1, The way out; placed October 23.)
+  - ▹ **F1** - "When I've come back from a turning away, the care in the other person never looks new. It looks like it was there the whole time and I couldn't see it." The check is in scenarios.md, "The return". (General book, Chapter 1's holding pen; placed October 23.)
+  - ▹ **F1** - "And *what happens when you don't believe it* is not a separate check: it's the whole delivering end. Moral contempt is what disbelieving it looks like in action (*they're a different kind from me*), and the reader has already watched the results." (General book, plan.md; placed October 23.)
 
 - ▹ **T0** - The darkness neuters good rather than denying it: "you get to decide what it means; who's to say?" The part that knows it's a sham doesn't know how, so assumes it doesn't; that's the whole operation. There is a North Star, and the second stranger let it show: you recognized it through him without agreeing with him on anything. The one goal the thing may be given: to make us forget there was ever a light to steer by. Chapter 5, What the devil sounds like. Short book: Chapter 5 ("The darkness can also work the other way").
   - **F1** - Compassion being weak is only a lie that the darkness tells to prevent us from recognizing the true power of our Light.
@@ -512,6 +548,7 @@ Not something you have. What you most fundamentally are, and what everyone else 
 - ▹ **T1** - Tier III is the same road further along. The mark is a limit on the book, not a difference in kind or a verdict on the reader.
 
 - **T2** - We lost contact with our absolute goodness, and so we went out searching for our goodness relatively—that is, by making other people bad. How ironic that our faint memory of our goodness ended up causing so much harm.
+  - ▹ **F1** - "the cheapest way to manufacture goodness is by contrast. *I'm good because I'm not like him.* That requires a him. It requires him to stay what he is." (General book, essay §7; placed October 23.)
 
 - ▹ **T1** - The person who dives in after the stranger's child: he's not doing it because Darwin. Or rather, Darwin is just the way we explain Love in our particular reality. One way or another, Love infiltrates all realities, because they're ultimately made of it. Each realm is just remembering in its own way. (Aditya, October 16.) Short book, Epilogue, after "It's Home," calling back to Chapter 4's diver.
   - ▹ **F1** - We're certain that we can explain Love through selfish genes, but what if it's precisely the thing that transcends that framework (and all frameworks)? (Aditya, October 16; the Epilogue's version: "what if what moved in him when he jumped is the thing that framework can't hold, and no framework can?")
@@ -554,6 +591,7 @@ Turning toward is the only stance that doesn't feed it. Not seeing wasn't chosen
   - **F2** - An experience of the one person who saw the good in you, when even you couldn't see it in yourself. Their light touching yours. Being led out of the dark. That's what you can be for others. "Evil people" are hopelessly lost. Don't shove them deeper in. It's not coming from your goodness.
 
 - ▹ **T0** - Not-seeing isn't chosen (a chooser who saw clearly is the bad part reinstalled); catching it is trainable, and speed is the only measure. Responsibility lives there, graded by capacity.
+  - ▹ **F1** - "And notice that checking is the same act as fixing. You can't find out whether you're turned away without turning toward. The test changes what it measures." (General book, essay §6; placed October 23.)
 
 - **T0** - I could only see my darkness clearly because the medicine held me in the Light while revealing it. When darkness is exposed non-lovingly, we feel threatened and can't look. When held in unconditional Love, we can see: it's not even part of me—it's completely extrinsic. This is the only way the parasite can be evicted.
   - **F1** - We try to expose people's darkness violently. The way that works is compassionately (though not nicely). That's what the trip did for me—it was fierce and unrelenting, but always cradled within the context of the Light. That's what this essay is attempting to do for the reader. Maybe even make this point explicit?

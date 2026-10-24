@@ -95,3 +95,81 @@ If a chapter can't be given an opening question from this table, it doesn't belo
 ## The crescendo, and how it stays honest
 
 Chapter 16 is the terminus, and it's marked as belief. It has to do two things at once: deliver the preface's answer at full volume, and not corner the skeptic. The way it does both: the reach claim ("every last thing you do matters, witnessed or not") is stated as mine, with the reason I hold it; the check offered is only the reader's reaction to the sealed room, which is not neutral and which nobody has to interpret my way. The chooser problem (a real choice at one point, no chooser after) is held the way the parasite is held: no creature there, and treat it as if there were. Dzogchen has held both for a thousand years, and that's said as a correspondence, not an authority.
+
+## Openings, first chapters and pull
+
+*From the general book's plan, verbatim. It was written for a first chapter that has since been replaced, so its section names are old; its rules hold for any version.*
+
+### The book's outline (from the "tour" draft of Chapter 1)
+
+A draft of Chapter 1 once tried to make every major thesis plausible in one chapter. As a chapter it read as a man laying out his view of reality. As an outline of the book it's sound, one check per part:
+
+1. **Limbo.** The memory; "did it feel like new information?"; the grace paragraph.
+2. **What you knew.** The cheating case run backwards ("So what exactly did you know?… you had made yourself an exception"); could you do it looking them in the eye? Turning from them, from conscience and from consequences is one move. "Why did one side have to argue, and the other not?"
+3. **How much of the day.** In "I": the expense rounded up, the email left unanswered, the tone taken with someone who couldn't answer back. "Count yours for one day."
+4. **Aimed at a person.** The political scene. "*This doesn't apply to me* becomes *you're not really one of us.*" Where did it reach: not your pride. Addressed to the part I say isn't there.
+5. **What it's for.** The pull to do it back; the one-sentence loop; relieved or robbed. Collaboration, hinted with something everyone has seen: "Each side's loudest contempt is the other side's best recruiter… nobody designed it… notice who benefits from a feud."
+6. **The same thing, further along.** Kindness in the eyes; the hood, the number, the word for vermin; why the word "evil."
+7. **What it isn't.** The two people who caught you; "the outrage at the harm stays, and so does the fight to stop it."
+8. **What was covered.** The upkeep check; "setting something down."
+### Chapter 1: the sequence
+
+Its cold reads are in `short-book/readers/` (rounds 12 to 42, where it was the short book's alternate Chapter 1). It is wide, and it works because every claim in it comes with a check the reader runs on their own life, and the author goes first. Each section closes one question and opens the next.
+
+1. **Limbo.** The reader's own wrong: not new information; the deflection wasn't passive; the side that knew didn't argue and never budged; nothing decent ever needed hiding. *Raises:* what does that need do to how I treat others?
+2. **The Encounter.** The author's own confrontation, narrated from inside, hot and then cold. *Raises:* so what am I supposed to do, be nice to evil?
+3. **Integrity.** The reader's own corrector; the teacher. Fierce without the verdict. *Raises:* what can two people on opposite sides both be serving?
+4. **The Corruption.** Back to the enemy: the signal that pretends there's no signal; what it teaches him ("I'd be a chump"; "deserved something"); proven right vs. right; the two buttons. *Raises:* whose intention is this?
+5. **Whose intention.** Intent, but not "mine"; the grammar is not the claim; villain or machine; the fear of being one of them; "only a chump." *Raises:* is there a way out?
+6. **The way out.** What "yourself" means; losing or getting back; the month alone; better nature as what's home, and what rides on it; the gaze; absence that behaves like a presence; the integrity saying. *Raises:* how could the part of me provoking him count on his reaction?
+7. **Common knowledge.** Go missing; the reader's own look ("How did you know?"); try it now; the same kind of thing; the taunt; the ground ("said out loud"); love and contempt; evil; fighting evil as cover; the record; the advisor; forget and remember.
+8. **The spread.** Allies, quiet contempt, the people we love, "that wasn't the real me," the subtlest contempt, seen as more than what I do.
+9. **The stranger's face**, then the enemy's: the story arrives before the face.
+
+Chapter 2 opens on the question Chapter 1 closes with.
+### What a first chapter can carry
+
+A first chapter can be wide if it keeps these rules. Each is here because a draft broke it.
+
+- **Claims stated and argued fail.** The general essay, the short book's list of claims ("a creed"), Chapter 4's stacked claims, and the tour chapter all spent credibility. A wide chapter survives only when each claim is something the reader checks, not something they're told.
+- **No reader has taken a recognition from a claim.** All of them came from something small, close and checkable: the sigh at someone they love, the politeness with nothing behind it, "How did you know?", the two buttons.
+- **The author goes first.** A confession earns what an accusation can't. Readers who were put in the victim's chair first sat there righteously for pages.
+- **The toggling has a cause.** Read as the author, a narrow opening undersells the insight; read as a reader, a wide one is a stranger's cosmology. Rereading your own paragraph carries no signal. Cold readers settle it.
+### Checks for any new opening or approach
+
+Run these on a proposal before building it. Each is here because a draft failed it.
+
+- **Does it signal scope?** By the end of the first chapter the reader should know the book is about their marriage, their ward, their politics and their ordinary day, not only about how to feel toward monsters. (The political-enemies opening alone didn't; the atrocity opening alone didn't.)
+- **Does the reader supply the evidence before the name arrives?** A list of claims up front is a creed unless each comes with something they can check in ten seconds.
+- **Do the claims run ahead of the evidence?** Plausibility buys goodwill; assertion spends it. One check per thesis is enough to make it plausible, and a picture with no check gets marked as a picture.
+- **Whose case is it?** The reader works harder on a real case of their own than on a hypothetical, and harder as the target than as the sender. The author's findings are said as the author's.
+- **Is the recursion carrying the recognition?** No cold reader has taken one from the know-they-know logic; they take it from its consequences (where the sting reaches; who the message was for).
+- **Has a cold reader seen it?** Claude's and ChatGPT's "this lands" have both been wrong. `short-book/readers/reader-brief.md` is how.
+### Does each scenario pull the reader forward, and in what order?
+
+It has to, and they don't pull equally. A check earns its place in the sequence only if it ends on a question the next section answers. Judged that way:
+
+- **Limbo** pulls, but quietly: it has no enemy and no stakes until the reader is told why it matters. It needs to open on a reason to care and close on "what was doing the hiding?"
+- **The two strangers** pulls hardest for its size. It is universal, it needs no enemy, and it leaves two questions a reader wants answered: what did the first one add, and what was the second one serving. Its natural hand-off is the turn: *you've been the second one's opposite.*
+- **The delivering end** is where the stakes are, and its forward question is the book's engine: *why would I want that?* The pill and relief-or-robbed should close it, since they are what make the reader need the explanation.
+- **Other checks** is the danger. Twenty-odd checks in a row is a list, and lists don't pull. They need an order that escalates (enemy, stranger online, someone you love, yourself) and they should be thinned: several are lenses or stagings rather than checks, and several failed honest readers.
+- **The explanation** pulls only if the earlier sections left their observations unexplained. The more the early sections interpret as they go, the less the reader needs this one.
+- **My understanding** doesn't need to pull. It needs to be optional, and said to be.
+
+**On order.** The two strangers and limbo both open on "something you did wrong," which is why they feel like they'd duplicate each other. They don't have to. The two strangers needs only a wrong you were *caught* in, held lightly. Limbo needs a wrong you *couldn't admit*, held closely. And limbo has a natural trigger that isn't the start of the book: the delivering end raises the question "how could I be doing that and not know it?", and limbo is the answer, which is where the short book already puts it. So one order is: two strangers, then the delivering end, then limbo as the answer to the question the delivering end raises.
+
+**Correction (Aditya).** That order doesn't survive two objections. The second catcher's effect is that he makes it *safe to look* at something you were keeping from yourself, so the two strangers already leans on the reader knowing what it is to half-know something. And the delivering end can't be *explained* as "one part of me knew and one didn't" unless the reader has checked that such a thing happens. So limbo comes first, but short: only the recall (1.1 to 1.3), which takes a page and works on everyone. Its other parts wait for where they're needed: degrees (1.4) for the far end, the in-view test (1.5) for "harm takes turning away," self-holding (1.7) before the heavy part. The finer rule is to separate each scenario from its analysis: the *scenarios* of the delivering end (the verdict wanting to land, the pill) need nothing before them; its *analysis* needs limbo.
+
+**On the circle.** There is one, and it can be kept out of the argument's spine by ordering. Laid out by what each claim actually needs:
+
+1. *The draw* (something in me wants the verdict to land, beyond stopping the harm): checks only.
+2. *The effect* (it makes them dig in): the receiving end, and the research. Needs nothing above.
+3. *The rigged test* (I use what I provoked as proof): needs 2.
+4. *Limbo*: checks only.
+5. *It's addressed to what it denies* (2.5; the shark): needs nothing above.
+6. **So contempt is bad, in the plain sense**: it's after something justice doesn't need, it makes people worse, I half know that, and it works by speaking to the very capacity it says isn't there. Nothing here needs "harm takes turning away," the open secret in its strong form, or any sameness between me and them.
+7. *Harm takes turning away*: its own evidence (the in-view test scoped, the interruption check, the public record, the three marks).
+8. **Only then the identification**: what I'm doing is the same move they made, so contempt isn't just bad, it's the thing itself. And only then the strong open secret (*we all know turning away is for harm*) and the full sameness.
+9. *The explanation*, as the best account of 1 to 8.
+
+The short book's Chapter 1 runs 7 and 8 before 6, asserting "nobody turns away except to harm" as something both parties know, and then leaning on it. That is where the circle bites. In the order above, the circle survives only inside step 9, where an explanation is allowed to be mutually supporting (`spiral.md`).

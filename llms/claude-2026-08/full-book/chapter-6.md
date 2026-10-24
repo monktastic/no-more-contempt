@@ -1,0 +1,59 @@
+# Chapter 6: The Worst People
+
+Before we recognize evil as a turning away, we can't help but feel contempt for "evil people." But even after we recognize it, the question remains: did they choose it?
+
+My mind keeps reaching for a reason the contempt would be right, and a bad essence is the reason it keeps finding. It can't hold, because the turning comes first. And the turning can't have been chosen under the name "bad." Look at what that would require. If harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* would itself be a wrong done while still looking, which is the one thing Chapter 2's face showed can't happen. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
+
+There is one choice, and it's real; it just never comes under that name. While you can still feel both pulls—the recognition, and the want the recognition would veto—you're still looking, and you can keep looking or stop. That's the choice. After it, there's no chooser in the middle, only reasons, and they feel like your own judgment. And what you chose wasn't described to you as *stop seeing him*. It came labeled *I've had a long day*, or *he had it coming*. The want the recognition would have vetoed was innocent; the label came from the story. That's why, looking back, it feels like you chose it knowing better, and you did, and that isn't shame's shape, *I am it*. It's remorse's, *I did it*.
+
+I now think that "pure evil" is the confusion I found in myself, at maximum intensity—where "othering" has reached its zenith, and feels maximally righteous. It looks intentional, just as mine did, because in an important sense, it is. The horror is right there for them to see, the way mine was for me and yours was for you, but they are turned away from it as far as a mind can turn. Innocent at the root, and fully responsible, the way I was.
+
+When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me.[^clancy] What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew.
+
+[^clancy]: The case of Lindsay Clancy, the Massachusetts mother charged in the deaths of her three young children in 2023, split people along this line almost overnight. Much of what I read said monster, feed her to the woodchipper; much of the rest said illness, with nothing of her in it. I don't know what happened in her, and this isn't a verdict on it. The point is how fast each side knew, and how each needed the other's answer to be the only alternative.
+
+Nobody chooses evil under that name, and everyone is fully responsible, because responsibility never lived in a lucid instant of choosing evil. It lives in the choice to keep looking while you still can, in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time.
+
+---
+
+## A note for people who were hurt
+
+If the person you're thinking of is somebody who hurt you, or your child, or your people: your rage is right. Stopping them is right, and if stopping them takes force, the force is right. The fierceness comes from a good place, and nothing here asks you to feel less of it. But notice whether a second thing is riding along with it. Something that says: *I've been hurt, so I've earned the right to unleash a little of my own darkness.* If it's there, look at it. The verdict is the one thing you don't owe them. What they do is theirs. Your rage didn't cause it.
+
+Seeing clearly what they are capable of is not the verdict. You need that sight, and nothing here asks you to doubt it. The verdict is the other thing: that this is all they are. I can only say what holding it did in me. It was the evidence my own darkness ran on, *see, this world is a war, and the only thing that works is power*, and it kept me from looking at my own case.
+
+I want to say this part carefully, because if you were hurt, you have every reason to hear it as one more person telling you how to feel. You have earned things. Your rage, your refusal, your distance, and whatever it takes to make sure it never happens again: all of that is yours. Staying turned toward someone never means staying near them. If you're still living with the person who hurt you, or still within their reach, distance comes first. It is possible to leave, cut contact, and never see them again with no verdict in it at all. And nothing here demands that you turn toward them at all. That may come one day, or never, and there's no shame either way.
+
+The only thing to notice is this, and it's only an offer. That license, the one that says you've also earned a little darkness of your own: look at where it comes from. It doesn't come from the hurt. It comes from the same kind of turning away that hurt you. That darkness wants you to take the license, because nothing proves its case better than a good person who was wronged and took it. And the pull to do so is strongest here, because here you can see the darkness more clearly than anywhere else, and it uses that clear sight as the hook.
+
+And what actually frightens it is the other thing: fierce, unyielding refusal that carries no verdict. That isn't a nice idea from a book. As far as I can tell, it has a long record against power that needs consent, and none against power that doesn't; there, force is right. Where it works, my reading of why is that it does to power what the second stranger did to you: it gives the thing nothing to eat. It is also much harder than contempt, which is why contempt gets sold to you as the strong option.
+
+And then there's the contempt you aim at yourself, which Chapter 1 asked you to set down. The way you hold your own darkness is the way you'll end up holding theirs, and you hold your own first.
+
+---
+
+Everything before that note stays true at the worst end. So bring the worst people back to mind, the ones whose harm you can't wave off, because the general case is easy to nod at and theirs is not. If the worst you know is the one who hurt you, let this part be about someone else; the man in the news will do.
+
+Watch what your verdict does to them once it lands. They've just watched someone who counts as a good person turn away from them and call it righteousness. If their parasite could speak, this is what it would say to them:
+
+> *Look how easily I can take over even the "good people." Genuine goodness is a myth—a name that "good people" use to cover what they really want.*
+
+So their conscience looks a little more naive to them, and next time the excuses come a little faster. Nobody notices one step. A murderer, the man in the news: most are this one step, taken thousands of times. You think your verdict is punishing what they became. Aimed at anyone it can reach, it's one more push in the same direction. The rage isn't the push; the verdict is.
+
+(You may be wondering about the people who seem to be born this way, or who get there for no reason anyone can find. There are answers on offer, from genetics to karma, and I don't know which is right; it's the hardest case for what follows. However they got there, what you're looking at is the same turned-away state, and it reads the same from outside. It doesn't change the state they're in *now*, or how to treat them.)
+
+There's a thought that often comes up here, and I've had it myself: *Oh, boo hoo, he was abused as a child. That's no excuse. I was hurt too, and I didn't turn evil.* Maybe so. People who were hurt do turn out differently, and the differences are real, and they matter. But look at what the thought is doing. Look for where you're taking credit: for the people who held you, the help you had, the day it could have gone the other way. And look at whether it's a way to keep a little contempt with a "clear conscience."
+
+Here is what's strange about being at the far end. Our better nature is the thing that warns us when we've drifted from it, so the further gone we are, the less of it we can hear. What isn't obvious is that the knowing doesn't shrink, and you can check this in your own case. Think of the smallest wrong you've had to admit to yourself, and the biggest. Which took longer? Was that because you knew the big one *less*? For me it was the reverse. I knew it more, and had to hide it correspondingly harder. Limbo comes in degrees, and this is what the degrees are made of. It can look like the opposite, because people who do harm every day say they feel it less over time. But getting used to turning away isn't the same as turning away less.
+
+Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by turning away further up: at the deli counter, the shareholders', everyone's who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete. Now run that out to the far end. The most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding.[^far] You see it as more "evil" looking out their eyes.
+
+[^far]: The step from your own case out to the far end is an extrapolation, and I should say why I trust it, since I haven't lived as that person. I was shown it from the inside once, or so it seemed (the Epilogue says how): what it's like to be turned away *all the way*. I don't expect that to count as evidence for you, and it shouldn't. If you want something of your own to go on, there's an exercise for it right after this chapter, with a note on who should skip it.
+
+Ask what you're looking at when you look at such a person and feel that particular horror. What I see is a conscience under crushing load, still showing through: a hostage held up to the window, not a monster on display. That doesn't mean he necessarily wants out; for that, he'd have to see the alternative to where he is, and from inside, he can't. Every time your verdict arrives, it presses on the one part of him that could end this. If you look at such a person and find only a monster, I can't argue you out of that from here. I can only say what I found.
+
+And the hostage isn't struggling. From inside, the thing holding him presents itself as his judgment, his seriousness about what's wrong with the world. The captor has become his best friend, and that's why the people who appear to want their darkness are the ones most fully taken. Adding the verdict is allying with his captor, because the urge to do it comes from yours.
+
+That's why I'd say they need the most love: they're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who carry it most. What they need is what the second stranger gave you: someone fierce who won't add the verdict.
+
+And the darkest idea this thing has ever produced is the one that sounds most like a solution: if we could round up the bad people and be rid of them, the rest of us would live in peace. The turning away it takes to hold that thought guarantees the darkness stays behind, in full force, changed only in shape. I can't find a hot atrocity that didn't need it. The cold ones begin with nobody in view at all. If every one of them began with a turn, the way back from any of them is a turn too. [TODO(Aditya): Claude's draft (the hand-off to Chapter 7). Rewrite in your words or cut.]

@@ -21,6 +21,19 @@ my version commits (v4, v6.5, and so on), it's mine: quote it verbatim in your
 report, not by description. If it came in under a "pass with CC" commit, it's
 Claude's, and a description will do.
 
+Before cutting anything as an echo or a repetition, check that it isn't the
+body's only concrete instance of a T0 or T1 point: a phrase a reader would say,
+an act they'd do, a scene they'd recognize. If it is, it isn't the echo. Cut
+the abstract statement instead, or keep both and say so. Second instances of
+one move in a new place ("FAFO" beside the locker room) are new places to
+recognize it, not repetition.
+
+**Nothing gets lost.** Anything cut or retired that isn't in the book goes into
+`../../scratch/key-points/index.md` (a claim, or a way of saying one) or
+`scenarios.md` (a check), with where it came from. A chapter's holding pen is
+its safety net, not the archive, and a planning file is not a home. Before
+deleting a file, check that what only it holds has gone to one of those.
+
 **Never cut a top-tier point because readers disliked it.** A T0 or T1 point (L0/L1
 in older notes), or any formulation under one, in
 `../../scratch/key-points/index.md` stays in the book. When readers
@@ -55,7 +68,10 @@ author saw on the medicine, the story he holds the way the traditions hold
 theirs, and the closing promise; the most belief and the least check in the
 book, and the place the appendix's fuller story now lives), published as its own section of the site.
 `short-book/engine.md` is its spine, agreed October 20, 2026: nine steps to one
-recognition, which chapter carries each, and how to tell the main line from the rest.
+recognition, which chapter carries each, the thirteen claims and where each one
+peaks, and how to tell the main line from the rest. `short-book/paragraph-map.md`
+reads every paragraph against those claims; it's a snapshot of October 22, and its
+paragraph numbers go stale with each edit.
 Files after a chapter take its number and a letter (`5a`, `5b`, `5c`), the way the
 interlude after Chapter 1 was `1a`, so the builds' sorted order is the
 reading order. Chapter 1
@@ -69,6 +85,11 @@ brief. Not in the working manuscript. `short-book/readers/` holds the cold
 readers' letters on it, `reader-brief.md` (how a cold read is set up and
 what to ask; read it before running one), and `parked-passages.md`, Claude-drafted passages taken
 out of the chapters until Aditya rewrites them; none of it is built or published.
+`full-book/` the full book, written in parallel with the condensed one: it
+started on October 23 as a copy of `short-book/`'s preface and chapters (without
+their holding pens) and is being rebuilt to climb to its reveals instead of
+spending them in Chapter 1. It is a separate book, not a draft of the short one,
+so the overlap is deliberate; don't merge them. Not built or published.
 `long-book/chapter-6.md` to `chapter-17.md` outlines of the chapters Chapter 5
 seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
@@ -122,17 +143,10 @@ each chapter leaves the claim at. The general form of the ledger.
 by kind of claim; `roadmap-dag.dot` is the detailed dependency order of the
 map; `spiral-cycle.dot` is why the circularity is fine; `core-circle.dot` is the
 circle at the centre of the argument and the order that keeps it out of the spine.
-`general-book/` the book for readers who don't hold Buddhist views.
-`chapter-1.md` is its first chapter ("Limbo"): the reader's own wrong, the
-author's own contempt, the corrector, common knowledge, the spread, the
-stranger's face; every claim with a check. It was the short book's alternate
-Chapter 1, and its cold reads (rounds 12 to 42) are in `short-book/readers/`.
-`chapter-2.md` is a stub written for an earlier, narrower Chapter 1. Neither is
-built or published. `plan.md` is how it would be built: thesis-to-scenario
-map, order, forward pull, the book's outline, Chapter 1's sequence, what a
-first chapter can carry, and the checks to run on any new opening. `essay-draft.md` is the 6,000-word general-audience
-essay (parked; its outline is in `archive/`), and the cold reads and the two
-author-readers' letters sit beside them.
+The general book was deleted on October 23 (git tag `general-book-final`). What it
+held that nothing else did now lives in key-points, `scenarios.md` (its checks,
+and its thesis-to-check map as Part 3) and `engine.md` (its rules for openings,
+first chapters and pull).
 `misc/` Aditya's loose notes and alternate drafts. Leave them alone.
 `../../scratch/round5-as-sent-to-readers/` short Chapters 1 and 2 as the
 round-5 readers saw them (September 18), kept because they hold everything
@@ -404,6 +418,17 @@ a one-sentence callback); "as we've seen" before the row has earned it is a
 fault in that chapter. Report, don't cut.
 
 **dag sync** — regenerate graphs after structural edits.
+
+**weight check** — for every T0 and T1 point in
+`../../scratch/key-points/index.md`, does the reader meet it in the body
+(preface through Chapter 5) as a concrete instance from their own life, or as a
+check they can run? Presence by topic doesn't count. A category label ("the
+background hum," "comment sections"), a single clause, a named case turned
+generic ("a venture," "a soldier"), or a place only in the Picture, the
+Epilogue or an appendix is thin. Report thin and absent points ranked T0 first,
+each with the concrete material already in key-points, `scenarios.md` or
+`conspiracy.md`. Run it before a cold-read round and after any pass that cuts
+repetition.
 
 **full audit** — only when I ask for it by this name. Never on your own
 initiative and never as a warm-up to something else. The procedure:

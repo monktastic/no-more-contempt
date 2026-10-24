@@ -191,7 +191,7 @@ So the point isn't to go easy on anyone. It's to fight the parasite, not the per
 
 Shame doesn't help either. It's the same verdict pointed inward, and it leads to more hiding.
 
-And the turning away isn't something I choose. By the time I could choose, the seeing is already gone. What improves with practice is how fast I catch it afterward: days, then hours, then sometimes in the moment.
+And the turning away is chosen at one point only, and never under that name: while I can still feel both pulls, I'm still looking, and I can stop. After that the seeing is gone. What improves with practice is how fast I catch it afterward: days, then hours, then sometimes in the moment.
 
 So what I'm asking is simple, if not easy: orient toward what your better nature is sensing its way toward, and turn back each time you catch yourself turned away. That's also the only thing that reaches anyone else. Oriented, I give them nothing to fight and something to recognize, the way the teacher did for me, and they find their own bearings. It's the most any of us can ask of each other. Wisdom still has to be learned, but it isn't a second thing: every bit of self-deception I've unearthed in myself has made it easier to see what someone else actually needs.
 

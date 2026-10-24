@@ -1,6 +1,6 @@
 # Epilogue: What I Saw
 
-Feel free to take everything I say here with a giant grain of salt. I recognize that it will lose many of my readers, and possibly even retroactively harm the credibility of the book, but I feel I must say it.
+Most of this book you could check. This you can only hear. It's what I saw.
 
 Years ago, in a state brought on by mushrooms, every layer of my capacity for self-deception was stripped from me. I saw how the reality I experience is a construction of my own mind—and how "my own mind" doesn't refer to meat in my skull, which is itself part of the "reality I experience."
 
@@ -38,8 +38,6 @@ But a tiny handful always showed, through their eyes and their behavior, that al
 
 That's when I realized I could be the same for others. To hold the Light for them, even (and especially) when they couldn't hold, or even see, it themselves. Truth be told, I'm still a *long* ways off from being that person, but there's clearly no greater goal in life.
 
-So far some of what I've said may be familiar to some of you. Some of what follows may be less so.
-
 Ideas that live in our collective shadow manifest "externally," taking shape in our physical reality. The ones that are most deeply buried never quite make it all the way to full physical manifestation—they lurk in the shadows of reality, where people sense their presence but attribute different meaning to it, depending on disposition.
 
 The most deeply buried is the sense of the *evil global conspiracy.* I won't say it's real, and I won't say it's not. It doesn't exist in the way physical matter does, but it's not just a fantasy, either. Our collective self-deception, the background hum, takes on a structure that, for all intents and purposes, functions exactly the way you'd expect a real one to function, but that will never quite take the shape we desperately want, where we can violently punish the people in charge.
@@ -66,6 +64,14 @@ What let me see any of this was that I was held in the Light the whole time I wa
 
 I also saw, unmistakably, that I'll be back in that place one day, facing no one but myself. It's not a process that unfolds in time, so in a sense, that "one day" is already here and now. If I want to know how I'll fare when "judgment day" comes, all I have to do is face myself with full honesty right now. Which is all too easy to avoid when my belly is full and the sun's shining on my face. All the ways I distract myself are ways of avoiding *that*.
 
-I can't imagine that a framework like this one will ever be popular with the masses, even if it turns out to be "true" (whatever that even means). But I do believe that certain aspects of it, most importantly the universality of Good and the recognition of evil as its absence, will be necessary for our species to make progress toward the kind of world most of us long for. Whether that best comes from religion, spirituality, science, or some mix I cannot say. But I hope it comes soon—and I find that the more firmly I orient toward the Light myself, the more real that possibility looks.
+I can't imagine that a framework like this one will ever be popular with most people, even if it turns out to be true. But I do believe that certain aspects of it, most importantly the universality of Good and the recognition of evil as its absence, will be necessary for our species to make progress toward the kind of world most of us long for. Whether that best comes from religion, spirituality, science, or some mix I cannot say. But I hope it comes soon—and I find that the more firmly I orient toward the Light myself, the more real that possibility looks.
 
 It is my intention to always stay oriented; to remain turned-toward. I hope you will hold my feet to the fire when I drift.
+
+<!--
+Holding pen.
+
+Changed October 22 (say the change of register, not an apology for it), Aditya's lines verbatim:
+"Feel free to take everything I say here with a giant grain of salt. I recognize that it will lose many of my readers, and possibly even retroactively harm the credibility of the book, but I feel I must say it."
+"So far some of what I've said may be familiar to some of you. Some of what follows may be less so."
+-->

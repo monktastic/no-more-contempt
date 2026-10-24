@@ -28,7 +28,7 @@ Here's a check that needs no metaphysics. Somebody cuts down a tree that has sto
 
 When I look most deeply into what I am, I find life. Not a thing I have; what's doing the looking. Whatever is looking out of your eyes right now is alive, and it's the same kind of thing that looked out of the stranger's. That is what I mean by seeing myself in others, and I mean it literally. Not that he is like me. Look for what would tell the two apart: not the faces, the histories, the stories, but what's doing the looking. I can't find anything.
 
-And, as far as I can tell, life naturally wants to serve life. That's what you felt when the stranger's wellbeing started to register without your deciding it should. Nothing was added to make that happen. It's what's there when nothing is in the way, and with nothing in the way at all it isn't neutrality. It's a fierce care for everything, even beyond the things I'd normally call "alive." Each thing has its place. A sidewalk is for walking on, and a lion eats the zebra. But there's a way of holding the world in which it's all just stuff, *who cares, none of it matters*, and this is the opposite of that. I'd call it sacred, except the word turns it into an idea, and we saw how that goes off the rails. What I mean is a perception: the one that arrived at the tree before any story did.
+And, as far as I can tell, life naturally wants to serve life. That's what you felt when the stranger's wellbeing started to register without your deciding it should. Nothing was added to make that happen. It's what's there when nothing is in the way, and with nothing in the way at all, what's there is a fierce care for everything, even beyond the things I'd normally call "alive." Each thing has its place. A sidewalk is for walking on, and a lion eats the zebra. But there's a way of holding the world in which it's all just stuff, *who cares, none of it matters*, and this is the opposite of that. I'd call it sacred, except the word turns it into an idea, and we saw how that goes off the rails. What I mean is a perception: the one that arrived at the tree before any story did.
 
 Nobody gets to that perception by merely thinking harder. Thinking can at most convince me that I *should* be oriented this way, and then I'm holding an idea again; ask almost anyone whether they're trying to serve life and they'll say of course. The orienting itself happens deeper than the intellect, and staying oriented takes a patience and honesty that no book can hand you.
 
@@ -36,9 +36,13 @@ It also explains how the knowledge in Chapter 1's trap could be common—not mer
 
 To wield contempt, we have to already know that it's evil, and that its target is redeemable: the verdict was aimed at pushing them further from the light, and nobody can be pushed from a place they aren't in. And for the message to sting, they had to read it as evil, not as harshness. So it wasn't *the good kind of darkness* I told myself it was in Chapter 1. Harshness alone would have landed like the second stranger's correction, and left my enemy a way back. Mine told him the door was closed. [TODO(Aditya): Claude's draft (key-points: the sting proves the sender knew; partly from Chapter 1's holding pen). Rewrite in your words or cut.]
 
-There is one kind of evil, and it's the turn. I don't mean this as a judgment, or about the magnitude of wrongdoing. By *evil* I don't mean damage. Damage can be an accident. I mean the not-seeing that licenses it, and every harm done while the people it touches are held out of view has it in it. Check it against the cases you'd already use the word for; I haven't found a second kind. It was never a thing some people have. It's the turn itself, and contempt is the turn made into a message, which spreads it.
+Contempt is evil. That's not a value judgment.
 
-It needn't be big. Watch what cutting in line does to you. The cost is thirty seconds. The heat is out of all proportion to thirty seconds, because what you're reacting to isn't the cost. It's the exception: somebody put you out of view to get ahead, and let you see it. The smallest evil carries a whiff of the whole, because there's nothing in it but the turn, and the turn is the same turn at any size. And it isn't the damage. The friend who forgot your birthday did more damage by most accountings than the friend who made one small cutting remark, and the remark is the one you're still thinking about a week later.
+There is one kind of evil, and it's the turn. By *evil* I don't mean damage. Damage can be an accident. I mean the not-seeing that licenses it, and every harm done while the people it touches are held out of view has it in it. Check it against the cases you'd already use the word for; I haven't found a second kind. It was never a thing some people have. It's the turn itself.
+
+It needn't be big. Watch what cutting in line does to you. The cost is thirty seconds. The heat is out of all proportion to thirty seconds, because what you're reacting to isn't the cost. It's the exception: somebody put you out of view to get ahead, and let you see it. The smallest evil carries a whiff of the whole, because there's nothing in it but the turn, and the turn is the same turn at any size. And it isn't the damage. The friend who forgot your birthday did more damage by most accountings than the friend who made one small cutting remark, and the remark is the one you're still thinking about a week later. Ask a soldier whether it's wrong to desecrate an enemy's corpse, with nobody watching. I expect a yes at once, and no answer to who's hurt. The dead man is past damage. What the yes is tracking is the turn.
+
+And contempt is the turn made into a message. **It's evil's way of spreading in secret, through people who sincerely believe they're fighting it.**
 
 Goodness is one thing too. Being turned toward, seeing yourself in others, love, goodness: all one. And since what you turn toward in yourself is what looks out of everyone, turning toward yourself and turning toward everyone are the same act. It's only the whole thing when it includes everyone. Not because partial love is fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love.
 
@@ -50,6 +54,10 @@ No amount of turning away ever produces a turning back. That's the other big lie
 
 <!--
 Holding pen.
+
+Changed October 22 (boldness: "contempt is evil" now has its own beat and check; the desecration check and Appendix 1's best sentence moved into the body), Aditya's lines as they stood:
+"I don't mean this as a judgment, or about the magnitude of wrongdoing." (now "Contempt is evil. That's not a value judgment." before the definition; size is the next paragraph's)
+"It's the turn itself, and contempt is the turn made into a message, which spreads it."
 
 Cut in round 49, Aditya's lines verbatim.
 

@@ -1,6 +1,6 @@
 # What cold readers taught us
 
-*Stateless. Two lists to run any new draft against: the sentences readers vouched for, so a rewrite doesn't lose them, and the patterns that work on readers or lose them. The letters are in `short-book/readers/` and `general-book/`; how a cold read is run is `short-book/readers/reader-brief.md`. Aditya's own points live in `../../scratch/key-points/index.md`, which this file doesn't touch.*
+*Stateless. Two lists to run any new draft against: the sentences readers vouched for, so a rewrite doesn't lose them, and the patterns that work on readers or lose them. The letters are in `short-book/readers/` (the general book's rounds 7 to 11 are at the git tag `general-book-final`); how a cold read is run is `short-book/readers/reader-brief.md`. Aditya's own points live in `../../scratch/key-points/index.md`, which this file doesn't touch.*
 
 ## The best formulations, and who vouched for them
 
@@ -57,7 +57,7 @@
 
 **What works**
 - **Ask and stop.** A question left open does more than any answer: "Why did one side have to argue, and the other not?" Every reader named the Limbo questions.
-- **The author goes first, then asks.** "I know there is in me." "What I did was dig in." Findings said as mine; then the reader looks.
+- **The author goes first, then asks.** "I know there is in me." "What I did was dig in." Findings said as mine; then the reader looks. A confession earns what an accusation can't: readers who were put in the victim's chair first sat there righteously for pages.
 - **Small, close, checkable in ten seconds.** The sigh at someone you love, the politeness with nothing behind it, the ticket machine, the ordinary day. Every recognition any reader reported was one of these.
 - **The reader's own real case, and the receiving end first.** They work harder on a memory than on a hypothetical, and harder as the target than as the sender.
 - **The cold kind.** For readers who've done work on themselves it's the form still live, and it "passes for equanimity."

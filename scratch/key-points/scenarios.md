@@ -2,7 +2,7 @@
 
 Exercises the reader runs in their own case. Each one is a recall, a question, and a place the answer is supposed to land.
 
-This file holds scenarios and nothing else. **Part 1** is the full text of the ones written out at length (the first two are used in the long book's Preface and Chapter 1; the write-off is proposed). **Part 2** is the inventory of every check in the short book, with how each fared with cold readers. Which thesis each check supports, and the order to use them in, live in `llms/claude-2026-08/general-book/plan.md`.
+This file holds scenarios and nothing else. **Part 1** is the full text of the ones written out at length (the first two are used in the long book's Preface and Chapter 1; the write-off is proposed). **Part 2** is the inventory of every check in the short book, with how each fared with cold readers. **Part 3** is which thesis each check supports, moved here verbatim from the general book's plan when that book was deleted.
 
 # Part 1: Full text
 
@@ -81,9 +81,37 @@ So the wanting you just found is a reading. It measures how far you are from see
 
 ---
 
+## From the general book (proposed)
+
+Checks that were written out only in the general book, verbatim, with where each came from.
+
+**The shark** (plan.md). "Do you feel contempt for a shark? A tornado? A rabid dog? However much harm they do, the feeling doesn't come. It comes only for someone you take to know better." / "If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. It rises." The essay's version: "You wouldn't bother saying that about a rock, or a shark. You say it about someone who could have known, and did." Both author-readers called it "the idea that would make the book matter".
+
+**The bystander** (Chapter 1, Common knowledge). "When someone treats others with contempt in front of you, do you trust them more, or less? Would you tell them something you were ashamed of?" The only check run from the bystander's seat.
+
+**Counted on** (Chapter 1, Common knowledge). "In the opening, when I asked you for a memory of doing wrong, I was counting on one thing: that you couldn't have done whatever you did while looking squarely at what you knew." / "Does it surprise you that a stranger could count on that about you?" Common knowledge shown on the reader, not asserted.
+
+**The feud** (plan.md). "recall a feud in which you later saw that you'd been reading everything they did the worst way. At the time, did it feel like reading, or like seeing?"
+
+**The rabbit hole** (plan.md). "think of someone you've watched go down a rabbit hole. Notice that every piece of counter-evidence became more proof, and that from inside it felt to them like finally seeing clearly."
+
+**The retreat** (Chapter 1, The way out). "Now picture someone going off alone for a month to reflect, and coming back having looked hard at themselves. Can you picture them saying that underneath everything, what they'd found was that they wished they could harm others more?"
+
+**The cashier** (Chapter 1, Limbo). "Picture someone who's done nothing to you, like the last cashier you spoke to, and see their face clearly. Imagine giving them a small kindness first: a real smile, a thank-you. Then a small cruelty: a sneer, a cutting remark. Did either one need a reason before it would go?"
+
+**The write-off and real indifference** (Chapter 1's holding pen). "Think of someone you've written off. Is not caring about him effortless, the way it is with a stranger on the far side of the world? Or does it take work… It takes upkeep, and real indifference doesn't: there's nothing to keep up."
+
+**The return** (Chapter 1's holding pen). "did that person look different? More like someone than they had while you were doing it?"
+
+**Deflections** (Chapter 2). "Did you plan those deflections? I didn't plan mine. Try it now with something small you'd rather not look at, and watch a reason arrive by itself."
+
+**How much of the day** (plan.md, the outline). "the expense rounded up, the email left unanswered, the tone taken with someone who couldn't answer back. 'Count yours for one day.'"
+
+---
+
 # Part 2: Inventory of every check in the short book (17 Sept 2026)
 
-*Stateless. Every place the short book asks the reader to look at something in their own experience, grouped by the six-part shape proposed for the general-reader book. For each: what the reader is asked, where it lives now, what it's evidence for, how it fared with the cold readers (five rounds, saved in `llms/claude-2026-08/short-book/readers/` and `general-book/`), and the question it leaves open. "Worked" means the reader reported finding something without being told what they'd find.*
+*Stateless. Every place the short book asks the reader to look at something in their own experience, grouped by the six-part shape proposed for the general-reader book. For each: what the reader is asked, where it lives now, what it's evidence for, how it fared with the cold readers (five rounds, saved in `llms/claude-2026-08/short-book/readers/`, and the general book's at the git tag `general-book-final`), and the question it leaves open. "Worked" means the reader reported finding something without being told what they'd find.*
 
 ### 1. Limbo
 
@@ -197,3 +225,41 @@ Not checks but what the checks are evidence for: harm requires turning away; con
 ### 6. My understanding
 
 Marked as belief: care is what awareness is; nothing tells two awarenesses apart, which is what would make the open secret exact common knowledge; the parasite, with its stated drawbacks; coordination across minds; the far end and the hostage; contempt for the world; the correspondences in Appendix 3.
+
+# Part 3: Which thesis each check supports
+
+*The working principle: land a thesis as soon as a check can carry it. IDs refer to the inventory in Part 3. "Strong" means it worked on nearly every cold reader without being told what they'd find.*
+
+**The act and the verdict are different, and kind is not nice.** 2.1 (strong), 2.7, 4.5 the extra (strong), 2.4.
+**An open secret: you knew what the first one was doing, he knew you knew, and he was relying on that.** Partly lands straight off 2.1, from the receiving end, with no theory: *could you have said what he was doing? could he have denied it? did you both know that?* Then 3.5 from the sending end, and 2.5. Readers reliably found two or three levels, never the tower, which is all the claim needs.
+**Something in me wants the verdict to land, and it isn't after justice.** 3.3 (strong), 3.7 the pill (strong), 3.8 relief or robbed (strong; the idea both authors said they'd carry), 4.3 the clip (strong), 4.2, 3.11, 3.12, 4.9.
+**It runs hot and cold, and at every size.** 3.4 (the cold paragraph is what caught the polite readers), 3.10 someone you love (strong), 4.2.
+**Limbo: knowing and not knowing at once, and the hiding is active.** 1.1 (the strongest check in the book), 1.2, 1.6.
+**The part that knows doesn't argue; the part that proves doesn't know.** 1.3 (strong), 4.6, 4.13.
+**Harm takes turning away.** 1.5 (mixed: fails for small harms unless the person is held as mattering), 4.18 (partly), 4.19, 4.17 (mixed). The weakest-supported load-bearing thesis. What it needs, so as not to beg the question:
+- *Three senses of "seeing," kept apart.* Having them in sight; modeling their mind (the con man and the sadist are good at this); and being turned toward them, where their wellbeing registers as mattering. The thesis is only about the third. Every counterexample readers raised (the sadist, the charming psychopath, "cruelty with the victim in plain view") is about the first two.
+- *Marks of the third that can be checked without knowing whether harm followed* (Appendix 3): their objection would land on you, and you'd have to answer it rather than manage it; their hurt registers as bad, the way yours does; what's in them could change what you do next. With those, the claim is empirical and could be false: nobody who meets all three toward someone harms them *at their expense, for his own sake.* That scope also handles the surgeon, the parent, and the bodhisattva captain, who cause pain while turned toward.
+- *The interruption check* (proposed, untested): "Have you ever been in the middle of being cruel, and something made you actually see them, they said your name, their face changed, a child walked in, and it stopped you?" Here the seeing comes first and the stopping follows, so it isn't circular.
+- *The receiving end, reworded*: "When someone was cruel to you, were they looking at you, or at a target?" (One reader said the dehumanizing gaze felt like being seen *too much*; "locked on" is targeting, the second sense.)
+- *The public record*, which doesn't rest on introspection at all: obedience in Milgram's experiments fell as the victim got closer; soldiers resist killing at close range and distance makes it easier (Grossman); executioners hood the condemned; atrocities are preceded by campaigns to make the victims not count as people. If harm didn't take turning away, none of that machinery would be needed.
+- *What would count against it*: someone who meets the three marks and harms anyway, for himself. The psychopathy findings (mind-modeling intact, the registering blunted) fit the thesis. Everyday sadism, where the victim's pain is felt and enjoyed, is the hardest case, and the honest answer is that it fails the second mark rather than that it doesn't exist.
+**Contempt is addressed to the very thing it denies, so it admits they're redeemable.** 2.5 (strong), 3.9, the holding argument (why keep someone turned away unless they could turn back?), and **4.25 the shark** (proposed): "Do you feel contempt for a shark? A tornado? A rabid dog? However much harm they do, the feeling doesn't come. It comes only for someone you take to know better." Then the clue: we do this to ordinary wrongdoers, who plainly could turn back, and we do the same thing with the volume turned up to the people we call monsters. If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. It rises. That's weak evidence, and only evidence of what *we* take them to be, but it's evidence. Both authors: the idea that would make the book matter, not yet planted well enough.
+**It offers itself as the good kind.** 3.6, 4.16 the license, 4.8 the cause without the contempt.
+**What you can see in someone tracks your own freedom.** 4.10 (strong), and its reverse, the tired day.
+**Love at someone else's expense isn't love.** 4.11 (strong).
+**The light is recognized, not defined, and across creed.** 2.2, 4.14, 2.9.
+**Goodness looks like one thing across people** (weak evidence, and only for goodness). 2.2 (the second catcher felt aligned with you across every difference of creed), 4.14 (you thank a stranger for a good that doesn't reach you, even one from the other side), and Part 1's "didn't it feel like you were somehow serving the same thing?" The matching claim about the darkness is *not* that it is one thing; it's that two turnings-away have nothing of their own to differ by (2.8). This can't be proved. It can be shown that the reader already half holds it, and they can be asked to see what happens when they act on it. And *what happens when you don't believe it* is not a separate check: it's the whole delivering end. Moral contempt is what disbelieving it looks like in action (*they're a different kind from me*), and the reader has already watched the results.
+**It spreads, and mostly through the audience.** 4.3 the clip, 3.11 the write-off, 4.21b two people contemptuous together (untested), 2.8.
+**The knowing grows with the harm.** 1.4, 1.4b (untested).
+**Self-contempt is the same verdict turned inward.** 1.7 (untested; asked for by two readers).
+**The turning away extends to the world.** 4.20 (mostly felt).
+
+**The seeing and the reasoning get bent** (spine thesis 26; thin in the short book, and wanted as its own section). From inside: 4.10 and the tired day; and, proposed, "recall a feud in which you later saw that you'd been reading everything they did the worst way. At the time, did it feel like reading, or like seeing?" From outside: "think of someone you've watched go down a rabbit hole. Notice that every piece of counter-evidence became more proof, and that from inside it felt to them like finally seeing clearly." The point to land: once the verdict is in, it doesn't feel like a verdict. It feels like perception.
+
+**It behaves like an agent** (agency: something that looks like it's steering). It *aims* (3.4: the look is aimed, the reaction anticipated, the evidence kept ready). It *defends itself when approached* (1.2: "any time someone came close to exposing it… you found a way to deflect. Did that happen passively?"). It *evades and adapts* (3.4: every accusation gets turned around; 4.4: the shrug arrives on cue). It *leaves no record* (2.1: nothing the first catcher said could be quoted). The long book's "The Agent" adds: it closes every road but one, and it hides *by* showing. What the reader can check is that it acts as if it had purposes.
+
+**It behaves like a parasite** (a separate set of checks: its relation to the host). Its purposes aren't the host's (4.9: when I could see the trade, more self-serving behavior for me in exchange for a darker world, I didn't want it; 3.8: robbed is not what I'd choose to feel). It hides from the host while showing itself to others (3.4; 2.1 from the receiving end). From inside it feels entirely like you. From outside it passes for the person (2.1: you took the first catcher to be *choosing* it, and that is what made you dig in). And it gains by passing: being taken for the person is what strengthens it (the loop: your verdict on them is what made them dig in). The claim isn't that it is an agent or a creature. It's that it fits both shapes so well that we're fooled about who is steering, in ourselves and in each other, and being fooled is how it keeps going.
+
+**Each one benefits from the other's.** "Benefit" is the right word where "want" isn't, and it's checkable: watch two people in a feud and see whether either comes out less sure; 4.21b; 2.8. Once that is shown for pairs and for groups, a pattern that looks coordinated from above, with nobody coordinating it, is an inference from what's been seen and not a further article of faith.
+
+**What is left as understanding rather than finding:** the old names for it (Mara, the Devil), and the traditions' claim that what they named was real; what the far end is like from inside (4.22 is a lens; 4.24 is an exercise "for those who dare"); and that care is what awareness *is*. None of the book's moral or practical claims needs the last one. They need only that turning away and evil go together in both directions, in the scoped form above. Every round of readers, practitioner and not, sorted these into a different kind from the rest. Note what is *not* on this list: that contempt is shared and amplified between people (4.21b, 4.3, 2.8) is checkable, and belongs with the findings. It's the agent-frame laid over it that belongs with the understanding.

@@ -10,9 +10,9 @@ What I saw was how I, specifically, was contributing to the horrors of the world
 
 The rest of this book is me checking what I saw, in the one place I can: my own case. Where something is only what I see, I say so.
 
-The main engine of this book is one familiar thing: *moral contempt*, the way we treat our enemies as though they were *inherently defective.* Traced carefully, I'll argue, it turns out to be a uniquely insidious expression of evil: how the darkness spreads between us while masquerading as *righteousness*.
+The main engine of this book is one familiar thing: *moral contempt*, the way we treat our enemies as though they were *inherently defective.* Traced carefully, it turns out to be a uniquely insidious expression of evil: how the darkness spreads between us while masquerading as righteousness.
 
-I know *evil* is a heavy word, and it's not meant as a judgment or attack. The book tries to earn it carefully. And it isn't an abstract idea; my hope is to help you notice whether you've been acting on a knowledge of it all along.
+I know *evil* is a heavy word, and I mean it: not as a value judgment or an attack, but as a description, and the book earns it. And it isn't an abstract idea; my hope is to help you notice whether you've been acting on a knowledge of it all along.
 
 The book is meant to be read from a settled seat; Chapter 1 especially, since it asks before it tells. If it provokes the recognition, the rest is detail.
 
@@ -24,6 +24,10 @@ May all beings be free of suffering and its causes.
 
 <!--
 Holding pen.
+
+Changed October 22 (boldness), Aditya's lines as they stood:
+"I know *evil* is a heavy word, and it's not meant as a judgment or attack. The book tries to earn it carefully."
+"Traced carefully, I'll argue, it turns out to be a uniquely insidious expression of evil"
 
 Cut October 21 (the book now opens to readers who don't sit, and these named Chapter 2's finding before its face exercise could let the reader find it; Chapter 2 says it as "a fierce care for everything"), Aditya's lines verbatim, with the reader note that sat on them:
 "The mind, left to itself, is compassionate. Evil is nothing but a mind turned away from itself." ("The rest of this book is me checking that" became "checking what I saw".)
