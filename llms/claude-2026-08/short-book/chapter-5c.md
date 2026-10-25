@@ -14,7 +14,9 @@ I trusted it the way you trusted the knowledge of always having known you'd done
 
 That Light (capitalized here because I mean more by it than Chapter 2 could show) is the thing we're all oriented to, whether we know it or not, because it's what we are. It's Home. We're used to explaining Love through selfish genes, even the stranger in Chapter 5 who dove in after somebody else's child. I don't doubt that's how a creature like him came to be able to do it. But what if what moved in him when he jumped is the thing that frameworks can't hold? Then Darwin is just the way we explain Love in our particular reality. One way or another, Love shows up in all realities, because they're ultimately made of it. Each one is just remembering in its own way. Every action we take is either a step back toward it, or away from it—and that choice doesn't just affect us, because of what I saw next.
 
-I find this part hard to reconstruct, and I hold it the way the traditions hold their stories. The description I find most resonance with comes from *A Course in Miracles*, in Kenneth Wapnick's reading; its beginning, a first lapse with no motive behind it and no one at fault, is also where the Dzogchen prayer called the Aspiration of Samantabhadra begins.
+I find this part hard to reconstruct, and I hold it the way the traditions hold their stories. The description I find most resonance with comes from *A Course in Miracles*.[^course] It begins with a first lapse, with no motive behind it and no one at fault.
+
+[^course]: In Kenneth Wapnick's reading. The same beginning opens a Dzogchen prayer, the Aspiration of Samantabhadra, which Appendix 2 takes up.
 
 At some point, for no discernible reason, there was a forgetting of what I was: a lapse, not a crime, and not a real departure either, since there's nowhere else to be. Along with it came the fear that it was real: that I had betrayed God, and lost my goodness, or never had it. That was unbearable. My only option was to hide, which I did by creating an *other* to blame and judge. If he's the bad one, I'm not. That process spiraled and got out of hand, creating the entire reality where I normally live, which is dominated by projection onto each other of this primal guilt. We now wander that reality, feeling forsaken at a level we rarely cognize.
 
@@ -60,7 +62,7 @@ As best I can tell, all the harm I've caused through my self-deception still liv
 
 The same holds the other way. No act of love done when nobody is watching is lost; it goes out by the same chains. There have been times I was about to break, about to give up on the part of me that knows, and something held, just enough. I've come to believe that some of those times, what held was someone I'll never meet, doing something decent with nobody watching. I like to tell myself that every time we do this, we give the Devil the middle finger.
 
-What let me see any of this was that I was held in the Light the whole time I was being shown. Exposed any other way, I'd have done what anyone does when their darkness is exposed with contempt: looked away. Because there is still plenty in my mind-stream that would elicit shame if it weren't held properly.
+What let me see any of this was that I was held in the Light the whole time I was being shown. Exposed any other way, I'd have done what anyone does when their darkness is exposed with contempt: looked away. Because there is still plenty in my mind that would elicit shame if it weren't held properly.
 
 I also saw, unmistakably, that I'll be back in that place one day, facing no one but myself. It's not a process that unfolds in time, so in a sense, that "one day" is already here and now. If I want to know how I'll fare when "judgment day" comes, all I have to do is face myself with full honesty right now. Which is all too easy to avoid when my belly is full and the sun's shining on my face. All the ways I distract myself are ways of avoiding *that*.
 

@@ -96,6 +96,14 @@ If a chapter can't be given an opening question from this table, it doesn't belo
 
 Chapter 16 is the terminus, and it's marked as belief. It has to do two things at once: deliver the preface's answer at full volume, and not corner the skeptic. The way it does both: the reach claim ("every last thing you do matters, witnessed or not") is stated as mine, with the reason I hold it; the check offered is only the reader's reaction to the sealed room, which is not neutral and which nobody has to interpret my way. The chooser problem (a real choice at one point, no chooser after) is held the way the parasite is held: no creature there, and treat it as if there were. Dzogchen has held both for a thousand years, and that's said as a correspondence, not an authority.
 
+## Who it's for
+
+Both books are written for the intellectual, spiritually adjacent reader: someone who reads books of ideas, is open to "soul," "darkness" and "the light" when they mean something, has done some work on themselves, and may or may not practice anything. Not a practitioner audience, and not everybody.
+
+The reader outside that circle still tells us something. In the paired round a union electrician was moved by the body as much as anyone, and lost by the apparatus: names used as warrants, a tradition's vocabulary, footnotes that told him who the book was really for. So the body is written to need no credentials. Nothing in Chapters 1 onward should send a smart reader without the background to look something up. The names, the sources and the traditions live in footnotes, the Picture, the Epilogue and the appendices, where the reader who wants them will find them. A name stays in the body only when it gives the reader something (Augustine's act with no cause; Girard and the scapegoat), never as a credential. An outside reader's objections to the body count; their objections to the apparatus don't.
+
+The book doesn't write for any tradition's comfort. Don't apply a reader's fix whose only ground is a tradition's vocabulary or allergy; do apply what's wrong on its own terms (misquotes, unsourced quotations, false back-references, real harm to hurt readers). The Devil, the conspiracy archetype and the mythic battle between good and evil are authentic perceptions, marked as such, and aren't watered down because one group dislikes them.
+
 ## Openings, first chapters and pull
 
 *From the general book's plan, verbatim. It was written for a first chapter that has since been replaced, so its section names are old; its rules hold for any version.*

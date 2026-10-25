@@ -1,6 +1,6 @@
 # Chapter 5: What You Are
 
-What is all of this turned away from? Start with why anyone turns at all. [TODO(Aditya): Claude's draft (the hand-off from Chapter 4). Rewrite in your words or cut.]
+Start with the first turn. [TODO(Aditya): Claude's draft (the hand-off from Chapter 4). Rewrite in your words or cut.]
 
 I cannot give an account of why the first turn happens, but once it does, it becomes a self-perpetuating loop. Augustine said there was no cause to find, and still called the turn an act.
 
@@ -30,7 +30,7 @@ Nobody gets to that perception by merely thinking harder. Thinking can at most c
 
 It also explains how the knowledge in Chapter 1's trap could be common—not merely shared, but something each of us can count on the other already knowing. If what's looking out of us has nothing to differ by, then to know this in yourself is already to know it in them, and to know that they know it in you, and so on. If that's right, the knowledge is exactly common; if not, it's close enough for the trap to work. Either way the trap needs it. Otherwise, there would be no violation to recognize, no hypocrisy to expose, no taunt to make land. Darkness can communicate only by borrowing the light as common ground.
 
-So nothing in the encounter belonged to a separate thing called the darkness. Everything doing anything, the sending, the hiding, the reading, the answering, is the light: one faculty, in two bodies, turned against itself in one of them. The message that denies the sameness is made of the sameness, and nothing else could receive it. [TODO(Aditya): from Appendix 1's belief section, with the capital dropped, since this chapter doesn't mark the tier the capital needs.]
+So nothing in the encounter belonged to a separate thing called the darkness. And the care I called the light turns out to be more than a feeling: everything doing anything, the sending, the hiding, the reading, the answering, is the light, one faculty in two bodies, turned against itself. The message that denies the sameness is made of the sameness, and nothing else could receive it. [TODO(Aditya): from Appendix 1's belief section, with the capital dropped, since this chapter doesn't mark the tier the capital needs.]
 
 Goodness is one thing too. Being turned toward, seeing yourself in others, love, goodness: all one. And since what you turn toward in yourself is what looks out of everyone, turning toward yourself and turning toward everyone are the same act. It's only the whole thing when it includes everyone. Not because partial love is fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love.
 

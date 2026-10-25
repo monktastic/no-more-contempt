@@ -10,9 +10,9 @@ There is one choice, and it's real; it just never comes under that name. While y
 
 Go back to the turns you've watched: mine in Chapter 1, and yours when your enemy's face came up. Notice four things about what was doing them.
 
-Did it feel like you, afterward? For me it didn't. While it had you it felt entirely like you. But the clean moments, the ones with no story and nothing to hide, were the ones that felt most like yourself, and the moment with the verdict in it was the one you'd rather not own.
+Did it feel like you, afterward? For me it didn't. While it had you it felt entirely like you. But the clean moments, the ones with no story and nothing to hide, were the ones that felt most like yourself, and the moment with the verdict in it was the one you'd rather not own. If it did feel like you, ask it another way: in your most honest moment, is that who you want to be? [TODO(Aditya): your question from chat, in place of the hot-or-cold sentence.]
 
-Did you want what it made? Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
+You didn't want what it made. Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
 
 It hid itself. It aimed the verdict, anticipated the reaction, and prepared to use it, and it did all of that out of my sight while showing itself to him. When I did glimpse it, it told me it was a weapon I could turn on him. It got stronger when I came close to catching it. Hiding was its whole job.
 
@@ -30,9 +30,9 @@ I'll also grant it a goal, in the one sense I've earned. When I can predict a th
 
 This picture has real drawbacks, and you should know them. A name for an affliction easily turns into a character, and then the character has to be fought, and fighting something in your own mind is mostly a way of not looking at it. It also hands people a new thing to call each other: "that's your parasite talking" is contempt in a fresh coat. And it can be used as an excuse. 
 
-I keep it anyway: the alternatives end the looking. If a different picture works better for you, use yours. And if you practice in a tradition that calls things empty, notice that this has exactly the kind of existence you grant everything else, yourself included. Empty was never a reason to stop taking something seriously.
+I keep it anyway: the alternatives end the looking. If a different picture works better for you, use yours.
 
-In the Mahayana's terms it isn't "ego" in the everyday sense, a big personality. It's closer to self-cherishing: the mind that counts itself as the one exception. The parasite is that mind defending its exception, and contempt is the defense at full volume.
+It isn't "ego" in the everyday sense, a big personality. It's the mind that counts itself as the one exception. The parasite is that mind defending its exception, and contempt is the defense at full volume.
 
 ---
 
@@ -47,7 +47,7 @@ Which also says what you're feeling when you feel contempt for someone who did w
 
 ---
 
-I cannot give an account of why the first turn happens, but once it does, it becomes a self-perpetuating loop. Dzogchen and Mahamudra call that first not-recognizing *marigpa*, the mind's plain failure to recognize its own nature. They say there's no account to give, and that it was nobody's act; Augustine agrees there's no cause to find, and still calls the turn an act.
+I cannot give an account of why the first turn happens, but once it does, it becomes a self-perpetuating loop. Augustine said there was no cause to find, and still called the turn an act.
 
 Here is what keeps the loop going. You turn away from someone because you suspect, below words, that care might *not* be what you are. If you knew it was, you'd have nothing to prove and nobody to prove it against. The suspicion is what makes goodness feel like something you have to earn, and you can only be good *relative* to someone worse. So as long as you don't feel at home, you can't afford to let anyone else get there. You're *forced* to keep them out, because if they arrived you'd lose the only proof you had. 
 

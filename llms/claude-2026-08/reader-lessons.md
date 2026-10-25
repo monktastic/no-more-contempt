@@ -19,6 +19,8 @@
 - "Present enough to plant the evidence, absent enough not to recognize it as planted." (Chapters 1 and 2. Quoted by every reader; one reader's friend had it by heart.)
 - "We try to bury it, but that gets read too." (Chapter 1. The hiding is the revealing, in eight words.)
 
+- "I'm just another person who knew what was right, decided it was negotiable, and then looked for someone worse than me to prove I wasn't so bad after all." With it, "I treat it like an advisor offering an opinion, which I can weigh against other practical concerns and set aside if the price is right. / But it's not an advisor." (General book, Chapter 1, the passage before its close. Quoted as a carry-out line in nearly every round from 26 to 41, by readers of every kind. The full passage is in `general-book/chapter-1.md`, restored, and the git tag `general-book-final`.)
+
 **Why it spreads and the alibi doesn't**
 - "The darkness leaks out of my skull, empowering his, because its meaning is universal. My justifications, on the other hand, are believable only to me (and my allies)." (Chapter 1. The clearest reason in the repo for the asymmetry.)
 - "It's the same trick he used to enable whatever bad thing *he* did. The darkness never feels 'wrong' when *we* do it. Even the worst person experiences theirs as *right*." (Chapter 1. How he recognizes it: it's his own trick.)

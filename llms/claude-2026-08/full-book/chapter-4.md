@@ -2,9 +2,9 @@
 
 Go back to the turns you've watched: mine in Chapter 1, and yours when your enemy's face came up. Notice four things about what was doing them.
 
-Did it feel like you, afterward? For me it didn't. While it had you it felt entirely like you. But the clean moments, the ones with no story and nothing to hide, were the ones that felt most like yourself, and the moment with the verdict in it was the one you'd rather not own.
+Did it feel like you, afterward? For me it didn't. While it had you it felt entirely like you. But the clean moments, the ones with no story and nothing to hide, were the ones that felt most like yourself, and the moment with the verdict in it was the one you'd rather not own. If it did feel like you, ask it another way: in your most honest moment, is that who you want to be? [TODO(Aditya): your question from chat, in place of the hot-or-cold sentence.]
 
-Did you want what it made? Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
+You didn't want what it made. Look at the trade it offered: more self-serving behavior for me, in exchange for a darker world. The flicker of satisfaction, and in return the enemy hardened, the allies taught, the kid watching. When I could see the trade, I didn't want it.
 
 It hid itself. It aimed the verdict, anticipated the reaction, and prepared to use it, and it did all of that out of my sight while showing itself to him. When I did glimpse it, it told me it was a weapon I could turn on him. It got stronger when I came close to catching it. Hiding was its whole job.
 
@@ -57,4 +57,4 @@ This is, I think, where the "evil global conspiracy" archetype comes from. Peopl
 
 The license comes at the scale of a team too. When the other party looks to me like a conspiracy, I'm half right: the same hidden state really is operating through them. What I feel then is the presence of evil in a whole group of people, and my side takes the license. What I don't see is that the license goes to the same thing in us. When we use it, we become the coordination I was sensing in them. That's my look at the size of a crowd: we're only "fighting evil," and how could that ever be wrong? The feeling of being the noble one fighting the evil conspiracy *is* the conspiracy. [TODO(Aditya): the sentence before your key-point is Claude's.]
 
-Every turn in this chapter, mine and his, the room's and the country's, was a turn away from something. What? [TODO(Aditya): Claude's draft (Chapter 4's closing question, now that the Devil and the wetiko close have moved to the Picture after Chapter 7). Rewrite in your words or cut.]
+Every turn in this chapter, mine and his, the room's and the country's, was a turn away from the light. Why would anyone turn from it at all? [TODO(Aditya): Claude's draft (Chapter 4's closing question, now that the Devil and the wetiko close have moved to the Picture after Chapter 7). Rewrite in your words or cut.]

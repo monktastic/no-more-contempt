@@ -11,7 +11,7 @@ Have you ever done something you knew was wrong at the time, but couldn't fully 
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
-If it felt like something you'd always known, "unconscious" is the wrong word for it, though it's the one we like to use. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a strange kind of limbo, in which you simultaneously knew and yet somehow didn't.
+We like to call such knowledge "unconscious," but what you just recalled wasn't. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a strange kind of limbo, in which you simultaneously knew and yet somehow didn't.
 
 Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? If so, notice how intentional behavior can take place in limbo, too. You know you're in limbo, and you don't.
 
@@ -23,7 +23,7 @@ Why did one side have to argue, and the other not?
 
 Now imagine doing the same thing without any justifications. Could you have? If it's too far back to tell, try it in imagination with something small: picture someone in front of you, fully in view, and see whether you can bring yourself to use them.
 
-And the reverse. You know the feeling of remorse: that sickening sense of having gone against yourself. Have you ever felt it over something you did out of decency? Can you imagine anyone feeling it in reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature? When I thought I'd found one, it turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish. If yours held up, I'd like to hear it.
+And the reverse. You know the feeling of remorse: that sickening sense of having gone against yourself. Have you ever felt it over something you did out of decency? Can you imagine anyone feeling it in reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature? If you think you have, look at what it was made of. Mine turned out to be something else: regret that it cost me, anger at being taken advantage of, guilt at breaking a rule I was raised on, or feeling foolish.
 
 One more thing about that memory. When you finally admitted it to yourself, how did you hold yourself? The most common contempt of all is the one we aim at ourselves: *you are what you did.* It feels like accountability, but it's a verdict, *this is all you are*, pointed inward, and it does what that verdict always does: it makes the part of you that did wrong dig in and hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it.
 
@@ -46,11 +46,11 @@ Now imagine a different stranger had caught you—but instead of treating you wi
 
 Would you have dug in?
 
-The problem wasn't being caught. In fact, he could have been *harsher* than the first person—said things that stung more, in front of more people, left you less room to wriggle out—and it still wouldn't have triggered the digging-in response.
+The problem wasn't being caught. In fact, he could have been *harsher* than the first person—said things that stung more, in front of more people, left you less room to wriggle out—and it still wouldn't have made you dig in the way the first one did.
 
 It's like he was reminding you of something: that *you're better than this*. The opposite of what the first stranger was doing: claiming that *this is all you are*.
 
-I had one once. The person who corrected me best was a teacher who caught me stealing. His look was fierce, and I braced for the verdict, and it never came. He was searching my face for some sign that I knew, and that made me look for it in myself. [TODO(Aditya): your words from brief.md, placed here on Fable's suggestion; "I had one once" is the join.]
+I had one once. The person who corrected me best was a teacher who caught me stealing. His look was fierce, and I braced for the verdict, and it never came. He was searching my face for some sign that I knew, and that made me look for it in myself.
 
 You might have disagreed with him on nearly everything—politics, religion, creed—and it wouldn't have mattered. Whatever he was standing up for wasn't *his*. It wasn't a rule, or a side. It was something you were already on the side of, and he was only reminding you.
 
@@ -151,7 +151,7 @@ He knows it's true, and I *know* he knows it, and he knows that too. That was hi
 
 There is no specific wrong to point at. The look is the deed. And because what it means is already known to both of us, it needs no words. It can be carried entirely by gaze and tone, which have the benefit of being unquotable.
 
-I am in limbo about provoking him, and revealing that I am in limbo is itself the provocation. The signal is the pretense that there is no signal. (Appendix 1 lays out the formal structure.)
+I am in limbo about provoking him, and revealing that I am in limbo is itself the provocation. The signal is the pretense that there is no signal. (If the recursion tickles you, Appendix 1 takes it apart step by step.)
 
 My claim that I'm a *better kind of thing* is maddening precisely because some part of both of us knows it's false. It works because we are the *same* kind of thing—beings who must *turn away* to cause harm.
 
@@ -163,7 +163,7 @@ I never think, *he turned from his better nature, good.* Whatever he does while 
 
 Now notice where my signal lands. 
 
-Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. For me it was never just my pride; an insult to my pride is easier to shrug off. It reached further in, for the *me* that knows I count: the same one I'd have to turn away from to harm someone, and the same one the second stranger was speaking to.
+Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not just your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the second stranger was speaking to.
 
 **Love and contempt are addressed to the same place.** One says *I know you're in there.* The other says *there's nobody in there*, and they both say it to the somebody who is.
 
@@ -181,11 +181,11 @@ And then, finally, the truth: I needed others to carry the darkness I was hiding
 
 I was knowingly smothering his innocent part—a part that, for all I knew, could still be rescued. And I felt a flash of satisfaction when I got away with it. There was nothing I could do to deny it. It had been there the whole time; I had just been turned away from it.
 
-It's hard to describe the pain when I first saw it clearly. *Malevolent* isn't too strong a word for my state in the moment it happened—because, in a certain sense, it was. And yet, in another sense, it was utterly innocent. I was deeply confused, and in that confusion, allowed myself to take it out on him.
+It's hard to describe the pain when I first saw it clearly. *Malevolent* isn't too strong a word for my state in the moment it happened—because, in a certain sense, it was. And yet, in another sense, it was utterly innocent. Not blameless: I mean that nothing at its root wanted harm for its own sake. The part of me that can't harm anyone for no reason was still there; it had to be fooled first. I was deeply confused, and in that confusion, allowed myself to take it out on him.
 
 That in no way excuses me. I know I'm still fully responsible for all the harm I've caused from this confusion. But it did show me a new way to relate to others.
 
-I now think that "pure evil" is this error at maximum intensity—where "othering" has reached its zenith, and feels maximally righteous. It looks intentional, just as mine did, because in an important sense, it is. The horror is right there for them to see, the way mine was for me and yours was for you, but they are turned away from it as far as a mind can turn. Innocent at the root, and fully responsible, the way I was.
+I now think that "pure evil" is this error at full strength, where the other person has become a different kind of thing entirely and it feels more righteous than ever. It looks intentional, just as mine did, because in an important sense, it is. The horror is right there for them to see, the way mine was for me and yours was for you, but they are turned away from it as far as a mind can turn. Innocent at the root, and fully responsible, the way I was.
 
 It must be fought, with everything I have. But when I do it with contempt, I now see what I'm doing: using the other person as cover for my own darkness to seep into the world, undetected.
 
@@ -198,9 +198,9 @@ Go back to the memory at the start, to the knowledge you hadn't *let yourself* k
 
 What you hid it from is what you call "I" when nothing is being hidden. I've called my better nature a part until now, but it's what's left when the hiding stops. I'm not claiming there's a thing in there you could point to. Only that this is what the hiding was from, and what my contempt was aimed at in him. I never had to produce the care. It was there until I turned from it, and the turning was all I did.
 
-When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me.[^clancy] What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. 
+When I'm sure someone was fully aware of what they were doing, I've made them a villain. When I'm sure they had no idea, I've made them a machine. Either way, they're a different kind of thing from me.[^split] What I find hard to hold is what I found in my own memory: that they knew, but didn't let themselves feel the weight of what they knew. 
 
-[^clancy]: The case of Lindsay Clancy, the Massachusetts mother charged in the deaths of her three young children in 2023, split people along this line almost overnight. Much of what I read said monster, feed her to the woodchipper; much of the rest said illness, with nothing of her in it. I don't know what happened in her, and this isn't a verdict on it. The point is how fast each side knew, and how each needed the other's answer to be the only alternative.
+[^split]: Watch the next terrible crime in the news split people along this line, sometimes overnight. Much of what you'll read says monster: feed them to the woodchipper. Much of the rest says circumstances, with nothing of them in it. Each side knows at once, and each needs the other's answer to be the only alternative. [TODO(Aditya): Claude's draft (the Clancy case cut at your word, October 24; the split kept, as something the reader can watch for). Rewrite in your words or cut.]
 
 If darkness were an essence, I'd be right to be afraid of it, and ashamed, and I'd have to keep proving it's in others and not in me. But if it's something I *do*, then I can stop.
 
@@ -241,19 +241,23 @@ Contempt passes on something dark, and it doesn't stop at them. Try and get a fe
 ---
 ## The Orientation
 
-So what is it that two people who agree on nothing can both be serving? Not a definition of good. We may never agree on one, and we don't need to. The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, in limbo, the badness woven into it. Which suggests there's something we serve that transcends sides. It's an orientation. The part that knew without arguing was pointed in it, and so was the second stranger when he pointed you back. Meanwhile, the part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove that it isn't.
+The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, on some level, the badness woven into it.
 
-If I had to name the orientation, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. So hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
+Which suggests there's something we serve that transcends sides. Not a definition of good. We may never agree on one, and we don't need to. It's an orientation. The part that knew without arguing was pointed in it, and so was the second stranger when he pointed you back. It's something we already trust in each other, beneath our differences.
 
-This inability to define goodness isn't a flaw. Any time I define it, I give myself something to follow instead of orienting, which is what I did to my enemy. It's also why I can't prove to you that such an orientation even exists. All I can do is invite you to remember the part of you that already knows it.
+If I had to name it, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. So hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
+
+This inability to define goodness isn't a flaw. Any time I try to define it, I give myself something to blindly follow instead of orienting, which is what I did to my enemy. The part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove that it isn't. This is why I can't prove to you that a shared orientation even exists. All I can do is invite you to remember the part of you that already knows it.
 
 Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it.
-
+ 
 ---
 
 <!--
 
 Holding pen.
+
+Cut October 24 (readers: reported postpartum psychosis, the one case where "had no idea" may simply be true, hung under "they knew"; Aditya: cut her example, keep the split), Aditya's footnote verbatim: "The case of Lindsay Clancy, the Massachusetts mother charged in the deaths of her three young children in 2023, split people along this line almost overnight. Much of what I read said monster, feed her to the woodchipper; much of the rest said illness, with nothing of her in it. I don't know what happened in her, and this isn't a verdict on it. The point is how fast each side knew, and how each needed the other's answer to be the only alternative."
 
 Replaced October 18 by the fuller self-contempt passage from kept-from-old-chapters, Aditya's short form from October 11:
 "If what you've found makes you want to call yourself names, hold off. That's another way to hide. Nobody ever looked honestly at something in themselves while being told they were worthless for having it."
