@@ -4,6 +4,24 @@ Evil must be fought, with everything I have. But when I do it with contempt, I n
 
 The problem is, it's never truly undetected. The great lie we tell ourselves is that it is.
 
+When I'm the first stranger, something in me knows the harm I cause my enemy won't stop with him. That he's likely to carry his corrupted state into the world, making it a slightly worse place. Check if you know this yourself—whether someone treated with contempt is more or less likely to cheat, steal, and generally make exceptions for himself. And how that's likely to affect anyone who witnesses his behavior.
+
+The part of me that computes whether my behavior is "good" or "bad" won't see any of this. And that is a *motivated* ignorance, because part of me absolutely does know it.
+
+There's no clear boundary where the effects of my actions end. They diffuse into the environment in subtle ways I can't track. Of course, each person they touch (including my enemy) has his or her own choice in how to respond. But I make one direction more likely.
+
+In that sense, my contempt subtly, imperceptibly, darkens *the world as a whole*. This is true whether I feel it *at* my enemy who's present, or just *about* them in the presence of others.
+
+When that darkened world is reflected back to me, notice what happens. When I see people lying, cheating, and stealing, what am I likely to feel for them? Am I likely to reflect on how my own behavior has influenced the conditions that made such behavior more likely? Or will I just see them as inherently flawed, unlike myself?
+
+The form their evil takes may look nothing at all like mine. That's why I never recognize it as the same thing, or in any way connected to my own behavior.
+
+Here's another way of looking at it. I never tolerate contempt from others, even when I know I've done wrong. So I can only do it to others by making an exception for myself. Why, then, am I surprised when they turn around and use it to license their own kinds of exceptions? (The answer, of course, is that I'm not. It is, in a sense, the point.)
+
+In Chapter 1, I said the deepest layer of limbo was seeing that I needed others to carry the darkness I hid from myself. The hardest part to see was this: I knew I wasn't just making my enemy worse. I knew I was making the *world* worse, to provide cover for my own darkness.
+
+[TODO(Aditya): the eight paragraphs above are yours, moved here from Chapter 2 on October 27, so that Chapter 2's last question stays open (three of six readers asked for it). Changed: "But when" to "When"; "*for* them" to "*about* them" (all six tripped on "for"); "In the last chapter" to "In Chapter 1." They overlap what follows; merge: "The harm doesn't stop at him" (your first paragraph here), "diffuses into the world, with no clear boundary" (your third), "Now turn it around" (your "darkened world is reflected back"), and this chapter's opening sentence (your last). Chapter 2 also has "The greatest lie ever told," two pages before this chapter's "great lie." Chapter 2's opening now carries the first step of the spread (the oil executive), so two more lines here are echoes of it: the check in your first paragraph ("whether someone treated with contempt is more or less likely to cheat, steal…"; Chapter 2: "Does that make a person *more* likely to lie, cheat, and steal, or less?") and "each person they touch… has his or her own choice in how to respond" (Chapter 2: "People still have a choice in how to respond"). What's new here is the witnesses and the distance.]
+
 The harm doesn't stop at him. It passes to the next stranger he won't give the benefit of the doubt, and to the kid who watches him do it. What gets passed along is the turning away behind my look, and the permission it gives. And I send it *about* people, to my allies, with nobody's face in view. Most of all, I do it on social media. Everyone in the conversation learns that the verdict is safe to hold, and leaves a little more practiced at it.
 
 Little of my contempt is for the "bad people" at all. It goes to people I've decided are stupid, or crazy, or weak, or slow: the coworker who doesn't get it the third time, the relative who believes something ridiculous. They've harmed nobody. The verdict is the same one, *this is all you are*, and the cover is better. With a wrongdoer I tell myself I'm fighting evil. Here I tell myself I'm only being accurate, and I may be: they may really be wrong, or slow. But being right about what someone can't do doesn't call for the eye-roll, or the sigh, or the need to be above them. Something in me is constantly sensing who it's safe to treat this way.

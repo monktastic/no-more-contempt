@@ -122,7 +122,7 @@ And that lie is exactly what lets it leak out my eyes, provoking my enemies into
 ---
 ## The Need
 
-The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. Check if that's true of you, too. In that sense, it is the deepest part of me. Call it my *better nature*. It needs no rules; it's the part of me that sees myself in others. And when I see myself in them, it's much harder to harm or use them for my own ends. I must *turn away* from it to do act that way.
+The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. Check if that's true of you, too. In that sense, it is the deepest part of me. Call it my *better nature*. It needs no rules; it's the part of me that sees myself in others. And when I see myself in them, it's much harder to harm or use them for my own ends. I must *turn away* from it to act that way.
 
 Part of what it sees in others is that this is true of them, too. But when I'm turned away, I stop seeing this. I see them as defective. But the perception of our similarity never truly disappears. It just goes into limbo, so that it *feels* like I don't see it. The state the "bad people" are in when they cause harm, the one you were in when you did wrong, and the one I was in to do this to my enemy are the same in essence, if not degree.
 
@@ -163,9 +163,9 @@ It wouldn't work unless we both already know we're the *same* kind of thing—be
 
 And look at what our sameness means. Not that we agree about what's good; we don't. It's that we both know how to *orient* toward goodness, and that turning away from that part of ourselves means we're up to no good.
 
-I never think, *he's turned away from his better nature, what he does will be good for the world.* On the contrary, whatever he does while turned toward it—as the second stranger was—I trust to be aimed at the good, even when it misses.
+I never think, *he's turned away from his better nature, what he does will be good for the world.* On the contrary, whatever he does while turned toward it—as the second stranger was—I trust to be aimed at the good, even when it misses. So he doesn't have to read my thoughts to know I'm being deceitful. He just has to see that I'm turned away from the part of me that knows—and that shows up in my eyes.
 
-He doesn't have to read my thoughts to know I'm being underhanded. He just has to see that I *am* listening to my thoughts—because my better nature doesn't have to argue.
+Underneath the argument, we were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it.
 
 ---
 
@@ -220,17 +220,9 @@ What you said went to the same place my look went in my enemy, and it said the o
 ---
 ## The Orientation
 
-The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, on some level, the badness woven into it.
+The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, on some level, the badness woven into it. This suggests there's something we serve that transcends sides. 
 
-Which suggests there's something we serve that transcends sides. Not a definition of good. We may never agree on one, and we don't need to. Goodness is an *orientation*. The part that knew without arguing was pointed in it, the second stranger was when he pointed you back, and we instantly knew the first stranger wasn't. It's something we already trust in each other, beneath our differences.
-
-If I had to name that orientation, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself. I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. So hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
-
-This is why I no longer see our inability to define goodness as a flaw. Any time I try to define it, I give myself something to blindly follow instead of orienting. And the worst part is, it never feels blind. I can literally prove I'm doing the "right" thing, and follow that certainty arbitrarily far off the rails, never realizing that I'm lost. I only see it in retrospect. Not because there was no way of knowing, but because I wasn't *looking.*
-
-This is also why I can't prove to you that a shared orientation even exists. All I can do is invite you to remember the part of you that already knows it.
-
-Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it.
+But what is it?
 
 ---
 
@@ -239,7 +231,12 @@ Holding pen (full book, Chapter 1).
 
 Still out, verbatim:
 
+The Orientation's last two sentences, out October 27 (all three readers who had The Orientation heard them as a sermon; the condensed book keeps them): "That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it."
+
 "And how better to make him carry it than to show him that I was doing it, while hiding it from myself?" (the scapegoat layer's second sentence; Dana read it twice)
 
 Replaced by the condensed book's Orientation on October 26: "Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. / Not a definition of good. We may never agree on one, and we don't need to. / What is it that two people who agree on nothing can both be serving?"
+
+TODO: Integrity and told myself nobody was watching. But someone always was: me.
+
 -->
