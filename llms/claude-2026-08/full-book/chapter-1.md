@@ -83,7 +83,7 @@ And there he goes, accusing me of it! Not in words, but his eyes are saying: *Do
 
 It's too late to turn back now. If I were exposed, he would see that I'm a fraud. That I know *exactly* how people can act in harmful ways and feel a-okay with it, simply by hiding it from themselves—because I'm doing it to him right now.
 
-I have no choice but to plow ahead. He's *bad*, dammit. I have nothing to feel bad about. Nothing I could have done could have helped a person like this anyway.
+I have no choice but to plow ahead. He's *bad*, dammit. I have nothing to feel bad about. Sure, it may be a bit dark, but it's the *good* kind of darkness—the kind that fights the real kind!
 
 Yet for some reason, this only makes him more defiant...
 
@@ -122,25 +122,25 @@ And that lie is exactly what lets it leak out my eyes, provoking my enemies into
 ---
 ## The Need
 
-The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. Check if that's true of you, too. In that sense, it is the deepest part of me. Call it my *better nature*. It needs no rules; it's the part of me that sees myself in others. And when I see myself in them, it's much harder to harm or use them for my own ends. I must *turn away* from it to act that way.
+The reason I don't have to argue myself into doing the right thing is that in the absence of justifications or fears, it's what I naturally desire. Check if that's true of you. Call that deepest part of ourselves our *better nature*. It needs no rules; it's the part of me that sees myself in others. When I can see myself in them, it's much harder to harm or use them for my own ends. That's why I must *turn away* from it to cause harm.
 
-Part of what it sees in others is that this is true of them, too. But when I'm turned away, I stop seeing this. I see them as defective. But the perception of our similarity never truly disappears. It just goes into limbo, so that it *feels* like I don't see it. The state the "bad people" are in when they cause harm, the one you were in when you did wrong, and the one I was in to do this to my enemy are the same in essence, if not degree.
+Part of what it sees in others is that they, too, can only cause harm by *turning away*. But when I turn away from my own, other people look defective, as if they were just bad. Harming them then feels okay. The perception of our similarity never truly disappears, but only goes into limbo, so that it *feels* like I don't see it.
 
-If you've ever been on the receiving end of a dehumanizing gaze, could you feel the sense in which the other person was somehow absent or "turned away" from himself? What were they turned away *from*? Why would they have to turn away from anything, if what they are is essentially bad?
+This is the same state the *bad people* are in when they do wrong. Have you ever been on the receiving end of a dehumanizing gaze? Could you feel the sense in which the other person was somehow absent or "turned away" from himself? What were they turned away *from*? Why would they have to turn away from anything, if what they are is essentially bad?
 
-But part of me refuses to believe I'm anything like the *bad people*. I need their behavior to come from something I don't have: some alien quality called "evil" that I could never hope to understand, only valiantly fight. To me, it doesn't feel like a need, but the truth: I can literally *see* the darkness in their eyes, and it's just what they *are*. What I don't see is that I can only believe this while turned away myself—and that in that state, I look like that too.
+But part of me refuses to believe I'm anything like the *bad people*. I need their behavior to come from something I don't have: some alien quality called "evil" that I could never hope to understand, only valiantly fight. It doesn't feel like a need, but the truth: I can literally *see* the darkness in their eyes, and it's just what they *are*. What I don't see is that I can only believe this while turned away myself—and that in that state, I look like that too.
 
-Except that's not entirely true: part of me *does* know I look like that. I'm just hiding it from myself because of what it accomplishes.
+But that's not entirely true: part of me *does* know I look like that. I just hide it from myself because of what it accomplishes.
 
-My enemy sees I'm turned away, even though I don't. *Because* I don't. And he sees it as *evil*, for the same reason I see him that way. My look shows him, through my tone and my gaze, that the darkness I see in him lives in me too, and that I can use it against him and get away with it. And it doesn't look like an accident to him—because it isn't. 
+My enemy sees I'm turned away, even though I don't. *Because* I don't. And he sees it as *evil*, for the same reason I see him that way. It shows him, through my tone and my gaze, that the darkness I see in him lives in me too, and that I can use it against him and get away with it. It doesn't look like an accident to him—because in a way, it isn't. 
 
-Notice how my stories kept changing, but my conclusion never did. When he saw through one, the next was ready. When he called me on it I wasn't embarrassed or confused, as I would be if it were unconscious. Something tracked his reactions and steered around them, the same way yours did, if you deflected when someone came close to revealing it.
+Notice how my stories kept changing, but my conclusion never did. When he saw through one, the next was ready. When he called me on it I wasn't embarrassed or confused, as I would be if it were truly unconscious. Some part of me was tracking his reactions and steered around them, the same way yours did, if you deflected when someone came close to revealing it.
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient. Plain malice might frighten you. This maddens, because it's malice that won't admit what it is.
 
-It was intentional and consciously accessible, just done in limbo. I had to be present enough to plant the evidence, and absent enough not to recognize it as planted. This nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me craves.
+It was intentional and consciously accessible, just done in limbo. I couldn't have held against him evidence I knew I'd planted. I had to be present enough to plant it, and absent enough not to recognize it as planted. This nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me craves.
 
-This is how my need to be different and special gets itself met: by revealing itself to my enemies while hiding itself from me, turning them into what it needs them to be.
+This is how my need to be different and special gets itself met: by revealing itself to my enemies while hiding itself from me, it turns them into what it needs them to be while I get to feel righteous for it. Part of me knows that this self-deception is the same basic trick they use to do wrong, and I prevent myself from seeing it in the same way they do.
 
 I desperately want to call this behavior _unconscious_ (if I can admit to it at all). Only *bad people* consciously cause harm. Whenever I do it, it's an honest mistake, or else I didn't really know. That's why I deserve understanding, and they deserve contempt.
 
@@ -149,21 +149,21 @@ I desperately want to call this behavior _unconscious_ (if I can admit to it at 
 
 Look at what this trap needed to work.
 
-Part of me had to recognize our similarity: that he has a better nature I could push him away from in the first place, that he would recognize my tone and gaze as signs of me being turned away from mine, and that this would license him to depart from his.
+Part of me had to recognize our similarity: that he has a better nature I could push him away from, that he would recognize my tone and gaze as me being turned away from mine, that this would license him to depart from his, and that I could use it against him because it was hidden from myself. At some level, we all know that this is how it works.
 
 It's as if I'm saying to him:
 
-> *I know exactly how you cause harm, because I'm making you watch me do it to you **right now**. But I'll get away with it—because I'm only "fighting evil," and how could that ever be wrong?*
+> *I know exactly how you cause harm, and I'm making you watch me do it to you **right now**. And we both know I'll get away with it—because I'm only "fighting evil," and how could that ever be wrong?*
 
-It's like a silent communication taking place *beneath* the words—one we both know is happening, but that neither of us can prove. He can't name it without sounding unhinged, because it's all plausibly deniable, *even to myself.* That's part of the trap.
+It's like a silent communication taking place *beneath* the words—one we both know is happening, but that neither of us can prove. He can't name it without sounding unhinged, because it's plausibly deniable, *even to myself.* That's part of the trap. There is no specific wrong to point at. The look is the deed.
 
 I am in limbo about provoking him, and revealing that I am in limbo is itself the provocation. (If the recursion tickles you, see Appendix 1.)
 
-It wouldn't work unless we both already know we're the *same* kind of thing—beings who must *turn away* to cause harm. That's how such a complex message can be carried entirely by gaze, tone, and manner. My claim that I'm a *better kind of thing* is maddening precisely because on some level, we both know I'm lying.
+It wouldn't work unless we both already know we're the *same* kind of thing—beings who must *turn away* to cause harm. That's how such a complex message can be carried entirely by gaze, tone, and manner, which have the benefit of being unquotable. My claim that I'm a *better kind of thing* is maddening precisely because I'm showing him I'm lying.
 
-And look at what our sameness means. Not that we agree about what's good; we don't. It's that we both know how to *orient* toward goodness, and that turning away from that part of ourselves means we're up to no good.
+And look at what our sameness means. Not that we agree about what's good (we don't), and not that we're equally culpable (we're not). It's that we both know how to *orient* toward goodness, and that turning away from that part of ourselves means we're doing something we know to be wrong.
 
-I never think, *he's turned away from his better nature, what he does will be good for the world.* On the contrary, whatever he does while turned toward it—as the second stranger was—I trust to be aimed at the good, even when it misses. So he doesn't have to read my thoughts to know I'm being deceitful. He just has to see that I'm turned away from the part of me that knows—and that shows up in my eyes.
+I never think, *he's turned away from his better nature, what he does will be good for the world.* But whatever he does while turned toward it—as the second stranger was—I do trust to be aimed at the good, even when it misses. So my enemy doesn't have to read my thoughts to know I'm being deceitful. He just has to see that I'm listening to them instead of to my better nature—and that shows up in my eyes.
 
 Underneath the argument, we were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it.
 
@@ -179,21 +179,21 @@ Not everyone defies it. A rival refuses it, and the refusal hardens him. A child
 
 I was speaking directly to the part of my enemy that I claim didn't exist—his better nature—and letting him know that I could see it, and that I was free to smother it.
 
-I've laid this all out as an argument, but for me it wasn't one. I saw it in myself the way you found your wrong in the opening: as something I had always known, but hadn't let myself know. And for me, it was revealed in layers—levels of increasingly subtle limbo.
+I've laid this all out as an argument, but for me it wasn't one. I saw it in myself the way you found your wrong in the opening: as something I had always known, but hadn't let myself know. It was revealed in layers—levels of increasingly subtle limbo.
 
-On the surface, it felt entirely righteous: I was just putting a bad person in his place. Underneath that was something less noble: I was wielding my own darkness to do so—but it was still "for the greater good." Another layer, and I recognized it as good old-fashioned vengeance: I wanted him to *suffer,* but in a way that nobody could accuse me of.
+On the surface, my behavior felt entirely righteous: I was just putting a bad person in his place. Underneath was something less noble: I was wielding my own darkness to do so—but it was still "for the greater good." Then I recognized it as good old-fashioned vengeance: I wanted him to *suffer,* but in a way that nobody could accuse me of—not even myself.
 
-And then, finally, the truth: I needed others to carry the darkness I hid from myself, and he was an ideal victim because of what he had done.
+And then, finally, the truth: I needed him to carry the darkness I hid from myself. He was an ideal victim because of what he had done. That's why nobody would blame me.
 
 Remember how I said that perception of our similarity is never truly absent? I saw that part of me could, in fact, see it in him, even as I did it. I was knowingly smothering his innocent part—a part I *knew* could be rescued—and I felt a rush of satisfaction when I got away with it.
 
-It's hard to describe the pain when I first saw this clearly. *Malevolent* isn't too strong a word to describe the state I'd been in. In a flash, I saw how people could do evil things and feel fine about it, just by hiding the weight of it from themselves. But even worse, I saw that I had always known this, and had been using it to my advantage, in exactly the same way as the people I hated. It's what I had shown my enemy: that *I'm just like you.*
+It's hard to describe the pain when I first saw this clearly. *Malevolent* isn't too strong a word for the state I'd been in. In a flash, I saw how people could commit evil and feel fine about it, just by hiding the weight of it from themselves. But more than that, I saw that I had always known this, and had been using it to my advantage, in exactly the same way as the people I hated. That's what I had been showing him: *the darkness that lives in you lives in me, too—and I can use mine against you while getting away with it.*
 
 There's another half that's much harder to describe, because it can sound like an excuse. In a sense, my state had been utterly innocent. Not as in blameless. But I hadn't turned away out of malice, or because I'm a bad person. I had done it out of fear. Out of the innocent desire to know myself as good. I had lost contact with the aspect of myself that *is* only ever good—my better nature—and in that profound confusion, was willing to sacrifice someone who "deserved" it, to prove to myself and the world that I was good.
 
-This is what I find hardest to hold. Evil doesn't have to originate from some kind of *bad essence*. It only requires a certain kind of confusion. In fact, I now see that perceiving a "bad essence" in others, whether consciously or not—such as believing they have no better nature, or that they turn away from it because they're just *bad*—means I'm almost certainly lost in that confusion myself, and looking for an excuse to spread it.
+This is what I find hardest to hold. Evil doesn't have to originate from some kind of *bad essence*. It only requires a certain kind of confusion. In fact, I now see that perceiving a "bad essence" in others, whether consciously or not—such as believing my enemies have no better nature, or that they turn away from it because they're just *bad*—means I'm almost certainly lost in that confusion myself, and looking for an excuse to spread it.
 
-The innocence I described in no way excuses my behavior. I'm still fully responsible for all the harm I've caused from my confusion, and it's my duty to stop doing it. But it did reveal another possible way of dealing with evil. I saw that it has to do with never losing contact with the deepest part of myself. Only by doing that would I gain the wisdom and courage to act as my teacher had done for me, and that I think the wisest people are able to do in far more challenging circumstances.
+It being confusion in no way excuses anyone's behavior. I'm still fully responsible for all the harm I've caused while lost in it, and to stop causing it. But it did reveal another possible way of dealing with evil. It has to do with never losing contact with the deepest part of myself. I saw that only by doing that would I gain the wisdom and courage to act as my teacher had done for me, and that the wisest people are able to do in even more challenging circumstances.
 
 ---
 ## The Quiet Kind
@@ -222,7 +222,7 @@ What you said went to the same place my look went in my enemy, and it said the o
 
 The first stranger's allies would have called what he did good, and his enemies would have called it evil, and both would have recognized, on some level, the badness woven into it. This suggests there's something we serve that transcends sides. 
 
-But what is it?
+In ourselves, we may call it our *better nature.* But why should they all be pointed in the same direction?
 
 ---
 
@@ -231,6 +231,10 @@ Holding pen (full book, Chapter 1).
 
 Still out, verbatim:
 
+My excuses aren't there to convince *it* (which never works); they're there to convince *me* that it's just one more voice among the noise. But it's not.
+
+The part of me that can't harm anyone for no reason was still there; it had to be fooled first.
+ 
 The Orientation's last two sentences, out October 27 (all three readers who had The Orientation heard them as a sermon; the condensed book keeps them): "That's why the worst thing I can do for anyone is what I did to my enemy: teach them to forget it's there, by forgetting it myself. And the best thing I can do, for them and through them for the world, is remember it."
 
 "And how better to make him carry it than to show him that I was doing it, while hiding it from myself?" (the scapegoat layer's second sentence; Dana read it twice)
@@ -238,5 +242,33 @@ The Orientation's last two sentences, out October 27 (all three readers who had 
 Replaced by the condensed book's Orientation on October 26: "Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it. / Not a definition of good. We may never agree on one, and we don't need to. / What is it that two people who agree on nothing can both be serving?"
 
 TODO: Integrity and told myself nobody was watching. But someone always was: me.
+
+From the condensed book's Chapter 1, checked November 1 against every full-book chapter: insights the full book doesn't carry anywhere, verbatim. (The rest of the condensed Orientation is in the full Chapter 2, Chapter 1's Mechanism, or this pen. Five of these went back into the text on November 1; what's below is still out. Villain and machine, its woodchipper footnote, and "pure evil… as far as a mind can turn" are in the full Chapter 6; "what you call 'I'" is in Chapter 5.)
+
+After the monologue: "I wasn't *exposing* his darkness, like I told myself. I was creating more of it."
+
+Self-contempt as the same verdict: "It feels like accountability, but it's a verdict, *this is all you are*, pointed inward, and it does what that verdict always does"
+
+Common knowledge, spelled out: "He knows it's true, and I *know* he knows it, and he knows that too."
+
+The recursion: "The signal is the pretense that there is no signal."
+
+"Innocent," defined: "Not blameless: I mean that nothing at its root wanted harm for its own sake."
+
+The real me: "*That wasn't the real me* can be used as an excuse, but I also think it's true. I did it, and it's mine to answer for. But I could only do it by turning away from myself."
+
+From the Orientation: "The part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove that it isn't."
+
+Added November 1 from a word diff (git diff --word-diff), each run checked against every full-book chapter ("Badness is the result of turning away, not its cause" is in the full Chapter 2):
+
+The self-contempt check, a question where the full book has a statement: "Does that make it *easier* or *harder* to confront what you already know?"
+
+The encounter teaches know-versus-prove: "I'm overriding the part that knows (I'm causing harm) in favor of the part that can prove (I'm doing good), and by doing so, teaching him to make the same mistake: to demote his inner knowing, because what good is it in a world as rotten as this?" (Chapter 2 carries the lesson in general, "all that counts is what we can get away with; what we can prove"; not this instance in the encounter.)
+
+The cover, in the monologue: "Any doubt I had about him is now erased. Who cares about my own minor misdeeds when there's *real* evil out there to fight?"
+
+Unconscious in me, aware in them: "I desperately want to call this behavior _unconscious_ (if I can admit I do it at all), because otherwise what would it make me? Evil behavior is unconscious in me, and fully aware in my enemies."
+
+From the Orientation: "This inability to define goodness isn't a flaw."
 
 -->

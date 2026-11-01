@@ -274,3 +274,14 @@ Three readers (Dana, a non-writer; Theo, a poet; Ruth, a book editor) each read 
 - **Chapter 2, all six:** the face exercise, the grudge and the bread are the best of the manuscript. The politics section lost everyone ("shaped"). "It tracks, it aims" sits against "something I *do*." "That is why I say contempt is evil" doesn't follow from the soldier. The *for* in "feel it *for* them" tripped everyone.
 - **Pen:** 1 and 5 were wanted back by all six; 3 and 4 by five; 9 by all six in some form; 6 and 8 by none. Readers asked for 10 as the bridge only if the spread section moves out of the chapter.
 - **The lesson:** a passage judged by where it sits needs the version it sits in. The October 25 readers split on whether The Orientation would turn Chapter 2's examples into illustrations. Read in place, it didn't.
+
+## Full book against condensed, October 31: Chapters 1 to 3 against Chapters 1 and 2
+
+Five new readers (Miriam, a novelist; Lena, a magazine editor; Ray, an HVAC owner in AA; Priya, a palliative-care nurse and Zen practitioner; Ben, a climate data scientist), each run on both versions (`cold-reads-full-vs-condensed-2026-10-31.md`).
+
+- **Scores:** a tie (A 209, B 205 over the five "all" lines; three readers preferred A, two B). Chapter 1 tied too. The full book's Chapter 3 drew the round's highest "change" scores (8 from four of five).
+- **The full book's Chapter 3, all five:** the toddler check ("I've found them guilty of being what they are"), the shadow spaces and the clean-and-extra pairs ("*Of course you lied to me*") were the most usable pages of either version. All five lost it at the scale-up (the atrocity line, the ecology), at "the light in me is reminding the light in him… what has him," and at "(The answer, of course, is that I'm not. It is, in a sense, the point.)" Four caught "baseline" changing meaning and "This is what the buttons in Chapter 1 were measuring."
+- **The full book's Chapter 2:** the sag for all five, and where four would have put the book down: its last third (outcomes, politicians, and the proverb run ending "A healthier world is its own reward"). Three found "If they're turned away… probably still causing vast amounts of harm" licensed their own grudge. The face, the grudge and the advisor held.
+- **The condensed book's Chapter 2:** "Contempt is evil. That's not a value judgment" lost all five; so did the metaphysics ("I find life… I mean it literally," "exactly common," "all one").
+- **Both versions, all ten:** "darkness" is never set up and keeps changing what it is. Peak sentences were the same in both: "Love and contempt are addressed to the same place," the sigh paragraph, "A child can't refuse it."
+- **The lesson:** the full book's climb pays where it turns into checks and sentences a reader can use, and loses readers wherever it asks them to take scale or vocabulary on trust. Miriam, in both versions: the cold reader is translating hot contempt for two hundred lines.
