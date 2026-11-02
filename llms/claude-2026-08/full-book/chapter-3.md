@@ -2,13 +2,13 @@
 
 Evil must be fought, with everything I have. But when I do it with contempt, I now see what I'm doing: using the other person as cover for my own darkness to seep into the world, undetected.
 
-In Chapter 1, I said the deepest layer of limbo was seeing that I needed others to carry the darkness I hid from myself. The hardest part to see was this: I knew I wasn't just making my enemy worse. I knew I was making the *world* worse.
+Now turn it around. When that darkened world is reflected back to me, notice what happens. When I see people lying, cheating, and stealing, what am I likely to feel for them? *Contempt.*
 
-Now turn it around. When that darkened world is reflected back to me, notice what happens. When I see people lying, cheating, and stealing, what am I likely to feel for them? Am I likely to reflect on how my own behavior has influenced the conditions that made such behavior more likely? Or will I just see them as inherently flawed, unlike myself?
+Am I likely to reflect on how my own behavior has influenced the conditions that made such behavior more likely? Or will I just see them as inherently flawed?
 
 The form their evil takes may look nothing at all like mine. That's why I never recognize it as the same thing, or in any way connected to my own behavior.
 
-And when I read about a politician's lie or a company's scam, do I feel more free to cut my own small corners, or less?
+When I read about a politician's lie or a company's scam, do I feel more free to cut my own small corners, or less?
 
 Turning away isn't binary, and most of it has no enemy in it at all. It's the water we swim in: the ordinary day, the small self-serving move with nobody in front of you and nothing you'd call a wrong.
 
@@ -56,7 +56,7 @@ Every time I claim corrupt leaders are a different kind of thing, part of me is 
 
 And when nobody else is there? I read about a man I despise, alone, and run the verdict a few times: what he is, what he deserves. Nobody hears it. But the next person who reminds me of him gets less of the benefit of the doubt, and I don't notice I've withheld it. What I rehearse alone is what I see with afterward. It doesn't stay in my skull. It becomes how I look.
 
-Most of it is quieter than any of that. The darkness I inject just diffuses into the world, with no clear boundary. So each time, I've raised the baseline for everyone. Under all of it runs the low-grade infection, in billions of people at once and on every social media feed, each turn too small to notice: a background hum of darkness.
+Most of it is quieter than any of that. The darkness I inject just diffuses into the world, with no clear boundary. So each time, I've made the background a little darker for everyone. Under all of it runs the low-grade infection, in billions of people at once and on every social media feed, each turn too small to notice: a background hum of darkness.
 
 How can almost none of us be monsters, and the world still be tearing itself apart and eating the biosphere it stands on? It doesn't take monsters. It takes the background hum. That's how I believe my contempt for a neighbor makes an atrocity on another continent a little more likely: passed from room to room and feed to feed. I can't trace that line. I can trace the short ones, from me to the next room, and I have no reason to believe it stops there. [TODO(Aditya): Claude's draft (your T1 stays; the October 31 readers, five of five, couldn't check "by no line I could ever trace," so it's marked as belief and given the part they can check). Yours: "That's how my contempt for a neighbor makes an atrocity on another continent a little more likely: passed from room to room and feed to feed, by no line I could ever trace."]
 
