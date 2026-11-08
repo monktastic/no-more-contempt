@@ -1,5 +1,100 @@
 # Chapter 2 map
 
+Updated November 3, 2026, after the shorter recognition-focused revision. The author's ordering—relations between different forms of wrong before the continuum—is retained. Describes the current reading body. Earlier maps are retained below as historical proposals.
+
+## Aim and progression
+
+The chapter first makes the turn recognizable, then shows why apparently different evils belong together: they can cultivate the same disregard and offer permission for other forms of it. Only then does it examine the turn becoming a way of living. It closes with the opposite transmission and the recognition of genuine goodness.
+
+| Section | New work | Question carried forward |
+|---|---|---|
+| Face, enemy, optional extension | Establishes seeing someone from the inside; then briefly asks the reader to try to stop seeing the life in them. A refusal is something to notice, not to push through. | What does this move have to do with evil? |
+| Familiar evil cases | Separates evil from outcome and magnitude; tests the exception and identifies the turn across scales without equating harms. | Do these acts merely resemble one another, or can they encourage one another? |
+| Corpse | An act can cultivate degradation beyond its immediate object, even without an additional living victim present. Preserves the shared judgment and the thought that the act itself degrades life, not only that it might train a later harm. | Where else can the disregard find expression? |
+| Executive | Contempt can license a different form of harm through self-serving judgment under uncertainty. The ecological decision remains the executive's responsibility. | What does the sender leave out when accounting for success? |
+| Accounting | Visible benefits are real but do not exhaust effects. Not knowing a particular destination differs from not knowing what one sent. Outcomes still need examination. | What happens in me as these turns become a way of living? |
+| Continuum | Restores the grudge/upkeep support for evil not being an equal and opposite force. Moves from everyday disregard through righteous justification to an imagined stance where goodness has no felt authority. Describes a direction, not a clinical diagnosis or inevitable sequence. | Why can greater wrong coexist with less acknowledgment? |
+| Knowing and hearing | A difficult admission supports the distinction between knowledge in limbo and acknowledged knowledge. The warning account is grounded in the author's experience. | Does disagreement or uncertainty let me define good for convenience? |
+| Two escapes | A formula can be used against the care it names; uncertainty can be used to evade what one knows. The positive orientation is indicated without defining it by biological life. | What does remaining turned toward leave in someone else? |
+| Second stranger and Light | Opposite transmission: integrity supports integrity. The deeper recognition is of genuine goodness, neither party's invention. Names the Light without requiring a religious conclusion. | What about what I do in private? |
+| Integrity and close | An act has already entered the world and needs no later deed of mine to matter. The stronger reach of an entirely unwitnessed act is stated as the author's finding, not established by the examples. Contempt identified with the shared turn; the unresolved question becomes why I keep serving a direction I do not ultimately want. | What is this apparent division in me, and how does it work between us? |
+
+## Relocations and preservation
+
+- The compass conclusion is now immediately after Chapter 1's reverse-remorse test. Chapter 2 no longer reintroduces that test between the evil cases and the next development.
+- The author's explanation “Remorse is what turning back feels like” is preserved in Chapter 2's holding pen. It is available for Chapter 3's return/home and self-recognition passage; it has not been rejected.
+- The far-end exercise is now directly after the enemy in the opening section, using the author's experiential wording rather than a conceptual interview with an imagined amoral person. It is optional, momentary, and followed by a return to the stranger. It is not evidence that the reader has been maximally evil, nor a simulation of psychopathy.
+- The corpse, executive, and accounting sections precede the continuum. Their substantive prose is preserved. The corpse transition and the orientation sentence are revised; the former versions remain in the holding pen.
+- In the companion Chapter 3 revision, the generic attention exercise is replaced by the author's supplied held-in-Love testimony. Chapter 4 regains the full insurer scene. These are separate draft files; the original Chapters 3–5 are unchanged.
+
+## Claim boundaries
+
+The causal claim is that different wrongs can encourage the same turn, not that every instance of every wrong increases every other wrong. The executive is a hypothetical mechanism the reader can inspect, not an empirical estimate of its frequency or effect size. The corpse passage preserves recognition of present wrongness rather than explaining wrongness away as future conditioning.
+
+The tree and stone arch from short-book Chapter 2 are proposed for the next chapter. They widen the reader's attention beyond sentient interests and instrumental value. They do not by themselves prove that a stone is alive, that consciousness is metaphysically one, or that every materialist account is false. The fuller identification of self, better nature, awareness, and Light needs its own experiential work.
+
+The existing research cautions around psychopathy and the soldier generalization remain applicable; see the previous map and note 11. They have not been resolved by this reordering.
+
+## Previous map
+
+<!--
+# Chapter 2 map
+
+Updated November 2, 2026. This describes the revised reading body of `chapter-2.md`. The former double bars marked the seam between the author's new opening and an older continuation; that seam has been removed. Rewritten and set-aside wording is preserved in the chapter's holding pen.
+
+## Aim and progression
+
+The chapter moves from recognizing the orientation, through how far one can depart from it, to what that departure leaves in the world. Its second half must advance beyond the first half's account of learning cynicism.
+
+| Section | New work it does | Question carried forward |
+|---|---|---|
+| The face | Gives “turned toward” a lived referent; distinguishes seeing a person from allowing their claim to count. | What does turning away have to do with evil? |
+| The cases | Separates evil from outcome and magnitude; tests the exception and names the move shared across scales. | Is that direction merely arbitrary? |
+| Remorse | Briefly returns to Chapter 1's asymmetry, explains remorse as turning back, and draws the implication: obscured is not reversed. | How can departure along that direction become the far end? |
+| The continuum | Follows disregard into self-serving justification, usurped goodness, and the further imagined limit where goodness has no felt authority. | If the warning is still there, why is it harder to hear? |
+| Knowing versus hearing | Uses a difficult admission to separate what was known from what was allowed into acknowledgment. Offers the warning/limbo account through the author's own experience. | Can the reader glimpse the estrangement without manufacturing maximal malice? |
+| Optional glimpse | Explicitly imagines a far-end perspective; it does not ask the reader to recall having inhabited it. Keeps the skip and stop conditions. | Does the turn matter without a visible injury? |
+| The corpse | Restores the soldier's shared judgment, introduces degradation of life in general, and asks how wrongness is recognized before downstream harm is traced. The interpretation includes the act itself, not only training for a future act. | Where could that orientation emerge next? |
+| The executive | Follows the state into a different decision: uncertainty is weighed more self-servingly, with effects elsewhere. The later decision remains the executive's responsibility. | Would those effects appear in the corrector's account of success? |
+| The accounting | Keeps the visible good result while exposing the chosen boundary that excludes other effects. Distinguishes not knowing the destination from not knowing what was sent. | Can a formula or definition certify the orientation? |
+| The two escape routes | Care becomes a letter to obey, or uncertainty becomes permission to define good conveniently. A return to the opening wrong checks whether permission removes knowing. | What does someone who remains oriented leave in others? |
+| The second stranger | Shows the opposite transmission and its deeper recognition: genuine goodness exists, crosses sides, and cannot be redefined for convenience. Names the light from that recognition, without requiring a religious ontology. | What about what we do privately? |
+| Integrity and the door | Returns the corpse and executive as known cases rather than introducing another mechanism. Ends on the persistence and reach questions Chapter 3 must pursue. | Where else does it go, and why keep doing it? |
+
+## Important choices
+
+- Preserved the author's revised opening and much of its wording.
+- Replaced helping feeling burdensome with wanting to get another person's need out of the way. Effort and cost are not themselves evidence of moral disregard.
+- Gave moral usurpation its own step before the possible cynical endpoint. The distinction is between replacing care with a justification and ceasing to feel answerable to goodness at all.
+- Did not name the endpoint “the psychopath” or attempt to rank historical people. Clinical psychopathy does not establish the proposed progression or a complete absence of moral understanding.
+- Inserted a memory-based support for the tragedy: a difficult admission can involve more kept out, rather than less known. “More urgent” describes what needs acknowledgment; it is not a clinical claim that an internal alarm measurably increases as psychopathic traits increase.
+- Removed the invitation to push into maximal dehumanization and the courage framing. The optional exercise asks for recognition and brief consideration, not intensified hatred. It is not a simulation or diagnostic test of psychopathy.
+- Removed the old continuation's repeated anatomy, appetite analogy, upkeep argument, and early parasite-like account. Those wordings remain available in the holding pen. The agent/borrowed-equipment treatment can do its work near the parasite instead.
+- Changed the corpse connector from “Watch how it spreads” to the question of an act without visible injury. Following the author's review, restored the original shared-judgment formulation and interpretation. `quotes.md` contains a concrete reported SEAL Team 6 example; it does not establish a representative estimate of “most” soldiers. That generalization remains the author's wording, not a verified survey finding.
+- Removed “Recall the lesson contempt teaches” as an extended explanation. The executive now shows the lesson's downstream consequence in a decision apparently unrelated to the correction.
+- Moved moral accounting directly after that consequence, and the opposite orientation after the attempted escapes. The reader does not restart the good/evil inquiry after its answer.
+- Restored the second stranger's willingness to be held to the same standard. The earlier compression lost some of the evidence for a shared orientation and made the names too merely descriptive.
+- Kept recognition, inference, and the author's wider account distinguishable. No full self/better-nature/Light identification has been introduced.
+
+## Research boundary
+
+Two primary studies informed the restraint around the word psychopathy:
+
+- [Cima, Tonnaer, and Hauser (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2840845/): the groups studied showed similar patterns of moral-dilemma judgments, supporting a distinction between judging wrongness and being motivated by it.
+- [Meffert et al. (2013)](https://pubmed.ncbi.nlm.nih.gov/23884812/): in a small study of psychopathic offenders, reduced spontaneous vicarious brain responses differed from responses under explicit empathy instructions. These findings concern task-related brain responses, not proof of a universally intact conscience or effective treatment.
+
+Neither establishes that psychopathy is the final stage of the author's sequence, that every individual has suppressed rather than absent care, or that all such individuals have abandoned moral authority. The book's proposed endpoint is a description of a stance, not a clinical classification.
+
+## Earlier map
+
+The previous map is retained below as a historical holding pen. It describes older orders and must not govern the current text.
+
+
+
+Holding pen: former Chapter 2 map, preserved November 2, 2026.
+
+# Chapter 2 map
+
 *Stateless. What each section of `chapter-2.md` is for, the order they come in,
 and why. Each section is named by the words it opens on, and the dividers in
 the chapter fall where the sections change. Paragraph numbers go stale with
@@ -177,3 +272,50 @@ who's-to-say block; the proverb's second statement; the two definition
 sentences from the torturer paragraph; the last two sentences of the
 definitions paragraph ("This inability to define good… invite you to
 remember"); and the three earlier bridges.
+
+
+
+
+## Map before the November 3 revision
+
+# Chapter 2 map
+
+Updated November 2, 2026, after the author's proposal to put the encouragement between different forms of wrongdoing before the continuum. Describes the current reading body. Earlier maps are retained below as historical proposals.
+
+## Aim and progression
+
+The chapter first makes the turn recognizable, then shows why apparently different evils belong together: they can cultivate the same disregard and offer permission for other forms of it. Only then does it examine the turn becoming a way of living. It closes with the opposite transmission and the recognition of genuine goodness.
+
+| Section | New work | Question carried forward |
+|---|---|---|
+| Face, enemy, optional extension | Establishes seeing someone from the inside; then briefly asks the reader to try to stop seeing the life in them. A refusal is something to notice, not to push through. | What does this move have to do with evil? |
+| Familiar evil cases | Separates evil from outcome and magnitude; tests the exception and identifies the turn across scales without equating harms. | Do these acts merely resemble one another, or can they encourage one another? |
+| Corpse | An act can cultivate degradation beyond its immediate object, even without an additional living victim present. Preserves the shared judgment and the thought that the act itself degrades life, not only that it might train a later harm. | Where else can the disregard find expression? |
+| Executive | Contempt can license a different form of harm through self-serving judgment under uncertainty. The ecological decision remains the executive's responsibility. | What does the sender leave out when accounting for success? |
+| Accounting | Visible benefits are real but do not exhaust effects. Not knowing a particular destination differs from not knowing what one sent. Outcomes still need examination. | What happens in me as these turns become a way of living? |
+| Continuum | Moves from everyday disregard through righteous justification to an imagined stance where goodness has no felt authority. Describes a direction, not a clinical diagnosis or inevitable sequence. | Why can greater wrong coexist with less acknowledgment? |
+| Knowing and hearing | A difficult admission supports the distinction between knowledge in limbo and acknowledged knowledge. The warning account is grounded in the author's experience. | Does disagreement or uncertainty let me define good for convenience? |
+| Two escapes | A formula can be used against the care it names; uncertainty can be used to evade what one knows. The positive orientation is indicated without defining it by biological life. | What does remaining turned toward leave in someone else? |
+| Second stranger and Light | Opposite transmission: integrity supports integrity. The deeper recognition is of genuine goodness, neither party's invention. Names the Light without requiring a religious conclusion. | What about what I do in private? |
+| Integrity and close | Private acts still affect the person who carries them forward. Contempt identified with the shared turn; the unresolved question becomes why I keep serving a direction I do not ultimately want. | What is this apparent division in me, and how does it work between us? |
+
+## Relocations and preservation
+
+- The compass conclusion is now immediately after Chapter 1's reverse-remorse test. Chapter 2 no longer reintroduces that test between the evil cases and the next development.
+- The author's explanation “Remorse is what turning back feels like” is preserved in Chapter 2's holding pen. It is available for Chapter 3's return/home and self-recognition passage; it has not been rejected.
+- The far-end exercise is now directly after the enemy in the opening section, using the author's experiential wording rather than a conceptual interview with an imagined amoral person. It is optional, momentary, and followed by a return to the stranger. It is not evidence that the reader has been maximally evil, nor a simulation of psychopathy.
+- The corpse, executive, and accounting sections precede the continuum. Their substantive prose is preserved. The corpse transition and the orientation sentence are revised; the former versions remain in the holding pen.
+- No Chapter 3 reading prose has been changed in this pass.
+
+## Claim boundaries
+
+The causal claim is that different wrongs can encourage the same turn, not that every instance of every wrong increases every other wrong. The executive is a hypothetical mechanism the reader can inspect, not an empirical estimate of its frequency or effect size. The corpse passage preserves recognition of present wrongness rather than explaining wrongness away as future conditioning.
+
+The tree and stone arch from short-book Chapter 2 are proposed for the next chapter. They widen the reader's attention beyond sentient interests and instrumental value. They do not by themselves prove that a stone is alive, that consciousness is metaphysically one, or that every materialist account is false. The fuller identification of self, better nature, awareness, and Light needs its own experiential work.
+
+The existing research cautions around psychopathy and the soldier generalization remain applicable; see the previous map and note 11. They have not been resolved by this reordering.
+
+## Previous map
+
+
+-->
