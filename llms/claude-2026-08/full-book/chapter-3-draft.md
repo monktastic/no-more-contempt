@@ -4,17 +4,17 @@
 
 Recall from Chapter 1 that I said my better nature is the deepest part of me: what exists beneath my self-deception, which is why hiding misbehavior from it feels like hiding it from *myself*, and going against it feels like going against myself. Go back to the wrong you remembered. When you finally owned up to it, did it feel like losing something of yourself, or like getting something back?
 
-For me, it feels like coming back to myself. That's the sense in which my better nature feels like the "real me." The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
+For me, it feels like coming back to myself. That's the sense in which my better nature is the "real me." The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
 
-This requires some care. We've all heard the excuse "that wasn't the real me!", and it can be used to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. Have you ever been "snapped out of" being mean? I don't think a person can be awoken out of decency back into their natural cruelty.
+This requires some care. We've all heard the excuse "that wasn't the real me!", and it can be used to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. Here's another test: have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty?
 
 While I'm under its sway, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
 
 And look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded.
 
-Is that what I most deeply want? When I face the whole bargain, I can't want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight—to know without letting myself know. And that turning away *is* the darkness.
+But is that what I most deeply want? When I face the whole bargain, I can't want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight.
 
-When I begin to see what I'm doing, I feel ashamed. *What kind of person would do that?* The moment I come close to seeing what I'm doing, the fear of what I might be gives me a reason to look away again.
+When I begin to see what I'm doing, I feel ashamed. *What kind of person would do that?* That gives me a reason to look away again.
 
 So this pattern benefits from being seen *as me*—by me, and by everyone else. When I mistake it for myself, I defend it. When others mistake it for what I am, they feel justified treating me with contempt. Their contempt gives me another reason to dig in.
 
@@ -99,35 +99,35 @@ Have you ever felt that? As if you weren’t up against nine individuals, but ag
 
 And it scales beyond that, too.
 
-Consider the realm of politics. Suppose we discover that our opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant.  
+Consider the realm of politics. Suppose we discover that our opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant. Support policies that benefit them but harm the innocent.
   
 So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and we'll stop at nothing to expose it. It's part of our duty as "good people."  
   
-At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels _more_ justified. Because *we're* doing it for a good cause, and *they're* doing it for a bad one. It's *totally different.*
+At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels more justified, and we notice it less. Because *we're* doing it for a good cause, and *they're* doing it for a bad one. It's *totally different.*
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
+
+When their side produces a genuine monster, we're unable to recognize our role in bringing them about; how they are effectively *made* of our collective contempt. And when our side produces one, they are clearly a savior.
 
 The more I see this, the more I realize that my true allies aren't those who hold the same views as me, or hate the same people. They're the people like the second stranger—and they exist on both sides of nearly every divide.
 
 ---
 
-We've all heard of bitter divorces where each side treats the situation like total war. The other side appears unrepentantly evil, so anything becomes justified. Each can *see* it in the other. And what is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-horsemen-contempt/)? *Contempt.*
+Contempt is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-horsemen-contempt/). We've all heard of bitter divorces where each side treats the situation like total war. The other side appears unrepentantly evil, so anything becomes justified. Each can *see* it in the other. That's what the endgame looks like.
 
-It's as if the darkness is constantly nudging us all toward various forms of armageddon, be it divorce, civil war, or worse. In each case, it becomes increasingly clear that *they're* the problem. We feel compelled to violently attack them, to prove how righteous we are.
+It's as if the darkness is constantly nudging us all toward various forms of armageddon, be it divorce, civil war, or worse—situations in which we all feel compelled to violently attack each other to prove how righteous we are.
 
 And watch what happens when we start to discover something *off* about all this. Maybe we find out that the regular joes on the other side of the aisle aren't the real problem—it's that the evil elites have been playing us against each other, to take attention off of what they're doing.
 
 What do we then do? Turn our contempt toward them—the *real* source of evil.
 
-It's not that we're wrong about what they're doing. But we refuse to see how they're stuck in the same pattern. How something far more insidious is tricking us into hating them to take attention off of *it.*
-
-Something that lives within every one of us.
+It's not that we're wrong about what they're doing. But we refuse to see how they're stuck in the same pattern. How something far more insidious is tricking us into hating them to take attention off of *it.* Something that lives within every one of us.
 
 This, I think, is the source of the archetype of the *evil global conspiracy.* We're sensing something real. We're just confused about what it is. Its whole trick is to make us perceive it as something external ourselves, because that's what keeps it alive.
 
-We can even give it a name: Satan. Then, if we're not careful, anyone who doesn't abide by the right rules appears to be a minion of his—and we all know what happens next.
+We can even give it a name: Satan. Then, if we're not careful, anyone who doesn't abide by the "right rules" appears to be a minion of his—and we all know what happens next.
 
-I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *root* conspiracy.
+I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *ultimate* conspiracy.
 
 ---
 
@@ -135,13 +135,13 @@ For any of this to work, our parasite must do something far more clever than whi
 
 When you look at your enemy, doesn't it feel like you literally *see* a "bad person?" It doesn't feel like an idea you have; it just feels like the *truth.* That's why it doesn't feel wrong. It feels like you're seeing clearly.
 
-No amount of thinking harder will reveal to you that you're in this state. Because while you're in it, all your thoughts are in service of hiding it from you. Your entire cognitive-perceptual system has been hijacked, so the very tools you'd normally use to detect the infection will just verify that you're the one who's free of it.
+No amount of thinking harder will reveal to you that you're in this state, because while you're in it, all your thoughts are in service of hiding it from you. Your entire cognitive-perceptual system has been hijacked, so the very tools you'd normally use to detect the infection will just verify that you're the one who's free of it.
 
 It's why "evil people" don't feel evil, and why you can't simply talk them out of it. Their entire worldview—and thus apparent world—is internally consistent, and will vigorously fend off any attempt to puncture it.
 
 And now recall that a milder version of this is actually my *default* state.
 
-So how do I find my way out of it?
+If that's true, then how do I find my way out of it?
 
 ---
 ---

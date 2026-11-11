@@ -1,6 +1,7 @@
 # Chapter 1: Limbo
 
 [TODO: Doing wrong always causes the limbo state.]
+[TODO: Conscious vs present / aware.]
 
 Contempt is the claim that you're a lesser kind of thing than me. But it only works because you're the same kind of thing, and both of us know it. I want to show you why.
 
@@ -27,7 +28,7 @@ Why did one side have to argue and the other not?
 
 Could you do wrong in full view of your conscience—no shielding, no justifications? I find I can't. It's not just what tells me that I've done wrong; it's what warns me when I'm about to. Ignoring it is what puts me in limbo.
 
-When I realize I've caused harm, I feel remorse. But I've never felt it over something I did out of decency. What about you? I've felt regret that it cost me, anger at being taken advantage of, and guilt at breaking a rule I was raised on—but never *remorse* for those things, that sickening sense of having gone against myself. Betraying my conscience feel like going against *myself*. Why?
+When I realize I've caused harm, I feel remorse. But I've never felt it over something I did out of decency. Have you? I've felt regret that it cost me, anger at being taken advantage of, and guilt at breaking a rule I was raised on—but never *remorse* for those things, that sickening sense of having gone against myself. Betraying my conscience feel like going against *myself*. Why?
 
 Can you imagine the reverse in anyone: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature?
 
@@ -177,7 +178,7 @@ How can a look carry all that information?
 
 It only works if we both know we're the same kind of thing—beings who must *turn away* to cause harm. I recognize it in him; he recognizes me recognizing it in him; I recognize that too, and so on. It's like a hall of mirrors.
 
-All I have to do is evoke this shared knowledge, which is why it can be carried entirely by tone, gaze, and manner—which have the benefit of being unquotable. My claim that I'm a *better kind of thing* is maddening precisely because we can both see it's false. It's what we felt in the second stranger, and why we felt so certain he does it too: part of him *wanted* us to.
+All I have to do is evoke this shared knowledge, which is why it can be carried entirely by tone, gaze, and manner—which have the benefit of being unquotable. My claim that I'm a *better kind of thing* is maddening precisely because we can both see it's false. It's what we felt in the first stranger, and why we felt so certain he does it too: part of him *wanted* us to.
 
 Do I know I'm doing this? Yes and no. I am in limbo about provoking him, and revealing that I am in limbo is itself the provocation. (If the recursion tickles you, see Appendix 1.)
 

@@ -1,0 +1,156 @@
+// Current ChatGPT insight map, updated November 3, 2026.
+// Canonical explanation: llms/chatgpt/argument.md.
+// A -> B: this exposition uses A to support or prepare B.
+// This is NOT deductive entailment, an empirical causal model, or reading order.
+// Dashed gold arrows: testimony/interpretive bridges. Metaphysics is not a prerequisite for practice.
+// The actual feedback cycle and depth-indexed spiral are in argument.md.
+digraph insights {
+ graph [rankdir=TB, compound=true, newrank=true, bgcolor="#fcfbf7", pad=0.35, nodesep=0.22, ranksep=0.55, fontname="Helvetica", fontsize=18, labelloc=t, label="Insights and supports\nRead with argument.md: support is not proof or reading order"];
+ node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=11, color="#8a847a", margin="0.12,0.08"];
+ edge [color="#9a958b", arrowsize=0.6, penwidth=0.8];
+ subgraph cluster_encounter {
+  label="Memory, encounter, and self-implication"; fontsize=14; color="#d7d1c6"; style=rounded;
+  K1 [label="K1\nKnowing while hiding", fillcolor="#e8eff8"];
+  K2 [label="K2\nIntentional evasion in limbo", fillcolor="#e8eff8"];
+  K3 [label="K3\nReasons do not erase knowing", fillcolor="#e8eff8"];
+  K4 [label="K4\nDignity permits exposure", fillcolor="#e8eff8"];
+  K5 [label="K5\nSeeing reality brings care", fillcolor="#e8eff8"];
+  K6 [label="K6\nFierce without contempt", fillcolor="#e8eff8"];
+  K7 [label="K7\nMy state is communicated", fillcolor="#e8eff8"];
+  K8 [label="K8\nConcealment is the message", fillcolor="#e8eff8"];
+  K9 [label="K9\nI share their mechanism", fillcolor="#e8eff8"];
+  K10 [label="K10\nCorrection can license disregard", fillcolor="#e8eff8"];
+  K11 [label="K11\nTheir worsening serves me", fillcolor="#e8eff8"];
+  K12 [label="K12\nI cultivate my own evidence", fillcolor="#e8eff8"];
+  K13 [label="K13\nLove and contempt reach one place", fillcolor="#e8eff8"];
+  K17 [label="K17\nGoodness across sides", fillcolor="#e8eff8"];
+ }
+ subgraph cluster_reach {
+  label="What the turn does across forms"; fontsize=14; color="#d7d1c6"; style=rounded;
+  K14 [label="K14\nOne turn across different evils", fillcolor="#f5e9d6"];
+  K15 [label="K15\nDifferent wrongs encourage one another", fillcolor="#f5e9d6"];
+  K16 [label="K16\nVisible success is incomplete", fillcolor="#f5e9d6"];
+  K18 [label="K18\nCare replaced by reasons or cynicism", fillcolor="#f5e9d6"];
+  K37 [label="K37\nEvil is not an equal opposite", fillcolor="#f5e9d6"];
+  K35 [label="K35\nOrdinary evasion without an enemy", fillcolor="#f5e9d6"];
+ }
+ subgraph cluster_nature {
+  label="Self, care, and the lure"; fontsize=14; color="#d7d1c6"; style=rounded;
+  K19 [label="K19\nRemorse as return to self", fillcolor="#e7efe0"];
+  K20 [label="K20\nAwareness and care", fillcolor="#e7efe0"];
+  K21 [label="K21\nCare beyond biological life", fillcolor="#e7efe0"];
+  K22 [label="K22\nThe lure and unwanted bargain", fillcolor="#e7efe0"];
+  K23 [label="K23\nThe parasite borrows my powers", fillcolor="#e7efe0"];
+  K24 [label="K24\nMy conviction / their essence", fillcolor="#e7efe0"];
+  K36 [label="K36\nFear and comparative goodness", fillcolor="#e7efe0"];
+ }
+ subgraph cluster_social {
+  label="Shared protection and larger consequences"; fontsize=14; color="#d7d1c6"; style=rounded;
+  K25 [label="K25\nOpponents' parasites cooperate", fillcolor="#ece4f4"];
+  K26 [label="K26\nAllies protect the omission", fillcolor="#ece4f4"];
+  K27 [label="K27\nOrganized exclusion and usurpation", fillcolor="#ece4f4"];
+  K28 [label="K28\nAccumulated civilizational refusal", fillcolor="#ece4f4"];
+  K29 [label="K29\nA corrupt world gives me cover", fillcolor="#ece4f4"];
+ }
+ subgraph cluster_response {
+  label="The hard case, response, and integrity"; fontsize=14; color="#d7d1c6"; style=rounded;
+  K30 [label="K30\nThe worst person and responsibility", fillcolor="#dfeef0"];
+  K31 [label="K31\nNon-forsaking gives a way back", fillcolor="#dfeef0"];
+  K32 [label="K32\nCare needs skill and protection", fillcolor="#dfeef0"];
+  K33 [label="K33\nCatching, action and repair", fillcolor="#dfeef0"];
+  K34 [label="K34\nIntegrity travels too", fillcolor="#dfeef0"];
+ }
+ subgraph cluster_witness {
+  label="Author's testimony and fuller account"; fontsize=14; color="#d7d1c6"; style=rounded;
+  T1 [label="T1\nBeing held in Love: testimony", fillcolor="#fff0be"];
+  T2 [label="T2\nShared Light: literal recognition", fillcolor="#fff0be"];
+  T3 [label="T3\nThe one adversary", fillcolor="#fff0be"];
+  T4 [label="T4\nNothing good or evil is lost", fillcolor="#fff0be"];
+  T5 [label="T5\nForgetting, guilt and separation", fillcolor="#fff0be"];
+ }
+ K1 -> K2;
+ K1 -> K3;
+ K4 -> K6;
+ K5 -> K6;
+ K2 -> K7;
+ K6 -> K7;
+ K7 -> K8;
+ K1 -> K9;
+ K7 -> K9;
+ K7 -> K10;
+ K9 -> K10;
+ K10 -> K11;
+ K2 -> K12;
+ K11 -> K12;
+ K4 -> K13;
+ K8 -> K13;
+ K5 -> K14;
+ K9 -> K14;
+ K10 -> K15;
+ K14 -> K15;
+ K3 -> K16;
+ K15 -> K16;
+ K3 -> K17;
+ K6 -> K17;
+ K3 -> K18;
+ K3 -> K37;
+ K5 -> K37;
+ K14 -> K18;
+ K1 -> K19;
+ K4 -> K19;
+ T1 -> K19 [style=dashed, color="#ad8b32"];
+ K5 -> K20 [style=dashed, color="#769058"];
+ K19 -> K20 [style=dashed, color="#769058"];
+ K5 -> K21;
+ K11 -> K22;
+ K16 -> K22;
+ K19 -> K22;
+ K2 -> K23;
+ K12 -> K23;
+ K22 -> K23;
+ K9 -> K24;
+ K19 -> K24;
+ K23 -> K24;
+ K10 -> K25;
+ K23 -> K25;
+ K2 -> K26;
+ K15 -> K26;
+ K18 -> K27;
+ K25 -> K27;
+ K26 -> K27;
+ K15 -> K28;
+ K21 -> K28;
+ K27 -> K28;
+ K11 -> K29;
+ K23 -> K29;
+ K27 -> K29;
+ K9 -> K30;
+ K18 -> K30;
+ K24 -> K30;
+ K4 -> K31;
+ K13 -> K31;
+ K19 -> K31;
+ T1 -> K31 [style=dashed, color="#ad8b32"];
+ K6 -> K32;
+ K31 -> K32;
+ K12 -> K33;
+ K23 -> K33;
+ K32 -> K33;
+ K15 -> K34;
+ K31 -> K34;
+ K33 -> K34;
+ T1 -> T2 [style=dashed, color="#ad8b32"];
+ T2 -> T3 [style=dashed, color="#ad8b32"];
+ K25 -> T3 [style=dashed, color="#ad8b32"];
+ K27 -> T3 [style=dashed, color="#ad8b32"];
+ K1 -> K35;
+ K3 -> K35;
+ K4 -> K36;
+ K11 -> K36;
+ K19 -> K36;
+ T1 -> T4 [style=dashed, color="#ad8b32"];
+ T2 -> T4 [style=dashed, color="#ad8b32"];
+ K34 -> T4 [style=dashed, color="#ad8b32"];
+ T1 -> T5 [style=dashed, color="#ad8b32"];
+ T2 -> T5 [style=dashed, color="#ad8b32"];
+}

@@ -1,5 +1,9 @@
 Key points to insert:
 
+T0: When I'm turned away, I'm automatically in a state of self-deception.
+
+T1: Losing respect for someone or feeling like they're making awful choices isn't necessarily contempt.
+
 F0: The feeling of getting away with it; "pulling a fast one"; nobody will ever know—not even me.
 
 F0: We think the parasite is our friend. It gets us stuff (call back to the feeling of getting away with it). But it's actually manipulating us; using us to create a world that benefits it, and not us.
