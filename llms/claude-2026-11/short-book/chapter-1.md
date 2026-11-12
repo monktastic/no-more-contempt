@@ -11,9 +11,9 @@ Have you ever done something you knew was wrong at the time, but couldn't fully 
 
 Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
 
-We like to call such knowledge "unconscious," but this wasn't. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a bizarre kind of limbo, in which you simultaneously knew and yet somehow didn't. You could say you were *conscious* of it without being *aware* of it. We normally think of those as being synonyms, but here they come apart.
+We like to call such knowledge "unconscious," but this wasn't. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a bizarre kind of limbo, in which you simultaneously knew and yet somehow didn't. You could say you were *conscious* of it without being *aware* of it. We normally think of those words as meaning the same thing, but here they come apart.
 
-Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? If so, that's intentional behavior taking place in limbo. It means we can *do* things consciously without being aware of them.
+Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? If so, that's intentional behavior taking place in limbo. We can *do* things, consciously, without being aware of them.
 
 Now try to recall how you knew it was wrong in the first place. Did that knowledge arrive before or after you'd reasoned it through? The part that knew might not have been able to say how it knew. Meanwhile, another part was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
@@ -23,9 +23,11 @@ Why did one side have to argue and the other not?
 
 ---
 
-Could you do wrong in full view of your conscience—no shielding, no justifications? I find I can't. My conscience isn't just what tells me that I've done wrong; it's what warns me when I'm about to. Ignoring it puts me into limbo, where I can pretend I can't hear it.
+Imagine doing wrong in full view of your conscience—no shielding, no justifications. I find I can't. My conscience isn't just what tells me I've done wrong; it's what warns me when I'm about to. Ignoring it puts me in limbo, where I can pretend I can't hear it.
 
-When I realize I've caused harm, I feel remorse: that sickening sense of having gone against myself. But I've never felt it over something I did out of decency. Have you? I've felt regret that it cost me, anger at being taken advantage of, or guilt at breaking a rule I was raised on—but never *remorse*. Why should betraying my conscience feel like going against *myself*?
+When I realize I've caused harm, I feel remorse: that sickening sense of having gone against myself. But I've never felt it over something I did out of decency. Have you? I've felt regret that it cost me, anger at being taken advantage of, or guilt at breaking a rule I was raised on—but never *remorse*.
+
+Why should betraying my conscience feel like going against *myself*?
 
 Can you imagine the reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature?
 
@@ -156,7 +158,9 @@ This is how my need to be different and special gets itself met. By revealing it
 
 I desperately want to call this behavior _unconscious_ (if I can admit to it at all). Only *bad people* knowingly cause harm. If I've ever done it, it was an honest mistake, or I didn't really know. That's why I deserve understanding, and they deserve contempt.
 
-[TODO: Identify that shadow literature calls it "unconscious." Much of what’s written about the shadow calls this “unconscious.” The word comforts me: no one can blame me for what I couldn’t see. But it also tells me there’s no use looking, when it was within reach the whole time.]
+[TODO: It is this asymmetry that drives the whole thing.]
+
+[TODO: Much of what's written about the shadow, since Jung, calls this "unconscious." The word comforts me: no one can blame me for what I couldn't see. But it also tells me there's no use looking, when it was within reach the whole time.]
 
 ---
 ## The Mechanism

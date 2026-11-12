@@ -10,9 +10,9 @@ From this place, a striking recognition begins to occur: that if I had *been* hi
 
 As a conceptual insight, this isn't particularly profound, and it's not even obviously true. What is the self anyway? Am I not just claiming a tautology? What about free will?
 
-These are the kinds of thoughts that arrive when the insight comes via the conceptual mind—the part most of us have been trained to trust above all else.
+They're fair questions, and I can't settle them by argument. But they're also the kinds of thoughts that arrive when the insight comes via the conceptual mind—the part most of us have been trained to trust above all else.
 
-I think there's a reason we've been trained to do that, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up. Not because anyone forces us to, but because something deeper wants to.
+I think there's a reason we've been trained to do that, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up. Not because anyone forces us to, but because something deeper in us wants to.
 
 Even if I do believe the insight that I am fundamentally the same as others, it doesn't necessarily transform my life. When life gets challenging, my intellectual insights go out the window, and I fall back on old habits. I hate my enemy, and then beat myself up (or maybe even forgive myself) later, and the cycle just gets stronger.
 
@@ -22,17 +22,15 @@ The full experience is *very* difficult to describe, but we can approach it with
 
 ---
 
-Have you ever developed an acquired taste for a food? Maybe it was licorice, or raw oysters, or a certain kind of beer. Imagine eating (or drinking) it now. It tastes good, doesn't it? Does that feel like something you're *doing*, or like it's just part of the food itself—the same way it would be with any other kind of good food?
+Have you ever developed an acquired taste for a food? Maybe it was licorice, or raw oysters, or coffee. Imagine eating (or drinking) it now. It tastes good, doesn't it? Does that feel like something you're *doing*, or like it's just part of the food itself—the same way it would be with any other kind of good food?
 
 Do you remember what it was like before you acquired that taste? It tasted *bad*, right? And that also didn't feel like something you were doing. "Bad" belonged to the food.
 
-But you *were* doing something to create the "badness"—just at a level we'd normally call "unconscious." Then you made conscious effort to change it, and you did. How could you have done that unless you had some conscious access to the mental processes that go into making you perceive food a certain way—*e.g.*, as intrinsically good or bad?
+But I think you *were* doing something to create the "badness"—just at a level we'd normally call "unconscious." You made conscious effort to change it, and you did. So we have at least *some* conscious access to the processes that create our apparent reality; we're just unaware of it normally. In this sense, those processes live in a kind of limbo. 
 
-What I'm claiming is this: those processes aren't truly unconscious; we're just unaware of them normally. In this sense, they live in a kind of limbo. You are consciously coloring your world, down to the level of qualities that you normally perceive as *intrinsic* to things. And because you can't see that you're doing this, you think it's just how the world *is.*
+My claim is that you are consciously coloring your world, down to the level of qualities that you normally perceive as *intrinsic* to things. And because you can't see that you're doing this, you think it's just how the world *is.*
 
 This is what's happening with the "bad person" you literally *see* when you look at your enemy. It looks like part of him, the way the bitterness looked like part of the licorice. And no amount of evidence will change your mind, because the need to see him as defective is so strong that it colors everything that might threaten the truth underneath.
-
-What if I told you you're doing something similar with *everything* in your reality?
 
 ---
 
@@ -72,36 +70,56 @@ He doesn't tell us what we should do if we encounter that pirate in real life, a
 
 Perhaps my favorite description comes from contemporary Zen teacher (and punk rocker) Brad Warner, in his book _Hardcore Zen_:
 
-> *Every damned thing I’d ever read in the Buddhist sutras was confirmed in a single instant. The universe was me and I was it. I looked up at the sky and that experience was exactly like looking at a mirror. I don’t mean that metaphorically either. You know the feeling of recognition you get when you look in a mirror? “That’s me,” you think to yourself, “My hair needs to be combed and, hey, there’s a pimple on my nose!” Well I got that same feeling no matter where I looked. I looked at the asphalt road and it was my face. I looked at the bridge and the bridge was me staring back at myself. It was a physical sensation, as if the sky had my eyes and could see me staring up at it. There was no doubt that this state was “true.” It was far more true than the state I had considered to be normal up until then. I had no need to confirm it with anyone.*
->
-> *It's all me.*
+> *Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. … I don’t mean I identify with them or sympathize with them. I mean I am them.*
 > 
-> *Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.*
->
 > *But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.*
-> ...
-> *It was all very ordinary and normal. But in that very normality and ordinariness was something more wonderful than anything special I could ever have imagined. All imagination pales into nothing compared to what your real life is right here and right now. There’s not a single dream you can have, no matter how pure or beautiful, that’s better than what you’re living through right now no matter how lousy you think right now is.*
+
+These traditions would each describe it differently, and I don't want to flatten them into my words. I can only say that their words fit what I saw.
+
+The clearest experience I've had of this came years ago, in a state brought on by mushrooms.
+
+I was shown layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them. There were far more than I ordinarily let myself see.
+
+What made it possible to keep looking was that I was held in love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
+
+I'd been afraid that looking would reveal what was wrong with me. It revealed the wrong I was doing, and the goodness I was hiding it from. As the hiding fell away, what remained was Light. Love. And the recognition was that this was what I was.
+
+That was my experience. The smaller opening I can offer you is the one we've been using: a wrong finally admitted, and what you came back to when you admitted it.
 
 ---
 
-There's one more reason I take them seriously. Remember the licorice. I could change how it tasted, and I can change whether a person looks good or bad to me. I can change whether I believe an action is good or bad, and even get *most* of the visible evidence to support my conclusion if I play things just right—and yet a deeper truth always seems to leak through; something I don't have the freedom to redefine.
+There's one more reason I take these reports seriously. Remember the licorice. I could change how it tasted, and I can change whether a person looks good or bad to me. I can change whether I believe an action is good or bad, and even get *most* of the visible evidence to support my conclusion if I play things just right—and yet a deeper truth always seems to leak through; something I don't have the freedom to redefine.
 
 Goodness isn't one side of a duality: good and bad. Those are colors I paint with; goodness is the light I paint by. Plato said the Good is like the sun: not one of the things we see, but what lets us see anything at all. The mystics say they've looked straight at it, and that its name is love. It is that which is still there after all our countless layers of self-deception have been stripped away.
 
-Here's what I take from this. Contempt is the refusal to see our equality, or our oneness. It is a choice to reject love / God / truth / our better nature (or whatever you want to call it). By making that choice, the world I project reflects it back to me, giving me increasing evidence that I'm correct. Love / God / etc. seemingly ceases to govern my outer reality, until they seem like quaint fairytales. But it's the underlying principle by which my reality operates (indeed, appears at all) in the first place, and thus I can never truly escape it.
+Here's what I take from this. Contempt is the refusal to see our equality, or our oneness. It is a turning from love, or God, or truth, or our better nature—whatever you want to call it. Once I've turned, the world I project reflects it back to me, giving me increasing evidence that I'm correct. Love seemingly ceases to govern my outer reality, until it seems like a quaint fairytale. But it's the underlying principle by which my reality operates (indeed, appears at all) in the first place, and thus I can never truly escape it.
 
-When I look in your eye and treat you with contempt, we both instantly know what's happening. The reason why is that beneath all our differences and all dualities, there is something we both know, and that we can never stop knowing.
+In other words: when I forget my *absolute* goodness, my only option is to go seeking it out relatively—that is, at the expense of others. This is how the duality gets created, and how it sustains itself.
 
-This, I think, is what we've been sensing all along.
+Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see.
 
-Ask a Zen master what she sees that you don’t, and she may tell you: nothing. “Nothing has ever been hidden,” the old Chinese teachers said. Hakuin, in eighteenth-century Japan, wrote that all beings are Buddha by nature, as ice is by nature water, and grieved that we “ignore the near and search for truth afar.” They call it *ignorance* because we are literally ignoring it. I think what they’re describing is limbo. Huang Po said our true nature is never lost to us, even in delusion: it’s the part from Chapter 1 that never budged an inch.
+This is why I said everything I do matters, and why integrity matters even when no one seems to be watching. The one who was watching—*I*—is ultimately not separate from what the mystics have always called God.
 
-We're not missing it because it's too complicated or too far away. In fact, the Tibetans have this beautiful poem / riddle to point us back to it.
+---
+
+Ask a Zen master what she sees that you don’t, and she may tell you: nothing. “Nothing has ever been hidden,” the old Chinese teachers said. Hakuin, in eighteenth-century Japan, wrote that all beings are Buddha by nature, as ice is by nature water, and grieved that we “ignore the near and search for truth afar.” *Ignorance* (as they call it) is a fitting word: we are literally ignoring it. I think what they’re describing is limbo. Huang Po said our true nature is never lost to us, even in delusion: it’s the part from Chapter 1 that never budged an inch.
+
+The Sanskrit word *namaste* means roughly "I bow to the light in you." It's not something I have to guess you have; if what I've said is true, it's simply part of our nature as sentient beings. That, I think, is why the "open secret" in Chapter 1 exists. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. That is why, when I pretend not to know it about you, you instantly know I've strayed.
+
+We're not missing it because it's too complicated or too far away. In fact, the Tibetans have this beautiful riddle to point us back to it:
 
 > *So close you can't see it.*
 > *So deep you can't fathom it.*
 > *So simple you can't believe it.*
 > *So good you can't accept it.*
+
+---
+
+So then why is it so hard for me to give up the darkness, or even recognize it in myself?Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies or treat them with contempt.
+
+It is what some traditions call the *ego*, and I don't want to give it up because I think it *is* me.
+
+That is why everything comes down to seeing that it's not. At their best, I think this is what the spiritual traditions are offering: a way out of that illusion.
 
 ---
 
@@ -117,24 +135,9 @@ In a sense, it is the whole point.
 [TODO: Something about Jesus, Buddha, and how both were revolutionary because they pointed at a truth beyond what could be pinned down.]
 
 
+<!--
+# Chapter 4 holding pen
 
----
-
-Why is it so hard to give up? Because I've come to identify with it. I think it *is* me. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies or treat them with contempt.
-
-It is the very *last* thing I'd want to give up.
-
-
----
-
-[Something about Buddha and Mahayana.]
-
-
----
-
-[Something tying what lies beyond the ego to what other traditions call God.]
-
----
 Go back to the memory from Chapter 1, to the knowledge you hadn't *let yourself* know. Take a moment and see if you can find what you were hiding it from.
 
 The reasons you gave yourself were available. So was the advantage you wanted. What had to be kept at a distance was the part of you that could let the wrong be what it was, including what it meant for someone else.
@@ -151,15 +154,6 @@ The teacher who caught me stealing was looking for the part of me that could ack
 
 ---
 
-The clearest experience I've had of this came years ago, in a state brought on by mushrooms.
-
-I was shown layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them. There were far more than I ordinarily let myself see.
-
-What made it possible to keep looking was that I was held in Love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
-
-I'd been afraid that looking would reveal what was wrong with me. It revealed the wrong I was doing, and the goodness I was hiding it from. As the hiding fell away, what remained was Light. Love. And the recognition was that this was what I was.
-
-That was my experience. The smaller opening I can offer you is the one we've been using: a wrong finally admitted, and what you came back to when you admitted it.
 
 Here's what I think: our better nature isn't one part among others. It's a description of what we are in the absence of self-deception. That's why I call my better nature *myself*. It's the one that's home.
 
@@ -201,8 +195,19 @@ When I'm the one who did harm, coming back to myself means stopping, facing what
 
 Can I hold on to that recognition when someone is doing harm and I have to stop them?
 
-<!--
-# Chapter 4 holding pen
+
+The Brad Warner quotation as it stood before it was trimmed on November 12 (Hardcore Zen, 2003; under copyright, so the full length needs permission):
+
+> *Every damned thing I’d ever read in the Buddhist sutras was confirmed in a single instant. The universe was me and I was it. I looked up at the sky and that experience was exactly like looking at a mirror. I don’t mean that metaphorically either. You know the feeling of recognition you get when you look in a mirror? “That’s me,” you think to yourself, “My hair needs to be combed and, hey, there’s a pimple on my nose!” Well I got that same feeling no matter where I looked. I looked at the asphalt road and it was my face. I looked at the bridge and the bridge was me staring back at myself. It was a physical sensation, as if the sky had my eyes and could see me staring up at it. There was no doubt that this state was “true.” It was far more true than the state I had considered to be normal up until then. I had no need to confirm it with anyone.*
+>
+> *It's all me.*
+> 
+> *Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.*
+>
+> *But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.*
+> ...
+> *It was all very ordinary and normal. But in that very normality and ordinariness was something more wonderful than anything special I could ever have imagined. All imagination pales into nothing compared to what your real life is right here and right now. There’s not a single dream you can have, no matter how pure or beautiful, that’s better than what you’re living through right now no matter how lousy you think right now is.*
+
 
 This reading draft follows the new Chapter 3. The former Chapter 4, “The Conspiracy,” is preserved verbatim in ../../chatgpt/archive.md under “Former Chapter 4 draft.”
 

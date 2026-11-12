@@ -168,7 +168,7 @@ But I hesitate to name it at all, because watch what happens when I do: *Goodnes
 
 But the opposite approach fails, too. When I tell myself that goodness has no definition, I end up in that *who's to really say?* What's good is then whatever I decide in that moment.
 
-What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define. And now we can see why I refuse to believe this. The self-serving part of me: it *needs* this to be only a myth, and will manipulate my thoughts into making it so.
+What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define.
 
 ---
 

@@ -24,17 +24,17 @@ So here we have something that hides in my blind spots and lures me away from my
 
 What does that sound like to you?
 
-It is a parasite, and we are its hosts.
+It is like a parasite, and we are its hosts.
 
-On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *me* as a vehicle to spread itself, by convincing me I'm fighting it.
+On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us* as a vehicle to spread itself, by convincing us we're fighting it.
 
-Mine tempts my enemy to see mine *as* me, and his tempts me in the same way. If we succumb to this misperception, we're ignoring what we're actually doing: giving each other license to create more animosity in the world, so we can each continue to believe evil exists only "out there." It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can each learn to see.
+Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other ingratiate itself further to its host. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can each learn to see.
 
-Have you ever felt like something in the "bad people" *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
+Have you ever felt the eerie sense that something in the "bad people" *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
 
-I'm not claiming there's a literal entity sitting in our brains. At the end of the day, the darkness is something we *do*, and we are each individually responsible for our own. But I find the parasite framing helpful for a number of reasons, so I'll continue to use it throughout the rest of this piece.
+I'm not claiming there's a literal entity sitting in our brains. At the end of the day, the darkness is something we *do*, and we are each individually responsible for our own. But I find the parasite framing helpful. Calling it a parasite, something in me that isn't me, is what makes looking possible. So I'll continue to use it throughout the rest of this book.
 
-Sometimes I'll refer to *my* darkness (or my parasite), but since they're all working toward the same "goal," I'll also treat them as pieces of a singular mechanism—what I'll call *the* darkness. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
+Sometimes I'll refer to *my* darkness (or my parasite), but since they're all working toward the same "goal," I'll also treat them as pieces of a singular principle—what I'll call *the* darkness. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
 
 I sometimes picture it as a life-denying, life-devouring force. It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
 
@@ -42,7 +42,7 @@ I sometimes picture it as a life-denying, life-devouring force. It's dangerous t
 
 This gives another way to look at "evil people": they are those for whom the infection has gone so deep that they can no longer tell it apart from themselves. My contempt has only ever been shoving them deeper into the grip of their captor; our shared nemesis.
 
-What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong "team." Of course I had to hide that at any cost.
+What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong "team." What I fear isn't that I'm capable of doing what the bad people do—it's that I already am. Of course I had to hide that at any cost.
 
 This is why I *need* to know that evil people are fundamentally different—and why I must do everything in my power to keep them that way. And not just me: we, as a society, have a vested interest in knowing the worst people are nothing like us. That is why, on the rare occasion we do agree on who's evil—such as a child molester—we gather on social media and make horrific comments that we would recognize as evil in any other context. *Into the wood chipper, feet first!*
 
@@ -53,9 +53,25 @@ The message that we're sending them is something like:
 On some level, I think they know exactly what we're doing—and they're meant to. Because the worst thing they can do to us is not to attack. It is to *get better.*
 
 ---
+
+## A note for people who were hurt
+
+If the person you're thinking of is somebody who hurt you, or your child, or your people: your rage is right. Stopping them is right, and if stopping them takes force, the force is right. The fierceness comes from a good place, and nothing here asks you to feel less of it. But notice whether a second thing is riding along with it. Something that says: *I've been hurt, so I've earned the right to unleash a little of my own darkness.* If it's there, look at it. The verdict is the one thing you don't owe them. What they do is theirs. Your rage didn't cause it.
+
+Seeing clearly what they are capable of is not the verdict. You need that sight, and nothing here asks you to doubt it. The verdict is the other thing: that this is all they are. I can only say what holding it did in me. It was the evidence my own darkness ran on, *see, this world is a war, and the only thing that works is power*, and it kept me from looking at my own case.
+
+I want to say this part carefully, because if you were hurt, you have every reason to hear it as one more person telling you how to feel. You have earned things. Your rage, your refusal, your distance, and whatever it takes to make sure it never happens again: all of that is yours. Staying turned toward someone never means staying near them. If you're still living with the person who hurt you, or still within their reach, distance comes first. It is possible to leave, cut contact, and never see them again with no verdict in it at all. And nothing here demands that you turn toward them at all. That may come one day, or never, and there's no shame either way.
+
+The only thing to notice is this, and it's only an offer. That license, the one that says you've also earned a little darkness of your own: look at where it comes from. It doesn't come from the hurt. It comes from the same kind of turning away that hurt you. That darkness wants you to take the license, because nothing proves its case better than a good person who was wronged and took it. And the pull to do so is strongest here, because here you can see the darkness more clearly than anywhere else, and it uses that clear sight as the hook.
+
+And what actually frightens it is the other thing: fierce, unyielding refusal that carries no verdict. That isn't a nice idea from a book. As far as I can tell, it has a long record against power that needs consent, and none against power that doesn't; there, force is right. Where it works, my reading of why is that it does to power what the second stranger did to you: it gives the thing nothing to eat. It is also much harder than contempt, which is why contempt gets sold to you as the strong option.
+
+And then there's the contempt you aim at yourself, which Chapter 1 asked you to set down. The way you hold your own darkness is the way you'll end up holding theirs, and you hold your own first.
+
+---
 ## Collaboration
 
-Let's return to the perspective of the parasite itself. The handshake doesn't happen only between enemies. It often happens between friends.
+The "secret handshake" doesn't happen only between enemies. It often happens between friends.
 
 Say a manager at work has humiliated a junior colleague in front of the team. Later, a friend and I are talking about it. We agree that it was cruel, and that someone should say something.
 
@@ -101,23 +117,39 @@ And it scales beyond that, too.
 
 Consider the realm of politics. Suppose we discover that our opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant. Support policies that benefit them but harm the innocent.
   
-So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and we'll stop at nothing to expose it. It's part of our duty as "good people."  
+So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and must stop at nothing to expose it. It's part of our duty as "good people."  
   
-At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels more justified, and we notice it less. Because *we're* doing it for a good cause, and *they're* doing it for a bad one. It's *totally different.*
+At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels more justified. *We're* doing it for a good cause, and *they're* doing it for a bad one. It's *totally different.*
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
 
-When their side produces a genuine monster, we're unable to recognize our role in bringing them about. And when our side produces one, they are clearly a savior who can do no wrong (or at least whose benefit outweighs the harm). That one person then gives both sides more to fight over.
+When their side produces a genuine monster, we're unable to recognize our own role in bringing him (or her) about. All our attention gets sucked into hating him, making it even harder to reflect on what's happening inside us. And when our side produces one, he is a savior who can do no wrong as long as he's smiting our enemies. We don't see how that hatred can just as easily turn against us, or how it's already harming us.
+
+Hatred is fickle like that: because it stands for *me and mine*, I can find myself on the wrong end of even my best friend's, as allegiances shift. Integrity has no such problem, because it only ever stands for the *whole*—and there's only one of those.
+
+Here's a test I use. Pick a side you're on. Keep everything: the analysis, the care for the people the other side has hurt, every fair criticism. Give up only the permission to feel contempt for them. Would you take that trade? For me, the hesitation is the finding.
+
+---
+
+I'm an American of Indian origin, and when I think about the colonization of my people for long enough, my blood starts to boil. If I'm not careful, I can find myself feeling resentment toward British people alive today, which quickly curdles into contempt. *Sure*, I tell myself, *they might not have participated, but they're still benefiting*.
+
+At one time, I might have believed that my contempt was in service of ending the scourge of colonization. Now I see what it’s really for: it makes them see me as someone who needs to be held down. And if our roles are ever reversed, I’ll be able to point to their reaction as proof that _they_ were the ones who always needed holding down.
+
+When I sit in a room full of people stoking such resentment, I can almost feel that pattern operating across us at once. We may tell ourselves we're just bonding over a shared experience, but there's also something much darker going on. Our parasites are feeding off each other, tilling the soil of conflict. And if it ever does come to pass, not one of us will have to face our role in fostering it.
+
+Someone may have tried talking me out of hatred before, by pointing out how my enemy could use it against me. But it might have felt like further subjugation—blaming the victim, or tone policing. *It's not my duty to be nice to my captors!* And even if I agreed, it would have subtly reinforced the same pattern: *you're right, I can't give tools to my evil enemy!* It might have been a step in the right direction, but it doesn't solve the deeper problem.
+
+It wasn't until I saw that it's not just that they *could* use it against me, but that I *wanted* them to, that things finally clicked. The "enemy" I was giving tools to was *the darkness itself*, which was trying to recruit me.
+
+Truth be told, I think the pattern that gave rise to colonization still exists, and that we must deal with it as a species (more on that later). But I won't offer pat solutions to it here. What I can do is question the motive behind any solution I propose, here or anywhere.
 
 The more I see this, the more I realize that my true allies aren't those who hold the same views as me, or hate the same people. They're the people like the second stranger—and they exist on both sides of nearly every divide.
 
 ---
 
-Here's another way to look at what's happening. In contempt, one part of my mind is doing my "dirty work" for me while another keeps its hands clean. Does that remind you of anything?
+Here's another way to look at what's happening. In contempt, one part of my mind is doing my "dirty work" for me while another keeps its hands clean. That's *plausible deniability*, and I'm offering it to myself.
 
-We already hinted at it earlier: *plausible deniability.*
-
-As best I can tell, nobody needs to explicitly build that feature into organizations. When groups of people, unaware of their own parasites, gather to form institutions, this is the inevitable result. The right hand doesn't know what the left is doing—even as, at the same time, it does.
+As best I can tell, nobody needs to explicitly build that feature into institutions and organizations. When groups of people, unaware of their own parasites, gather to form institutions, this is the inevitable result. The right hand doesn't know what the left is doing—even as, at the same time, it does.
 
 ---
 
@@ -125,17 +157,19 @@ Contempt is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-
 
 That's what contempt's endgame looks like—how two people who once loved each other can see each other as monsters, and be certain that they're the uniquely aggrieved victims. And it's the same pattern we see playing itself out across all scales.
 
-It's as if the darkness is constantly nudging us all toward various forms of armageddon, be it divorce, civil war, or worse—situations in which we all feel compelled to violently attack each other to prove how righteous we are.
+It's as if the darkness is constantly nudging us all toward various forms of armageddon, be it brutal divorces, civil war, or worse—situations in which we all feel compelled to violently attack the other side to prove how righteous we are.
 
-And watch what happens when we start to discover something *off* about all this. Maybe we find out that the regular joes on the other side of the aisle aren't the real problem—it's that the evil elites have been playing us against each other, to take attention off of what *they're* doing.
+And notice what happens when we start to discover something *off* about all this. Maybe we find out that the regular joes on the other side of the aisle aren't the real problem—it's that the evil elites have been playing us against each other, to take attention off of what *they're* doing.
 
 What do we then do? Turn our contempt toward them—the *real* source of evil.
 
-It's not that we're wrong about what they're doing. It's that we refuse to see how they're stuck in the same pattern. How something far more insidious is tricking us into hating them to take attention off of *it.* A pattern reproducing itself within every one of us.
+It's not that we're wrong about what they're doing. It's that we refuse to see how they're stuck in the same pattern, and how we're reinforcing it. Something far more insidious is tricking us into hating them to take attention off of *it*: a pattern reproducing itself within every one of us.
 
 This, I think, is the source of the archetype of the *evil global conspiracy.* We're sensing something real—we're just confused about what it is. Its whole trick is to make us perceive it as something external to ourselves, because that's what keeps it alive.
 
 We can even give it a name: Satan. Then, if we're not careful, anyone who doesn't abide by the "right" rules appears to be a minion of his—and we all know what happens next.
+
+[TODO: It's a version of the darkest idea there is: that if we could only round up the bad people, the rest of us would live in peace. The self-deception I use to sustain that thought is the very darkness I think I'm fighting.]
 
 I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *ultimate* conspiracy.
 
@@ -145,7 +179,7 @@ For any of this to work, our parasite must do something far more clever than whi
 
 When you look at your enemy, doesn't it feel like you literally *see* a "bad person?" It doesn't feel like an idea you have; it just feels like the *truth.* That's why it doesn't feel wrong. It feels like you're seeing clearly.
 
-No amount of thinking harder will reveal to you that you're in this state, because while you're in it, all your thoughts are in service of hiding it from you. Your entire cognitive-perceptual system has been hijacked, so the very tools you'd normally use to detect the infection will just verify that you're the one who's free of it.
+No amount of thinking harder can show me when I'm in this state, because while I'm in it, my thoughts are busy hiding it from me. My whole cognitive-perceptual system is hijacked, so the very tools I'd normally use to detect the infection only verify that I am the one free of it.
 
 It's why "evil people" don't feel evil, and why you can't simply talk them out of it. Their entire worldview—and thus apparent world—is internally consistent, and will vigorously fend off any attempt to puncture it.
 

@@ -1,8 +1,6 @@
 # Chapter 2: Good and Evil
 
-[TODO: Bystanders.]
 [TODO: The road to hell.]
-[TODO: The corruption of the world benefits me.]
 [TODO: Public vs private behavior, shame vs remorse]
 [TODO: I use the darkness of the world to justify my own.]
 
@@ -48,17 +46,17 @@ Here's what I find in myself. Turning away from myself, from my better nature, f
 
 The padded expense, the lie to the insurer, the joke that makes someone smaller, the slur, the order to clear a village: each needs someone held out of view so that I, or mine, can be the exception.
 
-If I get on the bus with an pregnant or elderly person and pretend not to see them, I'll usually find myself usually muttering a story about why it's not my duty to help. Or maybe I bury myself in my music before getting on, to drown out any potential of seeing others. That's "evil" by this definition, but it's probably not helpful to say so. I may legitimately feel like I need more comfort in this moment, and calling myself names isn't going to help me clarify that in a way that helps me express the need while remaining *turned toward*. It's a subtle issue, and we won't get into all the nuances here.
+If I get on the bus with a pregnant or elderly person and pretend not to see them, I'll usually find myself muttering a story about why it's not my duty to help. Or maybe I bury myself in my music before getting on, to drown out any potential of seeing others. That's "evil" by this definition, but it's probably not helpful to say so. I may legitimately feel like I need more comfort in this moment, and calling myself names isn't going to help me clarify that in a way that helps me express the need while remaining *turned toward*. It's a subtle issue, and we won't get into all the nuances here.
 
 The harm I caused in the last chapter was tiny beside an atrocity. But it still felt malevolent, because it's the same fundamental gesture across all scales. The tiniest whiff of it carries the scent of the whole.
 
-In the very worst people, it appears as something like a *thirst for devouring innocence*. My desire to smother my enemy's "innocence": it was exactly that. If you look deeply enough into the desire to make the *bad people* suffer, it's what you'll find, too. It is the thing we all hate; hatred itself. That's why we don't look so deeply.
+In the very worst people, it appears as something like a *thirst for devouring innocence*. My desire to smother my enemy's "innocence": it was exactly that. When I look deeply enough into my desire to make the *bad people* suffer, it's what I find there, too. It is the thing we all hate; hatred itself. That's why we don't look so deeply.
 
 This is why I say contempt is evil. I don't just mean it's *bad.* I mean it is the thing in disguise. That's why it works.
 
 ---
 
-Of course, outcomes matter too. If the harm I caused my enemy ended with him, we might still balk at the name "evil." After all, maybe *the ends justify the means*? In that case, my inner knowing is just issuing a false alarm, and I'd be right to silence it.
+Of course, outcomes matter too. If the harm I caused my enemy ended with him, we might still balk at the name "evil." After all, maybe *the ends justify the means*? In that case, my inner knowing would just be issuing a false alarm, and I'd be right to silence it.
 
 But I don't think that's true. I think I'm using that argument to avoid seeing something. Cruelty is wrong by itself, and in addition, the ends usually bear that out.
 
@@ -91,6 +89,8 @@ And yet, I think, part of them can sense that's not the whole story.
 When I'm in their shoes, my conscience is warning me about *something.* I don't know what—whether an ecosystem will suffer, or my target will just take it out on his wife and kids. So I tell myself the warning is naive. I mean, how could it possibly predict the future?
 
 By turning away from myself, I turn away from the full implications of my behavior—and that acts as an invitation for others to do the same, which helps those very implications come to pass.
+
+And it doesn't stop with the two of us. Say I'm only watching: I see someone made small by a person who still looks like the one in the right. Maybe I laugh, or share the clip. The next time I want to make an exception for myself, I have his example to draw on.
 
 Contempt for any one being is contempt for *life in general.* I don't mean this as a philosophical claim. I mean that when I really stop to taste what it's "made of," this becomes impossible to ignore. The only reason it feels "righteous" is because I'm paving over that flavor with convincing stories.
 
@@ -138,7 +138,7 @@ What I'm not seeing is that I don't have the authority to redefine goodness. I *
 
 The further I drift, the worse *other* people look. I don't recognize this as my own projection, because I think of projection as mere thoughts I can recognize and adjust for. I'm a smart guy, after all. I don't realize how my beliefs literally shape my reality, making me unable to see through them. I just think I'm looking *at* reality.
 
-The worse other people look,, the more they deserve my contempt. And because for some strange reason they see *me* that way, they feel morally compelled to do it to me.
+The worse other people look, the more they deserve my contempt. And because for some strange reason they see *me* that way, they feel morally compelled to do it to me.
 
 ---
 
@@ -160,21 +160,31 @@ I can't prove that someone at the extreme still has a better nature, or how they
 
 So then what is goodness? 
 
-I think it's an *orientation.* If I had to name it, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself.
+I think it's an orientation. If I had to name it, I might call it being *turned toward all of life*. Not one person, and not my side: the second stranger wasn't exactly serving you, and he wasn't serving himself.
 
 But I hesitate to name it at all, because watch what happens when I do: *Goodness means serving life. This man isn't serving it. Therefore, hating him is good.* That's what I did to my enemy. It's the orientation turned into an idea, and it failed for the simplest reason: the man in front of me was part of the life I claimed to be serving.
 
-*Every* attempt to define goodness gives me some way to follow the letter of the law while violating its spirit. This is how most of my self-deception sneaks in: by following a definition, I can avoid feeling the *texture* of what I'm doing. Who cares about touchy-feeling things like "texture" when I can literally prove I'm doing good?
+*Every* attempt to define goodness leaves some loophole that lets me follow the letter of the law while violating its spirit. This is how most of my self-deception sneaks in: by following a definition, I can avoid feeling the *texture* of what I'm doing. Who cares about touchy-feely things like "texture" when I can literally prove I'm doing good?
 
 But the opposite approach fails, too. When I tell myself that goodness has no definition, I end up in that *who's to really say?* What's good is then whatever I decide in that moment.
 
-What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define. And now we can see why I refuse to believe this. The self-serving part of me: it *needs* this to be only a myth, and will manipulate my thoughts into making it so.
+What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define.
 
 ---
 
-What prevents me from sliding down the slope to full-blown evil? It's not that I have some special quality that the "bad people" lack. I'm not made of *better stuff.* In fact, telling myself those stories is exactly how I end up in their shoes, feeling increasingly righteous on the way down.
+As long as I can feel contempt for *anyone*, that dark urge still exists somewhere in me. So what is it that prevents me from sliding down that slippery slope into becoming the monsters I hate? Every person who took part in atrocities against their neighbors probably told themselves it could never be them.
 
-What actually stays my fall, I think, is *staying oriented.* That requires profound honesty and humility—and often, help from others. It's a moment by moment practice, which I can't just put on auto-pilot or delegate to my rational mind. My rational mind must be in service of the orientation, not the other way around. Otherwise, I'll end up way off course, unable to remember (or take seriously) the one instrument that could notify me or bring me back.
+The answer feels obvious: I know right from wrong. But that's not enough. I've always known that contempt for my enemies was wrong, and that hasn't ever stopped me. Or maybe I tell myself there are some lines I just won't cross—that I won't harm innocent people, for example. But that rule only helps if I can tell who's innocent, and I've been sure someone deserved what I gave them, then found out later I'd been fooling myself.
+
+Here's what I now think. That feeling of "well, I could obviously never do what they do"—that's the surest sign that I still can. It means self-deception is still operating.
+
+As long as I feel I'm made of *better stuff*, I'm leaving a door open. Under the right conditions, I can be nudged, bit by bit, away from my better nature in a way that makes me feel increasingly certain I'm still following it. I don't think there's a checkpoint where I'd notice I'd become the monster. The belief that there will be one is exactly what gets me in trouble.
+
+As best I can tell, the only solution is to *stay oriented*, moment by moment. That's a process I can't delegate to my rational mind, because of how easy it is to fool myself. My rational mind must be in service of the orientation, not the other way around. The more I'm lying to myself, the more of my mind is organized around hiding it from me.
+
+The first, smallest move I watch for is putting myself slightly above someone. That's an early sign that I'm shielding myself from the claim they could make on me, so I can get away with something. If I'd caught myself early with my enemy, I might have been able to course correct. But the longer it went on, the harder it was to admit what I'd been doing.
+
+I can't tell you exactly what your self-deception feels like. Only you know for sure when you're lying to yourself—though someone else often sees it first, the way the second stranger did. But you may recognize a moment when you found a reason not to look at something, and felt relieved. Mine has a signature, and the more honest I get, the earlier I notice it.
 
 ---
 
@@ -196,16 +206,18 @@ They say integrity is what we do when no one is watching. Whenever I've broken m
 
 I now believe that this somehow always finds its way into my outer world. It doesn't remain locked in my skull, like I tell myself. The soldier's desecration of life isn't waiting for a later deed to become real. Neither is private integrity. I can't justify this through the examples here; they can only provide a hint of where to look. What I saw is something larger, and I'll return to it.
 
-In my more honest moments, I can feel that I'll have to face what I've disowned one day. In a sense, I already am: it's as if my outer world is a reflection of that inner corruption.
+In my more honest moments, I can feel that I'll have to face what I've disowned one day. In a sense, I already am: it's as if my outer world is constantly reflecting back that inner corruption.
 
-If part of me knows this, and I don't ultimately want a darker world, then why do I keep doing it?
+This is something I'm only entitled to judge in my own case. It is never my place to look at what happens to another and say (or even believe) that they must have somehow brought it upon themselves. And this fact doesn't require a separate rule: when I look into why I want to make that judgment for others, I always find a subtle contempt.
 
-Well, look what it gets me. When I see that the whole world is corrupt, does that make it easier or harder for me to get away with my own self-serving behavior?
+If part of me knows I'm darkening the world, and I don't ultimately want such a world, then why do I keep doing it?
 
-It's as if part of my mind is working against my best interests—and against yours, too.
+Here's a question to ask yourself. When you see that the whole world is corrupt, does that make it easier or harder to hide your own misbehaviors from yourself? It doesn't mean we *want* a darker world, per se, but something in us benefits from it—and it knows how to work around us to get it.
 
 <!--
 # Chapter 2 holding pen
+
+(That world is yours as much as mine, made by all of us at once. So nothing that happens to anyone, an illness, a loss, what someone else did to them, is anyone else's to read as a sign of what they did. This is about the harm I do.)
 
 The full former pen is preserved verbatim in ../../chatgpt/archive.md under “Former Chapter 2 holding pen.” These are the points still worth placing.
 

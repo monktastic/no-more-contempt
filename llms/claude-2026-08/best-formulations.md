@@ -65,3 +65,9 @@
 
 - **2026-09-26** · Aditya's fragments in `brief.md`; `key-points` §2 F0 · Claude, "the clearest statement of it anywhere in the repo":
   > Our better nature is the only part of us that is sensing its way toward what is good. It is also the only part of us that can warn us when we've drifted from it. But the arguing part easily convinces us that it can do the sensing on its own.
+
+## Contempt for "evil people" as the open door
+
+- **2026-11-13** · working session; `key-points` §8, F0 under "As long as we feel like 'good people'" · Aditya, "our best formulation" (Aditya's draft, tightened with Claude and ChatGPT):
+  > When I look for what makes me sure, what I find first is how much I despise the people who didn't hide anyone. That feels like proof I'm nothing like them. But it's the same move, aimed somewhere safe: *they're a lesser kind of thing than me.* So I've come to read my contempt for "evil people" the other way round. It doesn't measure how far I am from them. It measures how far I could go.
+- *Earlier form, same claim:* `key-points` §8 F1, undated: "as long as we endorse any distinction whatsoever between *fundamentally good* and *fundamentally bad* people… it means that we are *already* those people in fledgling form… This only proves that we are *especially* susceptible."
