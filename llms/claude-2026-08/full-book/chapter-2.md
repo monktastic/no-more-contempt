@@ -58,9 +58,9 @@ This is why I say contempt is evil. I don't just mean it's *bad.* I mean it is t
 
 ---
 
-Of course, outcomes matter too. If the harm I caused my enemy ended with him, it wouldn't deserve the name "evil," no matter how well it fits some model. In that case, my inner knowing was just issuing a false alarm, and I'd be right to silence it.
+Of course, outcomes matter too. If the harm I caused my enemy ended with him, we might still balk at the name "evil." After all, maybe *the ends justify the means*? In that case, my inner knowing is just issuing a false alarm, and I'd be right to silence it.
 
-But I don't think that's true. I think I *know* it won't end with him—and that my claim that it will is just an excuse to silence that deeper knowing.
+But I don't think that's true. I think I'm using that argument to avoid seeing something. Cruelty is wrong by itself, and in addition, the ends usually bear that out.
 
 Start with an act that has no living victim left to hurt.
 

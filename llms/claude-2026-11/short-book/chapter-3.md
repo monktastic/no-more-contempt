@@ -1,7 +1,5 @@
 # Chapter 3: What You Are
 
-[TODO: being conscious of something isn't the same as being fully present to it.]
-
 Recall from Chapter 1 that I said my better nature is the deepest part of me: what exists beneath my self-deception, which is why hiding misbehavior from it feels like hiding it from *myself*, and going against it feels like going against myself. Go back to the wrong you remembered. When you finally owned up to it, did it feel like losing something of yourself, or like getting something back?
 
 For me, it feels like coming back to myself. That's the sense in which my better nature is the "real me." The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
@@ -28,23 +26,25 @@ What does that sound like to you?
 
 It is a parasite, and we are its hosts.
 
-On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. *It's* using us as vehicles to spread itself, by convincing us we're fighting it.
+On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *me* as a vehicle to spread itself, by convincing me I'm fighting it.
 
-Mine tempts my enemy to see mine *as* me, and his tempts me in the same way. If we succumb to this misperception, we're ignoring what we're actually doing: giving each other license to create more animosity in the world, so we can each continue to believe evil exists only "out there." It's like a secret handshake taking place beneath our threshold of awareness—but it's something we can each learn to see.
+Mine tempts my enemy to see mine *as* me, and his tempts me in the same way. If we succumb to this misperception, we're ignoring what we're actually doing: giving each other license to create more animosity in the world, so we can each continue to believe evil exists only "out there." It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can each learn to see.
 
 Have you ever felt like something in the "bad people" *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
 
 I'm not claiming there's a literal entity sitting in our brains. At the end of the day, the darkness is something we *do*, and we are each individually responsible for our own. But I find the parasite framing helpful for a number of reasons, so I'll continue to use it throughout the rest of this piece.
 
-Sometimes I'll refer to my darkness (or my parasite), but since they're all working toward the same "goal," I'll also treat them as pieces of a singular mechanism—what I'll call *the* darkness. It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
+Sometimes I'll refer to *my* darkness (or my parasite), but since they're all working toward the same "goal," I'll also treat them as pieces of a singular mechanism—what I'll call *the* darkness. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
+
+I sometimes picture it as a life-denying, life-devouring force. It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
 
 ---
 
 This gives another way to look at "evil people": they are those for whom the infection has gone so deep that they can no longer tell it apart from themselves. My contempt has only ever been shoving them deeper into the grip of their captor; our shared nemesis.
 
-What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong team. I had to hide that at any cost.
+What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong "team." Of course I had to hide that at any cost.
 
-This is why I *need* to know that evil people are fundamentally different—and why I must do everything in my power to keep them that way. And not just me: we, as a society, have a vested interest in knowing the worst people are nothing like us. That is why, on the rare occasion we do agree on who's evil—such as a child molester—we gather on social media and make horrific comments about them. *Into the wood chipper, feet first!*
+This is why I *need* to know that evil people are fundamentally different—and why I must do everything in my power to keep them that way. And not just me: we, as a society, have a vested interest in knowing the worst people are nothing like us. That is why, on the rare occasion we do agree on who's evil—such as a child molester—we gather on social media and make horrific comments that we would recognize as evil in any other context. *Into the wood chipper, feet first!*
 
 The message that we're sending them is something like:
 
@@ -55,7 +55,7 @@ On some level, I think they know exactly what we're doing—and they're meant to
 ---
 ## Collaboration
 
-The handshake doesn't happen only between enemies. It often happens between friends.
+Let's return to the perspective of the parasite itself. The handshake doesn't happen only between enemies. It often happens between friends.
 
 Say a manager at work has humiliated a junior colleague in front of the team. Later, a friend and I are talking about it. We agree that it was cruel, and that someone should say something.
 
@@ -107,25 +107,35 @@ At first it's subtle enough to deny, even to ourselves. We really think we're do
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
 
-When their side produces a genuine monster, we're unable to recognize our role in bringing them about; how they are effectively *made* of our collective contempt. And when our side produces one, they are clearly a savior.
+When their side produces a genuine monster, we're unable to recognize our role in bringing them about. And when our side produces one, they are clearly a savior who can do no wrong (or at least whose benefit outweighs the harm). That one person then gives both sides more to fight over.
 
 The more I see this, the more I realize that my true allies aren't those who hold the same views as me, or hate the same people. They're the people like the second stranger—and they exist on both sides of nearly every divide.
 
 ---
 
-Contempt is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-horsemen-contempt/). We've all heard of bitter divorces where each side treats the situation like total war. The other side appears unrepentantly evil, so anything becomes justified. Each can *see* it in the other. That's what the endgame looks like.
+Here's another way to look at what's happening. In contempt, one part of my mind is doing my "dirty work" for me while another keeps its hands clean. Does that remind you of anything?
+
+We already hinted at it earlier: *plausible deniability.*
+
+As best I can tell, nobody needs to explicitly build that feature into organizations. When groups of people, unaware of their own parasites, gather to form institutions, this is the inevitable result. The right hand doesn't know what the left is doing—even as, at the same time, it does.
+
+---
+
+Contempt is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-horsemen-contempt/). We've all heard of bitter cases where each side treats the situation like total war; where the other side appears unrepentantly evil, so anything becomes justified. Each can *see* it in the other.
+
+That's what contempt's endgame looks like—how two people who once loved each other can see each other as monsters, and be certain that they're the uniquely aggrieved victims. And it's the same pattern we see playing itself out across all scales.
 
 It's as if the darkness is constantly nudging us all toward various forms of armageddon, be it divorce, civil war, or worse—situations in which we all feel compelled to violently attack each other to prove how righteous we are.
 
-And watch what happens when we start to discover something *off* about all this. Maybe we find out that the regular joes on the other side of the aisle aren't the real problem—it's that the evil elites have been playing us against each other, to take attention off of what they're doing.
+And watch what happens when we start to discover something *off* about all this. Maybe we find out that the regular joes on the other side of the aisle aren't the real problem—it's that the evil elites have been playing us against each other, to take attention off of what *they're* doing.
 
 What do we then do? Turn our contempt toward them—the *real* source of evil.
 
-It's not that we're wrong about what they're doing. But we refuse to see how they're stuck in the same pattern. How something far more insidious is tricking us into hating them to take attention off of *it.* Something that lives within every one of us.
+It's not that we're wrong about what they're doing. It's that we refuse to see how they're stuck in the same pattern. How something far more insidious is tricking us into hating them to take attention off of *it.* A pattern reproducing itself within every one of us.
 
-This, I think, is the source of the archetype of the *evil global conspiracy.* We're sensing something real. We're just confused about what it is. Its whole trick is to make us perceive it as something external ourselves, because that's what keeps it alive.
+This, I think, is the source of the archetype of the *evil global conspiracy.* We're sensing something real—we're just confused about what it is. Its whole trick is to make us perceive it as something external to ourselves, because that's what keeps it alive.
 
-We can even give it a name: Satan. Then, if we're not careful, anyone who doesn't abide by the "right rules" appears to be a minion of his—and we all know what happens next.
+We can even give it a name: Satan. Then, if we're not careful, anyone who doesn't abide by the "right" rules appears to be a minion of his—and we all know what happens next.
 
 I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *ultimate* conspiracy.
 
@@ -143,7 +153,6 @@ And now recall that a milder version of this is actually my *default* state.
 
 If that's true, then how do I find my way out of it?
 
----
 ---
 
 <!--
