@@ -16,7 +16,8 @@ Did I choose to turn away? It feels as if I must have. I knew better, after all.
 But if harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* wouldn't work—it would be a wrong done while still looking. That's the one thing I couldn't do with the stranger's face in Chapter 2. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
 
 [TODO: I don't get / like this paragraph]
-There is one choice, and it's real; it just never comes under that name. While you can still feel both pulls—the recognition, and the want the recognition would veto—you're still looking, and you can keep looking or stop. That's the choice. After it, there's no chooser in the middle, only reasons, and they feel like your own judgment. And what you chose wasn't described to you as *stop seeing him*. It came labeled *I've had a long day*, or *he had it coming*. The want the recognition would have vetoed was innocent; the label came from the story. That's why, looking back, it feels like you chose it knowing better, and you did, and that isn't shame's shape, *I am it*. It's remorse's, *I did it*.
+[TODO: Claude, November 14, after ChatGPT's review: the paragraph said I can't decide to stop seeing while looking, then that while looking I can keep looking or stop. The choice is now the smaller, familiar one: staying with the face, or letting attention drift to something easier. "there's no chooser in the middle" made "I don't feel myself choosing anything"; "The want the recognition would have vetoed was innocent; the label came from the story" cut. Was: "There is one choice, and it's real; it just never comes under that name. While you can still feel both pulls—the recognition, and the want the recognition would veto—you're still looking, and you can keep looking or stop. That's the choice. After it, there's no chooser in the middle, only reasons, and they feel like your own judgment. And what you chose wasn't described to you as *stop seeing him*. It came labeled *I've had a long day*, or *he had it coming*. The want the recognition would have vetoed was innocent; the label came from the story. That's why, looking back, it feels like you chose it knowing better, and you did, and that isn't shame's shape, *I am it*. It's remorse's, *I did it*."]
+What I can do is smaller. While I can still feel both pulls, the recognition and the want it would veto, I can stay with the face, or let my attention drift somewhere easier: how long my day has been, what he did last time. That drift is the choice, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything; I feel reasons, and they feel like my own judgment. That's why, looking back, I know I could have stayed, and I didn't. That isn't shame's shape, *I am it*. It's remorse's, *I did it*.
 
 Shame gives me a reason to look away again. Remorse is what turning back feels like. You turn toward someone you've harmed and see them properly. In the same movement, you come back to yourself.
 
@@ -36,7 +37,7 @@ The same split happens in public. Watch the next terrible crime in the news divi
 
 If you lean toward monster, a thought may come up here. It does for me: *Oh, boo hoo, he was abused as a child. That's no excuse. I was hurt too, and I didn't turn evil.* Maybe so. People who were hurt do turn out differently, and the differences are real, and they matter. But look at what the thought is doing. Look for where you're taking credit: for the people who held you, the help you had, the day it could have gone the other way. And look at whether it's a way to keep a little contempt with a "clear conscience."
 
-And if he seems to have been born this way, or got there for no reason anyone can find? There are answers on offer, from genetics to karma, and I don't know which is right. It's the hardest case in this book for me. But however he got there, the state he's in now is the same turned-away state, and how he got there doesn't change how to treat him.
+And if he seems to have been born this way, or got there for no reason anyone can find? There are answers on offer, from genetics to karma, and I don't know which is right. It's the hardest case in this book for me. But however he got there, what I see in him now, as far as I can tell, is the same turned-away state, and how he got there doesn't change how to treat him.
 
 Then there's the one who enjoys it with the face right there. What he has turned from isn't the face but the claim it makes on him, and you can check that from your own side. Remember a time you enjoyed someone getting what was coming to him: the verdict landing, the clip, the takedown. Now go back to the stranger's face, the way you held it, and imagine doing the same thing to your enemy from there, and enjoying it the same way. See whether the enjoyment will come.
 
@@ -52,7 +53,8 @@ Was the wrong that was hardest for you to admit the one you knew least about? Fo
 
 [TODO: Claude, November 14: from full-book/chapter-6.md:49, verbatim, minus the footnote marker; joint wording (6b3fdc2).]
 
-Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by turning away further up: at the deli counter, the shareholders', everyone's who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete. Now run that out to the far end. The most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding. You see it as more "evil" looking out their eyes.
+[TODO: Claude, November 14: "My belief is that" added before "the most lost person" (ChatGPT: the far end is stated as settled before the book says it's an extrapolation).]
+Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by turning away further up: at the deli counter, the shareholders', everyone's who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete. Now run that out to the far end. My belief is that the most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding. You see it as more "evil" looking out their eyes.
 
 [TODO: Claude, November 14: from full-book/chapter-6.md:51, the footnote, into the body as the lead-in to the exercise; joint wording. "(the Epilogue says how)" became "on the mushrooms" (Chapter 4's passage); "right after this chapter" became "here".]
 
@@ -121,17 +123,23 @@ Fierce is where the darkness finds it easiest to get in. From outside, fierce an
 
 Here is what the clean version sounds like. *That was out of line, and it stops now.* And the same words with the extra: *That was out of line, and it stops now*, followed by the half-second pause to watch it land. *I don't think you understood what that did to her.* With the extra: *I don't think you're capable of understanding what that did to her.* *You lied to me.* With the extra: *Of course you lied to me.* Each time the difference is one word or one pause, and each time you know, on the way out, which one you sent. And the clean one does something the other can't. It's as though the light in me is reminding the light in him that it has a partner in the fight against what has him, and I can do that while still fighting the man.
 
-[TODO: Claude draft, November 14: the check.]
-
-Take something you said this week with an edge in it, and say it both ways.
-
 [TODO: Claude, November 14: from full-book/chapter-7.md:39, verbatim. The coach is marked Claude's draft there; the rest is joint wording.]
 
 There are two meanings of "judgment." One is *wise discernment,* and the other adds a verdict about the person. The same split runs through "punishment" and "outrage": each has a sense that answers the harm and a sense that needs the person to hurt. Part of us keeps the two blurred on purpose, so that when we're caught doing the second, we can claim we were only doing the first. The coach who called a twelve-year-old worthless in front of his team says he was holding him to a standard.
 
+[TODO: Claude draft, November 14: the check.]
+
+Take something you said this week with an edge in it, and say it both ways.
+
+---
+## Knowing What to Do
+
 [TODO: Claude, November 14: first two sentences mine, a callback to Chapter 2's "Care doesn't tell me which policy will work". Then full-book/chapter-7.md:17, joint wording (5e2aa38), with "the guide" (a term this book doesn't have) made "care". The last sentence of 7:17 is cut.]
 
 Even the clean sentence can be the wrong one. Care tells me that others matter. It doesn't tell me which policy will work, or what to say at the dinner table. A person fully turned toward others can still be wrong about everything else, and make a mess. Knowing what to do is a separate thing, and unevenly distributed. What care gives me is the one stance that doesn't feed the darkness, and the one from which wisdom has a chance.
+
+[TODO: Claude, November 14, after ChatGPT's review ("the clearest substantive loss worth restoring briefly"): from full-book/chapter-7.md:13, joint wording, cut to the positive role of rules. The section heading and the move of the judgment paragraph above the check are mine: the section now ends on its practice, and what follows answers a different question.]
+That's one reason we need rules. A contract, a precept, a grievance procedure exist because people who were sure they had us fully in view didn't. Rules can express goodness and serve it. What a rule can't do is contain goodness, or certify that the person following it is still turned toward anyone.
 
 [TODO: Claude, November 14: your T1 at index.md:621 ("Aditya."), recast so the second sentence asks instead of telling the reader what they sensed.]
 
@@ -158,7 +166,7 @@ If you hesitated at the test in Chapter 3, was part of the hesitation a fear abo
 
 [TODO: Claude, November 14: from full-book/chapter-7.md:23, its first four sentences and the fifth's first clause; joint wording (f213ba0). Your T1 at index.md:111 is the FTX version. The rest of 7:23 (the clever mind's trap) is Chapter 6's.]
 
-The same check works on the cause itself, grand or small: does it need you not to look at what it costs here, now, because the good it does later will make up for it? It rarely feels like contempt. It feels like arithmetic: what my work does to a forest is fine, because a dollar of what I earn can plant two trees later, and I'll surely donate it. The arithmetic is the side that argues. If the plan needs it, it isn't coming from the part that cares, and it probably won't do what its proof says it will.
+There's a check for the cause itself, grand or small: [TODO: Claude, November 14: was "The same check works on the cause itself, grand or small:", which pointed at nothing nearby.] does it need you not to look at what it costs here, now, because the good it does later will make up for it? It rarely feels like contempt. It feels like arithmetic: what my work does to a forest is fine, because a dollar of what I earn can plant two trees later, and I'll surely donate it. The arithmetic is the side that argues. If the plan needs it, it isn't coming from the part that cares, and it probably won't do what its proof says it will.
 
 ---
 ## Every Day
@@ -181,7 +189,14 @@ There's one more clue you can use today. When you're acting from contempt, notic
 
 [TODO: Claude, November 14: from full-book/chapter-7.md:45, verbatim except that one long sentence is split at "and I don't have it"; joint wording (71b6c6e).]
 
-Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing. And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. How much innocence you can see in others measures your own freedom more than their goodness. That's why seeing all the way into somebody far gone may be the work of a lifetime, and I don't have it. The near end is available now: catch yourself wanting them to be what you've decided they are, and notice, as the verdict settles, that something in you was after it. That isn't a reason to doubt what you see when someone is dangerous; seeing that is sight, and you act on it.
+Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing. And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. How much innocence you can see in others measures your own freedom more than their goodness.
+
+[TODO: Claude, November 14: the paragraph above is split here, and "Every Day" reordered: the clues, then catching it in the moment, then catching it late, then repair, then help. It used to run speed and repair before "And when you do catch it in the moment".]
+That's why seeing all the way into somebody far gone may be the work of a lifetime, and I don't have it. The near end is available now: catch yourself wanting them to be what you've decided they are, and notice, as the verdict settles, that something in you was after it. That isn't a reason to doubt what you see when someone is dangerous; seeing that is sight, and you act on it.
+
+[TODO: Claude, November 14: from full-book/chapter-7.md:67, verbatim. "Look at the contempt itself" is joint wording (9e15f1c); the tightening is marked Claude's draft (Fable's point).]
+
+And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight. It comes back, and you look again; the first several times you may find only a tight chest and the story. The tightening is worth learning, because it usually comes before the story does, and it doesn't argue. The traditions also have practices built for the person you can't stand. One is to breathe in their darkness and breathe out to them what you'd want for yourself. The Gospel's is plainer: pray for those who persecute you. They're worth taking to a teacher.
 
 [TODO: Claude, November 14: from full-book/chapter-7.md:65, verbatim. "days, then hours" is Claude's (Passes 1–6 with CC); the repair sentence is marked Claude's draft (Fable's point). Chapter 2's "the more honest I get, the earlier I notice it" is its seed.]
 
@@ -190,10 +205,6 @@ You often don't get to choose whether the contempt arises. What is yours is how 
 [TODO: Claude draft, November 14: amends (Walt and Andre, Steps 8 and 9).]
 
 Sometimes the repair needs words, and they can be plain: *I've been looking at you a certain way for a long time, and it wasn't fair.* Sometimes words would be one more performance, and the repair is the next time, with the look caught before it goes out. The twelve-step programs keep a list for this: everyone you've harmed, and what you can make right. Either way, it's for them. If I'm apologizing to feel clean, or to be seen apologizing, the extra has found another way out.
-
-[TODO: Claude, November 14: from full-book/chapter-7.md:67, verbatim. "Look at the contempt itself" is joint wording (9e15f1c); the tightening is marked Claude's draft (Fable's point).]
-
-And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight. It comes back, and you look again; the first several times you may find only a tight chest and the story. The tightening is worth learning, because it usually comes before the story does, and it doesn't argue. The traditions also have practices built for the person you can't stand. One is to breathe in their darkness and breathe out to them what you'd want for yourself. The Gospel's is plainer: pray for those who persecute you. They're worth taking to a teacher.
 
 [TODO: Claude, November 14: first two sentences after full-book/chapter-7.md:7, joint wording (2b58e02), with "the guide" made "the part of you that knows". The list is mine (Walt: "Who does he call?"), and its last item calls back to Chapter 3's colleague.]
 

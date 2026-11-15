@@ -30,7 +30,7 @@ here is a record of what was done; that goes in git, and the lessons go in
 
 ## The short book
 
-*Consolidated October 13 from the leftovers of rounds 5 to 51. The round records themselves are in `short-book/readers/round-log.md`, verbatim. Owner in brackets. Inline notes: `grep -n "TODO" short-book/*.md long-book/appendix-*.md`.*
+*Consolidated October 13 from the leftovers of rounds 5 to 51. The round records themselves are in `short-book/readers/round-log.md`, verbatim. Owner in brackets. Inline notes: `grep -n "TODO" short-book/*.md ../claude-2026-11/appendices/appendix-*.md`.*
 
 **Before it goes to the group**
 

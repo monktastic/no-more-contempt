@@ -47,7 +47,7 @@ quoted, never only into a holding pen.
 Everything the book is made of lives in `long-book/`. The base directory holds
 the working documents: what the book claims, what's open, and how to decide.
 
-`long-book/start-here.md` orientation for early readers; the site's front page.
+`../claude-2026-11/start-here.md` orientation for early readers; the site's front page.
 `long-book/preface.md`, `chapter-1.md`, `chapter-1a.md` (the interlude after
 Chapter 1), `chapter-2.md`, `chapter-3.md`, `chapter-4.md`, `chapter-5.md` (the whole
 book once, condensed and tiered; the short version, with `rest-of-book.md` the
@@ -95,14 +95,14 @@ seeds, with Aditya's placed passages and TODOs. In the working manuscript, not
 on the site. They will absorb `rest-of-book.md` as they're written.
 `long-book/rest-of-book.md` the map of the unwritten rest, for beta readers.
 Scaffolding; will not be in the finished book, but it does go into the build.
-`long-book/appendix-1-recursion.md` what contempt presupposes, run as an
+`../claude-2026-11/appendices/appendix-1-recursion.md` what contempt presupposes, run as an
 abductive argument: assumptions the reader needn't hold, the look built from
 them, the need it serves, what it costs the verdict, why only an absence fits
 the shape without slack, what I believe is really happening (marked), the
 formal version for the lawyers, and where else to look. The appendices
 serve both books, so they cite neither by chapter.
-`long-book/appendix-2-the-traditions.md` the traditions that named the thing.
-`long-book/appendix-3-what-others-have-seen.md` the thinkers who saw the mechanism, written mostly by Claude and marked so.
+`../claude-2026-11/appendices/appendix-2-the-traditions.md` the traditions that named the thing.
+`../claude-2026-11/appendices/appendix-3-what-others-have-seen.md` the thinkers who saw the mechanism, written mostly by Claude and marked so.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.
@@ -166,8 +166,9 @@ Generated output; never edit it.
 `publish.sh` generates the website from the manuscript files into the repo
 root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. The long book
 (`book/`) and its map (`map/`) are published but kept out of the menu and the
-search, so old links still work; the menu is Start here, the condensed book
-(`short/`), the appendices and the downloads. Nothing generated
+search, so old links still work; the menu is Start here, the current book
+(`short/`, built from `../claude-2026-11/short-book/`; the condensed book in
+`short-book/` is no longer published), the appendices and the downloads. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
 every push to main and deploys the result, so pushing a change to `long-book/`
 is all it takes to publish. Run the scripts locally to see the site before you
@@ -179,7 +180,7 @@ Actions build wants. It cuts the "Original material" section and everything
 after `<!-- working notes -->` from the draft chapters. The site is Jekyll with
 the just-the-docs theme; config is `_config.yml` at the repo root, custom style
 in `_sass/custom/custom.scss`.
-`make-downloads.sh` builds the condensed book and the appendices as one file for readers who would
+`make-downloads.sh` builds the current book and the appendices as one file for readers who would
 rather not read a website: `downloads/no-more-contempt.md`, `.epub` and `.pdf`,
 plus the Downloads page that links them. Same sources, same stripping, in the
 order the site's menu follows. Needs pandoc and typst, which is what the

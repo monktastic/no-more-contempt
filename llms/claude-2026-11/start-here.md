@@ -8,15 +8,16 @@ This is a book about contempt: what happens when you decide that a person isn't 
 
 ## What's here
 
-**The condensed book** is the whole argument in five chapters, followed by the picture I use, an exercise for the far end, and an epilogue about what I saw. It runs about seventy pages. The full book, which I'm still writing, will be longer: it takes each step more slowly, with more cases, the finer distinctions, and the places where the account could fail.
+[TODO: Claude, November 14: rewritten for the November book. Was: "**The condensed book** is the whole argument in five chapters, followed by the picture I use, an exercise for the far end, and an epilogue about what I saw. It runs about seventy pages. The full book, which I'm still writing, will be longer: it takes each step more slowly, with more cases, the finer distinctions, and the places where the account could fail." The full-book sentence is out, since the November book replaces both; put it back if a longer book is still planned.]
+**The book** is the whole argument in four chapters, then a chapter on what to do with it, then the picture I hold, and an epilogue about what I saw. It runs about seventy pages.
 
 **The appendices** are the machinery of the argument, the religious and contemplative traditions that got here first, and the thinkers who came closest to it.
 
-**One file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the condensed book and the appendices as an EPUB, a PDF, or plain text.
+**One file**, if you'd rather read away from a browser: [download](https://www.nomorecontempt.org/downloads/) the book and the appendices as an EPUB, a PDF, or plain text.
 
 ## How to read it
 
-Read it in order and stop whenever you like. Chapter 1 does most of the work: give it your full attention, and do the things it asks. The picture I use and the epilogue go past what you can check, and they say so.
+Read it in order and stop whenever you like. Chapter 1 does most of the work: give it your full attention, and do the things it asks. The picture I hold and the epilogue go past what you can check, and they say so.
 
 The menu on the left follows this order.
 

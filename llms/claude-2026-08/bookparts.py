@@ -2,15 +2,24 @@
 split from its title, what comes out before a reader sees it, and the order of
 the book. Shared so the website and the download files can't drift apart."""
 
+import pathlib
 import re
 
 SITE_URL = 'https://www.nomorecontempt.org'
 TITLE = 'No More Contempt'
 AUTHOR = 'Aditya Prasad'
 
+# What the site's menu and the downloads follow: Start here, the November book
+# (llms/claude-2026-11/short-book/) and the appendices, which serve every version
+# of the book and so live beside the current one.
+CURRENT = pathlib.Path(__file__).resolve().parent.parent / 'claude-2026-11'
+CURRENT_BOOK = CURRENT / 'short-book'
+START_HERE = CURRENT / 'start-here.md'
+APPENDIX_DIR = CURRENT / 'appendices'
+
 # The long book's reading order. The site keeps these pages but hides them from
-# its menu; the condensed book (short-book/) is what the menu and downloads follow.
-FRONT = ['start-here.md']
+# its menu.
+FRONT = []
 BOOK_FILES = ['preface.md', 'chapter-1.md', 'chapter-1a.md', 'chapter-2.md',
               'chapter-3.md', 'chapter-4.md', 'chapter-5.md']
 DRAFT_FILES = [f'chapter-{n}.md' for n in range(6, 18)]
@@ -48,6 +57,9 @@ def strip_todos(text):
     # Holding pens and any other HTML comment: invisible on the page, but they'd
     # sit in the page source and the downloads, and they'd inflate the counts.
     text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
+    # A chapter that ends on a section rule, or on the double bar above its
+    # holding area, would end the page on a stray line.
+    text = re.sub(r'(\n[ \t]*---[ \t]*)+\s*$', '', text.rstrip())
     return text.rstrip() + '\n'
 
 
@@ -67,11 +79,11 @@ def pages(words):
     return int(round(words / float(WORDS_PER_PAGE)))
 
 
-def condensed_files(here):
-    """The condensed book's sources in reading order: its preface, then its
-    chapters. A letter after a number sorts after it, so 5a follows 5."""
-    short = here / 'short-book'
-    return [short / 'preface.md'] + sorted(short.glob('chapter-*.md'))
+def condensed_files(here=None):
+    """The current book's sources in reading order: its preface, then its
+    chapters. A letter after a number sorts after it, so 6a follows 6. The
+    argument is ignored; it's kept so old callers still work."""
+    return [CURRENT_BOOK / 'preface.md'] + sorted(CURRENT_BOOK.glob('chapter-*.md'))
 
 
 def start_here_counts(body, condensed_words):

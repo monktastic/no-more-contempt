@@ -178,7 +178,8 @@ As long as I can feel contempt for *anyone*, that dark urge still exists somewhe
 
 The answer feels obvious: I know right from wrong. But that's not enough. I've always known that contempt for my enemies was wrong, and that hasn't ever stopped me. Or maybe I tell myself there are some lines I just won't cross—that I won't harm innocent people, for example. But that rule only helps if I can tell who's innocent, and I've been sure someone deserved what I gave them, then found out later I'd been fooling myself.
 
-Here's what I now think. That feeling of "well, I could obviously never do what they do"—that's the surest sign that I still can. It means self-deception is still operating.
+[TODO: Claude, November 14, after ChatGPT's review: made my finding, not a diagnosis the reader's disagreement would confirm. Was: "Here's what I now think. That feeling of "well, I could obviously never do what they do"—that's the surest sign that I still can. It means self-deception is still operating."]
+Here's what I now think. In me, that feeling of "well, I could obviously never do what they do" has been the surest sign that I still can. Every time I've looked into it, I've found self-deception still operating.
 
 As long as I feel I'm made of *better stuff*, I'm leaving a door open. Under the right conditions, I can be nudged, bit by bit, away from my better nature in a way that makes me feel increasingly certain I'm still following it. I don't think there's a checkpoint where I'd notice I'd become the monster. The belief that there will be one is exactly what gets me in trouble.
 

@@ -4,7 +4,7 @@
 # Downloads page that links them. Output goes to <repo root>/downloads by
 # default, or to DIR with --out DIR (which is how CI will call it).
 #
-# Sources are Start here, short-book/ and the appendices, in the order the site's menu follows, with TODOs and
+# Sources are Start here, the current book (llms/claude-2026-11/) and the appendices, in the order the site's menu follows, with TODOs and
 # working notes stripped exactly as publish.sh strips them (same code, in
 # bookparts.py). Needs pandoc; the PDF also needs a LaTeX engine, typst, or
 # Calibre's ebook-convert, and is skipped with a warning if none is installed.
@@ -44,10 +44,10 @@ FROM=markdown-yaml_metadata_block-multiline_tables-simple_tables
 OUT="$OUT" BODY="$BODY" SHA="$SHA" DATE="$DATE" TMP="$TMP" python3 - <<'PY' || exit 1
 import os, pathlib, re
 from bookparts import (APPENDIX_FILES, TITLE_OVERRIDES, TITLE, AUTHOR, SITE_URL,
+                       START_HERE, APPENDIX_DIR,
                        split_title, strip_todos, condensed_files,
                        banner_to_markdown, pages, start_here_counts)
 
-MAN = pathlib.Path('long-book')
 OUT = pathlib.Path(os.environ['OUT'])
 stamp = (f'*Working draft of {os.environ["DATE"]}, built from commit '
          f'{os.environ["SHA"]}. The current version is always at {SITE_URL}.*')
@@ -56,10 +56,9 @@ condensed = condensed_files(pathlib.Path('.'))
 condensed_words = sum(len(strip_todos(split_title(f.read_text())[1]).split()) for f in condensed)
 
 sections = []
-for path in [MAN / 'start-here.md'] + condensed + [MAN / f for f in APPENDIX_FILES]:
+for path in [START_HERE] + condensed + [APPENDIX_DIR / f for f in APPENDIX_FILES]:
     title, body = split_title(path.read_text())
-    # The overrides name long-book/ files; the condensed book's chapters share their names.
-    if path.parent == MAN:
+    if path == START_HERE:
         title = TITLE_OVERRIDES.get(path.name) or title
     body = banner_to_markdown(strip_todos(body))
     if path.name == 'start-here.md':
@@ -184,7 +183,7 @@ permalink: /downloads/
 
 # Downloads
 
-The condensed book in one file: Start here, the preface and the chapters, and
+The book in one file: Start here, the preface and the chapters, and
 the appendices. About {words:,} words, roughly
 {pages(words)} pages. Built from commit {os.environ["SHA"]} on {os.environ["DATE"]};
 the site is always the current version.
