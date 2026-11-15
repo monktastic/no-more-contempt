@@ -10,15 +10,16 @@ Evil as an absence of good rather than a substance: Augustine. Ignorance as its 
 
 If those are the conclusions, I haven't discovered anything.
 
-What I think is new is smaller and lives underneath them: what actually passes between two people during a single act of contempt, and why that transaction reproduces itself. So the useful thing I can do here is go through the neighbours one at a time, say what each of them saw, and say exactly where each stops. The stopping places turn out to be interesting, because most of them stop at the same line.
+What I think is new is smaller and lives underneath them: what actually passes between two people during a single act of contempt, and why that transaction reproduces itself. So the useful thing I can do here is go through the neighbors one at a time, say what each of them saw, and say exactly where each stops. The stopping places turn out to be interesting, because most of them stop at the same line.
 
 One rule binds what follows, and the book's own claim is what binds it. Each of them gets the strongest version of what they saw. An uncharitable reading of a predecessor is the thing this book is about, in its most respectable clothes, and I've caught myself at it in earlier drafts of this very appendix.
 
 ---
 
-**Jung** got the disowning. We refuse a part of ourselves, and then we find it, vividly, in somebody else, and we hate it there with a heat that has nothing to do with them. Nothing in this book improves on that as a description of what's happening inside one person.
+[TODO: Claude, November 16: the Jung section rewritten so it states the disagreement over limbo (Jung put the projecting in the unconscious; the book says I'm using what I disown). Check both Jung quotes against the Collected Works: *Aion*, CW 9ii, ¶17 and ¶14.]
+**Jung** got the disowning. We refuse something in ourselves, then find it, vividly, in somebody else, and hate it there with a heat that has nothing to do with them. But he put the projecting in the unconscious: "one meets with projections, one does not make them" (*Aion*, ¶17). He thought the shadow could be made conscious. What I find is that it already is, only unacknowledged. I'm using it while I act, to anticipate your reactions and steer around exposure, and keeping myself from admitting it. When I finally look, I admit what I was already using. Jung came close when he wrote that no one becomes conscious of the shadow "without considerable moral effort." That's a strange thing to say about something you can't see.
 
-Where it stops is on the other side of the exchange. The Jungians knew a projection needs a hook, something real in the other person for it to catch on; von Franz is clearest about it. But the hook only receives. It doesn't say what the person on the receiving end is doing, or how they know. And the thing I keep running into is that the person on the receiving end knows. Instantly, and without being told. That's not a fact about your unconscious. It's a fact about what got transmitted.
+His account also stops at the other person. Later Jungians, Marie-Louise von Franz most clearly, saw that a projection needs a hook: something real in the other person for it to catch on. But a hook only receives. It says nothing about what the other person does, or how they know what's being done to them. And they do know. They know at once, without being told. That isn't something happening in my unconscious. It's something I sent, and they received.
 
 **Girard** got the arrangement. The crowd needs its victim to be guilty; the violence is contagious; the peace afterward is real and is bought with somebody. He also saw that the participants cannot know what they're doing and have it still work, which is close to the structural point I've been making about limbo, at the scale of a mob.
 

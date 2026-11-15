@@ -1,14 +1,8 @@
 # Chapter 6: The Picture I Hold
 
-[TODO: Claude draft, November 14: assembled to todo.md §4. Each section answers the question the one before it leaves: the tree (what happened to the feeling?), The Deepest Form (the world held as stuff, the knowing treated as optional), The Part That Proves (how a civilization learns that, and what it gets from it), The Living World (how a world of non-monsters eats the biosphere), One Darkness (why it all leans one way), Reason in Service (what gets us back). The Deepest Form comes before the part that proves, not after as in the outline, because it already says the knowing doesn't count; put after, it would be the echo. Overflow is in the holding pen at the end.]
-
-[TODO: Claude, November 14: the marker, from full-book/chapter-7a.md:3 (joint wording, d116c4e), adapted so the tree comes first as the last check.]
-*Up to here, almost everything came with a check you could run. There's one more, at the start of this chapter. What follows it doesn't have one. It's the picture I hold when I step back from one mind to all of them.*
-
-[TODO: Claude, November 14: from chapter-4.md's holding pen, Aditya's wording (first in his commits 109501a and 8df08cc; the tree's first two sentences go back to "Passes 1–6 with CC", Claude's wording of his key point). Cut "We need food and shelter;" from the last paragraph, since "The Deepest Form" says "We need food and shelter, and there's no shame in a bridge." Added "take what follows as my report" from full-book/chapter-5.md:23, which Graham and Keiko vouched for.]
-Bring back the stranger's face from Chapter 2. Put the face of someone you love in its place. Then the stranger again. Then an animal you know, and then one you don't.
-
-Notice whether the recognition has an edge, a place where it stops and what's in front of you turns into stuff. For me it doesn't stop at people. It only gets fainter.
+[TODO: Claude, November 16: Claude assembled this chapter on November 14 and reordered it on November 15, from your key points and the full book; check all of it. Wholly Claude's: the bridge question into "The Deepest Form"; "The counterfeit can pass for goodness, too", which joins "The Counterfeit" to what follows; and, in "Reason in Service", "Count everything the villagers lost…" and the next sentence. The per-paragraph notes are in git, in 0bd59db.]
+[TODO: Claude draft, November 16, after the readability round: both readers asked which recognition. Was: "Notice whether the recognition has an edge,".]
+Think of the stranger's face again, and the someone looking out of it. Notice whether that recognition has an edge, a place where it stops and what's in front of you turns into stuff. For me it doesn't stop at people. It only gets fainter.
 
 Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody takes a hammer to a stone arch that took ten thousand years to form, for the pleasure of watching it fall.
 
@@ -16,7 +10,6 @@ Notice what you feel, before you work out who has been deprived of anything. The
 
 I can't capture it by saying I'm concerned for wellbeing. An arch has no wellbeing. Nor do I mean that everything must be left untouched: a lion eats a zebra. But the care doesn't stop where the category "living thing" stops. The world doesn't become disposable there.
 
-[TODO: Claude draft, November 14: the bridge question into "The Deepest Form".]
 Yet a forest can come down to meet a quarterly number, and the rest of us buy what it becomes without a second thought. What happened to the feeling at the tree?
 
 ## The Deepest Form
@@ -51,11 +44,7 @@ It is astonishingly easy to prove that an agenda, philosophy, or ideology is goo
 
 The part that proves can be pointed anywhere. Even when it's pointed away from goodness, cut loose from the part that knows, it can prove it's pointed the right way. And the brighter the mind, the better the trap it can build: something the whole world admires, its builder included.
 
-The industries that pollute rivers, cut down forests and strip-mine mountains benefit from the view that the world is lifeless stuff. Did their CEOs get together and publish a memo to spread it? Or is it enforced, through social norms, far beyond their boundaries? Nobody designed it. Everyone gets something from it, and that's enough.
-
-What do I get from it? As long as the part that knows is only a feeling, I never have to hear what it knows about me: what my money is doing, what I buy, where my work goes once it leaves my desk. So we have relegated it to the spiritual, where it can be safely locked away. Part of us knows that if we opened that box, we would be forced to confront our own part in what's wrong with the world. Religion is no exception: a creed can stand in for the part that knows as easily as a theory can.
-
-A culture that trusts only what can be proven is defenseless against a harm built to leave no proof. Contempt is that harm. Most of what we now recognize as evil was once respectable. Plenty of it still gets a pass: greed gets praised as ambition. But contempt is the one we still praise as *goodness itself*, as what a good person is supposed to feel toward bad people. And that's why the others are so hard to stamp out: we fight every one of them with it.
+A culture that trusts only what can be proven is defenseless against a harm built to leave no proof. Contempt is that harm.
 
 ## The Living World
 
@@ -75,25 +64,35 @@ If that's right, it also says why exploiting the world can't finally work, howev
 
 Looked at all together, the harm doesn't scatter the way accidents would. It leans one way, as if something wanted it.
 
-Something does benefit. Every parasite does better in a darker world, where it has more cover. And nothing tells one darkness from another. A turning away has no qualities of its own. Two rooms differ in everything the light shows; the dark in one is the same as the dark in the other.
+The industries that pollute rivers, cut down forests and strip-mine mountains benefit from the view that the world is lifeless stuff. Did their CEOs get together and publish a memo to spread it? Or is it enforced, through social norms, far beyond their boundaries? Nobody designed it. Everyone gets something from it, and that's enough.
 
-That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing. It's also why more than one tradition that looked hard ended up naming an adversary: Mara, who tempted the Buddha; the Devil. I'll borrow that name when it helps, since it's the one everybody knows. Those traditions were seeing something real. It isn't a creature, and it has no plan. If I give it a goal at all, it has one: to make us forget there was ever a light to steer by.
+What do I get from it? As long as the part that knows is only a feeling, I never have to hear what it knows about me: what my money is doing, what I buy, where my work goes once it leaves my desk. So we have relegated it to the spiritual, where it can be safely locked away. Part of us knows that if we opened that box, we would be forced to confront our own part in what's wrong with the world. Religion is no exception: a creed can stand in for the part that knows as easily as a theory can.
+
+Something else benefits, too. Every parasite does better in a darker world, where it has more cover. And nothing tells one darkness from another. A turning away has no qualities of its own. Two rooms differ in everything the light shows; the dark in one is the same as the dark in the other.
+
+That's why looking into the eyes of two "evil" people can give the uncanny sense of looking at the same thing.
 
 I've seen it in my own eyes, too, the last time I held my enemy in contempt. It was there only for a second, at its smallest, but it was the same thing all the way up.
 
-It can't win a head-on fight with the Light. With someone fully in view, I couldn't even wish them harm. So it wins slowly, by taking the Light's place, until it feels as though our own thoughts decide what's good. You can only choose the counterfeit once you've forgotten what the real one feels like, the way people choose junk food over real food when they've never been offered real food.
+That sameness is also why more than one tradition that looked hard ended up naming an adversary: Mara, who tempted the Buddha; the Devil. I'll borrow that name when it helps, since it's the one everybody knows. Those traditions were seeing something real. It isn't a creature, and it has no plan. If I give it a goal at all, it has one: to make us forget there was ever a light to steer by.
 
-I think that's why our culture puts rationality and intellect above everything else. They can't detect the spreading infection until after it has physically shown up, by which point it is too late. So we trust our thinking minds to tell us when they're lying to us, and then use more thoughts to prove that thinking is all we have. I can still hear the argument in my own head: *if there really were an inner light, someone would have proved it by now, so there's no point in looking for it.*
+## The Counterfeit
 
-Follow the counterfeit far enough and the real thing starts to look naive. Someone acts with plain integrity, and I don't quite believe it: there must be an angle. At that point the darkness no longer has to hide each wrong one at a time. The one orientation every one of us steers by has become the one thing none of us believes is there.
+The darkness can't win a head-on fight with the Light. With someone fully in view, I couldn't even wish them harm. So it wins slowly, by taking the Light's place, until it feels as though our own thoughts decide what's good. You can only choose the counterfeit once you've forgotten what the real one feels like, the way people choose junk food over real food when they've never been offered real food.
 
-Why is it common knowledge that humans are *fundamentally* greedy and selfish? Does that knowledge make people kinder, or more likely to act selfishly themselves? If the parasite draws power from one person teaching another that the world is dark, how much would it draw from all of humanity believing it together: not just vaguely, but as received wisdom, impolite to question?
+I think that's why our culture puts rationality and intellect above everything else. Those tools can't detect the spreading infection until after it has physically shown up, by which point it is too late. So we trust our thinking minds to tell us when they're lying to us, and then use more thoughts to prove that thinking is all we have. I can still hear the argument in my own head: *if there really were an inner light, someone would have proved it by now, so there's no point in looking for it.*
+
+The counterfeit can pass for goodness, too. Most of what we now recognize as evil was once respectable. Plenty of it still gets a pass: greed gets praised as ambition. But contempt is the one we still praise as *goodness itself*, as what a good person is supposed to feel toward bad people. And that's why the others are so hard to stamp out: we fight every one of them with it.
 
 And the oldest stories of the Devil come with an observation about how it gets in: never as darkness, always as light.
 
 > *And no wonder, for Satan himself masquerades as an angel of light. It is not surprising, then, if his servants also masquerade as servants of righteousness.* —2 Corinthians 11:14–15 (NIV)
 
-It doesn't care who you hate, as long as you hate. It can lose a leader, an institution, an entire regime, and remain in the eyes of the people celebrating its defeat. King's line, that darkness cannot drive out darkness, has a reason behind it: the darkness was never trying to.
+Follow the counterfeit far enough and the real thing starts to look naive. Someone acts with plain integrity, and I don't quite believe it: there must be an angle. At that point the darkness no longer has to hide each wrong one at a time. The one orientation every one of us steers by has become the one thing none of us believes is there.
+
+Why is it common knowledge that humans are *fundamentally* greedy and selfish? Does that knowledge make people kinder, or more likely to act selfishly themselves? If the parasite draws power from one person teaching another that the world is dark, how much would it draw from all of humanity believing it together: not just vaguely, but as received wisdom, impolite to question?
+
+It doesn't care who you hate, as long as you hate. It can lose a leader, an institution, an entire regime, and remain in the eyes of the people celebrating its defeat. King's line, that darkness cannot drive out darkness, has a reason behind it: it was never trying to.
 
 In this picture, every act of contempt, for anyone, feeds it. The line between those who deserve our compassion and those who deserve our contempt exists only for the Devil to keep its foot in the door.
 
@@ -101,15 +100,16 @@ In this picture, every act of contempt, for anyone, feeds it. The line between t
 
 So what gets a civilization back, if hatred only feeds the thing, and the calculations were how we forgot?
 
-Not calculation alone, I think, though I'd never argue for less of it. Weigh what the villagers lost next time, and the methane and the silt, and maybe the dam never gets built. But somebody decides where the count stops. Tehri's climate credit stopped at the coal it replaced. Nothing in the arithmetic put the line there. Someone did, and it felt like rigor.
+Not calculation alone, I think, though I'd never argue for less of it. Somebody decides where the count stops. Tehri's climate credit stopped at the coal it replaced. Nothing in the arithmetic put the line there. Someone did, and it felt like rigor.
 
 Our better nature doesn't know in detail what is good. That's what it needs the reasoning part for. The trouble starts when reason is asked to decide what's good.
 
-A civilization can make that mistake as easily as one mind can, and I think ours has. The way back isn't to demote reason. It's to put it back where it belongs: reason in service to Love. Someone could have counted what the villagers lost. First, someone had to want it counted, and that wanting never came out of a count.
+A civilization can make that mistake as easily as one mind can, and I think ours has. The way back isn't to demote reason. It's to put it back where it belongs: reason in service to Love. Count everything the villagers lost, and the arithmetic still can't say what a village is worth in carbon. Only someone who cares about both can weigh them, and the caring never came out of a count.
 
-Nor can I get to that wanting by thinking harder. At most, thinking can convince me that I *should* be oriented this way, and then I'm holding an idea again. The orienting itself happens deeper than the intellect. Ask most of us whether we're trying to serve life, and we'll say, *Well, of course.*
+Nor can I get to that caring by thinking harder. At most, thinking can convince me that I *should* be oriented this way, and then I'm holding an idea again. The orienting itself happens deeper than the intellect. Ask most of us whether we're trying to serve life, and we'll say, *Well, of course.*
 
-This is close to where this book began for me. When we go to work, we're usually lying to ourselves about what it will do to the world. Either it's really there to enrich us, or we're caught in the materialism trap, etc. So the most important thing we can bring to our work is our connection to the Light. And not only to our work: to all of life. If we're trying to follow our thoughts to tell us what our behavior will do, we're probably lost.
+[TODO: Claude draft, November 16: "This is close" became "That answer is close", so it follows from "*Well, of course.*" Your "Either it's really there to enrich us, or we're caught in the materialism trap, etc." became the two "Sometimes" sentences, on my reading of your F2 at key-points index.md:102; check that the reading is right.]
+That answer is close to where this book began for me. When we go to work, we're usually lying to ourselves about what it will do to the world. Sometimes the work is really there to make us rich, and the story about helping is cover. Sometimes we believe the story, because we've learned to trust only what can be counted, and the numbers look fine. So the most important thing we can bring to our work is our connection to the Light. And not only to our work: to all of life. If we're trying to follow our thoughts to tell us what our behavior will do, we're probably lost.
 
 I don't have a plan for getting a civilization back, and I'd only trust one that came second: not necessarily later in time, but after, the way a servant comes after the one it serves. What I have is smaller. It's what my teacher had when he caught me stealing, and what you may have had the time you stopped someone without sending the extra. The recognition came first. The reasoning served it.
 
@@ -148,5 +148,5 @@ Everything here was considered for the chapter and left out. Sources are untouch
 - The deathbed, Aditya's F1 at index.md:447, marked "a candidate for the picture chapter": "In the worst cases, many of us only recognize it on our deathbeds. We realize, to our profound horror, that we'd always known, but hadn't let ourselves know—and that now it's too late to do anything about it." It's about one mind's slide, not the culture; the Epilogue's judgment day is near it.
 - The plan test, full-book/chapter-7.md:23 ("what my work does to a forest is fine, because a dollar of what I earn can plant two trees later"). It would sit well in "Reason in Service", and Keiko named it, but it's a check, so Chapter 5 has first claim.
 - The diver and "Darwin is just the way we explain Love" (T1 index.md:574). The Epilogue keeps it; Chapter 2 now plants the diver.
-- "Nothing is lost," held in Love. Chapter 4 and the Epilogue carry them; this chapter only points at the teacher.
+- "Nothing is lost," held in Love. Chapter 5 and the Epilogue carry them; this chapter only points at the teacher.
 -->

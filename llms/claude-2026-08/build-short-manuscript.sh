@@ -1,5 +1,6 @@
 #!/bin/sh
-# Concatenates the short book (short-book/) plus the appendices.
+# Concatenates the current book (../claude-2026-11/short-book/) plus the
+# appendices, in the order bookparts.py gives the site and the downloads.
 # Writes two generated files; edit the sources, never these:
 #   short-manuscript.md        for auditing: inline [TODO] notes and file markers
 #                              kept; holding pens stripped.
@@ -10,10 +11,13 @@ out=short-manuscript.md
 clean=short-manuscript-clean.md
 {
   printf '<!-- Built %s by build-short-manuscript.sh. Generated file; edit the sources. -->\n' "$(date +%F)"
-  for f in short-book/preface.md $(ls short-book/chapter-*.md | sort -V) \
-           ../claude-2026-11/appendices/appendix-1-recursion.md \
-           ../claude-2026-11/appendices/appendix-2-the-traditions.md \
-           ../claude-2026-11/appendices/appendix-3-what-others-have-seen.md; do
+  files=$(python3 -c "
+import os
+from bookparts import condensed_files, APPENDIX_DIR, APPENDIX_FILES
+for f in condensed_files() + [APPENDIX_DIR / a for a in APPENDIX_FILES]:
+    print(os.path.relpath(f))
+") || exit 1
+  for f in $files; do
     [ -f "$f" ] || { printf 'missing: %s\n' "$f" >&2; exit 1; }
     printf '\n\n<!-- ===== %s ===== -->\n\n' "$f"
     cat "$f"

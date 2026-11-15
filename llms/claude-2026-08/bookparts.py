@@ -47,7 +47,7 @@ def split_title(text):
 # Strips [TODO: ...] and [TODO(name): ...], HTML TODO comments, everything after
 # the working-notes marker, and the "Original material" section of the draft
 # chapters (Aditya's placed passages, kept in the source for recovery only).
-TODO_RE = re.compile(r'\s?\[TODO(?:\([^)]*\))?:[^\]]*\]|<!--\s*TODO.*?-->', re.S)
+TODO_RE = re.compile(r'[ \t]?\[TODO(?:\([^)]*\))?:[^\]]*\]|<!--\s*TODO.*?-->', re.S)
 
 
 def strip_todos(text):

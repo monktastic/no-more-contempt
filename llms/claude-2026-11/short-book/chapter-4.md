@@ -1,255 +1,198 @@
-# Chapter 4: The Way Back
+# Chapter 4: The Second Stranger
 
-In Chapter 2 we said that we weren't yet fully turned toward the stranger. What would it be like to turn even *more* toward?
+[TODO: Claude, November 16: Claude built this chapter on November 14, mostly from the full book's Chapters 5 to 7, scenarios.md and your key points; check all of it. Wholly Claude's, with no source passage: the opening, except the second paragraph's first two sentences; the question opening "The Far End"; the one-line bridges into "Kind, Not Nice" and "The Clean Sentence"; "Take something you said this week…"; the first two sentences of "Knowing What to Do"; "Against Power", except its last paragraph, with its facts unchecked; the amends paragraph; and "At Home", except the first sentence of "Something in me is constantly sensing…", the third sentence of the child paragraph, and the last paragraph. The per-paragraph notes are in git, in 0bd59db's chapter-5.md. Since then (November 16), "If the plan needs it" became "If the plan needs me not to look", after ChatGPT and the line editor both read "it" as the arithmetic.]
 
-The more deeply I gaze into a stranger's eyes, and the less captured I am by the stories I tell myself about him, the more a funny thing begins to happen: I begin to recognize what's looking out of his eyes as the same thing that's looking out of mine. I don't just mean the same *kind* of thing, but something far more intimate and fundamental. It's almost like a single thing called *Life* is looking out from both our eyes.
+[TODO: That little rush I get from getting one over on my enemies, or putting them in their place, or teaching them a lesson. FAFO etc.]
 
-Go back to the stranger's face from Chapter 2, the place somebody is looking out of, and stay a little longer than you did then. See if you can get a flavor of this yourself, however mild.
+So how do I get out of it? I don't mean on a mountain, or on mushrooms. At a kitchen table, in a meeting, in the half-second before the sigh goes out.
 
-From this place, a striking recognition begins to occur: that if I had *been* him, I would do as he does. If I had been born into his circumstances, there's nothing special about me that suggests I would have turned out any different. Any such "special" traits are part of my life's circumstances, and do not belong to the "I" that could have had his life.
+What got me out, when anything did, was never a better argument. It was someone who looked at me without the verdict, and the moments I caught the turn before the story arrived. The first is something you can learn to be for someone else. The second you can practice, starting today. But to catch the turn, I first had to find where it happens, and it wasn't where I thought.
 
-As a conceptual insight, this isn't particularly profound, and it's not even obviously true. What is the self anyway? Am I not just claiming a tautology? What about free will?
+---
+## Where the Choice Is
 
-They're fair questions, and I can't settle them by argument. But I think there's a reason we'd rather keep this an idea than see it, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up.
+Did I choose to turn away? It feels as if I must have. I knew better, after all.
 
-If I simply *believe* the insight that I am fundamentally the same as others, it doesn't transform my life. When life gets challenging, my intellectual insights go out the window, and I fall back on old habits. I hate my enemy, and then beat myself up (or maybe even forgive myself) later, and the cycle just gets stronger. Or, when confronted with evil, I try to be *nice*, which is worse than useless.
+But if harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* wouldn't work—it would be a wrong done while still looking. That's the one thing I couldn't do with the stranger's face in Chapter 2. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
 
-As best I can tell, genuine change only happens as that "something deeper" is seen more clearly. That can happen when we look into the eyes of someone we've harmed and really see them, giving rise to remorse. Or it can happen via a much more sudden and striking experience, which we'll describe below.
+[TODO: I don't get / like this paragraph]
+What I can do is smaller. While I can still feel both pulls, the recognition and the want it would veto, I can stay with the face, or let my attention drift somewhere easier: how long my day has been, what he did last time. That drift is the choice, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything; I feel reasons, and they feel like my own judgment. That's why, looking back, I know I could have stayed, and I didn't. That isn't shame's shape, *I am it*. It's remorse's, *I did it*.
 
-The full experience is *very* difficult to describe, but we can approach it with an analogy.
+Shame gives me a reason to look away again. Remorse is what turning back feels like. You turn toward someone you've harmed and see them properly. In the same movement, you come back to yourself.
+
+Why does the first turn happen at all? I can't give an account of it. Augustine said there was no cause to find, and still called the turn an act. Once it happens, though, it feeds itself. [TODO: Take stuff from full-book?]
+
+Nobody chooses evil under that name, and everyone is fully responsible, because responsibility never lived in a lucid instant of choosing evil. It lives in the choice to keep looking while you still can, in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time.
+
+---
+## The Worst People
+
+That "everyone" includes the people I'd least like it to. So bring one of them to mind, someone whose harm you can't wave off, because the general case is easy to nod at and his is not. If the worst you know is the one who hurt you, let this part be about someone else; the man in the news will do.
+
+What do you think was going on in him when he did it? When I'm sure someone like that was fully aware, I've made him a villain. When I'm sure he had no idea, I've made him a machine. Either way, he's a different kind of thing from me. What I find hard to hold is what I found in my own memory: that he knew, but didn't let himself feel the weight of what he knew.
+
+The same split happens in public. Watch the next terrible crime in the news divide people along this line, sometimes overnight. Much of what you'll read says monster: feed him to the wood chipper. Much of the rest says circumstances, with nothing of him in it. Each side knows at once, and each needs the other's answer to be the only alternative.
+
+If you lean toward monster, a thought may come up here. It does for me: *Oh, boo hoo, he was abused as a child. That's no excuse. I was hurt too, and I didn't turn evil.* Maybe so. People who were hurt do turn out differently, and the differences are real, and they matter. But look at what the thought is doing. Look for where you're taking credit: for the people who held you, the help you had, the day it could have gone the other way. And look at whether it's a way to keep a little contempt with a "clear conscience."
+
+And if he seems to have been born this way, or got there for no reason anyone can find? There are answers on offer, from genetics to karma, and I don't know which is right. It's the hardest case in this book for me. But however he got there, what I see in him now, as far as I can tell, is the same turned-away state, and how he got there doesn't change how to treat him.
+
+Then there's the one who enjoys it with the face right there. What he has turned from isn't the face but the claim it makes on him, and you can check that from your own side. Remember a time you enjoyed someone getting what was coming to him: the verdict landing, the clip, the takedown. Now go back to the stranger's face, the way you held it, and imagine doing the same thing to your enemy from there, and enjoying it the same way. See whether the enjoyment will come.
+
+Whichever of these he is, you've seen what my verdict taught my enemy. Aimed at the worst people, it teaches the same lesson, and they've had more of it than anyone. So their conscience looks a little more naive to them, and next time the excuses come a little faster. Nobody notices one step. Most of the worst people I can think of are this one step, taken thousands of times. My verdict feels like it's punishing what he became. Aimed at anyone it can reach, it's one more push in the same direction. The rage isn't the push; the verdict is.
+
+---
+## The Far End
+
+Was the wrong that was hardest for you to admit the one you knew least about? For me it was the reverse: I knew it more, and had to hide it harder.
+
+Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by other people turning away further up: shoppers at the deli counter, shareholders, everyone who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete. Now run that out to the far end. My belief is that the most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding. You see it as more "evil" looking out of their eyes.
+
+[TODO: Claude, November 16, after the readability round: "on mushrooms years ago" cut, so that Chapter 5 introduces the trip once. Chapter 4's opening still mentions mushrooms in passing.]
+The step from my own case out to the far end is an extrapolation, and I should say why I trust it, since I haven't lived as that person. I was shown it from the inside once, or so it seemed: what it's like to be turned away *all the way*. I don't expect that to count as evidence for you, and it shouldn't. If you want something of your own to go on, here is an exercise for it, with a note on who should skip it.
+
+### An exercise for the far end
+
+*A note before this one. This is an exercise, and it's the one in this book that points you toward the worst state instead of away from it. Nothing else in the book depends on it. Skip it if someone has hurt you badly, if you're in a fragile place, if you're troubled by intrusive thoughts of harming someone, or on a day when you're already being hard on yourself. If you have a teacher, do it with them, not alone.*
+
+Try to imagine, from the inside, being *maximally* turned away from a person. See how far you get. If something stops you, don't push past it. Look at what's doing the stopping, and at what it's like. To me, that state had a flavor I can only describe as *malevolent*. It carried both full knowledge of what it was, and full hiding of that knowledge from itself. See what you find. If it frightens you or stays with you afterward, stop, and don't go back to it alone; if it doesn't lift, talk to someone you trust.
 
 ---
 
-Have you ever developed an acquired taste for a food? Maybe it was licorice, or raw oysters, or coffee. Imagine eating (or drinking) it now. It tastes good, doesn't it? Does that feel like something you're *doing*, or like it's just part of the food itself—the same way it would be with any other kind of good food?
+Here is a smaller check, and a safer one. Do you feel contempt for a shark? A tornado? A rabid dog? However much harm they do, I don't. It comes only for someone I take to know better. If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. Mine rises.
 
-Do you remember what it was like before you acquired that taste? It tasted *bad*, right? And that also didn't feel like something you were doing. "Bad" seemingly belonged to the food itself.
+Ask what you're looking at when you look at someone far gone and feel that particular horror. What I see is a conscience under crushing load, still showing through: a hostage held up to the window, not a monster on display. That doesn't mean he necessarily wants out; for that, he'd have to see the alternative to where he is, and from inside, he can't. Every time your verdict arrives, it presses on the one part of him that could end this. If you look at such a person and find only a monster, I can't argue you out of that from here. I can only say what I found.
 
-But if you look carefully, you'll find that when you eat a food, its ineffable flavor arrives first, followed by your evaluation of it. The two are distinct, and happen in sequence. Normally, it feels like the evaluation is something happening *to* us. We rarely stop to notice that it's something we're *doing*, and can therefore change. And we don't even think of it as an evaluation; we perceive it as reality itself. To me, licorice tastes self-evidently *bad.*
+And the hostage isn't struggling. From inside, the thing holding him presents itself as his judgment, his seriousness about what's wrong with the world. The captor has become his best friend, and that's why the people who appear to want their darkness are the ones most fully taken. Adding the verdict is allying with his captor, because the urge to do it comes from yours.
 
-We could say that the evaluation process is conscious but unacknowledged. In this sense, it happens in limbo. And when we look carefully enough into the nature of our experience, we find that far more of our perceived reality is constructed in this way than we would normally believe—perhaps even all of it.
+You don't have to believe that "bad people" are under the control of a parasite, or that they don't want what they're doing. You only have to notice what happens when you believe the alternative: that they are equivalent to their darkness, or that they want it. For me, that hands control to my own. That is the sense in which the frame is useful. It isn't a fact about them you're being asked to accept. It's a stance, and you've watched the opposite one recruit me.
 
-This is what's happening with the "bad person" you literally *see* when you look at your enemy. It looks like part of him, the way the bitterness looked like part of the licorice. And evidence rarely changes your mind, because the need to see him as defective is so strong that it colors everything that might threaten the truth underneath.
+Merely *believing* someone is in the grip of a parasite isn't the same as seeing it. Believing someone has light when you can't see it, as a stand-in for looking, is its own kind of not-looking, and someone deep in will use it against you.
 
----
+But there is something to see, if I look. Under the turning away there is someone afraid, and I know that state from the inside. That's what makes it possible to stay turned toward someone at their worst.
 
-From here I'm going further than you can check from where you sit. What follows is what I believe, and some of what I've seen; hold it the way you'd hold a traveler's report. Nothing you've found so far rests on it.
-
-Neuroscientist Anil Seth calls perception a "controlled hallucination." You could also say we *simulate* our reality. Seth's lab has studied how the brain builds our sense of time. Cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are like a computer's desktop, an interface our minds use rather than how things are. Kant said much the same all the way back in 1781.
-
-Most neuroscientists would call these processes unconscious. I think that's the same mistake as calling the wrong you remembered in Chapter 1 unconscious. My belief (and to some extent, experience) is that this isn't quite true. They are conscious, but in *extremely deep limbo*, so that we normally aren't noticing them. But under certain conditions—such as in deep contemplative or certain psychedelic states—we are sometimes able to.
-
-When I've experienced directly that I am *doing* those things—including constructing the apparently external qualities called "time" and "space"—it has come with the forehead-smacking feeling you had in Chapter 1, only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known yet refused to let myself see. And because time itself is one of the things being simulated, it feels like I have known this all *timelessly.*
-
-Here's the closest analogy I can find. Imagine watching a puppet show, uncertain of what will happen next. That creates suspense, and for a while it's enjoyable. But then, later in the show, a creeping realization dawns: it has always been your *own hands* operating the puppets. Nobody has to explain this to you, nor can you possibly doubt it.
-
-To me, it feels like being let in on the *great cosmic joke*. That sense of having always known is why I believe it, and I don't expect it to move you. But mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
-
-Meister Eckhart, a fourteenth-century friar, was tried for heresy for sayings like this one:
-
-> *The eye through which I see God is the same eye through which God sees me: my eye and God's eye are one eye, one seeing, one knowing and one love.*
-
-The Isha Upanishad, more than two thousand years old, says it in the words we've been using:
-
-> *And he who beholds all beings in the Self, and the Self in all beings, he never turns away from it.*
-
-And what quality does this "God" or Self have? The most common description of it is love. And it reaches strangers. Thomas Merton was standing on a street corner in Louisville in 1958, among shoppers he'd never met: 
-
-> *I was suddenly overwhelmed with the realization that I loved all those people, that they were mine and I theirs, that we could not be alien to one another even though we were total strangers.
-
-He called it waking "from a dream of separateness."
-
-Many of these people shared a God. But the Buddhists get to a similar place by another road, with no God at all: by rooting out self-deception, one layer at a time.
-
-In his heart-rending poem [*Please Call Me by My True Names*](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem), Thích Nhất Hạnh names himself as both a girl raped by a pirate and the pirate who raped her. In the pirate he recognizes a heart that can't yet see or love. 
-
-This is called *compassion* for the pirate, but does it mean we should be nice to him? In 2001 a student asked the Dalai Lama what to do about a shooter. If someone has a gun and is trying to kill you, he said, it would be reasonable to [shoot back](https://archive.seattletimes.com/archive/20010515/dalai15m0/dalai-lama-urges-students-to-shape-world): not at the head, but at a leg (though it should be noted that he's not an expert in proper firearm usage). Love can be fierce.
-
-Perhaps my favorite description comes from contemporary Zen teacher (and punk rocker) Brad Warner, in his book _Hardcore Zen_:
-
-> *Even if I want to put this realization down I can't. Sometimes it's excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. [...] I don't mean I identify with them or sympathize with them. I mean I am them. It's impossible to explain any more clearly than that, but this isn't a figure of speech or bad poetry. I mean it absolutely literally.*
-> 
-> *But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it's all me. And it's you, too.*
-
-These traditions each describe it differently, and I don't want to flatten them into my words. I can only say that their words fit what I saw.
+That's why I'd say they need the most love: they're the ones it's most tempting to shove in harder, and the ones least able to get out, even though they're also the ones who carry it most. What they need is what the second stranger gave you: someone fierce who won't add the verdict.
 
 ---
+## Kind, Not Nice
 
-The first and clearest experience I've had of this came years ago, in a state brought on by mushrooms. I was shown countless layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them. 
+"Love" is where a lot of us hear "nice." Nice can be worse than useless against evil. If the choice really were between stopping a harm with contempt and letting it happen, stop it. But the contempt is a second harm, and it has to be counted too.
 
-There were far more than I ordinarily let myself see, and I knew I was going to have to eventually face every single one of them. The strangest part was that this wasn't new knowledge, and it also wasn't personal: I "saw" that every one of us knows, even as we do things, that we can never truly escape the effects of our actions. That nothing can remain hidden forever, because there's nowhere else for it to go. And I saw what a long, painful—but also hopeful—journey it would be for humanity to finally stop pretending. 
-
-My own role in that great return became clear—if not in the details, then at least the essence: I simply had to stop hiding. Stop pretending I didn't already know. There's nothing special about me in this regard, nor about any of us, I think.
-
-What made it possible to keep looking was that I was held in fierce, uncompromising love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
-
-I'd been afraid that looking would reveal what was wrong with me. It revealed the wrong I was doing, and the goodness I was hiding it from. As the hiding fell away, what remained was Light. Love. And the recognition was that this was what I was. That's why it is enough to simply stop hiding: what remains isn't neutrality, but something far greater.
-
-That was my experience. The smaller opening I can offer you is the one we've been using: a wrong finally admitted, and what you came back to when you admitted it.
+There's a mirror image of contempt, and it's the one a spiritual life makes easiest. Contempt keeps the person who did the harm out of view. Niceness keeps the person who was harmed out of view: *it's all confusion, he couldn't help it*, said serenely while someone is still bleeding, because looking at them would mean acting, and acting costs. Kindness keeps both in view, and that's why it so often has to be fierce.
 
 ---
+## The Clean Sentence
 
-There's one more reason I take these reports seriously. Remember the licorice. I could change how it tasted, and I can change whether a person looks good or bad to me. I can change whether I believe an action is good or bad, and even get *most* of the visible evidence to support my conclusion if I play things just right—and yet a deeper truth always seems to leak through; something I don't have the freedom to redefine.
+So how do I tell, in the moment, the fierceness from the verdict? They arrive together.
 
-Goodness is the one thing that cannot be manipulated. It isn't one side of a duality: good vs bad, like we often think. Those are colors I paint with; goodness is the light I paint by. Plato said the Good is like the sun: not one of the things we see, but what lets us see anything at all. The mystics say they've looked straight at it, and that its name is love. It is that which is still there after all our countless layers of self-deception have been stripped away; that which undergirds what we normally call "reality."
+Start with the hatred of the harm. It's the part that can't stand to watch people get hurt and wants it stopped. Nothing here asks you to feel that less; it's the most trustworthy thing in you. Now watch what happens the moment the harm gets a face. In me, the heat changes. It stops being about the harm and starts being about the person. I want them to *know* what they are, and something in me would be disappointed if they got better. (One exception: if you lived with someone who hurt you, you may have heard *he's better now* before, and distrusting it is sight, not this.) That second heat feels like the first one, only more serious. It's the parasite, speaking in the voice of conscience.
 
-Here's what I take from this. Contempt is the refusal to see our equality, or our oneness. It is a turning from love, or God, or truth, or our better nature—whatever you want to call it. Once I've turned, the world I project reflects it back to me, giving me increasing evidence that I'm correct. The more I do this, the more love seemingly ceases to govern my outer reality, until it seems like a quaint fairytale. But it's the underlying principle by which my reality operates (indeed, appears at all) in the first place, and thus I can never truly escape it.
+Fierce is where the darkness finds it easiest to get in. From outside, fierce and dark look alike, and it counts on our not wanting to tell them apart. But we can tell, from the sending end, if we're willing to look: that little something extra, added to the fierceness on its way out, that you knew they'd feel. I've almost always believed I was doing the clean one, including when I wasn't.
 
-In other words: when I forget my *absolute* goodness, my only option is to go seeking it out relatively—that is, at the expense of others. This is how the duality gets created, and how it sustains itself.
+Here is what the clean version sounds like. *That was out of line, and it stops now.* And the same words with the extra: *That was out of line, and it stops now*, followed by the half-second pause to watch it land. *I don't think you understood what that did to her.* With the extra: *I don't think you're capable of understanding what that did to her.* *You lied to me.* With the extra: *Of course you lied to me.* Each time the difference is one word or one pause, and each time you know, on the way out, which one you sent. And the clean one does something the other can't. It's as though the light in me is reminding the light in him that it has a partner in the fight against what has him, and I can do that while still fighting the man.
 
-I turn away from someone because I suspect, below words, that goodness might *not* be what I am. If I knew it was, I'd have nothing to prove and nobody to prove it against. The suspicion makes it feel like something I have to earn. So as long as I don't feel at home in my own goodness, I can't afford to let anyone else get there. I'm *forced* to keep them out, because if they arrived I'd have no one left to measure myself against.
+There are two meanings of "judgment." One is *wise discernment,* and the other adds a verdict about the person. The same split runs through "punishment" and "outrage": each has a sense that answers the harm and a sense that needs the person to hurt. Part of us keeps the two blurred on purpose, so that when we're caught doing the second, we can claim we were only doing the first. The coach who called a twelve-year-old worthless in front of his team says he was holding him to a standard.
 
-Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see. I can't trace how, and I won't pretend to.
-
-This is why I said everything I do matters, and why integrity matters even when no one seems to be watching. The one who was watching—*I*—is ultimately not separate from what the mystics have always called God.
-
----
-
-Ask a Zen master what she sees that you don’t, and she may tell you: nothing. “Nothing has ever been hidden,” the old Chinese teachers said. Hakuin, in eighteenth-century Japan, wrote that all beings are Buddha by nature, as ice is by nature water, and grieved that we “ignore the near and search for truth afar.” Huang Po said our true nature is never lost to us, even in delusion: it’s the part from Chapter 1 that never budged an inch.  *Ignorance* (as they call it) is a fitting word: we are literally ignoring it.
-
-This, I think, is what the "open secret" in Chapter 1 points to. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. If that's right, the secret is open all the way down; if not, it's close enough for the trap to work. It is why, when I look in your eyes and pretend not to know that you are me, we both secretly know what's happening. I am reinforcing the illusion of separation.
-
-We're not missing it because it's too complicated or too far away. In fact, the Tibetans have this beautiful riddle to point us back to it:
-
-> *So close you can't see it.*
-> *So deep you can't fathom it.*
-> *So simple you can't believe it.*
-> *So good you can't accept it.*
+Take something you said this week with an edge in it, and say it both ways.
 
 ---
+## Knowing What to Do
 
-So then why is it so hard for me to give up the darkness, or even recognize it in myself?
+Even the clean sentence can be the wrong one. Care tells me that others matter. It doesn't tell me which policy will work, or what to say at the dinner table. A person fully turned toward others can still be wrong about everything else, and make a mess. Knowing what to do is a separate thing, and unevenly distributed. What care gives me is the one stance that doesn't feed the darkness, and the one from which wisdom has a chance.
 
-[TODO: This should be merged with the section about "forced to keep them out." It's a runaway process, and I'm in too deep, so now I protect it as myself.]
+That's one reason we need rules. A contract, a precept, a grievance procedure exist because people who were sure they had us fully in view didn't. Rules can express goodness and serve it. What a rule can't do is contain goodness, or certify that the person following it is still turned toward anyone.
 
-Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies and treat them with contempt.
-
-It is what some traditions call the *ego*, and I don't want to give it up because I've come to think it *is* me.
-
-That is why everything comes down to seeing that it's not. At their best, I think this is what the spiritual traditions are offering: a way out of that illusion.
+Have you ever angrily corrected someone, and then years later, with more wisdom, met almost the same situation and handled it much better? Did you sense, the second time, where the person was going wrong, and that attacking them for it wasn't going to work? For me, that's most of what wisdom has been. The more self-deception I find in myself, the easier it is to see what others actually need.
 
 ---
+## Against Power
 
-When a person touches this insight once or twice, they often come back shouting it from the rooftops, shaking people by the shoulders in hopes they'll get it. But that's not what tends to work.
+Most of the harm that reaches me doesn't come from one person in front of me. It comes through something with no face: a company, a landlord's management office, an order signed in a room I'll never see. The people inside often hold no contempt at all. They're doing their jobs, and nobody has to build plausible deniability into an institution; it builds itself.
 
-What works, I think, are people like the second stranger: those who live it through and through, and whose every action embodies it. We can't quite pin down what it is they're communicating, but that turns out not to be a problem at all.
+Can the second stranger do anything there? I think so, and it looks less soft than people expect.
 
-In a sense, it is the whole point.
+Fight it. Name the harm, and the people who signed off on it. Publish the documents. Sue, strike, vote, organize, block the road if that's what it takes. None of that is the verdict. Naming what someone did, loudly and in public, is the second stranger's work: he caught you in front of people and didn't let you wriggle. The verdict is smaller than any of it, and you know it from the sending end. It's the poster that gives the CEO a demon's face, the chant about what he *is*, the joke in the group chat afterward.
+
+Why would that matter, when what you're fighting has no feelings to hurt? Because an institution is made of people, and it runs on their not looking. A company needs workers who show up, regulators who sign, neighbors who put up with it, and a public that goes along. Each of those is a person deciding, a little at a time, whether to look. Contempt makes not looking easy for every one of them. The worker gets to feel he's defending his family from people who despise him. The regulator gets to side with the reasonable people against the fanatics. Refusal without the verdict takes that cover away, and leaves each of them alone with the harm.
+
+That's what I meant in Chapter 3 by power that needs consent. The record isn't clean, and I can only give you cases I know. [TODO: check: the Birmingham details, the Leipzig crowd size, and the line attributed to Horst Sindermann ("Wir hatten alles geplant… nur nicht auf Kerzen und Gebete"), which is widely quoted but needs a source.] In Birmingham in 1963, King's marchers trained to take blows without returning them, and they filled the city's jails until it had nowhere left to put them. They named Bull Connor, and nobody pretended he was a good man. What they refused to do was become what he said they were. In Leipzig in the autumn of 1989, people came out of the Monday prayers at the Nikolaikirche carrying candles and chanting *keine Gewalt*: no violence. They said it to the police and to each other. On October 9, about seventy thousand of them walked past armed police and soldiers, and nobody fired. A month later the Wall was open. One of the regime's men is said to have put it this way: they had planned for everything except candles and prayers.
+
+Where power doesn't need consent, it's different. A man with a gun in a room needs nobody's agreement, and there, as I said, force is right. Even then, the verdict is the one thing you don't have to carry in with you. A soldier can stop his enemy with everything he has, and still not desecrate the body. [TODO: "as I said" may no longer be true.]
+
+If you hesitated at the test in Chapter 3, was part of the hesitation a fear about fuel: that without the contempt, nothing would get you out of bed for the fight? Contempt feels like fuel because it burns hot. But it lives off something, and what it lives off is the care that brought you to the cause: the people in the flooded street, the child in the moldy flat. That care was the fuel all along. Contempt is what burns out, because it has to be fed. It needs a fresh outrage every morning, a fresh face to hate, fresh proof that the world is as rotten as it says. A movement that runs on it ends up turning the same look on its own: the purity test, the one who rests treated as a traitor, the meeting that turns on whoever says *I don't think that's fair*. Care can rest. Contempt can't afford to.
+
+There's a check for the cause itself, grand or small: does it need you not to look at what it costs here, now, because the good it does later will make up for it? It rarely feels like contempt. It feels like arithmetic: what my work does to a forest is fine, because a dollar of what I earn can plant two trees later, and I'll surely donate it. The arithmetic is the side that argues. If the plan needs me not to look, it isn't coming from the part that cares, and it probably won't do what its proof says it will.
 
 ---
+## Every Day
+
+None of what follows is a rule. Every check in this book is a clue for looking; followed without looking, it would be one more rule to hide behind.
+
+Think of the last time you said something with an edge in it to someone on the other side. A relative at dinner, or a reply under a politician's post. You knew what you were doing, mostly. And they did what they do: called you brainwashed, or deranged, or just laughed. What did that do in you? Did it sting? Or did something in you light up: *look at that, that's exactly what they're like.* Might that have been the point?
+
+Remember the two buttons from Chapter 1, the vengeance and the pill, and whether some part of you itched for the first. Here is the same check in a form you can use daily: if the harm simply stopped tomorrow, with nobody punished and nobody exposed, would you feel relief, or robbed? That question is most of the practice. Ask it of whoever you're carrying. The first several times I found nothing. Then one day I caught it.
+
+There's one more clue you can use today. When you're acting from contempt, notice how *sure* you are that it's good. In my experience the real thing doesn't feel like that. It doesn't need to be sure. It's what's there when someone is fully in front of you, and you're not sure of anything except that they matter.
+
+Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing. And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. How much innocence you can see in others measures your own freedom more than their goodness.
+
+That's why seeing all the way into somebody far gone may be the work of a lifetime, and I don't have it. The near end is available now: catch yourself wanting them to be what you've decided they are, and notice, as the verdict settles, that something in you was after it. That isn't a reason to doubt what you see when someone is dangerous; seeing that is sight, and you act on it.
+
+And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight. It comes back, and you look again; the first several times you may find only a tight chest and the story. The tightening is worth learning, because it usually comes before the story does, and it doesn't argue. The traditions also have practices built for the person you can't stand. One is to breathe in their darkness and breathe out to them what you'd want for yourself. The Gospel's is plainer: pray for those who persecute you. They're worth taking to a teacher.
+
+You often don't get to choose whether the contempt arises. What is yours is how fast you catch it afterward: days, then hours, then sometimes in the moment. That can be trained, and it's the one part of this that effort improves. When you catch it late, there's usually someone to go back to, and often the repair is no more than letting them see that you see them now.
+
+Sometimes the repair needs words, and they can be plain: *I've been looking at you a certain way for a long time, and it wasn't fair.* Sometimes words would be one more performance, and the repair is the next time, with the look caught before it goes out. The twelve-step programs keep a list for this: everyone you've harmed, and what you can make right. Either way, it's for them. If I'm apologizing to feel clean, or to be seen apologizing, the extra has found another way out.
+
+You won't always catch it yourself. The part of you that knows is also the part you drift from, so the further you've gone, the more quietly it speaks. That's why the way back so often begins with someone else's help: a friend who knows your habits well enough to name them, a teacher, the colleague who says *I don't think that's fair* while you're halfway into the impression.
+
 ---
+## At Home
 
-[TODO: Something about Jesus, Buddha, and how both were revolutionary because they pointed at a truth beyond what could be pinned down.]
+Think of a day you came home sure about someone: a boss, a man on the news, the driver who cut you off. Who got the short answer that evening?
 
+Something in me is constantly sensing who it's safe to treat this way. The people who love me are the safest of all, because they'll still be there tomorrow. The contempt I swallowed at work doesn't go anywhere. It waits for someone who can't fire me.
+
+And someone is often watching. Have you ever seen a child do your face at someone: the eye-roll, the pause, the little breath through the nose? What gets passed along is the turning away behind my look, and the permission it gives. A child learns that before he learns any words for it. What I owe the one who watched is what I owe the one I aimed it at, and the child is the easier of the two: let them see me catch it. *I just did the face. That wasn't fair to him.* A child who has watched someone catch the look has learned that it can be caught.
+
+The second stranger caught you once and was gone. Most of us have someone we'll sit across from again next week, whose faults are real, and the face is already coming before they've opened their mouth. Staying away is allowed, and it can carry no verdict at all. But if you go, you get to run the practice every week. Catch the face on its way out. Say the thing that needs saying, if something does: *Can you put the phone away while we eat?* Leave off the extra. Then notice, on the drive home, whether you're rehearsing the case.
+
+One more thing about love. Think of the last time you defended someone you love by tearing down the person who wronged them. Your sister's ex. The teacher who was unfair to your kid. The loyalty was real and warm, but riding on it was contempt, the need for the other person to be worthless. It may feel like being turned toward one person and away from the other. Partial love isn't fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love. And it scales. Every cause you've ever fought for had people on the other side of it, and the test is the same: could you fight for yours while they stayed in view?
+
+---
+## The Last Trap
+
+There's a trap in this too. It's the one a book like this makes easiest to fall into, and the one I fall into most: contempt for the people who still have contempt. I once caught myself enjoying snide comments directed at flat-Earthers. Then, later, I found contempt for people who make snide comments directed at flat-Earthers. The friend who "isn't there yet." The beginner's question, heard with a patient smile. And pity, which passes for compassion and is contempt with a soft face: it needs them to stay below me. Equanimity can do it too, when it's a way of filing someone under *deluded* and feeling nothing more. So can practice itself: the sigh at my own mind on the cushion, wandering again, the same verdict pointed inward. The question I put to myself: would I be glad if they got there before I did? The second stranger would have been, and that's the difference between a saint and a scold.
+
+So here is the measure: *this one is like me.* Whoever you can't say that about is where to look for the darkness still operating through you. (The person who hurt you is the exception I made earlier, and it stands.)
+
+There is a battle between good and evil, between light and darkness, and it is the one the myths were about. It is fought in your every thought, word, and deed, and nothing you do is outside it. Fight it with everything you have. But the moment malice, contempt, or self-righteousness enter the picture, it's fighting for the darkness.
+
+Out there, fighting it means force if it takes force. In here, it means looking. And know what winning is. It isn't the darkness subjugated. It's the darkness looked at, in your own eyes first, until you see that there was never a second thing there: only the light, turned away.
 
 <!--
 # Chapter 4 holding pen
 
-Go back to the memory from Chapter 1, to the knowledge you hadn't *let yourself* know. Take a moment and see if you can find what you were hiding it from.
+Good material from the full book that this chapter didn't take, with why. Line numbers are `llms/claude-2026-08/full-book/`.
 
-The reasons you gave yourself were available. So was the advantage you wanted. What had to be kept at a distance was the part of you that could let the wrong be what it was, including what it meant for someone else.
+## Cut as echoes of Chapters 1 to 4
 
-Why would you have to hide something from *yourself* in order to keep it from your better nature?
+- **"Pure evil" as my confusion at full strength** (6:9): "I now think that 'pure evil' is the confusion I found in myself, at full strength, where the other person has become a different kind of thing entirely and it feels more righteous than ever. It looks intentional, just as mine did, because in an important sense, it is. … Innocent at the root, and fully responsible, the way I was." Chapter 1 ("It only requires a certain kind of confusion"), Chapter 2 ("I think we're looking at the far end of this when we see an 'evil' person") and Chapter 3 ("those for whom the infection has gone so deep") already carry it.
+- **The worst person's parasite speaks** (6:37–39): "*Look how easily I can take over even the 'good people.' Genuine goodness is a myth—a name that 'good people' use to cover what they really want.*" Chapter 2's "genuine goodness is a myth" passage is the same lesson.
+- **"Getting used to turning away isn't the same as turning away less"** (6:47). Chapter 2: "Getting used to not looking didn't mean there was less to see. It meant the opposite."
+- **Ideology as care written down, rules, and "mine to define"** (7:9–15). Chapter 2's "Every attempt to define goodness leaves some loophole" and "still doesn't make it mine to define" carry them. Only 7:13's last sentence is used ("None of what follows is a rule"). The grievance-procedure line is worth keeping if a reader hears the book as against rules: "a contract, a precept, a grievance procedure exist because people who were sure they had us fully in view didn't."
+- **First-order effects** (7:19). Chapter 2's two strangers who "both might have stopped your misbehavior."
+- **Every act of integrity leaks** (7:69), with its guard "in a way I can't trace and won't pretend to." Chapter 4's "Nothing is lost" holds the point; B-full-book-imports M14 adds the guard there.
+- **The story that restored your faith in humanity** (7:51). A-injections 1.9 places it in Chapter 2.
 
-When I finally owned up, I might have lost the advantage, or the picture I'd been keeping of myself. In the middle of that loss there was a return. I could stop maintaining the story. The person I'd harmed could become real to me again, and somehow that made me more real to myself.
+## Kept back for length or for another chapter
 
-Remorse is what turning back feels like. You turn toward someone you've harmed and see them properly. In the same movement, you come back to yourself.
-
-That is a strange thing, if my better nature is just one of several competing parts, with no more claim to be me than the part that wanted to get away with it. Why does facing the wrong feel like going against what I wanted, yet returning to what I am?
-
-The teacher who caught me stealing was looking for the part of me that could acknowledge what I'd done. He wasn't asking me to become someone else. He was looking for a sign that I was still there.
-
----
-
-
-Here's what I think: our better nature isn't one part among others. It's a description of what we are in the absence of self-deception. That's why I call my better nature *myself*. It's the one that's home.
-
-I can finally see the ugly wants too. I can let myself see what I wanted without arranging my world so those wants can go unquestioned.
-
-Try looking at your memory from there. Let it be as bad as it was. Can you acknowledge it without making yourself into the badness? What is doing the acknowledging?
-
-Now bring the person you harmed into view without the explanation that made your behavior okay. For me, letting their reality matter and letting my better nature speak are the same event. I don't see them clearly and then consult a separate part of myself about whether to care.
-
-I can be very alert while doing wrong: quick to anticipate every reaction. But something is still being kept out. When that refusal drops, I don't have to construct the awareness that sees them, or persuade it to care. That's why I experience turning toward awareness, turning toward my better nature, and returning to myself as one movement.
-
----
-
-Bring back the stranger's face from Chapter 2. Put the face of someone you love there. Then the stranger again. Then an animal you know, and then one you don't.
-
-Notice whether the recognition has an edge, a place where it stops and what's in front of you turns into stuff. For me it doesn't stop at people. It only gets fainter.
-
-Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody takes a hammer to a stone arch that took ten thousand years to form, for the pleasure of watching it fall.
-
-Notice what you feel, before you work out who has been deprived of anything. The tree has no conscience; the arch has no inside. Yet for me, the violation reaches the same place. Something was there in its own right, and someone delighted in treating it as nothing.
-
-I can't capture that by saying I'm concerned for wellbeing. An arch has no wellbeing. Nor do I mean that everything must be left untouched. We need food and shelter; a lion eats a zebra. But the care doesn't stop where the category “living thing” stops. The world doesn't become disposable there.
-
-When I look most deeply into what I am, I find life. Not a possession of mine, but what's doing the looking. And, as far as I can tell, life naturally wants to serve life. The less I keep out of view, the further that wish reaches—even beyond what I'd normally call alive.
-
-That's what I mean by the Light. The goodness I recognized through the second stranger isn't merely a standard I ought to obey. It's what I find myself to be when I stop turning away.
-
-Here is where this becomes mystical for me. When I look into another person's eyes, I can recognize more than someone similar. I recognize myself. The faces and histories are different, but I find the same life looking out through both. I mean that literally.
-
-I can't give you that recognition by arguing that two awarenesses must be one. I can tell you that, when it comes, care for the other person no longer feels like a duty imposed on me from outside.
-
-In *Please Call Me by My True Names*, Thích Nhất Hạnh names himself as both a girl raped by a pirate and the pirate who raped her. In the pirate he recognizes a heart that can't yet see or love. [The poem and his account of writing it](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem)
-
-The act remains horrific. But the recognition reaches the perpetrator too. He is someone estranged from the capacity through which we recognize the horror, and there is a way of seeing him that doesn't estrange us from it as well.
-
-That is how far I mean the Light to reach. I want to be able to see what he did clearly enough to stop him and still recognize myself in him.
-
-When I'm the one who did harm, coming back to myself means stopping, facing what I did, and making what repair I can. The person I harmed has no obligation to trust my account of what I am underneath it.
-
-Can I hold on to that recognition when someone is doing harm and I have to stop them?
-
-
-The Brad Warner quotation as it stood before it was trimmed on November 12 (Hardcore Zen, 2003; under copyright, so the full length needs permission):
-
-> *Every damned thing I’d ever read in the Buddhist sutras was confirmed in a single instant. The universe was me and I was it. I looked up at the sky and that experience was exactly like looking at a mirror. I don’t mean that metaphorically either. You know the feeling of recognition you get when you look in a mirror? “That’s me,” you think to yourself, “My hair needs to be combed and, hey, there’s a pimple on my nose!” Well I got that same feeling no matter where I looked. I looked at the asphalt road and it was my face. I looked at the bridge and the bridge was me staring back at myself. It was a physical sensation, as if the sky had my eyes and could see me staring up at it. There was no doubt that this state was “true.” It was far more true than the state I had considered to be normal up until then. I had no need to confirm it with anyone.*
->
-> *It's all me.*
-> 
-> *Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.*
->
-> *But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it’s all me. And it’s you, too.*
-> ...
-> *It was all very ordinary and normal. But in that very normality and ordinariness was something more wonderful than anything special I could ever have imagined. All imagination pales into nothing compared to what your real life is right here and right now. There’s not a single dream you can have, no matter how pure or beautiful, that’s better than what you’re living through right now no matter how lousy you think right now is.*
-
-
-This reading draft follows the new Chapter 3. The former Chapter 4, “The Conspiracy,” is preserved verbatim in ../../chatgpt/archive.md under “Former Chapter 4 draft.”
-
-The executive and the river still have a separate job for a later institutional chapter. Put what is kept out of view into concrete summaries, jobs, and decisions. The accompanying passage on usurping the Light shows how the approved reasons come to feel like goodness itself. Bring that material back after the reader has met what the Light means here.
-
-
-~~But I've never been able to change which way goodness points. I can learn to enjoy cruelty; I can't make it good, any more than the bad man in Chapter 1 could lie awake in remorse over a kindness. In Chapter 2, goodness turned out not to be mine to define.~
-
-## Quotations cut November 14 (readers skimmed the anthology)
-
-They find that what they took for themselves was resting on something else. Catherine of Genoa, in fifteenth-century Italy: "My Me is God, nor do I recognize any other Me except my God Himself."
-
-They find that time was something they had been doing. Thomas Traherne, remembering how the world looked to him as a child: "The corn was orient and immortal wheat, which never should be reaped, nor was ever sown. I thought it had stood from everlasting to everlasting."
-
-They find that the beloved was never far away. Kabir, a weaver in fifteenth-century Benares, has God say: "O servant, where dost thou seek Me? Lo! I am beside thee."
-
-Julian of Norwich asked for fifteen years what her visions had meant, and the answer she was given was this: "Love was his meaning."
-
-The Dalai Lama line as it stood before it was re-sourced to the Seattle Times (readers distrusted the Snopes link, and the report is more qualified):
-
-But the Dalai Lama was once asked what to do if a gunman enters a room, and his answer was to [shoot back](https://www.snopes.com/fact-check/dalai-gun/). Love can be fierce.
-
-## Lines cut November 14 (cold readers, six of six)
-
-They're fair questions, and I can't settle them by argument. But they're also the kinds of thoughts that arrive when the insight comes via the conceptual mind—the part most of us have been trained to trust above all else.
-
-I think there's a reason we've been trained to do that, and it connects back to what we saw in the past few chapters.
-
-Seth's lab has studied how the brain builds our sense of time, and cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are the format our minds give things, not how things are. Kant said much the same in 1781.
-
-All three would call these processes unconscious.
-
-Are such reports true (i.e., *veridical*)? I cannot prove it from here, but I can tell you why I believe it. When we experience directly that we are *doing* those things, it is generally accompanied by the forehead-smacking feeling you had in Chapter 1—only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known, irrefutably and self-evidently.
-
-It feels like being let in on the [*great cosmic joke*](https://www.stoicmaze.com/home/2018/8/24/what-is-the-cosmic-joke). Reports of this placeless place are remarkably similar, across traditions that never met.
-
-The Sanskrit word *namaste* means roughly "I bow to the light in you."
-
+- **The venture and the grandmother** (7:21). Readers want it to replace Chapter 2's "*Every* project and agenda" paragraph (todo §2.10); that's Chapter 2's call.
+- **The clever mind's trap** (7:23, second half): "The cleverer the mind the parasite is running, the better the trap. In a brilliant person it can build something the whole world admires…" Chapter 6 (index T1 509).
+- **"Notice how sure", its last sentence** (7:27): "And as long as we're sure that our enemy is *bad*—which is to say, rotten in some inherent way—the certainty that contempt is good is all but inevitable."
+- **Turned toward in general** (7:53, yours): "I try to feel whether they're turned-toward or turned-away *in general*." Readers heard a bad-essence verdict and "Charisma passes that test." It needs its limit from scenarios 4.15 (unreliable on anyone you already hold in contempt) before it goes anywhere. It carries the T0 at index.md:577's second half, "the check we could be using on the people we hand power to."
+- **Turning toward has no target** (7:61): "It's what's left when nothing is in the way, and a face is where you notice it first. What the traditions call awakening is the same state with nothing held out at all…" Chapter 4 territory.
+- **The objector's contempt** (3:75): "If someone had opposed any of those rooms with contempt ('you're all evil!'), that too would have fed the same thing in everyone, including the objector." Pairs with Chapter 3's pen plan for the room interruption (a firm objection beside one that condemns the whole room). Would fit after "The Clean Sentence" if a group scene is wanted there.
+- **"Which part of me needs there to be one"** (3:73). B-full-book-imports W19 gives Chapter 3 first refusal.
+- **Self-contempt** (full-book Chapter 1 pen): "Nobody ever looked honestly at something in themselves while being told they were worthless for having it." Chapters 1 and 3 touch it; the cushion line here is its practitioner's form.
 -->

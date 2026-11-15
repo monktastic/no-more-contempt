@@ -58,7 +58,7 @@ This is why I say contempt is evil. I don't just mean it's *bad.* I mean it is t
 
 Of course, outcomes matter too. If the harm I caused my enemy ended with him, we might still balk at the name "evil." After all, maybe *the ends justify the means*? In that case, my inner knowing would just be issuing a false alarm, and I'd be right to silence it.
 
-But I don't think that's true. I think I'm using that argument to avoid seeing something. Cruelty is wrong by itself, and in addition, the ends usually bear that out.
+But I don't think that's true. I think I'm using that argument to avoid seeing something. Cruelty is wrong by itself, and the ends usually bear that out.
 
 Start with an act that has no living victim left to hurt.
 
@@ -70,7 +70,8 @@ Can you feel that?
 
 If his allies were watching, it would teach them the same thing. We can't pinpoint where or how—or even if—that lesson will manifest as physical harm to anyone, and yet we sense the wrongness anyway. We don't need to trace the consequences to know that. Why not?
 
-It's as if the action isn't just *teaching* him to degrade life, but is *itself* somehow degrading it. I think that's what the shared judgment is registering, before anyone can produce an account of who will be hurt. It's not that outcomes don't matter—it's that we can often sense the general form they will take, even when we can't pin down specifics.
+[TODO: Claude, November 16, at Aditya's word: was "It's not that outcomes don't matter—it's that we can often sense the general form they will take, even when we can't pin down specifics." That framed the judgment as a forecast, which the insect in the cave contradicts; the new lines say the outcomes are the act carried forward. Also dropped "in addition" from "Cruelty is wrong by itself" above.]
+It's as if the action isn't just *teaching* him to degrade life, but is *itself* somehow degrading it. I think that's what the shared judgment is registering, before anyone can produce an account of who will be hurt. It isn't a forecast. It sees what the act already is, and whatever follows is that act carried forward. That's why the ends so often bear it out, and why I don't need to see them to know.
 
 Take the same question back to the two strangers. Both might have stopped your misbehavior, and so both can claim that what they did was "good." But they left a difference in you, and that can emerge somewhere neither of them will ever see.
 
@@ -92,7 +93,8 @@ By turning away from myself, I turn away from the full implications of my behavi
 
 And it doesn't stop with the two of us. Say I'm only watching: I see someone made small by a person who still looks like the one in the right. Maybe I laugh, or share the clip. The next time I want to make an exception for myself, I have his example to draw on.
 
-[TODO: Claude, November 14: from full-book/chapter-3.md:51 (catchphrases yours, key-points index.md:518); "It has" made "The audience has", and the last question opened so it doesn't presume one was said.] The audience has catchphrases, too. *Darwin award. FAFO. Play stupid games, win stupid prizes.* Each one enjoys somebody's harm and files it as deserved: they were stupid, so it doesn't count. Have you said one lately? What did saying it feel like?
+[TODO: Claude, November 14: from full-book/chapter-3.md:51 (catchphrases yours, key-points index.md:518); "It has" made "The audience has", and the last question opened so it doesn't presume one was said.]
+The audience has catchphrases, too. *Darwin award. FAFO. Play stupid games, win stupid prizes.* Each one enjoys somebody's harm and files it as deserved: they were stupid, so it doesn't count. Have you said one lately? What did saying it feel like?
 
 Contempt for any one being is contempt for *life in general.* I don't mean this as a philosophical claim. I mean that when I really stop to taste what it's "made of," this becomes impossible to ignore. The only reason it feels "righteous" is because I'm paving over that flavor with convincing stories.
 
@@ -124,9 +126,9 @@ When most of us picture evil, we think of it as something people *have*: a drive
 
 A subtle turn doesn't look like evil. It looks like me going about my day, treating the world as something there to entertain me or meet my needs. Other people's wellbeing doesn't register as particularly relevant. They become "NPCs," and I'm the main character. I still help, of course—I'm a *good person*—but I'm more interested in getting their need out of my way than really being of service. I shave off a little extra for myself here or there, because who else will look after me?
 
-This is a state I often find myself in, and I would take exception at calling it "evil." But just by being in it, I'm showing others what kind of world I think this is. They feel it, whether I register this or not.
+This is a state I often find myself in, and I would take exception to calling it "evil." But just by being in it, I'm showing others what kind of world I think this is. They feel it, whether I register this or not.
 
-Further along, I may help only when it benefits me, such as when others are watching. In private, I'm busy with projects that quietly serve me, making sure I can prove they're “for the greater good." My orientation is wrong, but nobody can prove it. Hell, I can't prove it myself. What "orientation"?
+Further along, I may help only when it benefits me, such as when others are watching. In private, I'm busy with projects that quietly serve me, making sure I can prove they're "for the greater good." My orientation is wrong, but nobody can prove it. Hell, I can't prove it myself. What "orientation"?
 
 The horror is that I feel *more* righteous as I go. My cause is good; the people standing in its way don't count. The more harm I do for it, the more I need the cause to justify me. My reasons have taken the place of the care they once served, but from inside, I can't tell the difference.
 
@@ -168,7 +170,7 @@ But I hesitate to name it at all, because watch what happens when I do: *Goodnes
 
 *Every* attempt to define goodness leaves some loophole that lets me follow the letter of the law while violating its spirit. This is how most of my self-deception sneaks in: by following a definition, I can avoid feeling the *texture* of what I'm doing. Who cares about touchy-feely things like "texture" when I can literally prove I'm doing good?
 
-But the opposite approach fails, too. When I tell myself that goodness has no definition, I end up in that *who's to really say?* What's good is then whatever I decide in that moment.
+But the opposite approach fails, too. When I tell myself that goodness has no definition, I end up at *who's to really say?* What's good is then whatever I decide in that moment.
 
 What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define.
 
@@ -199,7 +201,8 @@ For me, it's the reverse of *why should I be the lone chump?* It reminds me that
 
 He restored the recognition that *genuine goodness exists*, and that I still answer to it. It wasn't his invention, or mine. I might have disagreed with him on nearly everything, yet I recognized what he was serving—and that neither of us could commandeer it to suit our own needs.
 
-[TODO: Claude draft, November 14: the reader's own case of the light recognized; condenses full-book/chapter-7.md:51 (scenarios check 4.14), last two sentences recast as questions and my finding.] Think of a news story that restored your faith in humanity: a stranger who dove in after somebody else's child, a town that took in people it had no reason to take in. Did you feel grateful, though none of it benefited you? Could you say what they were aimed at? I couldn't have defined it, but I recognized it the moment I read the story.
+[TODO: Claude draft, November 14: the reader's own case of the light recognized; condenses full-book/chapter-7.md:51 (scenarios check 4.14), last two sentences recast as questions and my finding.]
+Think of a news story that restored your faith in humanity: a stranger who dove in after somebody else's child, a town that took in people it had no reason to take in. Did you feel grateful, though none of it benefited you? Could you say what they were aimed at? I couldn't have defined it, but I recognized it the moment I read the story.
 
 That's what I'll mean by *the light*. I can't calculate my way to that recognition. Reason can help me work out what to do while in it, but the recognition itself comes before the argument, or else it's just self-deception. And what I've been calling *darkness* is exactly that self-deception: the turning away from the light that becomes my new North Star.
 

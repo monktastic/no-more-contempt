@@ -160,7 +160,8 @@ them. HTML comments (`<!-- TODO -->`) are stripped too, but the bracket form
 is easier to type and to grep.
 `build-manuscript.sh` builds `working-manuscript.md` from `long-book/`.
 Generated output; never edit it.
-`build-short-manuscript.sh` builds the short book plus the appendices twice:
+`build-short-manuscript.sh` builds the current book (`../claude-2026-11/short-book/`, in
+the order `bookparts.py` gives) plus the appendices twice:
 `short-manuscript.md` with the TODO notes kept, for auditing, and
 `short-manuscript-clean.md` with them stripped. Send readers the clean one.
 `publish.sh` generates the website from the manuscript files into the repo

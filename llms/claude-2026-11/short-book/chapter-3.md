@@ -4,7 +4,7 @@ Recall from Chapter 1 that I said my better nature is the deepest part of me: wh
 
 For me, it feels like coming back to myself. That's the sense in which my better nature is the "real me." The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
 
-This requires some care. We've all heard the excuse "that wasn't the real me!", and it can be used to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. Here's another test: have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty?
+This requires some care. We've all heard the excuse "that wasn't the real me!", and it can be used to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. Have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty?
 
 While I'm under its sway, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
 
@@ -20,7 +20,7 @@ Think back to the encounter in Chapter 1. When my enemy sees through one story, 
 
 And what comes out stronger through all this? The *darkness itself*. I become more practiced at turning away, my enemy feels more justified in doing it, and each of us has more evidence that the problem is in the other. The darker our world becomes, the more we feel we need our darkness to survive in it.
 
-So here we have something that hides in my blind spots and lures me away from myself. While I'm turned away, it's the one in control. It feels like me, and I defend it as such. [TODO: Claude draft, November 14: we think it's our friend; from key-points F0 index.md:9, wording mine.] It even passes for a friend: it's what gets me that little thrill of getting away with something. It gets me to help make a world I don't actually want, but which benefits *it.*
+So here we have something that hides in my blind spots and lures me away from myself. While I'm turned away, it's the one in control. It feels like me, and I defend it as such. It gets me to help make a world I don't actually want, but which benefits *it.*
 
 [TODO: Claude, November 14: the name after the behavior, replacing your "What does that sound like to you? / It is like a parasite, and we are its hosts." First sentence from full-book/chapter-4.md:13 (Claude-era, 2b58e02) with your "and we are its hosts" folded in; second from full-book/chapter-4.md:15, "keep" made "picked" because your next paragraph says why you keep it.]
 For all these reasons, I started calling it a parasite, and us its hosts. I picked the word because it fits the behavior, and for no other reason.
@@ -30,21 +30,17 @@ I'm not claiming there's a literal entity sitting in our brains. At the end of t
 
 The word has a cost. It hands people a new thing to call each other: "that's your parasite talking" is contempt in a fresh coat. If a different picture works better for you, use yours.
 
-The parasite isn't "ego" in the everyday sense, a big personality. It's the mind that counts itself as the one exception, defending that exception, and contempt is the defense at full volume.
+The parasite isn't "ego" in the everyday sense, a big personality. It's the mind that counts itself as the one exception, defending that exception, and contempt is the defense at full volume. [TODO: answers an objection nobody had.]
 
-[TODO: Claude, November 14: "as a vehicle to spread itself" made "and it spreads", so spreading is what it does, not a second aim.]
-On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us*, and it spreads by convincing us we're fighting it.
+On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us* as vehicles to spread itself.
 
-[TODO: Claude, November 14: "each helping the other ingratiate itself further to its host" made plain.]
 Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can each learn to see.
 
 Have you ever felt the eerie sense that something in the "bad people" *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
 
-[TODO: Claude, November 14: "the darkness" kept as a way of talking. Your "but since they're all working toward the same 'goal,' I'll also treat them as pieces of a singular principle—what I'll call *the* darkness" is now the second and third sentences (the dark coming on is mine); the original is in key-points index.md §7.]
 Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
 
-[TODO: Claude, November 14: your "I sometimes picture it as a life-denying, life-devouring force." "Life-devouring force" made "it has no life of its own, so it lives off ours": what a parasite does, with no appetite and no aim beyond the one Chapter 6 gives it.]
-I sometimes picture it as life-denying: it has no life of its own, so it lives off ours. It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
+It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
 
 ---
 
@@ -133,9 +129,9 @@ And it scales beyond that, too.
 
 [TODO: Claude, November 14: your "Consider the realm of politics." cut, and "political" added to the next sentence to carry it.]
 Suppose we discover that our political opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant. Support policies that benefit them but harm the innocent.
-  
-So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and must stop at nothing to expose it. It's part of our duty as "good people."  
-  
+
+So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and must stop at nothing to expose it. It's part of our duty as "good people."
+
 At first it's subtle enough to deny, even to ourselves. We really think we're doing the right thing. Later our methods get harder to miss. It's increasingly obvious that we're being disingenuous—but since our enemies are doing it too, it feels more justified. *We're* doing it for a good cause, and *they're* doing it for a bad one. It's *totally different.*
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
