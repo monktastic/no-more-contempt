@@ -119,7 +119,7 @@ A section from of [Please Call Me By My True Names](https://plumvillage.org/arti
 > his “debt of blood” to my people
 > dying slowly in a forced-labor camp.
 
-Zen priest (and punk rocker) Brad Warner:
+Zen priest (and punk rocker) Brad Warner, in _Hardcore Zen_:
 
 > Even if I want to put this realization down I can’t. Sometimes it’s excruciating. You know those morons that rammed those planes into the World Trade Center? That was me. The people that died in the collapse. Me again. Every single person who ever paid money for a Pet Rock? Me. I don’t mean I identify with them or sympathize with them. I mean I am them. It’s impossible to explain any more clearly than that, but this isn’t a figure of speech or bad poetry. I mean it absolutely literally.
 >
@@ -133,3 +133,15 @@ Zen priest (and punk rocker) Brad Warner:
 > *“We talked about it … and 35 guys nodded their heads saying this is not who we are. We shoot ’em. No issues with that. And then we move on,” said a former SEAL who was present at the meeting. “There’s honor involved and Vic Hyder obviously traipsed all over that.” he said. “Mutilation isn’t part of the game.”*
 
 https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/
+
+---
+
+### The mystics
+
+> *My Me is God, nor do I recognize any other Me except my God Himself.* —Catherine of Genoa, fifteenth-century Italy
+
+> *The corn was orient and immortal wheat, which never should be reaped, nor was ever sown. I thought it had stood from everlasting to everlasting.* —Thomas Traherne, *Centuries of Meditations* (remembering how the world looked to him as a child)
+
+> *O servant, where dost thou seek Me? Lo! I am beside thee.* —Kabir, a weaver in fifteenth-century Benares (God speaking), in Tagore's translation
+
+> *Love was his meaning.* —Julian of Norwich, *Revelations of Divine Love*, the answer she was given after asking for fifteen years what her visions had meant

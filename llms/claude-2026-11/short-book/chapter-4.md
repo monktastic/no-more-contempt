@@ -1,5 +1,7 @@
 # Chapter 4: The Way Back
 
+[TODO: The illusion of separation. Genuine compassion.]
+
 In Chapter 2 we said that we weren't yet fully turned toward the stranger. What would it be like to turn even *more* toward?
 
 The more deeply I gaze into a stranger's eyes, and the less captured I am by the stories I tell myself about him, the more a funny thing begins to happen: I begin to recognize what's looking out of his eyes as the same thing that's looking out of mine. I don't just mean the same *kind* of thing, but something far more intimate and fundamental. It's almost like a single thing called *Life* is looking out from both our eyes.
@@ -10,11 +12,9 @@ From this place, a striking recognition begins to occur: that if I had *been* hi
 
 As a conceptual insight, this isn't particularly profound, and it's not even obviously true. What is the self anyway? Am I not just claiming a tautology? What about free will?
 
-They're fair questions, and I can't settle them by argument. But they're also the kinds of thoughts that arrive when the insight comes via the conceptual mind—the part most of us have been trained to trust above all else.
+They're fair questions, and I can't settle them by argument. But I think there's a reason we'd rather keep this an idea than see it, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up.
 
-I think there's a reason we've been trained to do that, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up. Not because anyone forces us to, but because something deeper in us wants to.
-
-Even if I do believe the insight that I am fundamentally the same as others, it doesn't necessarily transform my life. When life gets challenging, my intellectual insights go out the window, and I fall back on old habits. I hate my enemy, and then beat myself up (or maybe even forgive myself) later, and the cycle just gets stronger.
+If I simply *believe* the insight that I am fundamentally the same as others, it doesn't transform my life. When life gets challenging, my intellectual insights go out the window, and I fall back on old habits. I hate my enemy, and then beat myself up (or maybe even forgive myself) later, and the cycle just gets stronger. Or, when confronted with evil, I try to be *nice*, which is worse than useless.
 
 As best I can tell, genuine change only happens as that "something deeper" is seen more clearly. That can happen when we look into the eyes of someone we've harmed and really see them, giving rise to remorse. Or it can happen via a much more sudden and striking experience, which we'll describe below.
 
@@ -36,13 +36,13 @@ This is what's happening with the "bad person" you literally *see* when you look
 
 From here I'm going further than you can check from where you sit. What follows is what I believe, and some of what I've seen; hold it the way you'd hold a traveler's report. Nothing you've found so far rests on it.
 
-Neuroscientist Anil Seth calls perception a "controlled hallucination." You could also say we *simulate* our reality. Seth's lab has studied how the brain builds our sense of time, and cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are the format our minds give things, not how things are. Kant said much the same in 1781.
+Neuroscientist Anil Seth calls perception a "controlled hallucination." You could also say we *simulate* our reality. Seth's lab has studied how the brain builds our sense of time. Cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are like a computer's desktop, an interface our minds use rather than how things are. Kant said much the same all the way back in 1781.
 
-All three would call these processes unconscious. I think that's the same mistake as calling the wrong you remembered in Chapter 1 unconscious. My belief (and to some extent, experience) is that this isn't quite true. They are conscious, but in *extremely deep limbo*, so that we normally can't access them. But under certain conditions—such as in deep contemplative or certain psychedelic states—we are sometimes able to.
+Most neuroscientists would call these processes unconscious. I think that's the same mistake as calling the wrong you remembered in Chapter 1 unconscious. My belief (and to some extent, experience) is that this isn't quite true. They are conscious, but in *extremely deep limbo*, so that we normally can't access them. But under certain conditions—such as in deep contemplative or certain psychedelic states—we are sometimes able to.
 
-Are such reports true (i.e., *veridical*)? I cannot prove it from here, but I can tell you why I believe it. When we experience directly that we are *doing* those things, it is generally accompanied by the forehead-smacking feeling you had in Chapter 1—only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known, irrefutably and self-evidently. And because time itself is one of the categories being simulated, it feels like I have known this all *timelessly.* 
+Are such reports true? I can't prove it from here, but I can tell you why I believe it. When I've experienced directly that I am *doing* those things, it has come with the forehead-smacking feeling you had in Chapter 1—only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known. And because time itself is one of the things being simulated, it feels like I have known this all *timelessly.*
 
-It feels like being let in on the [*great cosmic joke*](https://www.stoicmaze.com/home/2018/8/24/what-is-the-cosmic-joke). Reports of this placeless place are remarkably similar, across traditions that never met.
+It feels like being let in on the *great cosmic joke*. That sense of having always known is why I believe it, and I don't expect it to move you. Mystics across the ages have reported similar findings, and I find many of them remarkably consistent.
 
 They see that what looks out of their eyes is what looks out of everyone's. Meister Eckhart, a fourteenth-century friar, was tried for heresy for sayings like this one:
 
@@ -52,21 +52,13 @@ The Isha Upanishad, more than two thousand years old, says it in the words we've
 
 > And he who beholds all beings in the Self, and the Self in all beings, he never turns away from it.
 
-They find that what they took for themselves was resting on something else. Catherine of Genoa, in fifteenth-century Italy: "My Me is God, nor do I recognize any other Me except my God Himself."
-
-They find that time was something they had been doing. Thomas Traherne, remembering how the world looked to him as a child: "The corn was orient and immortal wheat, which never should be reaped, nor was ever sown. I thought it had stood from everlasting to everlasting."
-
-They find that the beloved was never far away. Kabir, a weaver in fifteenth-century Benares, has God say: "O servant, where dost thou seek Me? Lo! I am beside thee."
-
-And what quality does this "God" have? The most common description of it is love. Julian of Norwich asked for fifteen years what her visions had meant, and the answer she was given was this: "Love was his meaning."
-
-And it reaches strangers. Thomas Merton was standing on a street corner in Louisville in 1958, among shoppers he'd never met: "I was suddenly overwhelmed with the realization that I loved all those people, that they were mine and I theirs, that we could not be alien to one another even though we were total strangers." He called it waking "from a dream of separateness."
+And what quality does this "God" have? The most common description of it is love. And it reaches strangers. Thomas Merton was standing on a street corner in Louisville in 1958, among shoppers he'd never met: "I was suddenly overwhelmed with the realization that I loved all those people, that they were mine and I theirs, that we could not be alien to one another even though we were total strangers." He called it waking "from a dream of separateness."
 
 Of course, most of these people shared a God. But the Buddhists get to a similar place by another road, with no God at all: by rooting out self-deception, one layer at a time.
 
 In his heart-rending poem [*Please Call Me by My True Names*](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem), Thích Nhất Hạnh names himself as both a girl raped by a pirate and the pirate who raped her. In the pirate he recognizes a heart that can't yet see or love. 
 
-He doesn't tell us what we should do if we encounter that pirate in real life, and I think most of us assume that because he's Buddhist, he would tell us to be nice. But the Dalai Lama was once asked what to do if a gunman enters a room, and his answer was to [shoot back](https://www.snopes.com/fact-check/dalai-gun/). Love can be fierce.
+He doesn't tell us what we should do if we encounter that pirate in real life, and I think most of us assume that because he's Buddhist, he would tell us to be nice. But in 2001 a student asked the Dalai Lama what to do about a shooter. If someone has a gun and is trying to kill you, he said, it would be reasonable to [shoot back](https://archive.seattletimes.com/archive/20010515/dalai15m0/dalai-lama-urges-students-to-shape-world): not at the head, but at a leg (though, it should be noted, he is not an expert in firearm usage). Love can be fierce.
 
 Perhaps my favorite description comes from contemporary Zen teacher (and punk rocker) Brad Warner, in his book _Hardcore Zen_:
 
@@ -96,7 +88,9 @@ Here's what I take from this. Contempt is the refusal to see our equality, or ou
 
 In other words: when I forget my *absolute* goodness, my only option is to go seeking it out relatively—that is, at the expense of others. This is how the duality gets created, and how it sustains itself.
 
-Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see.
+[TODO: Claude draft, November 14: the felt side of seeking goodness relatively; full-book/chapter-5.md:7 (Claude-era wording) recast in first person, its "relative to someone worse" clause dropped since your sentence above says it.] I turn away from someone because I suspect, below words, that goodness might *not* be what I am. If I knew it was, I'd have nothing to prove and nobody to prove it against. The suspicion makes it feel like something I have to earn. So as long as I don't feel at home in my own goodness, I can't afford to let anyone else get there. I'm *forced* to keep them out, because if they arrived I'd have no one left to measure myself against.
+
+Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see. [TODO: Claude, November 14: the guard on "Nothing is lost," from full-book/chapter-7.md:69's "in a way I can't trace and won't pretend to"; made its own sentence so yours stays as written.] I can't trace how, and I won't pretend to.
 
 This is why I said everything I do matters, and why integrity matters even when no one seems to be watching. The one who was watching—*I*—is ultimately not separate from what the mystics have always called God.
 
@@ -104,7 +98,7 @@ This is why I said everything I do matters, and why integrity matters even when 
 
 Ask a Zen master what she sees that you don’t, and she may tell you: nothing. “Nothing has ever been hidden,” the old Chinese teachers said. Hakuin, in eighteenth-century Japan, wrote that all beings are Buddha by nature, as ice is by nature water, and grieved that we “ignore the near and search for truth afar.” *Ignorance* (as they call it) is a fitting word: we are literally ignoring it. I think what they’re describing is limbo. Huang Po said our true nature is never lost to us, even in delusion: it’s the part from Chapter 1 that never budged an inch.
 
-The Sanskrit word *namaste* means roughly "I bow to the light in you." It's not something I have to guess you have; if what I've said is true, it's simply part of our nature as sentient beings. That, I think, is why the "open secret" in Chapter 1 exists. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. That is why, when I pretend not to know it about you, you instantly know I've strayed.
+This, I think, is why the "open secret" in Chapter 1 exists. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. If that's right, the secret is open all the way down; if not, it's close enough for the trap to work. That is why, when I pretend not to know it about you, you instantly know I've strayed.
 
 We're not missing it because it's too complicated or too far away. In fact, the Tibetans have this beautiful riddle to point us back to it:
 
@@ -115,7 +109,7 @@ We're not missing it because it's too complicated or too far away. In fact, the 
 
 ---
 
-So then why is it so hard for me to give up the darkness, or even recognize it in myself?Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies or treat them with contempt.
+So then why is it so hard for me to give up the darkness, or even recognize it in myself? Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies or treat them with contempt.
 
 It is what some traditions call the *ego*, and I don't want to give it up because I think it *is* me.
 
@@ -215,4 +209,35 @@ The executive and the river still have a separate job for a later institutional 
 
 
 ~~But I've never been able to change which way goodness points. I can learn to enjoy cruelty; I can't make it good, any more than the bad man in Chapter 1 could lie awake in remorse over a kindness. In Chapter 2, goodness turned out not to be mine to define.~
+
+## Quotations cut November 14 (readers skimmed the anthology)
+
+They find that what they took for themselves was resting on something else. Catherine of Genoa, in fifteenth-century Italy: "My Me is God, nor do I recognize any other Me except my God Himself."
+
+They find that time was something they had been doing. Thomas Traherne, remembering how the world looked to him as a child: "The corn was orient and immortal wheat, which never should be reaped, nor was ever sown. I thought it had stood from everlasting to everlasting."
+
+They find that the beloved was never far away. Kabir, a weaver in fifteenth-century Benares, has God say: "O servant, where dost thou seek Me? Lo! I am beside thee."
+
+Julian of Norwich asked for fifteen years what her visions had meant, and the answer she was given was this: "Love was his meaning."
+
+The Dalai Lama line as it stood before it was re-sourced to the Seattle Times (readers distrusted the Snopes link, and the report is more qualified):
+
+But the Dalai Lama was once asked what to do if a gunman enters a room, and his answer was to [shoot back](https://www.snopes.com/fact-check/dalai-gun/). Love can be fierce.
+
+## Lines cut November 14 (cold readers, six of six)
+
+They're fair questions, and I can't settle them by argument. But they're also the kinds of thoughts that arrive when the insight comes via the conceptual mind—the part most of us have been trained to trust above all else.
+
+I think there's a reason we've been trained to do that, and it connects back to what we saw in the past few chapters.
+
+Seth's lab has studied how the brain builds our sense of time, and cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are the format our minds give things, not how things are. Kant said much the same in 1781.
+
+All three would call these processes unconscious.
+
+Are such reports true (i.e., *veridical*)? I cannot prove it from here, but I can tell you why I believe it. When we experience directly that we are *doing* those things, it is generally accompanied by the forehead-smacking feeling you had in Chapter 1—only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known, irrefutably and self-evidently.
+
+It feels like being let in on the [*great cosmic joke*](https://www.stoicmaze.com/home/2018/8/24/what-is-the-cosmic-joke). Reports of this placeless place are remarkably similar, across traditions that never met.
+
+The Sanskrit word *namaste* means roughly "I bow to the light in you."
+
 -->

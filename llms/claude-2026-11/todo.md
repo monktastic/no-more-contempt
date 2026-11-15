@@ -18,8 +18,6 @@ Full-book paths are relative to `llms/claude-2026-08/full-book/`. "Y" in the rea
    - Ch2: the bystander who shares the clip. Readers loved it.
    - Ch3: "round up the bad people"; the note for people who were hurt (placement); the would-you-still-want-it test. Most readers ran the test, and it is the best-liked check in the book.
    - Ch4: the bracing exercise; "These traditions would each describe it differently"; "Nothing is lost"; the open-secret payoff. Most readers felt the payoff land. Walt asks whether it rests on oneness.
-4. **Review the Germany passage**, placed November 13 at Ch2:176 in place of the two slope paragraphs (marked as a Claude draft). It gives Ch5 its first practice (the first sign) and partly answers Walt's default question.
-5. **One line of the test needs a choice.** "The contempt came first, and the cause supplied the reasons" isn't Lena's or Keiko's history. For them the care came first, and contempt moved in and took over its reasons. The full book has the fix: "partial love… is the seed" (5:35). Make the line your own finding, or add the second path?
 
 ## 2. Fixes to Chapters 1 to 4 that readers agree on
 

@@ -92,6 +92,8 @@ By turning away from myself, I turn away from the full implications of my behavi
 
 And it doesn't stop with the two of us. Say I'm only watching: I see someone made small by a person who still looks like the one in the right. Maybe I laugh, or share the clip. The next time I want to make an exception for myself, I have his example to draw on.
 
+[TODO: Claude, November 14: from full-book/chapter-3.md:51 (catchphrases yours, key-points index.md:518); "It has" made "The audience has", and the last question opened so it doesn't presume one was said.] The audience has catchphrases, too. *Darwin award. FAFO. Play stupid games, win stupid prizes.* Each one enjoys somebody's harm and files it as deserved: they were stupid, so it doesn't count. Have you said one lately? What did saying it feel like?
+
 Contempt for any one being is contempt for *life in general.* I don't mean this as a philosophical claim. I mean that when I really stop to taste what it's "made of," this becomes impossible to ignore. The only reason it feels "righteous" is because I'm paving over that flavor with convincing stories.
 
 ---
@@ -196,15 +198,19 @@ For me, it's the reverse of *why should I be the lone chump?* It reminds me that
 
 He restored the recognition that *genuine goodness exists*, and that I still answer to it. It wasn't his invention, or mine. I might have disagreed with him on nearly everything, yet I recognized what he was serving—and that neither of us could commandeer it to suit our own needs.
 
+[TODO: Claude draft, November 14: the reader's own case of the light recognized; condenses full-book/chapter-7.md:51 (scenarios check 4.14), last two sentences recast as questions and my finding.] Think of a news story that restored your faith in humanity: a stranger who dove in after somebody else's child, a town that took in people it had no reason to take in. Did you feel grateful, though none of it benefited you? Could you say what they were aimed at? I couldn't have defined it, but I recognized it the moment I read the story.
+
 That's what I'll mean by *the light*. I can't calculate my way to that recognition. Reason can help me work out what to do while in it, but the recognition itself comes before the argument, or else it's just self-deception. And what I've been calling *darkness* is exactly that self-deception: the turning away from the light that becomes my new North Star.
 
 People can refuse the lesson of contempt, of course. But whenever I have, what I drew strength from was the very thing the contempt was trying to make me give up on.
 
 ---
 
-They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. But someone always was: me. Not the part busy with reasons, but the part I'd turned away from so I wouldn't feel it watching.
+They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. [TODO: Claude draft, November 14: the thrill of getting away with it; from key-points F0 index.md:7 and F1 index.md:493, arrangement mine.] There's a little thrill in it, as though I'm pulling a fast one: *nobody will ever know*. Not even me, if I don't look too closely. But someone was always watching: me. Not the part busy with reasons, but the part I'd turned away from so I wouldn't feel it watching.
 
-I now believe that this somehow always finds its way into my outer world. It doesn't remain locked in my skull, like I tell myself. The soldier's desecration of life isn't waiting for a later deed to become real. Neither is private integrity. I can't justify this through the examples here; they can only provide a hint of where to look. What I saw is something larger, and I'll return to it.
+I now believe that this somehow always finds its way into my outer world. It doesn't remain locked in my skull, like I tell myself. The soldier's desecration of life isn't waiting for a later deed to become real. Neither is private integrity. [TODO: Claude draft, November 14: rehearsing alone, the distance with nobody in front; condenses full-book/chapter-3.md:57. Your next sentence was "I can't justify this through the examples here; ..."] Part of it I can check. When I read about a man I despise, with no one around, I run the verdict a few times. Then the next person who reminds me of him gets less of the benefit of the doubt, and I don't notice I've withheld it. What I rehearse alone is what I see with afterward.
+
+The rest I can't justify through the examples here; they can only provide a hint of where to look. What I saw is something larger, and I'll return to it.
 
 In my more honest moments, I can feel that I'll have to face what I've disowned one day. In a sense, I already am: it's as if my outer world is constantly reflecting back that inner corruption.
 
