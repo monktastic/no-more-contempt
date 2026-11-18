@@ -24,7 +24,7 @@ concurrency:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: bundle install failed on the ubuntu-latest move to Ubuntu 26
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
