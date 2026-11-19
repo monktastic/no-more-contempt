@@ -4,6 +4,8 @@
 
 [TODO: Depths / levels of limbo.]
 [TODO: Anything other than nondual realization is evil. Or any time I act from a perception of anything but our unity, I am creating more darkness.]
+[TODO: Deep surrender and trust, freed of demonic possession.]
+[TODO: Not just an experience.]
 
 If there was never a second thing there, only the light turned away, what would it be like to turn the rest of the way?
 

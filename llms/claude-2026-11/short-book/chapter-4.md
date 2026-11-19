@@ -3,6 +3,7 @@
 [TODO: Claude, November 16: Claude built this chapter on November 14, mostly from the full book's Chapters 5 to 7, scenarios.md and your key points; check all of it. Wholly Claude's, with no source passage: the opening, except the second paragraph's first two sentences; the question opening "The Far End"; the one-line bridges into "Kind, Not Nice" and "The Clean Sentence"; "Take something you said this week…"; the first two sentences of "Knowing What to Do"; "Against Power", except its last paragraph, with its facts unchecked; the amends paragraph; and "At Home", except the first sentence of "Something in me is constantly sensing…", the third sentence of the child paragraph, and the last paragraph. The per-paragraph notes are in git, in 0bd59db's chapter-5.md. Since then (November 16), "If the plan needs it" became "If the plan needs me not to look", after ChatGPT and the line editor both read "it" as the arithmetic.]
 
 [TODO: That little rush I get from getting one over on my enemies, or putting them in their place, or teaching them a lesson. FAFO etc.]
+[TODO: Two kinds of judgement / outrage / etc.]
 
 So how do I get out of it? I don't mean on a mountain, or on mushrooms. At a kitchen table, in a meeting, in the half-second before the sigh goes out.
 
@@ -11,9 +12,9 @@ What got me out, when anything did, was never a better argument. It was someone 
 ---
 ## Where the Choice Is
 
-Did I choose to turn away? It feels as if I must have. I knew better, after all.
+Do I choose to turn away? It feels as if I must. I know better, after all.
 
-But if harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* wouldn't work—it would be a wrong done while still looking. That's the one thing I couldn't do with the stranger's face in Chapter 2. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
+But if harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* doesn't make sense—it would be a wrong done while still looking. That's the one thing I couldn't do with the stranger's face in Chapter 2. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
 
 [TODO: I don't get / like this paragraph]
 What I can do is smaller. While I can still feel both pulls, the recognition and the want it would veto, I can stay with the face, or let my attention drift somewhere easier: how long my day has been, what he did last time. That drift is the choice, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything; I feel reasons, and they feel like my own judgment. That's why, looking back, I know I could have stayed, and I didn't. That isn't shame's shape, *I am it*. It's remorse's, *I did it*.

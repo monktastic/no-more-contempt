@@ -3,6 +3,7 @@
 [TODO: The road to hell.]
 [TODO: Public vs private behavior, shame vs remorse]
 [TODO: I use the darkness of the world to justify my own.]
+[TODO: If I'm smarter than someone, my judgment probably should be trusted...]
 
 Imagine looking into a stranger's face until it stops being something you're looking at and becomes a place somebody is looking out of. Don't try to add anything on. Just stay with the face, and see what comes.
 

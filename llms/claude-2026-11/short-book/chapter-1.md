@@ -152,7 +152,7 @@ Notice how my stories kept changing, but my conclusion never did. When he saw th
 
 If you've been on his end, you know how it closes around you. Deny it, and you're the kind of person who does. Get angry, and that's proof too. Stay calm, and you don't even care. Apologize, and it's too convenient. Plain malice might frighten you. This maddens, because it's malice that won't admit what it is.
 
-If I let myself see how I'd provoked that reaction, I couldn't sincerely take it as proof of what he'd been all along. I had to be present enough to plant the evidence, and absent enough not to recognize I planted it. By doing so, I nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me secretly craves.
+If I let myself see how I'd provoked his reaction, I couldn't sincerely take it as proof of what he'd been all along. I had to be present enough to plant the evidence, and absent enough not to recognize I planted it. By doing so, I nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me secretly craves.
 
 This is how my need to be different and special gets itself met. By revealing itself to my enemies while hiding itself from me, it turns them into what it needs them to be while making me feel righteous for it. Part of me knows that this self-deception is the same basic trick they use to do wrong, but I prevent myself from seeing it.
 
@@ -167,28 +167,27 @@ I desperately want to call this behavior _unconscious_ (if I can admit to it at 
 
 Now look at what this trap depended on.
 
-I had to know he would recognize what I was doing: that I was turned away from my better nature, and therefore up to no good. That this meant I knew it, but wouldn't *let* myself know it. That it would license him to turn away from his. And that I would be able to use it against him.
+I had to know he had a better nature I could turn him away from. He had to recognize me as turned away from mine: that I knew better, but wouldn’t let myself know. And I had to count on him recognizing what that allowed me to do—provoke him, then sincerely hold his reaction against him.
 
-And I was right.
+The look saying we were different kinds of thing depended on our knowing we weren’t. And not just my knowing it, or his. It was out in the open between us: I knew he knew, he knew I knew he knew, and so on, as far up as you care to go. All of that had to be in place for my contempt to be coherent at all.
 
-I was counting on it, and he could *see* that I was counting on it, and I knew that too. And all I had to work with was my tone, gaze, and manner. How could they carry so much, especially given that I'd never met him before?
+I only had to *evoke* that common knowledge. That's why it could be carried entirely by tone, gaze, and manner—which also have the benefit of being plausibly deniable, *even to myself*. I was letting him feel that I knew he wasn’t what I was calling him—and meant him to know I knew. **I was making our sameness felt so he could feel me betray it.**
 
-[TODO: Claude draft, November 16, at Aditya's word: the last sentence of the next paragraph is new, a question Chapter 5 answers.]
-Because it's an **open secret**—something we all know about each other: that to do wrong, we must turn away from what we know. I know it from inside, and I know it's true of him. He knows the same about me, and knows I know it about him, and so on. So my look doesn't have to create new knowledge. It only has to point at it. Why two strangers should share all that, at every level, before a word is said, is a question I'll come back to.
+He had nothing to quote. If he tried to name it, I could make him sound unhinged. The look was the deed. I was in limbo about provoking him—and revealing that I was in limbo was itself the provocation. (Appendix 1 spells this out.)
 
-And that pointing is plausibly deniable, *even to myself*—which is itself part of the trap. He can't name it without sounding unhinged. There is no specific wrong to point at: the look is the deed. I am in limbo about provoking him—and revealing that I am in limbo is itself the provocation. (Analytical readers may appreciate seeing this spelled out in Appendix 1.)
+What I had to turn away from in myself was the thing I was reaching in him.
+
+It is an **open secret** that we are the same kind of thing as our enemies. In what sense? Not that we agree about what's good: we don't. And not that we're equally culpable: we're not. It's that we both know how to *orient* toward goodness, and that turning away means we've departed from it. 
 
 So when the first stranger caught you, you were sensing something real. Something in him was letting you know exactly what you were looking at—the thing we all recognize as dark—and that it wasn't an accident.
 
-If it's an open secret, why does it feel like I don't know it? Because if I let it all the way in, it would demolish the structure my identity stands on: that I'm a different kind of thing than my enemies. I know I'm not. So I hide it from myself, and the hiding is what he sees, and what pushes him to become the different kind of thing I needed him to be.
+Why we all know this about each other, at every level, is a question I'll come back to. For now, it's worth holding this next to the question in the preface: what if *love* means nothing like how we normally use that word?
 
-My claim of being a better kind of thing is maddening precisely because we both know it's false. We are the *same* kind of thing. In what sense? Not that we agree about what's good: we don't. And not that we're equally culpable: we're not. It's that we both know how to *orient* toward goodness, and that turning away means we've departed from it.
+If it's an open secret, why does it feel like I don't know it? Because if I let it all the way in, it would demolish the structure my identity stands on: that I'm a different kind of thing than my enemies.
 
-Underneath the argument, we were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it.
+Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it.
 
 ---
-
-Now look at where my message was aimed.
 
 Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not just your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the second stranger was speaking to.
 

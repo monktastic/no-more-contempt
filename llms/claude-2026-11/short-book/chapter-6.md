@@ -1,6 +1,5 @@
 # Chapter 6: The Picture I Hold
 
-[TODO: Claude, November 16: Claude assembled this chapter on November 14 and reordered it on November 15, from your key points and the full book; check all of it. Wholly Claude's: the bridge question into "The Deepest Form"; "The counterfeit can pass for goodness, too", which joins "The Counterfeit" to what follows; and, in "Reason in Service", "Count everything the villagers lost…" and the next sentence. The per-paragraph notes are in git, in 0bd59db.]
 [TODO: Claude draft, November 16, after the readability round: both readers asked which recognition. Was: "Notice whether the recognition has an edge,".]
 Think of the stranger's face again, and the someone looking out of it. Notice whether that recognition has an edge, a place where it stops and what's in front of you turns into stuff. For me it doesn't stop at people. It only gets fainter.
 
