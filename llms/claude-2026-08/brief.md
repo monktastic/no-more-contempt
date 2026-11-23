@@ -1,5 +1,75 @@
 # Brief
 
+Part of me needs to know I'm better than my enemies—that they're defective in a way that I'm not. But this doesn't feel like a need; it just feels like the truth. So I feel justified treating them with contempt. This reliably makes them worse people, which I then use to prove that I was right about them all along.
+
+Is their reaction just coincidentally helpful, or might it be the *purpose* of my contempt? Here's what I find.
+
+Contempt is a dark sentiment. It conveys: *you're a lesser kind of thing, so whatever I do to you doesn't count as harm.* What I'm doing is revealing my "inner darkness" to them, knowing it will provoke them to embrace theirs, which I can then hold against them—because I was "only holding them to account."
+
+At some level, I know this story is a sham—that the darkness I'm revealing isn't a different kind of thing than what I accuse them of, but the exact same thing. I know it's possible to hold people accountable without contempt, because I've been **fiercely** confronted without it, and that made it *more* effective, not less. So what purpose does my contempt serve, other than provocation? I would enjoy it even if no one else were around to witness it, so it's not about deterring anyone. That's just another excuse.
+
+Something in me **delights** in making bad people suffer, *over and above* any good it might do; any justice it might serve. But for that delight to feel okay (and not evil, like it is), I need to know they're truly beyond help. I would feel sick to my stomach if I found out they still had the capacity for good, so I must rule out that possibility.
+
+So I flash them this *delight in gratuitous harm*—evil—knowing they'll recognize it for what it is. I'm revealing to them that I know we're the same kind of thing, while claiming we're not, because the maddening hypocrisy will make them embrace their own darkness, yet without leaving a shred of evidence of what I've done. And this denial of evidence isn't just incidental, but central to the trap: I'm taunting them by letting them know I'll get away with it. *I was only fighting evil, you see! How could that ever be wrong?*
+
+Then, since they dig in in response to my "righteous" behavior, I get the evidence I need: they are truly beyond help. And there's only *one way* to deal with people like that...
+
+Something in me is gradually nudging my enemies toward becoming what it needs them to be. And the same thing in them is doing it right back. We're locked in a horrifying dance.
+
+Notice what seems like a contradiction in my account: on one hand, I say I'm *knowingly* executing it; but on the other, I must be unaware of my own role in it—because how could I sincerely hold against them evidence that I know I planted?
+
+It turns out not to be a contradiction at all, but the very crux of the matter.
+
+All evil ultimately *is* is our unwillingness to face ourselves; our ability to hide things from our own minds. What the "evil person" hides is that *my victim is just like me.* If he felt the full weight of that recognition, he simply couldn't do it. His victim must be *fundamentally other.* It's the same confused state I must enter to treat him with contempt.
+
+If you've ever been on the receiving end of a dehumanizing gaze, you know what this is like. Doesn't the other person seem somehow *absent* or *turned away*? That's what you're sensing. It's the same thing we reveal to them when we feel contempt.
+
+And what are we turned away *from*? From the deepest part of ourselves; the part that would never let us gratuitously harm others, because it literally *sees* ourselves in them.
+
+Here's the strange part: in that state, although our sameness with our victim is hidden, it's not actually unconscious. It is still there in our field of consciousness, but we're just not looking at it. You could say we are **conscious** of it without being **aware** of it.
+
+Here's a quick demonstration of that state.
+
+Have you ever done something you knew was wrong at the time, but couldn't fully admit it to yourself until later? Maybe you took credit for someone else's work, said something cruel to someone who'd done nothing to you, or cheated on a test (or even a partner).
+
+Recall what it was like to finally own up to it. The knowledge that it was wrong: did it feel like new information? Or like something you had always known, but somehow hadn't *let* yourself know?
+
+Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? 
+
+That was intentional behavior. You were conscious of it, without being aware of what you were doing.
+
+But we like to call such knowledge (and behavior) "unconscious." Most of the literature on the *shadow* since Jung has used that word, because look at what it gets us: no one can blame me for what I couldn't see. My enemies cause harm while being fully aware of what they're doing, while I only ever do it (if I even do) by accident, or unconsciously. That's why they deserve contempt while I deserve understanding.
+
+This asymmetry is what drives the whole process. My evil is hidden from me but revealed to you, enticing you to attack me for it, not realizing what you're actually doing. Except that part of you *does* realize it, because that's *your* evil revealing itself to me, making me feel righteous in doing it right back.
+
+Here's what I've found in myself: as long as I harbor even a trace of contempt for anyone for any reason, my behavior is secretly spreading evil via channels I can't see—or rather, *won't* see.
+
+This is why nothing changes until I become aware of my own capacity for darkness. It hides in the very last place I'd ever look: my conviction that I'm one of the *good* ones, valiantly fighting the bad guys. As long as I see myself as inherently superior to anyone—be it because I'm nicer, smarter, or anything else—I'm still lost in the trap that's creating the world I hate.
+
+The people who fiercely corrected me without contempt: this is what they knew, and why their behavior worked. They showed me they're not better than me (when they easily could have), and by doing so, unmasked that confusion in me. What they were revealing was the opposite of the darkness—call it the *light*—and when made to confront theirs, I was forced to confront my own.
+
+In such moments, I remember that I can't win against it—and more importantly, that I don't want to. I can only choose darkness when forgetting that the light exists; when believing it's something nice, or gentle, or soft. *That's* the confusion I'm spreading to my enemy through contempt: reminding him that genuine goodness doesn't exist. That all that matters is what we can get away with; what we can prove—and since I'm proving I'm the righteous one right now, he has every reason to abandon his own faith in the light.
+
+In this sense, the darkness is like an infection that we spread to one another. And as far as I can tell, the only way to stop the spread is to always remember that there is a light to orient to, and staying committed to orienting to it at all costs.
+
+I think this is more than just a personal belief. I think that if we didn't all already know it, the whole dynamic above wouldn't be possible. Contempt wouldn't even be coherent if I didn't think my enemy had a *better nature* I could turn him away from. But as far as I can tell, there aren't people for whom it is reversed. No one who lies awake at night, wracked with remorse over having been decent; having gone against their evil nature. Ultimately, "good" points in the same direction for all of us, whether we're aware of it or not.
+
+I think what we are is at different stages of remembering. And the more I remember, the more I help you remember, and vice versa.
+
+So all I ask of you is that you remind me when I forget. Not by being *nice* to me, but by being kind, however fierce that kindness has to be. By staying oriented. And all I can offer you is to do the same.
+
+That's how I think we bring this thing home.
+
+---
+---
+
+
+
+
+
+
+
+
 Our society has lost confidence that "good" means anything we could agree on, so we spend our energy fighting the people we're sure are bad. My claim is that there *is* something universal to steer by; that everyone already knows it; and that we treat our enemies with contempt to disorient them from it, so that we can prove we're nothing alike.
 
 The most original claim of my work is that we already know that last part, too; and that we must, for contempt to be coherent at all. It only works because certain things are already common knowledge, in the game theorist's sense, between the one sending it and the one receiving it. Each knows it, knows the other knows it, and so on without end. Contempt is thus a recursive and self-referential trap. What this explains, I think, is a major channel through which ignorance of our common nature spreads from mind to mind.
