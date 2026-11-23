@@ -15,6 +15,7 @@ AUTHOR = 'Aditya Prasad'
 CURRENT = pathlib.Path(__file__).resolve().parent.parent / 'claude-2026-11'
 CURRENT_BOOK = CURRENT / 'short-book'
 START_HERE = CURRENT / 'start-here.md'
+BRIEF = CURRENT / 'brief.md'  # the argument in a couple of thousand words, its own page
 APPENDIX_DIR = CURRENT / 'appendices'
 
 # The long book's reading order. The site keeps these pages but hides them from

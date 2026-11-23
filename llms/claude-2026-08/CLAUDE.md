@@ -106,8 +106,10 @@ serve both books, so they cite neither by chapter.
 
 `argument.md` the master statement of what the book claims. If a draft and this
 disagree, one is wrong; say so.
-`brief.md` the same argument in my own words, about four thousand words; the
-plain statement, where `argument.md` is the map.
+`../claude-2026-11/brief.md` the argument in my own words, about two thousand
+words, published on the site as *In Brief* (`/brief/`). `brief.md` here keeps
+the older, longer statement, section by section; the plain statement, where
+`argument.md` is the map.
 `discoveries.md` index of everything worked out so far and where each thing
 lives. **Read this first.**
 `correspondence.md` the philosophical problem of why conscience's knowing
@@ -165,9 +167,9 @@ the order `bookparts.py` gives) plus the appendices twice:
 `short-manuscript.md` with the TODO notes kept, for auditing, and
 `short-manuscript-clean.md` with them stripped. Send readers the clean one.
 `publish.sh` generates the website from the manuscript files into the repo
-root: `index.md`, `book/`, `short/`, `map/`, `appendix/`. The long book
+root: `index.md`, `brief/`, `book/`, `short/`, `map/`, `appendix/`. The long book
 (`book/`) and its map (`map/`) are published but kept out of the menu and the
-search, so old links still work; the menu is Start here, the current book
+search, so old links still work; the menu is Start here, In Brief, the current book
 (`short/`, built from `../claude-2026-11/short-book/`; the condensed book in
 `short-book/` is no longer published), the appendices and the downloads. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on

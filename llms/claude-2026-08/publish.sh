@@ -1,6 +1,6 @@
 #!/bin/sh
-# Generates the website pages: index.md (Start here) and short/ (the current
-# book) from llms/claude-2026-11/, appendix/ from llms/claude-2026-11/appendices/,
+# Generates the website pages: index.md (Start here), brief/ and short/ (the
+# current book) from llms/claude-2026-11/, appendix/ from llms/claude-2026-11/appendices/,
 # and the hidden long book and its map, book/ and map/, from long-book/. They go
 # to the repo root, where Jekyll finds them, and are not in git; the Actions
 # build regenerates them on every push. Edit the sources instead.
@@ -19,7 +19,7 @@ PUBLISH_OUT="$OUT" python3 - <<'PY'
 import re, pathlib, shutil
 from bookparts import (split_title, strip_todos, pages, start_here_counts, condensed_files,
                        BOOK_FILES, DRAFT_FILES, APPENDIX_FILES, TITLE_OVERRIDES,
-                       CURRENT_BOOK, START_HERE, APPENDIX_DIR)
+                       CURRENT_BOOK, START_HERE, APPENDIX_DIR, BRIEF)
 import os
 HERE = pathlib.Path('.').resolve()
 ROOT = pathlib.Path(os.environ['PUBLISH_OUT']) if os.environ.get('PUBLISH_OUT') else HERE.parents[1]
@@ -72,7 +72,7 @@ if GUARDED and MANIFEST.exists() and not os.environ.get('PUBLISH_FORCE'):
                  'long-book/ first, or PUBLISH_FORCE=1 to discard them:\n  ' + '\n  '.join(edited))
 written = {}
 
-for d in ('book', 'map', 'appendix', 'condensed', 'short'):
+for d in ('book', 'map', 'appendix', 'condensed', 'short', 'brief'):
     p = ROOT / d
     if p.exists(): shutil.rmtree(p)
 
@@ -94,6 +94,12 @@ sw = sum(len(strip_todos(split_title(f.read_text())[1]).split()) for f in conden
 _, body = split_title(START_HERE.read_text())
 body = start_here_counts(body, sw)
 page(ROOT / 'index.md', 'Start here', 1, '/', body, seq='short')
+
+# The brief: the whole argument in a couple of thousand words, in the author's
+# voice. A page of its own, in no reading sequence. The source has no title.
+_, body = split_title(BRIEF.read_text())
+page(ROOT / 'brief' / 'index.md', 'In Brief', 2, '/brief/',
+     count_line(len(strip_todos(body).split()), 'This page') + body)
 
 
 # The book
@@ -173,5 +179,5 @@ for spec in pending:
     write(**spec)
 
 if GUARDED: MANIFEST.write_text(json.dumps(written, indent=1))
-print('published: index.md, book/ (%d), short/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(short_chapters) + 1, len(chunks)))
+print('published: index.md, brief/, book/ (%d), short/ (%d), map/ (%d), appendix/ (4)' % (len(chapters) + 1, len(short_chapters) + 1, len(chunks)))
 PY
