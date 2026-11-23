@@ -3,7 +3,6 @@
 [TODO: The road to hell.]
 [TODO: Public vs private behavior, shame vs remorse]
 [TODO: I use the darkness of the world to justify my own.]
-[TODO: If I'm smarter than someone, my judgment probably should be trusted...]
 
 Imagine looking into a stranger's face until it stops being something you're looking at and becomes a place somebody is looking out of. Don't try to add anything on. Just stay with the face, and see what comes.
 
@@ -30,6 +29,7 @@ If you want to see how far that turn can go, try, just for a moment, to stop reg
 Now return to the stranger's face, and the recognition that there's someone there. 
 
 ---
+## The Word
 
 What does *evil* mean? Start with where you'd already use the word: a politician who lies his country into a war, executives who keep selling a drug they know is killing people, someone who tortures an animal for fun. What is the word tracking?
 
@@ -41,13 +41,13 @@ Now think back to your own wrong in Chapter 1. If it was cheating on a test, wha
 
 But *making myself an exception* and *feeling like I'm worth more* don't quite capture it. If my back is hurting, I can take the last seat on the bus without it being evil in the slightest. A human is worth more than a mouse in a meaningful sense, and sometimes I must rely on that to do good.
 
-What do the evil cases have in common? It's that someone had to be put out of view. It is the turning away.
+What the evil cases have in common is that someone had to be put out of view. It is the turning away. If I'm smarter than others, maybe my opinion *is* worth more in certain cases. But I can also find myself making that argument in a subtly underhanded way, for reasons that will benefit me or mine. In that case, I'm counting myself as worth more in an unhealthy sense. Only I can know for sure, even if it often has "tells" that others can sense. [TODO: And because that knowing is in limbo... If I were forced to look the people it will affect in the eye...]
 
 Here's what I find in myself. Turning away from myself, from my better nature, from the life in others, and from the full implications of my behavior—they're all facets of a single move. It is that move I call *evil*, and I think it's what we've been tracking all along.
 
 The padded expense, the lie to the insurer, the joke that makes someone smaller, the slur, the order to clear a village: each needs someone held out of view so that I, or mine, can be the exception.
 
-If I get on the bus with a pregnant or elderly person and pretend not to see them, I'll usually find myself muttering a story about why it's not my duty to help. Or maybe I bury myself in my music before getting on, to drown out any potential of seeing others. That's "evil" by this definition, but it's probably not helpful to say so. I may legitimately feel like I need more comfort in this moment, and calling myself names isn't going to help me clarify that in a way that helps me express the need while remaining *turned toward*. It's a subtle issue, and we won't get into all the nuances here.
+If I get on the bus with a pregnant or elderly person and pretend not to see them, I'll usually find myself muttering a story about why it's not my duty to help. Or maybe I bury myself in my music before getting on, to drown out any potential of seeing others. That's "evil" by this definition, even if it's not helpful to say so. I may legitimately feel like I need more comfort in this moment, and calling myself names isn't going to help me get that need met in a way that respects others. It's a subtle issue, and we won't get into all the nuances here.
 
 The harm I caused in the last chapter was tiny beside an atrocity. But it still felt malevolent, because it's the same fundamental gesture across all scales. The tiniest whiff of it carries the scent of the whole.
 
@@ -56,6 +56,7 @@ In the very worst people, it appears as something like a *thirst for devouring i
 This is why I say contempt is evil. I don't just mean it's *bad.* I mean it is the thing in disguise. That's why it works.
 
 ---
+## Outcomes
 
 Of course, outcomes matter too. If the harm I caused my enemy ended with him, we might still balk at the name "evil." After all, maybe *the ends justify the means*? In that case, my inner knowing would just be issuing a false alarm, and I'd be right to silence it.
 
@@ -71,8 +72,7 @@ Can you feel that?
 
 If his allies were watching, it would teach them the same thing. We can't pinpoint where or how—or even if—that lesson will manifest as physical harm to anyone, and yet we sense the wrongness anyway. We don't need to trace the consequences to know that. Why not?
 
-[TODO: Claude, November 16, at Aditya's word: was "It's not that outcomes don't matter—it's that we can often sense the general form they will take, even when we can't pin down specifics." That framed the judgment as a forecast, which the insect in the cave contradicts; the new lines say the outcomes are the act carried forward. Also dropped "in addition" from "Cruelty is wrong by itself" above.]
-It's as if the action isn't just *teaching* him to degrade life, but is *itself* somehow degrading it. I think that's what the shared judgment is registering, before anyone can produce an account of who will be hurt. It isn't a forecast. It sees what the act already is, and whatever follows is that act carried forward. That's why the ends so often bear it out, and why I don't need to see them to know.
+It's as if the action isn't just *teaching* him to degrade life, but is *itself* somehow degrading it. I think that's what the shared judgment is registering, before anyone can produce an account of who will be hurt. It isn't just a forecast. It sees what the act already is, and whatever follows is that act carried forward. That's why the ends so often bear it out, and why I don't need to see them to know.
 
 Take the same question back to the two strangers. Both might have stopped your misbehavior, and so both can claim that what they did was "good." But they left a difference in you, and that can emerge somewhere neither of them will ever see.
 
@@ -122,6 +122,7 @@ Two seemingly-identical actions, taken from different orientations, can produce 
 Outcomes still matter, of course. Care doesn't tell me which policy will work. But no calculation can make me honest if I'm using it to keep some part of the situation out of view—which, I find, I almost always am, to one degree or another.
 
 ---
+## An Absence
 
 When most of us picture evil, we think of it as something people *have*: a drive toward harm, a dark side alongside their better nature, or in place of it. In other words, as a kind of *presence*. But I think it's actually an absence that *masquerades* as a presence.
 
@@ -162,6 +163,7 @@ This is why I don't think evil is an equal and opposite force. It's what behavio
 I can't prove that someone at the extreme still has a better nature, or how they got to where they are. What I can report is this: the more turned toward I am, the more I can perceive what's happening in them, and respond with fierce kindness. The more turned away, the more I see a foreign substance called *evil*, which I feel morally compelled to punish them for.
 
 ---
+## Goodness
 
 So then what is goodness? 
 
@@ -176,6 +178,7 @@ But the opposite approach fails, too. When I tell myself that goodness has no de
 What I find hard to hold is that there *is* an orientation there that I can recognize and am bound by, I can't pin it down in a definition, and that still doesn't make it mine to define.
 
 ---
+## The Slope
 
 As long as I can feel contempt for *anyone*, that dark urge still exists somewhere in me. So what is it that prevents me from sliding down that slippery slope into becoming the monsters I hate? Every person who took part in atrocities against their neighbors probably told themselves it could never be them.
 
@@ -193,6 +196,7 @@ The first, smallest move I watch for is putting myself slightly above someone. T
 I can't tell you exactly what your self-deception feels like. Only you know for sure when you're lying to yourself—though someone else often sees it first, the way the second stranger did. But you may recognize a moment when you found a reason not to look at something, and felt relieved. Mine has a signature, and the more honest I get, the earlier I notice it.
 
 ---
+## What He Restored
 
 This puts into perspective what the second stranger did. He didn't benefit directly. If anything, it cost him: it's hard to confront others, and he showed that he could be held to the same standard—that he wasn't allowed to make exceptions for himself.
 
@@ -210,6 +214,7 @@ That's what I'll mean by *the light*. I can't calculate my way to that recogniti
 People can refuse the lesson of contempt, of course. But whenever I have, what I drew strength from was the very thing the contempt was trying to make me give up on.
 
 ---
+## No One Watching
 
 They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. [TODO: Claude draft, November 14: the thrill of getting away with it; from key-points F0 index.md:7 and F1 index.md:493, arrangement mine.] There's a little thrill in it, as though I'm pulling a fast one: *nobody will ever know*. Not even me, if I don't look too closely. But someone was always watching: me. Not the part busy with reasons, but the part I'd turned away from so I wouldn't feel it watching.
 
@@ -228,15 +233,9 @@ Here's a question to ask yourself. When you see that the whole world is corrupt,
 <!--
 # Chapter 2 holding pen
 
-(That world is yours as much as mine, made by all of us at once. So nothing that happens to anyone, an illness, a loss, what someone else did to them, is anyone else's to read as a sign of what they did. This is about the harm I do.)
-
-The full former pen is preserved verbatim in ../../chatgpt/archive.md under “Former Chapter 2 holding pen.” These are the points still worth placing.
+The full former pen is preserved verbatim in ../../chatgpt/archive.md under “Former Chapter 2 holding pen.” These are the points still worth placing. Taken out November 23 because the book now carries them: the guard "(That world is yours as much as mine…)" (Epilogue), 2, what the bystander learns ("Say I'm only watching"), and 6, the parasite's borrowed faculties (Chapter 3: "it has my attention, my reasons, my eyes to work with").
 
 ## Restore in Chapter 2
-
-### 2. What the bystander learns
-
-After the first stranger's accounting, before the politician. The executive shows what a person can carry away from being treated with contempt. Give the witness one distinct beat. I watch someone make a person small while still looking like the one in the right. The next time I want to make an exception for myself, I have his example to draw on. This is the missing part of the bystander TODO. The soldier already shows witnesses learning to degrade life.
 
 ### 3. The moment I make conscience optional
 
@@ -255,12 +254,6 @@ Near “someone always was: me.” Ask what I would still want to make right if 
 ### 5. Let the executive visit the ecosystem
 
 Optional, just after the counter-evidence feels more convincing. The old scene has him spend a week there, swim in the ponds, and get to know the wildlife. Hold the evidence about the proposal fixed. What changes is how much it matters to him if he is wrong. Use this if the executive passage needs a felt contrast to the tipping of the scales.
-
-### 6. Give the parasite its borrowed faculties
-
-Chapter 3, near the reveal. Bring back the intelligence, attention, and eyes it acts with. Chapter 2's grudge already shows why darkness needs upkeep. The new work is to show how something that depends on our turning away can still read a situation and act with precision.
-
-> Everything it uses—my attention, my reasons, my eyes—is borrowed from me.
 
 ### 7. Say what I would refuse to support
 

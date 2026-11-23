@@ -1,11 +1,59 @@
+TODO: Clean up the following. Insert them into the relevant "Angles" (or cut them if they're redundant or worse than what's there.)
+
+## Drafts
 
 Much of what we do to fight evil only makes it stronger. We then wring our hands, wondering where we went wrong. But the truth is, part of us knows *exactly* where we went wrong—it's just that we can't easily put it into words. So we tell ourselves that maybe we *don't* actually know, enabling us to keep making the same mistake again and again.
 
 But this isn't just a piece about evil. It's about a mistake each of us is making, right now, in small ways we'd never call harmful—and how when you add it all up across eight billion people, it produces the monstrosity we think of as "what's wrong with the world." It gets into our institutions, our politics, our best intentions. And it's about how to stop.
 
+---
+
+[Michael Pollan in this clip says that one of the insights revealed by psychedelics is that "love is the most important thing in the world—but what are you going to do with that"? https://www.youtube.com/watch?v=EP0N3XVvBL8
+
+https://news.berkeley.edu/2019/03/16/berkeley-talks-transcript-michael-pollan-dacher-keltner/]
+
+People often come back from psychedelics saying that love is the most important thing in the world, that it's the right response to literally every situation. What are we to do with that? Sure, love your enemies, up to a point. But past that, continuing to love them seems soft, even stupid. So it seems reasonable to conclude that "literally" is just an exaggeration: an overexcited mind getting carried away. Maybe we can rescue the insight, by removing that word: *love most people, most of the time*. Lovely, but I doubt anyone needed magic mushrooms to tell them that.
+
+But what if "literally" is actually correct? What if it's the "love" part we're misunderstanding, and it means nothing like how we normally use that word—being nice, or soft, or even tolerant?
+
+Well, then they probably should have picked a better word, or done a better job defining it, right? But what if—as many will insist—it is precisely *that which cannot be defined?* 
+
+Then we really have a problem. It becomes one of those things where you either get it or you don't—and if you don't, there's not even a clear reason to try, and no way to get started even if you wanted to.
+
+I don't think that's okay. If it's actually the *most important thing in the world*, then someone ought to be able to get it across.
+
+This is my attempt.
+
+---
+
+Why should I succeed?
+
+I don't know that I will. But here's what I do know: the key insight is something every one of us already knows, deep down. The real challenge isn't in conveying it, but *evoking* it.
+
+What evoked it in me was being pointed back to an experience I’d had many times: refusing to love, out of a confused sense of duty. And the strangest part is that I wasn't being shown something new—I was being shown how I had always known it, but had tried to pretend that I didn't. When that pretense fell, everything clicked into place.
+
+As best I can tell, this is the clearest way to evoke recognition in others (at least, using words).
 
 
 
+
+
+
+
+Countless people have tried to explain it, many of them without ever having touched psychedelics. I myself have tried and failed countless times. Then I stumbled upon something curious. A memory I kept coming back to, of how the insight landed for me. Here was the 
+
+Through an example we're all familiar with.
+Motivated misunderstanding.
+
+There’s a sense in which that’s right, and a sense in which it’s horribly wrong. The strange thing is that at some level, we know the difference between the two senses—we just tell ourselves we don't. In my experience, the most dramatic finding was discovering how I'd always known it, and how I'd been pretending I didn't, so that I could keep getting away with things. I was feeding the horrors of the world while telling myself I was only fighting them.
+
+...
+
+What if it's not? What if that "literally" is meant, well... literally?
+
+There's a fuller version of the insight
+
+---
 ---
 
 Two people can do nearly the same thing, for the same good reason, and yet one of them makes the world worse while the other makes it better. The difference isn't in anything we can prove—nothing we'd ever write down in a report—and yet it decides almost everything.

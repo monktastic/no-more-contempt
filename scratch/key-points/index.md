@@ -2,6 +2,8 @@ Key points to insert:
 
 T0: When I'm turned away, I'm automatically in a state of self-deception.
 
+T1: (In the Picture I Hold) We say we *throw things away*, but there is no "away." There is only someone else's backyard. 
+
 T1: Losing respect for someone or feeling like they're making awful choices isn't necessarily contempt.
 
 F0: The feeling of getting away with it; "pulling a fast one"; nobody will ever know—not even me.
@@ -89,6 +91,7 @@ Something in you knew before the reasons arrived. It never argued, and it never 
 ### Calculating goodness
 
 - **T0** - You cannot calculate your way to goodness. The reason being that you'll never know whether your calculation is based on self-deception. Humanism as an example.
+  - **F1** - Two versions of this, and they climb. The weaker: a count can be steered, since whoever draws its boundary decides what's left out, and self-deception gets in there (Chapter 2's outcomes section; Chapter 6, "somebody decides where the count stops"). The stronger: even an honest, complete count can't say what to do. Count every home, tie and ton of methane at Tehri, and the arithmetic still can't say what a village is worth in carbon; a count only weighs what someone already put on the scale, at a rate someone set. The limit case is the insect in the cave: nothing downstream to count, and it still mattered. Reason tells me what will happen, not what it's worth, which is why this isn't anti-intellectual. Never write the weaker as if a fuller count would have settled it. (Aditya and Claude, November 16, from fixing Chapter 6's "Someone could have counted what the villagers lost". The stronger is placed in Chapter 6, Reason in Service.)
   - **F1** - AI and modernism. "The Tao that can be named is not the eternal Tao" (Tao Te Ching, chapter 1). Coherent extrapolated volition cannot work if it's trying to formalize the good. Which isn't to say we shouldn't try, because the trying itself has value. (Aditya, October 17; author musing, not yet placed.) Long book Chapter 6's notes.
   - **F1** - The sharper form of the CEV point: CEV doesn't formalize the good directly; it points at a process (what we'd want if we knew more and were more who we wished we were). But that extrapolation starts from beings in limbo, so it extrapolates the limbo too, unless it can tell the part that knows from the part that proves, and only the second would rather not look. (Claude's sharpening, October 17, which Aditya agreed with.)
   - **F1** - People's intuitions conflicting across cultures and centuries is not evidence against the shared Light, any more than "well I decided to hate this person and decided it was good" is evidence that I really thought it was good. (Aditya, October 17.) Sharpened: believing my hatred was good didn't mean no part of me knew better. It's not that another part disagreed; I KNEW, with the kind of knowing that simply cannot be wrong. (Aditya, October 17.) ▹ Short book, Chapter 5, after "conclude morality is made up."
@@ -293,6 +296,7 @@ What's doing this behaves like an agent. It hides from its host and shows itself
   - **F1** - The parasite's job is to make us confuse the person with their darkness. This alone ensures we will strengthen it.
   - **F1** - It keeps our attention fixated perpetually outward, on the evil "out there," to prevent us from looking closely enough "in here," at the one place where we can actually defeat it, and thereby be of genuine service to others. Every act of unkindness we have ever perpetrated on *anyone* has secretly been in its service—and part of us has always known this.
   - **F2** - It doesn't feel like a foreign entity; it feels like *you*.
+  - **F2** - "At the same time, I saw how an aspect of my mind had always known exactly how I was lying to myself." Cut from the 2026-11 preface (November 18) as an echo of its new "I was being shown how I had always known it, but had tried to pretend that I didn't"; it held the *how* that the new line doesn't.
 
 - ▹ **T1** - It manufactures the terror it feeds on (parasite-reveal.md). It needs you frightened of what you are; the fear keeps you from looking; the not-looking makes you create evil people; and evil people are where it feeds. A causal chain, not a mood. Chapter 16, with the fear account.
 
@@ -319,6 +323,7 @@ What's doing this behaves like an agent. It hides from its host and shows itself
   - **F2** - "Their entire worldview—and thus apparent world—is internally consistent, and will vigorously fend off any attempt to puncture it." (2026-11 book, Chapter 3, the perception section; first in 109501a. Made plain November 14: "Their world hangs together, the way mine did, and every argument you bring them only sharpens the picture.")
 
 - **T1** - Fear maintains the turning away: the first lapse gets read as evidence of a bad essence, so looking back threatens to expose what you are, so you look away again, and the feared essence is projected onto enemies. Reconciles Dzogchen's primordial non-recognition (the lapse before a chooser) with Wapnick's ACIM (the disaster is taking the tiny mad idea seriously as sin). "Interpreting the lapse as evidence of bad essence creates the fear that maintains it."
+  - ▹ **F1** - "I've been on the lam from my 'original sin' ever since. Ironically, I'm only running from my own Light." (Aditya's 2024 essay, `short.md` at the repo root, in the second person: "You have been on the lam from your 'original sin' ever since. Ironically, you are only running from your own Light." Placed November 15 in the Epilogue, at the end of the lapse story.)
   - ▹ **F1** - "I don't think this part of me is ultimately trying to help me get away with stuff. I think it's trying to protect me, and the getting away is a side effect." (General book, Chapter 1, Whose intention; placed October 23.)
 
 - ▹ **T0** - Acting from limbo spreads it, the one acting knows it will, and that knowledge is part of why they act. The *what's wrong with you?* shot at a loved one has the same flavor as evil (size doesn't matter, §3) and the same knowledge in it: part of me knows it will pass the turning away on, and that's part of what I'm sending. Scattered until now: the trip's "part of me knew even as I was doing it that this would only further darken the world" (§13), "we *know* it will subtly darken the world further, which we want" (§10, F2), the general Chapter 1's "fostering darkness in them. Part of me knows that, too," and "in that state you can only spread it" below. brief.md, Evil.

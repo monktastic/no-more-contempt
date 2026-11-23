@@ -1,44 +1,52 @@
-# Chapter 3: What You Are
+# Chapter 3: The Parasite
 
-Recall from Chapter 1 that I said my better nature is the deepest part of me: what exists beneath my self-deception, which is why hiding misbehavior from it feels like hiding it from *myself*, and going against it feels like going against myself. Go back to the wrong you remembered. When you finally owned up to it, did it feel like losing something of yourself, or like getting something back?
+When my enemy is fully in view, I can't maliciously harm him, or even feel contempt for him. Not because I'm some special "good person," but because the deepest part of me is simply incapable of it. That's the part I'm in touch with when others are in view.
 
-For me, it feels like coming back to myself. That's the sense in which my better nature is the "real me." The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
+It's what exists beneath my self-deception, which is why going against it feels like going against *myself*. When you finally owned up to the wrong you remembered, did it feel like losing something of yourself, or like getting something back?
 
-This requires some care. We've all heard the excuse "that wasn't the real me!", and it can be used to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. Have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty?
+Have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty? I can't.
 
-While I'm under its sway, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
+The times I've been fierce without contempt are the times I've felt most like myself: nothing to hide, nothing to justify. This is the sense in which my better nature is the "real me," and the darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present. In my worst moments it can be hard to snap me back, and in the worst people it's hard to know what (if anything) can. That's why it can sometimes feel like it's *not* the real me, or them.
 
-And look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded.
+So to do wrong, something must turn me away from myself. Chapter 1 called it a need, and Chapter 2 gave it a name: the darkness. But what is it like?
 
-But is that what I most deeply want? When I face the whole bargain, I can't want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight.
+It doesn't just convince me to turn away: it is what drives my behavior once I *have* turned away. And while it's in control, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
 
-When I begin to see what I'm doing, I feel ashamed. *What kind of person would do that?* That gives me a reason to look away again.
+Look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded, microplastics in my food. Is getting to hate my enemies worth all of that? When I face the whole bargain, I don't actually want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight. The hiding is how it works: the darkness lives in the gaps of my awareness, uses my own thinking to justify itself, and can only operate unseen.
 
-So this pattern benefits from being seen *as me*—by me, and by everyone else. When I mistake it for myself, I defend it. When others mistake it for what I am, they feel justified treating me with contempt. Their contempt gives me another reason to dig in.
+Later I may look back and think *whoa, that wasn't me.* But that's not guaranteed. When I begin to see the harm I've caused, I often feel not just remorse but shame: *what kind of person would do that?* Maybe this *is* the real me. That fear keeps me from addressing the harm, from admitting it, and from looking at what came over me. I don't think that's a coincidence. The darkness gives rise to that fear, because it needs me terrified of what I might be. Terrified, I won't look. And terrified, I go make evil people out of my enemies, which gives it somewhere to feed.
 
-Think back to the encounter in Chapter 1. When my enemy sees through one story, I have another ready. The verdict stays fixed. The darkness acts with apparent intelligence because it has my attention, my reasons, my eyes to work with.
+So it benefits from being seen *as me*—by me, and by everyone else. It is extrinsic to my mind, but persists by convincing me it's intrinsic. Believing that, I defend it as myself. Others, believing it, treat me with contempt, and their contempt gives me another reason to dig in. I do the same to my enemy: I take it for *him*, hand him the verdict, and he stops looking too. Evil benefits from being seen as a presence, in either direction.
 
-And what comes out stronger through all this? The *darkness itself*. I become more practiced at turning away, my enemy feels more justified in doing it, and each of us has more evidence that the problem is in the other. The darker our world becomes, the more we feel we need our darkness to survive in it.
+Think back to the encounter in Chapter 1. When my enemy saw through one story, I had another ready. The verdict stayed fixed. The darkness acts with apparent intelligence because it has my attention, my reasons, my eyes to work with.
 
-So here we have something that hides in my blind spots and lures me away from myself. While I'm turned away, it's the one in control. It feels like me, and I defend it as such. It gets me to help make a world I don't actually want, but which benefits *it.*
+And who comes out ahead? Not me: I get darker. Not my enemy: he gets more trapped, and more justified in doing it back. Not the world: the darker it becomes, the more we feel we need our darkness to survive in it. Only the *darkness itself* comes out stronger: better hidden, more practiced, each of us with more evidence that the problem is in the other, and each convinced he's free of it.
 
-[TODO: Claude, November 14: the name after the behavior, replacing your "What does that sound like to you? / It is like a parasite, and we are its hosts." First sentence from full-book/chapter-4.md:13 (Claude-era, 2b58e02) with your "and we are its hosts" folded in; second from full-book/chapter-4.md:15, "keep" made "picked" because your next paragraph says why you keep it.]
-For all these reasons, I started calling it a parasite, and us its hosts. I picked the word because it fits the behavior, and for no other reason.
+So here we have something that hides in my blind spots and lures me away from myself. It feels like me, and I defend it as such. It gets me to help make a world I don't actually want, but which benefits *it.*
 
-[TODO: Claude, November 14, after ChatGPT's review ("compress the later consecutive paragraphs explaining the permissions and limits of the metaphor"): four paragraphs made two. Kept: responsibility, "makes looking possible", the groove and "doesn't need a tenant", the license, "that's your parasite talking". Cut, yours: "But I find the parasite framing helpful." and "So I'll continue to use it throughout the rest of this book." Cut, full-book Claude-era wording (still in full-book/chapter-4.md): "A habit that lives by going unseen will push back when seen. That's all a habit is," "A name for an affliction easily turns into a character, and then the character has to be fought, and fighting something in your own mind is mostly a way of not looking at it," and "in the one sense I've earned".]
-I'm not claiming there's a literal entity sitting in our brains. At the end of the day, the darkness is something we *do*, and we are each individually responsible for our own. If "parasite" makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. It doesn't need a tenant. But calling it a parasite, something in me that isn't me, is what makes looking possible. And when I can predict it only by assuming it wants something, I'll say it wants it.
+What does that sound like to you?
+
+It is like a parasite, and we are its hosts.
+
+When I first saw this, it didn't come as a theory. It came as *oh, fuck*: something with its own agenda has been operating through me.
+
+This requires some care. We've all heard "that wasn't the real me!" used as a way to avoid responsibility, and I'm not claiming there's a literal entity sitting in our brains. The darkness is something we *do*. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. It's somehow me and not me at once. But it is extrinsic to my true nature: while I am fully present, fully *turned toward*, it cannot exist. And that means it can be removed.
+
+If "parasite" makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. It doesn't need a tenant. But calling it a parasite, something in me that isn't me, isn't a comfort. It's what makes looking possible. And when I can predict it only by assuming it wants something, I'll say it wants it.
+
+I've found the word useful when working with people in difficult situations. When I recognize the sense in which their darkness isn't really them, I can try to get through to something deeper. When I'm convinced it is, I can't help but feel contempt.
 
 The word has a cost. It hands people a new thing to call each other: "that's your parasite talking" is contempt in a fresh coat. If a different picture works better for you, use yours.
 
-The parasite isn't "ego" in the everyday sense, a big personality. It's the mind that counts itself as the one exception, defending that exception, and contempt is the defense at full volume. [TODO: answers an objection nobody had.]
+The parasite is close to what some call "ego," but not in the sense of a big personality. It's the mind that counts itself as the exception, and defends that exception. Contempt is that defense at full volume.
 
 On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us* as vehicles to spread itself.
 
-Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can each learn to see.
+Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can learn to see.
 
-Have you ever felt the eerie sense that something in the "bad people" *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
+Have you ever felt the eerie sense that something in the very worst people *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
 
-Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
+Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it; that which makes us forget there was ever a light.
 
 It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
 
@@ -46,7 +54,6 @@ It's dangerous to mistake it for a "real thing." But it's equally dangerous to t
 
 This gives another way to look at "evil people": they are those for whom the infection has gone so deep that they can no longer tell it apart from themselves. My contempt has only ever been shoving them deeper into the grip of their captor; our shared nemesis.
 
-[TODO: Claude draft, November 14: the step-5 check; the question is your T0 at key-points index.md:274 as worded in scenarios.md:74, first sentence mine.]
 Bring back the enemy from the two buttons. If you could really see that in them, right now, could you still want to shove them deeper in? Not *should* you. *Could* you.
 
 What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong "team." What I fear isn't that I'm capable of doing what the bad people do—it's that I already am. Of course I had to hide that at any cost.
@@ -55,7 +62,6 @@ This is why I *need* to know that evil people are fundamentally different—and 
 
 The message that we're sending them is something like:
 
-[TODO: Claude, November 14: your full v5 wording from the Epilogue (chapter-6a.md:35), in place of the short form "*You will be humanity's sacrifice—the dumping ground of our collective shadow. Good luck.*"]
 > *You will be humanity's sacrifice. The dumping ground for our collective shadow. I'm sorry to have to do this to you, but it's the only way to keep our hands clean. Good luck.*
 
 On some level, I think they know exactly what we're doing—and they're meant to. Because the worst thing they can do to us is not to attack. It is to *get better.*
@@ -101,7 +107,6 @@ I deflect so that I don't have to look too carefully at what I was doing: using 
 
 And look how I construct that space. I start by testing the water with my impression, and when I get a laugh, that's my signal that it's safe to go deeper. When one person gets uncomfortable, or the wrong person walks in, then I scale it back or shut it down. It's like my darkness is scanning for *collaborators*, and testing how safe it is to fully emerge.
 
-[TODO: Claude, November 14: your v4 Lisa scene (key-points conspiracy.md:43, commit 94d620e), recast in first person; first sentence mine.]
 Sometimes the test sounds like concern. "I'm really worried about Lisa," a coworker says to me after a work event. "She seems... off lately." "Oh my god, yes," I say. Now we can dig in, all while maintaining we're just "concerned."
 
 Say I'm at my new neighbor's barbecue, and I lightly mention how I scammed my insurance company—got them to pay for something that wasn't rightfully mine to claim.
@@ -109,8 +114,8 @@ Say I'm at my new neighbor's barbecue, and I lightly mention how I scammed my in
 If he turns out to be a Boy Scout, I play it off. But maybe he joins in with a story of his own. Then we bond over how those evil companies are screwing us over. Neither of us has to think about the next customer with a legitimate claim, and how we've given the company another reason to scrutinize it. When that customer runs up against the company’s suspicion, it looks a little more like the company we used to excuse ourselves. We tell ourselves we're just *sticking it to the man.*
 
 ---
+## The Room
 
-[TODO: Claude, November 14: your "It gets even more curious with multiple people involved." made plain.]
 With more people, it gets stranger.
 
 Ten men are changing after a game. One makes a crack about the new hire at work, the one who told him to stop texting her at night: _She’ll come around. They always do._ Someone laughs. Someone tops it. Now it isn’t one man’s joke anymore. It belongs to the room.
@@ -127,7 +132,6 @@ Have you ever felt that? As if you weren’t up against nine individuals, but ag
 
 And it scales beyond that, too.
 
-[TODO: Claude, November 14: your "Consider the realm of politics." cut, and "political" added to the next sentence to carry it.]
 Suppose we discover that our political opponents are acting in bad faith. They quote us out of context. Find the worst person on our side and treat him as the representative. Pretend not to understand what we obviously meant. Support policies that benefit them but harm the innocent.
 
 So we decide it's more than fine to be a bit underhanded ourselves. We put words in their mouths. Answer the weakest version of their argument. Make them look bad—not just their position, but them, as people. It feels like we've found something rotten in them, and must stop at nothing to expose it. It's part of our duty as "good people."
@@ -136,12 +140,11 @@ At first it's subtle enough to deny, even to ourselves. We really think we're do
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
 
-[TODO: Claude, November 14: adapts the first two sentences of full-book/chapter-4.md:36 (Claude-era wording) to this section's "we"; the test at "Here's a test I use" carries the rest. The last two sentences are your v6.5 line (full-book/chapter-4.md:38, first in 768c92c), put into "we", with "And when we feel contempt for them" mine.]
-That isn't to say the two sides are the same, or equally right, or equally dangerous. They usually aren't, and we may well be on the side that's right. And when we feel contempt for them, we have often spotted evil. But the feeling is something else: a tug to be recruited into the thing we're looking at, and it uses our accurate perception to do it.
+That isn't to say the two sides are the same, or equally right, or equally dangerous. They usually aren't, and we may well be on the side that's right. And when we feel contempt for them, we have often spotted evil. But the feeling is something else: a tug to be recruited into the thing we're looking at, using our accurate perception to do it.
 
 When their side produces a genuine monster, we're unable to recognize our own role in bringing him (or her) about. All our attention gets sucked into hating him, making it even harder to reflect on what's happening inside us. And when our side produces one, he is a savior who can do no wrong as long as he's smiting our enemies. We don't see how that hatred can just as easily turn against us, or how it's already harming us.
 
-Hatred is fickle like that: because it stands for *me and mine*, I can find myself on the wrong end of even my best friend's, as allegiances shift. Integrity has no such problem, because it only ever stands for the *whole*—and there's only one of those.
+Hatred is fickle like that: because it stands for *me and mine*, I can find myself on the wrong end of even my best friend's, if allegiances shift. Integrity has no such problem, because it only ever stands for the *whole*—and there's only one of those.
 
 Here's a test I use. Pick a side you're on. Keep everything: the analysis, the care for the people the other side has hurt, every fair criticism. Give up only the permission to feel contempt for them. Would you take that trade? For me, the hesitation is the finding.
 
@@ -165,12 +168,12 @@ The more I see this, the more I realize that my true allies aren't those who hol
 
 Here's another way to look at what's happening. In contempt, one part of my mind is doing my "dirty work" for me while another keeps its hands clean. That's *plausible deniability*, and I'm offering it to myself.
 
-As best I can tell, nobody needs to explicitly build that feature into institutions and organizations. When groups of people, unaware of their own parasites, gather to form institutions, this is what tends to happen. [TODO: Claude, November 14: "this is the inevitable result" hedged (Daniel, ChatGPT).] The right hand doesn't know what the left is doing—even as, at the same time, it does.
+As best I can tell, nobody needs to explicitly build that feature into institutions and organizations. When groups of people, unaware of their own parasites, gather to form institutions, this is what tends to happen. The right hand doesn't know what the left is doing—even as, at the same time, it does.
 
-[TODO: Claude, November 14: from full-book/chapter-4.md:52; the gap sentence is yours, reordered, and the factory farm and the prison are Claude's draft.]
 The one who decides doesn't look, the one who looks doesn't decide, and the harm happens in the gap between them, where no one has to know. A factory farm runs on that gap. So does a prison where the cruelty is routine, run by guards who were decent people the day they started.
 
 ---
+## The Conspiracy
 
 Contempt is the [#1 predictor of divorce](https://www.gottman.com/blog/the-four-horsemen-contempt/). We've all heard of bitter cases where each side treats the situation like total war; where the other side appears unrepentantly evil, so anything becomes justified. Each can *see* it in the other.
 
@@ -182,37 +185,31 @@ And notice what happens when we start to discover something *off* about all this
 
 What do we then do? Turn our contempt toward them—the *real* source of evil.
 
-[TODO: Claude, November 14: your "Something far more insidious is tricking us into hating them to take attention off of *it*: a pattern reproducing itself within every one of us." made plain; the original is in key-points index.md §7.]
 It's not that we're wrong about what they're doing. It's that we refuse to see how they're stuck in the same pattern, and how we're reinforcing it. Hating them keeps our eyes off the pattern itself, which goes on reproducing in every one of us.
 
 This, I think, is the source of the archetype of the *evil global conspiracy.* We're sensing something real—we're just confused about what it is. Its whole trick is to make us perceive it as something external to ourselves, because that's what keeps it alive.
 
-[TODO: Claude, November 14: the conspiracy's guard, cut down from full-book/chapter-4.md:56 (Claude-era wording); "filled graves" left out, since the next two paragraphs carry the graves.]
-The archetype is right about the shape—coordination with nobody coordinating—and wrong about where it lives. The moment it puts that coordination in a people, a cabal, a face, it has become the thing it was sensing.
+[TODO: Claude, November 23: your note here was "Not quite true. There may even be a global evil cabal. The point is, it's never the ROOT." So "wrong about where it lives" became "wrong about the root", and "puts that coordination in" became "puts the root in". I didn't add the cabal sentence: "I'm not saying that real conspiracies don't exist" is three paragraphs down, and said here it would read as a nod to the people-and-cabal theories this paragraph is warning about. The old sentence is in the pen.]
+The archetype is right about the shape—coordination with nobody coordinating—and wrong about the root. The moment it puts the root in a people, a cabal, a face, it has become the thing it was sensing.
 
-[TODO: Claude, November 14: your "We can even give it a name: Satan. Then, if we're not careful, anyone…" made what others do, so the Devil arrives as the author's picture only in Chapter 6.]
 Some give it a name: Satan. Then, if they're not careful, anyone who doesn't abide by the "right" rules appears to be a minion of his—and we all know what happens next.
 
-[TODO: Claude, November 14: your bracketed TODO made prose. First sentence yours as written; second from your T0 at key-points index.md:451, "shape" made "form" because the guard above uses "shape". Your TODO's second sentence was "The self-deception I use to sustain that thought is the very darkness I think I'm fighting."]
 It's a version of the darkest idea there is: that if we could only round up the bad people, the rest of us would live in peace. The self-deception it takes to hold that thought guarantees the darkness stays behind, in full force, changing only its form.
 
 I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *ultimate* conspiracy.
 
 ---
+## From Inside
 
 For any of this to work, our parasite must do something far more clever than whisper obviously-bad ideas into our ears, like that cartoon devil on our shoulders. It manipulates our very perceptions.
 
 When you look at your enemy, doesn't it feel like you literally *see* a "bad person?" It doesn't feel like an idea you have; it just feels like the *truth.* That's why it doesn't feel wrong. It feels like you're seeing clearly.
 
-[TODO: Claude, November 14: your "My whole cognitive-perceptual system is hijacked, so the very tools I'd normally use to detect the infection only verify that I am the one free of it." replaced. The shirt sentence is from full-book/chapter-7.md:3 (Claude-era, 2b58e02); the last sentence is mine, keeping your "the one free of it".]
-[TODO: Claude, November 14, after ChatGPT's review: the book's own practices use reflection, so this now names the thinking that fails, the kind defending the verdict. Was: "No amount of thinking harder can show me when I'm in this state, because while I'm in it, my thoughts are busy hiding it from me."]
 Thinking harder rarely shows me when I'm in this state, because while I'm in it, my thinking is busy defending the verdict, not looking. I didn't reason my way to my enemy's being rotten; I looked at him and saw it, as plainly as the color of his shirt. And when I check with the same eyes and the same mind, every check confirms that I'm the one free of it.
 
-[TODO: Claude, November 14: your "Their entire worldview—and thus apparent world—is internally consistent, and will vigorously fend off any attempt to puncture it." made plain; "sharpens the picture" from full-book/chapter-7.md:3.]
-It's why "evil people" don't feel evil, and why you can't simply talk them out of it. Their world hangs together, the way mine did, and every argument you bring them only sharpens the picture.
+It's why "evil people" don't feel evil, and why you can't simply talk them out of it. Their entire worldview—and apparent world—is internally consistent, and will vigorously fend off any attempt to puncture it.
 
-[TODO: Claude, November 14: "now recall that" cut from your sentence, which was "And now recall that a milder version of this is actually my *default* state."; tinted glasses from full-book/chapter-7.md:5; last sentence Claude's, from your T0 at key-points index.md:3.]
-And a milder version of this is actually my *default* state. It tints everything I see, the way tinted glasses do: after an hour you don't see the tint, just a darker world. I don't notice contempt; I notice that people seem a little slower today, the news a little stupider, the driver ahead a little more selfish. Turned away even this slightly, I'm already deceiving myself.
+Recall that a milder version of this is actually my *default* state. It tints everything I see, the way tinted glasses do: after an hour you don't see the tint, just a darker world. I don't notice contempt; I notice that people seem a little slower today, the news a little stupider, the driver ahead a little more selfish. Turned away even this slightly, I'm already deceiving myself.
 
 If that's true, then how do I find my way out of it?
 
@@ -237,6 +234,81 @@ The full earlier draft, including the former material below the fold and the old
 ## Possible bridge into Chapter 4
 
 The question from P30 can turn the lens back on the reader after the conspiracy. Which scene made me feel contempt for someone in it? Use it if the final question needs a concrete instance of how easily I take the position of the person outside.
+
+## Changed November 23
+
+The archetype sentence as it stood:
+
+The archetype is right about the shape—coordination with nobody coordinating—and wrong about where it lives. The moment it puts that coordination in a people, a cabal, a face, it has become the thing it was sensing.
+
+## The two openings as they stood before they were condensed, November 23
+
+When my enemy is fully in view, I can't maliciously harm him, or even feel contempt for him. Not because I'm some special "good person," but because the deepest part of me is simply incapable of it. That's the part I'm in touch with when others are in view.
+
+Recall from Chapter 1 that it's what exists beneath my self-deception, which is why hiding misbehavior from it feels like hiding it from *myself*, and going against it feels like going against myself. Go back to the wrong you remembered. When you finally owned up to it, did it feel like losing something of yourself, or like getting something back?
+
+Or have you ever been "snapped out of" being mean? Can you imagine a person being awoken out of decency back into their natural cruelty? I can't.
+
+This is the sense in which my better nature is the "real me." In my worst moments, it can be hard to snap me back into it. And in the worst people it's hard to know what (if anything) can. That's why it can sometimes feel like it's *not* the real me (or them).
+
+To do wrong, something must convince me to turn away from myself. What is that "something"? In Chapter 1, we identified it as a need, and in Chapter 2 we gave it a name: the darkness. But experientially, what is it like?
+
+Here's what I find. It doesn't just convince me to turn away: it is what drives my behavior once I *have* turned away. While it's in control, it does feel like me. It's only later that I can look back and feel like "whoa, that wasn't me." And even that's not guaranteed: when I see the harm I've caused, I often feel not just remorse but shame—the fear that maybe it *is* the real me. That prevents me from not only addressing the harm (or even admitting to it), but from looking carefully at what came over me.
+
+That inability to look honestly: it only gives it *more* power. I don't think that's a coincidence. The darkness is that which turns me away; which is in control when I am turned away; and which gives rise to the shame and defensiveness that prevent me from seeing that it's not really me.
+
+It is extrinsic to my mind, but persists by convincing me it is intrinsic. The more I believe this, the more I defend it as myself. And the more others believe it, the more they feel compelled to reinforce
+
+[TODO: extrinsic to my mind.]
+
+
+The darkness is what I do in my *absence*. It's why the person giving you a dehumanizing gaze feels absent, not more present.
+
+This requires some care. We've all heard the excuse "that wasn't the real me!" used as a way to avoid responsibility. But it's also true. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. But while I am fully present, fully *turned toward*, this behavior cannot exist. 
+
+
+
+---
+
+But while I'm under its sway, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
+
+And look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded.
+
+But is that what I most deeply want? When I face the whole bargain, I can't want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight.
+
+When I begin to see what I'm doing, I feel ashamed. *What kind of person would do that?* That gives me a reason to look away again.
+
+So this pattern benefits from being seen *as me*—by me, and by everyone else. When I mistake it for myself, I defend it. When others mistake it for what I am, they feel justified treating me with contempt. Their contempt gives me another reason to dig in.
+
+Think back to the encounter in Chapter 1. When my enemy sees through one story, I have another ready. The verdict stays fixed. The darkness acts with apparent intelligence because it has my attention, my reasons, my eyes to work with.
+
+And what comes out stronger through all this? The *darkness itself*. I become more practiced at turning away, my enemy feels more justified in doing it, and each of us has more evidence that the problem is in the other. The darker our world becomes, the more we feel we need our darkness to survive in it.
+
+So here we have something that hides in my blind spots and lures me away from myself. While I'm turned away, it's the one in control. It feels like me, and I defend it as such. It gets me to help make a world I don't actually want, but which benefits *it.* [TODO: extrinsic]
+
+For all these reasons, I started calling it a parasite. I picked the word because it fits the behavior, and because I've found it useful when working with people in difficult situations. When I recognize the sense in which their darkness isn't really them, I can try to get through to something deeper. When I'm convinced it is, I can't help but feel contempt.
+
+I'm not claiming there's a literal entity sitting in our brains. At the end of the day, the darkness is something we *do*, and we are each individually responsible for our own. If "parasite" makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. It doesn't need a tenant. But calling it a parasite, something in me that isn't me, is what makes looking possible. And when I can predict it only by assuming it wants something, I'll say it wants it.
+
+The word has a cost. It hands people a new thing to call each other: "that's your parasite talking" is contempt in a fresh coat. If a different picture works better for you, use yours.
+
+The parasite is close to what some call "ego," but not in the sense of a big personality. It's the mind that counts itself as the exception, and defends that exception. Contempt is that defense at full volume.
+
+On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us* as vehicles to spread itself.
+
+Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can learn to see.
+
+Have you ever felt the eerie sense that something in the very worst people *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
+
+Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it.
+
+It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
+
+## Changed November 23, second pass (Gemini's notes on the condensed opening)
+
+From parasite-reveal.md, the wording dropped as a tech cliché, its point kept in "The hiding is how it works… can only operate unseen":
+
+The hiding wasn't a bug—it was the core feature
 
 ## Alternate opening set aside
 

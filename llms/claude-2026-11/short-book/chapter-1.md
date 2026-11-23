@@ -13,7 +13,11 @@ Recall what it was like to finally own up to it. The knowledge that it was wrong
 
 We like to call such knowledge "unconscious," but this wasn't. It was right there to see—fully available to consciousness—you were just *turned away* from it. It lived in a bizarre kind of limbo, in which you simultaneously knew and yet somehow didn't. You could say you were *conscious* of it without being *aware* of it. We normally think of those as the same thing, but here they come apart.
 
-Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively? Looking back, did some part of you know you were doing that, even as you did it? If so, that's intentional behavior taking place in limbo. It means we can *do* things consciously without being aware of them.
+Any time someone came close to exposing it, or you started getting close to it yourself, did you find a way to deflect? Did that happen passively?
+
+Say you took credit for a colleague's idea. Someone asks how you came up with it. *We talked it over yesterday*, you say. It might be perfectly true. But you choose that answer because it lets them go on thinking it was yours, all while telling yourself you're just explaining how the work got done.
+
+That's intentional behavior taking place in limbo. It means we can *do* things consciously without being aware of them.
 
 Now try to recall how you knew it was wrong in the first place. Did that knowledge arrive before or after you'd reasoned it through? The part that knew might not have been able to say how it knew. Meanwhile, another part was busy providing reasons. *Everyone does it. It's not a big deal. Just this once.*
 
@@ -87,13 +91,13 @@ And wouldn't you know it, there he goes, accusing me of it! Not in words, but th
 
 > *Don't pretend what you're doing is noble. We both know what you're really up to.*
 
-*Shit.* He's onto me. I have no choice but to press forward. I don't want to believe I have this kind of darkness in me—the kind that would forsake a fellow being just to prove I'm nothing like him. So I double down on my certainty. He's *bad*, dammit, and I'm going to prove it. Sure, the way I'm going about it may be a bit dark, but the thing is, it's the *good* kind of darkness—the kind that all good people must harbor, to fight the real kind!
+*Shit.* He's onto me. I have no choice but to press forward. I don't want to believe I have this kind of darkness in me—the kind that would forsake a fellow being just to prove I'm nothing like him. So I double down on my certainty. He's *bad*, dammit, and I'm going to prove it. Sure, the way I'm going about it may be a bit dark, but it's the *good* kind of darkness—the kind that all good people must harbor, to fight the real kind!
 
 Yet for some reason, this only makes him dig in harder...
 
 ---
 
-Part of me knew the whole time that I could have done what the second stranger did: served justice without adding a "little something extra." But when I look back on it later, I won't have to face what I've done. My enemy will have become a slightly worse person, and that will validate the story I started with: that he was beyond help to begin with.
+Part of me knew the whole time that I could have done what the second stranger did: served justice without adding a "little something extra." But when I look back on it later, I won't realize what I've done. My enemy will have become a slightly worse person, and that will validate the story I started with: that he was beyond help to begin with.
 
 I tell myself I'm just exposing the evil in my enemies. Part of me knows I'm secretly reinforcing it.
 
@@ -111,6 +115,8 @@ I sense his hardening, and feel a brief flicker of satisfaction, vindication, ev
 
 > *Ugh, I knew it. People are even worse than I thought.*
 
+If he owned what he'd done instead, and began to make amends, a tiny part of me would feel *disappointed*.
+
 If I'd looked carefully, I'd have seen my role in causing it. So I didn't—and that *was* my role in causing it.
 
 Any doubt I had about him is now erased, so I'll feel more emboldened to trust my own justifications. Who cares about my own minor misdeeds when there's *real* evil out there to fight?
@@ -126,8 +132,11 @@ Say you had two buttons in front of you. One delivers them the vengeance they so
 Now think of the last time you watched someone you despise get what was coming to him. Was the pleasure only in the harm stopping, or also in the punishment itself?
 
 Something in me finds it primally, viscerally satisfying to make bad people suffer. I don't want to admit that urge exists in me, but it's there. I tell myself it's just part of being human. Proof I'm one of the good ones. And it's not like I'll ever actually act on it. It's confined to my skull, so what harm could it possibly cause?
+[TODO: And for that satisfaction to feel okay, and not *evil*, I need to know they're truly beyond help. I'd feel sick to my stomach if I found out they still had the capacity for good, so I have to rule it out. ]
 
 And that lie is exactly what lets it leak out my skull, through my tone and gaze, provoking the "bad people" into becoming more of what I need them to be.
+
+[TODO: It's more than this. I'm provoking people in general into becoming bad.]
 
 ---
 ## The Need
@@ -144,7 +153,7 @@ Have you ever been on the receiving end of a dehumanizing gaze? Could you feel t
 
 Part of me refuses to believe I'm anything like the *bad people*. I need their behavior to come from something I don't have: some alien quality called "evil" that I could never hope to understand, only valiantly fight. It doesn't feel like a need, but the truth: I can literally *see* the darkness in their eyes, and it's just what they *are*. What I don't see is that I can only believe this while turned away myself—and that in that state, I look like that too.
 
-Except that part of me *does* know it. I just don't *let* myself know. Look at what that helps me accomplish.
+Except that part of me *does* know it. I just don't *let* myself know, because look at what that helps me accomplish.
 
 My enemy sees I'm turned away, even though I don't. *Because* I don't. And he sees it as *evil*, for the same reason I see him that way. I'm showing him, through my tone and my gaze, that the darkness I see in him lives in me too, and that I can use it against him and get away with it. It doesn't look like an accident to him—because it isn't. 
 
@@ -154,44 +163,48 @@ If you've been on his end, you know how it closes around you. Deny it, and you'r
 
 If I let myself see how I'd provoked his reaction, I couldn't sincerely take it as proof of what he'd been all along. I had to be present enough to plant the evidence, and absent enough not to recognize I planted it. By doing so, I nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me secretly craves.
 
-This is how my need to be different and special gets itself met. By revealing itself to my enemies while hiding itself from me, it turns them into what it needs them to be while making me feel righteous for it. Part of me knows that this self-deception is the same basic trick they use to do wrong, but I prevent myself from seeing it.
+This is how my need to be different and special gets itself met. By revealing itself to my enemies while hiding itself from me, it turns them into what it needs them to be while letting me feel righteous for it. Part of me knows that this self-deception is the same basic trick they use to do wrong, but I prevent myself from seeing it so that I can keep pretending I'm different.
 
 I desperately want to call this behavior _unconscious_ (if I can admit to it at all). Only *bad people* knowingly cause harm. If I've ever done it, it was an honest mistake, or I didn't really know. That's why I deserve understanding, and they deserve contempt.
 
-[TODO: It is this asymmetry that drives the whole thing.]
+This asymmetry is what drives the whole thing. My darkness is hidden from me but revealed to him, enticing him to attack me for it, without realizing what he's actually doing. Except that part of him *does* realize it, because that's *his* darkness revealing itself to me, making me feel righteous in doing it right back.
 
-[TODO: Much of what's written about the shadow, since Jung, calls this "unconscious." The word comforts me: no one can blame me for what I couldn't see. But it also tells me there's no use looking, when it was within reach the whole time.]
+[TODO: Much of what's written about the shadow, since Jung, still calls it "unconscious." The word comforts me: no one can blame me for what I couldn't see. But it also tells me there's no use looking, when it was within reach the whole time.]
 
 ---
 ## The Mechanism
 
-Now look at what this trap depended on.
+Now look at how that dark message got through.
 
-I had to know he had a better nature I could turn him away from. He had to recognize me as turned away from mine: that I knew better, but wouldn’t let myself know. And I had to count on him recognizing what that allowed me to do—provoke him, then sincerely hold his reaction against him.
+I conveyed it entirely through my tone, my gaze, my manner. As far as the words went, I was just “holding him to account.” That gave me plausible deniability, even to myself. And yet I needed him to recognize it for what it was. I needed him to know I _meant_ him to see it. 
 
-The look saying we were different kinds of thing depended on our knowing we weren’t. And not just my knowing it, or his. It was out in the open between us: I knew he knew, he knew I knew he knew, and so on, as far up as you care to go. All of that had to be in place for my contempt to be coherent at all.
+If it had felt like a slip, he might have forgiven me or felt sorry for me, which was the opposite of what I needed. But if he’d felt I was fully _aware_ of what I was doing—if I’d let myself know it—his accusation would have had a place to land.
 
-I only had to *evoke* that common knowledge. That's why it could be carried entirely by tone, gaze, and manner—which also have the benefit of being plausibly deniable, *even to myself*. I was letting him feel that I knew he wasn’t what I was calling him—and meant him to know I knew. **I was making our sameness felt so he could feel me betray it.**
+How could I communicate all that, through tone and gaze, to a complete stranger?
 
-He had nothing to quote. If he tried to name it, I could make him sound unhinged. The look was the deed. I was in limbo about provoking him—and revealing that I was in limbo was itself the provocation. (Appendix 1 spells this out.)
+Because neither of us had to teach the other what it meant to turn away. I knew it from the inside, and I knew he did too. He knew the same about me, and knew I knew it about him, and so on. The look only had to _evoke_ that common knowledge, by showing him I was doing it right then: that I knew better and wouldn’t let myself know, and that I was counting on his seeing that, to make him want to turn away too.
 
-What I had to turn away from in myself was the thing I was reaching in him.
+I was in limbo about provoking him—and revealing that I was in limbo was itself the provocation. (Appendix 1 spells this out.)
 
-It is an **open secret** that we are the same kind of thing as our enemies. In what sense? Not that we agree about what's good: we don't. And not that we're equally culpable: we're not. It's that we both know how to *orient* toward goodness, and that turning away means we've departed from it. 
+My claim that he was a different kind of thing depended on the shared knowledge that we weren’t. What I had to turn away from in myself was the very thing I was reaching in him. **I was making our sameness felt so he could feel me betray it.**
 
-So when the first stranger caught you, you were sensing something real. Something in him was letting you know exactly what you were looking at—the thing we all recognize as dark—and that it wasn't an accident.
+And it left him nothing to quote. The look was the deed. If he tried to name what was happening, I could make him sound unhinged, and we both knew that, too.
 
-Why we all know this about each other, at every level, is a question I'll come back to. For now, it's worth holding this next to the question in the preface: what if *love* means nothing like how we normally use that word?
+So when the first stranger caught you, you were sensing something real. Something in him wanted you to recognize what you were looking at, and to know it wasn’t an accident.
 
-If it's an open secret, why does it feel like I don't know it? Because if I let it all the way in, it would demolish the structure my identity stands on: that I'm a different kind of thing than my enemies.
+It’s an **open secret** that we’re the same kind of thing as the people we hate. On some level we both know it, and know that the other knows it, and so on. Without that common knowledge, our contempt for them wouldn’t be coherent.
+
+That doesn’t mean we agree about what’s good, or that we’re equally culpable. It just means we know what it is to *orient* toward goodness, and that turning away means we've departed from it. That's why I never think *my enemy is turned away from his better nature, that's good for the world*. But whatever he does while turned toward it, I *do* trust to be aimed at the good, even if it misses.
+
+Why we should all know this about each other, at every level, is a question I'll come back to. For now, see if you can sense what it might have to do with *love*, the word the preface asked us to examine. How would I behave if I were fully aware of my deep sameness with others? Does it mean I'd have to be *nice* to them? Or is that just a story I tell myself?
 
 Underneath the argument, my enemy and I were never fighting over whether a shared ground exists. We were fighting over which of us still stood on it.
 
 ---
 
-Recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not just your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the second stranger was speaking to.
+Now recall the last time someone's contempt really got under your skin, and feel for *where* it was trying to reach. Not just your pride: an insult to your pride is easier to shrug off. This reaches further in, for the *you* that knows you count: the same you that you'd have to turn away from to harm someone, and the same you the second stranger was speaking to.
 
-**Love and contempt are addressed to the same place.** One says *I know you're in there,* the other says *there's nobody in there*, and they both say it to the somebody who is.
+Love and contempt are addressed to the same place. One says *I know you're in there,* the other says *there's nobody in there*, and they both say it to the somebody who is.
 
 Not everyone defies it. A rival refuses it, and the refusal hardens him. A child can't refuse it; he believes it, and carries it for years. It reaches the same place in both.
 
@@ -218,7 +231,7 @@ Even though the whole thing was conscious, I doubt I would have been able to rea
 
 What I narrated was the hot kind of contempt, but it often runs cold. I just write the person off: a quiet filing away, a politeness with nothing behind it, and a small satisfaction at being done with them. It's the same verdict, delivered by withdrawal, and it's meant to be felt just the same: by them, or by whoever's watching. Everyone who witnesses it is being taught the same lesson.
 
-And it needn't be about right and wrong. Someone slow, ignorant, or clumsy can get the same verdict—*you're a lesser kind of thing*—and I write it off as "just being honest." I may even be right about them, and losing respect for someone isn't the same as contempt. What my honest assessment never needed was the eye-roll, or the need to be above them. Think of a toddler who can't add, or a grandparent losing their words: is the contempt there? For me it arrives only once I've decided they *should* know better, and then I've found them guilty of being what they are.
+And it needn't be about right and wrong. Someone slow, ignorant, or clumsy can get the same verdict—*you're a lesser kind of thing*—and I write it off as "just being honest." I may even be right about them, and losing respect isn't the same as contempt. What my honest assessment never needed was the eye-roll, or the need to be above them. Think of a toddler who can't add, or a grandparent losing their words: is the contempt there? For me it arrives only once I've decided they *should* know better. I find them guilty of being what they are.
 
 Most of my contempt is quiet: a vague sense of *well, I could never do that*. It doesn't feel like contempt at all, and it can happen a thousand times a day without my noticing. I even send it to people I love. The *what's wrong with you?* that needs them to know they're broken. The sigh that tells them what I really think of them, dressed up to make me seem like the reasonable one. The look on their face that tells me it landed, which I pretend not to have seen. For one second the verdict flashes through my eyes, and I make sure they see it, and then I go back to loving them as if nothing had happened.
 

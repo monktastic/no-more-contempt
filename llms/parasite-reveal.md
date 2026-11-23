@@ -9,7 +9,7 @@
 - Those "pure" moments—the clean fierceness—had felt most authentically me
 - No hiding, no justifications necessary
 - But the infected moments? Those felt like something else
-- Something foreign to my nature
+- Something foreign to my nature => it can be removed!
 - Somehow simultaneously me and yet not
 
 **1a. But it feels like me when it's in control. I defend it as myself etc.**
@@ -59,5 +59,5 @@
 - That used my terror to make me create evil people
 - So it would have somewhere to feed
 - **I started calling it a parasite**
-- Not "it wasn't me": it's still a part of me, and what it does through me is mine to answer for. But it's extraneous to my true nature. That's the sense in which it isn't me.
+- Not "it wasn't me": it's still a part of me, and what it does through me is mine to answer for. But it's extrinsic to my true nature. That's the sense in which it isn't me.
 - It is that which makes us forget there is a light / we are the light.

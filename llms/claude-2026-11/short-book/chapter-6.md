@@ -108,9 +108,16 @@ A civilization can make that mistake as easily as one mind can, and I think ours
 Nor can I get to that caring by thinking harder. At most, thinking can convince me that I *should* be oriented this way, and then I'm holding an idea again. The orienting itself happens deeper than the intellect. Ask most of us whether we're trying to serve life, and we'll say, *Well, of course.*
 
 [TODO: Claude draft, November 16: "This is close" became "That answer is close", so it follows from "*Well, of course.*" Your "Either it's really there to enrich us, or we're caught in the materialism trap, etc." became the two "Sometimes" sentences, on my reading of your F2 at key-points index.md:102; check that the reading is right.]
-That answer is close to where this book began for me. When we go to work, we're usually lying to ourselves about what it will do to the world. Sometimes the work is really there to make us rich, and the story about helping is cover. Sometimes we believe the story, because we've learned to trust only what can be counted, and the numbers look fine. So the most important thing we can bring to our work is our connection to the Light. And not only to our work: to all of life. If we're trying to follow our thoughts to tell us what our behavior will do, we're probably lost.
+That answer is close to where this book began for me. In so much of modern work, we're often lying to ourselves about what it will do for the world. Sometimes the work is really there to make us rich, and the story about helping is cover. Sometimes we believe the story, because we've learned to trust only what can be counted, and the numbers look fine. So the most important thing we can bring to our work is our connection to the Light. And not only to our work: to all of life. If we're trying to follow our thoughts to tell us what our behavior will do, we're probably lost.
 
 I don't have a plan for getting a civilization back, and I'd only trust one that came second: not necessarily later in time, but after, the way a servant comes after the one it serves. What I have is smaller. It's what my teacher had when he caught me stealing, and what you may have had the time you stopped someone without sending the extra. The recognition came first. The reasoning served it.
+
+[TODO: Claude, November 23: the next three paragraphs were Chapter 5's ending, unchanged. Gemini read them as cooling the trip wherever they sat in that chapter; here they answer this section's question, what gets a civilization back.]
+When a person touches this insight once or twice, they often come back shouting it from the rooftops, shaking people by the shoulders in hopes they'll get it. But that's not what tends to work.
+
+What works, I think, are people like the second stranger: those who live it through and through, and whose every action embodies it. We can't quite pin down what it is they're communicating, but that turns out not to be a problem at all.
+
+In a sense, it is the whole point.
 
 When you're actually fighting the darkness, it doesn't feel like fighting. It feels like love, like pulling someone out of a darkness they didn't know they were carrying, even if some part of them did.
 
@@ -145,7 +152,6 @@ Everything here was considered for the chapter and left out. Sources are untouch
 - "A world in which everyone is fundamentally *other* is that forgetting, complete." (7a:17, Claude's.)
 - AI and modernism, Aditya's F1 at index.md:92: "The Tao that can be named is not the eternal Tao." Coherent extrapolated volition can't work if it tries to formalize the good, "which isn't to say we shouldn't try, because the trying itself has value." It fits "Reason in Service" (we're building minds out of the part that proves) but has no reader data and no prose yet.
 - The deathbed, Aditya's F1 at index.md:447, marked "a candidate for the picture chapter": "In the worst cases, many of us only recognize it on our deathbeds. We realize, to our profound horror, that we'd always known, but hadn't let ourselves know—and that now it's too late to do anything about it." It's about one mind's slide, not the culture; the Epilogue's judgment day is near it.
-- The plan test, full-book/chapter-7.md:23 ("what my work does to a forest is fine, because a dollar of what I earn can plant two trees later"). It would sit well in "Reason in Service", and Keiko named it, but it's a check, so Chapter 5 has first claim.
 - The diver and "Darwin is just the way we explain Love" (T1 index.md:574). The Epilogue keeps it; Chapter 2 now plants the diver.
 - "Nothing is lost," held in Love. Chapter 5 and the Epilogue carry them; this chapter only points at the teacher.
 -->

@@ -8,26 +8,15 @@
 
 [TODO: Life-denying, life-devouring force.]
 
+[TODO: Claude, November 23, after Gemini's memo: the first half of the vision (the drift, the slide, rock bottom and the wood-chipper message, Girard, the keepers, "I could be the same for others") moved to Chapter 5, whole, so the trip is told once. What stays here is what goes past Chapter 5: the hum, the singularity, Home, the construction of reality, the lapse, the one Devil, judgment day. "Amazon.com" now comes second in its sentence, away from "rainforest". Original sentence in the pen below. Second pass: the singularity paragraph went to Chapter 5 too, and "The deeper layers are harder to describe. Under every one of them was the Light I met in Chapter 5." is my join into "That Light is…"; the paragraph as it stood is in the pen.]
+
 Most of this book you could check. This you can only hear. It's what I saw.
 
 On the mushrooms, I was taken through my entire mind, from the surface down to the deepest layers. I saw how far the harm I had caused traveled, and I felt how each act was evil, and yet simultaneously innocent—the paradox I still find hardest to hold.
 
-[TODO: Claude, November 15: "forgotten what Home is like" made "forgotten what the Light is like", since the reorder puts this paragraph before "It's Home," where Home first lands.]
-I was also shown what it was like to drift beyond my normal state: to become progressively more confused, further from the Light, trusting the voice of the darkness. I was taken the whole way, on a tour of what a mind must go through to get from the Light to pure darkness. The pain, the confusion, the insanity—it broke my heart a million times over, and then a million times again. It was the first time "compassion for evil people" made sense. People can only want that state to the degree they've forgotten what the Light is like.
-
-I saw how terrifyingly quickly I could slide down that path myself, and how it wasn't my personal qualities that protected me. *There but for the grace of God go I*. What would stop the slide isn't becoming a "better person" in the conventional sense—fighting for the right team by hating the wrong one. Quite the opposite. It's refusing contempt in all its forms, at all times: staying firmly committed to the Light.
-
-And I was shown my drift from outside, too. When I was closer to the Light, more people "loved" me, and the further I drifted, the more they started to hate me and feel justified shoving me deeper in, just as I had done in their shoes. Eventually I hit rock bottom. I could feel what others were telling me, because I had told it to others so many times. It was the message from the wood-chipper comments, and this time it was meant for me.
-
-That's what the people we call evil are for. René Girard saw the scapegoat at the root of human groups; what I saw was what the scapegoat is told. The physical cruelty may be the smallest part of it. The greater part is letting them know that they're where we keep what we've disowned, that all of us know it, and that there's nothing they can do about it. That's how the road back gets cut off. (The person who hurt you is still the exception Chapter 3 made; this is about what I did.)
-
-But a tiny handful always showed, through their eyes and their behavior, that although what I was doing was unacceptable, and they would stop it, they would never forsake me. They weren't just refusing to let me misbehave; they were refusing to let the darkness claim another soul. And it wasn't a personal decision on their part. It was the Light acting through them. I now think of them as its keepers.
-
-That's when I realized I could be the same for others. To hold the Light for them, even (and especially) when they couldn't hold, or even see, it themselves. Truth be told, I'm still a *long* ways off from being that person, but there's clearly no greater goal in life.
-
 Under all of it ran the background hum in me, and I saw what it had been doing the whole time. It was nudging reality, continually, into a state of forgetting: getting it to reflect otherness back to me, so that I would "know" otherness was the truth. Contempt for an enemy was the clearest case of that mechanism, the one place it can be shown step by step. That's why I wrote a book to take it apart: we believe what we can check.
 
-The deeper layers are harder to describe, but the very deepest is the simplest. There was only a pure singularity: blinding white Light; infinite Love. It was self-evidently the Source of creation, and I was That, and so, I saw, is everyone. It's still there in me now when I look, and as best I can tell, there in you too.
+The deeper layers are harder to describe. Under every one of them was the Light I met in Chapter 5.
 
 [TODO: Claude, November 15, after ChatGPT's review of the reordered Epilogue: the "That Light" paragraph split in three (Home, the awareness argument, Darwin); the construction of reality moved ahead of Darwin and the lapse, so "creating the entire reality" and "all realities" land after it; the "hiding stuff" sentence split and the laugh given its own paragraph. Wording unchanged.]
 [TODO: Claude, November 14: "(capitalized here because I mean more by it than Chapter 2 could show)" cut: Chapters 5 and 6 capitalize it first.]
@@ -66,7 +55,7 @@ The most deeply buried is the sense of the *evil global conspiracy.* Our collect
 I have met the people in charge, and they are I.
 
 [TODO: Claude, November 16, at Aditya's word: the paragraph below opened "Which, again, is not to say that real conspiracies don't also exist, or that we shouldn't fight them with everything we have." It repeated Chapter 3's disclaimer almost word for word, so it's cut to a clause.]
-Real conspiracies exist, too. But as far as I can tell, this is the one they all ultimately depend on. Every time I weaken my own contribution to it, I make them the tiniest bit less able to function. I saw my own contribution plainly. My hatred for the people destroying the rainforest was creating a world in which the rainforest would be destroyed. All sorts of hypocrisies were laid bare, from hating Amazon.com while constantly relying on it, to hating shadowy government cabals that my first-world luxuries probably rely on. I still haven't cleaned up my act, so make of that what you will.
+Real conspiracies exist, too. But as far as I can tell, this is the one they all ultimately depend on. Every time I weaken my own contribution to it, I make them the tiniest bit less able to function. I saw my own contribution plainly. My hatred for the people destroying the rainforest was creating a world in which the rainforest would be destroyed. All sorts of hypocrisies were laid bare, from hating shadowy government cabals that my first-world luxuries probably rely on, to hating Amazon.com while constantly relying on it. I still haven't cleaned up my act, so make of that what you will.
 
 I saw why hiding stuff from myself could never work. Part of me always saw that I was doing it, and that part was essentially God, and God is reality. So knowledge of my wrongdoing always takes physical shape in my "external" world. (That world is yours as much as mine, made by all of us at once. So nothing that happens to anyone, an illness, a loss, what someone else did to them, is anyone else's to read as a sign of what they did. This is about the harm I do.)
 
@@ -85,3 +74,17 @@ I also saw, unmistakably, that I'll be back in that place one day, facing no one
 I can't imagine that a framework like this one will ever be popular with most people, even if it turns out to be true. But I do believe that certain aspects of it, most importantly the universality of Good and the recognition of evil as its absence, will be necessary for our species to make progress toward the kind of world most of us long for. Whether that best comes from religion, spirituality, science, or some mix I cannot say. But I hope it comes soon—and I find that the more firmly I orient toward the Light myself, the more real that possibility looks.
 
 It is my intention to always stay oriented; to remain turned-toward. I hope you will hold my feet to the fire when I drift.
+
+<!--
+# Epilogue holding pen
+
+Moved to Chapter 5 on November 23, whole (wording there, with "the Light" lowercased until Chapter 5's reveal): "I was also shown what it was like to drift…"; "I saw how terrifyingly quickly I could slide…"; "And I was shown my drift from outside, too…"; "That's what the people we call evil are for…"; "But a tiny handful always showed…"; "That's when I realized I could be the same for others…"
+
+The singularity paragraph as it stood here, before it moved to Chapter 5 on November 23:
+
+The deeper layers are harder to describe, but the very deepest is the simplest. There was only a pure singularity: blinding white Light; infinite Love. It was self-evidently the Source of creation, and I was That, and so, I saw, is everyone. It's still there in me now when I look, and as best I can tell, there in you too.
+
+The hypocrisies sentence as it stood before November 23:
+
+All sorts of hypocrisies were laid bare, from hating Amazon.com while constantly relying on it, to hating shadowy government cabals that my first-world luxuries probably rely on.
+-->

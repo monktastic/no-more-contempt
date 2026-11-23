@@ -6,6 +6,7 @@
 [TODO: Anything other than nondual realization is evil. Or any time I act from a perception of anything but our unity, I am creating more darkness.]
 [TODO: Deep surrender and trust, freed of demonic possession.]
 [TODO: Not just an experience.]
+[TODO: My whole identity and worldview depends on my not seeing this.]
 
 If there was never a second thing there, only the light turned away, what would it be like to turn the rest of the way?
 
@@ -15,9 +16,7 @@ Go back to the stranger's face from Chapter 2, the place somebody is looking out
 
 From this place, a striking recognition begins to occur: that if I had *been* him, I would do as he does. If I had been born into his circumstances, there's nothing special about me that suggests I would have turned out any different. Any such "special" traits are part of my life's circumstances, and do not belong to the "I" that could have had his life.
 
-As a conceptual insight, this isn't particularly profound, and it's not even obviously true. What is the self anyway? Am I not just claiming a tautology? What about free will?
-
-They're fair questions, and I can't settle them by argument. But I think there's a reason we'd rather keep this an idea than see it, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up.
+As a conceptual insight, this isn't particularly profound, and it's not even obviously true. But I think there's a reason we'd rather keep this an idea than see it, and it connects back to what we saw in the past few chapters. Namely, if we really *saw* our fundamental equality with others, we would have to give something up—something big, that we may not be ready to give up.
 
 [TODO: Claude, November 16: Chapters 4 and 5 swapped; "which is worse than useless" cut after "I try to be *nice*", since Chapter 4's "Nice can be worse than useless against evil" now comes first.]
 If I simply *believe* the insight that I am fundamentally the same as others, it doesn't transform my life. When life gets challenging, my intellectual insights go out the window, and I fall back on old habits. I hate my enemy, and then beat myself up (or maybe even forgive myself) later, and the cycle just gets stronger. Or, when confronted with evil, I try to be *nice*.
@@ -53,7 +52,66 @@ When I've experienced directly that I am *doing* those things—including constr
 
 Here's the closest analogy I can find. Imagine watching a puppet show, uncertain of what will happen next. That creates suspense, and for a while it's enjoyable. But then, later in the show, a creeping realization dawns: it has always been your *own hands* operating the puppets. Nobody has to explain this to you, nor can you possibly doubt it.
 
-To me, it feels like being let in on the *great cosmic joke*. That sense of having always known is why I believe it, and I don't expect it to move you. But mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
+To me, it feels like being let in on the *great cosmic joke*.
+
+---
+
+The first and clearest experience I've had of this came years ago, in a state brought on by mushrooms. I was shown countless layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them.
+
+I had somehow convinced myself that by holding that knowledge in limbo, I would never have to face it. That I could simply call it "unconscious" and forgive myself for it later. I was then shown how foolish that was. ***Look***, my mind commanded, *the knowledge exists right here. It always has, and it always will.* It was pointing right at it. There was nothing I could do to deny it.
+
+There were far more wrongs than I ordinarily let myself see, and I knew I was going to have to eventually face every single one of them. The strangest part was that this wasn't new knowledge, and it also wasn't personal: I "saw" that every one of us knows, even as we do things, that we can never truly escape the effects of our actions. That nothing can remain hidden forever, because there's nowhere else for it to go.
+
+I was also shown what it was like to drift beyond my normal state: to become progressively more confused, further from the light, trusting the voice of the darkness. I was taken the whole way, on a tour of what a mind must go through to get from the light to pure darkness. The pain, the confusion, the insanity—it broke my heart a million times over, and then a million times again. It was the first time "compassion for evil people" made sense.
+
+At the far end—it haunts me to this day—I was dropped into the experience of being *maximally* turned away. There was no perception at all of the decency of my victims. The *life* in them. They became objects—playthings. What remained was pure, unadulterated predation. The malevolent joy of devouring innocence. And it was *impossibly. Fucking. Delicious.*
+
+People can only want that state to the degree they've forgotten what the light is like.
+
+I saw how terrifyingly quickly I could slide down that path myself, and how it wasn't my personal qualities that protected me. *There but for the grace of God go I*. What would stop the slide isn't becoming a "better person" in the conventional sense—fighting for the right team by hating the wrong one. Quite the opposite. It's refusing contempt in all its forms, at all times: staying firmly committed to the light.
+
+And I was shown my drift from outside, too. When I was closer to the light, more people "loved" me, and the further I drifted, the more they started to hate me and feel justified shoving me deeper in, just as I had done in their shoes. Eventually I hit rock bottom. I could feel what others were telling me, because I had told it to others so many times. It was the message from the wood-chipper comments, and this time it was meant for me.
+
+That's what the people we call evil are for. René Girard saw the scapegoat at the root of human groups; what I saw was what the scapegoat is told. The physical cruelty may be the smallest part of it. The greater part is letting them know that they're where we keep what we've disowned, that all of us know it, and that there's nothing they can do about it. That's how the road back gets cut off. (The person who hurt you is still the exception Chapter 3 made; this is about what I did.)
+
+I spent what felt like a lifetime in this hell, unable to forgive myself. Every instance of wrongdoing, every little thing I had been hiding from myself, came flooding back, forcing me to face my profound hypocrisy. It was far more than I could hope to clean up in a single lifetime. How widely and quickly it had spread! How many it had affected! The pain was unbearable.
+
+But a tiny handful always showed, through their eyes and their behavior, that although what I was doing was unacceptable, and they would stop it, they would never forsake me. They weren't just refusing to let me misbehave; they were refusing to let the darkness claim another soul. And it wasn't a personal decision on their part. It was the light acting through them. I now think of them as its keepers.
+
+That same light was holding me. What made it possible to keep looking was that I was held in fierce, uncompromising love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
+
+Slowly it began to dawn on me: why do I feel so rotten? Why do I feel such profound guilt? Why do I have to shield myself from my misbehavior in the first place? Produce justifications for it? Why don't I have to do that with my good behavior?
+
+The answer came in a flash: because **I don't actually want to cause harm.** If I saw it clearly—fully, without any hiding—I simply could not do it. That's why the hiding is necessary. And that's why it hurt so much: I had never actually wanted to do any of this. Only profound confusion had enabled it.
+
+The revelation hit like lightning. Not as an idea or belief. Instead, the capacity to hide was simply stripped from me in that moment. Not by force, but by erasing all the pride, shame, fear... all that made me hide.
+
+My whole being was absorbed into that part of me that never wanted to hurt anyone; never *could* want such a thing. And then it happened: the full mass of darkness was suddenly lifted from my mind. It felt exactly like you'd imagine being freed of a demonic possession.
+
+I'd been afraid that looking would reveal what was wrong with me. It revealed the wrong I was doing, and the goodness I was hiding it from. As the hiding fell away, what remained was Light. Love. And the recognition was that this was what I was. That's why it is enough to simply stop hiding: what remains isn't neutrality, but something far greater.
+
+Love is the closest word I have. Not as an emotion, or for any particular thing. But for all of it. Every time I've felt the urge to act with full integrity—to be of service to all of Life; to act for the greatest good—it was but the faintest whiff of what I felt in that moment. It was self-evidently what exists beneath all the noise.
+
+It was a Light so vast that it defies description; a Love for all of reality that excludes nothing and forsakes no one. I had never truly departed from it; indeed, never could.
+
+The very deepest layer was the simplest. There was only a pure singularity: blinding white Light; infinite Love. It was self-evidently the Source of creation, and I was That, and so, I saw, is everyone. It's still there in me now when I look, and as best I can tell, there in you too.
+
+I ultimately *am* everyone and everything else, just pretending that I'm not. One consciousness, peering out through countless eyes. There are many ways to say this, all of which sound absurd to the rational mind. But when I fully unveiled the Light in myself, I automatically saw it in everyone else—including those who seemed not to have any. This is what the darkness is trying to hide.
+
+Everything we do to each other—or to Nature herself—we ultimately do to ourselves. How crazy to think otherwise! How foolish to judge others for not seeing it, when I wasn't able to see it yet myself! Such a silly game we play, with such tragic consequences. We are continually shoving each other into the abyss to keep the game going, because we're not ready to wake up ourselves. Seeing this, I lost the desire to "get away" with anything. Why would I want to hide from the Light? How did I ever think I could?
+
+I next recalled looking into the eyes of "evil people." That dehumanizing gaze. How it had always felt like they were absent or "turned away" from themselves. Now I finally recognized what I had been looking at. Why they had to "turn away" to do what they did. It was only now, seeing that they were lost in the same confusion I was, that I was able to truly forgive them. Nobody actually *wants* to harbor the darkness.
+
+I saw what a long, painful—but also hopeful—journey it would be for humanity to finally stop pretending. My own role in that great return became clear—if not in the details, then at least in its essence: I simply had to stop hiding. Stop pretending I didn't already know. There's nothing special about me in this regard, nor about any of us, I think.
+
+The keepers had shown me how. I could be the same for others: to hold the Light for them, even (and especially) when they couldn't hold, or even see, it themselves. Truth be told, I'm still a *long* ways off from being that person, but there's clearly no greater goal in life.
+
+That was my experience. The smaller opening I can offer you is the one we've been using: a wrong finally admitted, and what you came back to when you admitted it.
+
+---
+
+[TODO: Claude, November 23: the mystics now follow the trip instead of leading to it. "is why I believe it" became "is why I believe what I saw". The Dalai Lama and "Love can be fierce" moved to Chapter 4's "Kind, Not Nice".]
+That sense of having always known is why I believe what I saw. Mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
 
 Meister Eckhart, a fourteenth-century friar, was tried for heresy for sayings like this one:
 
@@ -72,9 +130,7 @@ He called it waking "from a dream of separateness."
 Many of these people shared a God. But the Buddhists get to a similar place by another road, with no God at all: by rooting out self-deception, one layer at a time.
 
 [TODO: Claude, November 16: the poem's guard moved here from Chapter 4's "Kind, Not Nice", where it came before the poem. "but does it mean we should be nice to him?" became "and it isn't niceness", since Chapter 4 has answered it.]
-In his heart-rending poem [*Please Call Me by My True Names*](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem), Thích Nhất Hạnh names himself as both a girl raped by a pirate and the pirate who raped her. In the pirate he recognizes a heart that can't yet see or love. He names himself as the girl first. Read the poem without her and it's a different poem.
-
-This is called *compassion* for the pirate, and it isn't niceness. In 2001 a student asked the Dalai Lama what to do about a shooter. If someone has a gun and is trying to kill you, he said, it would be reasonable to [shoot back](https://archive.seattletimes.com/archive/20010515/dalai15m0/dalai-lama-urges-students-to-shape-world): not at the head, but at a leg (though it should be noted that he's not an expert in proper firearm usage). Love can be fierce.
+In his heart-rending poem [*Please Call Me by My True Names*](https://plumvillage.org/articles/please-call-me-by-my-true-names-song-poem), Thích Nhất Hạnh names himself as both a girl raped by a pirate and the pirate who raped her. In the pirate he recognizes a heart that can't yet see or love. He names himself as the girl first. Read the poem without her and it's a different poem. This is called *compassion* for the pirate, and it isn't niceness.
 
 Perhaps my favorite description comes from contemporary Zen teacher (and punk rocker) Brad Warner, in his book _Hardcore Zen_:
 
@@ -83,20 +139,6 @@ Perhaps my favorite description comes from contemporary Zen teacher (and punk ro
 > *But the universe is sooooo much bigger than any of that. The sky is me, and the stars too, and the chirping crickets and the songs they make; sparkling rivers, snow and rain, distant solar systems and whatever beings may live there: it's all me. And it's you, too.*
 
 These traditions each describe it differently, and I don't want to flatten them into my words. I can only say that their words fit what I saw.
-
----
-
-The first and clearest experience I've had of this came years ago, in a state brought on by mushrooms. I was shown countless layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them. 
-
-There were far more than I ordinarily let myself see, and I knew I was going to have to eventually face every single one of them. The strangest part was that this wasn't new knowledge, and it also wasn't personal: I "saw" that every one of us knows, even as we do things, that we can never truly escape the effects of our actions. That nothing can remain hidden forever, because there's nowhere else for it to go. And I saw what a long, painful—but also hopeful—journey it would be for humanity to finally stop pretending. 
-
-My own role in that great return became clear—if not in the details, then at least in its essence: I simply had to stop hiding. Stop pretending I didn't already know. There's nothing special about me in this regard, nor about any of us, I think.
-
-What made it possible to keep looking was that I was held in fierce, uncompromising love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
-
-I'd been afraid that looking would reveal what was wrong with me. It revealed the wrong I was doing, and the goodness I was hiding it from. As the hiding fell away, what remained was Light. Love. And the recognition was that this was what I was. That's why it is enough to simply stop hiding: what remains isn't neutrality, but something far greater.
-
-That was my experience. The smaller opening I can offer you is the one we've been using: a wrong finally admitted, and what you came back to when you admitted it.
 
 ---
 
@@ -109,6 +151,15 @@ Here's what I take from this. Contempt is the refusal to see our equality, or ou
 In other words: when I forget my *absolute* goodness, my only option is to go seeking it out relatively—that is, at the expense of others. This is how the duality gets created, and how it sustains itself.
 
 I turn away from someone because I suspect, below words, that goodness might *not* be what I am. If I knew it was, I'd have nothing to prove and nobody to prove it against. The suspicion makes it feel like something I have to earn. So as long as I don't feel at home in my own goodness, I can't afford to let anyone else get there. I'm *forced* to keep them out, because if they arrived I'd have no one left to measure myself against.
+
+[TODO: Claude, November 23: merged here at your note ("This should be merged with the section about 'forced to keep them out.' It's a runaway process, and I'm in too deep, so now I protect it as myself."). The first sentence is that note made a sentence; your question "So then why is it so hard for me to give up the darkness, or even recognize it in myself?" and its answer "Because I've come to identify with it." became one statement. The section as it stood is in the pen.]
+It's a runaway process, and by now I'm in deep enough that I protect it as myself. That's why it's so hard for me to give up the darkness, or even recognize it in myself: I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies and treat them with contempt.
+
+It is what some traditions call the *ego*, and I don't want to give it up because I've come to think it *is* me.
+
+That is why everything comes down to seeing that it's not. At their best, I think this is what the spiritual traditions are offering: a way out of that illusion.
+
+---
 
 Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see. I can't trace how, and I won't pretend to.
 
@@ -127,26 +178,6 @@ We're not missing it because it's too complicated or too far away. In fact, the 
 > *So deep you can't fathom it.*
 > *So simple you can't believe it.*
 > *So good you can't accept it.*
-
----
-
-So then why is it so hard for me to give up the darkness, or even recognize it in myself?
-
-[TODO: This should be merged with the section about "forced to keep them out." It's a runaway process, and I'm in too deep, so now I protect it as myself.]
-
-Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies and treat them with contempt.
-
-It is what some traditions call the *ego*, and I don't want to give it up because I've come to think it *is* me.
-
-That is why everything comes down to seeing that it's not. At their best, I think this is what the spiritual traditions are offering: a way out of that illusion.
-
----
-
-When a person touches this insight once or twice, they often come back shouting it from the rooftops, shaking people by the shoulders in hopes they'll get it. But that's not what tends to work.
-
-What works, I think, are people like the second stranger: those who live it through and through, and whose every action embodies it. We can't quite pin down what it is they're communicating, but that turns out not to be a problem at all.
-
-In a sense, it is the whole point.
 
 ---
 ---
@@ -188,13 +219,7 @@ I can be very alert while doing wrong: quick to anticipate every reaction. But s
 
 Bring back the stranger's face from Chapter 2. Put the face of someone you love there. Then the stranger again. Then an animal you know, and then one you don't.
 
-Notice whether the recognition has an edge, a place where it stops and what's in front of you turns into stuff. For me it doesn't stop at people. It only gets fainter.
-
-Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody takes a hammer to a stone arch that took ten thousand years to form, for the pleasure of watching it fall.
-
-Notice what you feel, before you work out who has been deprived of anything. The tree has no conscience; the arch has no inside. Yet for me, the violation reaches the same place. Something was there in its own right, and someone delighted in treating it as nothing.
-
-I can't capture that by saying I'm concerned for wellbeing. An arch has no wellbeing. Nor do I mean that everything must be left untouched. We need food and shelter; a lion eats a zebra. But the care doesn't stop where the category “living thing” stops. The world doesn't become disposable there.
+(The edge, the tree and the arch that stood here open Chapter 6.)
 
 When I look most deeply into what I am, I find life. Not a possession of mine, but what's doing the looking. And, as far as I can tell, life naturally wants to serve life. The less I keep out of view, the further that wish reaches—even beyond what I'd normally call alive.
 
@@ -234,6 +259,48 @@ The executive and the river still have a separate job for a later institutional 
 
 
 ~~But I've never been able to change which way goodness points. I can learn to enjoy cruelty; I can't make it good, any more than the bad man in Chapter 1 could lie awake in remorse over a kindness. In Chapter 2, goodness turned out not to be mine to define.~
+
+## Changed November 23 (Gemini's memo)
+
+The ego section as it stood, after the riddle, before it was merged into "forced to keep them out":
+
+So then why is it so hard for me to give up the darkness, or even recognize it in myself?
+
+Because I've come to identify with it. Not when it's described in its outward form, of course. When it's recognized as darkness, I tell myself I don't have any. But from the inside, it's that thing that lets me feel different and special, so that I can get away with stuff. That lets me silently judge others while telling myself it's harmless. That makes it feel okay to hate my enemies and treat them with contempt.
+
+The sentence that led from the cosmic joke into the mystics, before the trip moved ahead of them:
+
+That sense of having always known is why I believe it, and I don't expect it to move you. But mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
+
+From the long book's "The trip" (claude-2026-08/long-book/chapter-2.md), considered for the trip here and left out:
+
+- The memory itself (mocking a man for his politics; "I hadn't made him better—I had made him worse."; "Which meant that I couldn't stop."). Chapter 1's encounter is that memory told at length.
+- "And then I saw where it all went…" (the spreading, the atrocities, the thread). Assembled by Claude from your earlier drafts and still waiting on your memory of the trip.
+- "That's when the floor went. If a fundamentally decent person like me can cause malicious harm like this, how do I know that other people aren't doing the same? … I don't." Chapter 3 has "What I fear isn't that I'm capable of doing what the bad people do—it's that I already am."
+- "Of **course** it had to feel righteous. Righteousness is what I actually wanted." Chapter 6's "The Counterfeit" carries it.
+
+## Cut November 23, second pass (Gemini's notes on the new chapter)
+
+From the opening, after "it's not even obviously true.":
+
+What is the self anyway? Am I not just claiming a tautology? What about free will?
+
+They're fair questions, and I can't settle them by argument.
+
+From the sentence that leads into the mystics:
+
+, and I don't expect it to move you. But
+
+## From index-old-21, not taken on November 23
+
+- "We should practically thank them for becoming the scapegoats that we needed." Left out of the summit: a reader who was hurt meets it two paragraphs after the wood chipper.
+- "—or rather, how their apparent desire to harbor it is simply a reflection of our own desperate need to externalize our own." Cut from the end of the forgiveness line on November 23: read flat, it says the far end's wanting isn't real, three pages after "impossibly. Fucking. Delicious." Chapter 3 carries the need to externalize.
+- "an infinite Love for all of reality that excludes nothing and forsakes no-one" became "a Love… no one", since the next paragraph says "infinite Love".
+- "The sooner we see this, the better for everyone." Left off the end of "How did I ever think I could?"
+- "The strangest part is discovering how you simultaneously _knew_ this and yet somehow _didn't_…" Chapter 1 and the trip's "Look" paragraph carry it.
+- The paragraph on the mind not being separate ("your deepest motivations inevitably weave themselves into the fabric of your 'outer' reality"; "The deepest choice of all is whether to stand firm in your Light or give in to the impostor"). The Epilogue and "Nothing is lost" carry it; "impostor" is a word the book doesn't have yet.
+- "There is no way to force others to see any of this; force being a manifestation of the same fundamental mistake." and the paragraph on those who hold it ("Their attack therefore finds its mark — which is the darkness itself, and not the confused being who unwittingly harbors it"). Chapter 4 territory, beside "the light in me is reminding the light in him".
+- "It is nowhere near as violently pleasurable as attacking the darkness, but infinitely more valuable. … it is the _only_ way that darkness is released from our world." Also Chapter 4.
 
 ## Quotations cut November 14 (readers skimmed the anthology)
 
