@@ -2,7 +2,7 @@
 
 [TODO: Claude draft, November 16, after the readability round: the opening now picks up Chapter 4's last line instead of Chapter 2. Was: "In Chapter 2 we said that we weren't yet fully turned toward the stranger. What would it be like to turn even *more* toward?" The stranger's face from Chapter 2 is still two paragraphs down.]
 
-[TODO: Depths / levels of limbo.]
+[TODO: Depths / levels of limbo, each progressively feeling less "conscious"]
 [TODO: Anything other than nondual realization is evil. Or any time I act from a perception of anything but our unity, I am creating more darkness.]
 [TODO: Deep surrender and trust, freed of demonic possession.]
 [TODO: Not just an experience.]
@@ -43,20 +43,7 @@ This is what's happening with the "bad person" you literally *see* when you look
 
 From here I'm going further than you can check from where you sit. What follows is what I believe, and some of what I've seen; hold it the way you'd hold a traveler's report. Nothing you've found so far rests on it.
 
-Neuroscientist Anil Seth calls perception a "controlled hallucination." You could also say we *simulate* our reality. Seth's lab has studied how the brain builds our sense of time. Cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are like a computer's desktop, an interface our minds use rather than how things are. Kant said much the same all the way back in 1781.
-
-Most neuroscientists would call these processes unconscious. I think that's the same mistake as calling the wrong you remembered in Chapter 1 unconscious. My belief (and to some extent, experience) is that this isn't quite true. They are conscious, but in *extremely deep limbo*, so that we normally aren't noticing them. But under certain conditions—such as in deep contemplative or certain psychedelic states—we are sometimes able to.
-
-[TODO: Claude draft, November 16: was "the forehead-smacking feeling you had in Chapter 1", which named a feeling Chapter 1 never gives and told the reader they had it.]
-When I've experienced directly that I am *doing* those things—including constructing the apparently external qualities called "time" and "space"—it has come with the forehead-smacking feeling of finally owning up to a wrong, only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known yet refused to let myself see. And because time itself is one of the things being simulated, it feels like I have known this all *timelessly.*
-
-Here's the closest analogy I can find. Imagine watching a puppet show, uncertain of what will happen next. That creates suspense, and for a while it's enjoyable. But then, later in the show, a creeping realization dawns: it has always been your *own hands* operating the puppets. Nobody has to explain this to you, nor can you possibly doubt it.
-
-To me, it feels like being let in on the *great cosmic joke*.
-
----
-
-The first and clearest experience I've had of this came years ago, in a state brought on by mushrooms. I was shown countless layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them.
+The first and clearest time I saw how much of this I was doing came years ago, in a state brought on by mushrooms. I was shown countless layers of my capacity for self-deception, one after another. I saw wrongs I normally passed over, what they had done to others, and how some part of me had known even as I did them.
 
 I had somehow convinced myself that by holding that knowledge in limbo, I would never have to face it. That I could simply call it "unconscious" and forgive myself for it later. I was then shown how foolish that was. ***Look***, my mind commanded, *the knowledge exists right here. It always has, and it always will.* It was pointing right at it. There was nothing I could do to deny it.
 
@@ -80,6 +67,9 @@ But a tiny handful always showed, through their eyes and their behavior, that al
 
 That same light was holding me. What made it possible to keep looking was that I was held in fierce, uncompromising love the whole time. The wrongs weren't made smaller. But seeing them didn't require me to become worthless. Exposed with contempt, I would have turned away again. Held that way, I could let more of it in.
 
+[TODO: Claude, November 24, after ChatGPT ("the teacher scene from the other side, and the payoff to the preface"): this paragraph is mine. Check it against what you saw.]
+It was what the second stranger did, and what my teacher did when he caught me stealing, at full strength. My feet were held to the fire, and I was not let go. Nothing was excused, and nothing in it said *this is all you are*. This is what I mean by love. It was no softer than the contempt I'd been afraid of, and far harder to hide from.
+
 Slowly it began to dawn on me: why do I feel so rotten? Why do I feel such profound guilt? Why do I have to shield myself from my misbehavior in the first place? Produce justifications for it? Why don't I have to do that with my good behavior?
 
 The answer came in a flash: because **I don't actually want to cause harm.** If I saw it clearly—fully, without any hiding—I simply could not do it. That's why the hiding is necessary. And that's why it hurt so much: I had never actually wanted to do any of this. Only profound confusion had enabled it.
@@ -92,7 +82,7 @@ I'd been afraid that looking would reveal what was wrong with me. It revealed th
 
 Love is the closest word I have. Not as an emotion, or for any particular thing. But for all of it. Every time I've felt the urge to act with full integrity—to be of service to all of Life; to act for the greatest good—it was but the faintest whiff of what I felt in that moment. It was self-evidently what exists beneath all the noise.
 
-It was a Light so vast that it defies description; a Love for all of reality that excludes nothing and forsakes no one. I had never truly departed from it; indeed, never could.
+It was a Light so vast that it defies description; a Love for all of reality that excludes nothing and forsakes no one. I had never truly departed from it; indeed, never could. This was what had held my feet to the fire through that whole hell, and what my teacher and the keepers had been holding for me.
 
 The very deepest layer was the simplest. There was only a pure singularity: blinding white Light; infinite Love. It was self-evidently the Source of creation, and I was That, and so, I saw, is everyone. It's still there in me now when I look, and as best I can tell, there in you too.
 
@@ -142,6 +132,20 @@ These traditions each describe it differently, and I don't want to flatten them 
 
 ---
 
+[TODO: Claude, November 24: Seth, Hoffman, the deep limbo, the puppet show and the cosmic joke moved here from before the trip, unchanged, so the licorice leads straight into it. Gemini and ChatGPT both said the approach was long; I kept it the first time. "Some of this has a foothold…" is my lead-in. The trip's first sentence was "The first and clearest experience I've had of this came years ago…", where "this" was the cosmic joke.]
+Some of this has a foothold in the science of perception. Neuroscientist Anil Seth calls perception a "controlled hallucination." You could also say we *simulate* our reality. Seth's lab has studied how the brain builds our sense of time. Cognitive scientist Donald Hoffman goes further: space and time themselves, he argues, are like a computer's desktop, an interface our minds use rather than how things are. Kant said much the same all the way back in 1781.
+
+Most neuroscientists would call these processes unconscious. I think that's the same mistake as calling the wrong you remembered in Chapter 1 unconscious. My belief (and to some extent, experience) is that this isn't quite true. They are conscious, but in *extremely deep limbo*, so that we normally aren't noticing them. But under certain conditions—such as in deep contemplative or certain psychedelic states—we are sometimes able to.
+
+[TODO: Claude draft, November 16: was "the forehead-smacking feeling you had in Chapter 1", which named a feeling Chapter 1 never gives and told the reader they had it.]
+When I've experienced directly that I am *doing* those things—including constructing the apparently external qualities called "time" and "space"—it has come with the forehead-smacking feeling of finally owning up to a wrong, only a million times stronger. It doesn't feel like something I'm newly learning, but something I've always known yet refused to let myself see. And because time itself is one of the things being simulated, it feels like I have known this all *timelessly.*
+
+Here's the closest analogy I can find. Imagine watching a puppet show, uncertain of what will happen next. That creates suspense, and for a while it's enjoyable. But then, later in the show, a creeping realization dawns: it has always been your *own hands* operating the puppets. Nobody has to explain this to you, nor can you possibly doubt it.
+
+To me, it feels like being let in on the *great cosmic joke*.
+
+---
+
 There's one more reason I take these reports seriously. Remember the licorice. I could change how it tasted, and I can change whether a person looks good or bad to me. I can change whether I believe an action is good or bad, and even get *most* of the visible evidence to support my conclusion if I play things just right—and yet a deeper truth always seems to leak through; something I don't have the freedom to redefine.
 
 Goodness is the one thing that cannot be manipulated. It isn't one side of a duality: good vs bad, like we often think. Those are colors I paint with; goodness is the light I paint by. Plato said the Good is like the sun: not one of the things we see, but what lets us see anything at all. The mystics say they've looked straight at it, and that its name is love. It is that which is still there after all our countless layers of self-deception have been stripped away; that which undergirds what we normally call "reality."
@@ -161,16 +165,12 @@ That is why everything comes down to seeing that it's not. At their best, I thin
 
 ---
 
-Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see. I can't trace how, and I won't pretend to.
-
-This is why I said everything I do matters, and why integrity matters even when no one seems to be watching. The one who was watching—*I*—is ultimately not separate from what the mystics have always called God.
-
----
-
 Ask a Zen master what she sees that you don’t, and she may tell you: nothing. “Nothing has ever been hidden,” the old Chinese teachers said. Hakuin, in eighteenth-century Japan, wrote that all beings are Buddha by nature, as ice is by nature water, and grieved that we “ignore the near and search for truth afar.” Huang Po said our true nature is never lost to us, even in delusion: it’s the part from Chapter 1 that never budged an inch. *Ignorance* (as they call it) is a fitting word: we are literally ignoring it.
 
-[TODO: Claude draft, November 16, at Aditya's word: the callback now names both layers of the open secret, derives the full common knowledge from non-differentiability, and drops the hedge. "Look for what would tell the two apart" is yours (key-points index.md:577). Was: "This, I think, is what the "open secret" in Chapter 1 points to. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. If that's right, the secret is open all the way down; if not, it's close enough for the trap to work. It is why, when I look in your eyes and pretend not to know that you are me, we both secretly know what's happening. I am reinforcing the illusion of separation."]
-Here, I think, is where the open secret from Chapter 1 comes from. There, what we both knew was that we're the same kind of thing: each of us has a better nature, and has to turn from it to do wrong. Look further, for what would tell the two of us apart: not the faces, the histories, the stories, but what's doing the looking. I can't find anything. And if nothing tells us apart, then knowing it in myself is already knowing it in you, and knowing you know it in me, at every level. So when I look at you with contempt, I'm denying to your face what we both know: that we are essentially the same thing. And each of us knows the other knows it.
+[TODO: Claude draft, November 16, at Aditya's word: the callback now names both layers of the open secret, derives the full common knowledge from non-differentiability, and drops the hedge. "Look for what would tell the two apart" is yours (key-points index.md:577). November 24, after ChatGPT: the step from one awareness to what each knows the other knows is now yours, from chat ("the thing I'm looking at in you is the thing I'm looking with. Its very nature is to recognize itself in others. So by looking at you I automatically get the full recursion (like two sets of eyes gazing into each other)"), with "automatically" become "at once", and "I see you seeing me seeing you seeing me, etc." added from chat the same day; "And if nothing" became "If nothing". Was, on November 16: "This, I think, is what the "open secret" in Chapter 1 points to. Beneath all our differences, there is something we both know about each other, and know the other knows about us, and so on. We can never stop knowing it, because it's what we are. If that's right, the secret is open all the way down; if not, it's close enough for the trap to work. It is why, when I look in your eyes and pretend not to know that you are me, we both secretly know what's happening. I am reinforcing the illusion of separation."]
+Here, I think, is where the open secret from Chapter 1 comes from. There, what we both knew was that we're the same kind of thing: each of us has a better nature, and has to turn from it to do wrong. Look further, for what would tell the two of us apart: not the faces, the histories, the stories, but what's doing the looking. I can't find anything. The thing I'm looking at in you is the thing I'm looking with, and its very nature is to recognize itself in others. So by looking at you I get the full recursion at once, like two sets of eyes gazing into each other: I see you seeing me seeing you seeing me, etc. If nothing tells us apart, then knowing it in myself is already knowing it in you, and knowing you know it in me, at every level. So when I look at you with contempt, I'm denying to your face what we both know: that we are essentially the same thing. And each of us knows the other knows it.
+
+So the hiding goes down in layers. In Chapter 1 it looked as if I was hiding a wrong, but the wrong was only what the hiding let me do. What I was hiding was that my enemy was the same kind of thing as me. Under that, that we're the same thing. And at the bottom, that I am the world I keep treating as something outside me. That's why I could never really hide anything: there was nowhere outside me to hide it.
 
 We're not missing it because it's too complicated or too far away. In fact, the Tibetans have this beautiful riddle to point us back to it:
 
@@ -178,6 +178,13 @@ We're not missing it because it's too complicated or too far away. In fact, the 
 > *So deep you can't fathom it.*
 > *So simple you can't believe it.*
 > *So good you can't accept it.*
+
+---
+
+[TODO: Claude, November 24, weight check: "Nothing is lost" moved here, unchanged, from between the ego section and the Zen masters, so the chapter ends on it and it follows "I am the world" (index:620 and 566).]
+Here is the larger thing I saw, and I'll say it plainly, since I can't prove it. Nothing is lost. A man kills an insect in a cave and dies before he leaves it, and it still mattered. Somewhere a stranger is about to give up on the part of them that knows, and what holds them is made of what the rest of us have done, in rooms they'll never see. I can't trace how, and I won't pretend to.
+
+This is why I said everything I do matters, and why integrity matters even when no one seems to be watching. The one who was watching—*I*—is ultimately not separate from what the mystics have always called God.
 
 ---
 ---

@@ -27,6 +27,9 @@ What I say next I can't give you a check for. But in the fullest seeing I've kno
 
 So that's the pattern we're still living inside: more power to change the world than any people has ever had, and the knowing that could guide it treated as optional.
 
+[TODO: Claude draft, November 24, at Aditya's word in chat: the 2015 EA Global summit as the concrete case of "goodness can't be calculated" (key-points index:93), placed by the deepest contempt as he asked. He's certain of the false vacuum decay proposal, not its details, so the paragraph names only the research and the arithmetic. Put it in your voice.]
+I saw the pattern at its cleanest in 2015, at a gathering of effective altruists: people trying to work out how to do the most good. I admired a lot of it. They were taking seriously a question most of us dodge. But I remember one argument in particular, for putting resources into research on false vacuum decay, a far-fetched way the whole universe could end. Multiply a tiny chance of preventing it by everyone who would ever live, and it came out worth more than every rainforest and every poor person alive. The math was clean. What it needed was for none of those forests or people to be in view.
+
 ## The Part That Proves
 
 How does a whole civilization learn to treat what it knows as optional?
@@ -38,6 +41,9 @@ I teach it to myself, too. Recall in Chapter 1 how my justifications felt more r
 One that raises the part that argues and proves as high as it can go, and quietly demotes the part that knows. It would do across all of us what the locker room did across ten men. That is what I see in the culture most of us were schooled in. The part that proves is honored from the first day of school, and it has earned the honor. Our faith in metrics lives here: what can be counted is what counts.
 
 Charles Eisenstein tells the story of the Tehri Dam on India's Bhagirathi River. It was completed in 2006 and credited with cutting carbon. It met its measured goal. What the climate credit didn't weigh: a hundred thousand villagers displaced from ancestral land, along with their traditions, their ties and their places; the submerged ecosystems; methane from the reservoir; sediment withheld from the river downstream. Count those, and the dam may have harmed the people and the climate it was credited with helping.[^dam]
+
+[TODO: Claude, November 24, after ChatGPT: moved up from "Reason in Service", so the dam shows at once who sets the edge of the count. Was there: "Somebody decides where the count stops. Tehri's climate credit stopped at the coal it replaced. Nothing in the arithmetic put the line there. Someone did, and it felt like rigor."]
+Somebody decided where that count stopped. The climate credit stopped at the coal the dam replaced. Nothing in the arithmetic put the line there. Someone did, and it felt like rigor.
 
 It is astonishingly easy to prove that an agenda, philosophy, or ideology is good: to marshal all the evidence, convince brilliant minds, and then watch it wreak havoc. When the damage is done, often after we've profited, we look back and say, *How were we supposed to know?* But we could have known, if only we'd looked at what we were hiding from ourselves instead of trusting our calculations alone.
 
@@ -53,7 +59,8 @@ That's how I believe my contempt for a neighbor makes an atrocity on another con
 
 The same turn, added up, is what I think is behind our ecological crisis. Its physical causes are many, but one movement runs beneath them: countless choices, across billions of people, to *turn away*. Some are as direct as the oil executive's in Chapter 2. Others are further upstream: my willingness to defend him because his business benefits me, or to stop asking questions about something I buy because I like the price. Our power and responsibility vary enormously. But wherever I keep some part of life out of view because letting it count would cost me, the move is the same.
 
-I don't have to want a forest destroyed, a species gone, or a river poisoned. I only have to find the reasons that let me keep taking my particular benefit without facing my share in the cost. Across enough people and enough decisions, those refusals accumulate into a world none of us would have chosen to face all at once. Each of us has an explanation for our part, while the living world carries the sum.
+[TODO: Claude, November 24, weight check: your key-points line "We say we *throw things away*…" placed at the end of this paragraph, word for word; it was marked for the Picture and missing from the book.]
+I don't have to want a forest destroyed, a species gone, or a river poisoned. I only have to find the reasons that let me keep taking my particular benefit without facing my share in the cost. Across enough people and enough decisions, those refusals accumulate into a world none of us would have chosen to face all at once. Each of us has an explanation for our part, while the living world carries the sum. We say we *throw things away*, but there is no "away." There is only someone else's backyard.
 
 Here I go past anything I can trace. I believe the devastation we see in the world is a mirror image of the sickness within: the collapse of the biosphere is our self-deception, made external. That's a claim about what all of us are doing, not about anyone the damage lands on. The villagers moved off the Bhagirathi didn't build the dam.
 
@@ -75,6 +82,9 @@ I've seen it in my own eyes, too, the last time I held my enemy in contempt. It 
 
 That sameness is also why more than one tradition that looked hard ended up naming an adversary: Mara, who tempted the Buddha; the Devil. I'll borrow that name when it helps, since it's the one everybody knows. Those traditions were seeing something real. It isn't a creature, and it has no plan. If I give it a goal at all, it has one: to make us forget there was ever a light to steer by.
 
+[TODO: Claude draft, November 24, at Aditya's word in chat ("the classic image is itself evil, in that it elevates the devil to the same status as our true nature") and his October 17 key-points line ("it presents them as equally real… One is your true nature, the other is what lures you away from it"). Put it in your voice.]
+The old cartoon gets this wrong in a way that serves it. An angel on one shoulder, a devil on the other, each making its case, and me in the middle, choosing. But they aren't equals, and only one of them argues. One is what I am. The other is what lures me away from it, and it has nothing of its own but what it borrows from me. A picture that seats them as equals is already doing its work.
+
 ## The Counterfeit
 
 The darkness can't win a head-on fight with the Light. With someone fully in view, I couldn't even wish them harm. So it wins slowly, by taking the Light's place, until it feels as though our own thoughts decide what's good. You can only choose the counterfeit once you've forgotten what the real one feels like, the way people choose junk food over real food when they've never been offered real food.
@@ -93,13 +103,15 @@ Why is it common knowledge that humans are *fundamentally* greedy and selfish? D
 
 It doesn't care who you hate, as long as you hate. It can lose a leader, an institution, an entire regime, and remain in the eyes of the people celebrating its defeat. King's line, that darkness cannot drive out darkness, has a reason behind it: it was never trying to.
 
-In this picture, every act of contempt, for anyone, feeds it. The line between those who deserve our compassion and those who deserve our contempt exists only for the Devil to keep its foot in the door.
+The line between those who deserve our compassion and those who deserve our contempt exists only for the Devil to keep its foot in the door.
+
+In this picture, every act of contempt, for anyone, feeds it.
 
 ## Reason in Service
 
 So what gets a civilization back, if hatred only feeds the thing, and the calculations were how we forgot?
 
-Not calculation alone, I think, though I'd never argue for less of it. Somebody decides where the count stops. Tehri's climate credit stopped at the coal it replaced. Nothing in the arithmetic put the line there. Someone did, and it felt like rigor.
+Not calculation alone, I think, though I'd never argue for less of it. Somebody always decides where the count stops, as someone did at Tehri.
 
 Our better nature doesn't know in detail what is good. That's what it needs the reasoning part for. The trouble starts when reason is asked to decide what's good.
 

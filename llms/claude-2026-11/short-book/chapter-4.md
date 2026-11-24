@@ -16,14 +16,15 @@ Do I choose to turn away? It feels as if I must. I know better, after all.
 
 But if harm can only be done from the turned-away state, then deciding to stop seeing someone *so that I can harm them* doesn't make sense—it would be a wrong done while still looking. That's the one thing I couldn't do with the stranger's face in Chapter 2. Try it: hold someone's eyes and decide, while holding them, to stop seeing them. See if you can find the moment. I can't. The view goes, then the reasons arrive, and only then does the harm feel like something I want.
 
-[TODO: Claude, November 23: rewritten after your "I don't get / like this paragraph" and Gemini's memo. The claim is kept (the one choice is staying with the face or letting attention slide; the next paragraphs lean on it). Gone: "the recognition and the want it would veto", and the closing "That isn't shame's shape, *I am it*. It's remorse's, *I did it*", which stepped on the paragraph below. The old paragraph is in the pen.]
-What I can find is smaller. There's a stretch where I can still feel him and still feel what I want, both at once. In that stretch I can stay with his face, or let my attention slide somewhere easier: how long my day has been, what he did last time. That slide is the only choice I can find, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything. I feel reasons, and they feel like my own judgment. Looking back, I know I could have stayed, and I didn't.
+What I can find is smaller. There's a stretch where I can still feel him and still feel what I want, both at once. In that stretch I can stay with his face, or let my attention slide somewhere easier: how long my day has been, what he did last time. That slide is the earliest place I can catch the turn, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*.
+
+Once the view has gone, it stops feeling like a choice. I feel reasons, and they feel like my own judgment. But I haven't stopped doing things. As in Chapter 1, I watch his reactions, trade one reason for the next, and keep the verdict where it is. Staying turned away is work, and it's mine. Looking back, I know I could have stayed, and that at any step afterward I could have looked again.
 
 Shame gives me a reason to look away again. Remorse is what turning back feels like. You turn toward someone you've harmed and see them properly. In the same movement, you come back to yourself.
 
 Why does the first turn happen at all? I can't give an account of it. Augustine said there was no cause to find, and still called the turn an act. Once it happens, though, it feeds itself. [TODO: Take stuff from full-book?]
 
-Nobody chooses evil under that name, and everyone is fully responsible, because responsibility never lived in a lucid instant of choosing evil. It lives in the choice to keep looking while you still can, in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time.
+Nobody chooses evil under that name, and everyone is fully responsible, because responsibility never lived in a lucid instant of choosing evil. It lives in the choice to keep looking while you still can, and in everything you do afterward to keep from looking. It lives in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time.
 
 ---
 ## The Worst People
@@ -45,22 +46,15 @@ Whichever of these he is, you've seen what my verdict taught my enemy. Aimed at 
 ---
 ## The Far End
 
-Was the wrong that was hardest for you to admit the one you knew least about? For me it was the reverse: I knew it more, and had to hide it harder.
+Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by other people turning away further up: shoppers at the deli counter, shareholders, everyone who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete.
 
-Think of someone working a factory-farm line. They didn't go there wanting to cause harm. Conditions made turning away feel like the only way to keep the job, and those conditions were supported by other people turning away further up: shoppers at the deli counter, shareholders, everyone who would rather not see. On the line, the hiding has become so practiced that it no longer takes effort, which is what makes it complete. Now run that out to the far end. My belief is that the most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding. You see it as more "evil" looking out of their eyes.
+Now run that out to the far end. My belief is that the most lost person is carrying *more* of that knowledge than you are, not less, and holding it down more completely, with more of themselves committed to the holding. You see it as more "evil" looking out of their eyes.
 
 [TODO: Claude, November 16, after the readability round: "on mushrooms years ago" cut, so that Chapter 5 introduces the trip once. Chapter 4's opening still mentions mushrooms in passing.]
-The step from my own case out to the far end is an extrapolation, and I should say why I trust it, since I haven't lived as that person. I was shown it from the inside once, or so it seemed: what it's like to be turned away *all the way*. Chapter 5 says what that was like. I don't expect that to count as evidence for you, and it shouldn't. If you want something of your own to go on, here is an exercise for it, with a note on who should skip it.
+The step from my own case out to the far end is an extrapolation, and I should say why I trust it, since I haven't lived as that person. I was shown it from the inside once, or so it seemed: what it's like to be turned away *all the way*. Chapter 5 says what that was like. I don't expect that to count as evidence for you, and it shouldn't.
 
-### An exercise for the far end
-
-*A note before this one. This is an exercise, and it's the one in this book that points you toward the worst state instead of away from it. Nothing else in the book depends on it. Skip it if someone has hurt you badly, if you're in a fragile place, if you're troubled by intrusive thoughts of harming someone, or on a day when you're already being hard on yourself. If you have a teacher, do it with them, not alone.*
-
-Try to imagine, from the inside, being *maximally* turned away from a person. See how far you get. If something stops you, don't push past it. Look at what's doing the stopping, and at what it's like. To me, that state had a flavor I can only describe as *malevolent*. It carried both full knowledge of what it was, and full hiding of that knowledge from itself. See what you find. If it frightens you or stays with you afterward, stop, and don't go back to it alone; if it doesn't lift, talk to someone you trust.
-
----
-
-Here is a smaller check, and a safer one. Do you feel contempt for a shark? A tornado? A rabid dog? However much harm they do, I don't. It comes only for someone I take to know better. If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. Mine rises.
+[TODO: Claude, November 24: the far-end exercise is out of the chapter and in the pen, whole, with its note on who should skip it. Gemini and ChatGPT both asked for it; I kept it the first time. Chapter 5 now gives the far end at full strength, and the exercise stood between the reader and the practice this chapter opens by promising. "Here is a smaller check, and a safer one." became the sentence below.]
+Here is something of your own to go on. Do you feel contempt for a shark? A tornado? A rabid dog? However much harm they do, I don't. It comes only for someone I take to know better. If contempt tracked how broken someone was, it would fall off at the far end, as it does for the shark. Mine rises.
 
 Ask what you're looking at when you look at someone far gone and feel that particular horror. What I see is a conscience under crushing load, still showing through: a hostage held up to the window, not a monster on display. That doesn't mean he necessarily wants out; for that, he'd have to see the alternative to where he is, and from inside, he can't. Every time your verdict arrives, it presses on the one part of him that could end this. If you look at such a person and find only a monster, I can't argue you out of that from here. I can only say what I found.
 
@@ -68,7 +62,7 @@ And the hostage isn't struggling. From inside, the thing holding him presents it
 
 You don't have to believe that "bad people" are under the control of a parasite, or that they don't want what they're doing. You only have to notice what happens when you believe the alternative: that they are equivalent to their darkness, or that they want it. For me, that hands control to my own. That is the sense in which the frame is useful. It isn't a fact about them you're being asked to accept. It's a stance, and you've watched the opposite one recruit me.
 
-Merely *believing* someone is in the grip of a parasite isn't the same as seeing it. Believing someone has light when you can't see it, as a stand-in for looking, is its own kind of not-looking, and someone deep in will use it against you.
+Merely *believing* someone is in the grip of a parasite isn't the same as seeing it. Believing someone has light when you can't see it, as a stand-in for looking, is its own kind of not-looking, and someone deep in will use it against you. If you've lived with someone who hurt you, you may have heard *he's better now*, and know what believing it on faith can cost.
 
 But there is something to see, if I look. Under the turning away there is someone afraid, and I know that state from the inside. That's what makes it possible to stay turned toward someone at their worst.
 
@@ -89,7 +83,7 @@ In 2001 a student asked the Dalai Lama what to do about a shooter. If someone ha
 
 So how do I tell, in the moment, the fierceness from the verdict? They arrive together.
 
-Start with the hatred of the harm. It's the part that can't stand to watch people get hurt and wants it stopped. Nothing here asks you to feel that less; it's the most trustworthy thing in you. Now watch what happens the moment the harm gets a face. In me, the heat changes. It stops being about the harm and starts being about the person. I want them to *know* what they are, and something in me would be disappointed if they got better. (One exception: if you lived with someone who hurt you, you may have heard *he's better now* before, and distrusting it is sight, not this.) That second heat feels like the first one, only more serious. It's the parasite, speaking in the voice of conscience.
+Start with the hatred of the harm. It's the part that can't stand to watch people get hurt and wants it stopped. Nothing here asks you to feel that less; it's the most trustworthy thing in you. Now watch what happens the moment the harm gets a face. In me, the heat changes. It stops being about the harm and starts being about the person. I want them to *know* what they are, and something in me would be disappointed if they got better. (One exception, from earlier: distrusting *he's better now* from someone who hurt you is sight, not this.) That second heat feels like the first one, only more serious. It's the parasite, speaking in the voice of conscience.
 
 Fierce is where the darkness finds it easiest to get in. From outside, fierce and dark look alike, and it counts on our not wanting to tell them apart. But we can tell, from the sending end, if we're willing to look: that little something extra, added to the fierceness on its way out, that you knew they'd feel. I've almost always believed I was doing the clean one, including when I wasn't.
 
@@ -127,6 +121,8 @@ If you hesitated at the test in Chapter 3, was part of the hesitation a fear abo
 
 There's a check for the cause itself, grand or small: does it need you not to look at what it costs here, now, because the good it does later will make up for it? It rarely feels like contempt. It feels like arithmetic: what my work does to a forest is fine, because a dollar of what I earn can plant two trees later, and I'll surely donate it. The arithmetic is the side that argues. If the plan needs me not to look, it isn't coming from the part that cares, and it probably won't do what its proof says it will.
 
+As I read it, Sam Bankman-Fried had the math on his side. To follow it, he needed a quiet contempt for everyone who thought rules and conscience mattered, including the customers whose money he took.
+
 ---
 ## Every Day
 
@@ -138,11 +134,15 @@ Remember the two buttons from Chapter 1, the vengeance and the pill, and whether
 
 There's one more clue you can use today. When you're acting from contempt, notice how *sure* you are that it's good. In my experience the real thing doesn't feel like that. It doesn't need to be sure. It's what's there when someone is fully in front of you, and you're not sure of anything except that they matter.
 
-Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing. And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. How much innocence you can see in others measures your own freedom more than their goodness.
+Think of someone you once despised and later came to see differently, without their having changed. Maybe you'd since been through something like what they were up against. Maybe you'd caught yourself doing what they did. What changed wasn't them. It was how much of your own turning away was in the seeing.
+
+And the reverse, which you can check today: on a day when you're tired and self-justifying, everyone looks worse. How much innocence you can see in others measures your own freedom more than their goodness.
 
 That's why seeing all the way into somebody far gone may be the work of a lifetime, and I don't have it. The near end is available now: catch yourself wanting them to be what you've decided they are, and notice, as the verdict settles, that something in you was after it. That isn't a reason to doubt what you see when someone is dangerous; seeing that is sight, and you act on it.
 
-And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight. It comes back, and you look again; the first several times you may find only a tight chest and the story. The tightening is worth learning, because it usually comes before the story does, and it doesn't argue. The traditions also have practices built for the person you can't stand. One is to breathe in their darkness and breathe out to them what you'd want for yourself. The Gospel's is plainer: pray for those who persecute you. They're worth taking to a teacher.
+And when you do catch it in the moment: look at the contempt itself, not the person. Where is it? What's it made of? In my experience it doesn't survive that, because there was nothing there to fight.
+
+It comes back, and you look again; the first several times you may find only a tight chest and the story. The tightening is worth learning, because it usually comes before the story does, and it doesn't argue. The traditions also have practices built for the person you can't stand. One is to breathe in their darkness and breathe out to them what you'd want for yourself. The Gospel's is plainer: pray for those who persecute you. They're worth taking to a teacher.
 
 You often don't get to choose whether the contempt arises. What is yours is how fast you catch it afterward: days, then hours, then sometimes in the moment. That can be trained, and it's the one part of this that effort improves. When you catch it late, there's usually someone to go back to, and often the repair is no more than letting them see that you see them now.
 
@@ -161,7 +161,9 @@ And someone is often watching. Have you ever seen a child do your face at someon
 
 The second stranger caught you once and was gone. Most of us have someone we'll sit across from again next week, whose faults are real, and the face is already coming before they've opened their mouth. Staying away is allowed, and it can carry no verdict at all. But if you go, you get to run the practice every week. Catch the face on its way out. Say the thing that needs saying, if something does: *Can you put the phone away while we eat?* Leave off the extra. Then notice, on the drive home, whether you're rehearsing the case.
 
-One more thing about love. Think of the last time you defended someone you love by tearing down the person who wronged them. Your sister's ex. The teacher who was unfair to your kid. The loyalty was real and warm, but riding on it was contempt, the need for the other person to be worthless. It may feel like being turned toward one person and away from the other. Partial love isn't fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love. And it scales. Every cause you've ever fought for had people on the other side of it, and the test is the same: could you fight for yours while they stayed in view?
+One more thing about love. Think of the last time you defended someone you love by tearing down the person who wronged them. Your sister's ex. The teacher who was unfair to your kid. The loyalty was real and warm, but riding on it was contempt, the need for the other person to be worthless. It may feel like being turned toward one person and away from the other. Partial love isn't fake; it's the seed. But love for one person at the expense of another, love that needs someone else to be worthless, isn't love.
+
+And it scales. Every cause you've ever fought for had people on the other side of it, and the test is the same: could you fight for yours while they stayed in view?
 
 ---
 ## The Last Trap
@@ -193,6 +195,22 @@ Good material from the full book that this chapter didn't take, with why. Line n
 The paragraph in "Where the Choice Is" as it stood (Claude's, November 14, from argument.md's "The choice is real at one point"):
 
 What I can do is smaller. While I can still feel both pulls, the recognition and the want it would veto, I can stay with the face, or let my attention drift somewhere easier: how long my day has been, what he did last time. That drift is the choice, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything; I feel reasons, and they feel like my own judgment. That's why, looking back, I know I could have stayed, and I didn't. That isn't shame's shape, *I am it*. It's remorse's, *I did it*.
+
+## Changed November 24
+
+The paragraph in "Where the Choice Is" as it stood (Claude's, November 23):
+
+What I can find is smaller. There's a stretch where I can still feel him and still feel what I want, both at once. In that stretch I can stay with his face, or let my attention slide somewhere easier: how long my day has been, what he did last time. That slide is the only choice I can find, and it never comes labeled *stop seeing him*. It comes labeled *I've had a long day*, or *he had it coming*. Once the view has gone, I don't feel myself choosing anything. I feel reasons, and they feel like my own judgment. Looking back, I know I could have stayed, and I didn't.
+
+The responsibility sentence as it stood: "It lives in the choice to keep looking while you still can, in how fast you catch the blindness, in what you repair when sight returns, and in what you've done to give the blindness less room next time."
+
+The far-end exercise, taken out of "The Far End" (scenarios.md 4.24). It followed "I don't expect that to count as evidence for you, and it shouldn't. If you want something of your own to go on, here is an exercise for it, with a note on who should skip it." and was followed, after a divider, by "Here is a smaller check, and a safer one. Do you feel contempt for a shark?"
+
+### An exercise for the far end
+
+*A note before this one. This is an exercise, and it's the one in this book that points you toward the worst state instead of away from it. Nothing else in the book depends on it. Skip it if someone has hurt you badly, if you're in a fragile place, if you're troubled by intrusive thoughts of harming someone, or on a day when you're already being hard on yourself. If you have a teacher, do it with them, not alone.*
+
+Try to imagine, from the inside, being *maximally* turned away from a person. See how far you get. If something stops you, don't push past it. Look at what's doing the stopping, and at what it's like. To me, that state had a flavor I can only describe as *malevolent*. It carried both full knowledge of what it was, and full hiding of that knowledge from itself. See what you find. If it frightens you or stays with you afterward, stop, and don't go back to it alone; if it doesn't lift, talk to someone you trust.
 
 ## Kept back for length or for another chapter
 

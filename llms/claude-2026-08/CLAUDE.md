@@ -169,9 +169,9 @@ the order `bookparts.py` gives) plus the appendices twice:
 `publish.sh` generates the website from the manuscript files into the repo
 root: `index.md`, `brief/`, `book/`, `short/`, `map/`, `appendix/`. The long book
 (`book/`) and its map (`map/`) are published but kept out of the menu and the
-search, so old links still work; the menu is Start here, In Brief, the current book
+search, so old links still work; the menu is Start here, the current book
 (`short/`, built from `../claude-2026-11/short-book/`; the condensed book in
-`short-book/` is no longer published), the appendices and the downloads. Nothing generated
+`short-book/` is no longer published), In Brief, the appendices and the downloads. Nothing generated
 is in git: `.github/workflows/pages.yml` runs both scripts on GitHub's runner on
 every push to main and deploys the result, so pushing a change to `long-book/`
 is all it takes to publish. Run the scripts locally to see the site before you

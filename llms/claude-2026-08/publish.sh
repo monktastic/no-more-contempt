@@ -96,9 +96,10 @@ body = start_here_counts(body, sw)
 page(ROOT / 'index.md', 'Start here', 1, '/', body, seq='short')
 
 # The brief: the whole argument in a couple of thousand words, in the author's
-# voice. A page of its own, in no reading sequence. The source has no title.
+# voice. A page of its own, in no reading sequence, after the book in the menu,
+# since the book is built to be met first. The source has no title.
 _, body = split_title(BRIEF.read_text())
-page(ROOT / 'brief' / 'index.md', 'In Brief', 2, '/brief/',
+page(ROOT / 'brief' / 'index.md', 'In Brief', 4, '/brief/',
      count_line(len(strip_todos(body).split()), 'This page') + body)
 
 
@@ -131,7 +132,7 @@ for i, ch in enumerate(chunks[1:], 1):
 
 # Appendices: their own section, not the book's, since the short version sends
 # readers to them too. Same URLs as when they sat under the book.
-page(ROOT / 'appendix' / 'index.md', 'Appendices', 4, '/appendix/',
+page(ROOT / 'appendix' / 'index.md', 'Appendices', 5, '/appendix/',
      'For readers who want the machinery, the neighbouring thinkers, and the traditions.\n', has_children=True)
 for i, f in enumerate(APPENDIX_FILES, 1):
     t, body = split_title((APPENDIX_DIR / f).read_text())

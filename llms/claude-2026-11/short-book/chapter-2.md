@@ -18,6 +18,8 @@ From this place, try to wish them harm. For me it can't be done. Something has t
 
 Out of view doesn't mean out of sight. A torturer has his victim in plain sight, and the cruelest take pleasure from watching their face closely. What they've turned from isn't the person's presence. It's the claim that might otherwise arise from it: that the one looking out of that face counts the way they do. That's the only sense of "in view" I'll use, and it's the sense contempt was using all along, when it spoke to the one who's in there to tell him nobody is.
 
+You can tell whether someone is in view without waiting to see whether harm follows. When they are, their objection lands on you, and you have to answer it rather than manage it. Their hurt registers as bad, the way yours does. And you can still be moved: what they say or feel could change what you do next.
+
 Not everyone you pass is in view in this sense, but that doesn't make it contempt. The hundred people around you in an airport are in the background; if one of them dropped a bag and started crying, they'd come into view, and you'd feel the pull. Turning away is keeping someone out of view when they'd come forward, because their reality would otherwise place a claim on you.
 
 Now imagine your enemy's face instead (if it's someone who abused you, pick another), and try for the recognition of sameness. If it won't come, notice what arrives in its place, and how fast. For me the story comes immediately, and obscures that recognition. That's the turning away, live. Notice how you feel about their wellbeing from here.
@@ -41,13 +43,15 @@ Now think back to your own wrong in Chapter 1. If it was cheating on a test, wha
 
 But *making myself an exception* and *feeling like I'm worth more* don't quite capture it. If my back is hurting, I can take the last seat on the bus without it being evil in the slightest. A human is worth more than a mouse in a meaningful sense, and sometimes I must rely on that to do good.
 
-What the evil cases have in common is that someone had to be put out of view. It is the turning away. If I'm smarter than others, maybe my opinion *is* worth more in certain cases. But I can also find myself making that argument in a subtly underhanded way, for reasons that will benefit me or mine. In that case, I'm counting myself as worth more in an unhealthy sense. Only I can know for sure, even if it often has "tells" that others can sense. [TODO: And because that knowing is in limbo... If I were forced to look the people it will affect in the eye...]
+What the evil cases have in common is that someone had to be put out of view. It is the turning away.
+
+If I'm smarter than others, maybe my opinion *is* worth more in certain cases. But I can also find myself making that argument in a subtly underhanded way, for reasons that will benefit me or mine. In that case, I'm counting myself as worth more in an unhealthy sense. Only I can know for sure, even if it often has "tells" that others can sense. [TODO: And because that knowing is in limbo... If I were forced to look the people it will affect in the eye...]
 
 Here's what I find in myself. Turning away from myself, from my better nature, from the life in others, and from the full implications of my behavior—they're all facets of a single move. It is that move I call *evil*, and I think it's what we've been tracking all along.
 
-The padded expense, the lie to the insurer, the joke that makes someone smaller, the slur, the order to clear a village: each needs someone held out of view so that I, or mine, can be the exception.
-
 If I get on the bus with a pregnant or elderly person and pretend not to see them, I'll usually find myself muttering a story about why it's not my duty to help. Or maybe I bury myself in my music before getting on, to drown out any potential of seeing others. That's "evil" by this definition, even if it's not helpful to say so. I may legitimately feel like I need more comfort in this moment, and calling myself names isn't going to help me get that need met in a way that respects others. It's a subtle issue, and we won't get into all the nuances here.
+
+The padded expense, the lie to the insurer, the joke that makes someone smaller, the slur, the order to clear a village: each needs someone held out of view so that I, or mine, can be the exception.
 
 The harm I caused in the last chapter was tiny beside an atrocity. But it still felt malevolent, because it's the same fundamental gesture across all scales. The tiniest whiff of it carries the scent of the whole.
 
@@ -117,6 +121,8 @@ I have the same choice when I'm his supporter: if his lies benefit me, I stop as
 
 *Every* project and agenda has this potential. I can start a righteous cause and imbue it with contempt, providing me with an endless supply of enemies to blame. I can create a company that provably accomplishes good by our chosen metrics, but whose existence is rooted in my need to self-aggrandize. The people who join me sense it, and it subtly influences how they hold themselves—whether they're serving themselves or something greater. That then leaks out into the world via countless invisible channels, making it worse in ways that "require" me to assert even more control.
 
+They say the road to hell is paved with good intentions. I think it's paved with the intentions we hide behind the good ones. When people say intentions don't matter, only results do, they're right about the good ones. It's the hidden ones that shape the results.
+
 Two seemingly-identical actions, taken from different orientations, can produce vastly different outcomes. The more I see this, the less I can base decisions purely on predicted outcome. I start sensing into the self-deception that's driving them. Even if the action seemingly benefits me, I may still refuse it based on how it's likely to affect the *whole.*
 
 Outcomes still matter, of course. Care doesn't tell me which policy will work. But no calculation can make me honest if I'm using it to keep some part of the situation out of view—which, I find, I almost always am, to one degree or another.
@@ -129,6 +135,8 @@ When most of us picture evil, we think of it as something people *have*: a drive
 A subtle turn doesn't look like evil. It looks like me going about my day, treating the world as something there to entertain me or meet my needs. Other people's wellbeing doesn't register as particularly relevant. They become "NPCs," and I'm the main character. I still help, of course—I'm a *good person*—but I'm more interested in getting their need out of my way than really being of service. I shave off a little extra for myself here or there, because who else will look after me?
 
 This is a state I often find myself in, and I would take exception to calling it "evil." But just by being in it, I'm showing others what kind of world I think this is. They feel it, whether I register this or not.
+
+Do you know this feeling? *Yes, this benefits me, but it also helps others.* It feels like a comfortable compromise. When I look closely, a deeper part of me knows the second half is a fig leaf.
 
 Further along, I may help only when it benefits me, such as when others are watching. In private, I'm busy with projects that quietly serve me, making sure I can prove they're "for the greater good." My orientation is wrong, but nobody can prove it. Hell, I can't prove it myself. What "orientation"?
 
@@ -189,7 +197,7 @@ Here's what I now think. In me, that feeling of "well, I could obviously never d
 
 As long as I feel I'm made of *better stuff*, I'm leaving a door open. Under the right conditions, I can be nudged, bit by bit, away from my better nature in a way that makes me feel increasingly certain I'm still following it. I don't think there's a checkpoint where I'd notice I'd become the monster. The belief that there will be one is exactly what gets me in trouble.
 
-As best I can tell, the only solution is to *stay oriented*, moment by moment. That's a process I can't delegate to my rational mind, because of how easy it is to fool myself. My rational mind must be in service of the orientation, not the other way around. The more I'm lying to myself, the more of my mind is organized around hiding it from me.
+As best I can tell, the only solution is to *stay oriented*, moment by moment. That's a process I can't delegate to my rational mind, because of how easy it is to fool myself. The more I'm lying to myself, the more of my mind is organized around hiding it from me. My rational mind must be in service of the orientation, not the other way around.
 
 The first, smallest move I watch for is putting myself slightly above someone. That's an early sign that I'm shielding myself from the claim they could make on me, so I can get away with something. If I'd caught myself early with my enemy, I might have been able to course correct. But the longer it went on, the harder it was to admit what I'd been doing.
 
@@ -209,7 +217,9 @@ He restored the recognition that *genuine goodness exists*, and that I still ans
 [TODO: Claude draft, November 14: the reader's own case of the light recognized; condenses full-book/chapter-7.md:51 (scenarios check 4.14), last two sentences recast as questions and my finding.]
 Think of a news story that restored your faith in humanity: a stranger who dove in after somebody else's child, a town that took in people it had no reason to take in. Did you feel grateful, though none of it benefited you? Could you say what they were aimed at? I couldn't have defined it, but I recognized it the moment I read the story.
 
-That's what I'll mean by *the light*. I can't calculate my way to that recognition. Reason can help me work out what to do while in it, but the recognition itself comes before the argument, or else it's just self-deception. And what I've been calling *darkness* is exactly that self-deception: the turning away from the light that becomes my new North Star.
+That's what I'll mean by *the light*. I can't calculate my way to that recognition. Reason can help me work out what to do while in it, but the recognition itself comes before the argument, or else it's just self-deception.
+
+And what I've been calling *darkness* is exactly that self-deception: the turning away from the light that becomes my new North Star.
 
 People can refuse the lesson of contempt, of course. But whenever I have, what I drew strength from was the very thing the contempt was trying to make me give up on.
 
@@ -218,7 +228,9 @@ People can refuse the lesson of contempt, of course. But whenever I have, what I
 
 They say integrity is what we do when no one is watching. Whenever I've broken mine, it was by telling myself that no one was. [TODO: Claude draft, November 14: the thrill of getting away with it; from key-points F0 index.md:7 and F1 index.md:493, arrangement mine.] There's a little thrill in it, as though I'm pulling a fast one: *nobody will ever know*. Not even me, if I don't look too closely. But someone was always watching: me. Not the part busy with reasons, but the part I'd turned away from so I wouldn't feel it watching.
 
-I now believe that this somehow always finds its way into my outer world. It doesn't remain locked in my skull, like I tell myself. The soldier's desecration of life isn't waiting for a later deed to become real. Neither is private integrity. [TODO: Claude draft, November 14: rehearsing alone, the distance with nobody in front; condenses full-book/chapter-3.md:57. Your next sentence was "I can't justify this through the examples here; ..."] Part of it I can check. When I read about a man I despise, with no one around, I run the verdict a few times. Then the next person who reminds me of him gets less of the benefit of the doubt, and I don't notice I've withheld it. What I rehearse alone is what I see with afterward.
+I now believe that this somehow always finds its way into my outer world. It doesn't remain locked in my skull, like I tell myself. The soldier's desecration of life isn't waiting for a later deed to become real. Neither is private integrity.
+
+Part of it I can check. When I read about a man I despise, with no one around, I run the verdict a few times. Then the next person who reminds me of him gets less of the benefit of the doubt, and I don't notice I've withheld it. What I rehearse alone is what I see with afterward.
 
 The rest I can't justify through the examples here; they can only provide a hint of where to look. What I saw is something larger, and I'll return to it.
 

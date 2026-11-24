@@ -1,176 +1,202 @@
 # Key-points coverage of the book
 
-A snapshot of `short-book/`, the preface through Chapter 6 and the Epilogue (`chapter-6a.md`), as they stood on November 15, 2026. Points are keyed by their wording; the index line in parentheses is today's and will drift.
+A snapshot of `short-book/`, the preface through Chapter 6 and the Epilogue (`chapter-6a.md`), as they stood on November 24, 2026, after Aditya's rewrite of the later chapters. Points are keyed by their index line, which is today's and will drift; the anchors are chapter:line, also today's.
 
-Read as a reader sees it: TODO notes, holding pens and Chapter 5's material below the double bars don't count. Grades follow the weight check: In is a scene, a phrase, an act or a check the reader runs; Thin is a label, a clause, an abstract statement or a generic case. A point whose home is the picture (Chapter 6) or the vision (the Epilogue) counts as In there. Any other point found only there would be Thin; none is.
+Read as a reader sees it: TODO notes and holding pens don't count. **Weight** follows the weight check: In is a scene, a phrase, an act or a check the reader runs; Thin is a label, a clause, an abstract statement or a generic case. A point whose home is the Picture (Chapter 6) or the vision (the Epilogue) counts as In there if it's concrete there; any other point found only there is Thin. **Prominence** (T0 only) asks whether a first-time reader would come away with it: Stands out (where attention lands, with its question live), Buried (mid-paragraph, after a qualifier, in a list, or before its question), Diluted (competing with a near-restatement, or sharing a paragraph with two or more big claims).
 
 ## Summary
 
-1. **T0 (64 points):** 63 In, 1 Thin.
-2. **T1 (72 points):** 63 In, 5 Thin, 4 Missing.
-3. **Open for the book:** two points, one T1 for Chapter 4 and one new T1 for Chapter 6.
-4. **Re-rate:** eight points, unchanged since November 12. All are T2 or F candidates; none is owed a place.
-5. The index holds 136 T0 and T1 bullets: the three loose lines at its top (lines 3, 5 and 7) and the T1 nested under "Why contempt uniquely scales" (line 244) are counted.
+1. **T0 (63 points):** every one is in the book. 59 In, 4 Thin (the cartoon 314, the darkest idea 466, the naive pretense 663, and the world as stuff 552 unless Chapter 6 is its home). Prominence: 37 stand out, 18 diluted, 8 buried.
+2. **T1:** 1 Missing (no "away", 5); Thin: 84, 109, 128, 172, 246, 342, 516, 541, 544, 554, 558, and 697 (appendix only, a prior-art note).
+3. **Most of the buried and diluted T0s are fixed by a paragraph break or a move, with no new words.** The list is below.
+4. **Four places where the book and the index now disagree.** These need a decision, not an edit.
 
-## Open
+## Decisions for Aditya
 
-### 1. The book
+1. **Chapter 5's new layers paragraph (5:180) contradicts a T0.** index:40 says "What limbo hides was never the misdeed. It's the other person's sameness. The misdeed is what holding that down permits." The paragraph makes the wrong the top layer: "In Chapter 1 I was hiding a wrong. Under that…" It also competes with two other stacks that bottom out differently: 1:212 ("I needed others to carry the darkness I hid from myself") and 6a:48 ("Chapter 1's deepest layer was that I needed my enemy to carry my darkness. Under that was one more: my mind isn't separate from the world"). 5:180 is Claude's draft from November 24 and should change; 6a:48 came in under 2b58e02 (October 17), so check whose it is before touching it.
+2. **The choice point (28, 651).** The index says the choice is real only while both pulls are felt, "after that there's no chooser, only reasons", and that the speed of catching it is the measure. 4:21 (Claude, November 24) now says "Staying turned away is work, and it's mine," 4:25 says "Why does the first turn happen at all? I can't give an account of it" (the T0 gives one: the innocent want plus the accumulated ease), and 4:27 puts responsibility in four places. Say which is right; then the index or Chapter 4 changes, and `argument.md` with it.
+3. **Where rules come from (128).** The T1 says we build rules "to offload our moral responsibility"; 4:101 says they "exist because people who were sure they had us fully in view didn't." Say which you hold.
+4. **Whether Chapter 6 is the home of §11 (552, 554, 558, 109).** If it is, the world-as-stuff T0 is In and stands out at 6:16. If the reader should meet it in the body, the smallest plant is a sentence at 4:122 tying the two trees to "the world held as stuff."
 
-1. **"In view" has three checks (84).** T1, Thin. Chapter 2 gives one definition ("counts the way they do"); Chapter 4 doesn't add the other two. Best: `scratch/key-points/scenarios.md:241`, "their objection would land on you, and you'd have to answer it rather than manage it." Place: Chapter 4's "The Far End" or "The Worst People", where the sadist and the hostage test what "in view" means.
-2. **No "away" (5).** T1, Missing. New, and marked for "The Picture I Hold": "We say we *throw things away*, but there is no 'away.' There is only someone else's backyard." Place: Chapter 6's "The Living World", beside "the living world carries the sum."
+## Fixes by moving or breaking, no new words
 
-### 2. Re-rate
+T0s first, in book order.
 
-1. **The angel/devil cartoon as governing image (311).** T0, Thin: once, "that cartoon devil on our shoulders." Suggest T2 for this book, whose governing image is light and dark. Chapter 6 names the Devil without the cartoon.
-2. **The moral escape hatch (127).** T1, Thin: "follow the letter of the law while violating its spirit." Suggest F under 124; Chapter 4's rules passage now carries it too.
-3. **The darkness closes hearts when they're most needed (171).** T1, Thin. Chapter 3's hurt note says "the pull to do so is strongest here." Suggest F under 65, the license.
-4. **It feeds on pain, confusion, insecurity (309).** T1, Thin: "What begins as fear or pain." Suggest F under 323, the fear account, which is In.
-5. **The parasite is the Mahayana's self-cherishing (344).** T1, Missing. Suggest T2: a correspondence for Appendix 2.
-6. **Putting it into language people can point to (688).** T1, Missing. Suggest T2: the book's purpose, not a claim to the reader.
-7. **Why nobody said it (690).** T1, Thin: Chapter 5's "Most neuroscientists would call these processes unconscious." Suggest T2 for `audit.md` and Appendix 3. Your `[TODO]` in Chapter 1's Mechanism section holds the Jung half.
-8. **Projective identification is the nearest predecessor (692).** T1, Missing. Suggest T2 for `audit.md`; it's a novelty claim, not a reader claim.
+1. **1:147 (index:40, limbo hides the sameness).** Give its last two sentences ("But the perception of our similarity never truly disappears. It only goes into limbo…") their own paragraph.
+2. **1:186 (index:208, the leak is the payload).** Move "(Appendix 1 spells this out.)" off the end, so the paragraph ends on "was itself the provocation."
+3. **1:233 (index:137, contempt needs no wrongdoer).** Break after "just being honest." and start a new paragraph at "I may even be right about them".
+4. **2:44 (index:81, conscience detects the turning, not harm).** End the paragraph after "It is the turning away." and start a new one at "If I'm smarter than others".
+5. **2:50 before 2:48 (index:147, size doesn't matter).** Move the bus paragraph up, so the list from the padded expense to "the order to clear a village" runs straight into "tiny beside an atrocity."
+6. **2:192 (index:79, reason serves care).** Swap its last two sentences so it ends on "My rational mind must be in service of the orientation, not the other way around."
+7. **2:212 (index:593, the light is recognized).** Split before "And what I've been calling *darkness*…"
+8. **2:221 (index:31, nothing stays in the skull).** Break before "Part of it I can check."
+9. **3:19 (index:271 and 294).** Split after "Believing that, I defend it as myself." Consider cutting its last sentence ("Evil benefits from being seen as a presence, in either direction"; 2:127 carries it; check authorship) and dropping "whole" from 3:15's "So the whole trick", so the book names one trick.
+10. **3:45 and 3:47 swapped (index:204, the secret handshake).** The reader finds the eerie sense ("we do it right back at them") before the handshake names it.
+11. **3:49–51 up to follow 3:35 (index:352, real/not real, me/not me).** The guards sit together, and 3:47 runs into 3:55's "evil people."
+12. **3:146 (index:200, the tug to be recruited).** Split after "we have often spotted evil." so "But the feeling is something else: a tug to be recruited…" stands alone.
+13. **3:200 after 3:67 (index:466, the darkest idea).** "That's a version of the darkest idea there is…" lands on the reader's own wood chipper. It also thins the end of The Conspiracy, where 3:196's second sentence (Claude, November 23) restates 3:202 a paragraph early (index:377); cut it after checking authorship.
+14. **4:21 (index:28).** Break before "Once the view has gone", after decision 2.
+15. **4:49 cut, 4:51 broken (index:418, the far end).** 4:49 is Claude's and repeats 2:153's check; open "The Far End" on the factory-farm worker, and start a paragraph at "My belief is that the most lost person is carrying *more* of that knowledge…"
+16. **4:135 (index:320, your own darkness entered the seeing).** Break after "…was in the seeing." so it closes the check.
+17. **4:139 (index:486, look at the contempt itself).** Split after "nothing there to fight."
+18. **4:158 (index:596, love that needs someone worthless isn't love).** Break before "And it scales." so "…isn't love." closes the paragraph.
+19. **5:166–170 to the end of the chapter (index:620 and 566).** "Nothing is lost" now sits as an aside between the ego section and the Zen masters. After the riddle, it follows the layers paragraph, and "The one who was watching—*I*—is ultimately not separate from what the mystics have always called God" becomes the consequence of "I am the world": I can never hide.
+20. **6:99 (index:360, every act of contempt feeds it).** Swap its two sentences and give "In this picture, every act of contempt, for anyone, feeds it." its own paragraph as the section's close.
 
-"Nothing in the book is a rule" (125) no longer needs re-rating: Chapter 4's "What a rule can't do is contain goodness" carries it. Only the book's description of itself is missing.
+## Thin, needing material
+
+1. **index:663 (T0), it's dangerously naive to pretend they have light.** Only the rule at 4:65. Put the *he's better now* case (now a parenthesis at 4:86) beside it.
+2. **index:149 (T0), the "good kind" cover refutes itself.** Its pieces are 100 lines apart (1:94, 1:178, 1:59, 1:204) and no sentence draws the conclusion. End the 1:204 sting check by setting it against 1:94's "good kind." Material: scenarios.md:172.
+3. **index:503 (T0, buried), the self-serving default.** It's rung one of the drift ladder at 2:129, so it reads as a step toward evil, not the water everyone swims in, and the reader never checks their own case. Material: index:504's fig leaf ("*this benefits me, but it also helps others*") and index:505's nursing homes and the doctor's one more test.
+4. **index:476 (T0), how the felt sense becomes the idea.** Only generic cases (2:118's "a company"). Material: index:106, Sam Bankman-Fried. With it, restore the brilliant-mind trap (T1 544) after 4:122, from `llms/claude-2026-08/short-book/chapter-5.md:23`; that serves 541 too.
+5. **index:314 (T0), the angel/devil cartoon.** One foil clause at 3:207. Re-rate to T2 for this book (proposed November 15 as well), or open "From Inside" on the cartoon corrected. Material: `angel-devil-samples.md:119`, "The devil has no eyes. He uses yours."
+6. **T1s:** 84, three checks for "in view" (scenarios.md:241; index:85's "he looked me in the eye and did it anyway"); 342, naming it a parasite releases the shame (index:343's F0); 516, the road to hell (the proverb is only a TODO at 2:3); 172 and 246 (the Nov 15 snapshot proposed 172 as an F under 65; 246 could sit beside the wood chipper at 3:61); 5, no "away" (6:63, beside the Bhagirathi villagers).
+
+## Lost and stale
+
+1. **A line in no live home:** "Of **course** it had to feel righteous. Righteousness is what I actually wanted." Chapter 5's holding pen (5:287) says Chapter 6's "The Counterfeit" carries it; it doesn't. It belongs in key-points.
+2. **Stale index notes:** 204 (book location), 278 ("not stated as a check"), 280 ("reader's own instance isn't in the book"), 340 (the "What does that sound like to you?" question was restored in 2a10066), 587 (pointer to a Chapter 5 phrase that isn't there).
+3. **The ideology test** (scenarios 4.13: "Does it tell you what to do to the person in front of you before you've looked at them?") was cut from Chapter 4 as an echo of Chapter 2, but Chapter 2 doesn't carry it (index:125).
 
 ## The full table
 
-Every T0 and T1 bullet in `scratch/key-points/index.md`, in index order. Anchors are quoted from the chapter named. "Open" names where a Thin or Missing point goes; for an In point it notes where a later chapter calls it back.
+Index order. S = stands out, B = buried, D = diluted.
 
-| # | Point (index line) | Tier | Grade | Where in the book | Open |
-|---|---|---|---|---|---|
-| 1 | Turned away is self-deception (3) | T0 | In | Ch1 "It was right there to see" | — |
-| 2 | No "away": only someone else's backyard (5) | T1 | Missing | — | Ch6 |
-| 3 | Losing respect isn't necessarily contempt (7) | T1 | In | Ch1 "were you focused on what they'd done, or what they were" | — |
-| 4 | Can't knowingly harm without turning away (23) | T0 | In | Ch1 "Imagine doing wrong in full view of your conscience"; Ch2 "From this place, try to wish them harm" | — |
-| 5 | Choice real at one point, then no chooser (28) | T0 | In | Ch4 "It comes labeled *I've had a long day*"; Ch1 "We never tell ourselves" | — |
-| 6 | Three distances: nothing stays in the skull (31) | T0 | In | Ch1 "leak out my skull"; Ch2 "But someone was always watching: me"; Ch5 "kills an insect in a cave" | — |
-| 7 | Limbo hides sameness, not the misdeed (40) | T0 | In | Ch1 "demolish the structure my identity stands on" | — |
-| 8 | "Unconscious" mine, "conscious" theirs (42) | T0 | In | Ch1 "desperately want to call this behavior" | — |
-| 9 | The layers; it uses me as a vehicle (44) | T0 | In | Ch1 "revealed in layers" | — |
-| 10 | Can't choose to turn away (50) | T0 | In | Ch4 "hold someone's eyes and decide" | — |
-| 11 | Turning away takes upkeep (52) | T1 | In | Ch2 "A grudge has to be fed" | — |
-| 12 | The license: I've been hurt (65) | T1 | In | Ch1 "Did some part of you feel you"; Ch3 "so I've earned the right to unleash" | — |
-| 13 | Conscience doesn't argue (73) | T0 | In | Ch1 "Why did one side have to argue and the other not?" | — |
-| 14 | Reason serves care (79) | T0 | In | Ch2 "The counter-evidence just feels a little more convincing"; Ch2 "My rational mind must be in service of the orientation" | — (Ch6 "reason in service to Love") |
-| 15 | Conscience fires with no victim (81) | T0 | In | Ch2 "Ask a soldier whether it's wrong to desecrate"; Ch2 "take the last seat on the bus" | — |
-| 16 | Three checks for "in view" (84) | T1 | Thin | Ch2 "counts the way they do" | Ch4 |
-| 17 | Can't calculate your way to goodness (93) | T0 | In | Ch2 "no calculation can make me honest"; Ch2 "I can't calculate my way to that recognition" | — (Ch6 "that wanting never came out of a count") |
-| 18 | Metrics externalize the belief (108) | T1 | In | Ch6 "Our faith in metrics lives here"; Ch6, the Tehri Dam | — |
-| 19 | Culture fetishizes rationality (111) | T1 | In | Ch6 "puts rationality and intellect above everything else" | — |
-| 20 | Grand-narrative check (113) | T1 | In | Ch4 "a dollar of what I earn can plant two trees later" | — |
-| 21 | Same act, different orientation (115) | T1 | In | Ch2 "Two seemingly-identical actions"; Ch2 "Another politician might well have fought the same war" | — |
-| 22 | "Good person" is the trap (120) | T0 | In | Ch2 "As long as I feel I'm made of"; Ch1 "Proof I'm one of the good ones" | — |
-| 23 | Ideology: care written down, followed without looking (124) | T0 | In | Ch2 "Therefore, hating him is good" (the ideology test question is not in) | — |
-| 24 | Nothing in the book is a rule (125) | T0 | In | Ch4 "What a rule can't do is contain goodness"; Ch1 "It wasn't a rule, or a side" | — (the book's self-description isn't in) |
-| 25 | The moral escape hatch (127) | T1 | Thin | Ch2 "follow the letter of the law while violating its spirit" | Re-rate |
-| 26 | Contempt is evil, not a value judgment (134) | T0 | In | Ch2 "This is why I say contempt is evil" | — |
-| 27 | Contempt needs no wrongdoer (136) | T0 | In | Ch1 "Think of a toddler who can't add" | — |
-| 28 | No bottom to what it licenses (144) | T1 | In | Ch1 "What I do to you no longer qualifies as harm" | — |
-| 29 | Size doesn't matter (146) | T0 | In | Ch2 "watch what cutting in line does to you"; Ch2 "The tiniest whiff of it carries the scent of the whole" | — |
-| 30 | The cover refutes itself: the sting (148) | T0 | In | Ch1 "Recall the last time someone's contempt really got under your skin" | — |
-| 31 | Both directions; the airport (151) | T0 | In | Ch2 "The hundred people around you in an airport"; Ch2 "someone had to be put out of view" | — |
-| 32 | How subtle contempt can be (155) | T1 | In | Ch2 "and I'm the main character"; Ch3 "Answer the weakest version of their argument" | — |
-| 33 | Unloving exposure drives denial (162) | T1 | In | Ch1 "provoke defensiveness and a desire to hide more"; Ch5 "Exposed with contempt, I would have turned away again" | — |
-| 34 | Contempt makes confronting harder; compliance, not remorse (165) | T1 | In | Ch1 "even if it stops your behavior in the moment" | — |
-| 35 | Anger is healthy; contempt rides along (168) | T1 | In | Ch3 "your rage is right"; Ch3 "notice whether a second thing is riding along with it" | — |
-| 36 | Closes hearts when most needed (171) | T1 | Thin | Ch3 "the pull to do so is strongest here" | Re-rate |
-| 37 | Fierce is where the darkness gets in (177) | T1 | In | Ch1 "little something extra"; Ch1 "you felt the extra coming" | — |
-| 38 | Kind is not nice; the two collapses (179) | T0 | In | Ch1 "said things that stung more, in front of more people"; Ch5 "Love can be fierce"; Ch4 "Niceness keeps the person who was harmed out of view" | — |
-| 39 | Compassion is not wisdom (191) | T0 | In | Ch4 "can still be wrong about everything else, and make a mess" | — |
-| 40 | Two meanings of judging (193) | T1 | In | Ch1 "his anger was directed at what you"; Ch3 "Seeing clearly what they are capable of is not the verdict" | — |
-| 41 | Contempt is a tug to be recruited (199) | T0 | In | Ch3 "That it's feeding on your hatred?" | — |
-| 42 | The secret handshake (203) | T0 | In | Ch3 "like a secret handshake" | — |
-| 43 | The trap in one piece (207) | T0 | In | Ch1 "Deny it, and you're the kind of person who does"; Ch3 "the worst thing they can do to us is not to attack" | — |
-| 44 | Mutual knowing, all the way up (217) | T1 | In | Ch1 "If any of that weren't true, it wouldn't have the intended effect" | — |
-| 45 | Bad faith, and accusing others of it (234) | T1 | In | Ch3 "our political opponents are acting in bad faith" | — |
-| 46 | Intentions confined to the skull (236) | T1 | In | Ch1 "It's confined to my skull"; Ch2 "It doesn't remain locked in my skull" | — |
-| 47 | Any agenda, with compassion or contempt (240) | T1 | In | Ch2 "without spreading that contempt" | — |
-| 48 | Why contempt scales; consumed contempt (242) | T1 | In | Ch2 "Maybe I laugh, or share the clip"; Ch1 "Was the pleasure only in the harm stopping" | — |
-| 49 | The last evil still praised (244) | T1 | In | Ch6 "contempt is the one we still praise as" | — |
-| 50 | We shame them because they dig in (251) | T0 | In | Ch1 "into becoming more of what I need them to be" | — |
-| 51 | Why stop corruption when judging feels good? (264) | T0 | In | Ch1 "primally, viscerally satisfying to make bad people suffer" | — |
-| 52 | Make them unsafe so they can't look (269) | T0 | In | Ch3 "Their contempt gives me another reason to dig in"; Ch1 "What I need in order to look is what my enemy needed from me" | — |
-| 53 | Would you shove the possessed deeper? (276) | T0 | In | Ch3 "could you still want to shove them deeper in?" | — |
-| 54 | The write-off, reader's own (278) | T1 | In | Ch4 "Or did something in you light up" | — |
-| 55 | The special privilege (280) | T1 | In | Ch1 "Who the hell is he to judge?"; Ch3 "totally different" | — |
-| 56 | Intrinsic in others, absent in me (292) | T0 | In | Ch3 "make us perceive it as something external to ourselves"; Ch3 "this pattern benefits from being seen" | — |
-| 57 | It manufactures the terror it feeds on (299) | T1 | In | Ch3 "What I fear isn't that I'm capable of doing what the bad people do" | — |
-| 58 | The two taunts (301) | T0 | In | Ch1 "then why the fuck shouldn't I?"; Ch2 "genuine goodness is a myth" | — |
-| 59 | Its goal: no light; indirection; borrowed reason (303) | T0 | In | Ch2 "becomes my new North Star"; Ch3 "my attention, my reasons, my eyes to work with" | — (Ch6 "to make us forget there was ever a light to steer by") |
-| 60 | The price, seen honestly (307) | T1 | In | Ch3 "When I face the whole bargain, I can't want it" | — |
-| 61 | It feeds on pain and confusion (309) | T1 | Thin | Ch1 "What begins as fear or pain deep in our minds" | Re-rate |
-| 62 | Angel/devil cartoon as governing image (311) | T0 | Thin | Ch3 "that cartoon devil on our shoulders" | Re-rate |
-| 63 | Intrinsic-looking darkness is yours in the seeing (317) | T0 | In | Ch3 "It doesn't feel like an idea you have"; Ch5 "the way the bitterness looked like part of the licorice" | — |
-| 64 | Fear maintains the turning away (323) | T1 | In | Ch3 "What kind of person would do that?"; Ch5 "I'd been afraid that looking would reveal what was wrong with me" | — |
-| 65 | Limbo spreads it, knowingly (326) | T0 | In | Ch1 "that needs them to know they're broken" | — |
-| 66 | Can't undo turning away by turning away (328) | T1 | In | Ch2 "Both might have stopped your misbehavior"; Ch3 "refusal that carries no verdict" | — |
-| 67 | The parasite masquerades as us (332) | T1 | In | Ch3 "it feels entirely like me"; Ch3 "I started calling it a parasite, and us its hosts" | — |
-| 68 | Naming the parasite releases the shame (338) | T1 | In | Ch3 "is what makes looking possible" (the shame is the same section's "What kind of person would do that?") | — |
-| 69 | Hot and cold are the same (341) | T1 | In | Ch1 "but it often runs cold" | — |
-| 70 | The Mahayana's self-cherishing (344) | T1 | Missing | — (a placeholder below the bars) | Re-rate |
-| 71 | Real, not real, between (348) | T0 | In | Ch3 "equally dangerous to treat it as nothing at all"; Ch3 "that wasn't the real me" | — |
-| 72 | Every act of contempt feeds the Devil (356) | T0 | In | Ch3 "And what comes out stronger through all this?"; Ch2 "Contempt for any one being is contempt for" | — (Ch6 "every act of contempt, for anyone, feeds it") |
-| 73 | Our parasites collaborate (358) | T0 | In | Ch3 "Our parasites are collaborating as one" | — |
-| 74 | The noble fighter is the conspiracy (373) | T0 | In | Ch3 "standing outside the great conspiracy" | — (Ch6 "When you're actually fighting the darkness") |
-| 75 | One distributed entity; armageddon (380) | T0 | In | Ch3 "various forms of armageddon"; Ch3 "Some give it a name: Satan"; Ch6 "nothing tells one darkness from another" | — |
-| 76 | Evil is the result, not the cause (395) | T0 | In | Ch1 "It only requires a certain kind of confusion" | — |
-| 77 | All evil is innocent (406) | T0 | In | Ch1 "my state had been utterly innocent" | — |
-| 78 | The far end: the knowing grows (414) | T0 | In | Ch2 "because there was more you couldn't bear to face"; Ch4 "a hostage held up to the window" | — |
-| 79 | "Bad people" are the dumping ground (417) | T1 | In | Ch3 "The dumping ground for our collective shadow" | — |
-| 80 | "Boo hoo, he was abused" (423) | T1 | In | Ch4 "Oh, boo hoo, he was abused as a child" | — |
-| 81 | The sadist (426) | T1 | In | Ch4 "imagine doing the same thing to your enemy from there" | — |
-| 82 | Contempt from below; self-contempt (428) | T1 | In | Ch1 "hold off on that judgement"; Ch3 "the contempt you aim at yourself" | — |
-| 83 | It needs some to be irredeemable (430) | T1 | In | Ch1 "that he was beyond help to begin with" | — |
-| 84 | Good people need bad people (440) | T0 | In | Ch1 "Proof I'm one of the good ones" (the foot-in-the-door line is not in) | — |
-| 85 | Round up the bad people (462) | T0 | In | Ch3 "if we could only round up the bad people"; Ch3 "Into the wood chipper, feet first!" | — |
-| 86 | Two meanings of righteous (472) | T0 | In | Ch2 "My cause is good; the people standing in its way don't count"; Ch1 "our justifications simply feel more convincing, more righteous" | — |
-| 87 | Would you still want it? (480) | T0 | In | Ch3 "Would you take that trade?" | — |
-| 88 | Self-righteous contempt: taste it (482) | T0 | In | Ch2 "thirst for devouring innocence"; Ch2 "when I really stop to taste what it's" | — |
-| 89 | The culture still calls it righteous (484) | T1 | In | Ch3 "we, as a society, have a vested interest" | — |
-| 90 | The trap assembled; accuracy harvested (487) | T1 | In | Ch3 "That's what made it such good cover" | — |
-| 91 | Contempt for the still-contemptuous (489) | T1 | In | Ch4 "I once caught myself enjoying snide comments" | — |
-| 92 | The self-serving default (499) | T0 | In | Ch2 "I shave off a little extra for myself" | — |
-| 93 | Getting away with it; God watching (503) | T1 | In | Ch2 "as though I'm pulling a fast one"; Ch6a "now elicits a laugh" | — |
-| 94 | Easy to see in enemies, hard in me (508) | T1 | In | Ch2 "The further I drift, the worse" | — |
-| 95 | The road to hell; true intentions (512) | T1 | In | Ch2 "while another part of him shapes them" (your Ch2 TODO holds the proverb) | — |
-| 96 | Just enough evidence of benefit (520) | T1 | In | Ch2 "my PR team has provided ample counter-evidence" | — |
-| 97 | Shadow spaces (527) | T0 | In | Ch3 "how I scammed my insurance company"; Ch3 "Ten men are changing after a game" | — |
-| 98 | Biosphere collapse is self-deception made external (532) | T1 | In | Ch6 "a mirror image of the sickness within" | — |
-| 99 | Self-deception nudges reality into forgetting (535) | T1 | In | Ch5 "the world I project reflects it back to me" | — (Ch6 points back) |
-| 100 | Darkness at scale, through what people build (537) | T1 | In | Ch2 "The people who join me sense it"; Ch3 "explicitly build that feature into institutions" | — |
-| 101 | Contempt for a neighbor, an atrocity elsewhere (539) | T1 | In | Ch6 "my contempt for a neighbor makes an atrocity" | — |
-| 102 | The clever mind's trap (540) | T1 | In | Ch6 "the brighter the mind, the better the trap" | — |
-| 103 | It's my default; thinking harder is it at the helm (542) | T1 | In | Ch3 "a milder version of this is actually my"; Ch3 "Thinking harder rarely shows me" | — (Ch6 "Nor can I get to that wanting by thinking harder") |
-| 104 | The world as lifeless stuff (548) | T0 | In | Ch6 "Contempt's deepest form is one we hardly notice" | — |
-| 105 | The tree and the arch (550) | T1 | In | Ch6 "Somebody cuts down a tree that has stood for a thousand years" | — |
-| 106 | We are the world; can't pull a fast one (552) | T1 | In | Ch6 "We could never pull a fast one on the world" | — |
-| 107 | Reality held inert, people held inert (554) | T1 | In | Ch6 "A people held as a resource and a forest held as lumber" | — |
-| 108 | Compassion is the nature of mind (562) | T0 | In | Ch3 "snapped out of"; Ch1 "what remains in the absence of self-deception"; Ch5 "this was what I was" | — |
-| 109 | The neutered good: who's to say? (582) | T0 | In | Ch1 "who can really say whether hating my enemy is wrong"; Ch2 "who's to really say?" | — |
-| 110 | Who decides what's good (586) | T0 | In | Ch2 "that still doesn't make it mine to define"; Ch5 "something I don't have the freedom to redefine" | — |
-| 111 | The light is recognized, not calculated (588) | T0 | In | Ch1 "What is that thing that two people who agree on nothing can both be serving?" | — |
-| 112 | Can't be toward one and away from another (591) | T0 | In | Ch4 "Your sister's ex" | — |
-| 113 | Love: the first look held toward all (592) | T0 | In | Ch2 "turned toward all of life" | — |
-| 114 | The traditions usurped; pity (597) | T1 | In | Ch4 "would I be glad if they got there before I did?"; Ch4 "And pity, which passes for compassion" | — |
-| 115 | Perceive, not believe, that evil isn't intrinsic (599) | T1 | In | Ch5 "As a conceptual insight, this isn't particularly profound"; Ch3 "our shared nemesis" | — |
-| 116 | Tier III is the same road further on (601) | T1 | In | Ch5 "further than you can check from where you sit"; Ch5 "The smaller opening I can offer you" | — |
-| 117 | The diver; Darwin and Love (606) | T1 | In | Ch2 "a stranger who dove in after somebody else's child"; Ch6a "Then Darwin is just the way we explain Love" | — |
-| 118 | Not reached by thinking harder (609) | T1 | In | Ch5 "my intellectual insights go out the window" | — (Ch6 "Nor can I get to that wanting by thinking harder") |
-| 119 | The crescendo: nothing is lost (615) | T0 | In | Ch5 "Nothing is lost"; Ch5 "Somewhere a stranger is about to give up" | — |
-| 120 | Connection relegated to the spiritual (625) | T1 | In | Ch6 "So we have relegated it to the spiritual" | — |
-| 121 | Angry then, wiser years later (632) | T1 | In | Ch4 "Have you ever angrily corrected someone" | — |
-| 122 | Turning toward: the only stance that doesn't feed it (634) | T0 | In | Ch2 "I didn't give him"; Ch1 "what it probably didn't do is give them license" | — |
-| 123 | Not-seeing unchosen; catching trainable (646) | T0 | In | Ch4 "days, then hours, then sometimes in the moment" | — |
-| 124 | Held in Love so I could look (649) | T0 | In | Ch5 "I was held in fierce, uncompromising love the whole time"; Ch6a "held in the Light the whole time" | — |
-| 125 | Naive to pretend they have Light (658) | T0 | In | Ch4 "Believing someone has light when you can't see it" | — |
-| 126 | The sorting: relieved or robbed (664) | T1 | In | Ch1 "Was the pleasure only in the harm stopping"; Ch3 "riding along with it" | — |
-| 127 | The near end: catch the wanting (666) | T1 | In | Ch4 "catch yourself wanting them to be what you've decided they are" | — |
-| 128 | Judgment day is now (674) | T1 | In | Ch6a "is already here and now" | — |
-| 129 | Cruelty "works" short-term (679) | T0 | In | Ch2 "Both might have stopped your misbehavior"; Ch3 "there, force is right" | — |
-| 130 | The second stranger as pointing-out instruction (684) | T1 | In | Ch5 "those who live it through and through" | — |
-| 131 | Putting it into language (688) | T1 | Missing | — | Re-rate |
-| 132 | Why nobody said it (690) | T1 | Thin | Ch5 "Most neuroscientists would call these processes unconscious" | Re-rate |
-| 133 | Projective identification (692) | T1 | Missing | — | Re-rate |
-| 134 | Function decides placement; three piles (694) | T1 | In | Ch1 "Hold them the way you'd hold puzzle pieces"; Ch5 "hold it the way you'd hold a traveler's report" | — |
-| 135 | Explicit and early differ (696) | T1 | In | Ch1 "I'll make some claims before I've earned them" | — |
-| 136 | Can't be derived; you already knew (700) | T0 | In | Ch1 "something I had always known, but hadn't let myself know" | — |
+| Index | Tier | Point | Weight | Prominence | Anchor | Note |
+|---|---|---|---|---|---|---|
+| 3 | T0 | Turned away means already self-deceived | In | S | 3:215 | Closes "From Inside"; seeded 1:14 |
+| 5 | T1 | No "away," only someone's backyard | Missing | — | — | Home: 6:63 |
+| 7 | T1 | Losing respect isn't necessarily contempt | In | — | 1:233 | |
+| 23 | T0 | Can't knowingly harm without turning away | In | S | 2:17 | Run as an exercise |
+| 28 | T0 | Choice real only while both pulls are felt | In | D | 4:21 | Text diverges from index (decision 2) |
+| 31 | T0 | Nothing stays in the skull, three distances | In | S / D / S | 1:134; 2:221; 5:168 | Distance 2 diluted; distance 1's "that's how you learned it" not drawn (material 4:154) |
+| 40 | T0 | Limbo hides their sameness, not the misdeed | In | D | 1:147 | Contrast never drawn; 5:180 contradicts (decision 1) |
+| 42 | T0 | "Unconscious" for me, "conscious" for them | In | S | 1:167 | Also 4:34 |
+| 44 | T0 | Layers; it uses me as its vehicle | In | S | 3:43 | Three ladders name different rungs (1:212, 3:43, 5:180) |
+| 50 | T0 | You can't choose to turn away | In | S | 4:17 | |
+| 52 | T1 | Turning away takes upkeep | In | — | 2:159 | |
+| 65 | T1 | License: I've been hurt, so I've earned it | In | — | 3:73 | |
+| 73 | T0 | Conscience doesn't argue | In | S | 1:26 | Answered 1:141 |
+| 79 | T0 | Reason must serve care | In | B | 2:192 | Clean form only at 6:107 |
+| 81 | T0 | Conscience detects the turning, not harm | In | D | 2:44 | Cheat/contempt "one move from two ends" only via 3:41 |
+| 84 | T1 | Three checks for "in view" | Thin | — | 2:19 | One criterion of three |
+| 93 | T0 | You can't calculate your way to goodness | In | S | 2:122 | Stronger form only at 6:109 |
+| 109 | T1 | Metrics as the culture trusting thought | Thin | — | 2:118; 6:38 | In if Chapter 6 is home |
+| 112 | T1 | "If the light were real, we'd prove it" | In | — | 2:139 | |
+| 114 | T1 | Does the plan need contempt for here, now? | In | — | 4:122 | |
+| 116 | T1 | Same act, different orientation | In | — | 4:88 | |
+| 121 | T0 | Seeing I'm everyone, not trying to be "good" | In | S | 2:188 | |
+| 125 | T0 | Ideology is care written down | In | S | 2:172 | Test and "carried" wording missing |
+| 126 | T0 | Nothing in the book is a rule | In | S | 4:127 | |
+| 128 | T1 | Rules as moral escape hatch | Thin | — | 2:174 | Book diverges at 4:101 (decision 3) |
+| 135 | T0 | Contempt is evil, not a value judgment | In | S | 2:56 | |
+| 137 | T0 | Contempt needs no wrongdoer | In | D | 1:233 | Four claims in one paragraph |
+| 145 | T1 | What contempt licenses has no bottom | In | — | 1:78 | |
+| 147 | T0 | Size doesn't matter | In | D | 2:52 | "Still shameful to admit" check absent |
+| 149 | T0 | The "good kind" cover refutes itself | In (parts) | B | 1:192 | Conclusion never drawn |
+| 152 | T0 | Both directions: harm needs turning, and back | In | S | 2:17 | |
+| 156 | T1 | How subtle contempt can be | In | — | 1:235 | |
+| 163 | T1 | Unloving exposure coerces | In | — | 1:47 | |
+| 166 | T1 | We claim to rub noses in it | In | — | 1:159 | |
+| 169 | T1 | Anger healthy; contempt rides along | In | — | 4:86 | |
+| 172 | T1 | Closes hearts when most needed | Thin | — | 4:69 | |
+| 178 | T1 | Fierce is where the darkness gets in | In | — | 4:88 | |
+| 180 | T0 | Kind is not nice | In | S | 4:76 | |
+| 192 | T0 | Compassion is not wisdom | In | S | 4:99 | Near-repeats 2:122 (the seed) |
+| 194 | T1 | Two meanings of "judgment" | In | — | 4:92 | |
+| 200 | T0 | Contempt is a tug to be recruited | In | B | 3:146 | |
+| 204 | T0 | The secret handshake | In | D | 3:45 | Name before the sense |
+| 208 | T0 | The trap in one piece; the leak is the payload | In | D | 1:161; 1:186 | |
+| 218 | T1 | Mutual knowing all the way up | In | — | 1:184 | |
+| 236 | T1 | Bad faith, and accusing others of it | In | — | 3:142 | |
+| 238 | T1 | Intentions don't stay in the skull | In | — | 2:221 | |
+| 242 | T1 | Any agenda, compassion or contempt | In | — | 4:112 | |
+| 244 | T1 | Why contempt scales: the spectator seat | In | — | 2:95 | "Uniquely scales" argument absent |
+| 246 | T1 | Last evil still praised as goodness | Thin | — | 6:87 | Body home beside 3:61 |
+| 253 | T0 | We shame them because it makes them dig in | In | S | 1:102 | |
+| 266 | T0 | Why stop corruption when judging feels good? | In | S | 1:132 | |
+| 271 | T0 | Contempt makes them unsafe to look | In | D | 3:19 | |
+| 278 | T0 | Could you shove the possessed deeper? | In | S | 3:57 | |
+| 280 | T1 | The write-off | In | — | 4:129 | |
+| 282 | T1 | The special privilege | In | — | 1:49 | |
+| 294 | T0 | Its trick: intrinsic in others, absent in me | In | D | 3:19 | Said six times; three "tricks" named |
+| 302 | T1 | It manufactures the terror it feeds on | In | — | 3:17 | |
+| 304 | T0 | The two taunts | In | S | 1:108; 2:141 | Parasite's own line absent |
+| 306 | T0 | Goal: no light; indirection; borrowed reason | In | S | 6:83; 2:190 | |
+| 310 | T1 | The price seen honestly | In | — | 3:15 | |
+| 312 | T1 | Feeds on pain, confusion, insecurity | In | — | 3:73 | |
+| 314 | T0 | The angel/devil cartoon | Thin | B | 3:207 | Re-rate? |
+| 320 | T0 | Another's darkness looks intrinsic: yours entered the seeing | In | B | 4:135 | |
+| 326 | T1 | Fear of bad essence keeps the turning | In | — | 3:17 | |
+| 330 | T0 | Acting from limbo spreads it, knowingly | In | S | 1:102 | |
+| 332 | T1 | Can't undo turning away by turning away | In | — | 4:44 | |
+| 336 | T1 | A parasite masquerading as us | In | — | 3:13 | |
+| 342 | T1 | Naming it a parasite releases the shame | Thin | — | 3:35 | Material index:343 |
+| 345 | T1 | Hot and cold, same parasite | In | — | 1:231 | |
+| 348 | T1 | Self-cherishing: ego defending the exception | In | — | 3:41 | |
+| 352 | T0 | Real/not real, me/not me | In | D | 3:33; 3:51 | Guards split |
+| 360 | T0 | Every act of contempt feeds the Devil | In (Picture) | D | 6:99 | |
+| 362 | T0 | Our parasites are collaborating | In | S | 3:144 | |
+| 377 | T0 | The noble fighter is the conspiracy | In | D | 3:202 | 3:196 says it early |
+| 384 | T0 | One distributed entity: the Devil | In (Picture) | S | 6:67 | |
+| 399 | T0 | Evil is the result of shielding | In | S | 2:155 | 3:9's "it" reads against it |
+| 410 | T0 | All evil is ultimately innocent | In | S | 1:220 | |
+| 418 | T0 | The far end: hostage at the window | In | D | 4:59 | 4:49 repeats 2:153 |
+| 421 | T1 | The dumping ground | In | — | 3:61 | |
+| 427 | T1 | "Oh, boo hoo, he was abused" | In | — | 4:38 | |
+| 430 | T1 | The sadist is deep limbo | In | — | 4:42 | |
+| 432 | T1 | Contempt from below; self-contempt | In | — | 3:162 | |
+| 434 | T1 | It needs some people irredeemable | In | — | 1:118 | |
+| 444 | T0 | Feeling like "good people" keeps the door open | In | S | 2:190 | |
+| 466 | T0 | The darkest idea: round up the bad people | Thin | D | 3:200 | Move after 3:67 |
+| 476 | T0 | Two meanings of "righteous" | In (split) / Thin (example) | S | 2:172 | SBF absent |
+| 484 | T0 | Keep everything, give up the contempt? | In | S | 3:152 | |
+| 486 | T0 | Look at the contempt as it lands | In | D | 4:139 | "What's it made of" four times, four findings |
+| 488 | T1 | Culture still calls it righteous | In | — | 3:61 | |
+| 491 | T1 | Accurate sight gets harvested | In | — | 3:146 | |
+| 493 | T1 | Contempt for people with contempt; pity | In | — | 4:163 | |
+| 503 | T0 | Most activity is self-serving | In | B | 2:129 | Reader never checks own case |
+| 507 | T1 | The thrill of getting away with it | In | — | 2:219 | |
+| 512 | T1 | Easy in enemies, hard in me | In | — | 2:116 | |
+| 516 | T1 | The road to hell | Thin | — | 2:114 | Proverb only a TODO |
+| 524 | T1 | Just enough evidence to muddy the waters | In | — | 2:81 | |
+| 531 | T0 | Shadow spaces | In | S | 3:124 | "Shadow space" named mid-paragraph at 3:109 |
+| 536 | T1 | Biosphere collapse as self-deception | In (Picture) | — | 6:61 | |
+| 539 | T1 | Reality nudged to reflect otherness | In (Epilogue) | — | 6a:17 | |
+| 541 | T1 | Darkness at scale through what's built | Thin | — | 2:118 | |
+| 543 | T1 | Contempt for a neighbor, atrocity abroad | In (Picture) | — | 6:55 | |
+| 544 | T1 | A brilliant mind builds an admired trap | Thin | — | 6:47 | |
+| 546 | T1 | My default, like jaundice | In | — | 3:215 | |
+| 552 | T0 | The world held as lifeless stuff | Thin in body | S | 6:16 | Decision 4 |
+| 554 | T1 | The tree and the arch | Thin (Ch 6 only) | — | 6:6 | Moved there on purpose |
+| 556 | T1 | We are the world | In (Picture) | — | 6:63 | |
+| 558 | T1 | Reality inert, people held that way | Thin | — | 6:24 | |
+| 566 | T0 | Compassion is the nature of mind (I = the world = God = Love) | In | D | 5:75; 5:180 | Chain never said in one place; fix 19 |
+| 587 | T0 | The darkness neuters good: "who's to say?" | In | S | 2:143 | |
+| 591 | T0 | Who decides what's good | In | S | 2:178 | Practical form thin |
+| 593 | T0 | The light is recognized, never calculated | In | D | 2:212 | Use-on-the-powerful half missing |
+| 596 | T0 | Can't turn toward one and away from another | In | B | 4:158 | |
+| 597 | T0 | Love is the first look, held | In | S | 5:71 | |
+| 602 | T1 | The traditions at their best, usurped | In | — | 4:163 | |
+| 604 | T1 | Our contempt is a symptom | In | — | 3:55 | |
+| 606 | T1 | Tier III is the same road | In | — | 5:44 | Method note |
+| 611 | T1 | The diver: Darwin explains Love | In (Epilogue) | — | 6a:32 | |
+| 614 | T1 | Not reached by thinking harder | In | — | 5:22 | |
+| 620 | T0 | Nothing is lost, witnessed or not | In | B | 5:168 | Fix 19 |
+| 630 | T1 | Connection relegated to "the spiritual" | In (Picture) | — | 6:71 | |
+| 637 | T1 | Angry correction, then wiser | In | — | 4:103 | |
+| 639 | T0 | Turning toward doesn't feed it | In | S | 4:167 | |
+| 651 | T0 | Not-seeing isn't chosen; catching is trainable | In | S | 4:27 | Text diverges (decision 2) |
+| 654 | T0 | Held in Love so I could look | In | S | 5:68 | |
+| 663 | T0 | Naive to pretend they have light | Thin | S | 4:65 | |
+| 669 | T1 | Rage at the harm vs at the face | In | — | 4:131 | |
+| 671 | T1 | The near end: catch the wanting | In | — | 4:137 | |
+| 679 | T1 | Judgment day is now | In (Epilogue) | — | 6a:72 | |
+| 684 | T0 | Cruelty "works," and adds darkness | In | S | 1:102 | |
+| 689 | T1 | The second stranger as pointing-out | In | — | 1:67 | |
+| 693 | T1 | Putting it into language | In | — | preface:13 | Purpose, not claim |
+| 695 | T1 | Why nobody said it | In | — | 4:34 | |
+| 697 | T1 | Projective identification | Thin (appendix) | — | appendix-3:58 | Re-rate as an audit note |
+| 699 | T1 | Function decides placement | In | — | 1:5 | Method note |
+| 701 | T1 | Explicit and early differ | In | — | 1:5 | Method note |
+| 705 | T0 | It can't be told; you find you knew | In | S | preface:21 | |

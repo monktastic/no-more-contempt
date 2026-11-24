@@ -12,11 +12,13 @@ So to do wrong, something must turn me away from myself. Chapter 1 called it a n
 
 It doesn't just convince me to turn away: it is what drives my behavior once I *have* turned away. And while it's in control, it feels entirely like me. I don't feel less perceptive. I feel I've finally seen through my enemy. When someone questions my verdict, I defend it as I would defend myself. That person seems naive, stupid, or even evil themselves.
 
-Look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded, microplastics in my food. Is getting to hate my enemies worth all of that? When I face the whole bargain, I don't actually want it. Yet I keep taking my part. So the whole trick is to keep the rest out of my sight. The hiding is how it works: the darkness lives in the gaps of my awareness, uses my own thinking to justify itself, and can only operate unseen.
+Look at the bargain I'm defending. I get the pleasure of hating my enemy, the relief of knowing he's the bad one, a little more freedom to serve myself. In exchange, I help make a darker world: people more trapped, institutions more corrupt, life more degraded, microplastics in my food. Is getting to hate my enemies worth all of that? When I face the whole bargain, I don't actually want it. Yet I keep taking my part. So the trick is to keep the rest out of my sight. The hiding is how it works: the darkness lives in the gaps of my awareness, uses my own thinking to justify itself, and can only operate unseen.
 
 Later I may look back and think *whoa, that wasn't me.* But that's not guaranteed. When I begin to see the harm I've caused, I often feel not just remorse but shame: *what kind of person would do that?* Maybe this *is* the real me. That fear keeps me from addressing the harm, from admitting it, and from looking at what came over me. I don't think that's a coincidence. The darkness gives rise to that fear, because it needs me terrified of what I might be. Terrified, I won't look. And terrified, I go make evil people out of my enemies, which gives it somewhere to feed.
 
-So it benefits from being seen *as me*—by me, and by everyone else. It is extrinsic to my mind, but persists by convincing me it's intrinsic. Believing that, I defend it as myself. Others, believing it, treat me with contempt, and their contempt gives me another reason to dig in. I do the same to my enemy: I take it for *him*, hand him the verdict, and he stops looking too. Evil benefits from being seen as a presence, in either direction.
+So it benefits from being seen *as me*—by me, and by everyone else. It is extrinsic to my mind, but persists by convincing me it's intrinsic. Believing that, I defend it as myself.
+
+Others, believing it, treat me with contempt, and their contempt gives me another reason to dig in. I do the same to my enemy: I take it for *him*, hand him the verdict, and he stops looking too. Evil benefits from being seen as a presence, in either direction.
 
 Think back to the encounter in Chapter 1. When my enemy saw through one story, I had another ready. The verdict stayed fixed. The darkness acts with apparent intelligence because it has my attention, my reasons, my eyes to work with.
 
@@ -32,7 +34,11 @@ When I first saw this, it didn't come as a theory. It came as *oh, fuck*: someth
 
 This requires some care. We've all heard "that wasn't the real me!" used as a way to avoid responsibility, and I'm not claiming there's a literal entity sitting in our brains. The darkness is something we *do*. I am conscious of what I do in that state, and fully responsible for the harm I cause from it. It's somehow me and not me at once. But it is extrinsic to my true nature: while I am fully present, fully *turned toward*, it cannot exist. And that means it can be removed.
 
-If "parasite" makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. It doesn't need a tenant. But calling it a parasite, something in me that isn't me, isn't a comfort. It's what makes looking possible. And when I can predict it only by assuming it wants something, I'll say it wants it.
+If "parasite" makes you picture a creature, drop the picture and keep the behavior: a groove in attention so old that its shape looks like intent. It doesn't need a tenant. But calling it a parasite, something in me that isn't me, isn't a comfort. It's what makes looking possible. If I took it for what I am, every look would bring back *maybe this is the real me*, and I'd stop looking. And when I can predict it only by assuming it wants something, I'll say it wants it.
+
+Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it; that which makes us forget there was ever a light.
+
+It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
 
 I've found the word useful when working with people in difficult situations. When I recognize the sense in which their darkness isn't really them, I can try to get through to something deeper. When I'm convinced it is, I can't help but feel contempt.
 
@@ -42,13 +48,9 @@ The parasite is close to what some call "ego," but not in the sense of a big per
 
 On one level, I think I'm using my darkness to fight my enemies. On a deeper level, I'm using it to strengthen theirs, so I can judge them for it. But on the deepest level, I discover something far stranger: I'm not using it at all. It's using *all of us* as vehicles to spread itself.
 
-Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can learn to see.
-
 Have you ever felt the eerie sense that something in the very worst people *wants* you to hate them? That it's feeding on your hatred? See if you can find that sense now. What's harder to see is that we do it right back at them, and for the same reason.
 
-Sometimes I'll refer to *my* darkness (or my parasite). But I'll also say *the* darkness. That's only a way of talking, the way we say the dark is coming on without meaning that anything is arriving. It is that which turns us away from the light; that which usurps it, or masquerades *as* it; that which makes us forget there was ever a light.
-
-It's dangerous to mistake it for a "real thing." But it's equally dangerous to treat it as nothing at all.
+Mine hides itself from my own mind while revealing itself to you, thereby inviting you to hand over power to yours. If you accept this invitation, the two of ours then strengthen each other, each helping the other win more of its host's trust. It's like a secret handshake taking place beneath our threshold of awareness—and it's something we can learn to see.
 
 ---
 
@@ -58,13 +60,15 @@ Bring back the enemy from the two buttons. If you could really see that in them,
 
 What I saw was that part of me has always known this. But if anyone ever found out—especially *myself*—just think of what that would mean. I've been fighting for the wrong "team." What I fear isn't that I'm capable of doing what the bad people do—it's that I already am. Of course I had to hide that at any cost.
 
-This is why I *need* to know that evil people are fundamentally different—and why I must do everything in my power to keep them that way. And not just me: we, as a society, have a vested interest in knowing the worst people are nothing like us. That is why, on the rare occasion we do agree on who's evil—such as a child molester—we gather on social media and make horrific comments that we would recognize as evil in any other context. *Into the wood chipper, feet first!*
+This is why I *need* to know that evil people are fundamentally different—and why I must do everything in my power to keep them that way. And not just me: we, as a society, have a vested interest in knowing the worst people are nothing like us. That is why, on the rare occasion we do agree on who's evil—such as a child molester—we gather on social media and make horrific comments that we would recognize as evil in any other context. *Into the wood chipper, feet first!* Contempt may be the last evil we still praise as goodness.
 
 The message that we're sending them is something like:
 
 > *You will be humanity's sacrifice. The dumping ground for our collective shadow. I'm sorry to have to do this to you, but it's the only way to keep our hands clean. Good luck.*
 
 On some level, I think they know exactly what we're doing—and they're meant to. Because the worst thing they can do to us is not to attack. It is to *get better.*
+
+The whole arrangement is a version of the darkest idea there is: that if we could only round up the bad people, the rest of us would live in peace. The self-deception it takes to hold that thought guarantees the darkness stays behind, in full force, changing only its form.
 
 ---
 
@@ -89,7 +93,8 @@ The "secret handshake" doesn't happen only between enemies. It often happens bet
 
 Say a manager at work has humiliated a junior colleague in front of the team. Later, a friend and I are talking about it. We agree that it was cruel, and that someone should say something.
 
-Then I do an impression of the manager. My friend laughs, so I exaggerate the manager's mannerisms until he laughs harder.
+[TODO: Claude, November 24, after ChatGPT's note on limbo: the choice of what to imitate and, below, "Notice how fast that answer came…" are mine. Was: "My friend laughs, so I exaggerate the manager's mannerisms until he laughs harder."]
+Then I do an impression of the manager. I leave out the cruelty and go for his nervous laugh, the thing he'd least want noticed. My friend laughs, so I exaggerate it until he laughs harder.
 
 What are we enjoying?
 
@@ -102,6 +107,8 @@ Now imagine a second colleague interrupting: *I agree that what he did was wrong
 How would you feel?
 
 For me, there's a twinge of embarrassment, followed by defensiveness. *Did you not hear what he did?* I'd point back to the original cruelty. And the cruelty was real. That's what made it such good cover.
+
+Notice how fast that answer came. I didn't have to search for it. I'd been holding it ready since before the impression began, just as I'd known which laugh to pick.
 
 I deflect so that I don't have to look too carefully at what I was doing: using the situation to foster an ugly side of ourselves. We were in a kind of *joint limbo*: both secretly knowing what we were doing, and using each other as cover *not* to know. It was a shared *shadow space* in which both our parasites could come out and play. And when someone punctured that space, they both went back into hiding. On later reflection, neither of us will sense what really happened—how our parasites had been strengthening themselves.
 
@@ -140,7 +147,9 @@ At first it's subtle enough to deny, even to ourselves. We really think we're do
 
 Our parasites are collaborating as one. So are theirs. And the two aren't actually fighting.
 
-That isn't to say the two sides are the same, or equally right, or equally dangerous. They usually aren't, and we may well be on the side that's right. And when we feel contempt for them, we have often spotted evil. But the feeling is something else: a tug to be recruited into the thing we're looking at, using our accurate perception to do it.
+That isn't to say the two sides are the same, or equally right, or equally dangerous. They usually aren't, and we may well be on the side that's right. And when we feel contempt for them, we have often spotted evil.
+
+But the feeling is something else: a tug to be recruited into the thing we're looking at, using our accurate perception to do it.
 
 When their side produces a genuine monster, we're unable to recognize our own role in bringing him (or her) about. All our attention gets sucked into hating him, making it even harder to reflect on what's happening inside us. And when our side produces one, he is a savior who can do no wrong as long as he's smiting our enemies. We don't see how that hatred can just as easily turn against us, or how it's already harming us.
 
@@ -193,8 +202,6 @@ This, I think, is the source of the archetype of the *evil global conspiracy.* W
 The archetype is right about the shape—coordination with nobody coordinating—and wrong about the root. The moment it puts the root in a people, a cabal, a face, it has become the thing it was sensing.
 
 Some give it a name: Satan. Then, if they're not careful, anyone who doesn't abide by the "right" rules appears to be a minion of his—and we all know what happens next.
-
-It's a version of the darkest idea there is: that if we could only round up the bad people, the rest of us would live in peace. The self-deception it takes to hold that thought guarantees the darkness stays behind, in full force, changing only its form.
 
 I'm not saying that real conspiracies don't exist, or that we shouldn't fight them with everything we have. But the belief that I'm the noble one standing outside the great conspiracy, valiantly fighting it: that's the *ultimate* conspiracy.
 
