@@ -35,6 +35,7 @@ footer_content: "A draft, changing often. Tell me where it fails."
 # working material.
 exclude:
   - llms/
+  - scripts/
   - old/
   - scratch/
   - chapters/

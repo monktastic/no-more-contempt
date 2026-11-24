@@ -160,12 +160,14 @@ Inline notes go in the source as `[TODO: ...]` or `[TODO(name): ...]`. `publish.
 the site; `build-manuscript.sh` keeps them, so the working manuscript shows
 them. HTML comments (`<!-- TODO -->`) are stripped too, but the bracket form
 is easier to type and to grep.
-`build-manuscript.sh` builds `working-manuscript.md` from `long-book/`.
+The build scripts and `bookparts.py` live in `../../scripts/`, at the repo root;
+run them from anywhere (`../../scripts/publish.sh`).
+`build-manuscript.sh` builds `working-manuscript.md`, here, from `long-book/`.
 Generated output; never edit it.
 `build-short-manuscript.sh` builds the current book (`../claude-2026-11/short-book/`, in
 the order `bookparts.py` gives) plus the appendices twice:
-`short-manuscript.md` with the TODO notes kept, for auditing, and
-`short-manuscript-clean.md` with them stripped. Send readers the clean one.
+`../claude-2026-11/short-manuscript.md` with the TODO notes kept, for auditing, and
+`../claude-2026-11/short-manuscript-clean.md` with them stripped. Send readers the clean one.
 `publish.sh` generates the website from the manuscript files into the repo
 root: `index.md`, `brief/`, `book/`, `short/`, `map/`, `appendix/`. The long book
 (`book/`) and its map (`map/`) are published but kept out of the menu and the
@@ -437,7 +439,7 @@ repetition.
 **full audit** — only when I ask for it by this name. Never on your own
 initiative and never as a warm-up to something else. The procedure:
 
-1. `./build-manuscript.sh`, then read `working-manuscript.md` start to finish
+1. `../../scripts/build-manuscript.sh`, then read `working-manuscript.md` start to finish
    before checking anything. First impressions in a paragraph.
 2. Every claim in the manuscript against `argument.md`. Disagreements are a
    fault in one of them; say which and why.

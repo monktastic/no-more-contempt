@@ -1,12 +1,14 @@
 #!/bin/sh
-# Concatenates the current book (../claude-2026-11/short-book/) plus the
+# Concatenates the current book (llms/claude-2026-11/short-book/) plus the
 # appendices, in the order bookparts.py gives the site and the downloads.
-# Writes two generated files; edit the sources, never these:
+# Writes two generated files into llms/claude-2026-11/; edit the sources, never these:
 #   short-manuscript.md        for auditing: inline [TODO] notes and file markers
 #                              kept; holding pens stripped.
 #   short-manuscript-clean.md  for sending to readers: TODO notes and build
 #                              comments stripped.
-cd "$(dirname "$0")" || exit 1
+SCRIPTS=$(cd "$(dirname "$0")" && pwd) || exit 1
+cd "$SCRIPTS/../llms/claude-2026-11" || exit 1
+export PYTHONPATH="$SCRIPTS"
 out=short-manuscript.md
 clean=short-manuscript-clean.md
 {

@@ -62,9 +62,9 @@ jobs:
 
       - name: Generate the pages and the downloads
         run: |
-          ./llms/claude-2026-08/publish.sh
-          ./llms/claude-2026-08/check-orphans.sh
-          ./llms/claude-2026-08/make-downloads.sh
+          ./scripts/publish.sh
+          ./scripts/check-orphans.sh
+          ./scripts/make-downloads.sh
 
       - uses: actions/configure-pages@v5
 

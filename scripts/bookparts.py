@@ -12,7 +12,9 @@ AUTHOR = 'Aditya Prasad'
 # What the site's menu and the downloads follow: Start here, the November book
 # (llms/claude-2026-11/short-book/) and the appendices, which serve every version
 # of the book and so live beside the current one.
-CURRENT = pathlib.Path(__file__).resolve().parent.parent / 'claude-2026-11'
+REPO = pathlib.Path(__file__).resolve().parent.parent  # scripts/ sits at the repo root
+CURRENT = REPO / 'llms' / 'claude-2026-11'
+LONG_BOOK = REPO / 'llms' / 'claude-2026-08' / 'long-book'  # the hidden long book
 CURRENT_BOOK = CURRENT / 'short-book'
 START_HERE = CURRENT / 'start-here.md'
 BRIEF = CURRENT / 'brief.md'  # the argument in a couple of thousand words, its own page

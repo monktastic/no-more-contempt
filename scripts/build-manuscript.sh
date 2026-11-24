@@ -1,7 +1,7 @@
 #!/bin/sh
 # Concatenates the current book into working-manuscript.md for auditing.
 # Every source lives in long-book/. Do not edit the output; edit the sources.
-cd "$(dirname "$0")" || exit 1
+cd "$(dirname "$0")/../llms/claude-2026-08" || exit 1  # the long book and its output live there
 out=working-manuscript.md
 {
   printf '<!-- Built %s by build-manuscript.sh. Generated file; edit the sources. -->\n' "$(date +%F)"

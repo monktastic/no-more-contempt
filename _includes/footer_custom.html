@@ -1,7 +1,7 @@
 {%- comment -%}
   The way on to the next page, the build stamp, and the way to say where a
   page failed. prev_*/next_* come from the page's front matter, which
-  llms/claude-2026-08/publish.sh writes from the reading order; _data/build.yml
+  scripts/publish.sh writes from the reading order; _data/build.yml
   is written by the same script. The theme renders this inside the page footer.
 {%- endcomment -%}
 {%- if page.prev_url or page.next_url %}
