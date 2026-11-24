@@ -115,9 +115,7 @@ I sense his hardening, and feel a brief flicker of satisfaction, vindication, ev
 
 > *Ugh, I knew it. People are even worse than I thought.*
 
-If he owned what he'd done instead, and began to make amends, a tiny part of me would feel *disappointed*.
-
-If I'd looked carefully, I'd have seen my role in causing it. So I didn't—and that *was* my role in causing it.
+Had he owned what he'd done instead, and begun to make amends, a tiny part of me would have felt *cheated*. If I'd looked carefully, I'd have seen my role in causing his hardening. So I didn't—and that *was* my role in causing it.
 
 Any doubt I had about him is now erased, so I'll feel more emboldened to trust my own justifications. Who cares about my own minor misdeeds when there's *real* evil out there to fight?
 
@@ -131,10 +129,9 @@ Say you had two buttons in front of you. One delivers them the vengeance they so
 
 Now think of the last time you watched someone you despise get what was coming to him. Was the pleasure only in the harm stopping, or also in the punishment itself?
 
-Something in me finds it primally, viscerally satisfying to make bad people suffer. I don't want to admit that urge exists in me, but it's there. I tell myself it's just part of being human. Proof I'm one of the good ones. And it's not like I'll ever actually act on it. It's confined to my skull, so what harm could it possibly cause?
-[TODO: And for that satisfaction to feel okay, and not *evil*, I need to know they're truly beyond help. I'd feel sick to my stomach if I found out they still had the capacity for good, so I have to rule it out. ]
+Something in me finds it primally, viscerally satisfying to make bad people suffer—*over and above* any good it might do; any justice it might serve. I don't want to admit that dark urge exists in me, but it's there. I tell myself it's just part of being human. And it's not like I'll ever actually act on it. It's confined to my skull, so what harm could it possibly cause?
 
-And that lie is exactly what lets it leak out my skull, through my tone and gaze, provoking the "bad people" into becoming more of what I need them to be.
+That lie is exactly what lets it leak out my skull, through my tone and gaze, provoking them into becoming more of what I need them to be.
 
 [TODO: It's more than this. I'm provoking people in general into becoming bad.]
 
@@ -163,13 +160,15 @@ If you've been on his end, you know how it closes around you. Deny it, and you'r
 
 If I let myself see how I'd provoked his reaction, I couldn't sincerely take it as proof of what he'd been all along. I had to be present enough to plant the evidence, and absent enough not to recognize I planted it. By doing so, I nudged him one step closer to being the kind of person who can only be dealt with in *one way*—a way that part of me secretly craves.
 
-This is how my need to be different and special gets itself met. By revealing itself to my enemies while hiding itself from me, it turns them into what it needs them to be while letting me feel righteous for it. Part of me knows that this self-deception is the same basic trick they use to do wrong, but I prevent myself from seeing it so that I can keep pretending I'm different.
+This is how my need to be different and special gets itself met. By revealing itself to others while hiding itself from me, it shapes them into what it needs them to be while letting me feel righteous for it. I can't take pleasure in malicious harm unless I know my target deserves it—that they're truly beyond help. If I knew they still had the capacity for good, I'd be sick to my stomach. This is how I rule out that possibility.
+
+Part of me knows that this self-deception is the same basic mechanism that allows them to do wrong, but I prevent myself from seeing it so that I can keep pretending I'm different.
 
 I desperately want to call this behavior _unconscious_ (if I can admit to it at all). Only *bad people* knowingly cause harm. If I've ever done it, it was an honest mistake, or I didn't really know. That's why I deserve understanding, and they deserve contempt.
 
 This asymmetry is what drives the whole thing. My darkness is hidden from me but revealed to him, enticing him to attack me for it, without realizing what he's actually doing. Except that part of him *does* realize it, because that's *his* darkness revealing itself to me, making me feel righteous in doing it right back.
 
-[TODO: Much of what's written about the shadow, since Jung, still calls it "unconscious." The word comforts me: no one can blame me for what I couldn't see. But it also tells me there's no use looking, when it was within reach the whole time.]
+Much of what's written about the shadow, since Jung, still calls it "unconscious." The word comforts me: no one can blame me for what I couldn't see. But it also tells me there's no use looking, when it was within reach the whole time.
 
 ---
 ## The Mechanism
