@@ -35,6 +35,9 @@ Why should betraying my conscience feel like going against *myself*?
 
 Can you imagine the reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature?
 
+[TODO: Claude, November 24: the hiding check, seeding Chapter 5's "conscience never runs backward" paragraph.]
+And have you ever had to hide from your conscience in order to be kind?
+
 If in anything that follows, you catch yourself thinking *I'm a terrible person*, hold off on that judgement. It turns out to be one more instance of the thing we're studying. It's no truer of you than of anyone else, and no more useful.
 
 ---

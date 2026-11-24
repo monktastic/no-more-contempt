@@ -20,7 +20,7 @@ When I treat someone with contempt, part of me knows I'm being cruel, and I show
 
 In this way, contempt is a recursive trap. It relies on a state of mind where I both know something and don't. My enemies are in the same state, and that, too, I both know and don't. This is what the book spells out.
 
-Why can't I see any of this while I'm doing it? Because something is warping my view, and it's a trick: I would never do this if I could see clearly. That warping is our real enemy. It's what evil *is*. It bends what I perceive and believe so that I can't see what I'm doing.
+Why can't I see this while I'm doing it? Because something is warping my view, and it's a trick: I would never do this if I could see clearly. That warping is our real enemy. It's what evil *is*. It bends what I perceive and believe so that I can't see what I'm doing.
 
 The license I give him can make it easier for him to justify hurting someone who had nothing to do with us. It spreads among allies, too. When I mock a shared enemy with a friend, we both leave a little more practiced, sure we were only bonding.
 
@@ -30,13 +30,13 @@ Until I recognize the warping in myself, I can't understand what's going on in t
 
 Two questions, the first much smaller than the second.
 
-Have you come across this kind of recursive signal in your field? The four levels in [Appendix 1](https://www.nomorecontempt.org/appendix/1/) (harm, hypocrisy, the trap, the seal) lay out the part I'm asking about.
+Have you come across this kind of recursive signal in your field? The four levels in [Appendix 1](https://www.nomorecontempt.org/appendix/1/) (harm, hypocrisy, the trap, the seal) lay it out in full, gory detail.
 
 And if you think it's new, or at least interesting, would you help me find it a home? That might be Greater Good, or an editor or publisher you trust. The book is still rough and in desperate need of an editor, but the shape is there.
 
 The argument, compressed, is at https://www.nomorecontempt.org/brief/. The book itself works on the reader quite differently, and starts at https://www.nomorecontempt.org/short/.
 
-One more thing, so it doesn't surprise you: the book eventually goes where Pollan's insight points, to the sense that we're all, at bottom, one. I mark that as what I believe rather than what I can show, and the claim I'm asking you about doesn't depend on it.
+One more thing, so it doesn't surprise you: the book eventually goes where Pollan's insight points, to the sense that we're all, at bottom, one. I think it best explains why we can turn away from our sameness but never stop knowing it, and I argue for it, but I mark it as belief, and the claim I'm asking you about doesn't depend on it.
 
 Warmly,
 Aditya

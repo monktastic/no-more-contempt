@@ -7,6 +7,9 @@ Somebody cuts down a tree that has stood for a thousand years, for fun. Somebody
 
 Notice what you feel, before you work out who has been deprived of anything. The tree has no conscience; the arch has no inside. Yet for me, the violation reaches the same place the faces did. Something was there in its own right, and someone delighted in treating it as nothing. If it doesn't reach that place in you, take what follows as my report.
 
+[TODO: Claude draft, November 24, at Aditya's word in chat: ties the tree to Chapter 5's picture of where the common knowledge comes from. Appendix 1's "What oneness adds" has the full case.]
+That's part of why I hold the picture from Chapter 5. At the stranger's face, I could have thought the care came from recognizing someone looking back. At the tree, nobody was looking back, and the same care was there. The picture makes sense of that for me.
+
 I can't capture it by saying I'm concerned for wellbeing. An arch has no wellbeing. Nor do I mean that everything must be left untouched: a lion eats a zebra. But the care doesn't stop where the category "living thing" stops. The world doesn't become disposable there.
 
 Yet a forest can come down to meet a quarterly number, and the rest of us buy what it becomes without a second thought. What happened to the feeling at the tree?
