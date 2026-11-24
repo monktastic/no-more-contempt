@@ -130,9 +130,10 @@ I don't have a plan for getting a civilization back, and I'd only trust one that
 [TODO: Claude, November 23: the next three paragraphs were Chapter 5's ending, unchanged. Gemini read them as cooling the trip wherever they sat in that chapter; here they answer this section's question, what gets a civilization back.]
 When a person touches this insight once or twice, they often come back shouting it from the rooftops, shaking people by the shoulders in hopes they'll get it. But that's not what tends to work.
 
-What works, I think, are people like the second stranger: those who live it through and through, and whose every action embodies it. We can't quite pin down what it is they're communicating, but that turns out not to be a problem at all.
+What works, I think, are people like the second stranger: those who live it through and through, and whose every action embodies it. We can't quite pin down what it is they're communicating, but that turns out not to be a problem at all. In a sense, it's the whole point.
 
-In a sense, it is the whole point.
+[TODO: Claude draft, November 24, at Aditya's word: the Light's handshake, from his key-points F1s (index "Just like the darkness can handshake with itself in others, our Light can, too…" and October 17's "the secret handshake of the Light: what the second stranger did… Your only allegiance is to the Light") and argument.md §12. Put it in your voice.]
+The darkness in two people can shake hands. So can the Light. That's what the second stranger did with you. He went after what you'd done, and all the while his Light was reminding yours that it had a partner against your shared nemesis. That can happen in the middle of a fight, however fierce. It only asks that your allegiance be to the Light, not to a team.
 
 When you're actually fighting the darkness, it doesn't feel like fighting. It feels like love, like pulling someone out of a darkness they didn't know they were carrying, even if some part of them did.
 

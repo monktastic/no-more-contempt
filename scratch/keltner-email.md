@@ -8,7 +8,7 @@ I've spent the last few years writing a book about contempt. I once worked as an
 
 The claim is that contempt is a social signal whose function is to provoke, and it only works because the target reads the sender's self-deception. On some level, the sender is counting on that. If that's right, it may help explain why contempt does so much damage, in marriages (Gottman's finding) and in politics.
 
-The book starts from something Michael Pollan said in your 2019 conversation at Berkeley: that on LSD he felt "love is the most important thing in the universe." I've tried to work out what that would mean if it were literally true, including toward people we think are evil. 
+The book starts from something Michael Pollan said in your 2019 conversation at Berkeley: that on LSD he felt "love is the most important thing in the universe." I've tried to work out what that would mean if it were literally true (because I've experienced it myself), including toward people we call "evil."
 
 Here's the short version.
 

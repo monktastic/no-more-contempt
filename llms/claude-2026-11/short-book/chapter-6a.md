@@ -48,9 +48,7 @@ From this perspective, we are keeping each other from returning Home because we'
 Part of me always knew where the darkness was headed. Chapter 1's deepest layer was that I needed my enemy to carry my darkness. Under that was one more: my mind isn't separate from the world, so it was never only reaching him. Every turn added to the darkness of the whole, and a world that has forgotten the Light was what it had been after all along. That's why I see one Devil and not many. The darkness in every mind is after the same result.
 
 [TODO: Claude, November 15, on Aditya's word in chat ("the conspiracy never solidifies into a single thing we can capture. It's a distributed system always lurking just out of sight. That's what the Devil IS"): the second sentence was "The ones that are most deeply buried never quite make it all the way to full physical manifestation—they lurk in the shadows of reality, where people sense their presence but attribute different meaning to it, depending on disposition." It sat badly beside "knowledge of my wrongdoing always takes physical shape." The conspiracy paragraph gains "That's what I mean by the Devil."]
-Ideas that live in our collective shadow manifest "externally," taking shape in our physical reality. The ones that are most deeply buried never solidify into a single thing we can capture. They stay distributed, always lurking just out of sight, where people sense their presence but attribute different meaning to it, depending on disposition.
-
-The most deeply buried is the sense of the *evil global conspiracy.* Our collective self-deception, the background hum, takes on a structure that, for all intents and purposes, functions exactly the way you'd expect a real one to function, but that will never quite take the shape we desperately want, where we can violently punish the people in charge. That's what I mean by the Devil.
+It works like a conspiracy, but it never takes the shape we want: a cabal we could catch and punish.
 
 I have met the people in charge, and they are I.
 

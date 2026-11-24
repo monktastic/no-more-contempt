@@ -101,7 +101,7 @@ That was my experience. The smaller opening I can offer you is the one we've bee
 ---
 
 [TODO: Claude, November 23: the mystics now follow the trip instead of leading to it. "is why I believe it" became "is why I believe what I saw". The Dalai Lama and "Love can be fierce" moved to Chapter 4's "Kind, Not Nice".]
-That sense of having always known is why I believe what I saw. Mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
+That sense of returning to something I had always known is why I believe what I saw. Mystics across the ages have reported similar findings, and many are remarkably consistent, so I'll share some here.
 
 Meister Eckhart, a fourteenth-century friar, was tried for heresy for sayings like this one:
 
