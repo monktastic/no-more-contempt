@@ -68,7 +68,9 @@ But I don't think that's true. I think I'm using that argument to avoid seeing s
 
 Start with an act that has no living victim left to hurt.
 
-Ask a soldier whether it's wrong to desecrate an enemy's corpse, even if nobody is watching and no one will ever find out. Most will say yes, without hesitation. But why? A corpse can't be hurt, and his loved ones will never know.
+Ask a soldier whether it's wrong to desecrate an enemy's corpse, even if nobody is watching and no one will ever find out. Most will say yes, without hesitation.[^seals] But why? A corpse can't be hurt, and his loved ones will never know.
+
+[^seals]: Some of the hardest soldiers alive have answered it. After one of their own desecrated an enemy's body in Afghanistan, as many as forty SEAL Team 6 operators met in a tent to talk it over. "35 guys nodded their heads saying this is not who we are," one of them later told a reporter. "We shoot 'em. No issues with that." Mutilation, he said, "isn't part of the game." ([*The Intercept*, January 10, 2017](https://theintercept.com/2017/01/10/the-crimes-of-seal-team-6/).)
 
 Look what it does to the soldier. It encourages him to degrade life. Not just the life of his enemy, but *life in general.*
 

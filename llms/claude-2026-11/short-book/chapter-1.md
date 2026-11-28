@@ -35,7 +35,6 @@ Why should betraying my conscience feel like going against *myself*?
 
 Can you imagine the reverse: a bad person who does secret acts of kindness, and then lies awake at night, wracked with remorse for having gone against his evil nature?
 
-[TODO: Claude, November 24: the hiding check, seeding Chapter 5's "conscience never runs backward" paragraph.]
 And have you ever had to hide from your conscience in order to be kind?
 
 If in anything that follows, you catch yourself thinking *I'm a terrible person*, hold off on that judgement. It turns out to be one more instance of the thing we're studying. It's no truer of you than of anyone else, and no more useful.
@@ -59,7 +58,7 @@ Now imagine a different stranger had caught you—but instead of treating you wi
 
 Would you have dug in? Vowed revenge?
 
-The problem wasn't being caught. In fact, he could have been *harsher* than the first person—said things that stung more, in front of more people, left you less room to wriggle out—and it still wouldn't have made you dig in the way the first one did.
+The problem wasn't being caught. In fact, he could have been *harsher* than the first person—said things that stung more, in front of more people, left you less room to wriggle out.
 
 Something about that kind of behavior prevents us from latching onto the person's flaws as an excuse to avoid looking at our own. But what, exactly?
 
@@ -69,7 +68,7 @@ You might have disagreed with him on nearly everything—politics, religion, cre
 
 I had someone like this once. A teacher who caught me stealing. His look was fierce, and I braced for the verdict on my being, and it never came. He was standing for something, and searching my face for some sign that I knew it too. That made me look for it in myself. I knew I couldn't win against it—and more importantly, I didn't want to.
 
-What is that thing that two people who agree on nothing can both be serving?
+What is it that two people who agree on nothing can both be serving?
 
 ---
 ## The Encounter
@@ -141,11 +140,9 @@ That lie is exactly what lets it leak out my skull, through my tone and gaze, pr
 ---
 ## The Need
 
-The reason I don't have to argue myself into doing the right thing is that in the absence of fears or justifications, it's what I naturally desire. Check if that's true of you, too. 
+Earlier I asked why going against my conscience feels like going against _myself_. When I finally own up to a wrong, it feels like putting down something I’ve been carrying. I stop propping up the excuses, and the part that knew is still there. It hurts to face what I’ve done, and yet I feel like I'm coming back to myself.
 
-Earlier I asked why going against my conscience should feel like going against *myself*. This is why. In a sense, it's the deepest part of me; what remains in the absence of self-deception. We can also call it my *better nature*.
-
-It needs no rules; it's the part of me that sees myself in others. And when I can see myself in them, it's much harder to harm or use them for my own ends. That's why I must *turn away* from it to cause harm.
+I call that deepest part of myself my _better nature_. It needs no rules; it's the part that sees myself in others. And as long as I can see myself in them, I can’t bring myself to treat them as though their pain doesn’t count. That's why I must *turn away* from it to cause harm.
 
 Part of what it sees in others is that they, too, can only cause harm by *turning away*. But when I'm turned away myself, I can no longer see this. My enemies look defective, as if they were just bad. Harming them then feels righteous.
 
@@ -182,19 +179,25 @@ Now look at how that dark message got through.
 
 I conveyed it entirely through my tone, my gaze, my manner. As far as the words went, I was just “holding him to account.” That gave me plausible deniability, even to myself. And yet I needed him to recognize it for what it was. I needed him to know I _meant_ him to see it. 
 
-If it had felt like a slip, he might have forgiven me or felt sorry for me, which was the opposite of what I needed. But if he’d felt I was fully _aware_ of what I was doing—if I’d let myself know it—his accusation would have had a place to land.
+If it had felt like a slip, he might have forgiven me or felt sorry for me, which was the opposite of what I needed. It had to read like a signal, one I meant to send, even as I didn't let myself see it.
 
-How could I communicate all that, through tone and gaze, to a complete stranger?
+I'm showing him that I know exactly how he does wrong—by hiding from himself the weight of what he's doing—because I'm doing it to him right now. And the hiding isn't just how I get away with my wrong. It's what makes it so much worse. If I owned what I was doing, everyone would see I'm the bad guy. That wouldn’t give him the license I need him to take: *If even the so-called good people will do the thing when they can get away with it, then who’s to say it’s wrong when I do it?*
 
-Because neither of us had to teach the other what it meant to turn away. I knew it from the inside, and I knew he did too. He knew the same about me, and knew I knew it about him, and so on. The look only had to _evoke_ that common knowledge, by showing him I was doing it right then: that I knew better and wouldn’t let myself know, and that I was counting on his seeing that, to make him want to turn away too. I'd told myself mine was the *good* kind of darkness, but it relied on us both knowing that there is no good kind.
+How could I say all that with a look? Only because we both already know how anyone does wrong—by turning away—and know that the other knows, and that they know that, etc. The look only had to evoke it.
 
-My claim that he was a different kind of thing depended on the shared knowledge that we weren’t. What I had to turn away from in myself was the very thing I was reaching in him. **I was making our sameness felt so he could feel me betray it.**
+And if we both know he has to turn away to do wrong, we both know there’s something in him to turn away from. It’s the same thing I’m turning away from right now. I'm knowingly harming someone who's capable of better. *That* is what the "good people" are capable of, and I need him to know it. It's what the "full weight" of my judgment was conveying: *yes, this is impossibly dark—but you're the one who chose the darkness, and now you're going to stay there.*
 
-I was in limbo about provoking him—and revealing that I was in limbo was itself the provocation. It left him nothing to quote. The look was the deed. If he tried to name what was happening, I could make him sound unhinged, and we both knew that, too.
+I'd told myself mine was the *good* kind of darkness, but it relied on us both knowing that there is no good kind.
 
-So when the first stranger caught you, you were sensing something real. Something in him wanted you to recognize what you were looking at, and to know it wasn’t an accident.
+My claim that he was a different kind of thing depended on the shared knowledge that we are the *same* kind of thing. What I had to turn away from in myself was the very thing I was reaching in him. **I was making our sameness felt so he could feel me betray it.**
 
-It’s an **open secret** that we’re the same kind of thing as the people we hate. On some level we both know it, and know that the other knows it, and so on. Without that common knowledge, our contempt for them wouldn’t be coherent. (Appendix 1 spells this out.)
+I was in limbo about provoking him—and revealing that I was in limbo was itself the provocation. It left him nothing to quote, and his accusation nowhere to land. The look was the deed. If he objected to my tone that was designed to provoke that objection, I could use it against him: *you're tone policing. Typical.* I wanted him to see that I already had that answer ready. It's like a maddening hall of mirrors: any attempt to step outside it just puts him deeper into it.
+
+Underhanded? Maybe. But *I'm the good guy.* I've just proven it.
+
+When the first stranger caught you, you were sensing something real. Something in him wanted you to recognize what you were looking at, and to know it wasn’t an accident.
+
+It’s an **open secret** that we’re the same kind of thing as the people we hate. Without that common knowledge, our contempt wouldn’t be coherent. (Appendix 1 spells this out.)
 
 That doesn’t mean we agree about what’s good, or that we’re equally culpable. It just means we know what it is to *orient* toward goodness, and that turning away means we've departed from it. That's why I never think *my enemy is turned away from his better nature, that's good for the world*. But whatever he does while turned toward it, I *do* trust to be aimed at the good, even if it misses.
 
@@ -216,17 +219,19 @@ On the surface, it felt entirely righteous: I was just holding a bad person to a
 
 I was speaking directly to his innocent part—a part I *knew* could be rescued—and letting him know I could smother it.
 
-That state felt *malevolent*. In a flash, I saw how people could commit genuine evil and feel fine about it, just by hiding the weight of it from themselves. But worse, I saw that I had always known this, and had been using it to my advantage, in exactly the same way as the people I hated. That's what I had been showing him: *the darkness that lives in you lives in me, too—and I can use mine against you while getting away with it.*
+That state felt *malevolent*. In a flash, I saw how people could commit genuine evil and feel fine about it, just by hiding the weight of it from themselves. But worse, I saw that I had always known this, and had been using it to my advantage, in exactly the same way as the people I hated.
 
 No wonder he had dug in.
 
-There's another half that's harder to describe, because it can sound like an excuse. In a sense, my state had been utterly innocent. Not as in blameless. But I hadn't turned away out of malice, or because I'm a bad person. I had done it out of fear; out of an innocent desire to know myself as good. I had lost contact with the aspect of myself that *is* good—my better nature—and in that profound confusion, was willing to sacrifice another being, to prove to myself and the world that I still *was* good.
+There's another half that's harder to describe, because it can sound like an excuse. In a sense, my state had been innocent. Not as in blameless. But I hadn't turned away out of malice, or because I'm a bad person. I had done it out of fear; out of an innocent desire to know myself as good. I had lost contact with the aspect of myself that *is* good—my better nature—and in that profound confusion, was willing to sacrifice another being, to prove to myself and the world that I still *was* good.
 
 This is what I find hardest to hold. Evil doesn't have to originate from some kind of *bad essence*. It only requires a certain kind of confusion. What begins as fear or pain deep in our minds can emerge as malevolence. When I recognize it in another person, a deep part of me *knows* what's happening in them, and that I can be of service in ending it, even if I don't know how. But another part sees it as a golden opportunity to hide my own darkness in them.
 
 The underlying innocence in no way excuses my behavior. I'm still fully responsible for the harm I've caused while turned away from it, and it's my duty to stop. Nor is it your duty to be *nice* to me if I do it again. But it does reveal another way of dealing with evil. It has to do with never losing contact with the deepest part of myself. Only by doing that can I recognize the darker aspect of my mind for what it is: a lie.
 
-Even though the whole thing was conscious, I doubt I would have been able to really *see* it in that moment, even if someone had been kind enough to point it out. What else might be hiding out in your conscious mind, right now, that you are unable to see?
+Here's the strangest part: even though I was doing it consciously, I probably wouldn't have been able to see it even if someone had pointed it out. I was too invested in believing I was only holding him to account. Seeing how my own behavior could be conscious, intentional, and yet hidden is what finally allowed me to appreciate what might be happening in my enemies—and why hating them for it never made any sense.
+
+What else might be hiding out in our conscious minds, right now, that we won't let ourselves see?
 
 ---
 ## The Quiet Kind
